@@ -1,0 +1,32 @@
+name: Update Sliv Data
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+  workflow_dispatch:        # Allow manual triggering
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and update JSON
+        run: |
+          # Get current IST time (UTC+5:30)
+          IST_TIME=$(TZ="Asia/Kolkata" date +"%I:%M %p %d-%m-%Y")
+          
+          # Fetch the JSON data from API
+          curl -s https://binge-projects.vercel.app/API/sliv.php > sliv/data.json
+          
+          # Update only the "last update time" field
+          jq --arg time "$IST_TIME" '."last update time" = $time' sliv/data.json > tmp.json && mv tmp.json sliv/data.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add sliv/data.json
+          git commit -m "Auto-update: Updated last update time [skip ci]"
+          git push
