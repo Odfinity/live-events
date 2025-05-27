@@ -12,23 +12,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # Required for push permissions
+          fetch-depth: 0  # Get full git history
+          token: ${{ secrets.GITHUB_TOKEN }}  # Ensure push permissions
 
-      - name: Fetch and update JSON
+      - name: Force Update Timestamp
         run: |
-          # Get current IST time (UTC+5:30)
+          # Get current IST time
           IST_TIME=$(TZ="Asia/Kolkata" date +"%I:%M %p %d-%m-%Y")
           
-          # Fetch the JSON data from API
-          curl -s https://binge-projects.vercel.app/API/sliv.php > sliv/data.json
+          # Always update the timestamp (create file if missing)
+          mkdir -p sliv
+          if [ ! -f sliv/data.json ]; then
+            echo '{"last update time":"initial"}' > sliv/data.json
+          fi
           
-          # Update only the "last update time" field
-          jq --arg time "$IST_TIME" '."last update time" = $time' sliv/data.json > tmp.json && mv tmp.json sliv/data.json
+          # Update timestamp regardless of other content
+          jq --arg time "$IST_TIME" '."last update time" = $time' sliv/data.json > tmp.json
+          mv tmp.json sliv/data.json
 
-      - name: Commit and push changes
-        run: |
+          # Force add and commit
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add sliv/data.json
-          git commit --allow-empty -m "Timestamp update: $(TZ='Asia/Kolkata' date +'%I:%M %p %d-%m-%Y')"
+          git add -f sliv/data.json
+          git commit --allow-empty -m "Force timestamp update: $IST_TIME"
           git push
