@@ -28,5 +28,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add sliv/data.json
-          git commit -m "Auto-update: Updated last update time [skip ci]"
+          git commit -m "Fetch Latest Sony Events data"
           git push
