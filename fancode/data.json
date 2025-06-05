@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:49 AM 06-06-2025",
+  "last update time": "01:01 AM 06-06-2025",
   "matches": [
     {
       "id": 125905,
@@ -16,20 +16,6 @@
       "startTime": "10:45:00 PM 05-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
       "adfree_url": null
-    },
-    {
-      "id": 125401,
-      "event_category": "Cricket",
-      "title": "Thunder Cats vs MEC Study Group (KCC T20 Challengers A League, 3rd Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125401_5188_MEC_THN_fc-web.jpg",
-      "team_1": "Thunder Cats",
-      "team_2": "MEC Study Group",
-      "status": "LIVE",
-      "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-      "match_name": "Thunder Cats vs MEC Study Group",
-      "startTime": "10:00:00 PM 05-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/vKRyegacTg-iCWBjb6z25Q/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/125401_english_hls_68391ta-di_h264/index.m3u8"
     },
     {
       "id": 127436,
@@ -116,6 +102,20 @@
       "adfree_url": "https://dai.fancode.com/primary/127830_english_hls_51002ta-di_h264/index.m3u8"
     },
     {
+      "id": 125402,
+      "event_category": "Cricket",
+      "title": "Chennai Kings CA vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125402_5188_CHK_RLC_fc-web.jpg",
+      "team_1": "Chennai Kings CA",
+      "team_2": "Royal Lions CC",
+      "status": "LIVE",
+      "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+      "match_name": "Chennai Kings CA vs Royal Lions CC",
+      "startTime": "01:15:00 AM 06-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/hZUpxgkGTDmZFPLE7CNYOw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/125402_english_hls_1371ta-di_h264/index.m3u8"
+    },
+    {
       "id": 128309,
       "event_category": "Golf",
       "title": "Main Feed - Day 1 vs TPC Toronto (RBC Canadian Open)",
@@ -128,20 +128,6 @@
       "startTime": "04:15:00 PM 05-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/0rI65DfcTUG3s5FNSn4EkA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128309_english_hls_53998ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 127983,
-      "event_category": "Golf",
-      "title": "Day 1 vs The International (KLM Open, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KLM-Open-old.jpg",
-      "team_1": "Day 1",
-      "team_2": "The International",
-      "status": "LIVE",
-      "event_name": "KLM Open, 2025",
-      "match_name": "Day 1",
-      "startTime": "04:30:00 PM 05-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/t71WLJNLTvOL6eXopuuzUA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127983_english_hls_82450ta-di_h264/index.m3u8"
     },
     {
       "id": 128312,
@@ -186,20 +172,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128310_english_hls_83214ta-di_h264/index.m3u8"
     },
     {
-      "id": 124645,
-      "event_category": "Baseball",
-      "title": "Atlanta Braves vs Arizona Diamondbacks (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v3/124645_CASACARDS_APP.png",
-      "team_1": "Atlanta Braves",
-      "team_2": "Arizona Diamondbacks",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Atlanta Braves vs Arizona Diamondbacks",
-      "startTime": "09:45:00 PM 05-06-2025",
-      "dai_url": "https://dai.fancode.com/primary/124645_english_hls_66498ta-di_h264/index.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/124645_english_hls_66498ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128308,
       "event_category": "Golf",
       "title": "World Feed - Day 1 vs TPC Toronto (RBC Canadian Open)",
@@ -212,6 +184,20 @@
       "startTime": "12:30:00 AM 06-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/7lZefkp4TXC_aX4Ix7MFBw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128308_english_hls_34717ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128345,
+      "event_category": "Baseball",
+      "title": "San Francisco Giants vs San Diego Padres (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128345_CASACARDS_APP.png",
+      "team_1": "San Francisco Giants",
+      "team_2": "San Diego Padres",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Francisco Giants vs San Diego Padres",
+      "startTime": "01:15:00 AM 06-06-2025",
+      "dai_url": "https://dai.fancode.com/primary/128345_english_hls_59921ta-di_h264/index.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128345_english_hls_59921ta-di_h264/index.m3u8"
     },
     {
       "id": 128162,
@@ -236,18 +222,6 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Scotland vs Netherlands",
       "startTime": "03:30:00 PM 06-06-2025"
-    },
-    {
-      "id": 125402,
-      "event_category": "Cricket",
-      "title": "Chennai Kings CA vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125402_5188_CHK_RLC_fc-web.jpg",
-      "team_1": "Chennai Kings CA",
-      "team_2": "Royal Lions CC",
-      "status": "UPCOMING",
-      "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-      "match_name": "Chennai Kings CA vs Royal Lions CC",
-      "startTime": "01:15:00 AM 06-06-2025"
     },
     {
       "id": 126529,
@@ -298,18 +272,6 @@
       "startTime": "06:00:00 AM 06-06-2025"
     },
     {
-      "id": 127945,
-      "event_category": "Football",
-      "title": "Paraguay vs Uruguay (CONMEBOL World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PAR_URU-old.jpg",
-      "team_1": "Paraguay",
-      "team_2": "Uruguay",
-      "status": "UPCOMING",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_name": "Paraguay vs Uruguay",
-      "startTime": "04:30:00 AM 06-06-2025"
-    },
-    {
       "id": 125408,
       "event_category": "Cricket",
       "title": "Thunder Cats vs Ai Octopus Challengers (KCC T20 Challengers A League, 3rd Edition, 2025)",
@@ -320,6 +282,18 @@
       "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
       "match_name": "Thunder Cats vs Ai Octopus Challengers",
       "startTime": "09:30:00 AM 06-06-2025"
+    },
+    {
+      "id": 127945,
+      "event_category": "Football",
+      "title": "Paraguay vs Uruguay (CONMEBOL World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PAR_URU-old.jpg",
+      "team_1": "Paraguay",
+      "team_2": "Uruguay",
+      "status": "UPCOMING",
+      "event_name": "CONMEBOL World Cup Qualifiers",
+      "match_name": "Paraguay vs Uruguay",
+      "startTime": "04:30:00 AM 06-06-2025"
     },
     {
       "id": 127946,
@@ -346,18 +320,6 @@
       "startTime": "11:00:00 AM 06-06-2025"
     },
     {
-      "id": 127336,
-      "event_category": "Cricket",
-      "title": "Brazil Women vs Zimbabwe HPC Women (Kwibuka Women's T20I Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127336_5244_BRA-W_ZHC-W_FC-Web.jpg",
-      "team_1": "Brazil Women",
-      "team_2": "Zimbabwe HPC Women",
-      "status": "UPCOMING",
-      "event_name": "Kwibuka Women's T20I Tournament, 2025",
-      "match_name": "Brazil Women vs Zimbabwe HPC Women",
-      "startTime": "01:00:00 PM 06-06-2025"
-    },
-    {
       "id": 125908,
       "event_category": "Cricket",
       "title": "Glamorgan vs Essex (Vitality Blast T20, 2025)",
@@ -380,6 +342,18 @@
       "event_name": "West Indies tour of England, 2025",
       "match_name": "England vs West Indies",
       "startTime": "11:00:00 PM 06-06-2025"
+    },
+    {
+      "id": 127336,
+      "event_category": "Cricket",
+      "title": "Brazil Women vs Zimbabwe HPC Women (Kwibuka Women's T20I Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127336_5244_BRA-W_ZHC-W_FC-Web.jpg",
+      "team_1": "Brazil Women",
+      "team_2": "Zimbabwe HPC Women",
+      "status": "UPCOMING",
+      "event_name": "Kwibuka Women's T20I Tournament, 2025",
+      "match_name": "Brazil Women vs Zimbabwe HPC Women",
+      "startTime": "01:00:00 PM 06-06-2025"
     },
     {
       "id": 127337,
@@ -476,6 +450,18 @@
       "event_name": "ECS England, Hornchurch, 2025",
       "match_name": "AZ Black Eagles vs Old Brentwoods",
       "startTime": "08:15:00 PM 06-06-2025"
+    },
+    {
+      "id": 125410,
+      "event_category": "Cricket",
+      "title": "Cochin Hurricanes vs Al Mulla Exchange - B (KCC T20 Challengers A League, 3rd Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125410_5188_COH_AMB_fc-web.jpg",
+      "team_1": "Cochin Hurricanes",
+      "team_2": "Al Mulla Exchange - B",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+      "match_name": "Cochin Hurricanes vs Al Mulla Exchange - B",
+      "startTime": "09:15:00 PM 06-06-2025"
     }
   ]
 }
