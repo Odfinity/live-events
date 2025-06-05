@@ -1,13 +1,13 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:43 PM 05-06-2025",
+  "last_update_time": "git_update",
   "matches": [
     {
       "id": "sl1090479641",
       "isLive": true,
       "event": "Roland-Garros 2025",
-      "match": "King E / Townsend T vs Vavassori A / Errani S - Mixed Doubles - 05 Jun 2025",
+      "match": "Philippe Chatrier - 05 Jun 2025",
       "Provider": "FEDERATION FRANCAISE DE TENNIS",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003803/1749108976810446_RG25_final_mixed_doubles_Townsend_King_vs_errani_vavassori_5jun_eng_landscape_thumb.jpg",
       "genre": "Tennis",
@@ -16,9 +16,9 @@
       "TVchannel": "Sony Sports Ten 5",
       "MaxResolution": "FHD",
       "SeoTags": "N/A",
-      "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-      "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-      "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749165003~acl=/*~id=82529631260939591964056017150067~hmac=86cf42cea115db10b06c4dd21dc5449e3633882f686881a5b54234e791ba0c40"
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090479641.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090479641.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090479641.m3u8"
     },
     {
       "id": "sl1090479639",
@@ -33,15 +33,15 @@
       "TVchannel": "Sony Sports Ten 3",
       "MaxResolution": "FHD",
       "SeoTags": "N/A",
-      "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-      "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-      "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749165003~acl=/*~id=82529631260939591964056017150067~hmac=86cf42cea115db10b06c4dd21dc5449e3633882f686881a5b54234e791ba0c40"
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090479639.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090479639.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090479639.m3u8"
     },
     {
       "id": "sl1090479641",
       "isLive": true,
       "event": "Roland-Garros 2025",
-      "match": "King E / Townsend T vs Vavassori A / Errani S - Mixed Doubles - 05 Jun 2025",
+      "match": "Philippe Chatrier - 05 Jun 2025",
       "Provider": "FEDERATION FRANCAISE DE TENNIS",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003803/1749108976810446_RG25_final_mixed_doubles_Townsend_King_vs_errani_vavassori_5jun_eng_landscape_thumb.jpg",
       "genre": "Tennis",
@@ -50,9 +50,9 @@
       "TVchannel": "Sony Sports Ten 5",
       "MaxResolution": "FHD",
       "SeoTags": "N/A",
-      "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-      "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-      "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749165003~acl=/*~id=82529631260939591964056017150067~hmac=86cf42cea115db10b06c4dd21dc5449e3633882f686881a5b54234e791ba0c40"
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090479641.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090479641.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090479641.m3u8"
     },
     {
       "id": "sl1090479639",
@@ -67,9 +67,9 @@
       "TVchannel": "Sony Sports Ten 3",
       "MaxResolution": "FHD",
       "SeoTags": "N/A",
-      "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-      "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-      "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749165003~acl=/*~id=82529631260939591964056017150067~hmac=86cf42cea115db10b06c4dd21dc5449e3633882f686881a5b54234e791ba0c40"
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090479639.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090479639.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090479639.m3u8"
     },
     {
       "id": "sl1090481957",
@@ -86,5 +86,6 @@
       "SeoTags": "watch UEFA Nations League 2024 online,The UEFA Nations League 2024 online streaming,UEFA Nations League 2024 highlights,UEFA Nations League 2024 matches,watch UEFA Nations League 2024 games,live UEFA Nations League 2024 match score,UEFA Nations League 2024 games scores,watch UEFA Nations League 2024 match online,watch UEFA Nations League 2024 games online,UEFA Nations League 2024 match highlights,UEFA Nations League 2024 Live Streaming",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/084c8b7f5b574ec29ccd93301abbffeb/1748876783/baseline-std-v4/1090481957_02062025_eng_baseline-800300010.mpd"
     }
-  ]
+  ],
+  "last update time": "04:56 PM 05-06-2025"
 }
