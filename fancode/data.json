@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:29 PM 05-06-2025",
+  "last update time": "09:00 PM 05-06-2025",
   "matches": [
     {
       "id": 126528,
@@ -144,20 +144,6 @@
       "adfree_url": "https://dai.fancode.com/primary/127983_english_hls_82450ta-di_h264/index.m3u8"
     },
     {
-      "id": 127978,
-      "event_category": "Golf",
-      "title": "Day 1 vs Abama Golf (Tenerife Women’s Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tenerife-Womens-Open-old-match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Abama Golf",
-      "status": "LIVE",
-      "event_name": "Tenerife Women’s Open",
-      "match_name": "Day 1",
-      "startTime": "05:00:00 PM 05-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/kIgWncVvRw2y7nWVyhYYqg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127978_english_hls_39558ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128312,
       "event_category": "Golf",
       "title": "Featured Group - Day 1 vs TPC Toronto (RBC Canadian Open)",
@@ -284,6 +270,42 @@
       "startTime": "10:45:00 PM 05-06-2025"
     },
     {
+      "id": 127824,
+      "event_category": "Football",
+      "title": "Bahrain vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_BAH_SAR_fc-web_1749094083837.jpg",
+      "team_1": "Bahrain",
+      "team_2": "Saudi Arabia",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Bahrain vs Saudi Arabia",
+      "startTime": "09:30:00 PM 05-06-2025"
+    },
+    {
+      "id": 127831,
+      "event_category": "Football",
+      "title": "United Arab Emirates vs Uzbekistan (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108289_3740_UAE_UZB_fc-web.jpg",
+      "team_1": "United Arab Emirates",
+      "team_2": "Uzbekistan",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "United Arab Emirates vs Uzbekistan",
+      "startTime": "09:30:00 PM 05-06-2025"
+    },
+    {
+      "id": 127829,
+      "event_category": "Football",
+      "title": "Oman vs Jordan (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_OMN_JOR_fc-web.jpg",
+      "team_1": "Oman",
+      "team_2": "Jordan",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Oman vs Jordan",
+      "startTime": "09:30:00 PM 05-06-2025"
+    },
+    {
       "id": 128162,
       "event_category": "Cricket",
       "title": "Bharat Rangers vs NECO Master Blaster (Vidarbha Pro T20 League, 2025)",
@@ -368,42 +390,6 @@
       "startTime": "01:15:00 AM 06-06-2025"
     },
     {
-      "id": 127824,
-      "event_category": "Football",
-      "title": "Bahrain vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_BAH_SAR_fc-web_1749094083837.jpg",
-      "team_1": "Bahrain",
-      "team_2": "Saudi Arabia",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Bahrain vs Saudi Arabia",
-      "startTime": "09:30:00 PM 05-06-2025"
-    },
-    {
-      "id": 127831,
-      "event_category": "Football",
-      "title": "United Arab Emirates vs Uzbekistan (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108289_3740_UAE_UZB_fc-web.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Uzbekistan",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "United Arab Emirates vs Uzbekistan",
-      "startTime": "09:30:00 PM 05-06-2025"
-    },
-    {
-      "id": 127829,
-      "event_category": "Football",
-      "title": "Oman vs Jordan (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_OMN_JOR_fc-web.jpg",
-      "team_1": "Oman",
-      "team_2": "Jordan",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Oman vs Jordan",
-      "startTime": "09:30:00 PM 05-06-2025"
-    },
-    {
       "id": 127828,
       "event_category": "Football",
       "title": "Kuwait vs Palestine (FIFA World Cup Asian Qualifiers)",
@@ -486,6 +472,18 @@
       "event_name": "CONMEBOL World Cup Qualifiers",
       "match_name": "Chile vs Argentina",
       "startTime": "06:30:00 AM 06-06-2025"
+    },
+    {
+      "id": 125408,
+      "event_category": "Cricket",
+      "title": "Thunder Cats vs Ai Octopus Challengers (KCC T20 Challengers A League, 3rd Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125408_5188_THN_AIOC_fc-web.jpg",
+      "team_1": "Thunder Cats",
+      "team_2": "Ai Octopus Challengers",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+      "match_name": "Thunder Cats vs Ai Octopus Challengers",
+      "startTime": "09:30:00 AM 06-06-2025"
     }
   ]
 }
