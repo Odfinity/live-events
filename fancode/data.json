@@ -1,35 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:13 AM 06-06-2025",
+  "last update time": "04:27 AM 06-06-2025",
   "matches": [
     {
-      "id": 127435,
-      "event_category": "Cricket",
-      "title": "St Kitts vs Virgin Islands (Leeward Islands T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127435_5249_STK_VIS_fc-web.jpg",
-      "team_1": "St Kitts",
-      "team_2": "Virgin Islands",
+      "id": 127945,
+      "event_category": "Football",
+      "title": "Paraguay vs Uruguay (CONMEBOL World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PAR_URU-old.jpg",
+      "team_1": "Paraguay",
+      "team_2": "Uruguay",
       "status": "LIVE",
-      "event_name": "Leeward Islands T20, 2025",
-      "match_name": "St Kitts vs Virgin Islands",
-      "startTime": "12:30:00 AM 06-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jyVI8oxlR_m49J_Bw4Gc9g/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127435_english_hls_92245ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 125402,
-      "event_category": "Cricket",
-      "title": "Chennai Kings CA vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125402_5188_CHK_RLC_fc-web.jpg",
-      "team_1": "Chennai Kings CA",
-      "team_2": "Royal Lions CC",
-      "status": "LIVE",
-      "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-      "match_name": "Chennai Kings CA vs Royal Lions CC",
-      "startTime": "01:15:00 AM 06-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/hZUpxgkGTDmZFPLE7CNYOw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/125402_english_hls_1371ta-di_h264/index.m3u8"
+      "event_name": "CONMEBOL World Cup Qualifiers",
+      "match_name": "Paraguay vs Uruguay",
+      "startTime": "04:30:00 AM 06-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lrgAlrcoRluGxgnXb2RYzw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/127945_english_hls_77055ta-di_h264/index.m3u8"
     },
     {
       "id": 127946,
@@ -90,18 +76,6 @@
       "event_name": "Vidarbha Pro T20 League, 2025",
       "match_name": "Orange Tigers vs Nagpur Heroz",
       "startTime": "07:45:00 PM 06-06-2025"
-    },
-    {
-      "id": 127945,
-      "event_category": "Football",
-      "title": "Paraguay vs Uruguay (CONMEBOL World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PAR_URU-old.jpg",
-      "team_1": "Paraguay",
-      "team_2": "Uruguay",
-      "status": "UPCOMING",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_name": "Paraguay vs Uruguay",
-      "startTime": "04:30:00 AM 06-06-2025"
     },
     {
       "id": 125907,
@@ -450,6 +424,30 @@
       "event_name": "KLM Open, 2025",
       "match_name": "Day 2",
       "startTime": "04:30:00 PM 06-06-2025"
+    },
+    {
+      "id": 127979,
+      "event_category": "Golf",
+      "title": "Day 2 vs Abama Golf (Tenerife Women’s Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tenerife-Womens-Open-old-match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Abama Golf",
+      "status": "UPCOMING",
+      "event_name": "Tenerife Women’s Open",
+      "match_name": "Day 2",
+      "startTime": "05:00:00 PM 06-06-2025"
+    },
+    {
+      "id": 128317,
+      "event_category": "Golf",
+      "title": "Featured Group - Day 2 vs TPC Toronto (RBC Canadian Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
+      "team_1": "Featured Group - Day 2",
+      "team_2": "TPC Toronto",
+      "status": "UPCOMING",
+      "event_name": "RBC Canadian Open",
+      "match_name": "Featured Group - Day 2",
+      "startTime": "05:00:00 PM 06-06-2025"
     }
   ]
 }
