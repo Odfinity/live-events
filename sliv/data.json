@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:46 PM 05-06-2025",
+  "last update time": "09:05 PM 05-06-2025",
   "matches": [
     {
       "id": "sl1090482483",
@@ -21,10 +21,27 @@
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090482483.m3u8"
     },
     {
+      "id": "sl1090481947",
+      "isLive": true,
+      "event": "UEFA International Friendlies",
+      "match": "Georgia vs Faroe Islands - 5 Jun 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037092812297_UEFA_INT_Friendlies_Georgia_vs_Faroe_Island_4jun_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "Boris Paichadze Dinamo Arena",
+      "TVchannel": "Sony Sports Ten 2",
+      "MaxResolution": "FHD",
+      "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090481947.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090481947.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090481947.m3u8"
+    },
+    {
       "id": "sl1090479641",
       "isLive": true,
       "event": "Roland-Garros 2025",
-      "match": "Aryna Sabalenka vs Iga Swiatek - Women's Singles - 05 Jun 2025",
+      "match": "Philippe Chatrier - 05 Jun 2025",
       "Provider": "FEDERATION FRANCAISE DE TENNIS",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003799/1749104750556359_RG25_SF_Sabalenka_vs_Swiatek_5jun_eng_landscape_thumb.jpg",
       "genre": "Tennis",
