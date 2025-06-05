@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:51 AM 06-06-2025",
+  "last update time": "03:10 AM 06-06-2025",
   "matches": [
-    {
-      "id": 127436,
-      "event_category": "Cricket",
-      "title": "Combined Islands vs Antigua and Barbuda (Leeward Islands T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127436_5249_CI_ATG_fc-web.jpg",
-      "team_1": "Combined Islands",
-      "team_2": "Antigua and Barbuda",
-      "status": "LIVE",
-      "event_name": "Leeward Islands T20, 2025",
-      "match_name": "Combined Islands vs Antigua and Barbuda",
-      "startTime": "12:15:00 AM 06-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iZzpiZFhToGr6AyfY6mWjw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127436_english_hls_82143ta-di_h264/index.m3u8"
-    },
     {
       "id": 127435,
       "event_category": "Cricket",
@@ -128,6 +114,20 @@
       "startTime": "01:15:00 AM 06-06-2025",
       "dai_url": "https://dai.fancode.com/primary/128345_english_hls_59921ta-di_h264/index.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128345_english_hls_59921ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 127436,
+      "event_category": "Cricket",
+      "title": "Combined Islands vs Antigua and Barbuda (Leeward Islands T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127436_5249_CI_ATG_fc-web.jpg",
+      "team_1": "Combined Islands",
+      "team_2": "Antigua and Barbuda",
+      "status": "LIVE",
+      "event_name": "Leeward Islands T20, 2025",
+      "match_name": "Combined Islands vs Antigua and Barbuda",
+      "startTime": "12:15:00 AM 06-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/iZzpiZFhToGr6AyfY6mWjw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/127436_english_hls_82143ta-di_h264/index.m3u8"
     },
     {
       "id": 127946,
@@ -454,16 +454,16 @@
       "startTime": "09:00:00 AM 06-06-2025"
     },
     {
-      "id": 118565,
-      "event_category": "MotoGP",
-      "title": "Day 1 vs Aragon (GRAN PREMIO GoPro DE ARAGÓN)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aragon_Moto-GP_Race_old.jpg",
-      "team_1": "Day 1",
-      "team_2": "Aragon",
+      "id": 125097,
+      "event_category": "Cricket",
+      "title": "Japan Women vs Philippines Women (Japan Women’s Sano International Trophy)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png",
+      "team_1": "Japan Women",
+      "team_2": "Philippines Women",
       "status": "UPCOMING",
-      "event_name": "GRAN PREMIO GoPro DE ARAGÓN",
-      "match_name": "Practice",
-      "startTime": "12:30:00 PM 06-06-2025"
+      "event_name": "Japan Women’s Sano International Trophy",
+      "match_name": "Japan Women vs Philippines Women",
+      "startTime": "06:00:00 AM 07-06-2025"
     }
   ]
 }
