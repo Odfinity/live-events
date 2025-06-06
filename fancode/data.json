@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:13 PM 06-06-2025",
+  "last update time": "03:27 PM 06-06-2025",
   "matches": [
     {
       "id": 118565,
@@ -32,6 +32,20 @@
       "adfree_url": "https://dai.fancode.com/primary/128162_english_hls_55383ta-di_h264/index.m3u8"
     },
     {
+      "id": 127240,
+      "event_category": "Cricket",
+      "title": "Scotland vs Netherlands (ICC CWC League 2, 2023-27)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-VS-Netherlands_old.jpg",
+      "team_1": "Scotland",
+      "team_2": "Netherlands",
+      "status": "LIVE",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_name": "Scotland vs Netherlands",
+      "startTime": "03:30:00 PM 06-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/rKeNufNxR-2GOHyleH8rGg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/127240_english_hls_78133ta-di_h264/index.m3u8"
+    },
+    {
       "id": 127336,
       "event_category": "Cricket",
       "title": "Zimbabwe HPC Women vs Brazil Women (Kwibuka Women's T20I Tournament, 2025)",
@@ -58,18 +72,6 @@
       "startTime": "02:15:00 PM 06-06-2025",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 127240,
-      "event_category": "Cricket",
-      "title": "Scotland vs Netherlands (ICC CWC League 2, 2023-27)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-VS-Netherlands_old.jpg",
-      "team_1": "Scotland",
-      "team_2": "Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_name": "Scotland vs Netherlands",
-      "startTime": "03:30:00 PM 06-06-2025"
     },
     {
       "id": 126529,
@@ -318,10 +320,36 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Joe_Skupski-vs-Harrison_King_match-card.jpg",
       "team_1": "Salisbury/Skupski",
       "team_2": "Harrison/King",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Roland Garros 2025",
       "match_name": "Salisbury/Skupski vs Harrison/King",
-      "startTime": "03:30:00 PM 06-06-2025"
+      "startTime": "03:30:00 PM 06-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1749246624~acl=/*~id=79783271654922838080904738625315~hmac=e35b5701683de57616645c529a727358757f1f1d8facccfd41715d5783e51cda"
+    },
+    {
+      "id": 128314,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 2 vs TPC Toronto (RBC Canadian Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
+      "team_1": "Main Feed - Day 2",
+      "team_2": "TPC Toronto",
+      "status": "UPCOMING",
+      "event_name": "RBC Canadian Open",
+      "match_name": "Main Feed - Day 2",
+      "startTime": "04:15:00 PM 06-06-2025"
+    },
+    {
+      "id": 128329,
+      "event_category": "Motorsports",
+      "title": "Practice 2 vs Zandvoort, Netherlands (DTM Zandvoort)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_Old_match-card_1749181310001.jpg",
+      "team_1": "Practice 2",
+      "team_2": "Zandvoort, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "DTM Zandvoort",
+      "match_name": "Practice 2",
+      "startTime": "04:20:00 PM 06-06-2025"
     },
     {
       "id": 128183,
@@ -430,30 +458,6 @@
       "event_name": "Kwibuka Women's T20I Tournament, 2025",
       "match_name": "Zimbabwe HPC Women vs Tanzania Women",
       "startTime": "05:00:00 PM 07-06-2025"
-    },
-    {
-      "id": 127343,
-      "event_category": "Cricket",
-      "title": "Cameroon Women vs Nigeria Women (Kwibuka Women's T20I Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127343_5244_CAM-W_NIG-W_FC-Web.jpg",
-      "team_1": "Cameroon Women",
-      "team_2": "Nigeria Women",
-      "status": "UPCOMING",
-      "event_name": "Kwibuka Women's T20I Tournament, 2025",
-      "match_name": "Cameroon Women vs Nigeria Women",
-      "startTime": "05:15:00 PM 07-06-2025"
-    },
-    {
-      "id": 128314,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 2 vs TPC Toronto (RBC Canadian Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
-      "team_1": "Main Feed - Day 2",
-      "team_2": "TPC Toronto",
-      "status": "UPCOMING",
-      "event_name": "RBC Canadian Open",
-      "match_name": "Main Feed - Day 2",
-      "startTime": "04:15:00 PM 06-06-2025"
     }
   ]
 }
