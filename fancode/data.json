@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:16 AM 06-06-2025",
+  "last update time": "11:28 AM 06-06-2025",
   "matches": [
     {
       "id": 125408,
@@ -30,20 +30,6 @@
       "startTime": "11:00:00 AM 06-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/h-ko_9JXS7S_DeG7YWmLNQ/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/125096_english_hls_11894ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 127517,
-      "event_category": "Live events",
-      "title": "Day 9 vs Ahmedabad (Dream UTT Juniors)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-juniors-old.png",
-      "team_1": "Day 9",
-      "team_2": "Ahmedabad",
-      "status": "LIVE",
-      "event_name": "Dream UTT Juniors",
-      "match_name": "Day 9",
-      "startTime": "09:00:00 AM 06-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0QoGBLl8SsSOs-5hhsHDfA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127517_english_hls_62055ta-di_h264/index.m3u8"
     },
     {
       "id": 128162,
@@ -370,6 +356,18 @@
       "startTime": "01:15:00 PM 07-06-2025"
     },
     {
+      "id": 128183,
+      "event_category": "Cricket",
+      "title": "Anmol Kings Halar vs Aryan Sorath Lions (Saurashtra Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128183_5287_HH_SL_fc-Web.jpg",
+      "team_1": "Anmol Kings Halar",
+      "team_2": "Aryan Sorath Lions",
+      "status": "UPCOMING",
+      "event_name": "Saurashtra Pro T20 League, 2025",
+      "match_name": "Anmol Kings Halar vs Aryan Sorath Lions",
+      "startTime": "05:00:00 PM 07-06-2025"
+    },
+    {
       "id": 118565,
       "event_category": "MotoGP",
       "title": "Day 1 vs Aragon (GRAN PREMIO GoPro DE ARAGÓN)",
@@ -406,6 +404,18 @@
       "startTime": "03:30:00 PM 06-06-2025"
     },
     {
+      "id": 128334,
+      "event_category": "Cricket",
+      "title": "Upminster-W vs Hutton-W (ECS-W England, Hornchurch, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Upminster-W",
+      "team_2": "Hutton-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W England, Hornchurch, 2025",
+      "match_name": "Upminster-W vs Hutton-W",
+      "startTime": "02:15:00 PM 07-06-2025"
+    },
+    {
       "id": 128314,
       "event_category": "Golf",
       "title": "Main Feed - Day 2 vs TPC Toronto (RBC Canadian Open)",
@@ -439,18 +449,6 @@
       "status": "UPCOMING",
       "event_name": "Roland Garros 2025",
       "match_name": "Danilina/Krunic vs Eikeri/Hozumi",
-      "startTime": "04:30:00 PM 06-06-2025"
-    },
-    {
-      "id": 127984,
-      "event_category": "Golf",
-      "title": "Day 2 vs The International (KLM Open, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KLM-Open-old.jpg",
-      "team_1": "Day 2",
-      "team_2": "The International",
-      "status": "UPCOMING",
-      "event_name": "KLM Open, 2025",
-      "match_name": "Day 2",
       "startTime": "04:30:00 PM 06-06-2025"
     }
   ]
