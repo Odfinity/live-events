@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:13 PM 06-06-2025",
+  "last update time": "09:27 PM 06-06-2025",
   "matches": [
     {
       "id": 126529,
@@ -70,8 +70,8 @@
       "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
       "match_name": "Al Mulla Exchange - B vs Cochin Hurricanes",
       "startTime": "09:15:00 PM 06-06-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/vj4fW5RmSQ-btrON7uGfkQ/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/125410_english_hls_23655ta-di_h264/index.m3u8"
     },
     {
       "id": 128314,
@@ -220,6 +220,18 @@
       "startTime": "11:00:00 PM 06-06-2025"
     },
     {
+      "id": 127717,
+      "event_category": "Cricket",
+      "title": "East Londoners vs Old Brentwoods (ECS England, Hornchurch, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg",
+      "team_1": "East Londoners",
+      "team_2": "Old Brentwoods",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Hornchurch, 2025",
+      "match_name": "East Londoners vs Old Brentwoods",
+      "startTime": "10:15:00 PM 06-06-2025"
+    },
+    {
       "id": 128164,
       "event_category": "Cricket",
       "title": "Nagpur Titans vs NECO Master Blaster (Vidarbha Pro T20 League, 2025)",
@@ -254,18 +266,6 @@
       "event_name": "Saurashtra Pro T20 League, 2025",
       "match_name": "Anmol Kings Halar vs Aryan Sorath Lions",
       "startTime": "05:00:00 PM 07-06-2025"
-    },
-    {
-      "id": 127717,
-      "event_category": "Cricket",
-      "title": "East Londoners vs Old Brentwoods (ECS England, Hornchurch, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg",
-      "team_1": "East Londoners",
-      "team_2": "Old Brentwoods",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Hornchurch, 2025",
-      "match_name": "East Londoners vs Old Brentwoods",
-      "startTime": "10:15:00 PM 06-06-2025"
     },
     {
       "id": 125411,
