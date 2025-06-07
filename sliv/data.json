@@ -1,25 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:45 AM 08-06-2025",
+  "last update time": "02:02 AM 08-06-2025",
   "matches": [
-    {
-      "id": "sl1090479641",
-      "isLive": true,
-      "event": "Roland-Garros 2025",
-      "match": "Philippe Chatrier - 07 Jun 2025",
-      "Provider": "FEDERATION FRANCAISE DE TENNIS",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003963/1749278846590118_RG25_final_Zeballos_Granollers_vs_Salisbury_Skupski_7jun_eng_landscape_thumb.jpg",
-      "genre": "Tennis",
-      "language": "ENG",
-      "venue": "Philippe Chatrier",
-      "TVchannel": "Sony Sports Ten 5",
-      "MaxResolution": "FHD",
-      "SeoTags": "N/A",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090479641.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090479641.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090479641.m3u8"
-    },
     {
       "id": "sl1090482618",
       "isLive": true,
@@ -106,21 +89,19 @@
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090482625.m3u8"
     },
     {
-      "id": "sl1090479639",
-      "isLive": true,
-      "event": "Roland-Garros 2025",
-      "match": "Zeballos/Granollers vs Salisbury/Skupski - Final - 7 Jun 2025",
-      "Provider": "FEDERATION FRANCAISE DE TENNIS",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003963/1749278858455118_RG25_final_Zeballos_Granollers_vs_Salisbury_Skupski_7jun_multi_landscape_thumb.jpg",
-      "genre": "Tennis",
-      "language": "HIN",
+      "id": "sl1090482514",
+      "isLive": false,
+      "event": "Bharat Tum Chale Chalo",
+      "match": "Upcoming: Bharat Tum Chale Chalo",
+      "Provider": "ENGLAND AND WALES CRICKET",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg",
+      "genre": "Cricket",
+      "language": "ENG",
       "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 3",
+      "TVchannel": "Sony Sports Ten 5",
       "MaxResolution": "FHD",
       "SeoTags": "N/A",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090479639.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090479639.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090479639.m3u8"
+      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd"
     },
     {
       "id": "sl1090482736",
@@ -166,21 +147,6 @@
       "MaxResolution": "FHD",
       "SeoTags": "West Indies vs England cricket match,West Indies vs England cricket match highlights,cricket match,cricket,cricket hightlights,cricket match highlights,cricket championship",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd"
-    },
-    {
-      "id": "sl1090482514",
-      "isLive": false,
-      "event": "Bharat Tum Chale Chalo",
-      "match": "Upcoming: Bharat Tum Chale Chalo",
-      "Provider": "ENGLAND AND WALES CRICKET",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg",
-      "genre": "Cricket",
-      "language": "ENG",
-      "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 5",
-      "MaxResolution": "FHD",
-      "SeoTags": "N/A",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd"
     }
   ]
 }
