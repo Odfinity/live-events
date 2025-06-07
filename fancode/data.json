@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:10 PM 07-06-2025",
+  "last update time": "03:27 PM 07-06-2025",
   "matches": [
     {
       "id": 118569,
@@ -74,15 +74,29 @@
       "adfree_url": null
     },
     {
+      "id": 127774,
+      "event_category": "Cricket",
+      "title": "Ahmedabad Arrows vs Karnavati Kings (Cricket Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
+      "team_1": "Ahmedabad Arrows",
+      "team_2": "Karnavati Kings",
+      "status": "LIVE",
+      "event_name": "Cricket Premier League, 2025",
+      "match_name": "Ahmedabad Arrows vs Karnavati Kings",
+      "startTime": "03:30:00 PM 07-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/WZKvdLccT-KUvHjboZWf4Q/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/127774_english_hls_621ta-di_h264/index.m3u8"
+    },
+    {
       "id": 126226,
       "event_category": "Cricket",
-      "title": "England Women vs West Indies Women (West Indies Women tour of England, 2025)",
+      "title": "West Indies Women vs England Women (West Indies Women tour of England, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg",
-      "team_1": "England Women",
-      "team_2": "West Indies Women",
+      "team_1": "West Indies Women",
+      "team_2": "England Women",
       "status": "UPCOMING",
       "event_name": "West Indies Women tour of England, 2025",
-      "match_name": "England Women vs West Indies Women",
+      "match_name": "West Indies Women vs England Women",
       "startTime": "03:30:00 PM 07-06-2025"
     },
     {
@@ -120,18 +134,6 @@
       "event_name": "Vidarbha Pro T20 League, 2025",
       "match_name": "Pagariya Strikers vs Bharat Rangers",
       "startTime": "07:45:00 PM 07-06-2025"
-    },
-    {
-      "id": 127774,
-      "event_category": "Cricket",
-      "title": "Ahmedabad Arrows vs Karnavati Kings (Cricket Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
-      "team_1": "Ahmedabad Arrows",
-      "team_2": "Karnavati Kings",
-      "status": "UPCOMING",
-      "event_name": "Cricket Premier League, 2025",
-      "match_name": "Ahmedabad Arrows vs Karnavati Kings",
-      "startTime": "03:30:00 PM 07-06-2025"
     },
     {
       "id": 128335,
@@ -280,13 +282,13 @@
     {
       "id": 125099,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Japan Women’s Sano International Trophy)",
+      "title": "China Women vs Philippines Women (Japan Women’s Sano International Trophy)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "China Women",
+      "team_2": "Philippines Women",
       "status": "UPCOMING",
       "event_name": "Japan Women’s Sano International Trophy",
-      "match_name": "TBC vs TBC",
+      "match_name": "China Women vs Philippines Women",
       "startTime": "06:00:00 AM 08-06-2025"
     },
     {
@@ -410,18 +412,6 @@
       "startTime": "03:00:00 PM 08-06-2025"
     },
     {
-      "id": 127776,
-      "event_category": "Cricket",
-      "title": "Ahmedabad Arrows vs Narmada Navigators (Cricket Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127776_5267_ABA_NNV_fc-web.jpg",
-      "team_1": "Ahmedabad Arrows",
-      "team_2": "Narmada Navigators",
-      "status": "UPCOMING",
-      "event_name": "Cricket Premier League, 2025",
-      "match_name": "Ahmedabad Arrows vs Narmada Navigators",
-      "startTime": "03:30:00 PM 08-06-2025"
-    },
-    {
       "id": 126355,
       "event_category": "Cricket",
       "title": "England vs West Indies (West Indies tour of England, 2025)",
@@ -432,6 +422,18 @@
       "event_name": "West Indies tour of England, 2025",
       "match_name": "England vs West Indies",
       "startTime": "07:00:00 PM 08-06-2025"
+    },
+    {
+      "id": 127776,
+      "event_category": "Cricket",
+      "title": "Ahmedabad Arrows vs Narmada Navigators (Cricket Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127776_5267_ABA_NNV_fc-web.jpg",
+      "team_1": "Ahmedabad Arrows",
+      "team_2": "Narmada Navigators",
+      "status": "UPCOMING",
+      "event_name": "Cricket Premier League, 2025",
+      "match_name": "Ahmedabad Arrows vs Narmada Navigators",
+      "startTime": "03:30:00 PM 08-06-2025"
     },
     {
       "id": 126532,
@@ -456,6 +458,18 @@
       "event_name": "Saurashtra Pro T20 League, 2025",
       "match_name": "Anmol Kings Halar vs Dita Gohilwad Titans",
       "startTime": "07:30:00 PM 08-06-2025"
+    },
+    {
+      "id": 128167,
+      "event_category": "Cricket",
+      "title": "NECO Master Blaster vs Nagpur Heroz (Vidarbha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128167_5285_NMB_NAH_fc-Web.jpg",
+      "team_1": "NECO Master Blaster",
+      "team_2": "Nagpur Heroz",
+      "status": "UPCOMING",
+      "event_name": "Vidarbha Pro T20 League, 2025",
+      "match_name": "NECO Master Blaster vs Nagpur Heroz",
+      "startTime": "07:45:00 PM 08-06-2025"
     }
   ]
 }
