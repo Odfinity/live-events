@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:16 PM 09-06-2025",
+  "last update time": "09:28 PM 09-06-2025",
   "matches": [
     {
       "id": 126533,
@@ -46,20 +46,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128169_english_hls_71089ta-di_h264/index.m3u8"
     },
     {
-      "id": 128423,
-      "event_category": "Cricket",
-      "title": "Austria vs Czechia (ECN Central Europe Cup T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-europe-cup-old.png",
-      "team_1": "Austria",
-      "team_2": "Czechia",
-      "status": "LIVE",
-      "event_name": "ECN Central Europe Cup T20I, 2025",
-      "match_name": "Austria vs Czechia",
-      "startTime": "05:45:00 PM 09-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/RCz7KXl0QPiT8EgdbdqpIg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128423_english_hls_59569ta-di_h264/index.m3u8"
-    },
-    {
       "id": 127654,
       "event_category": "Cricket",
       "title": "Rajasthan Ravagers vs Purvanchal Tigers (Dreams Bigg T20 Championship, 2025)",
@@ -86,6 +72,20 @@
       "startTime": "08:15:00 PM 09-06-2025",
       "dai_url": null,
       "adfree_url": null
+    },
+    {
+      "id": 128204,
+      "event_category": "Cricket",
+      "title": "Soca Kings vs Chicago Steelpan Players (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128204_5288_SCK_SPK_fc-Web.jpg",
+      "team_1": "Soca Kings",
+      "team_2": "Chicago Steelpan Players",
+      "status": "LIVE",
+      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+      "match_name": "Soca Kings vs Chicago Steelpan Players",
+      "startTime": "09:30:00 PM 09-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/OdTwK2G8TkSyY9CaPz3aBg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128204_english_hls_53371ta-di_h264/index.m3u8"
     },
     {
       "id": 128402,
@@ -116,16 +116,16 @@
       "adfree_url": "https://dai.fancode.com/primary/125768_english_hls_89653ta-di_h264/index.m3u8"
     },
     {
-      "id": 128204,
+      "id": 128588,
       "event_category": "Cricket",
-      "title": "Soca Kings vs Chicago Steelpan Players (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128204_5288_SCK_SPK_fc-Web.jpg",
-      "team_1": "Soca Kings",
-      "team_2": "Chicago Steelpan Players",
+      "title": "Havering XI vs CFS Pinnacle Pro (ECS England, Hornchurch, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128588_CASACARDS_APP.png",
+      "team_1": "Havering XI",
+      "team_2": "CFS Pinnacle Pro",
       "status": "UPCOMING",
-      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-      "match_name": "Soca Kings vs Chicago Steelpan Players",
-      "startTime": "09:30:00 PM 09-06-2025"
+      "event_name": "ECS England, Hornchurch, 2025",
+      "match_name": "Havering XI vs CFS Pinnacle Pro",
+      "startTime": "10:15:00 PM 09-06-2025"
     },
     {
       "id": 128170,
@@ -150,18 +150,6 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Netherlands vs Nepal",
       "startTime": "03:30:00 PM 10-06-2025"
-    },
-    {
-      "id": 128588,
-      "event_category": "Cricket",
-      "title": "Havering XI vs CFS Pinnacle Pro (ECS England, Hornchurch, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128588_CASACARDS_APP.png",
-      "team_1": "Havering XI",
-      "team_2": "CFS Pinnacle Pro",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Hornchurch, 2025",
-      "match_name": "Havering XI vs CFS Pinnacle Pro",
-      "startTime": "10:15:00 PM 09-06-2025"
     },
     {
       "id": 125412,
@@ -200,18 +188,6 @@
       "startTime": "07:15:00 PM 10-06-2025"
     },
     {
-      "id": 128179,
-      "event_category": "Cricket",
-      "title": "Nagpur Titans Women vs Orange Tigersses Women (Vidarbha Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
-      "team_1": "Nagpur Titans Women",
-      "team_2": "Orange Tigersses Women",
-      "status": "UPCOMING",
-      "event_name": "Vidarbha Women's Pro T20 League, 2025",
-      "match_name": "Nagpur Titans Women vs Orange Tigersses Women",
-      "startTime": "09:15:00 AM 10-06-2025"
-    },
-    {
       "id": 128188,
       "event_category": "Cricket",
       "title": "Dita Gohilwad Titans vs JMD Kutch Riders (Saurashtra Pro T20 League, 2025)",
@@ -222,6 +198,18 @@
       "event_name": "Saurashtra Pro T20 League, 2025",
       "match_name": "Dita Gohilwad Titans vs JMD Kutch Riders",
       "startTime": "07:30:00 PM 10-06-2025"
+    },
+    {
+      "id": 128179,
+      "event_category": "Cricket",
+      "title": "Nagpur Titans Women vs Orange Tigersses Women (Vidarbha Women's Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
+      "team_1": "Nagpur Titans Women",
+      "team_2": "Orange Tigersses Women",
+      "status": "UPCOMING",
+      "event_name": "Vidarbha Women's Pro T20 League, 2025",
+      "match_name": "Nagpur Titans Women vs Orange Tigersses Women",
+      "startTime": "09:15:00 AM 10-06-2025"
     },
     {
       "id": 128171,
@@ -474,6 +462,18 @@
       "event_name": "FIFA World Cup Asian Qualifiers",
       "match_name": "Uzbekistan vs Qatar",
       "startTime": "07:15:00 PM 10-06-2025"
+    },
+    {
+      "id": 128589,
+      "event_category": "Cricket",
+      "title": "Old Brentwoods vs Havering XI (ECS England, Hornchurch, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Old Brentwoods",
+      "team_2": "Havering XI",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Hornchurch, 2025",
+      "match_name": "Old Brentwoods vs Havering XI",
+      "startTime": "08:15:00 PM 10-06-2025"
     }
   ]
 }
