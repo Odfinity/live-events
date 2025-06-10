@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:28 AM 11-06-2025",
+  "last update time": "12:48 AM 11-06-2025",
   "matches": [
     {
       "id": "sl1090483160",
@@ -140,40 +140,6 @@
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090483165.m3u8"
     },
     {
-      "id": "sl1090483152",
-      "isLive": true,
-      "event": "UEFA International Friendlies",
-      "match": "Denmark vs Lithuania - 10 Jun 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749046841352786_UEFA_INT_Friendlies_Denmark_vs_Lithuania_4jun_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "ENG",
-      "venue": "Nature Energy Park",
-      "TVchannel": "Sony Sports Ten 2",
-      "MaxResolution": "FHD",
-      "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090483152.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090483152.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090483152.m3u8"
-    },
-    {
-      "id": "sl1090483151",
-      "isLive": true,
-      "event": "UEFA International Friendlies",
-      "match": "Sweden vs Algeria - 10 Jun 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749046659335786_UEFA_INT_Friendlies_Sweden_vs_Algeria_4jun_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "ENG",
-      "venue": "Friends Arena",
-      "TVchannel": "Sony Sports Ten 2",
-      "MaxResolution": "FHD",
-      "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090483151.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090483151.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090483151.m3u8"
-    },
-    {
       "id": "sl1090483153",
       "isLive": true,
       "event": "UEFA International Friendlies",
@@ -240,6 +206,21 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090483157.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090483157.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090483157.m3u8"
+    },
+    {
+      "id": "sl1090482514",
+      "isLive": false,
+      "event": "Bharat Tum Chale Chalo",
+      "match": "Upcoming: Bharat Tum Chale Chalo",
+      "Provider": "ENGLAND AND WALES CRICKET",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg",
+      "genre": "Cricket",
+      "language": "ENG",
+      "venue": "N/A",
+      "TVchannel": "Sony Sports Ten 5",
+      "MaxResolution": "FHD",
+      "SeoTags": "N/A",
+      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd"
     }
   ]
 }
