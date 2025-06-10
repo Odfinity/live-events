@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 PM 10-06-2025",
+  "last update time": "10:04 PM 10-06-2025",
   "matches": [
     {
       "id": 126534,
@@ -60,29 +60,15 @@
       "adfree_url": "https://dai.fancode.com/primary/128171_english_hls_52405ta-di_h264/index.m3u8"
     },
     {
-      "id": 128425,
-      "event_category": "Cricket",
-      "title": "Norway vs Austria (ECN Central Europe Cup T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-europe-cup-old.png",
-      "team_1": "Norway",
-      "team_2": "Austria",
-      "status": "LIVE",
-      "event_name": "ECN Central Europe Cup T20I, 2025",
-      "match_name": "Norway vs Austria",
-      "startTime": "05:45:00 PM 10-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JW5zjEvWSVeX4vIl-aBn3w/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128425_english_hls_23311ta-di_h264/index.m3u8"
-    },
-    {
       "id": 127656,
       "event_category": "Cricket",
-      "title": "Gujarat Lions vs Hyderabad Boys (Dreams Bigg T20 Championship, 2025)",
+      "title": "Hyderabad Boys vs Gujarat Lions (Dreams Bigg T20 Championship, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg",
-      "team_1": "Gujarat Lions",
-      "team_2": "Hyderabad Boys",
+      "team_1": "Hyderabad Boys",
+      "team_2": "Gujarat Lions",
       "status": "LIVE",
       "event_name": "Dreams Bigg T20 Championship, 2025",
-      "match_name": "Gujarat Lions vs Hyderabad Boys",
+      "match_name": "Hyderabad Boys vs Gujarat Lions",
       "startTime": "07:30:00 PM 10-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/RQpgwtAnRSOtYRTpNEFEHA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/127656_english_hls_84306ta-di_h264/index.m3u8"
@@ -100,20 +86,6 @@
       "startTime": "07:30:00 PM 10-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/fkXMxjIyRAWmr2Jw_fzW1A/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/127779_english_hls_19812ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128589,
-      "event_category": "Cricket",
-      "title": "Old Brentwoods vs Havering XI (ECS England, Hornchurch, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg",
-      "team_1": "Old Brentwoods",
-      "team_2": "Havering XI",
-      "status": "LIVE",
-      "event_name": "ECS England, Hornchurch, 2025",
-      "match_name": "Old Brentwoods vs Havering XI",
-      "startTime": "08:15:00 PM 10-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/PKX3kM9JR1Ka3orWENMYZQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128589_english_hls_2679ta-di_h264/index.m3u8"
     },
     {
       "id": 128206,
@@ -158,18 +130,32 @@
       "adfree_url": "https://dai.fancode.com/primary/125768_english_hls_38294ta-di_h264/index.m3u8"
     },
     {
-      "id": 127933,
-      "event_category": "Football",
-      "title": "Kyrgyz Republic vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
-      "src": "https://images.fancode.com/aig/match/v1/127933_CASACARDS_APP.png",
-      "team_1": "Kyrgyz Republic",
-      "team_2": "United Arab Emirates",
+      "id": 128425,
+      "event_category": "Cricket",
+      "title": "Norway vs Austria (ECN Central Europe Cup T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-europe-cup-old.png",
+      "team_1": "Norway",
+      "team_2": "Austria",
       "status": "LIVE",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Kyrgyz Republic vs United Arab Emirates",
-      "startTime": "07:15:00 PM 10-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/SXkgJajYS9GY-rSt1ydbBQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127933_english_hls_22605ta-di_h264/index.m3u8"
+      "event_name": "ECN Central Europe Cup T20I, 2025",
+      "match_name": "Norway vs Austria",
+      "startTime": "05:45:00 PM 10-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/JW5zjEvWSVeX4vIl-aBn3w/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128425_english_hls_23311ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128589,
+      "event_category": "Cricket",
+      "title": "Old Brentwoods vs Havering XI (ECS England, Hornchurch, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg",
+      "team_1": "Old Brentwoods",
+      "team_2": "Havering XI",
+      "status": "LIVE",
+      "event_name": "ECS England, Hornchurch, 2025",
+      "match_name": "Old Brentwoods vs Havering XI",
+      "startTime": "08:15:00 PM 10-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/PKX3kM9JR1Ka3orWENMYZQ/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128589_english_hls_2679ta-di_h264/index.m3u8"
     },
     {
       "id": 127932,
@@ -234,6 +220,18 @@
       "startTime": "03:00:00 PM 11-06-2025"
     },
     {
+      "id": 125844,
+      "event_category": "Cricket",
+      "title": "Durham Women vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125844_5206_DHW_WKW_fc-Web.jpg",
+      "team_1": "Durham Women",
+      "team_2": "Warwickshire Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Vitality Blast T20, 2025",
+      "match_name": "Durham Women vs Warwickshire Women",
+      "startTime": "07:00:00 PM 11-06-2025"
+    },
+    {
       "id": 128207,
       "event_category": "Cricket",
       "title": "Leatherback Strikers vs Chicago Steelpan Players (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
@@ -246,16 +244,40 @@
       "startTime": "12:00:00 AM 11-06-2025"
     },
     {
-      "id": 125844,
+      "id": 126535,
       "event_category": "Cricket",
-      "title": "Durham Women vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125844_5206_DHW_WKW_fc-Web.jpg",
-      "team_1": "Durham Women",
-      "team_2": "Warwickshire Women",
+      "title": "Lyca Kovai Kings vs Siechem Madurai Panthers (Shriram Capital TNPL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai__Old_match_card.jpg",
+      "team_1": "Lyca Kovai Kings",
+      "team_2": "Siechem Madurai Panthers",
       "status": "UPCOMING",
-      "event_name": "Women's Vitality Blast T20, 2025",
-      "match_name": "Durham Women vs Warwickshire Women",
-      "startTime": "07:00:00 PM 11-06-2025"
+      "event_name": "Shriram Capital TNPL",
+      "match_name": "Lyca Kovai Kings vs Siechem Madurai Panthers",
+      "startTime": "07:15:00 PM 11-06-2025"
+    },
+    {
+      "id": 127544,
+      "event_category": "Cricket",
+      "title": "West Indies Women vs South Africa Women (South Africa Women tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-old-match-card.png",
+      "team_1": "West Indies Women",
+      "team_2": "South Africa Women",
+      "status": "UPCOMING",
+      "event_name": "South Africa Women tour of West Indies, 2025",
+      "match_name": "West Indies Women vs South Africa Women",
+      "startTime": "07:30:00 PM 11-06-2025"
+    },
+    {
+      "id": 128190,
+      "event_category": "Cricket",
+      "title": "Aryan Sorath Lions vs Zalawad Strikers (Saurashtra Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128190_5287_SL_ZR_fc-Web.jpg",
+      "team_1": "Aryan Sorath Lions",
+      "team_2": "Zalawad Strikers",
+      "status": "UPCOMING",
+      "event_name": "Saurashtra Pro T20 League, 2025",
+      "match_name": "Aryan Sorath Lions vs Zalawad Strikers",
+      "startTime": "07:30:00 PM 11-06-2025"
     },
     {
       "id": 127940,
@@ -294,18 +316,6 @@
       "startTime": "11:45:00 PM 10-06-2025"
     },
     {
-      "id": 126535,
-      "event_category": "Cricket",
-      "title": "Lyca Kovai Kings vs Siechem Madurai Panthers (Shriram Capital TNPL)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai__Old_match_card.jpg",
-      "team_1": "Lyca Kovai Kings",
-      "team_2": "Siechem Madurai Panthers",
-      "status": "UPCOMING",
-      "event_name": "Shriram Capital TNPL",
-      "match_name": "Lyca Kovai Kings vs Siechem Madurai Panthers",
-      "startTime": "07:15:00 PM 11-06-2025"
-    },
-    {
       "id": 128301,
       "event_category": "Cricket",
       "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
@@ -316,6 +326,18 @@
       "event_name": "Cambodia tour of Indonesia, 2025",
       "match_name": "Indonesia vs Cambodia",
       "startTime": "07:00:00 AM 11-06-2025"
+    },
+    {
+      "id": 128173,
+      "event_category": "Cricket",
+      "title": "Pagariya Strikers vs NECO Master Blaster (Vidarbha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128173_5285_PAS_NMB_fc-Web.jpg",
+      "team_1": "Pagariya Strikers",
+      "team_2": "NECO Master Blaster",
+      "status": "UPCOMING",
+      "event_name": "Vidarbha Pro T20 League, 2025",
+      "match_name": "Pagariya Strikers vs NECO Master Blaster",
+      "startTime": "07:45:00 PM 11-06-2025"
     },
     {
       "id": 127949,
@@ -330,42 +352,6 @@
       "startTime": "04:30:00 AM 11-06-2025"
     },
     {
-      "id": 127544,
-      "event_category": "Cricket",
-      "title": "West Indies Women vs South Africa Women (South Africa Women tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-old-match-card.png",
-      "team_1": "West Indies Women",
-      "team_2": "South Africa Women",
-      "status": "UPCOMING",
-      "event_name": "South Africa Women tour of West Indies, 2025",
-      "match_name": "West Indies Women vs South Africa Women",
-      "startTime": "07:30:00 PM 11-06-2025"
-    },
-    {
-      "id": 128190,
-      "event_category": "Cricket",
-      "title": "Aryan Sorath Lions vs Zalawad Strikers (Saurashtra Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128190_5287_SL_ZR_fc-Web.jpg",
-      "team_1": "Aryan Sorath Lions",
-      "team_2": "Zalawad Strikers",
-      "status": "UPCOMING",
-      "event_name": "Saurashtra Pro T20 League, 2025",
-      "match_name": "Aryan Sorath Lions vs Zalawad Strikers",
-      "startTime": "07:30:00 PM 11-06-2025"
-    },
-    {
-      "id": 127952,
-      "event_category": "Football",
-      "title": "Peru vs Ecuador (CONMEBOL World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PER_EQU-old.jpg",
-      "team_1": "Peru",
-      "team_2": "Ecuador",
-      "status": "UPCOMING",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_name": "Peru vs Ecuador",
-      "startTime": "07:00:00 AM 11-06-2025"
-    },
-    {
       "id": 128180,
       "event_category": "Cricket",
       "title": "Nagpur Titans Women vs NECO Master Blaster Women (Vidarbha Women's Pro T20 League, 2025)",
@@ -378,16 +364,16 @@
       "startTime": "09:15:00 AM 11-06-2025"
     },
     {
-      "id": 128173,
-      "event_category": "Cricket",
-      "title": "Pagariya Strikers vs NECO Master Blaster (Vidarbha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128173_5285_PAS_NMB_fc-Web.jpg",
-      "team_1": "Pagariya Strikers",
-      "team_2": "NECO Master Blaster",
+      "id": 127952,
+      "event_category": "Football",
+      "title": "Peru vs Ecuador (CONMEBOL World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PER_EQU-old.jpg",
+      "team_1": "Peru",
+      "team_2": "Ecuador",
       "status": "UPCOMING",
-      "event_name": "Vidarbha Pro T20 League, 2025",
-      "match_name": "Pagariya Strikers vs NECO Master Blaster",
-      "startTime": "07:45:00 PM 11-06-2025"
+      "event_name": "CONMEBOL World Cup Qualifiers",
+      "match_name": "Peru vs Ecuador",
+      "startTime": "07:00:00 AM 11-06-2025"
     },
     {
       "id": 127352,
@@ -484,6 +470,18 @@
       "event_name": "Kwibuka Women's T20I Tournament, 2025",
       "match_name": "Zimbabwe HPC Women vs Sierra Leone Women",
       "startTime": "05:15:00 PM 11-06-2025"
+    },
+    {
+      "id": 128773,
+      "event_category": "Cricket",
+      "title": "Gibraltar Women vs Austria Women (ECN Central Europe Cup T20IW, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Gibraltar Women",
+      "team_2": "Austria Women",
+      "status": "UPCOMING",
+      "event_name": "ECN Central Europe Cup T20IW, 2025",
+      "match_name": "Gibraltar Women vs Austria Women",
+      "startTime": "05:45:00 PM 11-06-2025"
     }
   ]
 }
