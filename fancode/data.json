@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:10 PM 11-06-2025",
+  "last update time": "05:27 PM 11-06-2025",
   "matches": [
     {
       "id": 128172,
@@ -30,20 +30,6 @@
       "startTime": "03:00:00 PM 11-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/czZ3lsZgTB6z4ObhdQJoZA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128189_english_hls_88821ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128772,
-      "event_category": "Cricket",
-      "title": "Gibraltar Women vs Czechia Women (ECN Central Europe Cup T20IW, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-Europe-cup-T20iW-old.png",
-      "team_1": "Gibraltar Women",
-      "team_2": "Czechia Women",
-      "status": "LIVE",
-      "event_name": "ECN Central Europe Cup T20IW, 2025",
-      "match_name": "Gibraltar Women vs Czechia Women",
-      "startTime": "01:45:00 PM 11-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0mdWgDa0Tw-oLlMNx3eGkg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128772_english_hls_16347ta-di_h264/index.m3u8"
     },
     {
       "id": 127657,
@@ -86,6 +72,20 @@
       "startTime": "05:00:00 PM 11-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/wRgYYV3cQZu4cdXI_g9jhA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/127354_english_hls_21537ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 127355,
+      "event_category": "Cricket",
+      "title": "Sierra Leone Women vs Zimbabwe HPC Women (Kwibuka Women's T20I Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127355_5244_ZHC-W_SIL-W_FC-Web.jpg",
+      "team_1": "Sierra Leone Women",
+      "team_2": "Zimbabwe HPC Women",
+      "status": "LIVE",
+      "event_name": "Kwibuka Women's T20I Tournament, 2025",
+      "match_name": "Sierra Leone Women vs Zimbabwe HPC Women",
+      "startTime": "05:15:00 PM 11-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/zMer4Kj7TDuxgyg0tZOvpA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/127355_english_hls_57206ta-di_h264/index.m3u8"
     },
     {
       "id": 125844,
@@ -172,28 +172,28 @@
       "startTime": "11:00:00 PM 11-06-2025"
     },
     {
-      "id": 127355,
-      "event_category": "Cricket",
-      "title": "Zimbabwe HPC Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127355_5244_ZHC-W_SIL-W_FC-Web.jpg",
-      "team_1": "Zimbabwe HPC Women",
-      "team_2": "Sierra Leone Women",
-      "status": "UPCOMING",
-      "event_name": "Kwibuka Women's T20I Tournament, 2025",
-      "match_name": "Zimbabwe HPC Women vs Sierra Leone Women",
-      "startTime": "05:15:00 PM 11-06-2025"
-    },
-    {
       "id": 128773,
       "event_category": "Cricket",
-      "title": "Gibraltar Women vs Austria Women (ECN Central Europe Cup T20IW, 2025)",
+      "title": "Austria Women vs Gibraltar Women (ECN Central Europe Cup T20IW, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-Europe-cup-T20iW-old.png",
-      "team_1": "Gibraltar Women",
-      "team_2": "Austria Women",
+      "team_1": "Austria Women",
+      "team_2": "Gibraltar Women",
       "status": "UPCOMING",
       "event_name": "ECN Central Europe Cup T20IW, 2025",
-      "match_name": "Gibraltar Women vs Austria Women",
+      "match_name": "Austria Women vs Gibraltar Women",
       "startTime": "05:45:00 PM 11-06-2025"
+    },
+    {
+      "id": 127732,
+      "event_category": "Cricket",
+      "title": "Gagan vs CFS Pinnacle Pro (ECS England, Hornchurch, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
+      "team_1": "Gagan",
+      "team_2": "CFS Pinnacle Pro",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Hornchurch, 2025",
+      "match_name": "Gagan vs CFS Pinnacle Pro",
+      "startTime": "06:15:00 PM 11-06-2025"
     },
     {
       "id": 125768,
@@ -206,18 +206,6 @@
       "event_name": "South Africa A tour of West Indies, 2025",
       "match_name": "West Indies A vs South Africa A",
       "startTime": "07:30:00 PM 08-06-2025"
-    },
-    {
-      "id": 127732,
-      "event_category": "Cricket",
-      "title": "CFS Pinnacle Pro vs Gagan (ECS England, Hornchurch, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
-      "team_1": "CFS Pinnacle Pro",
-      "team_2": "Gagan",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Hornchurch, 2025",
-      "match_name": "CFS Pinnacle Pro vs Gagan",
-      "startTime": "06:15:00 PM 11-06-2025"
     },
     {
       "id": 127658,
@@ -254,6 +242,18 @@
       "event_name": "ECS England, Hornchurch, 2025",
       "match_name": "Havering XI vs Gagan",
       "startTime": "08:15:00 PM 11-06-2025"
+    },
+    {
+      "id": 128174,
+      "event_category": "Cricket",
+      "title": "Orange Tigers vs Pagariya Strikers (Vidarbha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128174_5285_ORT_PAS_fc-Web.jpg",
+      "team_1": "Orange Tigers",
+      "team_2": "Pagariya Strikers",
+      "status": "UPCOMING",
+      "event_name": "Vidarbha Pro T20 League, 2025",
+      "match_name": "Orange Tigers vs Pagariya Strikers",
+      "startTime": "02:45:00 PM 12-06-2025"
     },
     {
       "id": 128208,
@@ -304,16 +304,16 @@
       "startTime": "12:00:00 AM 12-06-2025"
     },
     {
-      "id": 128174,
+      "id": 128191,
       "event_category": "Cricket",
-      "title": "Orange Tigers vs Pagariya Strikers (Vidarbha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128174_5285_ORT_PAS_fc-Web.jpg",
-      "team_1": "Orange Tigers",
-      "team_2": "Pagariya Strikers",
+      "title": "Zalawad Strikers vs Anmol Kings Halar (Saurashtra Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128191_5287_ZR_HH_fc-Web.jpg",
+      "team_1": "Zalawad Strikers",
+      "team_2": "Anmol Kings Halar",
       "status": "UPCOMING",
-      "event_name": "Vidarbha Pro T20 League, 2025",
-      "match_name": "Orange Tigers vs Pagariya Strikers",
-      "startTime": "02:45:00 PM 12-06-2025"
+      "event_name": "Saurashtra Pro T20 League, 2025",
+      "match_name": "Zalawad Strikers vs Anmol Kings Halar",
+      "startTime": "03:00:00 PM 12-06-2025"
     },
     {
       "id": 123313,
@@ -364,22 +364,10 @@
       "startTime": "12:30:00 AM 12-06-2025"
     },
     {
-      "id": 128191,
-      "event_category": "Cricket",
-      "title": "Zalawad Strikers vs Anmol Kings Halar (Saurashtra Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128191_5287_ZR_HH_fc-Web.jpg",
-      "team_1": "Zalawad Strikers",
-      "team_2": "Anmol Kings Halar",
-      "status": "UPCOMING",
-      "event_name": "Saurashtra Pro T20 League, 2025",
-      "match_name": "Zalawad Strikers vs Anmol Kings Halar",
-      "startTime": "03:00:00 PM 12-06-2025"
-    },
-    {
       "id": 127243,
       "event_category": "Cricket",
       "title": "Scotland vs Netherlands (ICC CWC League 2, 2023-27)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/127243_CASACARDS_APP.png",
       "team_1": "Scotland",
       "team_2": "Netherlands",
       "status": "UPCOMING",
@@ -470,6 +458,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Rashmi Medinipur Wizards vs Lux Shyam Kolkata Tigers",
       "startTime": "01:00:00 PM 12-06-2025"
+    },
+    {
+      "id": 127357,
+      "event_category": "Cricket",
+      "title": "Uganda Women vs Rwanda Women (Kwibuka Women's T20I Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127357_5244_UG-W_RWA-W_FC-Web.jpg",
+      "team_1": "Uganda Women",
+      "team_2": "Rwanda Women",
+      "status": "UPCOMING",
+      "event_name": "Kwibuka Women's T20I Tournament, 2025",
+      "match_name": "Uganda Women vs Rwanda Women",
+      "startTime": "01:15:00 PM 12-06-2025"
     }
   ]
 }
