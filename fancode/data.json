@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:15 AM 12-06-2025",
+  "last update time": "04:56 AM 12-06-2025",
   "matches": [
-    {
-      "id": 128356,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128356_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "Los Angeles Dodgers",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Los Angeles Dodgers",
-      "startTime": "01:40:00 AM 12-06-2025",
-      "dai_url": "https://dai.fancode.com/primary/128356_english_hls_50959ta-di_h264/index.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128356_english_hls_50959ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 125924,
-      "event_category": "Cricket",
-      "title": "Northamptonshire vs Warwickshire (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125924_5207_NOR_WAS_fc-Web.jpg",
-      "team_1": "Northamptonshire",
-      "team_2": "Warwickshire",
-      "status": "LIVE",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Northamptonshire vs Warwickshire",
-      "startTime": "11:00:00 PM 11-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-      "adfree_url": null
-    },
     {
       "id": 128051,
       "event_category": "Cricket",
@@ -462,6 +434,30 @@
       "event_name": "UEFA European Under-21 Championship",
       "match_name": "Germany U21 vs Slovenia U21",
       "startTime": "12:30:00 AM 13-06-2025"
+    },
+    {
+      "id": 123318,
+      "event_category": "Football",
+      "title": "Czechia U21 vs England U21 (UEFA European Under-21 Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-web.jpg",
+      "team_1": "Czechia U21",
+      "team_2": "England U21",
+      "status": "UPCOMING",
+      "event_name": "UEFA European Under-21 Championship",
+      "match_name": "Czechia U21 vs England U21",
+      "startTime": "12:30:00 AM 13-06-2025"
+    },
+    {
+      "id": 125415,
+      "event_category": "Cricket",
+      "title": "Tally Rangers vs Ai Octopus Challengers (KCC T20 Challengers A League, 3rd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/125415_CASACARDS_APP.png",
+      "team_1": "Tally Rangers",
+      "team_2": "Ai Octopus Challengers",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+      "match_name": "Tally Rangers vs Ai Octopus Challengers",
+      "startTime": "01:15:00 AM 13-06-2025"
     }
   ]
 }
