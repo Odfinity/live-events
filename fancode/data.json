@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 12-06-2025",
+  "last update time": "04:00 PM 12-06-2025",
   "matches": [
     {
       "id": 128051,
@@ -158,20 +158,6 @@
       "adfree_url": "https://dai.fancode.com/primary/127780_english_hls_74309ta-di_h264/index.m3u8"
     },
     {
-      "id": 128303,
-      "event_category": "Cricket",
-      "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cambodia-tour-of-Indonesia-old.jpg",
-      "team_1": "Indonesia",
-      "team_2": "Cambodia",
-      "status": "LIVE",
-      "event_name": "Cambodia tour of Indonesia, 2025",
-      "match_name": "Indonesia vs Cambodia",
-      "startTime": "11:30:00 AM 12-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/2Z_GSUW3RRqiN2tX4oGJuQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128303_english_hls_7169ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128052,
       "event_category": "Cricket",
       "title": "Adamas Howrah Warriors vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
@@ -254,6 +240,18 @@
       "event_name": "ECS England, Hornchurch, 2025",
       "match_name": "Rainham vs Old Brentwoods",
       "startTime": "04:15:00 PM 12-06-2025"
+    },
+    {
+      "id": 128053,
+      "event_category": "Cricket",
+      "title": "Shrachi Rarh Tigers vs Sobisco Smashers Malda (Bengal Pro T20 league, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128053_5282_SRT_SSM_fc-Web.jpg",
+      "team_1": "Shrachi Rarh Tigers",
+      "team_2": "Sobisco Smashers Malda",
+      "status": "UPCOMING",
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Shrachi Rarh Tigers vs Sobisco Smashers Malda",
+      "startTime": "01:00:00 PM 13-06-2025"
     },
     {
       "id": 127358,
@@ -376,18 +374,6 @@
       "startTime": "10:00:00 PM 12-06-2025"
     },
     {
-      "id": 128053,
-      "event_category": "Cricket",
-      "title": "Shrachi Rarh Tigers vs Sobisco Smashers Malda (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128053_5282_SRT_SSM_fc-Web.jpg",
-      "team_1": "Shrachi Rarh Tigers",
-      "team_2": "Sobisco Smashers Malda",
-      "status": "UPCOMING",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Shrachi Rarh Tigers vs Sobisco Smashers Malda",
-      "startTime": "01:00:00 PM 13-06-2025"
-    },
-    {
       "id": 128211,
       "event_category": "Cricket",
       "title": "Scarlet Ibis Scorchers vs Chicago Steelpan Players (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
@@ -400,18 +386,6 @@
       "startTime": "12:00:00 AM 13-06-2025"
     },
     {
-      "id": 123317,
-      "event_category": "Football",
-      "title": "Ukraine U21 vs Denmark U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-web.jpg",
-      "team_1": "Ukraine U21",
-      "team_2": "Denmark U21",
-      "status": "UPCOMING",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Ukraine U21 vs Denmark U21",
-      "startTime": "09:30:00 PM 12-06-2025"
-    },
-    {
       "id": 125415,
       "event_category": "Cricket",
       "title": "Tally Rangers vs Ai Octopus Challengers (KCC T20 Challengers A League, 3rd Edition, 2025)",
@@ -422,6 +396,18 @@
       "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
       "match_name": "Tally Rangers vs Ai Octopus Challengers",
       "startTime": "01:15:00 AM 13-06-2025"
+    },
+    {
+      "id": 123317,
+      "event_category": "Football",
+      "title": "Ukraine U21 vs Denmark U21 (UEFA European Under-21 Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-web.jpg",
+      "team_1": "Ukraine U21",
+      "team_2": "Denmark U21",
+      "status": "UPCOMING",
+      "event_name": "UEFA European Under-21 Championship",
+      "match_name": "Ukraine U21 vs Denmark U21",
+      "startTime": "09:30:00 PM 12-06-2025"
     },
     {
       "id": 123320,
@@ -460,6 +446,18 @@
       "startTime": "12:30:00 AM 13-06-2025"
     },
     {
+      "id": 128176,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Vidarbha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Vidarbha Pro T20 League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "02:45:00 PM 13-06-2025"
+    },
+    {
       "id": 128779,
       "event_category": "Cricket",
       "title": "Pondicherry XI vs Malaysia (Pondicherry Emerging XI tour of Malaysia, 2025)",
@@ -472,16 +470,16 @@
       "startTime": "07:30:00 AM 13-06-2025"
     },
     {
-      "id": 128176,
+      "id": 128083,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Vidarbha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "title": "Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens (Bengal Women's Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128083_5283_SRT-W_SSM-W_fc-Web.jpg",
+      "team_1": "Shrachi Rarh Tigers Womens",
+      "team_2": "Sobisco Smashers Malda Womens",
       "status": "UPCOMING",
-      "event_name": "Vidarbha Pro T20 League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:45:00 PM 13-06-2025"
+      "event_name": "Bengal Women's Pro T20 League, 2025",
+      "match_name": "Shrachi Rarh Tigers Womens vs Sobisco Smashers Malda Womens",
+      "startTime": "09:00:00 AM 13-06-2025"
     }
   ]
 }
