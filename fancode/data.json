@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:25 AM 12-06-2025",
+  "last update time": "10:54 AM 12-06-2025",
   "matches": [
-    {
-      "id": 128302,
-      "event_category": "Cricket",
-      "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cambodia-tour-of-Indonesia-old.jpg",
-      "team_1": "Indonesia",
-      "team_2": "Cambodia",
-      "status": "LIVE",
-      "event_name": "Cambodia tour of Indonesia, 2025",
-      "match_name": "Indonesia vs Cambodia",
-      "startTime": "07:00:00 AM 12-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/BpmNDtHJRPu9nPCjq3Gsmg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128302_english_hls_3957ta-di_h264/index.m3u8"
-    },
     {
       "id": 128081,
       "event_category": "Cricket",
@@ -464,6 +450,18 @@
       "event_name": "UEFA European Under-21 Championship",
       "match_name": "Czechia U21 vs England U21",
       "startTime": "12:30:00 AM 13-06-2025"
+    },
+    {
+      "id": 128779,
+      "event_category": "Cricket",
+      "title": "Pondicherry XI vs Malaysia (Pondicherry Emerging XI tour of Malaysia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Emerging-XI-tour-of-Malaysia,-2025-old-match-card.jpg",
+      "team_1": "Pondicherry XI",
+      "team_2": "Malaysia",
+      "status": "UPCOMING",
+      "event_name": "Pondicherry Emerging XI tour of Malaysia, 2025",
+      "match_name": "Pondicherry XI vs Malaysia",
+      "startTime": "07:30:00 AM 13-06-2025"
     }
   ]
 }
