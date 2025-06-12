@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:10 AM 13-06-2025",
+  "last update time": "03:27 AM 13-06-2025",
   "matches": [
     {
       "id": 125415,
@@ -44,62 +44,6 @@
       "startTime": "12:40:00 AM 13-06-2025",
       "dai_url": "https://mls3.fancode.com/dccc4315-af8c-4711-b7d4-cc2b724df92d/index.m3u8",
       "adfree_url": "https://mls3.fancode.com/dccc4315-af8c-4711-b7d4-cc2b724df92d/index.m3u8"
-    },
-    {
-      "id": 123320,
-      "event_category": "Football",
-      "title": "Finland U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123320_5106_FIN-U21_NE-U21_fc-web.jpg",
-      "team_1": "Finland U21",
-      "team_2": "Netherlands U21",
-      "status": "LIVE",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Finland U21 vs Netherlands U21",
-      "startTime": "12:30:00 AM 13-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/UB5OsXskRAejMklGWCwvmg/master.m3u8",
-      "adfree_url": null
-    },
-    {
-      "id": 123319,
-      "event_category": "Football",
-      "title": "Germany U21 vs Slovenia U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123319_5106_GER-U21_SLV_fc-web.jpg",
-      "team_1": "Germany U21",
-      "team_2": "Slovenia U21",
-      "status": "LIVE",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Germany U21 vs Slovenia U21",
-      "startTime": "12:30:00 AM 13-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/tAoQbq2AQuCCtYbw9ArTRg/master.m3u8",
-      "adfree_url": null
-    },
-    {
-      "id": 123318,
-      "event_category": "Football",
-      "title": "Czechia U21 vs England U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-web.jpg",
-      "team_1": "Czechia U21",
-      "team_2": "England U21",
-      "status": "LIVE",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Czechia U21 vs England U21",
-      "startTime": "12:30:00 AM 13-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/rNqQOEmoSciSTWVnawLr4g/master.m3u8",
-      "adfree_url": null
-    },
-    {
-      "id": 128611,
-      "event_category": "Football",
-      "title": "Mirandés vs Racing de Santander (LALIGA HYPERMOTION 2024-25)",
-      "src": "https://images.fancode.com/aig/match/v1/128611_CASACARDS_APP.png",
-      "team_1": "Mirandés",
-      "team_2": "Racing de Santander",
-      "status": "LIVE",
-      "event_name": "LALIGA HYPERMOTION 2024-25",
-      "match_name": "Mirandés vs Racing de Santander",
-      "startTime": "12:30:00 AM 13-06-2025",
-      "dai_url": "https://dai.fancode.com/primary/128611_english_hls_28508ta-di_h264/index.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128611_english_hls_28508ta-di_h264/index.m3u8"
     },
     {
       "id": 128053,
@@ -460,6 +404,54 @@
       "event_name": "KCC T20 Challengers B League Edition 3, 2025",
       "match_name": "Thunder Cats vs Lexus",
       "startTime": "12:30:00 AM 14-06-2025"
+    },
+    {
+      "id": 128859,
+      "event_category": "Motorsports",
+      "title": "Session 1: Qualifying Time Trials vs Dubrovnik (E1 Dubrovnik GP)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
+      "team_1": "Session 1: Qualifying Time Trials",
+      "team_2": "Dubrovnik",
+      "status": "UPCOMING",
+      "event_name": "E1 Dubrovnik GP",
+      "match_name": "Session 1: Qualifying Time Trials",
+      "startTime": "04:35:00 PM 13-06-2025"
+    },
+    {
+      "id": 128304,
+      "event_category": "Cricket",
+      "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cambodia-tour-of-Indonesia-old.jpg",
+      "team_1": "Indonesia",
+      "team_2": "Cambodia",
+      "status": "UPCOMING",
+      "event_name": "Cambodia tour of Indonesia, 2025",
+      "match_name": "Indonesia vs Cambodia",
+      "startTime": "07:00:00 AM 14-06-2025"
+    },
+    {
+      "id": 128769,
+      "event_category": "Golf",
+      "title": "Day 2 vs Hulencourt Golf Club (Hulencourt Women’s Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hulencourt-Womens-open-old.jpg",
+      "team_1": "Day 2",
+      "team_2": "Hulencourt Golf Club",
+      "status": "UPCOMING",
+      "event_name": "Hulencourt Women’s Open",
+      "match_name": "Day 2",
+      "startTime": "07:00:00 PM 13-06-2025"
+    },
+    {
+      "id": 128860,
+      "event_category": "Motorsports",
+      "title": "Session 2 - Qualifying Races vs Dubrovnik (E1 Dubrovnik GP)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
+      "team_1": "Session 2 - Qualifying Races",
+      "team_2": "Dubrovnik",
+      "status": "UPCOMING",
+      "event_name": "E1 Dubrovnik GP",
+      "match_name": "Session 2 - Qualifying Races",
+      "startTime": "07:50:00 PM 13-06-2025"
     }
   ]
 }
