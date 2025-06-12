@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:11 AM 13-06-2025",
+  "last update time": "05:27 AM 13-06-2025",
   "matches": [
     {
       "id": 128461,
@@ -14,8 +14,8 @@
       "event_name": "US Open",
       "match_name": "Day 1",
       "startTime": "09:30:00 PM 12-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/MJ8zdZNQQcqJ-QJ90nFDCw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128461_english_hls_81182ta-di_h264/index.m3u8"
+      "dai_url": "https://mls3.fancode.com/c1ffaae9-2dce-4e0b-834f-afbf4d1cc846/index.m3u8",
+      "adfree_url": "https://mls3.fancode.com/c1ffaae9-2dce-4e0b-834f-afbf4d1cc846/index.m3u8"
     },
     {
       "id": 128053,
@@ -414,6 +414,18 @@
       "startTime": "07:00:00 PM 13-06-2025"
     },
     {
+      "id": 128085,
+      "event_category": "Cricket",
+      "title": "Harbour Diamonds Womens vs Lux Shyam Kolkata Tigers Womens (Bengal Women's Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128085_5283_HD-W_LSKT-W_fc-Web.jpg",
+      "team_1": "Harbour Diamonds Womens",
+      "team_2": "Lux Shyam Kolkata Tigers Womens",
+      "status": "UPCOMING",
+      "event_name": "Bengal Women's Pro T20 League, 2025",
+      "match_name": "Harbour Diamonds Womens vs Lux Shyam Kolkata Tigers Womens",
+      "startTime": "09:00:00 AM 14-06-2025"
+    },
+    {
       "id": 128860,
       "event_category": "Motorsports",
       "title": "Session 2 - Qualifying Races vs Dubrovnik (E1 Dubrovnik GP)",
@@ -436,18 +448,6 @@
       "event_name": "F1 ACADEMY CANADA 2025",
       "match_name": "Free Practice",
       "startTime": "08:35:00 PM 13-06-2025"
-    },
-    {
-      "id": 128085,
-      "event_category": "Cricket",
-      "title": "Harbour Diamonds Womens vs Lux Shyam Kolkata Tigers Womens (Bengal Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128085_5283_HD-W_LSKT-W_fc-Web.jpg",
-      "team_1": "Harbour Diamonds Womens",
-      "team_2": "Lux Shyam Kolkata Tigers Womens",
-      "status": "UPCOMING",
-      "event_name": "Bengal Women's Pro T20 League, 2025",
-      "match_name": "Harbour Diamonds Womens vs Lux Shyam Kolkata Tigers Womens",
-      "startTime": "09:00:00 AM 14-06-2025"
     }
   ]
 }
