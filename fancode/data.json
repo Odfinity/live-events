@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:59 PM 14-06-2025",
+  "last update time": "03:15 PM 14-06-2025",
   "matches": [
     {
       "id": 128055,
@@ -30,6 +30,20 @@
       "startTime": "03:00:00 PM 14-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/6g_I_ct7QG6EvcfE9I3aLg/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128194_english_hls_31206ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 126537,
+      "event_category": "Cricket",
+      "title": "Lyca Kovai Kings vs Chepauk Super Gillies (Shriram Capital TNPL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Kovai_Old_match_card.jpg",
+      "team_1": "Lyca Kovai Kings",
+      "team_2": "Chepauk Super Gillies",
+      "status": "LIVE",
+      "event_name": "Shriram Capital TNPL",
+      "match_name": "Lyca Kovai Kings vs Chepauk Super Gillies",
+      "startTime": "03:15:00 PM 14-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/H5cwXgcWRaWYCw8jMUyTIA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/126537_english_hls_1603ta-di_h264/index.m3u8"
     },
     {
       "id": 128305,
@@ -128,18 +142,6 @@
       "startTime": "02:30:00 PM 14-06-2025",
       "dai_url": "https://dai.fancode.com/primary/126253_english_hls_75316ta-di_h264/index.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/126253_english_hls_75316ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 126537,
-      "event_category": "Cricket",
-      "title": "Lyca Kovai Kings vs Chepauk Super Gillies (Shriram Capital TNPL)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Kovai_Old_match_card.jpg",
-      "team_1": "Lyca Kovai Kings",
-      "team_2": "Chepauk Super Gillies",
-      "status": "UPCOMING",
-      "event_name": "Shriram Capital TNPL",
-      "match_name": "Lyca Kovai Kings vs Chepauk Super Gillies",
-      "startTime": "03:15:00 PM 14-06-2025"
     },
     {
       "id": 128056,
@@ -394,18 +396,6 @@
       "startTime": "12:00:00 AM 15-06-2025"
     },
     {
-      "id": 123321,
-      "event_category": "Football",
-      "title": "Spain U21 vs Romania U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-web.jpg",
-      "team_1": "Spain U21",
-      "team_2": "Romania U21",
-      "status": "UPCOMING",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Spain U21 vs Romania U21",
-      "startTime": "09:30:00 PM 14-06-2025"
-    },
-    {
       "id": 128057,
       "event_category": "Cricket",
       "title": "Harbour Diamonds vs Sobisco Smashers Malda (Bengal Pro T20 league, 2025)",
@@ -416,6 +406,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Harbour Diamonds vs Sobisco Smashers Malda",
       "startTime": "01:00:00 PM 15-06-2025"
+    },
+    {
+      "id": 123321,
+      "event_category": "Football",
+      "title": "Spain U21 vs Romania U21 (UEFA European Under-21 Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-web.jpg",
+      "team_1": "Spain U21",
+      "team_2": "Romania U21",
+      "status": "UPCOMING",
+      "event_name": "UEFA European Under-21 Championship",
+      "match_name": "Spain U21 vs Romania U21",
+      "startTime": "09:30:00 PM 14-06-2025"
     },
     {
       "id": 123324,
