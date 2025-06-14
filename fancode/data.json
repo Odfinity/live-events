@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:05 PM 14-06-2025",
+  "last update time": "11:17 PM 14-06-2025",
   "matches": [
+    {
+      "id": 125936,
+      "event_category": "Cricket",
+      "title": "Sussex vs Glamorgan (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125936_5207_GLA_SUS_fc-Web.jpg",
+      "team_1": "Sussex",
+      "team_2": "Glamorgan",
+      "status": "LIVE",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Sussex vs Glamorgan",
+      "startTime": "11:00:00 PM 14-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+      "adfree_url": null
+    },
     {
       "id": 123321,
       "event_category": "Football",
@@ -30,20 +44,6 @@
       "startTime": "07:30:00 PM 14-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/LNfyB2sqT7qKoI0FWgtLKw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/127545_english_hls_35530ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 127782,
-      "event_category": "Cricket",
-      "title": "Karnavati Kings vs Heritage City Titans (Cricket Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127777_5267_HCT_KVK_fc-web.jpg",
-      "team_1": "Karnavati Kings",
-      "team_2": "Heritage City Titans",
-      "status": "LIVE",
-      "event_name": "Cricket Premier League, 2025",
-      "match_name": "Karnavati Kings vs Heritage City Titans",
-      "startTime": "07:00:00 PM 14-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZXER6WHAQxawRcZSgrw_gQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127782_english_hls_63123ta-di_h264/index.m3u8"
     },
     {
       "id": 128403,
@@ -158,32 +158,6 @@
       "adfree_url": null
     },
     {
-      "id": 128851,
-      "event_category": "Cricket",
-      "title": "Czechia Women vs Croatia Women (ECI-W Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128851_5327_CZE-W_CRO-W_fc-web.jpg",
-      "team_1": "Czechia Women",
-      "team_2": "Croatia Women",
-      "status": "LIVE",
-      "event_name": "ECI-W Czechia, 2025",
-      "match_name": "Czechia Women vs Croatia Women",
-      "startTime": "08:45:00 PM 14-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/7ezEz9v3S1aZlEexGpd_Nw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128851_english_hls_888ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 125936,
-      "event_category": "Cricket",
-      "title": "Sussex vs Glamorgan (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125936_5207_GLA_SUS_fc-Web.jpg",
-      "team_1": "Sussex",
-      "team_2": "Glamorgan",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Sussex vs Glamorgan",
-      "startTime": "11:00:00 PM 14-06-2025"
-    },
-    {
       "id": 123324,
       "event_category": "Football",
       "title": "France U21 vs Georgia U21 (UEFA European Under-21 Championship)",
@@ -278,6 +252,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Harbour Diamonds vs Sobisco Smashers Malda",
       "startTime": "01:00:00 PM 15-06-2025"
+    },
+    {
+      "id": 128215,
+      "event_category": "Cricket",
+      "title": "Chicago Steelpan Players vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128215_5288_SPK_SLS_fc-Web.jpg",
+      "team_1": "Chicago Steelpan Players",
+      "team_2": "Scarlet Ibis Scorchers",
+      "status": "UPCOMING",
+      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+      "match_name": "Chicago Steelpan Players vs Scarlet Ibis Scorchers",
+      "startTime": "12:00:00 AM 15-06-2025"
     },
     {
       "id": 128196,
@@ -388,18 +374,6 @@
       "startTime": "07:45:00 PM 15-06-2025"
     },
     {
-      "id": 128215,
-      "event_category": "Cricket",
-      "title": "Chicago Steelpan Players vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128215_5288_SPK_SLS_fc-Web.jpg",
-      "team_1": "Chicago Steelpan Players",
-      "team_2": "Scarlet Ibis Scorchers",
-      "status": "UPCOMING",
-      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-      "match_name": "Chicago Steelpan Players vs Scarlet Ibis Scorchers",
-      "startTime": "12:00:00 AM 15-06-2025"
-    },
-    {
       "id": 125941,
       "event_category": "Cricket",
       "title": "Somerset vs Kent (Vitality Blast T20, 2025)",
@@ -482,6 +456,18 @@
       "event_name": "Sikkim T20 League, 2025",
       "match_name": "Irises Cricket Club vs Black Eagle SAP",
       "startTime": "12:30:00 PM 15-06-2025"
+    },
+    {
+      "id": 128852,
+      "event_category": "Cricket",
+      "title": "Gibraltar Women vs Croatia Women (ECI-W Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128852_5327_GIB-W_CRO-W_fc-web.jpg",
+      "team_1": "Gibraltar Women",
+      "team_2": "Croatia Women",
+      "status": "UPCOMING",
+      "event_name": "ECI-W Czechia, 2025",
+      "match_name": "Gibraltar Women vs Croatia Women",
+      "startTime": "12:45:00 PM 15-06-2025"
     }
   ]
 }
