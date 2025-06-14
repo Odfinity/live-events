@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:12 AM 15-06-2025",
+  "last update time": "02:27 AM 15-06-2025",
   "matches": [
     {
       "id": 118429,
@@ -74,20 +74,6 @@
       "adfree_url": "https://dai.fancode.com/primary/127545_english_hls_35530ta-di_h264/index.m3u8"
     },
     {
-      "id": 125936,
-      "event_category": "Cricket",
-      "title": "Sussex vs Glamorgan (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125936_5207_GLA_SUS_fc-Web.jpg",
-      "team_1": "Sussex",
-      "team_2": "Glamorgan",
-      "status": "LIVE",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Sussex vs Glamorgan",
-      "startTime": "11:00:00 PM 14-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-      "adfree_url": null
-    },
-    {
       "id": 128403,
       "event_category": "Cricket",
       "title": "West Indies Academy vs Sri Lanka Emerging (Sri Lanka Emerging tour of West Indies)",
@@ -100,20 +86,6 @@
       "startTime": "07:30:00 PM 14-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/e5EYO3ZKSsm0TwIvCBtNNw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128403_english_hls_89443ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128215,
-      "event_category": "Cricket",
-      "title": "Scarlet Ibis Scorchers vs Chicago Steelpan Players (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128215_5288_SPK_SLS_fc-Web.jpg",
-      "team_1": "Scarlet Ibis Scorchers",
-      "team_2": "Chicago Steelpan Players",
-      "status": "LIVE",
-      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-      "match_name": "Scarlet Ibis Scorchers vs Chicago Steelpan Players",
-      "startTime": "12:00:00 AM 15-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/v1YYa_48Si2VHVNrvwUzvw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128215_english_hls_98078ta-di_h264/index.m3u8"
     },
     {
       "id": 128463,
@@ -454,6 +426,30 @@
       "event_name": "ECI-W Czechia, 2025",
       "match_name": "Czechia Women vs Gibraltar Women",
       "startTime": "02:45:00 PM 15-06-2025"
+    },
+    {
+      "id": 126056,
+      "event_category": "Cricket",
+      "title": "Gloucestershire Women vs Kent Women (Women's Vitality Blast League 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
+      "team_1": "Gloucestershire Women",
+      "team_2": "Kent Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Vitality Blast League 2, 2025",
+      "match_name": "Gloucestershire Women vs Kent Women",
+      "startTime": "04:30:00 PM 15-06-2025"
+    },
+    {
+      "id": 128854,
+      "event_category": "Cricket",
+      "title": "Croatia Women vs Czechia Women (ECI-W Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128854_5327_CRO-W_CZE-W_fc-web.jpg",
+      "team_1": "Croatia Women",
+      "team_2": "Czechia Women",
+      "status": "UPCOMING",
+      "event_name": "ECI-W Czechia, 2025",
+      "match_name": "Croatia Women vs Czechia Women",
+      "startTime": "04:45:00 PM 15-06-2025"
     }
   ]
 }
