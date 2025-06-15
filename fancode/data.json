@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 15-06-2025",
+  "last update time": "06:13 PM 15-06-2025",
   "matches": [
     {
       "id": 126539,
@@ -74,20 +74,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128439_english_hls_7132ta-di_h264/index.m3u8"
     },
     {
-      "id": 128854,
-      "event_category": "Cricket",
-      "title": "Czechia Women vs Croatia Women (ECI-W Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128854_5327_CRO-W_CZE-W_fc-web.jpg",
-      "team_1": "Czechia Women",
-      "team_2": "Croatia Women",
-      "status": "LIVE",
-      "event_name": "ECI-W Czechia, 2025",
-      "match_name": "Czechia Women vs Croatia Women",
-      "startTime": "04:45:00 PM 15-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZMMYT0t1RHuHLrUXOedixQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128854_english_hls_64411ta-di_h264/index.m3u8"
-    },
-    {
       "id": 126056,
       "event_category": "Cricket",
       "title": "Gloucestershire Women vs Kent Women (Women's Vitality Blast League 2, 2025)",
@@ -100,6 +86,20 @@
       "startTime": "04:30:00 PM 15-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Yfjdpx7iS_KhNw8oExK5Hg/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/126056_english_hls_79088ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128854,
+      "event_category": "Cricket",
+      "title": "Czechia Women vs Croatia Women (ECI-W Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128854_5327_CRO-W_CZE-W_fc-web.jpg",
+      "team_1": "Czechia Women",
+      "team_2": "Croatia Women",
+      "status": "LIVE",
+      "event_name": "ECI-W Czechia, 2025",
+      "match_name": "Czechia Women vs Croatia Women",
+      "startTime": "04:45:00 PM 15-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ZMMYT0t1RHuHLrUXOedixQ/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128854_english_hls_64411ta-di_h264/index.m3u8"
     },
     {
       "id": 128771,
@@ -212,6 +212,30 @@
       "startTime": "08:30:00 PM 15-06-2025"
     },
     {
+      "id": 128671,
+      "event_category": "Cricket",
+      "title": "Ami Super Avengers vs Diamond Dazzlers (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128671_5310_ASV_DDZ_fc-Web.jpg",
+      "team_1": "Ami Super Avengers",
+      "team_2": "Diamond Dazzlers",
+      "status": "UPCOMING",
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Ami Super Avengers vs Diamond Dazzlers",
+      "startTime": "06:45:00 PM 15-06-2025"
+    },
+    {
+      "id": 128855,
+      "event_category": "Cricket",
+      "title": "Gibraltar Women vs Croatia Women (ECI-W Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128855_5327_CRO-W_GIB-W_fc-web.jpg",
+      "team_1": "Gibraltar Women",
+      "team_2": "Croatia Women",
+      "status": "UPCOMING",
+      "event_name": "ECI-W Czechia, 2025",
+      "match_name": "Gibraltar Women vs Croatia Women",
+      "startTime": "06:45:00 PM 15-06-2025"
+    },
+    {
       "id": 128059,
       "event_category": "Cricket",
       "title": "Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
@@ -234,30 +258,6 @@
       "event_name": "Sri Lanka Emerging tour of West Indies",
       "match_name": "Sri Lanka Emerging vs West Indies Academy",
       "startTime": "07:30:00 PM 14-06-2025"
-    },
-    {
-      "id": 128671,
-      "event_category": "Cricket",
-      "title": "Ami Super Avengers vs Diamond Dazzlers (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128671_5310_ASV_DDZ_fc-Web.jpg",
-      "team_1": "Ami Super Avengers",
-      "team_2": "Diamond Dazzlers",
-      "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "Ami Super Avengers vs Diamond Dazzlers",
-      "startTime": "06:45:00 PM 15-06-2025"
-    },
-    {
-      "id": 128855,
-      "event_category": "Cricket",
-      "title": "Croatia Women vs Gibraltar Women (ECI-W Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128855_5327_CRO-W_GIB-W_fc-web.jpg",
-      "team_1": "Croatia Women",
-      "team_2": "Gibraltar Women",
-      "status": "UPCOMING",
-      "event_name": "ECI-W Czechia, 2025",
-      "match_name": "Croatia Women vs Gibraltar Women",
-      "startTime": "06:45:00 PM 15-06-2025"
     },
     {
       "id": 128440,
@@ -332,6 +332,18 @@
       "startTime": "01:00:00 AM 16-06-2025"
     },
     {
+      "id": 128218,
+      "event_category": "Cricket",
+      "title": "Bess Motors Blue Devils vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128218_5288_BLD_SLS_fc-Web.jpg",
+      "team_1": "Bess Motors Blue Devils",
+      "team_2": "Scarlet Ibis Scorchers",
+      "status": "UPCOMING",
+      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+      "match_name": "Bess Motors Blue Devils vs Scarlet Ibis Scorchers",
+      "startTime": "02:30:00 AM 16-06-2025"
+    },
+    {
       "id": 123326,
       "event_category": "Football",
       "title": "Finland U21 vs Ukraine U21 (UEFA European Under-21 Championship)",
@@ -354,18 +366,6 @@
       "event_name": "UEFA European Under-21 Championship",
       "match_name": "England U21 vs Slovenia U21",
       "startTime": "09:30:00 PM 15-06-2025"
-    },
-    {
-      "id": 128218,
-      "event_category": "Cricket",
-      "title": "Bess Motors Blue Devils vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128218_5288_BLD_SLS_fc-Web.jpg",
-      "team_1": "Bess Motors Blue Devils",
-      "team_2": "Scarlet Ibis Scorchers",
-      "status": "UPCOMING",
-      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-      "match_name": "Bess Motors Blue Devils vs Scarlet Ibis Scorchers",
-      "startTime": "02:30:00 AM 16-06-2025"
     },
     {
       "id": 123328,
@@ -452,18 +452,6 @@
       "startTime": "12:30:00 PM 16-06-2025"
     },
     {
-      "id": 128612,
-      "event_category": "Football",
-      "title": "Mirandés vs Real Oviedo (LALIGA HYPERMOTION 2024-25)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Mirandés",
-      "team_2": "Real Oviedo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA HYPERMOTION 2024-25",
-      "match_name": "Mirandés vs Real Oviedo",
-      "startTime": "10:30:00 PM 15-06-2025"
-    },
-    {
       "id": 128090,
       "event_category": "Cricket",
       "title": "Murshidabad Kueens Womens vs Shrachi Rarh Tigers Womens (Bengal Women's Pro T20 League, 2025)",
@@ -474,6 +462,18 @@
       "event_name": "Bengal Women's Pro T20 League, 2025",
       "match_name": "Murshidabad Kueens Womens vs Shrachi Rarh Tigers Womens",
       "startTime": "01:30:00 PM 16-06-2025"
+    },
+    {
+      "id": 128612,
+      "event_category": "Football",
+      "title": "Mirandés vs Real Oviedo (LALIGA HYPERMOTION 2024-25)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Mirandés",
+      "team_2": "Real Oviedo",
+      "status": "UPCOMING",
+      "event_name": "LALIGA HYPERMOTION 2024-25",
+      "match_name": "Mirandés vs Real Oviedo",
+      "startTime": "10:30:00 PM 15-06-2025"
     }
   ]
 }
