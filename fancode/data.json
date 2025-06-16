@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:07 AM 17-06-2025",
+  "last update time": "12:26 AM 17-06-2025",
   "matches": [
     {
       "id": 125418,
@@ -30,20 +30,6 @@
       "startTime": "12:00:00 AM 17-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/82VOUAe5ROKg-j5rYSJeig/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128220_english_hls_41337ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 127627,
-      "event_category": "Cricket",
-      "title": "Netherlands vs Nepal (Nepal and Netherlands tour of Scotland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127627_5263_NEP_NED_fc-Web.png",
-      "team_1": "Netherlands",
-      "team_2": "Nepal",
-      "status": "LIVE",
-      "event_name": "Nepal and Netherlands tour of Scotland, 2025",
-      "match_name": "Netherlands vs Nepal",
-      "startTime": "07:30:00 PM 16-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/EG8kvsfqRyqOTcRWavJOgg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127627_english_hls_31418ta-di_h264/index.m3u8"
     },
     {
       "id": 128198,
@@ -96,13 +82,13 @@
     {
       "id": 128698,
       "event_category": "Cricket",
-      "title": "Bermuda vs Bahamas (ICC Men's T20 World Cup Americas Regional Final)",
+      "title": "Bahamas vs Bermuda (ICC Men's T20 World Cup Americas Regional Final)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/128698_5311_BER_BAH_fc-web.jpg",
-      "team_1": "Bermuda",
-      "team_2": "Bahamas",
+      "team_1": "Bahamas",
+      "team_2": "Bermuda",
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 World Cup Americas Regional Final",
-      "match_name": "Bermuda vs Bahamas",
+      "match_name": "Bahamas vs Bermuda",
       "startTime": "01:00:00 AM 17-06-2025"
     },
     {
@@ -286,18 +272,6 @@
       "startTime": "03:15:00 PM 17-06-2025"
     },
     {
-      "id": 129035,
-      "event_category": "Cricket",
-      "title": "Ostrava vs Praha Dominators (ECS Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
-      "team_1": "Ostrava",
-      "team_2": "Praha Dominators",
-      "status": "UPCOMING",
-      "event_name": "ECS Czechia, 2025",
-      "match_name": "Ostrava vs Praha Dominators",
-      "startTime": "04:15:00 PM 17-06-2025"
-    },
-    {
       "id": 125942,
       "event_category": "Cricket",
       "title": "Hampshire vs Surrey (Vitality Blast T20, 2025)",
@@ -308,6 +282,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Hampshire vs Surrey",
       "startTime": "11:30:00 PM 17-06-2025"
+    },
+    {
+      "id": 129035,
+      "event_category": "Cricket",
+      "title": "Ostrava vs Praha Dominators (ECS Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
+      "team_1": "Ostrava",
+      "team_2": "Praha Dominators",
+      "status": "UPCOMING",
+      "event_name": "ECS Czechia, 2025",
+      "match_name": "Ostrava vs Praha Dominators",
+      "startTime": "04:15:00 PM 17-06-2025"
     },
     {
       "id": 129036,
@@ -452,6 +438,18 @@
       "event_name": "UEFA European Under-21 Championship",
       "match_name": "Romania U21 vs Slovakia U21",
       "startTime": "12:30:00 AM 18-06-2025"
+    },
+    {
+      "id": 128224,
+      "event_category": "Cricket",
+      "title": "Samp Army Cocrico Cavaliers vs Soca Kings (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128224_5288_SCL_SCK_fc-Web.jpg",
+      "team_1": "Samp Army Cocrico Cavaliers",
+      "team_2": "Soca Kings",
+      "status": "UPCOMING",
+      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+      "match_name": "Samp Army Cocrico Cavaliers vs Soca Kings",
+      "startTime": "02:30:00 AM 18-06-2025"
     }
   ]
 }
