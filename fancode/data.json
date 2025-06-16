@@ -1,18 +1,18 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:25 PM 16-06-2025",
+  "last update time": "07:56 PM 16-06-2025",
   "matches": [
     {
       "id": 126541,
       "event_category": "Cricket",
-      "title": "Dindigul Dragons vs Chepauk Super Gillies (Shriram Capital TNPL)",
+      "title": "Chepauk Super Gillies vs Dindigul Dragons (Shriram Capital TNPL)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Chepauk_Old_match_card.jpg",
-      "team_1": "Dindigul Dragons",
-      "team_2": "Chepauk Super Gillies",
+      "team_1": "Chepauk Super Gillies",
+      "team_2": "Dindigul Dragons",
       "status": "LIVE",
       "event_name": "Shriram Capital TNPL",
-      "match_name": "Dindigul Dragons vs Chepauk Super Gillies",
+      "match_name": "Chepauk Super Gillies vs Dindigul Dragons",
       "startTime": "07:15:00 PM 16-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Hc5tL8tHSlCJROCW4Cg0Hg/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/126541_english_hls_62369ta-di_h264/index.m3u8"
@@ -56,8 +56,8 @@
       "event_name": "Saurashtra Pro T20 League, 2025",
       "match_name": "Aryan Sorath Lions vs Dita Gohilwad Titans",
       "startTime": "07:30:00 PM 16-06-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/pATW1rqXSd6d2zxdu9AA7w/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128198_english_hls_63070ta-di_h264/index.m3u8"
     },
     {
       "id": 129031,
@@ -102,6 +102,20 @@
       "adfree_url": "https://dai.fancode.com/primary/128442_english_hls_40978ta-di_h264/index.m3u8"
     },
     {
+      "id": 128697,
+      "event_category": "Cricket",
+      "title": "Canada vs Cayman Islands (ICC Men's T20 World Cup Americas Regional Final)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128697_5311_CAN_CAY_fc-web.jpg",
+      "team_1": "Canada",
+      "team_2": "Cayman Islands",
+      "status": "LIVE",
+      "event_name": "ICC Men's T20 World Cup Americas Regional Final",
+      "match_name": "Canada vs Cayman Islands",
+      "startTime": "08:00:00 PM 16-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/8y7tYeB0S0eif_3eUd7beA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128697_english_hls_99577ta-di_h264/index.m3u8"
+    },
+    {
       "id": 128403,
       "event_category": "Cricket",
       "title": "Sri Lanka Emerging vs West Indies Academy (Sri Lanka Emerging tour of West Indies)",
@@ -128,16 +142,16 @@
       "startTime": "10:00:00 AM 17-06-2025"
     },
     {
-      "id": 128697,
+      "id": 129032,
       "event_category": "Cricket",
-      "title": "Canada vs Cayman Islands (ICC Men's T20 World Cup Americas Regional Final)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128697_5311_CAN_CAY_fc-web.jpg",
-      "team_1": "Canada",
-      "team_2": "Cayman Islands",
+      "title": "Moravian vs Ostrava (ECS Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
+      "team_1": "Moravian",
+      "team_2": "Ostrava",
       "status": "UPCOMING",
-      "event_name": "ICC Men's T20 World Cup Americas Regional Final",
-      "match_name": "Canada vs Cayman Islands",
-      "startTime": "08:00:00 PM 16-06-2025"
+      "event_name": "ECS Czechia, 2025",
+      "match_name": "Moravian vs Ostrava",
+      "startTime": "08:30:00 PM 16-06-2025"
     },
     {
       "id": 128061,
@@ -162,18 +176,6 @@
       "event_name": "Saurashtra Pro T20 League, 2025",
       "match_name": "JMD Kutch Riders vs Dita Gohilwad Titans",
       "startTime": "03:00:00 PM 17-06-2025"
-    },
-    {
-      "id": 129032,
-      "event_category": "Cricket",
-      "title": "Moravian vs Ostrava (ECS Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
-      "team_1": "Moravian",
-      "team_2": "Ostrava",
-      "status": "UPCOMING",
-      "event_name": "ECS Czechia, 2025",
-      "match_name": "Moravian vs Ostrava",
-      "startTime": "08:30:00 PM 16-06-2025"
     },
     {
       "id": 128219,
@@ -260,18 +262,6 @@
       "startTime": "09:00:00 AM 17-06-2025"
     },
     {
-      "id": 129033,
-      "event_category": "Cricket",
-      "title": "Vinohrady vs Praha Dominators (ECS Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
-      "team_1": "Vinohrady",
-      "team_2": "Praha Dominators",
-      "status": "UPCOMING",
-      "event_name": "ECS Czechia, 2025",
-      "match_name": "Vinohrady vs Praha Dominators",
-      "startTime": "12:15:00 PM 17-06-2025"
-    },
-    {
       "id": 128062,
       "event_category": "Cricket",
       "title": "Adamas Howrah Warriors vs Murshidabad Kings (Bengal Pro T20 league, 2025)",
@@ -284,16 +274,16 @@
       "startTime": "07:00:00 PM 17-06-2025"
     },
     {
-      "id": 128712,
+      "id": 129033,
       "event_category": "Cricket",
-      "title": "Royal North Brothers vs Black Eagles (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128712_5312_RNB_BES_fc-web.jpg",
-      "team_1": "Royal North Brothers",
-      "team_2": "Black Eagles",
+      "title": "Vinohrady vs Praha Dominators (ECS Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
+      "team_1": "Vinohrady",
+      "team_2": "Praha Dominators",
       "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Royal North Brothers vs Black Eagles",
-      "startTime": "12:30:00 PM 17-06-2025"
+      "event_name": "ECS Czechia, 2025",
+      "match_name": "Vinohrady vs Praha Dominators",
+      "startTime": "12:15:00 PM 17-06-2025"
     },
     {
       "id": 126542,
@@ -308,16 +298,16 @@
       "startTime": "07:15:00 PM 17-06-2025"
     },
     {
-      "id": 128092,
+      "id": 128712,
       "event_category": "Cricket",
-      "title": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens (Bengal Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128092_5283_HD-W_AHW-W_fc-Web.jpg",
-      "team_1": "Harbour Diamonds Womens",
-      "team_2": "Adamas Howrah Warriors Womens",
+      "title": "Royal North Brothers vs Black Eagles (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128712_5312_RNB_BES_fc-web.jpg",
+      "team_1": "Royal North Brothers",
+      "team_2": "Black Eagles",
       "status": "UPCOMING",
-      "event_name": "Bengal Women's Pro T20 League, 2025",
-      "match_name": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens",
-      "startTime": "01:30:00 PM 17-06-2025"
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Royal North Brothers vs Black Eagles",
+      "startTime": "12:30:00 PM 17-06-2025"
     },
     {
       "id": 127546,
@@ -354,6 +344,18 @@
       "event_name": "Saurashtra Pro T20 League, 2025",
       "match_name": "Zalawad Strikers vs Aryan Sorath Lions",
       "startTime": "07:30:00 PM 17-06-2025"
+    },
+    {
+      "id": 128092,
+      "event_category": "Cricket",
+      "title": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens (Bengal Women's Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128092_5283_HD-W_AHW-W_fc-Web.jpg",
+      "team_1": "Harbour Diamonds Womens",
+      "team_2": "Adamas Howrah Warriors Womens",
+      "status": "UPCOMING",
+      "event_name": "Bengal Women's Pro T20 League, 2025",
+      "match_name": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens",
+      "startTime": "01:30:00 PM 17-06-2025"
     },
     {
       "id": 129034,
