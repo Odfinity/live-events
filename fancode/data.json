@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:20 PM 16-06-2025",
+  "last update time": "03:56 PM 16-06-2025",
   "matches": [
     {
       "id": 128059,
@@ -30,20 +30,6 @@
       "startTime": "03:00:00 PM 16-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/DXaJX3YZRr2BZrRmUIj4Cg/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/129187_english_hls_44392ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128710,
-      "event_category": "Cricket",
-      "title": "Avengers C.C vs Yuksom Capitals (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128710_5312_YC_ACC_fc-web.jpg",
-      "team_1": "Avengers C.C",
-      "team_2": "Yuksom Capitals",
-      "status": "LIVE",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Avengers C.C vs Yuksom Capitals",
-      "startTime": "12:30:00 PM 16-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JbT4D6xxTw64aGpuM1Wttg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128710_english_hls_56061ta-di_h264/index.m3u8"
     },
     {
       "id": 128090,
@@ -150,6 +136,18 @@
       "startTime": "07:30:00 PM 16-06-2025"
     },
     {
+      "id": 129030,
+      "event_category": "Cricket",
+      "title": "Moravian vs Praha Dominators (ECS Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
+      "team_1": "Moravian",
+      "team_2": "Praha Dominators",
+      "status": "UPCOMING",
+      "event_name": "ECS Czechia, 2025",
+      "match_name": "Moravian vs Praha Dominators",
+      "startTime": "04:15:00 PM 16-06-2025"
+    },
+    {
       "id": 128426,
       "event_category": "Cricket",
       "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
@@ -174,16 +172,16 @@
       "startTime": "07:30:00 PM 14-06-2025"
     },
     {
-      "id": 129030,
+      "id": 128061,
       "event_category": "Cricket",
-      "title": "Praha Dominators vs Moravian (ECS Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
-      "team_1": "Praha Dominators",
-      "team_2": "Moravian",
+      "title": "Sobisco Smashers Malda vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-Web.jpg",
+      "team_1": "Sobisco Smashers Malda",
+      "team_2": "Servotech Siliguri Strikers",
       "status": "UPCOMING",
-      "event_name": "ECS Czechia, 2025",
-      "match_name": "Praha Dominators vs Moravian",
-      "startTime": "04:15:00 PM 16-06-2025"
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Sobisco Smashers Malda vs Servotech Siliguri Strikers",
+      "startTime": "01:00:00 PM 17-06-2025"
     },
     {
       "id": 129031,
@@ -282,18 +280,6 @@
       "startTime": "12:00:00 AM 17-06-2025"
     },
     {
-      "id": 128061,
-      "event_category": "Cricket",
-      "title": "Sobisco Smashers Malda vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-Web.jpg",
-      "team_1": "Sobisco Smashers Malda",
-      "team_2": "Servotech Siliguri Strikers",
-      "status": "UPCOMING",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Sobisco Smashers Malda vs Servotech Siliguri Strikers",
-      "startTime": "01:00:00 PM 17-06-2025"
-    },
-    {
       "id": 128698,
       "event_category": "Cricket",
       "title": "Bermuda vs Bahamas (ICC Men's T20 World Cup Americas Regional Final)",
@@ -318,18 +304,6 @@
       "startTime": "02:30:00 AM 17-06-2025"
     },
     {
-      "id": 128711,
-      "event_category": "Cricket",
-      "title": "Pakyong XI vs Irises C.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128711_5312_PAK_ICC_fc-web.jpg",
-      "team_1": "Pakyong XI",
-      "team_2": "Irises C.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Pakyong XI vs Irises C.C",
-      "startTime": "08:30:00 AM 17-06-2025"
-    },
-    {
       "id": 128199,
       "event_category": "Cricket",
       "title": "JMD Kutch Riders vs Dita Gohilwad Titans (Saurashtra Pro T20 League, 2025)",
@@ -340,6 +314,18 @@
       "event_name": "Saurashtra Pro T20 League, 2025",
       "match_name": "JMD Kutch Riders vs Dita Gohilwad Titans",
       "startTime": "03:00:00 PM 17-06-2025"
+    },
+    {
+      "id": 128711,
+      "event_category": "Cricket",
+      "title": "Pakyong XI vs Irises C.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128711_5312_PAK_ICC_fc-web.jpg",
+      "team_1": "Pakyong XI",
+      "team_2": "Irises C.C",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Pakyong XI vs Irises C.C",
+      "startTime": "08:30:00 AM 17-06-2025"
     },
     {
       "id": 128091,
@@ -471,6 +457,18 @@
       "status": "UPCOMING",
       "event_name": "South Africa Women tour of West Indies, 2025",
       "match_name": "West Indies Women vs South Africa Women",
+      "startTime": "07:30:00 PM 17-06-2025"
+    },
+    {
+      "id": 127628,
+      "event_category": "Cricket",
+      "title": "Scotland vs Nepal (Nepal and Netherlands tour of Scotland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127628_5263_SCO_NEP_fc-Web.png",
+      "team_1": "Scotland",
+      "team_2": "Nepal",
+      "status": "UPCOMING",
+      "event_name": "Nepal and Netherlands tour of Scotland, 2025",
+      "match_name": "Scotland vs Nepal",
       "startTime": "07:30:00 PM 17-06-2025"
     }
   ]
