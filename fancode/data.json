@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 PM 17-06-2025",
+  "last update time": "06:27 PM 17-06-2025",
   "matches": [
-    {
-      "id": 128426,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
-      "team_1": "Bangladesh",
-      "team_2": "Sri Lanka",
-      "status": "LIVE",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Bangladesh vs Sri Lanka",
-      "startTime": "10:00:00 AM 17-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1750176404~acl=/*~id=74069291727203508301432737536601~hmac=854f8ba18abf50c636fc0534762da2d4f82852b9d3dd4abde832d404665a81d6"
-    },
     {
       "id": 128199,
       "event_category": "Cricket",
@@ -30,20 +16,6 @@
       "startTime": "03:00:00 PM 17-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/2ZkZMc2SSkuxo6-kkWi32w/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128199_english_hls_67472ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128674,
-      "event_category": "Cricket",
-      "title": "A4 Power Strikers vs Alembic Warriors (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128674_5310_APT_AWS_fc-Web.jpg",
-      "team_1": "A4 Power Strikers",
-      "team_2": "Alembic Warriors",
-      "status": "LIVE",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "A4 Power Strikers vs Alembic Warriors",
-      "startTime": "02:45:00 PM 17-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/bvoVgbNsThK3IGSj9YDFPA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128674_english_hls_66439ta-di_h264/index.m3u8"
     },
     {
       "id": 128443,
@@ -74,18 +46,32 @@
       "adfree_url": "https://dai.fancode.com/primary/125114_english_hls_98461ta-di_h264/index.m3u8"
     },
     {
-      "id": 129035,
+      "id": 129036,
       "event_category": "Cricket",
-      "title": "Praha Dominators vs Ostrava (ECS Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
-      "team_1": "Praha Dominators",
-      "team_2": "Ostrava",
+      "title": "Moravian vs Prague Spartans (ECS Czechia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
+      "team_1": "Moravian",
+      "team_2": "Prague Spartans",
       "status": "LIVE",
       "event_name": "ECS Czechia, 2025",
-      "match_name": "Praha Dominators vs Ostrava",
-      "startTime": "04:15:00 PM 17-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ExVqF0TZS3WvNqXJKLhFtw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129035_english_hls_35220ta-di_h264/index.m3u8"
+      "match_name": "Moravian vs Prague Spartans",
+      "startTime": "06:15:00 PM 17-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/xVIWgu6PQdS7iItbwNGHBA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129036_english_hls_30760ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129012,
+      "event_category": "Horse Racing",
+      "title": "Royal Ascot vs Berkshire (Royal Ascot)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
+      "team_1": "Royal Ascot",
+      "team_2": "Berkshire",
+      "status": "LIVE",
+      "event_name": "Royal Ascot",
+      "match_name": "Royal Ascot",
+      "startTime": "06:00:00 PM 17-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/iCi-EwK8T_GWd2WWRPVOXg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129012_english_hls_42301ta-di_h264/index.m3u8"
     },
     {
       "id": 128062,
@@ -110,6 +96,18 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Trichy Grand Cholas vs Lyca Kovai Kings",
       "startTime": "07:15:00 PM 17-06-2025"
+    },
+    {
+      "id": 128426,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "PAUSED",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "10:00:00 AM 17-06-2025"
     },
     {
       "id": 127546,
@@ -160,16 +158,16 @@
       "startTime": "11:30:00 PM 17-06-2025"
     },
     {
-      "id": 129036,
+      "id": 128675,
       "event_category": "Cricket",
-      "title": "Moravian vs Prague Spartans (ECS Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
-      "team_1": "Moravian",
-      "team_2": "Prague Spartans",
+      "title": "Pruthvi Panthers vs Diamond Dazzlers (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128675_5310_PTP_DDZ_fc-Web.jpg",
+      "team_1": "Pruthvi Panthers",
+      "team_2": "Diamond Dazzlers",
       "status": "UPCOMING",
-      "event_name": "ECS Czechia, 2025",
-      "match_name": "Moravian vs Prague Spartans",
-      "startTime": "06:15:00 PM 17-06-2025"
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Pruthvi Panthers vs Diamond Dazzlers",
+      "startTime": "06:45:00 PM 17-06-2025"
     },
     {
       "id": 128063,
@@ -184,16 +182,16 @@
       "startTime": "01:00:00 PM 18-06-2025"
     },
     {
-      "id": 128675,
+      "id": 128201,
       "event_category": "Cricket",
-      "title": "Pruthvi Panthers vs Diamond Dazzlers (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128675_5310_PTP_DDZ_fc-Web.jpg",
-      "team_1": "Pruthvi Panthers",
-      "team_2": "Diamond Dazzlers",
+      "title": "Anmol Kings Halar vs Dita Gohilwad Titans (Saurashtra Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128201_5287_HH_GG_fc-Web.jpg",
+      "team_1": "Anmol Kings Halar",
+      "team_2": "Dita Gohilwad Titans",
       "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "Pruthvi Panthers vs Diamond Dazzlers",
-      "startTime": "06:45:00 PM 17-06-2025"
+      "event_name": "Saurashtra Pro T20 League, 2025",
+      "match_name": "Anmol Kings Halar vs Dita Gohilwad Titans",
+      "startTime": "03:00:00 PM 18-06-2025"
     },
     {
       "id": 128444,
@@ -268,16 +266,16 @@
       "startTime": "12:00:00 AM 18-06-2025"
     },
     {
-      "id": 128201,
+      "id": 128224,
       "event_category": "Cricket",
-      "title": "Anmol Kings Halar vs Dita Gohilwad Titans (Saurashtra Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128201_5287_HH_GG_fc-Web.jpg",
-      "team_1": "Anmol Kings Halar",
-      "team_2": "Dita Gohilwad Titans",
+      "title": "Samp Army Cocrico Cavaliers vs Soca Kings (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128224_5288_SCL_SCK_fc-Web.jpg",
+      "team_1": "Samp Army Cocrico Cavaliers",
+      "team_2": "Soca Kings",
       "status": "UPCOMING",
-      "event_name": "Saurashtra Pro T20 League, 2025",
-      "match_name": "Anmol Kings Halar vs Dita Gohilwad Titans",
-      "startTime": "03:00:00 PM 18-06-2025"
+      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+      "match_name": "Samp Army Cocrico Cavaliers vs Soca Kings",
+      "startTime": "02:30:00 AM 18-06-2025"
     },
     {
       "id": 123330,
@@ -302,18 +300,6 @@
       "event_name": "UEFA European Under-21 Championship",
       "match_name": "Georgia U21 vs Portugal U21",
       "startTime": "09:30:00 PM 17-06-2025"
-    },
-    {
-      "id": 128224,
-      "event_category": "Cricket",
-      "title": "Samp Army Cocrico Cavaliers vs Soca Kings (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128224_5288_SCL_SCK_fc-Web.jpg",
-      "team_1": "Samp Army Cocrico Cavaliers",
-      "team_2": "Soca Kings",
-      "status": "UPCOMING",
-      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-      "match_name": "Samp Army Cocrico Cavaliers vs Soca Kings",
-      "startTime": "02:30:00 AM 18-06-2025"
     },
     {
       "id": 123332,
@@ -400,6 +386,30 @@
       "startTime": "01:30:00 PM 18-06-2025"
     },
     {
+      "id": 128064,
+      "event_category": "Cricket",
+      "title": "Harbour Diamonds vs Lux Shyam Kolkata Tigers (Bengal Pro T20 league, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128064_5282_HD_LSKT_fc-Web.jpg",
+      "team_1": "Harbour Diamonds",
+      "team_2": "Lux Shyam Kolkata Tigers",
+      "status": "UPCOMING",
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Harbour Diamonds vs Lux Shyam Kolkata Tigers",
+      "startTime": "07:00:00 PM 18-06-2025"
+    },
+    {
+      "id": 126543,
+      "event_category": "Cricket",
+      "title": "Siechem Madurai Panthers vs Nellai Royal Kings (Shriram Capital TNPL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Nellai_Old_match_card.jpg",
+      "team_1": "Siechem Madurai Panthers",
+      "team_2": "Nellai Royal Kings",
+      "status": "UPCOMING",
+      "event_name": "Shriram Capital TNPL",
+      "match_name": "Siechem Madurai Panthers vs Nellai Royal Kings",
+      "startTime": "07:15:00 PM 18-06-2025"
+    },
+    {
       "id": 129039,
       "event_category": "Cricket",
       "title": "TBC vs TBC (ECS Czechia, 2025)",
@@ -412,40 +422,52 @@
       "startTime": "02:15:00 PM 18-06-2025"
     },
     {
-      "id": 129012,
-      "event_category": "Horse Racing",
-      "title": "Royal Ascot vs Berkshire (Royal Ascot)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
-      "team_1": "Royal Ascot",
-      "team_2": "Berkshire",
+      "id": 127630,
+      "event_category": "Cricket",
+      "title": "Scotland vs Netherlands (Nepal and Netherlands tour of Scotland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-Web.png",
+      "team_1": "Scotland",
+      "team_2": "Netherlands",
       "status": "UPCOMING",
-      "event_name": "Royal Ascot",
-      "match_name": "Royal Ascot",
-      "startTime": "06:00:00 PM 17-06-2025"
+      "event_name": "Nepal and Netherlands tour of Scotland, 2025",
+      "match_name": "Scotland vs Netherlands",
+      "startTime": "07:30:00 PM 18-06-2025"
     },
     {
-      "id": 128781,
+      "id": 128202,
       "event_category": "Cricket",
-      "title": "Pondicherry Emerging XI vs Malaysia XI (Pondicherry Emerging XI tour of Malaysia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Emerging-XI-tour-of-Malaysia,-2025-old-match-card.jpg",
-      "team_1": "Pondicherry Emerging XI",
-      "team_2": "Malaysia XI",
+      "title": "JMD Kutch Riders vs Zalawad Strikers (Saurashtra Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128202_5287_KW_ZR_fc-Web.jpg",
+      "team_1": "JMD Kutch Riders",
+      "team_2": "Zalawad Strikers",
       "status": "UPCOMING",
-      "event_name": "Pondicherry Emerging XI tour of Malaysia, 2025",
-      "match_name": "Pondicherry Emerging XI vs Malaysia XI",
-      "startTime": "07:30:00 AM 18-06-2025"
+      "event_name": "Saurashtra Pro T20 League, 2025",
+      "match_name": "JMD Kutch Riders vs Zalawad Strikers",
+      "startTime": "07:30:00 PM 18-06-2025"
     },
     {
-      "id": 128064,
+      "id": 128676,
       "event_category": "Cricket",
-      "title": "Harbour Diamonds vs Lux Shyam Kolkata Tigers (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128064_5282_HD_LSKT_fc-Web.jpg",
-      "team_1": "Harbour Diamonds",
-      "team_2": "Lux Shyam Kolkata Tigers",
+      "title": "Ami Super Avengers vs Alembic Warriors (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128676_5310_ASV_AWS_fc-Web.jpg",
+      "team_1": "Ami Super Avengers",
+      "team_2": "Alembic Warriors",
       "status": "UPCOMING",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Harbour Diamonds vs Lux Shyam Kolkata Tigers",
-      "startTime": "07:00:00 PM 18-06-2025"
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Ami Super Avengers vs Alembic Warriors",
+      "startTime": "02:45:00 PM 18-06-2025"
+    },
+    {
+      "id": 128445,
+      "event_category": "Cricket",
+      "title": "Bundelkhand Bulls vs Indore Pink Panthers (Madhya Pradesh League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128445_5300_BBS_IPP_fc-web.jpg",
+      "team_1": "Bundelkhand Bulls",
+      "team_2": "Indore Pink Panthers",
+      "status": "UPCOMING",
+      "event_name": "Madhya Pradesh League, 2025",
+      "match_name": "Bundelkhand Bulls vs Indore Pink Panthers",
+      "startTime": "03:00:00 PM 18-06-2025"
     }
   ]
 }
