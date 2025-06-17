@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:40 AM 17-06-2025",
+  "last update time": "09:02 AM 17-06-2025",
   "matches": [
+    {
+      "id": 128711,
+      "event_category": "Cricket",
+      "title": "Pakyong XI vs Irises C.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128711_5312_PAK_ICC_fc-web.jpg",
+      "team_1": "Pakyong XI",
+      "team_2": "Irises C.C",
+      "status": "LIVE",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Pakyong XI vs Irises C.C",
+      "startTime": "08:30:00 AM 17-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2g4rZDCHSPubxevdygN4BA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128711_english_hls_43514ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128091,
+      "event_category": "Cricket",
+      "title": "Servotech Siliguri Strikers Womens vs Rashmi Medinipur Wizards Womens (Bengal Women's Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128091_5283_SSS-W_RMW-W_fc-Web.jpg",
+      "team_1": "Servotech Siliguri Strikers Womens",
+      "team_2": "Rashmi Medinipur Wizards Womens",
+      "status": "LIVE",
+      "event_name": "Bengal Women's Pro T20 League, 2025",
+      "match_name": "Servotech Siliguri Strikers Womens vs Rashmi Medinipur Wizards Womens",
+      "startTime": "09:00:00 AM 17-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/VDr05UKmRR6yNoPB7DI12A/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128091_english_hls_81152ta-di_h264/index.m3u8"
+    },
     {
       "id": 128369,
       "event_category": "Baseball",
@@ -126,18 +154,6 @@
       "startTime": "07:30:00 PM 17-06-2025"
     },
     {
-      "id": 128711,
-      "event_category": "Cricket",
-      "title": "Pakyong XI vs Irises C.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128711_5312_PAK_ICC_fc-web.jpg",
-      "team_1": "Pakyong XI",
-      "team_2": "Irises C.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Pakyong XI vs Irises C.C",
-      "startTime": "08:30:00 AM 17-06-2025"
-    },
-    {
       "id": 125942,
       "event_category": "Cricket",
       "title": "Hampshire vs Surrey (Vitality Blast T20, 2025)",
@@ -148,18 +164,6 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Hampshire vs Surrey",
       "startTime": "11:30:00 PM 17-06-2025"
-    },
-    {
-      "id": 128091,
-      "event_category": "Cricket",
-      "title": "Servotech Siliguri Strikers Womens vs Rashmi Medinipur Wizards Womens (Bengal Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128091_5283_SSS-W_RMW-W_fc-Web.jpg",
-      "team_1": "Servotech Siliguri Strikers Womens",
-      "team_2": "Rashmi Medinipur Wizards Womens",
-      "status": "UPCOMING",
-      "event_name": "Bengal Women's Pro T20 League, 2025",
-      "match_name": "Servotech Siliguri Strikers Womens vs Rashmi Medinipur Wizards Womens",
-      "startTime": "09:00:00 AM 17-06-2025"
     },
     {
       "id": 129033,
