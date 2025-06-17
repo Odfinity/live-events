@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:26 PM 17-06-2025",
+  "last update time": "10:54 PM 17-06-2025",
   "matches": [
     {
       "id": 126542,
@@ -102,20 +102,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128675_english_hls_65234ta-di_h264/index.m3u8"
     },
     {
-      "id": 128444,
-      "event_category": "Cricket",
-      "title": "Bhopal Leopards vs Rewa Jaguars (Madhya Pradesh League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128444_5300_RW_BL_fc-web.jpg",
-      "team_1": "Bhopal Leopards",
-      "team_2": "Rewa Jaguars",
-      "status": "LIVE",
-      "event_name": "Madhya Pradesh League, 2025",
-      "match_name": "Bhopal Leopards vs Rewa Jaguars",
-      "startTime": "07:30:00 PM 17-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Sc2eiUFMQ8mW0blCJujpQQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128444_english_hls_12014ta-di_h264/index.m3u8"
-    },
-    {
       "id": 125115,
       "event_category": "Cricket",
       "title": "Leinster Lightning vs Northern Knights (Ireland Inter-Provincial T20 Trophy, 2025)",
@@ -142,6 +128,20 @@
       "startTime": "09:30:00 PM 17-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/-cAYUOQlTNqkPubFNIFQ0A/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128222_english_hls_48894ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128650,
+      "event_category": "Cricket",
+      "title": "Lexus vs Team TGS (KCC T20 Challengers B League Edition 3, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128650_CASACARDS_APP.png",
+      "team_1": "Lexus",
+      "team_2": "Team TGS",
+      "status": "LIVE",
+      "event_name": "KCC T20 Challengers B League Edition 3, 2025",
+      "match_name": "Lexus vs Team TGS",
+      "startTime": "11:00:00 PM 17-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/qcPl5g7NTnuestvHLigGxg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128650_english_hls_55332ta-di_h264/index.m3u8"
     },
     {
       "id": 129012,
@@ -230,18 +230,6 @@
       "startTime": "12:30:00 AM 19-06-2025"
     },
     {
-      "id": 128426,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
-      "team_1": "Bangladesh",
-      "team_2": "Sri Lanka",
-      "status": "PAUSED",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Bangladesh vs Sri Lanka",
-      "startTime": "10:00:00 AM 17-06-2025"
-    },
-    {
       "id": 125942,
       "event_category": "Cricket",
       "title": "Hampshire vs Surrey (Vitality Blast T20, 2025)",
@@ -254,6 +242,18 @@
       "startTime": "11:30:00 PM 17-06-2025"
     },
     {
+      "id": 128426,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "PAUSED",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "10:00:00 AM 17-06-2025"
+    },
+    {
       "id": 128063,
       "event_category": "Cricket",
       "title": "Shrachi Rarh Tigers vs Rashmi Medinipur Wizards (Bengal Pro T20 league, 2025)",
@@ -264,18 +264,6 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Shrachi Rarh Tigers vs Rashmi Medinipur Wizards",
       "startTime": "01:00:00 PM 18-06-2025"
-    },
-    {
-      "id": 128650,
-      "event_category": "Cricket",
-      "title": "Lexus vs Team TGS (KCC T20 Challengers B League Edition 3, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128650_CASACARDS_APP.png",
-      "team_1": "Lexus",
-      "team_2": "Team TGS",
-      "status": "UPCOMING",
-      "event_name": "KCC T20 Challengers B League Edition 3, 2025",
-      "match_name": "Lexus vs Team TGS",
-      "startTime": "11:00:00 PM 17-06-2025"
     },
     {
       "id": 128201,
@@ -388,13 +376,13 @@
     {
       "id": 129038,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS Czechia, 2025)",
+      "title": "Moravian vs Praha Dominators (ECS Czechia, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Moravian",
+      "team_2": "Praha Dominators",
       "status": "UPCOMING",
       "event_name": "ECS Czechia, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Moravian vs Praha Dominators",
       "startTime": "12:15:00 PM 18-06-2025"
     },
     {
@@ -424,14 +412,26 @@
     {
       "id": 129039,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS Czechia, 2025)",
+      "title": "Prague Spartans vs Vinohrady (ECS Czechia, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Prague Spartans",
+      "team_2": "Vinohrady",
       "status": "UPCOMING",
       "event_name": "ECS Czechia, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Prague Spartans vs Vinohrady",
       "startTime": "02:15:00 PM 18-06-2025"
+    },
+    {
+      "id": 125943,
+      "event_category": "Cricket",
+      "title": "Worcestershire vs Durham (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125943_5207_WOR_DUR_fc-Web.jpg",
+      "team_1": "Worcestershire",
+      "team_2": "Durham",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Worcestershire vs Durham",
+      "startTime": "10:00:00 PM 18-06-2025"
     },
     {
       "id": 128676,
