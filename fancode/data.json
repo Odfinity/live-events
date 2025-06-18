@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:10 AM 18-06-2025",
+  "last update time": "10:29 AM 18-06-2025",
   "matches": [
     {
       "id": 128426,
@@ -30,20 +30,6 @@
       "startTime": "08:30:00 AM 18-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/G162Clq4T1muknfbcalwmw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128713_english_hls_4126ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128093,
-      "event_category": "Cricket",
-      "title": "Adamas Howrah Warriors Womens vs Lux Shyam Kolkata Tigers Womens (Bengal Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128093_5283_AHW-W_LSKT-W_fc-Web.jpg",
-      "team_1": "Adamas Howrah Warriors Womens",
-      "team_2": "Lux Shyam Kolkata Tigers Womens",
-      "status": "LIVE",
-      "event_name": "Bengal Women's Pro T20 League, 2025",
-      "match_name": "Adamas Howrah Warriors Womens vs Lux Shyam Kolkata Tigers Womens",
-      "startTime": "09:00:00 AM 18-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JPRWq7kRTvOuMiGV2j2ihQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128093_english_hls_12697ta-di_h264/index.m3u8"
     },
     {
       "id": 128781,
@@ -432,6 +418,18 @@
       "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
       "match_name": "Bess Motors Blue Devils vs Chicago Steelpan Players",
       "startTime": "02:30:00 AM 19-06-2025"
+    },
+    {
+      "id": 128715,
+      "event_category": "Cricket",
+      "title": "Pakyong XI vs Black Eagles (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128715_5312_PAK_BES_fc-web.jpg",
+      "team_1": "Pakyong XI",
+      "team_2": "Black Eagles",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Pakyong XI vs Black Eagles",
+      "startTime": "08:30:00 AM 19-06-2025"
     }
   ]
 }
