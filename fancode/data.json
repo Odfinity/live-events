@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 18-06-2025",
+  "last update time": "02:05 PM 18-06-2025",
   "matches": [
     {
       "id": 128426,
@@ -32,20 +32,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128063_english_hls_37613ta-di_h264/index.m3u8"
     },
     {
-      "id": 129038,
-      "event_category": "Cricket",
-      "title": "Praha Dominators vs Moravian (ECS Czechia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
-      "team_1": "Praha Dominators",
-      "team_2": "Moravian",
-      "status": "LIVE",
-      "event_name": "ECS Czechia, 2025",
-      "match_name": "Praha Dominators vs Moravian",
-      "startTime": "12:15:00 PM 18-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/sTdCAErIQ4ieB0s8KFYIuQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129038_english_hls_61650ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128714,
       "event_category": "Cricket",
       "title": "Avengers C.C vs CAT (Sikkim T20 League, 2025)",
@@ -70,8 +56,8 @@
       "event_name": "Bengal Women's Pro T20 League, 2025",
       "match_name": "Murshidabad Kueens Womens vs Servotech Siliguri Strikers Womens",
       "startTime": "01:30:00 PM 18-06-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/qI-fznw5SQ6Lwuh_LY8JEw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128094_english_hls_85772ta-di_h264/index.m3u8"
     },
     {
       "id": 128781,
@@ -446,6 +432,18 @@
       "event_name": "Madhya Pradesh Women's League, 2025",
       "match_name": "Bhopal Wolves Women vs Bundelkhand Bulls Women",
       "startTime": "11:00:00 AM 19-06-2025"
+    },
+    {
+      "id": 129206,
+      "event_category": "Cricket",
+      "title": "Bohemians vs Prague CC (ECS Czechia, Premier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Bohemians",
+      "team_2": "Prague CC",
+      "status": "UPCOMING",
+      "event_name": "ECS Czechia, Premier, 2025",
+      "match_name": "Bohemians vs Prague CC",
+      "startTime": "12:15:00 PM 19-06-2025"
     }
   ]
 }
