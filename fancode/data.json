@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:51 AM 19-06-2025",
+  "last update time": "01:09 AM 19-06-2025",
   "matches": [
-    {
-      "id": 125943,
-      "event_category": "Cricket",
-      "title": "Durham vs Worcestershire (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125943_5207_WOR_DUR_fc-Web.jpg",
-      "team_1": "Durham",
-      "team_2": "Worcestershire",
-      "status": "LIVE",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Durham vs Worcestershire",
-      "startTime": "10:00:00 PM 18-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/QKf3xpFOTwianKbmP-ubHQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/125943_english_hls_27749ta-di_h264/index.m3u8"
-    },
     {
       "id": 125944,
       "event_category": "Cricket",
@@ -60,6 +46,20 @@
       "adfree_url": "https://dai.fancode.com/primary/128226_english_hls_48163ta-di_h264/index.m3u8"
     },
     {
+      "id": 128700,
+      "event_category": "Cricket",
+      "title": "Bahamas vs Canada (ICC Men's T20 World Cup Americas Regional Final)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128700_5311_CAN_BAH_fc-web.jpg",
+      "team_1": "Bahamas",
+      "team_2": "Canada",
+      "status": "LIVE",
+      "event_name": "ICC Men's T20 World Cup Americas Regional Final",
+      "match_name": "Bahamas vs Canada",
+      "startTime": "01:00:00 AM 19-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fWXKNtAfQE2L9sMe4qODCg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128700_english_hls_12558ta-di_h264/index.m3u8"
+    },
+    {
       "id": 123336,
       "event_category": "Football",
       "title": "England U21 vs Germany U21 (UEFA European Under-21 Championship)",
@@ -86,20 +86,6 @@
       "startTime": "12:30:00 AM 19-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/J0ZJgqteTZSC20uOHf7j_A/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/123335_english_hls_6192ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128700,
-      "event_category": "Cricket",
-      "title": "Bahamas vs Canada (ICC Men's T20 World Cup Americas Regional Final)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128700_5311_CAN_BAH_fc-web.jpg",
-      "team_1": "Bahamas",
-      "team_2": "Canada",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 World Cup Americas Regional Final",
-      "match_name": "Bahamas vs Canada",
-      "startTime": "01:00:00 AM 19-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/fWXKNtAfQE2L9sMe4qODCg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128700_english_hls_12558ta-di_h264/index.m3u8"
     },
     {
       "id": 128426,
@@ -222,30 +208,6 @@
       "startTime": "11:00:00 AM 19-06-2025"
     },
     {
-      "id": 129206,
-      "event_category": "Cricket",
-      "title": "Bohemians vs Prague CC (ECS Czechia, Premier, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129206_CASACARDS_APP.png",
-      "team_1": "Bohemians",
-      "team_2": "Prague CC",
-      "status": "UPCOMING",
-      "event_name": "ECS Czechia, Premier, 2025",
-      "match_name": "Bohemians vs Prague CC",
-      "startTime": "12:15:00 PM 19-06-2025"
-    },
-    {
-      "id": 128716,
-      "event_category": "Cricket",
-      "title": "Royal North Brothers vs Irises C.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128716_5312_RNB_ICC_fc-web.jpg",
-      "team_1": "Royal North Brothers",
-      "team_2": "Irises C.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Royal North Brothers vs Irises C.C",
-      "startTime": "12:30:00 PM 19-06-2025"
-    },
-    {
       "id": 125948,
       "event_category": "Cricket",
       "title": "Somerset vs Hampshire (Vitality Blast T20, 2025)",
@@ -268,6 +230,30 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Leicestershire vs Nottinghamshire",
       "startTime": "11:00:00 PM 19-06-2025"
+    },
+    {
+      "id": 129206,
+      "event_category": "Cricket",
+      "title": "Bohemians vs Prague CC (ECS Czechia, Premier, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/129206_CASACARDS_APP.png",
+      "team_1": "Bohemians",
+      "team_2": "Prague CC",
+      "status": "UPCOMING",
+      "event_name": "ECS Czechia, Premier, 2025",
+      "match_name": "Bohemians vs Prague CC",
+      "startTime": "12:15:00 PM 19-06-2025"
+    },
+    {
+      "id": 128716,
+      "event_category": "Cricket",
+      "title": "Royal North Brothers vs Irises C.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128716_5312_RNB_ICC_fc-web.jpg",
+      "team_1": "Royal North Brothers",
+      "team_2": "Irises C.C",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Royal North Brothers vs Irises C.C",
+      "startTime": "12:30:00 PM 19-06-2025"
     },
     {
       "id": 128096,
@@ -426,18 +412,6 @@
       "startTime": "09:30:00 PM 19-06-2025"
     },
     {
-      "id": 128371,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Boston Red Sox (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128371_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Boston Red Sox",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Boston Red Sox",
-      "startTime": "01:40:00 AM 19-06-2025"
-    },
-    {
       "id": 128652,
       "event_category": "Cricket",
       "title": "YSSC vs Gulf Cable (KCC T20 Challengers B League Edition 3, 2025)",
@@ -450,6 +424,18 @@
       "startTime": "10:00:00 PM 19-06-2025"
     },
     {
+      "id": 128371,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Boston Red Sox (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128371_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Boston Red Sox",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Boston Red Sox",
+      "startTime": "01:40:00 AM 19-06-2025"
+    },
+    {
       "id": 128229,
       "event_category": "Cricket",
       "title": "Bess Motors Blue Devils vs Soca Kings (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
@@ -460,6 +446,18 @@
       "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
       "match_name": "Bess Motors Blue Devils vs Soca Kings",
       "startTime": "12:00:00 AM 20-06-2025"
+    },
+    {
+      "id": 128702,
+      "event_category": "Cricket",
+      "title": "Cayman Islands vs Canada (ICC Men's T20 World Cup Americas Regional Final)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128702_5311_CAY_CAN_fc-web.jpg",
+      "team_1": "Cayman Islands",
+      "team_2": "Canada",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 World Cup Americas Regional Final",
+      "match_name": "Cayman Islands vs Canada",
+      "startTime": "01:00:00 AM 20-06-2025"
     }
   ]
 }
