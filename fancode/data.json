@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:34 AM 18-06-2025",
+  "last update time": "10:10 AM 18-06-2025",
   "matches": [
+    {
+      "id": 128426,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "LIVE",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "10:00:00 AM 17-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1750263221~acl=/*~id=85912514611924556828784323662988~hmac=2cc66870a539f3b93782a855d9cb57f2b1af99432fb4005c3fe1c55cc38434ec"
+    },
     {
       "id": 128713,
       "event_category": "Cricket",
@@ -58,18 +72,6 @@
       "startTime": "07:40:00 AM 18-06-2025",
       "dai_url": "https://dai.fancode.com/primary/128370_english_hls_53326ta-di_h264/index.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128370_english_hls_53326ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128426,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
-      "team_1": "Bangladesh",
-      "team_2": "Sri Lanka",
-      "status": "PAUSED",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Bangladesh vs Sri Lanka",
-      "startTime": "10:00:00 AM 17-06-2025"
     },
     {
       "id": 128063,
@@ -336,6 +338,18 @@
       "startTime": "09:30:00 PM 18-06-2025"
     },
     {
+      "id": 128651,
+      "event_category": "Cricket",
+      "title": "Thunder Cats vs Thunder Cats - B (KCC T20 Challengers B League Edition 3, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128651_CASACARDS_APP.png",
+      "team_1": "Thunder Cats",
+      "team_2": "Thunder Cats - B",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Challengers B League Edition 3, 2025",
+      "match_name": "Thunder Cats vs Thunder Cats - B",
+      "startTime": "11:00:00 PM 18-06-2025"
+    },
+    {
       "id": 123334,
       "event_category": "Football",
       "title": "Netherlands U21 vs Ukraine U21 (UEFA European Under-21 Championship)",
@@ -358,18 +372,6 @@
       "event_name": "UEFA European Under-21 Championship",
       "match_name": "Denmark U21 vs Finland U21",
       "startTime": "09:30:00 PM 18-06-2025"
-    },
-    {
-      "id": 128651,
-      "event_category": "Cricket",
-      "title": "Thunder Cats vs Thunder Cats - B (KCC T20 Challengers B League Edition 3, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128651_CASACARDS_APP.png",
-      "team_1": "Thunder Cats",
-      "team_2": "Thunder Cats - B",
-      "status": "UPCOMING",
-      "event_name": "KCC T20 Challengers B League Edition 3, 2025",
-      "match_name": "Thunder Cats vs Thunder Cats - B",
-      "startTime": "11:00:00 PM 18-06-2025"
     },
     {
       "id": 128226,
