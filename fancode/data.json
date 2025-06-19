@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:11 PM 19-06-2025",
+  "last update time": "07:27 PM 19-06-2025",
   "matches": [
     {
       "id": 126544,
@@ -46,6 +46,20 @@
       "adfree_url": "https://dai.fancode.com/primary/128066_english_hls_13316ta-di_h264/index.m3u8"
     },
     {
+      "id": 127629,
+      "event_category": "Cricket",
+      "title": "Netherlands vs Nepal (Nepal and Netherlands tour of Scotland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127629_5263_NEP_NED_fc-Web.png",
+      "team_1": "Netherlands",
+      "team_2": "Nepal",
+      "status": "LIVE",
+      "event_name": "Nepal and Netherlands tour of Scotland, 2025",
+      "match_name": "Netherlands vs Nepal",
+      "startTime": "07:30:00 PM 19-06-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 129190,
       "event_category": "Cricket",
       "title": "Prague Tigers vs United CC (ECS Czechia, Premier, 2025)",
@@ -72,6 +86,20 @@
       "startTime": "06:45:00 PM 19-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/RCis0fJ7SpecmITOCUEAgw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128679_english_hls_19058ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128448,
+      "event_category": "Cricket",
+      "title": "Indore Pink Panthers vs Gwalior Cheetahs (Madhya Pradesh League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128448_5300_IPP_GC_fc-web.jpg",
+      "team_1": "Indore Pink Panthers",
+      "team_2": "Gwalior Cheetahs",
+      "status": "LIVE",
+      "event_name": "Madhya Pradesh League, 2025",
+      "match_name": "Indore Pink Panthers vs Gwalior Cheetahs",
+      "startTime": "07:30:00 PM 19-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/p0NEBJdhRVmhmj_g5KFisg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128448_english_hls_49358ta-di_h264/index.m3u8"
     },
     {
       "id": 128984,
@@ -130,18 +158,6 @@
       "adfree_url": "https://dai.fancode.com/primary/129014_english_hls_17235ta-di_h264/index.m3u8"
     },
     {
-      "id": 127629,
-      "event_category": "Cricket",
-      "title": "Netherlands vs Nepal (Nepal and Netherlands tour of Scotland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127629_5263_NEP_NED_fc-Web.png",
-      "team_1": "Netherlands",
-      "team_2": "Nepal",
-      "status": "UPCOMING",
-      "event_name": "Nepal and Netherlands tour of Scotland, 2025",
-      "match_name": "Netherlands vs Nepal",
-      "startTime": "07:30:00 PM 19-06-2025"
-    },
-    {
       "id": 128426,
       "event_category": "Cricket",
       "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
@@ -178,18 +194,6 @@
       "startTime": "11:00:00 PM 19-06-2025"
     },
     {
-      "id": 128448,
-      "event_category": "Cricket",
-      "title": "Indore Pink Panthers vs Gwalior Cheetahs (Madhya Pradesh League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128448_5300_IPP_GC_fc-web.jpg",
-      "team_1": "Indore Pink Panthers",
-      "team_2": "Gwalior Cheetahs",
-      "status": "UPCOMING",
-      "event_name": "Madhya Pradesh League, 2025",
-      "match_name": "Indore Pink Panthers vs Gwalior Cheetahs",
-      "startTime": "07:30:00 PM 19-06-2025"
-    },
-    {
       "id": 128701,
       "event_category": "Cricket",
       "title": "Bahamas vs Bermuda (ICC Men's T20 World Cup Americas Regional Final)",
@@ -202,18 +206,6 @@
       "startTime": "08:00:00 PM 19-06-2025"
     },
     {
-      "id": 128067,
-      "event_category": "Cricket",
-      "title": "Sobisco Smashers Malda vs Adamas Howrah Warriors (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128067_5282_SSM_AHW_fc-Web.jpg",
-      "team_1": "Sobisco Smashers Malda",
-      "team_2": "Adamas Howrah Warriors",
-      "status": "UPCOMING",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Sobisco Smashers Malda vs Adamas Howrah Warriors",
-      "startTime": "01:00:00 PM 20-06-2025"
-    },
-    {
       "id": 125119,
       "event_category": "Cricket",
       "title": "Munster Reds vs Leinster Lightning (Ireland Inter-Provincial T20 Trophy, 2025)",
@@ -224,6 +216,18 @@
       "event_name": "Ireland Inter-Provincial T20 Trophy, 2025",
       "match_name": "Munster Reds vs Leinster Lightning",
       "startTime": "08:15:00 PM 19-06-2025"
+    },
+    {
+      "id": 128067,
+      "event_category": "Cricket",
+      "title": "Sobisco Smashers Malda vs Adamas Howrah Warriors (Bengal Pro T20 league, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128067_5282_SSM_AHW_fc-Web.jpg",
+      "team_1": "Sobisco Smashers Malda",
+      "team_2": "Adamas Howrah Warriors",
+      "status": "UPCOMING",
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Sobisco Smashers Malda vs Adamas Howrah Warriors",
+      "startTime": "01:00:00 PM 20-06-2025"
     },
     {
       "id": 129191,
@@ -358,18 +362,6 @@
       "startTime": "12:15:00 PM 20-06-2025"
     },
     {
-      "id": 128718,
-      "event_category": "Cricket",
-      "title": "CAT vs Yuksom Capitals (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128718_5312_CAT_YC_fc-web.jpg",
-      "team_1": "CAT",
-      "team_2": "Yuksom Capitals",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "CAT vs Yuksom Capitals",
-      "startTime": "12:30:00 PM 20-06-2025"
-    },
-    {
       "id": 125857,
       "event_category": "Cricket",
       "title": "Durham Women vs Essex Women (Women's Vitality Blast T20, 2025)",
@@ -392,6 +384,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Lux Shyam Kolkata Tigers vs Shrachi Rarh Tigers",
       "startTime": "07:00:00 PM 20-06-2025"
+    },
+    {
+      "id": 128718,
+      "event_category": "Cricket",
+      "title": "CAT vs Yuksom Capitals (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128718_5312_CAT_YC_fc-web.jpg",
+      "team_1": "CAT",
+      "team_2": "Yuksom Capitals",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "CAT vs Yuksom Capitals",
+      "startTime": "12:30:00 PM 20-06-2025"
     },
     {
       "id": 128098,
