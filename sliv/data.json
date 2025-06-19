@@ -1,6 +1,24 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:08 AM 20-06-2025",
-  "matches": []
+  "last update time": "02:44 AM 20-06-2025",
+  "matches": [
+    {
+      "id": "sl1090483407",
+      "isLive": true,
+      "event": "Football Blockbusters 24x7",
+      "match": "",
+      "Provider": "SonyLiv",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004282/1749885060000461_Football_Blockbusters_24x7_landscape_thumb_14jun.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "N/A",
+      "TVchannel": "LIV",
+      "MaxResolution": "FHD",
+      "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090483407.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090483407.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090483407.m3u8"
+    }
+  ]
 }
