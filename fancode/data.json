@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:50 PM 20-06-2025",
+  "last update time": "11:12 PM 20-06-2025",
   "matches": [
     {
       "id": 128068,
@@ -16,34 +16,6 @@
       "startTime": "07:00:00 PM 20-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/cz-caiODSVC6FRSSAoc27g/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128068_english_hls_4365ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 127631,
-      "event_category": "Cricket",
-      "title": "Scotland vs Nepal (Nepal and Netherlands tour of Scotland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/127631_5263_SCO_NEP_fc-Web.png",
-      "team_1": "Scotland",
-      "team_2": "Nepal",
-      "status": "LIVE",
-      "event_name": "Nepal and Netherlands tour of Scotland, 2025",
-      "match_name": "Scotland vs Nepal",
-      "startTime": "07:30:00 PM 20-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/tCC46ojxTmSEZ1d3ZHkEmQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127631_english_hls_64107ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128203,
-      "event_category": "Cricket",
-      "title": "Anmol Kings Halar vs JMD Kutch Riders (Saurashtra Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128189_5287_HH_KW_fc-Web.jpg",
-      "team_1": "Anmol Kings Halar",
-      "team_2": "JMD Kutch Riders",
-      "status": "LIVE",
-      "event_name": "Saurashtra Pro T20 League, 2025",
-      "match_name": "Anmol Kings Halar vs JMD Kutch Riders",
-      "startTime": "07:30:00 PM 20-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/sRv-AzCkTjWZXGdXhebR-Q/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128203_english_hls_57148ta-di_h264/index.m3u8"
     },
     {
       "id": 125950,
@@ -72,6 +44,20 @@
       "startTime": "11:00:00 PM 20-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Z0WzgWbGSDiM1z3wvn52yg/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/125949_english_hls_69346ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 125952,
+      "event_category": "Cricket",
+      "title": "Surrey vs Middlesex (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125952_5207_SUR_MID_fc-Web.jpg",
+      "team_1": "Surrey",
+      "team_2": "Middlesex",
+      "status": "LIVE",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Surrey vs Middlesex",
+      "startTime": "11:15:00 PM 20-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+      "adfree_url": null
     },
     {
       "id": 128815,
@@ -130,20 +116,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128989_english_hls_74783ta-di_h264/index.m3u8"
     },
     {
-      "id": 129015,
-      "event_category": "Horse Racing",
-      "title": "Royal Ascot vs Berkshire (Royal Ascot)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
-      "team_1": "Royal Ascot",
-      "team_2": "Berkshire",
-      "status": "LIVE",
-      "event_name": "Royal Ascot",
-      "match_name": "Royal Ascot",
-      "startTime": "06:00:00 PM 20-06-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
       "id": 128991,
       "event_category": "Golf",
       "title": "Featured Groups - Day 2 vs TPC River Highlands (Travelers Championship)",
@@ -172,39 +144,55 @@
       "adfree_url": "https://dai.fancode.com/primary/128990_english_hls_49437ta-di_h264/index.m3u8"
     },
     {
-      "id": 125952,
+      "id": 127631,
       "event_category": "Cricket",
-      "title": "Surrey vs Middlesex (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125952_5207_SUR_MID_fc-Web.jpg",
-      "team_1": "Surrey",
-      "team_2": "Middlesex",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Surrey vs Middlesex",
-      "startTime": "11:15:00 PM 20-06-2025"
+      "title": "Scotland vs Nepal (Nepal and Netherlands tour of Scotland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/127631_5263_SCO_NEP_fc-Web.png",
+      "team_1": "Scotland",
+      "team_2": "Nepal",
+      "status": "LIVE",
+      "event_name": "Nepal and Netherlands tour of Scotland, 2025",
+      "match_name": "Scotland vs Nepal",
+      "startTime": "07:30:00 PM 20-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/tCC46ojxTmSEZ1d3ZHkEmQ/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/127631_english_hls_64107ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128203,
+      "event_category": "Cricket",
+      "title": "Anmol Kings Halar vs JMD Kutch Riders (Saurashtra Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128189_5287_HH_KW_fc-Web.jpg",
+      "team_1": "Anmol Kings Halar",
+      "team_2": "JMD Kutch Riders",
+      "status": "LIVE",
+      "event_name": "Saurashtra Pro T20 League, 2025",
+      "match_name": "Anmol Kings Halar vs JMD Kutch Riders",
+      "startTime": "07:30:00 PM 20-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/sRv-AzCkTjWZXGdXhebR-Q/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128203_english_hls_57148ta-di_h264/index.m3u8"
     },
     {
       "id": 125956,
       "event_category": "Cricket",
-      "title": "Gloucestershire vs Hampshire (Vitality Blast T20, 2025)",
+      "title": "Hampshire vs Gloucestershire (Vitality Blast T20, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/125956_5207_GLO_HAM_fc-Web.jpg",
-      "team_1": "Gloucestershire",
-      "team_2": "Hampshire",
+      "team_1": "Hampshire",
+      "team_2": "Gloucestershire",
       "status": "UPCOMING",
       "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Gloucestershire vs Hampshire",
+      "match_name": "Hampshire vs Gloucestershire",
       "startTime": "11:30:00 PM 20-06-2025"
     },
     {
       "id": 127547,
       "event_category": "Cricket",
-      "title": "West Indies Women vs South Africa Women (South Africa Women tour of West Indies, 2025)",
+      "title": "South Africa Women vs West Indies Women (South Africa Women tour of West Indies, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-old-match-card_1750236997450.png",
-      "team_1": "West Indies Women",
-      "team_2": "South Africa Women",
+      "team_1": "South Africa Women",
+      "team_2": "West Indies Women",
       "status": "UPCOMING",
       "event_name": "South Africa Women tour of West Indies, 2025",
-      "match_name": "West Indies Women vs South Africa Women",
+      "match_name": "South Africa Women vs West Indies Women",
       "startTime": "11:30:00 PM 20-06-2025"
     },
     {
@@ -232,6 +220,18 @@
       "startTime": "01:00:00 PM 21-06-2025"
     },
     {
+      "id": 128232,
+      "event_category": "Cricket",
+      "title": "Bess Motors Blue Devils vs Leatherback Strikers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128232_5288_BLD_TLS_fc-Web.jpg",
+      "team_1": "Bess Motors Blue Devils",
+      "team_2": "Leatherback Strikers",
+      "status": "UPCOMING",
+      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+      "match_name": "Bess Motors Blue Devils vs Leatherback Strikers",
+      "startTime": "12:00:00 AM 21-06-2025"
+    },
+    {
       "id": 128070,
       "event_category": "Cricket",
       "title": "Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda (Bengal Pro T20 league, 2025)",
@@ -254,18 +254,6 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Lyca Kovai Kings vs Nellai Royal Kings",
       "startTime": "07:15:00 PM 21-06-2025"
-    },
-    {
-      "id": 128232,
-      "event_category": "Cricket",
-      "title": "Bess Motors Blue Devils vs Leatherback Strikers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128232_5288_BLD_TLS_fc-Web.jpg",
-      "team_1": "Bess Motors Blue Devils",
-      "team_2": "Leatherback Strikers",
-      "status": "UPCOMING",
-      "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-      "match_name": "Bess Motors Blue Devils vs Leatherback Strikers",
-      "startTime": "12:00:00 AM 21-06-2025"
     },
     {
       "id": 128654,
@@ -470,6 +458,18 @@
       "event_name": "Madhya Pradesh League, 2025",
       "match_name": "Rewa Jaguars vs Indore Pink Panthers",
       "startTime": "07:30:00 PM 21-06-2025"
+    },
+    {
+      "id": 126257,
+      "event_category": "Football",
+      "title": "Machida Zelvia vs Kashima Antlers (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/126257_4795_MZ_ANL_fc-web.jpg",
+      "team_1": "Machida Zelvia",
+      "team_2": "Kashima Antlers",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Machida Zelvia vs Kashima Antlers",
+      "startTime": "12:30:00 PM 21-06-2025"
     }
   ]
 }
