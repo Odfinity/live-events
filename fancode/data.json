@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 20-06-2025",
+  "last update time": "06:25 PM 20-06-2025",
   "matches": [
     {
       "id": 118572,
@@ -16,20 +16,6 @@
       "startTime": "12:30:00 PM 20-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/0w4NDlnLQW2zTQy0RkFicA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/118572_english_hls_72070ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128426,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
-      "team_1": "Bangladesh",
-      "team_2": "Sri Lanka",
-      "status": "LIVE",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Bangladesh vs Sri Lanka",
-      "startTime": "10:00:00 AM 17-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1750435787~acl=/*~id=67631476769313755673341481688972~hmac=c721e81904d53fd30eb828b12eb4694ae14e0b5ab487c39f2579c94655fa76a5"
     },
     {
       "id": 128680,
@@ -60,18 +46,18 @@
       "adfree_url": "https://dai.fancode.com/primary/128449_english_hls_49451ta-di_h264/index.m3u8"
     },
     {
-      "id": 129194,
+      "id": 129195,
       "event_category": "Cricket",
-      "title": "Prague CC vs Prague Tigers (ECS Czechia, Premier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
-      "team_1": "Prague CC",
-      "team_2": "Prague Tigers",
+      "title": "Brno vs United CC (ECS Czechia, Premier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
+      "team_1": "Brno",
+      "team_2": "United CC",
       "status": "LIVE",
       "event_name": "ECS Czechia, Premier, 2025",
-      "match_name": "Prague CC vs Prague Tigers",
-      "startTime": "04:15:00 PM 20-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yfqxLt9HRTqNusOsa4gSxg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129194_english_hls_9116ta-di_h264/index.m3u8"
+      "match_name": "Brno vs United CC",
+      "startTime": "06:15:00 PM 20-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gKxLnDb7TXaNt5qkvHgAQw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129195_english_hls_55431ta-di_h264/index.m3u8"
     },
     {
       "id": 128989,
@@ -86,6 +72,20 @@
       "startTime": "05:30:00 PM 20-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/C4AywodPT9qVltaRA8k9gw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128989_english_hls_74783ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129015,
+      "event_category": "Horse Racing",
+      "title": "Royal Ascot vs Berkshire (Royal Ascot)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
+      "team_1": "Royal Ascot",
+      "team_2": "Berkshire",
+      "status": "LIVE",
+      "event_name": "Royal Ascot",
+      "match_name": "Royal Ascot",
+      "startTime": "06:00:00 PM 20-06-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 125857,
@@ -110,6 +110,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Lux Shyam Kolkata Tigers vs Shrachi Rarh Tigers",
       "startTime": "07:00:00 PM 20-06-2025"
+    },
+    {
+      "id": 128426,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "PAUSED",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "10:00:00 AM 17-06-2025"
     },
     {
       "id": 127631,
@@ -196,16 +208,16 @@
       "startTime": "11:30:00 PM 20-06-2025"
     },
     {
-      "id": 129195,
+      "id": 128681,
       "event_category": "Cricket",
-      "title": "Brno vs United CC (ECS Czechia, Premier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
-      "team_1": "Brno",
-      "team_2": "United CC",
+      "title": "Diamond Dazzlers vs Alembic Warriors (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128681_5310_DDZ_AWS_fc-Web.jpg",
+      "team_1": "Diamond Dazzlers",
+      "team_2": "Alembic Warriors",
       "status": "UPCOMING",
-      "event_name": "ECS Czechia, Premier, 2025",
-      "match_name": "Brno vs United CC",
-      "startTime": "06:15:00 PM 20-06-2025"
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Diamond Dazzlers vs Alembic Warriors",
+      "startTime": "06:45:00 PM 20-06-2025"
     },
     {
       "id": 128069,
@@ -218,18 +230,6 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Servotech Siliguri Strikers vs Harbour Diamonds",
       "startTime": "01:00:00 PM 21-06-2025"
-    },
-    {
-      "id": 128681,
-      "event_category": "Cricket",
-      "title": "Diamond Dazzlers vs Alembic Warriors (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128681_5310_DDZ_AWS_fc-Web.jpg",
-      "team_1": "Diamond Dazzlers",
-      "team_2": "Alembic Warriors",
-      "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "Diamond Dazzlers vs Alembic Warriors",
-      "startTime": "06:45:00 PM 20-06-2025"
     },
     {
       "id": 128815,
@@ -400,30 +400,6 @@
       "startTime": "01:30:00 PM 21-06-2025"
     },
     {
-      "id": 129198,
-      "event_category": "Cricket",
-      "title": "Prague CC vs Brno (ECS Czechia, Premier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
-      "team_1": "Prague CC",
-      "team_2": "Brno",
-      "status": "UPCOMING",
-      "event_name": "ECS Czechia, Premier, 2025",
-      "match_name": "Prague CC vs Brno",
-      "startTime": "02:15:00 PM 21-06-2025"
-    },
-    {
-      "id": 129015,
-      "event_category": "Horse Racing",
-      "title": "Royal Ascot vs Berkshire (Royal Ascot)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
-      "team_1": "Royal Ascot",
-      "team_2": "Berkshire",
-      "status": "UPCOMING",
-      "event_name": "Royal Ascot",
-      "match_name": "Royal Ascot",
-      "startTime": "06:00:00 PM 20-06-2025"
-    },
-    {
       "id": 128070,
       "event_category": "Cricket",
       "title": "Lux Shyam Kolkata Tigers vs Sobisco Smashers Malda (Bengal Pro T20 league, 2025)",
@@ -436,18 +412,6 @@
       "startTime": "07:00:00 PM 21-06-2025"
     },
     {
-      "id": 128682,
-      "event_category": "Cricket",
-      "title": "Diamond Dazzlers vs Pruthvi Panthers (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128682_5310_DDZ_PTP_fc-Web.jpg",
-      "team_1": "Diamond Dazzlers",
-      "team_2": "Pruthvi Panthers",
-      "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "Diamond Dazzlers vs Pruthvi Panthers",
-      "startTime": "02:45:00 PM 21-06-2025"
-    },
-    {
       "id": 126545,
       "event_category": "Cricket",
       "title": "Lyca Kovai Kings vs Nellai Royal Kings (Shriram Capital TNPL)",
@@ -458,6 +422,30 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Lyca Kovai Kings vs Nellai Royal Kings",
       "startTime": "07:15:00 PM 21-06-2025"
+    },
+    {
+      "id": 129198,
+      "event_category": "Cricket",
+      "title": "Prague CC vs Brno (ECS Czechia, Premier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
+      "team_1": "Prague CC",
+      "team_2": "Brno",
+      "status": "UPCOMING",
+      "event_name": "ECS Czechia, Premier, 2025",
+      "match_name": "Prague CC vs Brno",
+      "startTime": "02:15:00 PM 21-06-2025"
+    },
+    {
+      "id": 128682,
+      "event_category": "Cricket",
+      "title": "Diamond Dazzlers vs Pruthvi Panthers (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128682_5310_DDZ_PTP_fc-Web.jpg",
+      "team_1": "Diamond Dazzlers",
+      "team_2": "Pruthvi Panthers",
+      "status": "UPCOMING",
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Diamond Dazzlers vs Pruthvi Panthers",
+      "startTime": "02:45:00 PM 21-06-2025"
     },
     {
       "id": 128450,
