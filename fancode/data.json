@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:20 AM 20-06-2025",
+  "last update time": "11:47 AM 20-06-2025",
   "matches": [
     {
       "id": 128426,
@@ -16,20 +16,6 @@
       "startTime": "10:00:00 AM 17-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1750435787~acl=/*~id=67631476769313755673341481688972~hmac=c721e81904d53fd30eb828b12eb4694ae14e0b5ab487c39f2579c94655fa76a5"
-    },
-    {
-      "id": 128717,
-      "event_category": "Cricket",
-      "title": "Avengers C.C vs Alpine S.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128717_5312_ASC_ACC_fc-web.jpg",
-      "team_1": "Avengers C.C",
-      "team_2": "Alpine S.C",
-      "status": "LIVE",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Avengers C.C vs Alpine S.C",
-      "startTime": "08:30:00 AM 20-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/r8iWxw2VQwSCrd3WAoqlOg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128717_english_hls_39801ta-di_h264/index.m3u8"
     },
     {
       "id": 128097,
@@ -386,6 +372,18 @@
       "startTime": "02:30:00 AM 21-06-2025"
     },
     {
+      "id": 128069,
+      "event_category": "Cricket",
+      "title": "Servotech Siliguri Strikers vs Harbour Diamonds (Bengal Pro T20 league, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128069_5282_SSS_HD_fc-Web.jpg",
+      "team_1": "Servotech Siliguri Strikers",
+      "team_2": "Harbour Diamonds",
+      "status": "UPCOMING",
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Servotech Siliguri Strikers vs Harbour Diamonds",
+      "startTime": "01:00:00 PM 21-06-2025"
+    },
+    {
       "id": 128719,
       "event_category": "Cricket",
       "title": "Pakyong XI vs Alpine S.C (Sikkim T20 League, 2025)",
@@ -398,16 +396,16 @@
       "startTime": "08:30:00 AM 21-06-2025"
     },
     {
-      "id": 128069,
-      "event_category": "Cricket",
-      "title": "Servotech Siliguri Strikers vs Harbour Diamonds (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128069_5282_SSS_HD_fc-Web.jpg",
-      "team_1": "Servotech Siliguri Strikers",
-      "team_2": "Harbour Diamonds",
+      "id": 118572,
+      "event_category": "MotoGP",
+      "title": "Day 1 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Autodromo Internazionale del Mugello",
       "status": "UPCOMING",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Servotech Siliguri Strikers vs Harbour Diamonds",
-      "startTime": "01:00:00 PM 21-06-2025"
+      "event_name": "BREMBO GRAND PRIX OF ITALY",
+      "match_name": "Day 1",
+      "startTime": "12:30:00 PM 20-06-2025"
     },
     {
       "id": 128099,
