@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:18 PM 21-06-2025",
+  "last update time": "02:30 PM 21-06-2025",
   "matches": [
     {
       "id": 118575,
@@ -76,13 +76,13 @@
     {
       "id": 128784,
       "event_category": "Cricket",
-      "title": "Namibia vs Assam (Assam tour of Namibia, 2025)",
+      "title": "Assam vs Namibia (Assam tour of Namibia, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-tour-of-Namibia_old.jpg",
-      "team_1": "Namibia",
-      "team_2": "Assam",
+      "team_1": "Assam",
+      "team_2": "Namibia",
       "status": "LIVE",
       "event_name": "Assam tour of Namibia, 2025",
-      "match_name": "Namibia vs Assam",
+      "match_name": "Assam vs Namibia",
       "startTime": "01:00:00 PM 21-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/1ZSpKxJiToOxLmTfLpDx3A/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128784_english_hls_93873ta-di_h264/index.m3u8"
@@ -160,10 +160,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/128682_5310_DDZ_PTP_fc-Web.jpg",
       "team_1": "Diamond Dazzlers",
       "team_2": "Pruthvi Panthers",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Baroda Premier League, 2025",
       "match_name": "Diamond Dazzlers vs Pruthvi Panthers",
-      "startTime": "02:45:00 PM 21-06-2025"
+      "startTime": "02:45:00 PM 21-06-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 128450,
@@ -394,18 +396,6 @@
       "startTime": "03:30:00 PM 21-06-2025"
     },
     {
-      "id": 128613,
-      "event_category": "Football",
-      "title": "Real Oviedo vs Mirandés (LALIGA HYPERMOTION 2024-25)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-ROV-vs-MIR-old.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Mirandés",
-      "status": "UPCOMING",
-      "event_name": "LALIGA HYPERMOTION 2024-25",
-      "match_name": "Real Oviedo vs Mirandés",
-      "startTime": "12:30:00 AM 22-06-2025"
-    },
-    {
       "id": 126546,
       "event_category": "Cricket",
       "title": "SKM Salem Spartans vs Dindigul Dragons (Shriram Capital TNPL)",
@@ -416,6 +406,18 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "SKM Salem Spartans vs Dindigul Dragons",
       "startTime": "03:15:00 PM 22-06-2025"
+    },
+    {
+      "id": 128613,
+      "event_category": "Football",
+      "title": "Real Oviedo vs Mirandés (LALIGA HYPERMOTION 2024-25)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-ROV-vs-MIR-old.png",
+      "team_1": "Real Oviedo",
+      "team_2": "Mirandés",
+      "status": "UPCOMING",
+      "event_name": "LALIGA HYPERMOTION 2024-25",
+      "match_name": "Real Oviedo vs Mirandés",
+      "startTime": "12:30:00 AM 22-06-2025"
     },
     {
       "id": 129202,
