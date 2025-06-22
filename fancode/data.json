@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:11 PM 22-06-2025",
+  "last update time": "09:27 PM 22-06-2025",
   "matches": [
     {
       "id": 126547,
@@ -130,6 +130,20 @@
       "adfree_url": "https://dai.fancode.com/primary/128236_english_hls_10408ta-di_h264/index.m3u8"
     },
     {
+      "id": 123340,
+      "event_category": "Football",
+      "title": "Denmark U21 vs France U21 (UEFA European Under-21 Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Denmark-vs-France_old.jpg",
+      "team_1": "Denmark U21",
+      "team_2": "France U21",
+      "status": "LIVE",
+      "event_name": "UEFA European Under-21 Championship",
+      "match_name": "Denmark U21 vs France U21",
+      "startTime": "09:30:00 PM 22-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/MefF2W5MTOqrrmGknUECAw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/123340_english_hls_87515ta-di_h264/index.m3u8"
+    },
+    {
       "id": 129001,
       "event_category": "Golf",
       "title": "Featured Groups - Day 4 vs TPC River Highlands (Travelers Championship)",
@@ -210,18 +224,6 @@
       "startTime": "01:00:00 PM 23-06-2025"
     },
     {
-      "id": 123340,
-      "event_category": "Football",
-      "title": "Denmark U21 vs France U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Denmark-vs-France_old.jpg",
-      "team_1": "Denmark U21",
-      "team_2": "France U21",
-      "status": "UPCOMING",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Denmark U21 vs France U21",
-      "startTime": "09:30:00 PM 22-06-2025"
-    },
-    {
       "id": 128656,
       "event_category": "Cricket",
       "title": "Team TGS vs Phoenix Cricketers (KCC T20 Challengers B League Edition 3, 2025)",
@@ -258,18 +260,6 @@
       "startTime": "01:00:00 AM 23-06-2025"
     },
     {
-      "id": 123339,
-      "event_category": "Football",
-      "title": "Germany U21 vs Italy U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_old.jpg",
-      "team_1": "Germany U21",
-      "team_2": "Italy U21",
-      "status": "UPCOMING",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Germany U21 vs Italy U21",
-      "startTime": "12:30:00 AM 23-06-2025"
-    },
-    {
       "id": 128074,
       "event_category": "Cricket",
       "title": "Shrachi Rarh Tigers vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
@@ -280,6 +270,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Shrachi Rarh Tigers vs Servotech Siliguri Strikers",
       "startTime": "07:00:00 PM 23-06-2025"
+    },
+    {
+      "id": 123339,
+      "event_category": "Football",
+      "title": "Germany U21 vs Italy U21 (UEFA European Under-21 Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_old.jpg",
+      "team_1": "Germany U21",
+      "team_2": "Italy U21",
+      "status": "UPCOMING",
+      "event_name": "UEFA European Under-21 Championship",
+      "match_name": "Germany U21 vs Italy U21",
+      "startTime": "12:30:00 AM 23-06-2025"
     },
     {
       "id": 126548,
