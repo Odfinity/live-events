@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:55 AM 22-06-2025",
+  "last update time": "09:10 AM 22-06-2025",
   "matches": [
+    {
+      "id": 128721,
+      "event_category": "Cricket",
+      "title": "Yuksom Capitals vs Irises C.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128721_5312_ICC_YC_fc-web.jpg",
+      "team_1": "Yuksom Capitals",
+      "team_2": "Irises C.C",
+      "status": "LIVE",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Yuksom Capitals vs Irises C.C",
+      "startTime": "08:30:00 AM 22-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/8BjL2B0pQmWJijKptHNwGw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128721_english_hls_95309ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128101,
+      "event_category": "Cricket",
+      "title": "Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens (Bengal Women's Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128101_5283_AHW-W_SSS-W_fc-Web.jpg",
+      "team_1": "Adamas Howrah Warriors Womens",
+      "team_2": "Servotech Siliguri Strikers Womens",
+      "status": "LIVE",
+      "event_name": "Bengal Women's Pro T20 League, 2025",
+      "match_name": "Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens",
+      "startTime": "09:00:00 AM 22-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/80lAVKOWQ1-WycK0dTQaGg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128101_english_hls_60111ta-di_h264/index.m3u8"
+    },
     {
       "id": 128380,
       "event_category": "Baseball",
@@ -76,30 +104,6 @@
       "event_name": "South Africa Women tour of West Indies, 2025",
       "match_name": "West Indies Women vs South Africa Women",
       "startTime": "07:30:00 PM 22-06-2025"
-    },
-    {
-      "id": 128721,
-      "event_category": "Cricket",
-      "title": "Irises C.C vs Yuksom Capitals (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128721_5312_ICC_YC_fc-web.jpg",
-      "team_1": "Irises C.C",
-      "team_2": "Yuksom Capitals",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Irises C.C vs Yuksom Capitals",
-      "startTime": "08:30:00 AM 22-06-2025"
-    },
-    {
-      "id": 128101,
-      "event_category": "Cricket",
-      "title": "Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens (Bengal Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128101_5283_AHW-W_SSS-W_fc-Web.jpg",
-      "team_1": "Adamas Howrah Warriors Womens",
-      "team_2": "Servotech Siliguri Strikers Womens",
-      "status": "UPCOMING",
-      "event_name": "Bengal Women's Pro T20 League, 2025",
-      "match_name": "Adamas Howrah Warriors Womens vs Servotech Siliguri Strikers Womens",
-      "startTime": "09:00:00 AM 22-06-2025"
     },
     {
       "id": 129202,
@@ -390,6 +394,18 @@
       "startTime": "07:30:00 AM 23-06-2025"
     },
     {
+      "id": 129377,
+      "event_category": "Cricket",
+      "title": "BTCC Dark Knights vs SKK Rapids (ECS Finland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
+      "team_1": "BTCC Dark Knights",
+      "team_2": "SKK Rapids",
+      "status": "UPCOMING",
+      "event_name": "ECS Finland, 2025",
+      "match_name": "BTCC Dark Knights vs SKK Rapids",
+      "startTime": "11:45:00 AM 23-06-2025"
+    },
+    {
       "id": 118576,
       "event_category": "MotoGP",
       "title": "Race Day vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
@@ -448,18 +464,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "New York Yankees vs Baltimore Orioles",
       "startTime": "09:05:00 PM 22-06-2025"
-    },
-    {
-      "id": 129002,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 4 vs TPC River Highlands (Travelers Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_01_1750131699716.jpg",
-      "team_1": "Featured Holes - Day 4",
-      "team_2": "TPC River Highlands",
-      "status": "UPCOMING",
-      "event_name": "Travelers Championship",
-      "match_name": "Featured Holes - Day 4",
-      "startTime": "10:30:00 PM 22-06-2025"
     }
   ]
 }
