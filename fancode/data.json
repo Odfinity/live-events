@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:52 AM 26-06-2025",
+  "last update time": "03:12 AM 26-06-2025",
   "matches": [
     {
       "id": 127550,
@@ -30,20 +30,6 @@
       "startTime": "01:40:00 AM 26-06-2025",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 123342,
-      "event_category": "Football",
-      "title": "Germany U21 vs France U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ger-vs-Fra_Old.jpg",
-      "team_1": "Germany U21",
-      "team_2": "France U21",
-      "status": "LIVE",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "Germany U21 vs France U21",
-      "startTime": "12:30:00 AM 26-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/mfBuNv8uRP62ELHFNbu21A/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/123342_english_hls_71163ta-di_h264/index.m3u8"
     },
     {
       "id": 128427,
@@ -322,18 +308,6 @@
       "startTime": "03:20:00 PM 26-06-2025"
     },
     {
-      "id": 129840,
-      "event_category": "Cricket",
-      "title": "Alembic Warriors vs Ami Super Avengers (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128687_5310_AWS_ASV_fc-Web.jpg",
-      "team_1": "Alembic Warriors",
-      "team_2": "Ami Super Avengers",
-      "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "Alembic Warriors vs Ami Super Avengers",
-      "startTime": "05:00:00 PM 26-06-2025"
-    },
-    {
       "id": 129250,
       "event_category": "Cricket",
       "title": "Piton Strikers vs Calabash Giants (St. Lucia T10 Blast, 2025)",
@@ -344,6 +318,18 @@
       "event_name": "St. Lucia T10 Blast, 2025",
       "match_name": "Piton Strikers vs Calabash Giants",
       "startTime": "12:00:00 AM 27-06-2025"
+    },
+    {
+      "id": 129840,
+      "event_category": "Cricket",
+      "title": "Alembic Warriors vs Ami Super Avengers (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128687_5310_AWS_ASV_fc-Web.jpg",
+      "team_1": "Alembic Warriors",
+      "team_2": "Ami Super Avengers",
+      "status": "UPCOMING",
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Alembic Warriors vs Ami Super Avengers",
+      "startTime": "05:00:00 PM 26-06-2025"
     },
     {
       "id": 129841,
