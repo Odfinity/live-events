@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:10 PM 25-06-2025",
+  "last update time": "07:29 PM 25-06-2025",
   "matches": [
+    {
+      "id": 127550,
+      "event_category": "Cricket",
+      "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+      "team_1": "Australia",
+      "team_2": "West Indies",
+      "status": "LIVE",
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "Australia vs West Indies",
+      "startTime": "07:30:00 PM 25-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/PoUdM5xNR1-0qX-IyDHeeg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/127550_english_hls_97963ta-di_h264/index.m3u8"
+    },
     {
       "id": 128061,
       "event_category": "Cricket",
@@ -46,20 +60,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128786_english_hls_69012ta-di_h264/index.m3u8"
     },
     {
-      "id": 129390,
-      "event_category": "Cricket",
-      "title": "Vantaa Vipers vs KCC Lions (ECS Finland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
-      "team_1": "Vantaa Vipers",
-      "team_2": "KCC Lions",
-      "status": "LIVE",
-      "event_name": "ECS Finland, 2025",
-      "match_name": "Vantaa Vipers vs KCC Lions",
-      "startTime": "05:45:00 PM 25-06-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
       "id": 128690,
       "event_category": "Cricket",
       "title": "A4 Power Strikers vs Ami Super Avengers (Baroda Premier League, 2025)",
@@ -72,18 +72,6 @@
       "startTime": "06:45:00 PM 25-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/12a2PAyLQ5mruVD0qX7ubA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128690_english_hls_11381ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 127550,
-      "event_category": "Cricket",
-      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "West Indies vs Australia",
-      "startTime": "07:30:00 PM 25-06-2025"
     },
     {
       "id": 128427,
@@ -122,18 +110,6 @@
       "startTime": "07:45:00 PM 25-06-2025"
     },
     {
-      "id": 128059,
-      "event_category": "Cricket",
-      "title": "Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128059_5282_LSKT_SSS_fc-Web.jpg",
-      "team_1": "Lux Shyam Kolkata Tigers",
-      "team_2": "Servotech Siliguri Strikers",
-      "status": "UPCOMING",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers",
-      "startTime": "02:00:00 PM 26-06-2025"
-    },
-    {
       "id": 125123,
       "event_category": "Cricket",
       "title": "Munster Reds vs Northern Knights (Ireland Inter-Provincial T20 Trophy, 2025)",
@@ -144,6 +120,18 @@
       "event_name": "Ireland Inter-Provincial T20 Trophy, 2025",
       "match_name": "Munster Reds vs Northern Knights",
       "startTime": "08:15:00 PM 25-06-2025"
+    },
+    {
+      "id": 128059,
+      "event_category": "Cricket",
+      "title": "Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128059_5282_LSKT_SSS_fc-Web.jpg",
+      "team_1": "Lux Shyam Kolkata Tigers",
+      "team_2": "Servotech Siliguri Strikers",
+      "status": "UPCOMING",
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Lux Shyam Kolkata Tigers vs Servotech Siliguri Strikers",
+      "startTime": "02:00:00 PM 26-06-2025"
     },
     {
       "id": 129247,
@@ -254,18 +242,6 @@
       "startTime": "11:45:00 AM 26-06-2025"
     },
     {
-      "id": 128730,
-      "event_category": "Cricket",
-      "title": "Black Eagles vs Alpine S.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128730_5312_BES_ASC_fc-web.jpg",
-      "team_1": "Black Eagles",
-      "team_2": "Alpine S.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Black Eagles vs Alpine S.C",
-      "startTime": "12:30:00 PM 26-06-2025"
-    },
-    {
       "id": 128062,
       "event_category": "Cricket",
       "title": "Adamas Howrah Warriors vs Murshidabad Kings (Bengal Pro T20 league, 2025)",
@@ -276,6 +252,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Adamas Howrah Warriors vs Murshidabad Kings",
       "startTime": "07:00:00 PM 26-06-2025"
+    },
+    {
+      "id": 128730,
+      "event_category": "Cricket",
+      "title": "Black Eagles vs Alpine S.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128730_5312_BES_ASC_fc-web.jpg",
+      "team_1": "Black Eagles",
+      "team_2": "Alpine S.C",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Black Eagles vs Alpine S.C",
+      "startTime": "12:30:00 PM 26-06-2025"
     },
     {
       "id": 126551,
@@ -374,18 +362,6 @@
       "startTime": "01:40:00 PM 26-06-2025"
     },
     {
-      "id": 129839,
-      "event_category": "Cricket",
-      "title": "A4 Power Strikers vs Alembic Warriors (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128674_5310_APT_AWS_fc-Web.jpg",
-      "team_1": "A4 Power Strikers",
-      "team_2": "Alembic Warriors",
-      "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "A4 Power Strikers vs Alembic Warriors",
-      "startTime": "03:20:00 PM 26-06-2025"
-    },
-    {
       "id": 128401,
       "event_category": "Cricket",
       "title": "West Indies Academy vs Sri Lanka Emerging (Sri Lanka Emerging tour of West Indies)",
@@ -396,6 +372,18 @@
       "event_name": "Sri Lanka Emerging tour of West Indies",
       "match_name": "West Indies Academy vs Sri Lanka Emerging",
       "startTime": "07:00:00 PM 26-06-2025"
+    },
+    {
+      "id": 129839,
+      "event_category": "Cricket",
+      "title": "A4 Power Strikers vs Alembic Warriors (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128674_5310_APT_AWS_fc-Web.jpg",
+      "team_1": "A4 Power Strikers",
+      "team_2": "Alembic Warriors",
+      "status": "UPCOMING",
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "A4 Power Strikers vs Alembic Warriors",
+      "startTime": "03:20:00 PM 26-06-2025"
     },
     {
       "id": 129396,
@@ -456,6 +444,18 @@
       "event_name": "St. Lucia T10 Blast, 2025",
       "match_name": "Bamboo Blasters vs Amazonian Warriors",
       "startTime": "09:30:00 PM 26-06-2025"
+    },
+    {
+      "id": 128660,
+      "event_category": "Cricket",
+      "title": "Team TGS vs Thunder Cats - B (KCC T20 Challengers B League Edition 3, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128660_CASACARDS_APP.png",
+      "team_1": "Team TGS",
+      "team_2": "Thunder Cats - B",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Challengers B League Edition 3, 2025",
+      "match_name": "Team TGS vs Thunder Cats - B",
+      "startTime": "10:00:00 PM 26-06-2025"
     },
     {
       "id": 128408,
