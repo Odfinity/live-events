@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:36 AM 25-06-2025",
+  "last update time": "10:13 AM 25-06-2025",
   "matches": [
+    {
+      "id": 128427,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card-revised.png",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "LIVE",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "10:00:00 AM 25-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1750868589~acl=/*~id=34969192405606703832309186111312~hmac=fd81c32c6d07461ba4012c5ec0251a2aeb8cfffbbb2e37b85572815d8631c215"
+    },
     {
       "id": 128727,
       "event_category": "Cricket",
@@ -60,18 +74,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128384_english_hls_29235ta-di_h264/index.m3u8"
     },
     {
-      "id": 128427,
-      "event_category": "Cricket",
-      "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card-revised.png",
-      "team_1": "Sri Lanka",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Sri Lanka vs Bangladesh",
-      "startTime": "10:00:00 AM 25-06-2025"
-    },
-    {
       "id": 128077,
       "event_category": "Cricket",
       "title": "Harbour Diamonds vs Shrachi Rarh Tigers (Bengal Pro T20 league, 2025)",
@@ -82,6 +84,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "Harbour Diamonds vs Shrachi Rarh Tigers",
       "startTime": "01:00:00 PM 25-06-2025"
+    },
+    {
+      "id": 128061,
+      "event_category": "Cricket",
+      "title": "Sobisco Smashers Malda vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-Web.jpg",
+      "team_1": "Sobisco Smashers Malda",
+      "team_2": "Servotech Siliguri Strikers",
+      "status": "UPCOMING",
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Sobisco Smashers Malda vs Servotech Siliguri Strikers",
+      "startTime": "07:00:00 PM 25-06-2025"
     },
     {
       "id": 126550,
@@ -300,18 +314,6 @@
       "startTime": "09:30:00 PM 25-06-2025"
     },
     {
-      "id": 123341,
-      "event_category": "Football",
-      "title": "England U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-Neth_old.jpg",
-      "team_1": "England U21",
-      "team_2": "Netherlands U21",
-      "status": "UPCOMING",
-      "event_name": "UEFA European Under-21 Championship",
-      "match_name": "England U21 vs Netherlands U21",
-      "startTime": "09:30:00 PM 25-06-2025"
-    },
-    {
       "id": 128659,
       "event_category": "Cricket",
       "title": "Gulf Cable vs Lexus (KCC T20 Challengers B League Edition 3, 2025)",
@@ -322,6 +324,18 @@
       "event_name": "KCC T20 Challengers B League Edition 3, 2025",
       "match_name": "Gulf Cable vs Lexus",
       "startTime": "11:00:00 PM 25-06-2025"
+    },
+    {
+      "id": 123341,
+      "event_category": "Football",
+      "title": "England U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-Neth_old.jpg",
+      "team_1": "England U21",
+      "team_2": "Netherlands U21",
+      "status": "UPCOMING",
+      "event_name": "UEFA European Under-21 Championship",
+      "match_name": "England U21 vs Netherlands U21",
+      "startTime": "09:30:00 PM 25-06-2025"
     },
     {
       "id": 129248,
@@ -396,6 +410,18 @@
       "startTime": "11:45:00 AM 26-06-2025"
     },
     {
+      "id": 128730,
+      "event_category": "Cricket",
+      "title": "Black Eagles vs Alpine S.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128730_5312_BES_ASC_fc-web.jpg",
+      "team_1": "Black Eagles",
+      "team_2": "Alpine S.C",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Black Eagles vs Alpine S.C",
+      "startTime": "12:30:00 PM 26-06-2025"
+    },
+    {
       "id": 128857,
       "event_category": "Golf",
       "title": "Blot Open de Bretagne vs Golf Bluegreen de Pléneuf Val André (Blot Open de Bretagne)",
@@ -408,16 +434,16 @@
       "startTime": "03:25:00 PM 25-06-2025"
     },
     {
-      "id": 128730,
+      "id": 128092,
       "event_category": "Cricket",
-      "title": "Black Eagles vs Alpine S.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128730_5312_BES_ASC_fc-web.jpg",
-      "team_1": "Black Eagles",
-      "team_2": "Alpine S.C",
+      "title": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens (Bengal Women's Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128092_5283_HD-W_AHW-W_fc-Web.jpg",
+      "team_1": "Harbour Diamonds Womens",
+      "team_2": "Adamas Howrah Warriors Womens",
       "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Black Eagles vs Alpine S.C",
-      "startTime": "12:30:00 PM 26-06-2025"
+      "event_name": "Bengal Women's Pro T20 League, 2025",
+      "match_name": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens",
+      "startTime": "01:30:00 PM 26-06-2025"
     },
     {
       "id": 128408,
@@ -432,28 +458,16 @@
       "startTime": "11:40:00 PM 25-06-2025"
     },
     {
-      "id": 128409,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Washington Nationals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128409_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "Washington Nationals",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Washington Nationals",
-      "startTime": "01:40:00 AM 26-06-2025"
-    },
-    {
-      "id": 128092,
+      "id": 129393,
       "event_category": "Cricket",
-      "title": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens (Bengal Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128092_5283_HD-W_AHW-W_fc-Web.jpg",
-      "team_1": "Harbour Diamonds Womens",
-      "team_2": "Adamas Howrah Warriors Womens",
+      "title": "KCC Lions vs Oulu CC (ECS Finland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
+      "team_1": "KCC Lions",
+      "team_2": "Oulu CC",
       "status": "UPCOMING",
-      "event_name": "Bengal Women's Pro T20 League, 2025",
-      "match_name": "Harbour Diamonds Womens vs Adamas Howrah Warriors Womens",
-      "startTime": "01:30:00 PM 26-06-2025"
+      "event_name": "ECS Finland, 2025",
+      "match_name": "KCC Lions vs Oulu CC",
+      "startTime": "01:45:00 PM 26-06-2025"
     }
   ]
 }
