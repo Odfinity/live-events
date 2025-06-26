@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:50 PM 26-06-2025",
+  "last update time": "05:11 PM 26-06-2025",
   "matches": [
     {
       "id": 128427,
@@ -58,6 +58,20 @@
       "startTime": "03:45:00 PM 26-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HU89wRdCRdm-Ds98yVah4Q/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/129394_english_hls_97095ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129840,
+      "event_category": "Cricket",
+      "title": "Ami Super Avengers vs Alembic Warriors (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128687_5310_AWS_ASV_fc-Web.jpg",
+      "team_1": "Ami Super Avengers",
+      "team_2": "Alembic Warriors",
+      "status": "LIVE",
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Ami Super Avengers vs Alembic Warriors",
+      "startTime": "05:00:00 PM 26-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/XPKg45w_TZ68ZgPnAzgvcA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129840_english_hls_34624ta-di_h264/index.m3u8"
     },
     {
       "id": 129325,
@@ -164,20 +178,6 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Nellai Royal Kings vs Dindigul Dragons",
       "startTime": "07:15:00 PM 26-06-2025"
-    },
-    {
-      "id": 129840,
-      "event_category": "Cricket",
-      "title": "Alembic Warriors vs Ami Super Avengers (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128687_5310_AWS_ASV_fc-Web.jpg",
-      "team_1": "Alembic Warriors",
-      "team_2": "Ami Super Avengers",
-      "status": "LIVE",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "Alembic Warriors vs Ami Super Avengers",
-      "startTime": "05:00:00 PM 26-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XPKg45w_TZ68ZgPnAzgvcA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129840_english_hls_34624ta-di_h264/index.m3u8"
     },
     {
       "id": 129395,
@@ -396,18 +396,6 @@
       "startTime": "01:45:00 PM 27-06-2025"
     },
     {
-      "id": 128691,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:45:00 PM 27-06-2025"
-    },
-    {
       "id": 128079,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Bengal Pro T20 league, 2025)",
@@ -418,6 +406,18 @@
       "event_name": "Bengal Pro T20 league, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "07:00:00 PM 27-06-2025"
+    },
+    {
+      "id": 128691,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Baroda Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "02:45:00 PM 27-06-2025"
     },
     {
       "id": 129399,
@@ -442,6 +442,18 @@
       "event_name": "Baroda Premier League, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "06:45:00 PM 27-06-2025"
+    },
+    {
+      "id": 129400,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS Finland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS Finland, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:45:00 PM 27-06-2025"
     },
     {
       "id": 128865,
