@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:58 PM 27-06-2025",
+  "last update time": "09:15 PM 27-06-2025",
   "matches": [
     {
       "id": 118432,
@@ -44,20 +44,6 @@
       "startTime": "07:00:00 PM 27-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/eOrMMaGdTo-LF9joGv7sXQ/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128079_english_hls_13115ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128787,
-      "event_category": "Cricket",
-      "title": "Namibia vs Assam (Assam tour of Namibia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-tour-of-Namibia_old.jpg",
-      "team_1": "Namibia",
-      "team_2": "Assam",
-      "status": "LIVE",
-      "event_name": "Assam tour of Namibia, 2025",
-      "match_name": "Namibia vs Assam",
-      "startTime": "01:00:00 PM 27-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zYsgU5JgSHachaFFdxLmfA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128787_english_hls_13884ta-di_h264/index.m3u8"
     },
     {
       "id": 128692,
@@ -200,20 +186,6 @@
       "adfree_url": "https://dai.fancode.com/primary/128866_english_hls_11016ta-di_h264/index.m3u8"
     },
     {
-      "id": 129414,
-      "event_category": "Motorsports",
-      "title": "Session 2 - Qualifying Races vs Lago Maggiore (E1 Lago Maggiore GP)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
-      "team_1": "Session 2 - Qualifying Races",
-      "team_2": "Lago Maggiore",
-      "status": "LIVE",
-      "event_name": "E1 Lago Maggiore GP",
-      "match_name": "Session 2 - Qualifying Races",
-      "startTime": "07:50:00 PM 27-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/kZlvMwkbQVCuTuZGUdidTA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129414_english_hls_50928ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128427,
       "event_category": "Cricket",
       "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
@@ -286,30 +258,6 @@
       "startTime": "12:30:00 AM 28-06-2025"
     },
     {
-      "id": 129706,
-      "event_category": "Cricket",
-      "title": "Malaysia Blues vs Malaysia Reds (MCA T20 Tri-Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_02.jpg",
-      "team_1": "Malaysia Blues",
-      "team_2": "Malaysia Reds",
-      "status": "UPCOMING",
-      "event_name": "MCA T20 Tri-Series, 2025",
-      "match_name": "Malaysia Blues vs Malaysia Reds",
-      "startTime": "07:30:00 AM 28-06-2025"
-    },
-    {
-      "id": 128733,
-      "event_category": "Cricket",
-      "title": "Irises C.C vs Alpine S.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-web.jpg",
-      "team_1": "Irises C.C",
-      "team_2": "Alpine S.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Irises C.C vs Alpine S.C",
-      "startTime": "08:30:00 AM 28-06-2025"
-    },
-    {
       "id": 128080,
       "event_category": "Cricket",
       "title": "Adamas Howrah Warriors vs TBC (Bengal Pro T20 league, 2025)",
@@ -334,6 +282,18 @@
       "startTime": "07:00:00 PM 28-06-2025"
     },
     {
+      "id": 129706,
+      "event_category": "Cricket",
+      "title": "Malaysia Blues vs Malaysia Reds (MCA T20 Tri-Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_02.jpg",
+      "team_1": "Malaysia Blues",
+      "team_2": "Malaysia Reds",
+      "status": "UPCOMING",
+      "event_name": "MCA T20 Tri-Series, 2025",
+      "match_name": "Malaysia Blues vs Malaysia Reds",
+      "startTime": "07:30:00 AM 28-06-2025"
+    },
+    {
       "id": 126553,
       "event_category": "Cricket",
       "title": "Lyca Kovai Kings vs SKM Salem Spartans (Shriram Capital TNPL)",
@@ -344,6 +304,18 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Lyca Kovai Kings vs SKM Salem Spartans",
       "startTime": "07:15:00 PM 28-06-2025"
+    },
+    {
+      "id": 128733,
+      "event_category": "Cricket",
+      "title": "Irises C.C vs Alpine S.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-web.jpg",
+      "team_1": "Irises C.C",
+      "team_2": "Alpine S.C",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Irises C.C vs Alpine S.C",
+      "startTime": "08:30:00 AM 28-06-2025"
     },
     {
       "id": 129334,
@@ -452,6 +424,18 @@
       "event_name": "LIV Golf Dallas",
       "match_name": "Day 1",
       "startTime": "09:45:00 PM 27-06-2025"
+    },
+    {
+      "id": 129331,
+      "event_category": "Motorsports",
+      "title": "Practice Session vs Spielberg, Austria (Porsche Mobil 1 Super Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_old-(1).jpg",
+      "team_1": "Practice Session",
+      "team_2": "Spielberg, Austria",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Super Cup",
+      "match_name": "Practice Session",
+      "startTime": "10:05:00 PM 27-06-2025"
     },
     {
       "id": 128693,
