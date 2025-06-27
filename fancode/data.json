@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:30 PM 27-06-2025",
+  "last update time": "06:28 PM 27-06-2025",
   "matches": [
     {
       "id": 118431,
@@ -16,34 +16,6 @@
       "startTime": "05:00:00 PM 27-06-2025",
       "dai_url": "https://d7mslouiqq3lr.cloudfront.net/out/v1/f1e9b677e69649298ec1f8aac5c33fda/index.m3u8",
       "adfree_url": "https://d7mslouiqq3lr.cloudfront.net/out/v1/f1e9b677e69649298ec1f8aac5c33fda/index.m3u8"
-    },
-    {
-      "id": 128427,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card-revised.png",
-      "team_1": "Bangladesh",
-      "team_2": "Sri Lanka",
-      "status": "LIVE",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Bangladesh vs Sri Lanka",
-      "startTime": "10:00:00 AM 25-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1751040660~acl=/*~id=08943605311331972854949252164772~hmac=2118fa92a488d5bc56a10f97e6965d67a21a261df653828c1943de9409b66b6f"
-    },
-    {
-      "id": 128078,
-      "event_category": "Cricket",
-      "title": "Adamas Howrah Warriors vs Lux Shyam Kolkata Tigers (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-Web.jpg",
-      "team_1": "Adamas Howrah Warriors",
-      "team_2": "Lux Shyam Kolkata Tigers",
-      "status": "LIVE",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Adamas Howrah Warriors vs Lux Shyam Kolkata Tigers",
-      "startTime": "01:00:00 PM 27-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/X9qcinWvTqOi0f7Ye0THaw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128078_english_hls_34578ta-di_h264/index.m3u8"
     },
     {
       "id": 128787,
@@ -186,6 +158,58 @@
       "adfree_url": "https://dai.fancode.com/primary/129353_english_hls_40389ta-di_h264/index.m3u8"
     },
     {
+      "id": 119093,
+      "event_category": "Motorsports",
+      "title": "Qualifying vs Spielberg (F3 SPIELBERG 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+      "team_1": "Qualifying",
+      "team_2": "Spielberg",
+      "status": "LIVE",
+      "event_name": "F3 SPIELBERG 2025",
+      "match_name": "Qualifying",
+      "startTime": "06:30:00 PM 27-06-2025",
+      "dai_url": "https://dai.fancode.com/primary/119093_english_hls_90601adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/119093_english_hls_90601adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128866,
+      "event_category": "Golf",
+      "title": "Day 2 vs Green Eagle Golf Courses (Armundi German Masters)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Green Eagle Golf Courses",
+      "status": "LIVE",
+      "event_name": "Armundi German Masters",
+      "match_name": "Day 2",
+      "startTime": "06:30:00 PM 27-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/NNfvLKAFShae2Rv3UokTwQ/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128866_english_hls_11016ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128079,
+      "event_category": "Cricket",
+      "title": "Murshidabad Kings vs Harbour Diamonds (Bengal Pro T20 league, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_APP.png",
+      "team_1": "Murshidabad Kings",
+      "team_2": "Harbour Diamonds",
+      "status": "UPCOMING",
+      "event_name": "Bengal Pro T20 league, 2025",
+      "match_name": "Murshidabad Kings vs Harbour Diamonds",
+      "startTime": "07:00:00 PM 27-06-2025"
+    },
+    {
+      "id": 128427,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card-revised.png",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "PAUSED",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "10:00:00 AM 25-06-2025"
+    },
+    {
       "id": 127550,
       "event_category": "Cricket",
       "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
@@ -198,16 +222,16 @@
       "startTime": "07:30:00 PM 25-06-2025"
     },
     {
-      "id": 128079,
+      "id": 128692,
       "event_category": "Cricket",
-      "title": "Harbour Diamonds vs Murshidabad Kings (Bengal Pro T20 league, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_APP.png",
-      "team_1": "Harbour Diamonds",
-      "team_2": "Murshidabad Kings",
+      "title": "Alembic Warriors vs Ami Super Avengers (Baroda Premier League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128692_CASACARDS_APP.png",
+      "team_1": "Alembic Warriors",
+      "team_2": "Ami Super Avengers",
       "status": "UPCOMING",
-      "event_name": "Bengal Pro T20 league, 2025",
-      "match_name": "Harbour Diamonds vs Murshidabad Kings",
-      "startTime": "07:00:00 PM 27-06-2025"
+      "event_name": "Baroda Premier League, 2025",
+      "match_name": "Alembic Warriors vs Ami Super Avengers",
+      "startTime": "06:45:00 PM 27-06-2025"
     },
     {
       "id": 127558,
@@ -222,16 +246,16 @@
       "startTime": "01:30:00 PM 28-06-2025"
     },
     {
-      "id": 128692,
+      "id": 126552,
       "event_category": "Cricket",
-      "title": "Alembic Warriors vs Ami Super Avengers (Baroda Premier League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128692_CASACARDS_APP.png",
-      "team_1": "Alembic Warriors",
-      "team_2": "Ami Super Avengers",
+      "title": "Chepauk Super Gillies vs Siechem Madurai Panthers (Shriram Capital TNPL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Old_match_card.jpg",
+      "team_1": "Chepauk Super Gillies",
+      "team_2": "Siechem Madurai Panthers",
       "status": "UPCOMING",
-      "event_name": "Baroda Premier League, 2025",
-      "match_name": "Alembic Warriors vs Ami Super Avengers",
-      "startTime": "06:45:00 PM 27-06-2025"
+      "event_name": "Shriram Capital TNPL",
+      "match_name": "Chepauk Super Gillies vs Siechem Madurai Panthers",
+      "startTime": "03:15:00 PM 28-06-2025"
     },
     {
       "id": 129400,
@@ -292,18 +316,6 @@
       "event_name": "KCC T20 Challengers B League Edition 3, 2025",
       "match_name": "Team TGS vs Gulf Cable",
       "startTime": "12:30:00 AM 28-06-2025"
-    },
-    {
-      "id": 126552,
-      "event_category": "Cricket",
-      "title": "Chepauk Super Gillies vs Siechem Madurai Panthers (Shriram Capital TNPL)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Old_match_card.jpg",
-      "team_1": "Chepauk Super Gillies",
-      "team_2": "Siechem Madurai Panthers",
-      "status": "UPCOMING",
-      "event_name": "Shriram Capital TNPL",
-      "match_name": "Chepauk Super Gillies vs Siechem Madurai Panthers",
-      "startTime": "03:15:00 PM 28-06-2025"
     },
     {
       "id": 129706,
@@ -378,18 +390,6 @@
       "startTime": "01:30:00 PM 28-06-2025"
     },
     {
-      "id": 129643,
-      "event_category": "Cricket",
-      "title": "PCS-W vs Oulu CC-W (ECS-W Finland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_2_1750820537686.jpg",
-      "team_1": "PCS-W",
-      "team_2": "Oulu CC-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Finland, 2025",
-      "match_name": "PCS-W vs Oulu CC-W",
-      "startTime": "01:45:00 PM 28-06-2025"
-    },
-    {
       "id": 128080,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Bengal Pro T20 league, 2025)",
@@ -414,16 +414,16 @@
       "startTime": "07:00:00 PM 28-06-2025"
     },
     {
-      "id": 129335,
+      "id": 129643,
       "event_category": "Cricket",
-      "title": "Hindukush Strikers vs Mahipar Stars (Afghanistan National T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129335_5349_HS_MPS_fc-web.jpg",
-      "team_1": "Hindukush Strikers",
-      "team_2": "Mahipar Stars",
+      "title": "PCS-W vs Oulu CC-W (ECS-W Finland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_2_1750820537686.jpg",
+      "team_1": "PCS-W",
+      "team_2": "Oulu CC-W",
       "status": "UPCOMING",
-      "event_name": "Afghanistan National T20, 2025",
-      "match_name": "Hindukush Strikers vs Mahipar Stars",
-      "startTime": "02:30:00 PM 28-06-2025"
+      "event_name": "ECS-W Finland, 2025",
+      "match_name": "PCS-W vs Oulu CC-W",
+      "startTime": "01:45:00 PM 28-06-2025"
     },
     {
       "id": 126553,
@@ -436,6 +436,30 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Lyca Kovai Kings vs SKM Salem Spartans",
       "startTime": "07:15:00 PM 28-06-2025"
+    },
+    {
+      "id": 129335,
+      "event_category": "Cricket",
+      "title": "Hindukush Strikers vs Mahipar Stars (Afghanistan National T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129335_5349_HS_MPS_fc-web.jpg",
+      "team_1": "Hindukush Strikers",
+      "team_2": "Mahipar Stars",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan National T20, 2025",
+      "match_name": "Hindukush Strikers vs Mahipar Stars",
+      "startTime": "02:30:00 PM 28-06-2025"
+    },
+    {
+      "id": 119050,
+      "event_category": "Motorsports",
+      "title": "Qualifying Session vs Spielberg (F2 SPIELBERG 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Qualifying Session",
+      "team_2": "Spielberg",
+      "status": "UPCOMING",
+      "event_name": "F2 SPIELBERG 2025",
+      "match_name": "Qualifying Session",
+      "startTime": "07:25:00 PM 27-06-2025"
     },
     {
       "id": 129644,
@@ -460,18 +484,6 @@
       "event_name": "ECS-W Finland, 2025",
       "match_name": "SKK-W vs PCS-W",
       "startTime": "05:45:00 PM 28-06-2025"
-    },
-    {
-      "id": 126262,
-      "event_category": "Football",
-      "title": "Shimizu S-Pulse vs Kashiwa Reysol (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/126262_4795_PUL_REY_fc-web.jpg",
-      "team_1": "Shimizu S-Pulse",
-      "team_2": "Kashiwa Reysol",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Shimizu S-Pulse vs Kashiwa Reysol",
-      "startTime": "03:00:00 PM 28-06-2025"
     }
   ]
 }
