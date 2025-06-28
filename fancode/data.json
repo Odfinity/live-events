@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:13 PM 28-06-2025",
+  "last update time": "08:27 PM 28-06-2025",
   "matches": [
     {
       "id": 128740,
@@ -44,20 +44,6 @@
       "startTime": "01:30:00 PM 28-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/hzMvKGjBSzWXj8zc4IAPGw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/127558_english_hls_2867ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 126552,
-      "event_category": "Cricket",
-      "title": "Siechem Madurai Panthers vs Chepauk Super Gillies (Shriram Capital TNPL)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Old_match_card.jpg",
-      "team_1": "Siechem Madurai Panthers",
-      "team_2": "Chepauk Super Gillies",
-      "status": "LIVE",
-      "event_name": "Shriram Capital TNPL",
-      "match_name": "Siechem Madurai Panthers vs Chepauk Super Gillies",
-      "startTime": "03:15:00 PM 28-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eksuaiyrRnm8x7FMAVdgHA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/126552_english_hls_9309ta-di_h264/index.m3u8"
     },
     {
       "id": 128080,
@@ -114,20 +100,6 @@
       "startTime": "07:45:00 PM 28-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Dc0Xkr6OSvGvx5G0pap4Qw/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/129646_english_hls_95832ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 118601,
-      "event_category": "MotoGP",
-      "title": "Day 2 vs TT Circuit Assen (MOTUL GRAND PRIX OF THE NETHERLANDS)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Natherlands_old.jpg",
-      "team_1": "Day 2",
-      "team_2": "TT Circuit Assen",
-      "status": "LIVE",
-      "event_name": "MOTUL GRAND PRIX OF THE NETHERLANDS",
-      "match_name": "Day 2",
-      "startTime": "12:10:00 PM 28-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/d7fEEDBZQGiwnxPwODqfDA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/118601_english_hls_17410ta-di_h264/index.m3u8"
     },
     {
       "id": 129363,
@@ -226,6 +198,20 @@
       "startTime": "07:35:00 PM 28-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/hdU5hyveR2upHqlEfyWPbg/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/129417_english_hls_43853ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 126552,
+      "event_category": "Cricket",
+      "title": "Siechem Madurai Panthers vs Chepauk Super Gillies (Shriram Capital TNPL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Old_match_card.jpg",
+      "team_1": "Siechem Madurai Panthers",
+      "team_2": "Chepauk Super Gillies",
+      "status": "LIVE",
+      "event_name": "Shriram Capital TNPL",
+      "match_name": "Siechem Madurai Panthers vs Chepauk Super Gillies",
+      "startTime": "03:15:00 PM 28-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eksuaiyrRnm8x7FMAVdgHA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/126552_english_hls_9309ta-di_h264/index.m3u8"
     },
     {
       "id": 126554,
@@ -444,18 +430,6 @@
       "startTime": "06:45:00 PM 29-06-2025"
     },
     {
-      "id": 126261,
-      "event_category": "Football",
-      "title": "Tokyo Verdy vs Kawasaki Frontale (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/126261_4795_VER_KAW_fc-web.jpg",
-      "team_1": "Tokyo Verdy",
-      "team_2": "Kawasaki Frontale",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Tokyo Verdy vs Kawasaki Frontale",
-      "startTime": "02:30:00 PM 29-06-2025"
-    },
-    {
       "id": 126068,
       "event_category": "Cricket",
       "title": "Gloucestershire Women vs Glamorgan Women (Women's Vitality Blast League 2, 2025)",
@@ -466,6 +440,18 @@
       "event_name": "Women's Vitality Blast League 2, 2025",
       "match_name": "Gloucestershire Women vs Glamorgan Women",
       "startTime": "07:00:00 PM 29-06-2025"
+    },
+    {
+      "id": 126261,
+      "event_category": "Football",
+      "title": "Tokyo Verdy vs Kawasaki Frontale (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/126261_4795_VER_KAW_fc-web.jpg",
+      "team_1": "Tokyo Verdy",
+      "team_2": "Kawasaki Frontale",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Tokyo Verdy vs Kawasaki Frontale",
+      "startTime": "02:30:00 PM 29-06-2025"
     },
     {
       "id": 129007,
@@ -490,6 +476,18 @@
       "event_name": "ECS-W Finland, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "07:45:00 PM 29-06-2025"
+    },
+    {
+      "id": 129255,
+      "event_category": "Cricket",
+      "title": "Piton Strikers vs Bamboo Blasters (St. Lucia T10 Blast, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129255_5345_PTS_BMB_fc-Web.jpg",
+      "team_1": "Piton Strikers",
+      "team_2": "Bamboo Blasters",
+      "status": "UPCOMING",
+      "event_name": "St. Lucia T10 Blast, 2025",
+      "match_name": "Piton Strikers vs Bamboo Blasters",
+      "startTime": "09:30:00 PM 29-06-2025"
     }
   ]
 }
