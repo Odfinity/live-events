@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:36 AM 28-06-2025",
+  "last update time": "08:49 AM 28-06-2025",
   "matches": [
     {
       "id": 129706,
@@ -16,6 +16,20 @@
       "startTime": "07:30:00 AM 28-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/UvFAosrXQ7mLc-qfke9LLg/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/129706_english_hls_14419ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128733,
+      "event_category": "Cricket",
+      "title": "Irises C.C vs Alpine S.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-web.jpg",
+      "team_1": "Irises C.C",
+      "team_2": "Alpine S.C",
+      "status": "LIVE",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Irises C.C vs Alpine S.C",
+      "startTime": "08:30:00 AM 28-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YoTvQUjDSzW52FLi381jLA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128733_english_hls_51421ta-di_h264/index.m3u8"
     },
     {
       "id": 128387,
@@ -71,7 +85,7 @@
       "id": 128080,
       "event_category": "Cricket",
       "title": "Adamas Howrah Warriors vs Murshidabad Kings (Bengal Pro T20 league, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/103425_4254_AHW_MK_fc-Web_1718702879810.jpg",
       "team_1": "Adamas Howrah Warriors",
       "team_2": "Murshidabad Kings",
       "status": "UPCOMING",
@@ -102,18 +116,6 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Lyca Kovai Kings vs SKM Salem Spartans",
       "startTime": "07:15:00 PM 28-06-2025"
-    },
-    {
-      "id": 128733,
-      "event_category": "Cricket",
-      "title": "Irises C.C vs Alpine S.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-web.jpg",
-      "team_1": "Irises C.C",
-      "team_2": "Alpine S.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Irises C.C vs Alpine S.C",
-      "startTime": "08:30:00 AM 28-06-2025"
     },
     {
       "id": 129334,
@@ -155,7 +157,7 @@
       "id": 128111,
       "event_category": "Cricket",
       "title": "Lux Shyam Kolkata Tigers Womens vs Sobisco Smashers Malda Womens (Bengal Women's Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128089_5283_LSKT-W_SSM-W_fc-Web.jpg",
       "team_1": "Lux Shyam Kolkata Tigers Womens",
       "team_2": "Sobisco Smashers Malda Womens",
       "status": "UPCOMING",
@@ -440,6 +442,18 @@
       "startTime": "05:15:00 PM 28-06-2025"
     },
     {
+      "id": 129647,
+      "event_category": "Cricket",
+      "title": "Oulu CC-W vs SKK-W (ECS-W Finland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_2_1750820537686.jpg",
+      "team_1": "Oulu CC-W",
+      "team_2": "SKK-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Finland, 2025",
+      "match_name": "Oulu CC-W vs SKK-W",
+      "startTime": "11:45:00 AM 29-06-2025"
+    },
+    {
       "id": 119051,
       "event_category": "Motorsports",
       "title": "Sprint Race vs Spielberg (F2 SPIELBERG 2025)",
@@ -450,18 +464,6 @@
       "event_name": "F2 SPIELBERG 2025",
       "match_name": "Sprint Race",
       "startTime": "05:45:00 PM 28-06-2025"
-    },
-    {
-      "id": 129365,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 3 vs Detroit, Michigan (Rocket Classic)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
-      "team_1": "Marquee Group - Day 3",
-      "team_2": "Detroit, Michigan",
-      "status": "UPCOMING",
-      "event_name": "Rocket Classic",
-      "match_name": "Marquee Group - Day 3",
-      "startTime": "06:00:00 PM 28-06-2025"
     }
   ]
 }
