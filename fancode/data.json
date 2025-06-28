@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 28-06-2025",
+  "last update time": "03:57 PM 28-06-2025",
   "matches": [
+    {
+      "id": 118433,
+      "event_category": "Formula 1",
+      "title": "Practice 3 vs Austria (F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Old-Match-card.png",
+      "team_1": "Practice 3",
+      "team_2": "Austria",
+      "status": "LIVE",
+      "event_name": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
+      "match_name": "Practice 3",
+      "startTime": "04:00:00 PM 28-06-2025",
+      "dai_url": "https://d180gc5zfrujum.cloudfront.net/out/v1/82d400ca58ee4ced98fc5e50ae8fcc26/index.m3u8",
+      "adfree_url": "https://d180gc5zfrujum.cloudfront.net/out/v1/82d400ca58ee4ced98fc5e50ae8fcc26/index.m3u8"
+    },
     {
       "id": 127558,
       "event_category": "Cricket",
@@ -32,20 +46,6 @@
       "adfree_url": "https://dai.fancode.com/primary/126552_english_hls_9309ta-di_h264/index.m3u8"
     },
     {
-      "id": 128734,
-      "event_category": "Cricket",
-      "title": "CAT vs Black Eagles (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128734_5312_BES_CAT_fc-web.jpg",
-      "team_1": "CAT",
-      "team_2": "Black Eagles",
-      "status": "LIVE",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "CAT vs Black Eagles",
-      "startTime": "12:30:00 PM 28-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/mTzIMtBDSHeqojoxrluIxw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128734_english_hls_69599ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128111,
       "event_category": "Cricket",
       "title": "Lux Shyam Kolkata Tigers Womens vs Sobisco Smashers Malda Womens (Bengal Women's Pro T20 League, 2025)",
@@ -72,6 +72,20 @@
       "startTime": "03:00:00 PM 28-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/rBrjK5AiRj2kCqb23EqLrA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/129335_english_hls_5478ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129644,
+      "event_category": "Cricket",
+      "title": "Oulu CC-W vs Empire Lionesses-W (ECS-W Finland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_1_1750820537743.jpg",
+      "team_1": "Oulu CC-W",
+      "team_2": "Empire Lionesses-W",
+      "status": "LIVE",
+      "event_name": "ECS-W Finland, 2025",
+      "match_name": "Oulu CC-W vs Empire Lionesses-W",
+      "startTime": "03:45:00 PM 28-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/djm7xzRiQeK2iyCdpgpNAg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129644_english_hls_59262ta-di_h264/index.m3u8"
     },
     {
       "id": 126262,
@@ -114,20 +128,6 @@
       "startTime": "12:10:00 PM 28-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/d7fEEDBZQGiwnxPwODqfDA/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/118601_english_hls_17410ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 129332,
-      "event_category": "Motorsports",
-      "title": "Qualifying Session vs Spielberg, Austria (Porsche Mobil 1 Super Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_old-(1).jpg",
-      "team_1": "Qualifying Session",
-      "team_2": "Spielberg, Austria",
-      "status": "LIVE",
-      "event_name": "Porsche Mobil 1 Super Cup",
-      "match_name": "Qualifying Session",
-      "startTime": "02:50:00 PM 28-06-2025",
-      "dai_url": "https://dai.fancode.com/primary/129332_english_hls_84469adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129332_english_hls_84469adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 129415,
@@ -180,18 +180,6 @@
       "startTime": "07:15:00 PM 28-06-2025"
     },
     {
-      "id": 129644,
-      "event_category": "Cricket",
-      "title": "Oulu CC-W vs Empire Lionesses-W (ECS-W Finland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_1_1750820537743.jpg",
-      "team_1": "Oulu CC-W",
-      "team_2": "Empire Lionesses-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Finland, 2025",
-      "match_name": "Oulu CC-W vs Empire Lionesses-W",
-      "startTime": "03:45:00 PM 28-06-2025"
-    },
-    {
       "id": 129645,
       "event_category": "Cricket",
       "title": "SKK-W vs PCS-W (ECS-W Finland, 2025)",
@@ -207,7 +195,7 @@
       "id": 128693,
       "event_category": "Cricket",
       "title": "Pruthvi Panthers vs Ami Super Avengers (Baroda Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128678_5310_ASV_PTP_fc-Web.jpg",
       "team_1": "Pruthvi Panthers",
       "team_2": "Ami Super Avengers",
       "status": "UPCOMING",
@@ -288,18 +276,6 @@
       "startTime": "07:30:00 AM 29-06-2025"
     },
     {
-      "id": 128735,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "08:30:00 AM 29-06-2025"
-    },
-    {
       "id": 126554,
       "event_category": "Cricket",
       "title": "IDream Tiruppur Tamizhans vs Nellai Royal Kings (Shriram Capital TNPL)",
@@ -310,6 +286,18 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "IDream Tiruppur Tamizhans vs Nellai Royal Kings",
       "startTime": "03:15:00 PM 29-06-2025"
+    },
+    {
+      "id": 128735,
+      "event_category": "Cricket",
+      "title": "Yuksom Capitals vs Irises C.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Yuksom Capitals",
+      "team_2": "Irises C.C",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Yuksom Capitals vs Irises C.C",
+      "startTime": "08:30:00 AM 29-06-2025"
     },
     {
       "id": 129336,
@@ -336,28 +324,40 @@
       "startTime": "11:45:00 AM 29-06-2025"
     },
     {
-      "id": 118433,
-      "event_category": "Formula 1",
-      "title": "Practice 3 vs Austria (F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Old-Match-card.png",
-      "team_1": "Practice 3",
-      "team_2": "Austria",
-      "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
-      "match_name": "Practice 3",
-      "startTime": "04:00:00 PM 28-06-2025"
-    },
-    {
       "id": 128736,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Sikkim T20 League, 2025)",
+      "title": "Pakyong XI vs Black Eagles (Sikkim T20 League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Pakyong XI",
+      "team_2": "Black Eagles",
       "status": "UPCOMING",
       "event_name": "Sikkim T20 League, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Pakyong XI vs Black Eagles",
       "startTime": "12:30:00 PM 29-06-2025"
+    },
+    {
+      "id": 129363,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 3 vs Detroit, Michigan (Rocket Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
+      "team_1": "Main Feed - Day 3",
+      "team_2": "Detroit, Michigan",
+      "status": "UPCOMING",
+      "event_name": "Rocket Classic",
+      "match_name": "Main Feed - Day 3",
+      "startTime": "04:15:00 PM 28-06-2025"
+    },
+    {
+      "id": 129364,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 3 vs Detroit, Michigan (Rocket Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
+      "team_1": "Featured Groups - Day 3",
+      "team_2": "Detroit, Michigan",
+      "status": "UPCOMING",
+      "event_name": "Rocket Classic",
+      "match_name": "Featured Groups - Day 3",
+      "startTime": "04:45:00 PM 28-06-2025"
     },
     {
       "id": 128788,
@@ -444,18 +444,6 @@
       "startTime": "02:30:00 PM 29-06-2025"
     },
     {
-      "id": 129367,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 3 vs Detroit, Michigan (Rocket Classic)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
-      "team_1": "Featured Holes - Day 3",
-      "team_2": "Detroit, Michigan",
-      "status": "UPCOMING",
-      "event_name": "Rocket Classic",
-      "match_name": "Featured Holes - Day 3",
-      "startTime": "04:30:00 PM 28-06-2025"
-    },
-    {
       "id": 128875,
       "event_category": "Golf",
       "title": "Day 3 vs Argentario GC (Italian Open)",
@@ -468,16 +456,28 @@
       "startTime": "05:00:00 PM 28-06-2025"
     },
     {
-      "id": 129363,
+      "id": 129365,
       "event_category": "Golf",
-      "title": "Main Feed - Day 3 vs Detroit, Michigan (Rocket Classic)",
+      "title": "Marquee Group - Day 3 vs Detroit, Michigan (Rocket Classic)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
-      "team_1": "Main Feed - Day 3",
+      "team_1": "Marquee Group - Day 3",
       "team_2": "Detroit, Michigan",
       "status": "UPCOMING",
       "event_name": "Rocket Classic",
-      "match_name": "Main Feed - Day 3",
+      "match_name": "Marquee Group - Day 3",
       "startTime": "05:00:00 PM 28-06-2025"
+    },
+    {
+      "id": 129367,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 3 vs Detroit, Michigan (Rocket Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
+      "team_1": "Featured Holes - Day 3",
+      "team_2": "Detroit, Michigan",
+      "status": "UPCOMING",
+      "event_name": "Rocket Classic",
+      "match_name": "Featured Holes - Day 3",
+      "startTime": "05:30:00 PM 28-06-2025"
     }
   ]
 }
