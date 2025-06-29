@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:43 PM 29-06-2025",
+  "last update time": "12:12 AM 30-06-2025",
   "matches": [
-    {
-      "id": 129255,
-      "event_category": "Cricket",
-      "title": "Piton Strikers vs Bamboo Blasters (St. Lucia T10 Blast, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129255_5345_PTS_BMB_fc-Web.jpg",
-      "team_1": "Piton Strikers",
-      "team_2": "Bamboo Blasters",
-      "status": "LIVE",
-      "event_name": "St. Lucia T10 Blast, 2025",
-      "match_name": "Piton Strikers vs Bamboo Blasters",
-      "startTime": "09:30:00 PM 29-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HHiXdQBpTpKqJqG9wy1FYQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129255_english_hls_34191ta-di_h264/index.m3u8"
-    },
     {
       "id": 128665,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "11:00:00 PM 29-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/1gqEB_DuTZWybwI2VIO8tQ/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/128665_english_hls_12458ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129256,
+      "event_category": "Cricket",
+      "title": "Amazonian Warriors vs Whiptail Smashers (St. Lucia T10 Blast, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129256_5345_WTS_AMW_fc-Web.jpg",
+      "team_1": "Amazonian Warriors",
+      "team_2": "Whiptail Smashers",
+      "status": "LIVE",
+      "event_name": "St. Lucia T10 Blast, 2025",
+      "match_name": "Amazonian Warriors vs Whiptail Smashers",
+      "startTime": "12:00:00 AM 30-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/sS0TrUq8SLyT33anl7rxzA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129256_english_hls_82220ta-di_h264/index.m3u8"
     },
     {
       "id": 129369,
@@ -130,6 +130,20 @@
       "adfree_url": "https://dai.fancode.com/primary/129376_english_hls_60027ta-di_h264/index.m3u8"
     },
     {
+      "id": 128392,
+      "event_category": "Baseball",
+      "title": "Texas Rangers vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128392_CASACARDS_APP.png",
+      "team_1": "Texas Rangers",
+      "team_2": "Seattle Mariners",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Texas Rangers vs Seattle Mariners",
+      "startTime": "12:05:00 AM 30-06-2025",
+      "dai_url": "https://dai.fancode.com/primary/128392_english_hls_79122ta-di_h264/index.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128392_english_hls_79122ta-di_h264/index.m3u8"
+    },
+    {
       "id": 127558,
       "event_category": "Cricket",
       "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
@@ -140,18 +154,6 @@
       "event_name": "South Africa tour of Zimbabwe, 2025",
       "match_name": "South Africa vs Zimbabwe",
       "startTime": "01:30:00 PM 28-06-2025"
-    },
-    {
-      "id": 129256,
-      "event_category": "Cricket",
-      "title": "Whiptail Smashers vs Amazonian Warriors (St. Lucia T10 Blast, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129256_5345_WTS_AMW_fc-Web.jpg",
-      "team_1": "Whiptail Smashers",
-      "team_2": "Amazonian Warriors",
-      "status": "UPCOMING",
-      "event_name": "St. Lucia T10 Blast, 2025",
-      "match_name": "Whiptail Smashers vs Amazonian Warriors",
-      "startTime": "12:00:00 AM 30-06-2025"
     },
     {
       "id": 128737,
@@ -248,18 +250,6 @@
       "event_name": "ECS Bulgaria, 2025",
       "match_name": "MUS Akademik Ravens vs BCC Spartan",
       "startTime": "07:15:00 PM 30-06-2025"
-    },
-    {
-      "id": 128392,
-      "event_category": "Baseball",
-      "title": "Texas Rangers vs Seattle Mariners (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128392_CASACARDS_APP.png",
-      "team_1": "Texas Rangers",
-      "team_2": "Seattle Mariners",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Texas Rangers vs Seattle Mariners",
-      "startTime": "12:05:00 AM 30-06-2025"
     },
     {
       "id": 129257,
@@ -380,6 +370,30 @@
       "event_name": "Maharashtra Inter-District Youth Championship 2025",
       "match_name": "Mumbai Upnagars vs Ratnagiri",
       "startTime": "11:30:00 AM 01-07-2025"
+    },
+    {
+      "id": 129339,
+      "event_category": "Cricket",
+      "title": "Hindukush Strikers vs Pamir Legends (Afghanistan National T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129339_5349_HS_PAL_fc-web.jpg",
+      "team_1": "Hindukush Strikers",
+      "team_2": "Pamir Legends",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan National T20, 2025",
+      "match_name": "Hindukush Strikers vs Pamir Legends",
+      "startTime": "03:00:00 PM 01-07-2025"
+    },
+    {
+      "id": 125126,
+      "event_category": "Cricket",
+      "title": "North West Warriors vs Munster Reds (Ireland Inter-Provincial T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125126_5173_NWW_MUR_fc-Web.jpg",
+      "team_1": "North West Warriors",
+      "team_2": "Munster Reds",
+      "status": "UPCOMING",
+      "event_name": "Ireland Inter-Provincial T20 Trophy, 2025",
+      "match_name": "North West Warriors vs Munster Reds",
+      "startTime": "03:15:00 PM 01-07-2025"
     }
   ]
 }
