@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:57 AM 29-06-2025",
+  "last update time": "09:15 AM 29-06-2025",
   "matches": [
     {
       "id": 129707,
@@ -16,6 +16,20 @@
       "startTime": "07:30:00 AM 29-06-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/wazU3Ym3QFyQ874S2bbd7A/master.m3u8",
       "adfree_url": "https://dai.fancode.com/primary/129707_english_hls_26285ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128735,
+      "event_category": "Cricket",
+      "title": "Irises C.C vs Yuksom Capitals (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128721_5312_ICC_YC_fc-web.jpg",
+      "team_1": "Irises C.C",
+      "team_2": "Yuksom Capitals",
+      "status": "LIVE",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Irises C.C vs Yuksom Capitals",
+      "startTime": "08:30:00 AM 29-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/BNI7H0wEQg2QB8UCEtMNPw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128735_english_hls_70975ta-di_h264/index.m3u8"
     },
     {
       "id": 128390,
@@ -66,18 +80,6 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Dindigul Dragons vs Trichy Grand Cholas",
       "startTime": "07:15:00 PM 29-06-2025"
-    },
-    {
-      "id": 128735,
-      "event_category": "Cricket",
-      "title": "Yuksom Capitals vs Irises C.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128721_5312_ICC_YC_fc-web.jpg",
-      "team_1": "Yuksom Capitals",
-      "team_2": "Irises C.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Yuksom Capitals vs Irises C.C",
-      "startTime": "08:30:00 AM 29-06-2025"
     },
     {
       "id": 129336,
@@ -284,6 +286,18 @@
       "startTime": "08:30:00 AM 30-06-2025"
     },
     {
+      "id": 129506,
+      "event_category": "Cricket",
+      "title": "BSCU - MU Plovdiv vs CC Yullis - MU Trakia (ECS Bulgaria, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+      "team_1": "BSCU - MU Plovdiv",
+      "team_2": "CC Yullis - MU Trakia",
+      "status": "UPCOMING",
+      "event_name": "ECS Bulgaria, 2025",
+      "match_name": "BSCU - MU Plovdiv vs CC Yullis - MU Trakia",
+      "startTime": "11:15:00 AM 30-06-2025"
+    },
+    {
       "id": 119095,
       "event_category": "Motorsports",
       "title": "Feature Race vs Spielberg (F3 SPIELBERG 2025)",
@@ -404,18 +418,6 @@
       "startTime": "06:30:00 PM 29-06-2025"
     },
     {
-      "id": 129506,
-      "event_category": "Cricket",
-      "title": "BSCU - MU Plovdiv vs CC Yullis - MU Trakia (ECS Bulgaria, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "BSCU - MU Plovdiv",
-      "team_2": "CC Yullis - MU Trakia",
-      "status": "UPCOMING",
-      "event_name": "ECS Bulgaria, 2025",
-      "match_name": "BSCU - MU Plovdiv vs CC Yullis - MU Trakia",
-      "startTime": "11:15:00 AM 30-06-2025"
-    },
-    {
       "id": 128391,
       "event_category": "Baseball",
       "title": "Cleveland Guardians vs St. Louis Cardinals (Major League Baseball, 2025)",
@@ -426,6 +428,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Cleveland Guardians vs St. Louis Cardinals",
       "startTime": "09:35:00 PM 29-06-2025"
+    },
+    {
+      "id": 128738,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:30:00 PM 30-06-2025"
     },
     {
       "id": 129372,
@@ -450,18 +464,6 @@
       "event_name": "Rocket Classic",
       "match_name": "Featured Holes - Day 4",
       "startTime": "10:30:00 PM 29-06-2025"
-    },
-    {
-      "id": 129376,
-      "event_category": "Golf",
-      "title": "Day 3 vs Dallas (LIV Golf Dallas)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Dallas-old.jpg",
-      "team_1": "Day 3",
-      "team_2": "Dallas",
-      "status": "UPCOMING",
-      "event_name": "LIV Golf Dallas",
-      "match_name": "Day 3",
-      "startTime": "10:35:00 PM 29-06-2025"
     }
   ]
 }
