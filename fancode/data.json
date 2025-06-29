@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:54 AM 29-06-2025",
+  "last update time": "10:28 AM 29-06-2025",
   "matches": [
     {
       "id": 129707,
@@ -346,6 +346,18 @@
       "startTime": "03:15:00 PM 29-06-2025"
     },
     {
+      "id": 129507,
+      "event_category": "Cricket",
+      "title": "BCC Spartan vs MUS Akademik Ravens (ECS Bulgaria, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+      "team_1": "BCC Spartan",
+      "team_2": "MUS Akademik Ravens",
+      "status": "UPCOMING",
+      "event_name": "ECS Bulgaria, 2025",
+      "match_name": "BCC Spartan vs MUS Akademik Ravens",
+      "startTime": "01:15:00 PM 30-06-2025"
+    },
+    {
       "id": 128876,
       "event_category": "Golf",
       "title": "Day 4 vs Argentario GC (Italian Open)",
@@ -452,18 +464,6 @@
       "event_name": "Rocket Classic",
       "match_name": "Featured Holes - Day 4",
       "startTime": "10:30:00 PM 29-06-2025"
-    },
-    {
-      "id": 129376,
-      "event_category": "Golf",
-      "title": "Day 3 vs Dallas (LIV Golf Dallas)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Dallas-old.jpg",
-      "team_1": "Day 3",
-      "team_2": "Dallas",
-      "status": "UPCOMING",
-      "event_name": "LIV Golf Dallas",
-      "match_name": "Day 3",
-      "startTime": "10:35:00 PM 29-06-2025"
     }
   ]
 }
