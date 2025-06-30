@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:52 AM 30-06-2025",
+  "last update time": "09:11 AM 30-06-2025",
   "matches": [
+    {
+      "id": 128737,
+      "event_category": "Cricket",
+      "title": "Black Eagles vs CAT (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128734_5312_BES_CAT_fc-web.jpg",
+      "team_1": "Black Eagles",
+      "team_2": "CAT",
+      "status": "LIVE",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Black Eagles vs CAT",
+      "startTime": "08:30:00 AM 30-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/cXMc7HARTv2_ZSlVSvSkJQ/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128737_english_hls_31073ta-di_h264/index.m3u8"
+    },
     {
       "id": 127558,
       "event_category": "Cricket",
@@ -14,18 +28,6 @@
       "event_name": "South Africa tour of Zimbabwe, 2025",
       "match_name": "South Africa vs Zimbabwe",
       "startTime": "01:30:00 PM 28-06-2025"
-    },
-    {
-      "id": 128737,
-      "event_category": "Cricket",
-      "title": "CAT vs Black Eagles (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128734_5312_BES_CAT_fc-web.jpg",
-      "team_1": "CAT",
-      "team_2": "Black Eagles",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "CAT vs Black Eagles",
-      "startTime": "08:30:00 AM 30-06-2025"
     },
     {
       "id": 129506,
@@ -196,16 +198,16 @@
       "startTime": "01:15:00 PM 01-07-2025"
     },
     {
-      "id": 128393,
-      "event_category": "Baseball",
-      "title": "Arizona Diamondbacks vs San Francisco Giants (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128393_CASACARDS_APP.png",
-      "team_1": "Arizona Diamondbacks",
-      "team_2": "San Francisco Giants",
+      "id": 129339,
+      "event_category": "Cricket",
+      "title": "Hindukush Strikers vs Pamir Legends (Afghanistan National T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129339_5349_HS_PAL_fc-web.jpg",
+      "team_1": "Hindukush Strikers",
+      "team_2": "Pamir Legends",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Arizona Diamondbacks vs San Francisco Giants",
-      "startTime": "07:10:00 AM 01-07-2025"
+      "event_name": "Afghanistan National T20, 2025",
+      "match_name": "Hindukush Strikers vs Pamir Legends",
+      "startTime": "03:00:00 PM 01-07-2025"
     },
     {
       "id": 129737,
@@ -220,16 +222,16 @@
       "startTime": "10:00:00 AM 01-07-2025"
     },
     {
-      "id": 129339,
-      "event_category": "Cricket",
-      "title": "Hindukush Strikers vs Pamir Legends (Afghanistan National T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129339_5349_HS_PAL_fc-web.jpg",
-      "team_1": "Hindukush Strikers",
-      "team_2": "Pamir Legends",
+      "id": 128393,
+      "event_category": "Baseball",
+      "title": "Arizona Diamondbacks vs San Francisco Giants (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128393_CASACARDS_APP.png",
+      "team_1": "Arizona Diamondbacks",
+      "team_2": "San Francisco Giants",
       "status": "UPCOMING",
-      "event_name": "Afghanistan National T20, 2025",
-      "match_name": "Hindukush Strikers vs Pamir Legends",
-      "startTime": "03:00:00 PM 01-07-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Arizona Diamondbacks vs San Francisco Giants",
+      "startTime": "07:10:00 AM 01-07-2025"
     },
     {
       "id": 125126,
