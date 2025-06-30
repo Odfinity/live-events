@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:50 PM 30-06-2025",
+  "last update time": "11:13 PM 30-06-2025",
   "matches": [
     {
       "id": 129257,
@@ -18,6 +18,20 @@
       "adfree_url": "https://dai.fancode.com/primary/129257_english_hls_83242ta-di_h264/index.m3u8"
     },
     {
+      "id": 128666,
+      "event_category": "Cricket",
+      "title": "YSSC vs Lexus (KCC T20 Challengers B League Edition 3, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128666_CASACARDS_APP.png",
+      "team_1": "YSSC",
+      "team_2": "Lexus",
+      "status": "LIVE",
+      "event_name": "KCC T20 Challengers B League Edition 3, 2025",
+      "match_name": "YSSC vs Lexus",
+      "startTime": "11:00:00 PM 30-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/yDxo0VLfR7ucidJ3ECizHw/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128666_english_hls_78583ta-di_h264/index.m3u8"
+    },
+    {
       "id": 127558,
       "event_category": "Cricket",
       "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
@@ -30,16 +44,16 @@
       "startTime": "01:30:00 PM 28-06-2025"
     },
     {
-      "id": 128666,
+      "id": 129258,
       "event_category": "Cricket",
-      "title": "YSSC vs Lexus (KCC T20 Challengers B League Edition 3, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128666_CASACARDS_APP.png",
-      "team_1": "YSSC",
-      "team_2": "Lexus",
+      "title": "Bamboo Blasters vs Whiptail Smashers (St. Lucia T10 Blast, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129258_5345_BMB_WTS_fc-Web.jpg",
+      "team_1": "Bamboo Blasters",
+      "team_2": "Whiptail Smashers",
       "status": "UPCOMING",
-      "event_name": "KCC T20 Challengers B League Edition 3, 2025",
-      "match_name": "YSSC vs Lexus",
-      "startTime": "11:00:00 PM 30-06-2025"
+      "event_name": "St. Lucia T10 Blast, 2025",
+      "match_name": "Bamboo Blasters vs Whiptail Smashers",
+      "startTime": "12:00:00 AM 01-07-2025"
     },
     {
       "id": 126556,
@@ -52,18 +66,6 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans",
       "startTime": "07:15:00 PM 01-07-2025"
-    },
-    {
-      "id": 129258,
-      "event_category": "Cricket",
-      "title": "Bamboo Blasters vs Whiptail Smashers (St. Lucia T10 Blast, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129258_5345_BMB_WTS_fc-Web.jpg",
-      "team_1": "Bamboo Blasters",
-      "team_2": "Whiptail Smashers",
-      "status": "UPCOMING",
-      "event_name": "St. Lucia T10 Blast, 2025",
-      "match_name": "Bamboo Blasters vs Whiptail Smashers",
-      "startTime": "12:00:00 AM 01-07-2025"
     },
     {
       "id": 128739,
@@ -436,6 +438,18 @@
       "event_name": "ECS Bulgaria, 2025",
       "match_name": "CC Yullis / MU Trakia vs MUS Akademik Ravens",
       "startTime": "05:15:00 PM 02-07-2025"
+    },
+    {
+      "id": 126557,
+      "event_category": "Cricket",
+      "title": "Dindigul Dragons vs Trichy Grand Cholas (Shriram Capital TNPL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Trichy_Old_match_card.jpg",
+      "team_1": "Dindigul Dragons",
+      "team_2": "Trichy Grand Cholas",
+      "status": "UPCOMING",
+      "event_name": "Shriram Capital TNPL",
+      "match_name": "Dindigul Dragons vs Trichy Grand Cholas",
+      "startTime": "07:15:00 PM 02-07-2025"
     }
   ]
 }
