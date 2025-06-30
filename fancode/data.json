@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:11 PM 30-06-2025",
+  "last update time": "12:30 PM 30-06-2025",
   "matches": [
     {
       "id": 129506,
@@ -18,6 +18,20 @@
       "adfree_url": "https://dai.fancode.com/primary/129506_english_hls_2394ta-di_h264/index.m3u8"
     },
     {
+      "id": 128738,
+      "event_category": "Cricket",
+      "title": "Alpine S.C vs Irises C.C (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-web.jpg",
+      "team_1": "Alpine S.C",
+      "team_2": "Irises C.C",
+      "status": "LIVE",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Alpine S.C vs Irises C.C",
+      "startTime": "12:30:00 PM 30-06-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/xxzQFiCkQBqVgKSq45stlg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128738_english_hls_612ta-di_h264/index.m3u8"
+    },
+    {
       "id": 127558,
       "event_category": "Cricket",
       "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
@@ -30,27 +44,15 @@
       "startTime": "01:30:00 PM 28-06-2025"
     },
     {
-      "id": 128738,
-      "event_category": "Cricket",
-      "title": "Alpine S.C vs Irises C.C (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-web.jpg",
-      "team_1": "Alpine S.C",
-      "team_2": "Irises C.C",
-      "status": "UPCOMING",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Alpine S.C vs Irises C.C",
-      "startTime": "12:30:00 PM 30-06-2025"
-    },
-    {
       "id": 129507,
       "event_category": "Cricket",
-      "title": "BCC Spartan vs MUS Akademik Ravens (ECS Bulgaria, 2025)",
+      "title": "MUS Akademik Ravens vs BCC Spartan (ECS Bulgaria, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "BCC Spartan",
-      "team_2": "MUS Akademik Ravens",
+      "team_1": "MUS Akademik Ravens",
+      "team_2": "BCC Spartan",
       "status": "UPCOMING",
       "event_name": "ECS Bulgaria, 2025",
-      "match_name": "BCC Spartan vs MUS Akademik Ravens",
+      "match_name": "MUS Akademik Ravens vs BCC Spartan",
       "startTime": "01:15:00 PM 30-06-2025"
     },
     {
