@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:30 PM 30-06-2025",
+  "last update time": "01:01 PM 30-06-2025",
   "matches": [
-    {
-      "id": 129506,
-      "event_category": "Cricket",
-      "title": "CC Yullis / MU Trakia vs BCC / MUS Plovdiv (ECS Bulgaria, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "CC Yullis / MU Trakia",
-      "team_2": "BCC / MUS Plovdiv",
-      "status": "LIVE",
-      "event_name": "ECS Bulgaria, 2025",
-      "match_name": "CC Yullis / MU Trakia vs BCC / MUS Plovdiv",
-      "startTime": "11:15:00 AM 30-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Spn7DWlvTmKqJv8rkIoqPA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129506_english_hls_2394ta-di_h264/index.m3u8"
-    },
     {
       "id": 128738,
       "event_category": "Cricket",
@@ -188,6 +174,30 @@
       "startTime": "01:15:00 PM 01-07-2025"
     },
     {
+      "id": 129737,
+      "event_category": "Kabaddi",
+      "title": "Palghar vs Mumbai Shahars (Maharashtra Inter-District Youth Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+      "team_1": "Palghar",
+      "team_2": "Mumbai Shahars",
+      "status": "UPCOMING",
+      "event_name": "Maharashtra Inter-District Youth Championship 2025",
+      "match_name": "Palghar vs Mumbai Shahars",
+      "startTime": "10:00:00 AM 01-07-2025"
+    },
+    {
+      "id": 129738,
+      "event_category": "Kabaddi",
+      "title": "Mumbai Upnagars vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+      "team_1": "Mumbai Upnagars",
+      "team_2": "Ratnagiri",
+      "status": "UPCOMING",
+      "event_name": "Maharashtra Inter-District Youth Championship 2025",
+      "match_name": "Mumbai Upnagars vs Ratnagiri",
+      "startTime": "11:30:00 AM 01-07-2025"
+    },
+    {
       "id": 129339,
       "event_category": "Cricket",
       "title": "Hindukush Strikers vs Pamir Legends (Afghanistan National T20, 2025)",
@@ -224,18 +234,6 @@
       "startTime": "03:15:00 PM 01-07-2025"
     },
     {
-      "id": 129737,
-      "event_category": "Kabaddi",
-      "title": "Palghar vs Mumbai Shahars (Maharashtra Inter-District Youth Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-      "team_1": "Palghar",
-      "team_2": "Mumbai Shahars",
-      "status": "UPCOMING",
-      "event_name": "Maharashtra Inter-District Youth Championship 2025",
-      "match_name": "Palghar vs Mumbai Shahars",
-      "startTime": "10:00:00 AM 01-07-2025"
-    },
-    {
       "id": 126556,
       "event_category": "Cricket",
       "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans (Shriram Capital TNPL)",
@@ -248,30 +246,6 @@
       "startTime": "07:15:00 PM 01-07-2025"
     },
     {
-      "id": 128393,
-      "event_category": "Baseball",
-      "title": "Arizona Diamondbacks vs San Francisco Giants (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128393_CASACARDS_APP.png",
-      "team_1": "Arizona Diamondbacks",
-      "team_2": "San Francisco Giants",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Arizona Diamondbacks vs San Francisco Giants",
-      "startTime": "07:10:00 AM 01-07-2025"
-    },
-    {
-      "id": 129738,
-      "event_category": "Kabaddi",
-      "title": "Mumbai Upnagars vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-      "team_1": "Mumbai Upnagars",
-      "team_2": "Ratnagiri",
-      "status": "UPCOMING",
-      "event_name": "Maharashtra Inter-District Youth Championship 2025",
-      "match_name": "Mumbai Upnagars vs Ratnagiri",
-      "startTime": "11:30:00 AM 01-07-2025"
-    },
-    {
       "id": 129514,
       "event_category": "Cricket",
       "title": "BSCU All Stars vs BCC / MUS Plovdiv (ECS Bulgaria, 2025)",
@@ -282,6 +256,18 @@
       "event_name": "ECS Bulgaria, 2025",
       "match_name": "BSCU All Stars vs BCC / MUS Plovdiv",
       "startTime": "05:15:00 PM 01-07-2025"
+    },
+    {
+      "id": 128393,
+      "event_category": "Baseball",
+      "title": "Arizona Diamondbacks vs San Francisco Giants (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128393_CASACARDS_APP.png",
+      "team_1": "Arizona Diamondbacks",
+      "team_2": "San Francisco Giants",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Arizona Diamondbacks vs San Francisco Giants",
+      "startTime": "07:10:00 AM 01-07-2025"
     },
     {
       "id": 129515,
@@ -308,6 +294,18 @@
       "startTime": "08:15:00 PM 01-07-2025"
     },
     {
+      "id": 129739,
+      "event_category": "Kabaddi",
+      "title": "Raigad vs Nashik (Maharashtra Inter-District Youth Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+      "team_1": "Raigad",
+      "team_2": "Nashik",
+      "status": "UPCOMING",
+      "event_name": "Maharashtra Inter-District Youth Championship 2025",
+      "match_name": "Raigad vs Nashik",
+      "startTime": "06:30:00 PM 01-07-2025"
+    },
+    {
       "id": 128741,
       "event_category": "Cricket",
       "title": "England Women vs India Women (India Women tour of England, 2025)",
@@ -332,16 +330,16 @@
       "startTime": "09:30:00 PM 01-07-2025"
     },
     {
-      "id": 129739,
+      "id": 129740,
       "event_category": "Kabaddi",
-      "title": "Raigad vs Nashik (Maharashtra Inter-District Youth Championship 2025)",
+      "title": "Nandurbar vs Beed (Maharashtra Inter-District Youth Championship 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-      "team_1": "Raigad",
-      "team_2": "Nashik",
+      "team_1": "Nandurbar",
+      "team_2": "Beed",
       "status": "UPCOMING",
       "event_name": "Maharashtra Inter-District Youth Championship 2025",
-      "match_name": "Raigad vs Nashik",
-      "startTime": "06:30:00 PM 01-07-2025"
+      "match_name": "Nandurbar vs Beed",
+      "startTime": "08:00:00 PM 01-07-2025"
     },
     {
       "id": 128667,
@@ -354,18 +352,6 @@
       "event_name": "KCC T20 Challengers B League Edition 3, 2025",
       "match_name": "Gulf Cable vs Phoenix Cricketers",
       "startTime": "11:00:00 PM 01-07-2025"
-    },
-    {
-      "id": 129740,
-      "event_category": "Kabaddi",
-      "title": "Nandurbar vs Beed (Maharashtra Inter-District Youth Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-      "team_1": "Nandurbar",
-      "team_2": "Beed",
-      "status": "UPCOMING",
-      "event_name": "Maharashtra Inter-District Youth Championship 2025",
-      "match_name": "Nandurbar vs Beed",
-      "startTime": "08:00:00 PM 01-07-2025"
     },
     {
       "id": 129260,
@@ -402,6 +388,18 @@
       "event_name": "Afghanistan National T20, 2025",
       "match_name": "Maiwand Champions vs Pamir Legends",
       "startTime": "10:00:00 AM 02-07-2025"
+    },
+    {
+      "id": 129516,
+      "event_category": "Cricket",
+      "title": "BCC Spartan vs CC Yullis / MU Trakia (ECS Bulgaria, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+      "team_1": "BCC Spartan",
+      "team_2": "CC Yullis / MU Trakia",
+      "status": "UPCOMING",
+      "event_name": "ECS Bulgaria, 2025",
+      "match_name": "BCC Spartan vs CC Yullis / MU Trakia",
+      "startTime": "11:15:00 AM 02-07-2025"
     }
   ]
 }
