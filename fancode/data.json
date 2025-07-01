@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 01-07-2025",
+  "last update time": "06:26 PM 01-07-2025",
   "matches": [
-    {
-      "id": 127558,
-      "event_category": "Cricket",
-      "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-old-match-card-Revised--(1)_1751268448871.png",
-      "team_1": "South Africa",
-      "team_2": "Zimbabwe",
-      "status": "LIVE",
-      "event_name": "South Africa tour of Zimbabwe, 2025",
-      "match_name": "South Africa vs Zimbabwe",
-      "startTime": "01:30:00 PM 28-06-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/cErzE6b0QuuKiSBtg0KHsQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/127558_english_hls_66768ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 129339,
-      "event_category": "Cricket",
-      "title": "Hindukush Strikers vs Pamir Legends (Afghanistan National T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129339_5349_HS_PAL_fc-web.jpg",
-      "team_1": "Hindukush Strikers",
-      "team_2": "Pamir Legends",
-      "status": "LIVE",
-      "event_name": "Afghanistan National T20, 2025",
-      "match_name": "Hindukush Strikers vs Pamir Legends",
-      "startTime": "03:00:00 PM 01-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zs8LCF77Sx-fokzekJUmXA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129339_english_hls_62873ta-di_h264/index.m3u8"
-    },
     {
       "id": 125126,
       "event_category": "Cricket",
@@ -60,6 +32,20 @@
       "adfree_url": "https://dai.fancode.com/primary/129514_english_hls_30671ta-di_h264/index.m3u8"
     },
     {
+      "id": 129339,
+      "event_category": "Cricket",
+      "title": "Hindukush Strikers vs Pamir Legends (Afghanistan National T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129339_5349_HS_PAL_fc-web.jpg",
+      "team_1": "Hindukush Strikers",
+      "team_2": "Pamir Legends",
+      "status": "LIVE",
+      "event_name": "Afghanistan National T20, 2025",
+      "match_name": "Hindukush Strikers vs Pamir Legends",
+      "startTime": "03:00:00 PM 01-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/zs8LCF77Sx-fokzekJUmXA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129339_english_hls_62873ta-di_h264/index.m3u8"
+    },
+    {
       "id": 126556,
       "event_category": "Cricket",
       "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans (Shriram Capital TNPL)",
@@ -84,6 +70,18 @@
       "startTime": "11:00:00 PM 01-07-2025"
     },
     {
+      "id": 129515,
+      "event_category": "Cricket",
+      "title": "BCC / MUS Plovdiv vs Sofia Stars (ECS Bulgaria, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+      "team_1": "BCC / MUS Plovdiv",
+      "team_2": "Sofia Stars",
+      "status": "UPCOMING",
+      "event_name": "ECS Bulgaria, 2025",
+      "match_name": "BCC / MUS Plovdiv vs Sofia Stars",
+      "startTime": "07:15:00 PM 01-07-2025"
+    },
+    {
       "id": 128428,
       "event_category": "Cricket",
       "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
@@ -96,16 +94,16 @@
       "startTime": "02:30:00 PM 02-07-2025"
     },
     {
-      "id": 129515,
-      "event_category": "Cricket",
-      "title": "BCC / MUS Plovdiv vs Sofia Stars (ECS Bulgaria, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "BCC / MUS Plovdiv",
-      "team_2": "Sofia Stars",
+      "id": 129739,
+      "event_category": "Kabaddi",
+      "title": "Raigad vs Nashik (Maharashtra Inter-District Youth Championship 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/129739_CASACARDS_APP.png",
+      "team_1": "Raigad",
+      "team_2": "Nashik",
       "status": "UPCOMING",
-      "event_name": "ECS Bulgaria, 2025",
-      "match_name": "BCC / MUS Plovdiv vs Sofia Stars",
-      "startTime": "07:15:00 PM 01-07-2025"
+      "event_name": "Maharashtra Inter-District Youth Championship 2025",
+      "match_name": "Raigad vs Nashik",
+      "startTime": "06:30:00 PM 01-07-2025"
     },
     {
       "id": 125127,
@@ -180,16 +178,16 @@
       "startTime": "11:15:00 AM 02-07-2025"
     },
     {
-      "id": 129739,
-      "event_category": "Kabaddi",
-      "title": "Raigad vs Nashik (Maharashtra Inter-District Youth Championship 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129739_CASACARDS_APP.png",
-      "team_1": "Raigad",
-      "team_2": "Nashik",
+      "id": 129517,
+      "event_category": "Cricket",
+      "title": "MUS Akademik Ravens vs Sofia Stars (ECS Bulgaria, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+      "team_1": "MUS Akademik Ravens",
+      "team_2": "Sofia Stars",
       "status": "UPCOMING",
-      "event_name": "Maharashtra Inter-District Youth Championship 2025",
-      "match_name": "Raigad vs Nashik",
-      "startTime": "06:30:00 PM 01-07-2025"
+      "event_name": "ECS Bulgaria, 2025",
+      "match_name": "MUS Akademik Ravens vs Sofia Stars",
+      "startTime": "01:15:00 PM 02-07-2025"
     },
     {
       "id": 129740,
@@ -202,18 +200,6 @@
       "event_name": "Maharashtra Inter-District Youth Championship 2025",
       "match_name": "Nandurbar vs Beed",
       "startTime": "08:00:00 PM 01-07-2025"
-    },
-    {
-      "id": 129517,
-      "event_category": "Cricket",
-      "title": "MUS Akademik Ravens vs Sofia Stars (ECS Bulgaria, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "MUS Akademik Ravens",
-      "team_2": "Sofia Stars",
-      "status": "UPCOMING",
-      "event_name": "ECS Bulgaria, 2025",
-      "match_name": "MUS Akademik Ravens vs Sofia Stars",
-      "startTime": "01:15:00 PM 02-07-2025"
     },
     {
       "id": 126557,
@@ -324,18 +310,6 @@
       "startTime": "08:15:00 PM 02-07-2025"
     },
     {
-      "id": 128398,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128398_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "New York Yankees",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs New York Yankees",
-      "startTime": "12:37:00 AM 02-07-2025"
-    },
-    {
       "id": 129743,
       "event_category": "Kabaddi",
       "title": "Palghar vs Mumbai Upnagars (Maharashtra Inter-District Youth Championship 2025)",
@@ -348,16 +322,16 @@
       "startTime": "06:30:00 PM 02-07-2025"
     },
     {
-      "id": 128394,
+      "id": 128398,
       "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Chicago White Sox (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128394_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Chicago White Sox",
+      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128398_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "New York Yankees",
       "status": "UPCOMING",
       "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Chicago White Sox",
-      "startTime": "07:40:00 AM 02-07-2025"
+      "match_name": "Toronto Blue Jays vs New York Yankees",
+      "startTime": "12:37:00 AM 02-07-2025"
     },
     {
       "id": 129261,
@@ -382,6 +356,18 @@
       "event_name": "UEFA Women's EURO 2025",
       "match_name": "Iceland Women vs Finland Women",
       "startTime": "09:30:00 PM 02-07-2025"
+    },
+    {
+      "id": 128394,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Chicago White Sox (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128394_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Chicago White Sox",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Chicago White Sox",
+      "startTime": "07:40:00 AM 02-07-2025"
     },
     {
       "id": 129744,
@@ -454,6 +440,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Tampa Bay Rays vs Oakland Athletics",
       "startTime": "09:40:00 PM 02-07-2025"
+    },
+    {
+      "id": 129521,
+      "event_category": "Cricket",
+      "title": "BSCU All Stars vs Sofia Stars (ECS Bulgaria, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+      "team_1": "BSCU All Stars",
+      "team_2": "Sofia Stars",
+      "status": "UPCOMING",
+      "event_name": "ECS Bulgaria, 2025",
+      "match_name": "BSCU All Stars vs Sofia Stars",
+      "startTime": "11:15:00 AM 03-07-2025"
     }
   ]
 }
