@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:21 AM 01-07-2025",
+  "last update time": "12:05 PM 01-07-2025",
   "matches": [
-    {
-      "id": 128739,
-      "event_category": "Cricket",
-      "title": "Irises C.C vs CAT (Sikkim T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128729_5312_ICC_CAT_fc-web.jpg",
-      "team_1": "Irises C.C",
-      "team_2": "CAT",
-      "status": "LIVE",
-      "event_name": "Sikkim T20 League, 2025",
-      "match_name": "Irises C.C vs CAT",
-      "startTime": "09:00:00 AM 01-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/cZBnQZTYQqilkFi2Cgf45w/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/128739_english_hls_44603ta-di_h264/index.m3u8"
-    },
     {
       "id": 129338,
       "event_category": "Cricket",
@@ -46,18 +32,32 @@
       "adfree_url": "https://dai.fancode.com/primary/129511_english_hls_11127ta-di_h264/index.m3u8"
     },
     {
-      "id": 129737,
+      "id": 129738,
       "event_category": "Kabaddi",
-      "title": "Palghar vs Mumbai Shahars (Maharashtra Inter-District Youth Championship 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129737_CASACARDS_APP.png",
-      "team_1": "Palghar",
-      "team_2": "Mumbai Shahars",
+      "title": "Mumbai Upnagars vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/129738_CASACARDS_APP.png",
+      "team_1": "Mumbai Upnagars",
+      "team_2": "Ratnagiri",
       "status": "LIVE",
       "event_name": "Maharashtra Inter-District Youth Championship 2025",
-      "match_name": "Palghar vs Mumbai Shahars",
-      "startTime": "10:00:00 AM 01-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/1ED1m0BASEOQERZErLfuuQ/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129737_english_hls_67528ta-di_h264/index.m3u8"
+      "match_name": "Mumbai Upnagars vs Ratnagiri",
+      "startTime": "11:30:00 AM 01-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4RmbRbGfTay7otVvnxPySg/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/129738_english_hls_40670ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128739,
+      "event_category": "Cricket",
+      "title": "Irises C.C vs CAT (Sikkim T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128729_5312_ICC_CAT_fc-web.jpg",
+      "team_1": "Irises C.C",
+      "team_2": "CAT",
+      "status": "LIVE",
+      "event_name": "Sikkim T20 League, 2025",
+      "match_name": "Irises C.C vs CAT",
+      "startTime": "09:00:00 AM 01-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/cZBnQZTYQqilkFi2Cgf45w/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/128739_english_hls_44603ta-di_h264/index.m3u8"
     },
     {
       "id": 127558,
@@ -94,18 +94,6 @@
       "event_name": "India Women tour of England, 2025",
       "match_name": "England Women vs India Women",
       "startTime": "11:00:00 PM 01-07-2025"
-    },
-    {
-      "id": 129738,
-      "event_category": "Kabaddi",
-      "title": "Mumbai Upnagars vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129738_CASACARDS_APP.png",
-      "team_1": "Mumbai Upnagars",
-      "team_2": "Ratnagiri",
-      "status": "UPCOMING",
-      "event_name": "Maharashtra Inter-District Youth Championship 2025",
-      "match_name": "Mumbai Upnagars vs Ratnagiri",
-      "startTime": "11:30:00 AM 01-07-2025"
     },
     {
       "id": 129512,
@@ -324,18 +312,6 @@
       "startTime": "11:30:00 AM 02-07-2025"
     },
     {
-      "id": 128398,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128398_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "New York Yankees",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs New York Yankees",
-      "startTime": "12:37:00 AM 02-07-2025"
-    },
-    {
       "id": 129341,
       "event_category": "Cricket",
       "title": "Hindukush Strikers vs Mahipar Stars (Afghanistan National T20, 2025)",
@@ -372,16 +348,16 @@
       "startTime": "03:15:00 PM 02-07-2025"
     },
     {
-      "id": 128394,
+      "id": 128398,
       "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Chicago White Sox (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/128394_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Chicago White Sox",
+      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128398_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "New York Yankees",
       "status": "UPCOMING",
       "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Chicago White Sox",
-      "startTime": "07:40:00 AM 02-07-2025"
+      "match_name": "Toronto Blue Jays vs New York Yankees",
+      "startTime": "12:37:00 AM 02-07-2025"
     },
     {
       "id": 126557,
@@ -394,6 +370,18 @@
       "event_name": "Shriram Capital TNPL",
       "match_name": "Dindigul Dragons vs Trichy Grand Cholas",
       "startTime": "07:15:00 PM 02-07-2025"
+    },
+    {
+      "id": 128394,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Chicago White Sox (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/128394_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Chicago White Sox",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Chicago White Sox",
+      "startTime": "07:40:00 AM 02-07-2025"
     },
     {
       "id": 129519,
@@ -454,6 +442,30 @@
       "event_name": "Le Vaudreuil Golf Challenge",
       "match_name": "Le Vaudreuil Golf Challenge",
       "startTime": "03:25:00 PM 02-07-2025"
+    },
+    {
+      "id": 129261,
+      "event_category": "Cricket",
+      "title": "Piton Strikers vs Calabash Giants (St. Lucia T10 Blast, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129261_5345_PTS_CBG_fc-Web.jpg",
+      "team_1": "Piton Strikers",
+      "team_2": "Calabash Giants",
+      "status": "UPCOMING",
+      "event_name": "St. Lucia T10 Blast, 2025",
+      "match_name": "Piton Strikers vs Calabash Giants",
+      "startTime": "09:30:00 PM 02-07-2025"
+    },
+    {
+      "id": 129744,
+      "event_category": "Kabaddi",
+      "title": "Mumbai Shahars vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/129744_CASACARDS_APP.png",
+      "team_1": "Mumbai Shahars",
+      "team_2": "Ratnagiri",
+      "status": "UPCOMING",
+      "event_name": "Maharashtra Inter-District Youth Championship 2025",
+      "match_name": "Mumbai Shahars vs Ratnagiri",
+      "startTime": "08:00:00 PM 02-07-2025"
     }
   ]
 }
