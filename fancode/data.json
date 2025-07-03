@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:59 AM 04-07-2025",
+  "last update time": "02:17 AM 04-07-2025",
   "matches": [
-    {
-      "id": 123346,
-      "event_category": "Football",
-      "title": "Spain Women vs Portugal Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123346_5107_SPA-W_POR-W_fc-web.jpg",
-      "team_1": "Spain Women",
-      "team_2": "Portugal Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "Spain Women vs Portugal Women",
-      "startTime": "12:30:00 AM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/X4izMy-MQi2jb6lqUf2BDA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/123346_english_hls_56756ta-di_h264/index.m3u8"
-    },
     {
       "id": 127551,
       "event_category": "Cricket",
@@ -32,18 +18,18 @@
       "adfree_url": "https://dai.fancode.com/primary/127551_english_hls_83292ta-di_h264/index.m3u8"
     },
     {
-      "id": 129264,
-      "event_category": "Cricket",
-      "title": "Piton Strikers vs Amazonian Warriors (St. Lucia T10 Blast, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129264_5345_PTS_AMW_fc-Web.jpg",
-      "team_1": "Piton Strikers",
-      "team_2": "Amazonian Warriors",
+      "id": 123346,
+      "event_category": "Football",
+      "title": "Spain Women vs Portugal Women (UEFA Women's EURO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123346_5107_SPA-W_POR-W_fc-web.jpg",
+      "team_1": "Spain Women",
+      "team_2": "Portugal Women",
       "status": "LIVE",
-      "event_name": "St. Lucia T10 Blast, 2025",
-      "match_name": "Piton Strikers vs Amazonian Warriors",
-      "startTime": "12:00:00 AM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YbsoPSpuThuwocRYoaGPqw/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129264_english_hls_7638ta-di_h264/index.m3u8"
+      "event_name": "UEFA Women's EURO 2025",
+      "match_name": "Spain Women vs Portugal Women",
+      "startTime": "12:30:00 AM 04-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/X4izMy-MQi2jb6lqUf2BDA/master.m3u8",
+      "adfree_url": "https://dai.fancode.com/primary/123346_english_hls_56756ta-di_h264/index.m3u8"
     },
     {
       "id": 130225,
@@ -288,13 +274,13 @@
     {
       "id": 128670,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (KCC T20 Challengers B League Edition 3, 2025)",
+      "title": "Lexus vs Phoenix Cricketers (KCC T20 Challengers B League Edition 3, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Lexus",
+      "team_2": "Phoenix Cricketers",
       "status": "UPCOMING",
       "event_name": "KCC T20 Challengers B League Edition 3, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Lexus vs Phoenix Cricketers",
       "startTime": "08:30:00 PM 04-07-2025"
     },
     {
@@ -476,6 +462,18 @@
       "event_name": "F3 GREAT BRITAIN 2025",
       "match_name": "Qualifying",
       "startTime": "06:30:00 PM 04-07-2025"
+    },
+    {
+      "id": 130201,
+      "event_category": "Motorsports",
+      "title": "Free Practice 2 vs Norisring (DTM Norisring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "Free Practice 2",
+      "team_2": "Norisring",
+      "status": "UPCOMING",
+      "event_name": "DTM Norisring",
+      "match_name": "Free Practice 2",
+      "startTime": "07:15:00 PM 04-07-2025"
     }
   ]
 }
