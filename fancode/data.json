@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 04-07-2025",
+  "last update time": "02:05 PM 04-07-2025",
   "matches": [
-    {
-      "id": 129342,
-      "event_category": "Cricket",
-      "title": "Pamir Legends vs Mahipar Stars (Afghanistan National T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129342_5349_PAL_MPS_fc-web.jpg",
-      "team_1": "Pamir Legends",
-      "team_2": "Mahipar Stars",
-      "status": "LIVE",
-      "event_name": "Afghanistan National T20, 2025",
-      "match_name": "Pamir Legends vs Mahipar Stars",
-      "startTime": "10:00:00 AM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/fw1ojdtrTYuXmrWRv9tNJA/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129342_english_hls_34266ta-di_h264/index.m3u8"
-    },
     {
       "id": 130376,
       "event_category": "Cricket",
@@ -69,7 +55,7 @@
       "status": "PAUSED",
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "Australia vs West Indies",
-      "startTime": "07:30:00 PM 03-07-2025"
+      "startTime": "07:15:00 PM 03-07-2025"
     },
     {
       "id": 125859,
@@ -231,7 +217,7 @@
       "id": 123348,
       "event_category": "Football",
       "title": "Germany Women vs Poland Women (UEFA Women's EURO 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/123348_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123348_5107_GER-W_POL-W_fc-web.jpg",
       "team_1": "Germany Women",
       "team_2": "Poland Women",
       "status": "UPCOMING",
@@ -286,6 +272,18 @@
       "event_name": "DTM Norisring",
       "match_name": "Free Practice 1",
       "startTime": "02:15:00 PM 04-07-2025"
+    },
+    {
+      "id": 119053,
+      "event_category": "Motorsports",
+      "title": "Free Practice vs Silverstone (F2 GREAT BRITAIN 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Free Practice",
+      "team_2": "Silverstone",
+      "status": "UPCOMING",
+      "event_name": "F2 GREAT BRITAIN 2025",
+      "match_name": "Free Practice",
+      "startTime": "02:30:00 PM 04-07-2025"
     },
     {
       "id": 129531,
@@ -372,18 +370,6 @@
       "startTime": "03:15:00 PM 05-07-2025"
     },
     {
-      "id": 119053,
-      "event_category": "Motorsports",
-      "title": "Free Practice vs Silverstone (F2 GREAT BRITAIN 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Free Practice",
-      "team_2": "Silverstone",
-      "status": "UPCOMING",
-      "event_name": "F2 GREAT BRITAIN 2025",
-      "match_name": "Free Practice",
-      "startTime": "02:30:00 PM 04-07-2025"
-    },
-    {
       "id": 130148,
       "event_category": "Golf",
       "title": "Day 2 vs Munich, Germany (BMW International Open)",
@@ -466,6 +452,18 @@
       "event_name": "F3 GREAT BRITAIN 2025",
       "match_name": "Qualifying",
       "startTime": "06:30:00 PM 04-07-2025"
+    },
+    {
+      "id": 130201,
+      "event_category": "Motorsports",
+      "title": "Free Practice 2 vs Norisring (DTM Norisring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "Free Practice 2",
+      "team_2": "Norisring",
+      "status": "UPCOMING",
+      "event_name": "DTM Norisring",
+      "match_name": "Free Practice 2",
+      "startTime": "07:20:00 PM 04-07-2025"
     }
   ]
 }
