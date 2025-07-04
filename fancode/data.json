@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:03 PM 04-07-2025",
+  "last update time": "07:21 PM 04-07-2025",
   "matches": [
+    {
+      "id": 127551,
+      "event_category": "Cricket",
+      "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+      "team_1": "Australia",
+      "team_2": "West Indies",
+      "status": "LIVE",
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "Australia vs West Indies",
+      "startTime": "07:15:00 PM 03-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Qf6RShkKQ9-bOMGWFpysyg/master.m3u8",
+      "adfree_url": null
+    },
     {
       "id": 125859,
       "event_category": "Cricket",
@@ -18,17 +32,31 @@
       "adfree_url": null
     },
     {
-      "id": 129529,
+      "id": 126558,
       "event_category": "Cricket",
-      "title": "BCC Spartan vs BSCU All Stars (ECS Bulgaria, 2025)",
+      "title": "Chepauk Super Gillies vs Dindigul Dragons (Shriram Capital TNPL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Chepauk_Old_match_card.jpg",
+      "team_1": "Chepauk Super Gillies",
+      "team_2": "Dindigul Dragons",
+      "status": "LIVE",
+      "event_name": "Shriram Capital TNPL",
+      "match_name": "Chepauk Super Gillies vs Dindigul Dragons",
+      "startTime": "07:15:00 PM 04-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/hEL4Sp_mS9CDlainwdPXww/master.m3u8",
+      "adfree_url": null
+    },
+    {
+      "id": 129530,
+      "event_category": "Cricket",
+      "title": "BSCU All Stars vs CC Yullis / MU Trakia (ECS Bulgaria, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "BCC Spartan",
-      "team_2": "BSCU All Stars",
+      "team_1": "BSCU All Stars",
+      "team_2": "CC Yullis / MU Trakia",
       "status": "LIVE",
       "event_name": "ECS Bulgaria, 2025",
-      "match_name": "BCC Spartan vs BSCU All Stars",
-      "startTime": "05:15:00 PM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/BteCYhWlSCCCQvAeRzdp4A/master.m3u8",
+      "match_name": "BSCU All Stars vs CC Yullis / MU Trakia",
+      "startTime": "07:15:00 PM 04-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ECRCVxJRSd2qGbeZ2pxXyw/master.m3u8",
       "adfree_url": null
     },
     {
@@ -102,56 +130,18 @@
       "adfree_url": null
     },
     {
-      "id": 119097,
+      "id": 130201,
       "event_category": "Motorsports",
-      "title": "Qualifying vs Silverstone (F3 GREAT BRITAIN 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-      "team_1": "Qualifying",
-      "team_2": "Silverstone",
+      "title": "Free Practice 2 vs Norisring (DTM Norisring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Free Practice 2",
+      "team_2": "Norisring",
       "status": "LIVE",
-      "event_name": "F3 GREAT BRITAIN 2025",
-      "match_name": "Qualifying",
-      "startTime": "06:30:00 PM 04-07-2025",
-      "dai_url": "https://in-mc-flive.fancode.com/mumbai/119097_english_hls_79195adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-flive.fancode.com/mumbai/119097_english_hls_79195adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 129343,
-      "event_category": "Cricket",
-      "title": "Maiwand Champions vs Hindukush Strikers (Afghanistan National T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129343_5349_HS_MDS_fc-web.jpg",
-      "team_1": "Maiwand Champions",
-      "team_2": "Hindukush Strikers",
-      "status": "LIVE",
-      "event_name": "Afghanistan National T20, 2025",
-      "match_name": "Maiwand Champions vs Hindukush Strikers",
-      "startTime": "03:30:00 PM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0ljBfs1sS-2qTZn3lCpcZg/master.m3u8",
-      "adfree_url": "https://dai.fancode.com/primary/129343_english_hls_91320ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 126558,
-      "event_category": "Cricket",
-      "title": "Chepauk Super Gillies vs Dindigul Dragons (Shriram Capital TNPL)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Chepauk_Old_match_card.jpg",
-      "team_1": "Chepauk Super Gillies",
-      "team_2": "Dindigul Dragons",
-      "status": "UPCOMING",
-      "event_name": "Shriram Capital TNPL",
-      "match_name": "Chepauk Super Gillies vs Dindigul Dragons",
-      "startTime": "07:15:00 PM 04-07-2025"
-    },
-    {
-      "id": 127551,
-      "event_category": "Cricket",
-      "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-      "team_1": "Australia",
-      "team_2": "West Indies",
-      "status": "PAUSED",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "Australia vs West Indies",
-      "startTime": "07:15:00 PM 03-07-2025"
+      "event_name": "DTM Norisring",
+      "match_name": "Free Practice 2",
+      "startTime": "07:20:00 PM 04-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/bdZ07lQhTA6DtESsadWehw/master.m3u8",
+      "adfree_url": null
     },
     {
       "id": 125961,
@@ -188,18 +178,6 @@
       "event_name": "India Women tour of England, 2025",
       "match_name": "England Women vs India Women",
       "startTime": "11:05:00 PM 04-07-2025"
-    },
-    {
-      "id": 129530,
-      "event_category": "Cricket",
-      "title": "BSCU All Stars vs CC Yullis / MU Trakia (ECS Bulgaria, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "BSCU All Stars",
-      "team_2": "CC Yullis / MU Trakia",
-      "status": "UPCOMING",
-      "event_name": "ECS Bulgaria, 2025",
-      "match_name": "BSCU All Stars vs CC Yullis / MU Trakia",
-      "startTime": "07:15:00 PM 04-07-2025"
     },
     {
       "id": 128429,
@@ -382,18 +360,6 @@
       "startTime": "03:15:00 PM 05-07-2025"
     },
     {
-      "id": 130201,
-      "event_category": "Motorsports",
-      "title": "Free Practice 2 vs Norisring (DTM Norisring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Free Practice 2",
-      "team_2": "Norisring",
-      "status": "UPCOMING",
-      "event_name": "DTM Norisring",
-      "match_name": "Free Practice 2",
-      "startTime": "07:20:00 PM 04-07-2025"
-    },
-    {
       "id": 119054,
       "event_category": "Motorsports",
       "title": "Qualifying Session vs Silverstone (F2 GREAT BRITAIN 2025)",
@@ -464,6 +430,42 @@
       "event_name": "J League 2025",
       "match_name": "Yokohama vs Yokohama F. Marinos",
       "startTime": "03:30:00 PM 05-07-2025"
+    },
+    {
+      "id": 129535,
+      "event_category": "Cricket",
+      "title": "BCC / MUS Plovdiv vs MUS Akademik Ravens (ECS Bulgaria, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+      "team_1": "BCC / MUS Plovdiv",
+      "team_2": "MUS Akademik Ravens",
+      "status": "UPCOMING",
+      "event_name": "ECS Bulgaria, 2025",
+      "match_name": "BCC / MUS Plovdiv vs MUS Akademik Ravens",
+      "startTime": "07:15:00 PM 05-07-2025"
+    },
+    {
+      "id": 129849,
+      "event_category": "Cricket",
+      "title": "Guernsey vs Italy (ICC Men’s T20 World Cup Europe Regional Final 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129849_5372_ITA_GSY_fc-Web.jpg",
+      "team_1": "Guernsey",
+      "team_2": "Italy",
+      "status": "UPCOMING",
+      "event_name": "ICC Men’s T20 World Cup Europe Regional Final 2025",
+      "match_name": "Guernsey vs Italy",
+      "startTime": "07:30:00 PM 05-07-2025"
+    },
+    {
+      "id": 125965,
+      "event_category": "Cricket",
+      "title": "Sussex vs Hampshire (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125965_5207_SUS_HAM_fc-Web.jpg",
+      "team_1": "Sussex",
+      "team_2": "Hampshire",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Sussex vs Hampshire",
+      "startTime": "11:30:00 PM 05-07-2025"
     }
   ]
 }
