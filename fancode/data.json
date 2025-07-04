@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:59 AM 05-07-2025",
+  "last update time": "02:15 AM 05-07-2025",
   "matches": [
     {
       "id": 128742,
@@ -29,34 +29,6 @@
       "match_name": "Australia vs West Indies",
       "startTime": "07:15:00 PM 03-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Qf6RShkKQ9-bOMGWFpysyg/master.m3u8",
-      "adfree_url": null
-    },
-    {
-      "id": 125961,
-      "event_category": "Cricket",
-      "title": "Glamorgan vs Somerset (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125961_5207_SOM_GLA_fc-Web.jpg",
-      "team_1": "Glamorgan",
-      "team_2": "Somerset",
-      "status": "LIVE",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Glamorgan vs Somerset",
-      "startTime": "11:00:00 PM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/AltonSwCSE-DQ03wBWT6fQ/master.m3u8",
-      "adfree_url": null
-    },
-    {
-      "id": 125957,
-      "event_category": "Cricket",
-      "title": "Durham vs Nottinghamshire (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125957_5207_DUR_NOT_fc-Web.jpg",
-      "team_1": "Durham",
-      "team_2": "Nottinghamshire",
-      "status": "LIVE",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Durham vs Nottinghamshire",
-      "startTime": "11:00:00 PM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/y9qLJQIxRVW32OJ8hKKT4A/master.m3u8",
       "adfree_url": null
     },
     {
@@ -184,6 +156,18 @@
       "startTime": "02:30:00 PM 05-07-2025"
     },
     {
+      "id": 125965,
+      "event_category": "Cricket",
+      "title": "Sussex vs Hampshire (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125965_5207_SUS_HAM_fc-Web.jpg",
+      "team_1": "Sussex",
+      "team_2": "Hampshire",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Sussex vs Hampshire",
+      "startTime": "11:30:00 PM 05-07-2025"
+    },
+    {
       "id": 130377,
       "event_category": "Cricket",
       "title": "Thunderstorm Outlanders vs Malaysia Blues (MCA T20 Tri-Series, 2025)",
@@ -206,18 +190,6 @@
       "event_name": "Afghanistan National T20, 2025",
       "match_name": "Hindukush Strikers vs Pamir Legends",
       "startTime": "10:00:00 AM 05-07-2025"
-    },
-    {
-      "id": 125965,
-      "event_category": "Cricket",
-      "title": "Sussex vs Hampshire (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125965_5207_SUS_HAM_fc-Web.jpg",
-      "team_1": "Sussex",
-      "team_2": "Hampshire",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Sussex vs Hampshire",
-      "startTime": "11:30:00 PM 05-07-2025"
     },
     {
       "id": 129531,
@@ -376,18 +348,6 @@
       "startTime": "09:30:00 PM 05-07-2025"
     },
     {
-      "id": 126265,
-      "event_category": "Football",
-      "title": "Machida Zelvia vs Shimizu S-Pulse (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
-      "team_1": "Machida Zelvia",
-      "team_2": "Shimizu S-Pulse",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Machida Zelvia vs Shimizu S-Pulse",
-      "startTime": "02:30:00 PM 05-07-2025"
-    },
-    {
       "id": 129985,
       "event_category": "Cricket",
       "title": "Stack CC vs Bader & Nie Cricket Club (KCC T20 Summer League, 2025)",
@@ -398,6 +358,18 @@
       "event_name": "KCC T20 Summer League, 2025",
       "match_name": "Stack CC vs Bader & Nie Cricket Club",
       "startTime": "10:30:00 PM 05-07-2025"
+    },
+    {
+      "id": 126265,
+      "event_category": "Football",
+      "title": "Machida Zelvia vs Shimizu S-Pulse (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
+      "team_1": "Machida Zelvia",
+      "team_2": "Shimizu S-Pulse",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Machida Zelvia vs Shimizu S-Pulse",
+      "startTime": "02:30:00 PM 05-07-2025"
     },
     {
       "id": 126267,
@@ -482,6 +454,18 @@
       "event_name": "F3 GREAT BRITAIN 2025",
       "match_name": "Sprint Race",
       "startTime": "01:45:00 PM 05-07-2025"
+    },
+    {
+      "id": 118438,
+      "event_category": "Formula 1",
+      "title": "Practice 3 vs Great Britain (F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/British_GP_F1_GP_Old_match-card.jpg",
+      "team_1": "Practice 3",
+      "team_2": "Great Britain",
+      "status": "UPCOMING",
+      "event_name": "F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025",
+      "match_name": "Practice 3",
+      "startTime": "04:00:00 PM 05-07-2025"
     }
   ]
 }
