@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:50 PM 04-07-2025",
+  "last update time": "11:12 PM 04-07-2025",
   "matches": [
     {
-      "id": 126558,
+      "id": 128742,
       "event_category": "Cricket",
-      "title": "Chepauk Super Gillies vs Dindigul Dragons (Shriram Capital TNPL)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Chepauk_Old_match_card.jpg",
-      "team_1": "Chepauk Super Gillies",
-      "team_2": "Dindigul Dragons",
+      "title": "England Women vs India Women (India Women tour of England, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
+      "team_1": "England Women",
+      "team_2": "India Women",
       "status": "LIVE",
-      "event_name": "Shriram Capital TNPL",
-      "match_name": "Chepauk Super Gillies vs Dindigul Dragons",
-      "startTime": "07:15:00 PM 04-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/hEL4Sp_mS9CDlainwdPXww/master.m3u8",
-      "adfree_url": null
+      "event_name": "India Women tour of England, 2025",
+      "match_name": "England Women vs India Women",
+      "startTime": "11:05:00 PM 04-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022320/INWENW/master.m3u8?hdnea=exp=1751693791~acl=/*~id=74063746227642191529103106815631~hmac=79c4383fbfb1b2a704e6f9f5720bb96f99c28e97536b2fc25a36cb0f984ce3d9"
     },
     {
       "id": 127551,
@@ -158,20 +158,6 @@
       "adfree_url": null
     },
     {
-      "id": 118437,
-      "event_category": "Formula 1",
-      "title": "Practice 2 vs Great Britain (F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/British_GP_F1_GP_Old_match-card.jpg",
-      "team_1": "Practice 2",
-      "team_2": "Great Britain",
-      "status": "LIVE",
-      "event_name": "F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025",
-      "match_name": "Practice 2",
-      "startTime": "08:30:00 PM 04-07-2025",
-      "dai_url": "https://d3ou1c4lf9x6vo.cloudfront.net/out/v1/cb024a726c6942cea0afb2d1fab495f0/index.m3u8",
-      "adfree_url": "https://d3ou1c4lf9x6vo.cloudfront.net/out/v1/cb024a726c6942cea0afb2d1fab495f0/index.m3u8"
-    },
-    {
       "id": 130289,
       "event_category": "Baseball",
       "title": "Washington Nationals vs Boston Red Sox (Major League Baseball, 2025)",
@@ -200,18 +186,6 @@
       "adfree_url": null
     },
     {
-      "id": 128742,
-      "event_category": "Cricket",
-      "title": "England Women vs India Women (India Women tour of England, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
-      "team_1": "England Women",
-      "team_2": "India Women",
-      "status": "UPCOMING",
-      "event_name": "India Women tour of England, 2025",
-      "match_name": "England Women vs India Women",
-      "startTime": "11:05:00 PM 04-07-2025"
-    },
-    {
       "id": 128429,
       "event_category": "Cricket",
       "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
@@ -236,18 +210,6 @@
       "startTime": "12:00:00 AM 05-07-2025"
     },
     {
-      "id": 123348,
-      "event_category": "Football",
-      "title": "Germany Women vs Poland Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123348_5107_GER-W_POL-W_fc-web.jpg",
-      "team_1": "Germany Women",
-      "team_2": "Poland Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "Germany Women vs Poland Women",
-      "startTime": "12:30:00 AM 05-07-2025"
-    },
-    {
       "id": 130377,
       "event_category": "Cricket",
       "title": "Thunderstorm Outlanders vs Malaysia Blues (MCA T20 Tri-Series, 2025)",
@@ -258,6 +220,18 @@
       "event_name": "MCA T20 Tri-Series, 2025",
       "match_name": "Thunderstorm Outlanders vs Malaysia Blues",
       "startTime": "07:00:00 AM 05-07-2025"
+    },
+    {
+      "id": 123348,
+      "event_category": "Football",
+      "title": "Germany Women vs Poland Women (UEFA Women's EURO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123348_5107_GER-W_POL-W_fc-web.jpg",
+      "team_1": "Germany Women",
+      "team_2": "Poland Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's EURO 2025",
+      "match_name": "Germany Women vs Poland Women",
+      "startTime": "12:30:00 AM 05-07-2025"
     },
     {
       "id": 129344,
@@ -486,6 +460,30 @@
       "event_name": "KCC T20 Summer League, 2025",
       "match_name": "Stack CC vs Bader & Nie Cricket Club",
       "startTime": "10:30:00 PM 05-07-2025"
+    },
+    {
+      "id": 129268,
+      "event_category": "Cricket",
+      "title": "Whiptail Smashers vs Calabash Giants (St. Lucia T10 Blast, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129268_5345_WTS_CBG_fc-Web.jpg",
+      "team_1": "Whiptail Smashers",
+      "team_2": "Calabash Giants",
+      "status": "UPCOMING",
+      "event_name": "St. Lucia T10 Blast, 2025",
+      "match_name": "Whiptail Smashers vs Calabash Giants",
+      "startTime": "12:00:00 AM 06-07-2025"
+    },
+    {
+      "id": 123350,
+      "event_category": "Football",
+      "title": "France Women vs England Women (UEFA Women's EURO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123350_5107_FRA-W_ENG-W_fc-web.jpg",
+      "team_1": "France Women",
+      "team_2": "England Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's EURO 2025",
+      "match_name": "France Women vs England Women",
+      "startTime": "12:30:00 AM 06-07-2025"
     }
   ]
 }
