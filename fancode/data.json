@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:12 PM 05-07-2025",
+  "last update time": "09:27 PM 05-07-2025",
   "matches": [
     {
       "id": 118439,
@@ -46,20 +46,6 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1751748971~acl=/*~id=55434600115051964621704553846179~hmac=21fdaa9708608f91de845b9ee0244cc37761773720039019c69b81e014512a95"
     },
     {
-      "id": 129535,
-      "event_category": "Cricket",
-      "title": "MUS Akademik Ravens vs BCC / MUS Plovdiv (ECS Bulgaria, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-      "team_1": "MUS Akademik Ravens",
-      "team_2": "BCC / MUS Plovdiv",
-      "status": "LIVE",
-      "event_name": "ECS Bulgaria, 2025",
-      "match_name": "MUS Akademik Ravens vs BCC / MUS Plovdiv",
-      "startTime": "07:15:00 PM 05-07-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
       "id": 129849,
       "event_category": "Cricket",
       "title": "Guernsey vs Italy (ICC Men’s T20 World Cup Europe Regional Final 2025)",
@@ -71,6 +57,34 @@
       "match_name": "Guernsey vs Italy",
       "startTime": "07:30:00 PM 05-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/exBC--VxQNWiyTUwzGWbdQ/master.m3u8",
+      "adfree_url": null
+    },
+    {
+      "id": 129267,
+      "event_category": "Cricket",
+      "title": "Bamboo Blasters vs Piton Strikers (St. Lucia T10 Blast, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129267_5345_PTS_BMB_fc-Web.jpg",
+      "team_1": "Bamboo Blasters",
+      "team_2": "Piton Strikers",
+      "status": "LIVE",
+      "event_name": "St. Lucia T10 Blast, 2025",
+      "match_name": "Bamboo Blasters vs Piton Strikers",
+      "startTime": "09:30:00 PM 05-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lj3_ReqcSl6RgLnYx9IYIw/master.m3u8",
+      "adfree_url": null
+    },
+    {
+      "id": 123351,
+      "event_category": "Football",
+      "title": "Wales Women vs Netherlands Women (UEFA Women's EURO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-web.jpg",
+      "team_1": "Wales Women",
+      "team_2": "Netherlands Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's EURO 2025",
+      "match_name": "Wales Women vs Netherlands Women",
+      "startTime": "09:30:00 PM 05-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Qc48jgVoRB-RP83Tl6IuTQ/master.m3u8",
       "adfree_url": null
     },
     {
@@ -170,30 +184,6 @@
       "startTime": "11:30:00 PM 05-07-2025"
     },
     {
-      "id": 129267,
-      "event_category": "Cricket",
-      "title": "Bamboo Blasters vs Piton Strikers (St. Lucia T10 Blast, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129267_5345_PTS_BMB_fc-Web.jpg",
-      "team_1": "Bamboo Blasters",
-      "team_2": "Piton Strikers",
-      "status": "UPCOMING",
-      "event_name": "St. Lucia T10 Blast, 2025",
-      "match_name": "Bamboo Blasters vs Piton Strikers",
-      "startTime": "09:30:00 PM 05-07-2025"
-    },
-    {
-      "id": 123351,
-      "event_category": "Football",
-      "title": "Wales Women vs Netherlands Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-web.jpg",
-      "team_1": "Wales Women",
-      "team_2": "Netherlands Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "Wales Women vs Netherlands Women",
-      "startTime": "09:30:00 PM 05-07-2025"
-    },
-    {
       "id": 127559,
       "event_category": "Cricket",
       "title": "Zimbabwe vs South Africa (South Africa tour of Zimbabwe, 2025)",
@@ -230,18 +220,6 @@
       "startTime": "12:00:00 AM 06-07-2025"
     },
     {
-      "id": 123350,
-      "event_category": "Football",
-      "title": "France Women vs England Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123350_5107_FRA-W_ENG-W_fc-web.jpg",
-      "team_1": "France Women",
-      "team_2": "England Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "France Women vs England Women",
-      "startTime": "12:30:00 AM 06-07-2025"
-    },
-    {
       "id": 125968,
       "event_category": "Cricket",
       "title": "Glamorgan vs Kent (Vitality Blast T20, 2025)",
@@ -264,6 +242,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Durham vs Warwickshire",
       "startTime": "07:00:00 PM 06-07-2025"
+    },
+    {
+      "id": 123350,
+      "event_category": "Football",
+      "title": "France Women vs England Women (UEFA Women's EURO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123350_5107_FRA-W_ENG-W_fc-web.jpg",
+      "team_1": "France Women",
+      "team_2": "England Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's EURO 2025",
+      "match_name": "France Women vs England Women",
+      "startTime": "12:30:00 AM 06-07-2025"
     },
     {
       "id": 130254,
@@ -314,6 +304,18 @@
       "startTime": "12:45:00 PM 06-07-2025"
     },
     {
+      "id": 125972,
+      "event_category": "Cricket",
+      "title": "Gloucestershire vs Middlesex (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-Web.jpg",
+      "team_1": "Gloucestershire",
+      "team_2": "Middlesex",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Gloucestershire vs Middlesex",
+      "startTime": "08:30:00 PM 06-07-2025"
+    },
+    {
       "id": 130187,
       "event_category": "Cricket",
       "title": "Bahrain vs Germany (Malawi T20I Quad Series, 2025)",
@@ -336,18 +338,6 @@
       "event_name": "ECS Bulgaria, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "01:15:00 PM 06-07-2025"
-    },
-    {
-      "id": 125972,
-      "event_category": "Cricket",
-      "title": "Gloucestershire vs Middlesex (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-Web.jpg",
-      "team_1": "Gloucestershire",
-      "team_2": "Middlesex",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Gloucestershire vs Middlesex",
-      "startTime": "08:30:00 PM 06-07-2025"
     },
     {
       "id": 129850,
@@ -480,6 +470,18 @@
       "event_name": "KCC T20 Summer League, 2025",
       "match_name": "MEC Study Group vs Tally Rangers",
       "startTime": "10:30:00 PM 06-07-2025"
+    },
+    {
+      "id": 129270,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (St. Lucia T10 Blast, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "St. Lucia T10 Blast, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:00:00 AM 07-07-2025"
     }
   ]
 }
