@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:21 PM 06-07-2025",
+  "last update time": "01:58 PM 06-07-2025",
   "matches": [
     {
       "id": 127559,
@@ -71,20 +71,6 @@
       "match_name": "Men's Auction",
       "startTime": "09:00:00 AM 06-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/fhgCV-8tRESxcaP7j-uUUw/master.m3u8",
-      "adfree_url": null
-    },
-    {
-      "id": 130204,
-      "event_category": "Motorsports",
-      "title": "Qualifying 2 vs Norisring (DTM Norisring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Qualifying 2",
-      "team_2": "Norisring",
-      "status": "LIVE",
-      "event_name": "DTM Norisring",
-      "match_name": "Qualifying 2",
-      "startTime": "12:45:00 PM 06-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Uzz0JzWYTfyEBjckjPHnNA/master.m3u8",
       "adfree_url": null
     },
     {
@@ -334,10 +320,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
       "team_1": "Feature Race",
       "team_2": "Silverstone",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "F3 GREAT BRITAIN 2025",
       "match_name": "Feature Race",
-      "startTime": "02:00:00 PM 06-07-2025"
+      "startTime": "02:00:00 PM 06-07-2025",
+      "dai_url": "https://in-mc-flive.fancode.com/mumbai/119099_english_hls_14152adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-flive.fancode.com/mumbai/119099_english_hls_14152adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 130257,
@@ -446,6 +434,18 @@
       "event_name": "ECN Bulgaria T20IW, 2025",
       "match_name": "Serbia Women vs Bulgaria Women",
       "startTime": "03:45:00 PM 07-07-2025"
+    },
+    {
+      "id": 130331,
+      "event_category": "Cricket",
+      "title": "Antwerp Giants vs Brussels Bashers (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+      "team_1": "Antwerp Giants",
+      "team_2": "Brussels Bashers",
+      "status": "UPCOMING",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Antwerp Giants vs Brussels Bashers",
+      "startTime": "04:15:00 PM 07-07-2025"
     },
     {
       "id": 130150,
