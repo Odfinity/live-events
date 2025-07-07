@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:07 AM 08-07-2025",
+  "last update time": "12:27 AM 08-07-2025",
   "matches": [
     {
       "id": 129987,
@@ -30,6 +30,20 @@
       "startTime": "12:00:00 AM 08-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/3vSqar7KQ62daaSU6LrifA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129272_english_hls_98441ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 123354,
+      "event_category": "Football",
+      "title": "Portugal Women vs Italy Women (UEFA Women's EURO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123354_5107_POR-W_ITA-W_fc-web.jpg",
+      "team_1": "Portugal Women",
+      "team_2": "Italy Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's EURO 2025",
+      "match_name": "Portugal Women vs Italy Women",
+      "startTime": "12:30:00 AM 08-07-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 123355,
@@ -68,18 +82,6 @@
       "event_name": "Bangladesh tour of Sri Lanka, 2025",
       "match_name": "Sri Lanka vs Bangladesh",
       "startTime": "02:30:00 PM 08-07-2025"
-    },
-    {
-      "id": 123354,
-      "event_category": "Football",
-      "title": "Portugal Women vs Italy Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123354_5107_POR-W_ITA-W_fc-web.jpg",
-      "team_1": "Portugal Women",
-      "team_2": "Italy Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "Portugal Women vs Italy Women",
-      "startTime": "12:30:00 AM 08-07-2025"
     },
     {
       "id": 130255,
@@ -178,6 +180,18 @@
       "startTime": "02:00:00 PM 08-07-2025"
     },
     {
+      "id": 125974,
+      "event_category": "Cricket",
+      "title": "Somerset vs Essex (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125974_5207_SOM_ESS_fc-Web.jpg",
+      "team_1": "Somerset",
+      "team_2": "Essex",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Somerset vs Essex",
+      "startTime": "11:00:00 PM 08-07-2025"
+    },
+    {
       "id": 130335,
       "event_category": "Cricket",
       "title": "Hasselt Titans vs Ostend Tigers (ECS Belgium, 2025)",
@@ -200,18 +214,6 @@
       "event_name": "ICC Men’s T20 World Cup Europe Regional Final 2025",
       "match_name": "Guernsey vs Jersey",
       "startTime": "02:30:00 PM 08-07-2025"
-    },
-    {
-      "id": 125974,
-      "event_category": "Cricket",
-      "title": "Somerset vs Essex (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125974_5207_SOM_ESS_fc-Web.jpg",
-      "team_1": "Somerset",
-      "team_2": "Essex",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Somerset vs Essex",
-      "startTime": "11:00:00 PM 08-07-2025"
     },
     {
       "id": 125132,
@@ -440,6 +442,18 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "91 Yards Club vs Bud Cricket Club",
       "startTime": "09:30:00 AM 09-07-2025"
+    },
+    {
+      "id": 130259,
+      "event_category": "Cricket",
+      "title": "South Korea vs Indonesia (Bali Bash International Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130259_5392_SK_INA_fc-Web.jpg",
+      "team_1": "South Korea",
+      "team_2": "Indonesia",
+      "status": "UPCOMING",
+      "event_name": "Bali Bash International Tri Series, 2025",
+      "match_name": "South Korea vs Indonesia",
+      "startTime": "11:30:00 AM 09-07-2025"
     }
   ]
 }
