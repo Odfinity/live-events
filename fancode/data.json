@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:52 PM 07-07-2025",
+  "last update time": "11:14 PM 07-07-2025",
   "matches": [
-    {
-      "id": 130365,
-      "event_category": "Cricket",
-      "title": "Turkiye Women vs Serbia Women (ECN Bulgaria T20IW, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Bulgaria-T20IW-old.png",
-      "team_1": "Turkiye Women",
-      "team_2": "Serbia Women",
-      "status": "LIVE",
-      "event_name": "ECN Bulgaria T20IW, 2025",
-      "match_name": "Turkiye Women vs Serbia Women",
-      "startTime": "07:45:00 PM 07-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/G-Mx9vs5Sb6FXTCbP-Ffgw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130365_english_hls_70042ta-di_h264/index.m3u8"
-    },
     {
       "id": 129271,
       "event_category": "Cricket",
@@ -96,18 +82,6 @@
       "startTime": "12:00:00 AM 08-07-2025"
     },
     {
-      "id": 123354,
-      "event_category": "Football",
-      "title": "Portugal Women vs Italy Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123354_5107_POR-W_ITA-W_fc-web.jpg",
-      "team_1": "Portugal Women",
-      "team_2": "Italy Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "Portugal Women vs Italy Women",
-      "startTime": "12:30:00 AM 08-07-2025"
-    },
-    {
       "id": 130255,
       "event_category": "Cricket",
       "title": "South Korea vs Indonesia (Bali Bash International Tri Series, 2025)",
@@ -130,6 +104,18 @@
       "event_name": "MCA T20 Tri-Series, 2025",
       "match_name": "Thunderstorm Outlanders vs Malaysia Blues",
       "startTime": "07:00:00 AM 08-07-2025"
+    },
+    {
+      "id": 123354,
+      "event_category": "Football",
+      "title": "Portugal Women vs Italy Women (UEFA Women's EURO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/123354_5107_POR-W_ITA-W_fc-web.jpg",
+      "team_1": "Portugal Women",
+      "team_2": "Italy Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's EURO 2025",
+      "match_name": "Portugal Women vs Italy Women",
+      "startTime": "12:30:00 AM 08-07-2025"
     },
     {
       "id": 130404,
@@ -430,6 +416,30 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Angels vs Texas Rangers",
       "startTime": "07:08:00 AM 08-07-2025"
+    },
+    {
+      "id": 130258,
+      "event_category": "Cricket",
+      "title": "Philippines vs South Korea (Bali Bash International Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130258_5392_PHI_SK_fc-Web.jpg",
+      "team_1": "Philippines",
+      "team_2": "South Korea",
+      "status": "UPCOMING",
+      "event_name": "Bali Bash International Tri Series, 2025",
+      "match_name": "Philippines vs South Korea",
+      "startTime": "07:00:00 AM 09-07-2025"
+    },
+    {
+      "id": 130524,
+      "event_category": "Cricket",
+      "title": "Malaysia Women vs Assam Women (Assam Women tour of Malaysia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-Women's-Tour-of-Malaysia-old-match-card.png",
+      "team_1": "Malaysia Women",
+      "team_2": "Assam Women",
+      "status": "UPCOMING",
+      "event_name": "Assam Women tour of Malaysia, 2025",
+      "match_name": "Malaysia Women vs Assam Women",
+      "startTime": "07:30:00 AM 09-07-2025"
     }
   ]
 }
