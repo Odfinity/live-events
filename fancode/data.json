@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 08-07-2025",
+  "last update time": "02:00 AM 08-07-2025",
   "matches": [
-    {
-      "id": 129987,
-      "event_category": "Cricket",
-      "title": "Gujrat CC vs Fakhr-E-Kashmir (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129987_5379_FEK_GCC_fc-web.jpg",
-      "team_1": "Gujrat CC",
-      "team_2": "Fakhr-E-Kashmir",
-      "status": "LIVE",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "Gujrat CC vs Fakhr-E-Kashmir",
-      "startTime": "10:30:00 PM 07-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/e201-rg4SaGfoTFrBB_AkQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129987_english_hls_53424ta-di_h264/index.m3u8"
-    },
     {
       "id": 129272,
       "event_category": "Cricket",
@@ -70,6 +56,18 @@
       "startTime": "02:30:00 PM 08-07-2025"
     },
     {
+      "id": 125974,
+      "event_category": "Cricket",
+      "title": "Somerset vs Essex (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125974_5207_SOM_ESS_fc-Web.jpg",
+      "team_1": "Somerset",
+      "team_2": "Essex",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Somerset vs Essex",
+      "startTime": "11:00:00 PM 08-07-2025"
+    },
+    {
       "id": 130255,
       "event_category": "Cricket",
       "title": "South Korea vs Indonesia (Bali Bash International Tri Series, 2025)",
@@ -92,18 +90,6 @@
       "event_name": "MCA T20 Tri-Series, 2025",
       "match_name": "Thunderstorm Outlanders vs Malaysia Blues",
       "startTime": "07:00:00 AM 08-07-2025"
-    },
-    {
-      "id": 125974,
-      "event_category": "Cricket",
-      "title": "Somerset vs Essex (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125974_5207_SOM_ESS_fc-Web.jpg",
-      "team_1": "Somerset",
-      "team_2": "Essex",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Somerset vs Essex",
-      "startTime": "11:00:00 PM 08-07-2025"
     },
     {
       "id": 130404,
@@ -452,6 +438,18 @@
       "event_name": "ECN Bulgaria T20IW, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "11:45:00 AM 09-07-2025"
+    },
+    {
+      "id": 130339,
+      "event_category": "Cricket",
+      "title": "Antwerp Giants vs Gent Wolves (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+      "team_1": "Antwerp Giants",
+      "team_2": "Gent Wolves",
+      "status": "UPCOMING",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Antwerp Giants vs Gent Wolves",
+      "startTime": "12:15:00 PM 09-07-2025"
     }
   ]
 }
