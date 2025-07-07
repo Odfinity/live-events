@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:52 AM 07-07-2025",
+  "last update time": "10:25 AM 07-07-2025",
   "matches": [
-    {
-      "id": 130256,
-      "event_category": "Cricket",
-      "title": "South Korea vs Philippines (Bali Bash International Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130256_5392_PHI_SK_fc-Web.jpg",
-      "team_1": "South Korea",
-      "team_2": "Philippines",
-      "status": "LIVE",
-      "event_name": "Bali Bash International Tri Series, 2025",
-      "match_name": "South Korea vs Philippines",
-      "startTime": "07:00:00 AM 07-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jcGZsaRzSZybvBTRzT6owA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130256_english_hls_79912ta-di_h264/index.m3u8"
-    },
     {
       "id": 130523,
       "event_category": "Cricket",
@@ -406,6 +392,42 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "Bud Cricket Club vs Navarang Club",
       "startTime": "01:30:00 PM 08-07-2025"
+    },
+    {
+      "id": 130102,
+      "event_category": "Cricket",
+      "title": "Ruby White Town Legends vs Villianur Mohit Kings (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ruby White Town Legends",
+      "team_2": "Villianur Mohit Kings",
+      "status": "UPCOMING",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ruby White Town Legends vs Villianur Mohit Kings",
+      "startTime": "02:00:00 PM 08-07-2025"
+    },
+    {
+      "id": 130335,
+      "event_category": "Cricket",
+      "title": "Hasselt Titans vs Ostend Tigers (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+      "team_1": "Hasselt Titans",
+      "team_2": "Ostend Tigers",
+      "status": "UPCOMING",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Hasselt Titans vs Ostend Tigers",
+      "startTime": "02:15:00 PM 08-07-2025"
+    },
+    {
+      "id": 129852,
+      "event_category": "Cricket",
+      "title": "Guernsey vs Jersey (ICC Men’s T20 World Cup Europe Regional Final 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129852_5372_GSY_JER_fc-Web.jpg",
+      "team_1": "Guernsey",
+      "team_2": "Jersey",
+      "status": "UPCOMING",
+      "event_name": "ICC Men’s T20 World Cup Europe Regional Final 2025",
+      "match_name": "Guernsey vs Jersey",
+      "startTime": "02:30:00 PM 08-07-2025"
     }
   ]
 }
