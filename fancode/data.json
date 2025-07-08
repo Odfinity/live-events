@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 08-07-2025",
+  "last update time": "02:06 PM 08-07-2025",
   "matches": [
     {
       "id": 127559,
@@ -70,8 +70,36 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "Bud Cricket Club vs Navarang Club",
       "startTime": "01:30:00 PM 08-07-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/w_QKKBCyQfGdyk1HZAIcHQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130405_english_hls_8683ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130102,
+      "event_category": "Cricket",
+      "title": "Ruby White Town Legends vs Villianur Mohit Kings (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ruby White Town Legends",
+      "team_2": "Villianur Mohit Kings",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ruby White Town Legends vs Villianur Mohit Kings",
+      "startTime": "02:00:00 PM 08-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/adUPP0_cTAqs8eiMw2axHA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130102_english_hls_91401ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130335,
+      "event_category": "Cricket",
+      "title": "Ostend Tigers vs Hasselt Titans (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+      "team_1": "Ostend Tigers",
+      "team_2": "Hasselt Titans",
+      "status": "LIVE",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Ostend Tigers vs Hasselt Titans",
+      "startTime": "02:15:00 PM 08-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/vypvVV0ZR_ODFl3phw08Fw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130335_english_hls_39004ta-di_h264/index.m3u8"
     },
     {
       "id": 128430,
@@ -96,30 +124,6 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Somerset vs Essex",
       "startTime": "11:00:00 PM 08-07-2025"
-    },
-    {
-      "id": 130102,
-      "event_category": "Cricket",
-      "title": "Ruby White Town Legends vs Villianur Mohit Kings (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ruby White Town Legends",
-      "team_2": "Villianur Mohit Kings",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ruby White Town Legends vs Villianur Mohit Kings",
-      "startTime": "02:00:00 PM 08-07-2025"
-    },
-    {
-      "id": 130335,
-      "event_category": "Cricket",
-      "title": "Ostend Tigers vs Hasselt Titans (ECS Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
-      "team_1": "Ostend Tigers",
-      "team_2": "Hasselt Titans",
-      "status": "UPCOMING",
-      "event_name": "ECS Belgium, 2025",
-      "match_name": "Ostend Tigers vs Hasselt Titans",
-      "startTime": "02:15:00 PM 08-07-2025"
     },
     {
       "id": 129852,
