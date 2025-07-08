@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:26 AM 09-07-2025",
+  "last update time": "03:56 AM 09-07-2025",
   "matches": [
-    {
-      "id": 123356,
-      "event_category": "Football",
-      "title": "Poland Women vs Sweden Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123356_5107_POL-W_SWE-W_fc-web.jpg",
-      "team_1": "Poland Women",
-      "team_2": "Sweden Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "Poland Women vs Sweden Women",
-      "startTime": "12:30:00 AM 09-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/VwaN8Ov-RCu01uBKI7gQ_Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/123356_english_hls_29981ta-di_h264/index.m3u8"
-    },
     {
       "id": 128743,
       "event_category": "Cricket",
@@ -354,18 +340,6 @@
       "startTime": "07:15:00 AM 09-07-2025"
     },
     {
-      "id": 129653,
-      "event_category": "Golf",
-      "title": "Interwetten Open vs Austria (Interwetten Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Interwetten-Open-old_1751303961586.jpg",
-      "team_1": "Interwetten Open",
-      "team_2": "Austria",
-      "status": "UPCOMING",
-      "event_name": "Interwetten Open",
-      "match_name": "Interwetten Open",
-      "startTime": "03:25:00 PM 09-07-2025"
-    },
-    {
       "id": 130260,
       "event_category": "Cricket",
       "title": "Indonesia vs Philippines (Bali Bash International Tri Series, 2025)",
@@ -376,6 +350,18 @@
       "event_name": "Bali Bash International Tri Series, 2025",
       "match_name": "Indonesia vs Philippines",
       "startTime": "07:00:00 AM 10-07-2025"
+    },
+    {
+      "id": 129653,
+      "event_category": "Golf",
+      "title": "Interwetten Open vs Austria (Interwetten Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Interwetten-Open-old_1751303961586.jpg",
+      "team_1": "Interwetten Open",
+      "team_2": "Austria",
+      "status": "UPCOMING",
+      "event_name": "Interwetten Open",
+      "match_name": "Interwetten Open",
+      "startTime": "03:25:00 PM 09-07-2025"
     },
     {
       "id": 127559,
@@ -402,18 +388,6 @@
       "startTime": "10:40:00 PM 09-07-2025"
     },
     {
-      "id": 130301,
-      "event_category": "Baseball",
-      "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/130301_CASACARDS_APP.png",
-      "team_1": "San Francisco Giants",
-      "team_2": "Philadelphia Phillies",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Francisco Giants vs Philadelphia Phillies",
-      "startTime": "01:15:00 AM 10-07-2025"
-    },
-    {
       "id": 130408,
       "event_category": "Cricket",
       "title": "Navarang Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
@@ -426,6 +400,18 @@
       "startTime": "09:30:00 AM 10-07-2025"
     },
     {
+      "id": 130301,
+      "event_category": "Baseball",
+      "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130301_CASACARDS_APP.png",
+      "team_1": "San Francisco Giants",
+      "team_2": "Philadelphia Phillies",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Francisco Giants vs Philadelphia Phillies",
+      "startTime": "01:15:00 AM 10-07-2025"
+    },
+    {
       "id": 130261,
       "event_category": "Cricket",
       "title": "Philippines vs South Korea (Bali Bash International Tri Series, 2025)",
@@ -436,6 +422,18 @@
       "event_name": "Bali Bash International Tri Series, 2025",
       "match_name": "Philippines vs South Korea",
       "startTime": "11:30:00 AM 10-07-2025"
+    },
+    {
+      "id": 130345,
+      "event_category": "Cricket",
+      "title": "Brussels Bashers vs Hasselt Titans (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+      "team_1": "Brussels Bashers",
+      "team_2": "Hasselt Titans",
+      "status": "UPCOMING",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Brussels Bashers vs Hasselt Titans",
+      "startTime": "12:15:00 PM 10-07-2025"
     }
   ]
 }
