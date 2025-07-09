@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:26 PM 09-07-2025",
+  "last update time": "10:55 PM 09-07-2025",
   "matches": [
     {
       "id": 128743,
@@ -10,24 +10,24 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
       "team_1": "England Women",
       "team_2": "India Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "India Women tour of England, 2025",
       "match_name": "England Women vs India Women",
-      "startTime": "11:00:00 PM 09-07-2025"
+      "startTime": "11:00:00 PM 09-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022320/INWENW/master.m3u8?hdnea=exp=1752125081~acl=/*~id=07659980135263681679336851681960~hmac=492954c100c1581900e20593dbc56b7ce3bb3c890542f3ae47398c120ba4e632"
     },
     {
-      "id": 129855,
+      "id": 125977,
       "event_category": "Cricket",
-      "title": "Netherlands vs Guernsey (ICC Men’s T20 World Cup Europe Regional Final 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129855_5372_GSY_NED_fc-Web.jpg",
-      "team_1": "Netherlands",
-      "team_2": "Guernsey",
-      "status": "LIVE",
-      "event_name": "ICC Men’s T20 World Cup Europe Regional Final 2025",
-      "match_name": "Netherlands vs Guernsey",
-      "startTime": "07:30:00 PM 09-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/cL8CmzDjRpe_0pZX0rfrGg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129855_english_hls_81632ta-di_h264/index.m3u8"
+      "title": "Gloucestershire vs Surrey (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125977_5207_GLO_SUR_fc-Web.jpg",
+      "team_1": "Gloucestershire",
+      "team_2": "Surrey",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Gloucestershire vs Surrey",
+      "startTime": "11:30:00 PM 09-07-2025"
     },
     {
       "id": 125135,
@@ -44,20 +44,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125135_english_hls_33261ta-di_h264/index.m3u8"
     },
     {
-      "id": 130343,
-      "event_category": "Cricket",
-      "title": "Ostend Tigers vs Brussels Bashers (ECS Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
-      "team_1": "Ostend Tigers",
-      "team_2": "Brussels Bashers",
-      "status": "LIVE",
-      "event_name": "ECS Belgium, 2025",
-      "match_name": "Ostend Tigers vs Brussels Bashers",
-      "startTime": "08:30:00 PM 09-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Og7A3JJCRVi8Vz26pob0sw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130343_english_hls_25474ta-di_h264/index.m3u8"
-    },
-    {
       "id": 130344,
       "event_category": "Cricket",
       "title": "Antwerp Giants vs Ostend Tigers (ECS Belgium, 2025)",
@@ -72,6 +58,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130344_english_hls_98073ta-di_h264/index.m3u8"
     },
     {
+      "id": 129989,
+      "event_category": "Cricket",
+      "title": "Stack CC vs MEC Study Group (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129989_5379_STAX_MEC_fc-web.jpg",
+      "team_1": "Stack CC",
+      "team_2": "MEC Study Group",
+      "status": "LIVE",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "Stack CC vs MEC Study Group",
+      "startTime": "10:45:00 PM 09-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ULX_AbtVSF6M3pAzj_xTFQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129989_english_hls_13963ta-di_h264/index.m3u8"
+    },
+    {
       "id": 123358,
       "event_category": "Football",
       "title": "England Women vs Netherlands Women (UEFA Women's EURO 2025)",
@@ -84,30 +84,6 @@
       "startTime": "09:30:00 PM 09-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/us9M1W0AR9iBtVo8ueqOTg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/123358_english_hls_77428ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 125977,
-      "event_category": "Cricket",
-      "title": "Gloucestershire vs Surrey (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125977_5207_GLO_SUR_fc-Web.jpg",
-      "team_1": "Gloucestershire",
-      "team_2": "Surrey",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Gloucestershire vs Surrey",
-      "startTime": "11:30:00 PM 09-07-2025"
-    },
-    {
-      "id": 129989,
-      "event_category": "Cricket",
-      "title": "Stack CC vs MEC Study Group (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129989_5379_STAX_MEC_fc-web.jpg",
-      "team_1": "Stack CC",
-      "team_2": "MEC Study Group",
-      "status": "UPCOMING",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "Stack CC vs MEC Study Group",
-      "startTime": "10:45:00 PM 09-07-2025"
     },
     {
       "id": 128431,
@@ -302,18 +278,6 @@
       "startTime": "06:00:00 PM 10-07-2025"
     },
     {
-      "id": 130348,
-      "event_category": "Cricket",
-      "title": "Antwerp Giants vs Hasselt Titans (ECS Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
-      "team_1": "Antwerp Giants",
-      "team_2": "Hasselt Titans",
-      "status": "UPCOMING",
-      "event_name": "ECS Belgium, 2025",
-      "match_name": "Antwerp Giants vs Hasselt Titans",
-      "startTime": "06:15:00 PM 10-07-2025"
-    },
-    {
       "id": 125980,
       "event_category": "Cricket",
       "title": "Derbyshire vs Worcestershire (Vitality Blast T20, 2025)",
@@ -324,6 +288,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Derbyshire vs Worcestershire",
       "startTime": "11:30:00 PM 10-07-2025"
+    },
+    {
+      "id": 130348,
+      "event_category": "Cricket",
+      "title": "Antwerp Giants vs Hasselt Titans (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+      "team_1": "Antwerp Giants",
+      "team_2": "Hasselt Titans",
+      "status": "UPCOMING",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Antwerp Giants vs Hasselt Titans",
+      "startTime": "06:15:00 PM 10-07-2025"
     },
     {
       "id": 130480,
@@ -398,6 +374,18 @@
       "startTime": "12:30:00 AM 11-07-2025"
     },
     {
+      "id": 129991,
+      "event_category": "Cricket",
+      "title": "Tally Rangers vs CECC (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129991_5379_TCC_CEC-A_fc-web.jpg",
+      "team_1": "Tally Rangers",
+      "team_2": "CECC",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "Tally Rangers vs CECC",
+      "startTime": "01:15:00 AM 11-07-2025"
+    },
+    {
       "id": 130301,
       "event_category": "Baseball",
       "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
@@ -422,18 +410,6 @@
       "startTime": "02:40:00 AM 10-07-2025"
     },
     {
-      "id": 129991,
-      "event_category": "Cricket",
-      "title": "Tally Rangers vs CECC (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129991_5379_TCC_CEC-A_fc-web.jpg",
-      "team_1": "Tally Rangers",
-      "team_2": "CECC",
-      "status": "UPCOMING",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "Tally Rangers vs CECC",
-      "startTime": "01:15:00 AM 11-07-2025"
-    },
-    {
       "id": 130302,
       "event_category": "Baseball",
       "title": "Oakland Athletics vs Atlanta Braves (Major League Baseball, 2025)",
@@ -456,6 +432,30 @@
       "event_name": "Genesis Scottish Open",
       "match_name": "Day 1",
       "startTime": "05:30:00 PM 10-07-2025"
+    },
+    {
+      "id": 130481,
+      "event_category": "Cricket",
+      "title": "Guyana Amazon Warriors vs Rangpur Riders (Global Super League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130481_5402_GUY_RAN_fc-Web_1752057006988.jpg",
+      "team_1": "Guyana Amazon Warriors",
+      "team_2": "Rangpur Riders",
+      "status": "UPCOMING",
+      "event_name": "Global Super League, 2025",
+      "match_name": "Guyana Amazon Warriors vs Rangpur Riders",
+      "startTime": "04:30:00 AM 11-07-2025"
+    },
+    {
+      "id": 130303,
+      "event_category": "Baseball",
+      "title": "Baltimore Orioles vs New York Mets (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130303_CASACARDS_APP.png",
+      "team_1": "Baltimore Orioles",
+      "team_2": "New York Mets",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Baltimore Orioles vs New York Mets",
+      "startTime": "10:35:00 PM 10-07-2025"
     }
   ]
 }
