@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:16 AM 10-07-2025",
+  "last update time": "04:28 AM 10-07-2025",
   "matches": [
-    {
-      "id": 130301,
-      "event_category": "Baseball",
-      "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130301_CASACARDS_APP.png",
-      "team_1": "San Francisco Giants",
-      "team_2": "Philadelphia Phillies",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Francisco Giants vs Philadelphia Phillies",
-      "startTime": "01:15:00 AM 10-07-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130301_english_hls_19431ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130301_english_hls_19431ta-di_h264/index.m3u8"
-    },
     {
       "id": 130300,
       "event_category": "Baseball",
@@ -414,6 +400,18 @@
       "event_name": "Isco Championship 2025",
       "match_name": "Day 1",
       "startTime": "01:30:00 AM 11-07-2025"
+    },
+    {
+      "id": 130350,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:15:00 PM 11-07-2025"
     }
   ]
 }
