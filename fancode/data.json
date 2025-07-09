@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:05 PM 09-07-2025",
+  "last update time": "12:27 PM 09-07-2025",
   "matches": [
     {
       "id": 130524,
@@ -60,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130369_english_hls_41322ta-di_h264/index.m3u8"
     },
     {
+      "id": 130339,
+      "event_category": "Cricket",
+      "title": "Gent Wolves vs Antwerp Giants (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+      "team_1": "Gent Wolves",
+      "team_2": "Antwerp Giants",
+      "status": "LIVE",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Gent Wolves vs Antwerp Giants",
+      "startTime": "12:15:00 PM 09-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/37ZpAYubQZmP0DWHElhxXg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130339_english_hls_18430ta-di_h264/index.m3u8"
+    },
+    {
       "id": 128743,
       "event_category": "Cricket",
       "title": "England Women vs India Women (India Women tour of England, 2025)",
@@ -82,18 +96,6 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Gloucestershire vs Surrey",
       "startTime": "11:30:00 PM 09-07-2025"
-    },
-    {
-      "id": 130339,
-      "event_category": "Cricket",
-      "title": "Gent Wolves vs Antwerp Giants (ECS Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
-      "team_1": "Gent Wolves",
-      "team_2": "Antwerp Giants",
-      "status": "UPCOMING",
-      "event_name": "ECS Belgium, 2025",
-      "match_name": "Gent Wolves vs Antwerp Giants",
-      "startTime": "12:15:00 PM 09-07-2025"
     },
     {
       "id": 130382,
@@ -420,18 +422,6 @@
       "startTime": "02:15:00 PM 10-07-2025"
     },
     {
-      "id": 129653,
-      "event_category": "Golf",
-      "title": "Interwetten Open vs Austria (Interwetten Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Interwetten-Open-old_1751303961586.jpg",
-      "team_1": "Interwetten Open",
-      "team_2": "Austria",
-      "status": "UPCOMING",
-      "event_name": "Interwetten Open",
-      "match_name": "Interwetten Open",
-      "startTime": "03:25:00 PM 09-07-2025"
-    },
-    {
       "id": 130548,
       "event_category": "Cricket",
       "title": "Bulgaria vs Gibraltar (ECN Bulgaria T20I, 2025)",
@@ -442,6 +432,18 @@
       "event_name": "ECN Bulgaria T20I, 2025",
       "match_name": "Bulgaria vs Gibraltar",
       "startTime": "12:30:00 PM 10-07-2025"
+    },
+    {
+      "id": 129653,
+      "event_category": "Golf",
+      "title": "Interwetten Open vs Austria (Interwetten Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Interwetten-Open-old_1751303961586.jpg",
+      "team_1": "Interwetten Open",
+      "team_2": "Austria",
+      "status": "UPCOMING",
+      "event_name": "Interwetten Open",
+      "match_name": "Interwetten Open",
+      "startTime": "03:25:00 PM 09-07-2025"
     },
     {
       "id": 125136,
