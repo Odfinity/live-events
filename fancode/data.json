@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:15 PM 09-07-2025",
+  "last update time": "01:27 PM 09-07-2025",
   "matches": [
     {
       "id": 128743,
@@ -40,20 +40,6 @@
       "startTime": "07:30:00 AM 09-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/xK6MW1I6TmiEPAKxspo73A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130524_english_hls_70274ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130406,
-      "event_category": "Cricket",
-      "title": "Bud Cricket Club vs 91 Yards Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "Bud Cricket Club",
-      "team_2": "91 Yards Club",
-      "status": "LIVE",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "Bud Cricket Club vs 91 Yards Club",
-      "startTime": "09:30:00 AM 09-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/MtFPYUO_TTmksOGI4f3e4A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130406_english_hls_16666ta-di_h264/index.m3u8"
     },
     {
       "id": 130259,
@@ -126,6 +112,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130191_english_hls_19110ta-di_h264/index.m3u8"
     },
     {
+      "id": 130407,
+      "event_category": "Cricket",
+      "title": "City Cricket Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "City Cricket Club",
+      "team_2": "Nabajyoti Club",
+      "status": "LIVE",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "City Cricket Club vs Nabajyoti Club",
+      "startTime": "01:30:00 PM 09-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Fm5-BJKFToiV7bUmYhKkRA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130407_english_hls_59684ta-di_h264/index.m3u8"
+    },
+    {
       "id": 125977,
       "event_category": "Cricket",
       "title": "Gloucestershire vs Surrey (Vitality Blast T20, 2025)",
@@ -136,18 +136,6 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Gloucestershire vs Surrey",
       "startTime": "11:30:00 PM 09-07-2025"
-    },
-    {
-      "id": 130407,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "City Cricket Club",
-      "team_2": "Nabajyoti Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "City Cricket Club vs Nabajyoti Club",
-      "startTime": "01:30:00 PM 09-07-2025"
     },
     {
       "id": 130104,
@@ -164,13 +152,13 @@
     {
       "id": 130340,
       "event_category": "Cricket",
-      "title": "Liege Stallions vs Gent Wolves (ECS Belgium, 2025)",
+      "title": "Gent Wolves vs Liege Stallions (ECS Belgium, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
-      "team_1": "Liege Stallions",
-      "team_2": "Gent Wolves",
+      "team_1": "Gent Wolves",
+      "team_2": "Liege Stallions",
       "status": "UPCOMING",
       "event_name": "ECS Belgium, 2025",
-      "match_name": "Liege Stallions vs Gent Wolves",
+      "match_name": "Gent Wolves vs Liege Stallions",
       "startTime": "02:15:00 PM 09-07-2025"
     },
     {
@@ -472,6 +460,18 @@
       "event_name": "Bangladesh tour of Sri Lanka, 2025",
       "match_name": "Sri Lanka vs Bangladesh",
       "startTime": "07:00:00 PM 10-07-2025"
+    },
+    {
+      "id": 130347,
+      "event_category": "Cricket",
+      "title": "Liege Stallions vs Brussels Bashers (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+      "team_1": "Liege Stallions",
+      "team_2": "Brussels Bashers",
+      "status": "UPCOMING",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Liege Stallions vs Brussels Bashers",
+      "startTime": "04:15:00 PM 10-07-2025"
     }
   ]
 }
