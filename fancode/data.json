@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:06 PM 09-07-2025",
+  "last update time": "02:27 PM 09-07-2025",
   "matches": [
     {
       "id": 123358,
@@ -14,20 +14,6 @@
       "event_name": "UEFA Women's EURO 2025",
       "match_name": "England Women vs Netherlands Women",
       "startTime": "09:30:00 PM 09-07-2025"
-    },
-    {
-      "id": 130524,
-      "event_category": "Cricket",
-      "title": "Assam Women vs Malaysia Women (Assam Women tour of Malaysia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-Women's-Tour-of-Malaysia-old-match-card.png",
-      "team_1": "Assam Women",
-      "team_2": "Malaysia Women",
-      "status": "LIVE",
-      "event_name": "Assam Women tour of Malaysia, 2025",
-      "match_name": "Assam Women vs Malaysia Women",
-      "startTime": "07:30:00 AM 09-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/xK6MW1I6TmiEPAKxspo73A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130524_english_hls_70274ta-di_h264/index.m3u8"
     },
     {
       "id": 130369,
@@ -100,6 +86,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130104_english_hls_76353ta-di_h264/index.m3u8"
     },
     {
+      "id": 130340,
+      "event_category": "Cricket",
+      "title": "Gent Wolves vs Liege Stallions (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+      "team_1": "Gent Wolves",
+      "team_2": "Liege Stallions",
+      "status": "LIVE",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Gent Wolves vs Liege Stallions",
+      "startTime": "02:15:00 PM 09-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/o22DZywLSBqwmWWTufzjlw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130340_english_hls_73143ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129854,
+      "event_category": "Cricket",
+      "title": "Italy vs Scotland (ICC Men’s T20 World Cup Europe Regional Final 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
+      "team_1": "Italy",
+      "team_2": "Scotland",
+      "status": "LIVE",
+      "event_name": "ICC Men’s T20 World Cup Europe Regional Final 2025",
+      "match_name": "Italy vs Scotland",
+      "startTime": "02:30:00 PM 09-07-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 128743,
       "event_category": "Cricket",
       "title": "England Women vs India Women (India Women tour of England, 2025)",
@@ -122,30 +136,6 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Gloucestershire vs Surrey",
       "startTime": "11:30:00 PM 09-07-2025"
-    },
-    {
-      "id": 130340,
-      "event_category": "Cricket",
-      "title": "Gent Wolves vs Liege Stallions (ECS Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
-      "team_1": "Gent Wolves",
-      "team_2": "Liege Stallions",
-      "status": "UPCOMING",
-      "event_name": "ECS Belgium, 2025",
-      "match_name": "Gent Wolves vs Liege Stallions",
-      "startTime": "02:15:00 PM 09-07-2025"
-    },
-    {
-      "id": 129854,
-      "event_category": "Cricket",
-      "title": "Italy vs Scotland (ICC Men’s T20 World Cup Europe Regional Final 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
-      "team_1": "Italy",
-      "team_2": "Scotland",
-      "status": "UPCOMING",
-      "event_name": "ICC Men’s T20 World Cup Europe Regional Final 2025",
-      "match_name": "Italy vs Scotland",
-      "startTime": "02:30:00 PM 09-07-2025"
     },
     {
       "id": 125134,
@@ -458,6 +448,18 @@
       "event_name": "Interwetten Open",
       "match_name": "Interwetten Open",
       "startTime": "03:25:00 PM 09-07-2025"
+    },
+    {
+      "id": 130194,
+      "event_category": "Cricket",
+      "title": "Malawi vs Germany (Malawi T20I Quad Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Malawi-T20I-quad-series-old.png",
+      "team_1": "Malawi",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "Malawi T20I Quad Series, 2025",
+      "match_name": "Malawi vs Germany",
+      "startTime": "05:15:00 PM 10-07-2025"
     },
     {
       "id": 130301,
