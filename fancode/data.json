@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:26 PM 09-07-2025",
+  "last update time": "07:56 PM 09-07-2025",
   "matches": [
-    {
-      "id": 130370,
-      "event_category": "Cricket",
-      "title": "Turkiye Women vs Greece Women (ECN Bulgaria T20IW, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Bulgaria-T20IW-old.png",
-      "team_1": "Turkiye Women",
-      "team_2": "Greece Women",
-      "status": "LIVE",
-      "event_name": "ECN Bulgaria T20IW, 2025",
-      "match_name": "Turkiye Women vs Greece Women",
-      "startTime": "03:45:00 PM 09-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9AZErF2QRvODHlKgel8dmQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130370_english_hls_54216ta-di_h264/index.m3u8"
-    },
     {
       "id": 130105,
       "event_category": "Cricket",
@@ -32,20 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130105_english_hls_6006ta-di_h264/index.m3u8"
     },
     {
-      "id": 130342,
-      "event_category": "Cricket",
-      "title": "Leuven Lions vs Hasselt Titans (ECS Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
-      "team_1": "Leuven Lions",
-      "team_2": "Hasselt Titans",
-      "status": "LIVE",
-      "event_name": "ECS Belgium, 2025",
-      "match_name": "Leuven Lions vs Hasselt Titans",
-      "startTime": "06:15:00 PM 09-07-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
       "id": 129855,
       "event_category": "Cricket",
       "title": "Netherlands vs Guernsey (ICC Men’s T20 World Cup Europe Regional Final 2025)",
@@ -58,6 +30,20 @@
       "startTime": "07:30:00 PM 09-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/cL8CmzDjRpe_0pZX0rfrGg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129855_english_hls_81632ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130342,
+      "event_category": "Cricket",
+      "title": "Leuven Lions vs Hasselt Titans (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+      "team_1": "Leuven Lions",
+      "team_2": "Hasselt Titans",
+      "status": "LIVE",
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "Leuven Lions vs Hasselt Titans",
+      "startTime": "06:15:00 PM 09-07-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 128743,
@@ -98,13 +84,13 @@
     {
       "id": 130343,
       "event_category": "Cricket",
-      "title": "Brussels Bashers vs Ostend Tigers (ECS Belgium, 2025)",
+      "title": "Ostend Tigers vs Brussels Bashers (ECS Belgium, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
-      "team_1": "Brussels Bashers",
-      "team_2": "Ostend Tigers",
+      "team_1": "Ostend Tigers",
+      "team_2": "Brussels Bashers",
       "status": "UPCOMING",
       "event_name": "ECS Belgium, 2025",
-      "match_name": "Brussels Bashers vs Ostend Tigers",
+      "match_name": "Ostend Tigers vs Brussels Bashers",
       "startTime": "08:30:00 PM 09-07-2025"
     },
     {
@@ -180,6 +166,18 @@
       "startTime": "09:30:00 AM 10-07-2025"
     },
     {
+      "id": 128431,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Sri Lanka",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Sri Lanka vs Bangladesh",
+      "startTime": "07:00:00 PM 10-07-2025"
+    },
+    {
       "id": 130261,
       "event_category": "Cricket",
       "title": "Philippines vs South Korea (Bali Bash International Tri Series, 2025)",
@@ -202,18 +200,6 @@
       "event_name": "ECS Belgium, 2025",
       "match_name": "Brussels Bashers vs Hasselt Titans",
       "startTime": "12:15:00 PM 10-07-2025"
-    },
-    {
-      "id": 128431,
-      "event_category": "Cricket",
-      "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Sri Lanka",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Sri Lanka vs Bangladesh",
-      "startTime": "07:00:00 PM 10-07-2025"
     },
     {
       "id": 130548,
