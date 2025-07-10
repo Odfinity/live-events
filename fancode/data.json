@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:01 PM 10-07-2025",
+  "last update time": "01:18 PM 10-07-2025",
   "matches": [
     {
       "id": 130261,
@@ -60,20 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130193_english_hls_31556ta-di_h264/index.m3u8"
     },
     {
-      "id": 130408,
-      "event_category": "Cricket",
-      "title": "Nabajyoti Club vs Navarang Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "Nabajyoti Club",
-      "team_2": "Navarang Club",
-      "status": "LIVE",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "Nabajyoti Club vs Navarang Club",
-      "startTime": "09:30:00 AM 10-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/uuZNJGbRRS-FHLbIumL7zA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130408_english_hls_57142ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128431,
       "event_category": "Cricket",
       "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
@@ -100,14 +86,16 @@
     {
       "id": 130409,
       "event_category": "Cricket",
-      "title": "Gauhati Town Club vs City Cricket Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "title": "City Cricket Club vs Gauhati Town Club (GTC Summer Challenge T20 Trophy, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "Gauhati Town Club",
-      "team_2": "City Cricket Club",
-      "status": "UPCOMING",
+      "team_1": "City Cricket Club",
+      "team_2": "Gauhati Town Club",
+      "status": "LIVE",
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "Gauhati Town Club vs City Cricket Club",
-      "startTime": "01:30:00 PM 10-07-2025"
+      "match_name": "City Cricket Club vs Gauhati Town Club",
+      "startTime": "01:30:00 PM 10-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/g1UzYs-qRcetXp1F20TSLw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130409_english_hls_5866ta-di_h264/index.m3u8"
     },
     {
       "id": 130106,
@@ -434,6 +422,18 @@
       "startTime": "09:35:00 PM 10-07-2025"
     },
     {
+      "id": 130551,
+      "event_category": "Cricket",
+      "title": "Gibraltar vs Bulgaria (ECN Bulgaria T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Bulgaria-T20I-old.png",
+      "team_1": "Gibraltar",
+      "team_2": "Bulgaria",
+      "status": "UPCOMING",
+      "event_name": "ECN Bulgaria T20I, 2025",
+      "match_name": "Gibraltar vs Bulgaria",
+      "startTime": "04:30:00 PM 11-07-2025"
+    },
+    {
       "id": 130544,
       "event_category": "Golf",
       "title": "Day 1 vs Hurstbourne Country Club - Louisville, Kentucky  (Isco Championship 2025)",
@@ -446,16 +446,16 @@
       "startTime": "01:30:00 AM 11-07-2025"
     },
     {
-      "id": 130551,
+      "id": 130352,
       "event_category": "Cricket",
-      "title": "Gibraltar vs Bulgaria (ECN Bulgaria T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Bulgaria-T20I-old.png",
-      "team_1": "Gibraltar",
-      "team_2": "Bulgaria",
+      "title": "TBC vs TBC (ECS Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "ECN Bulgaria T20I, 2025",
-      "match_name": "Gibraltar vs Bulgaria",
-      "startTime": "04:30:00 PM 11-07-2025"
+      "event_name": "ECS Belgium, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "05:15:00 PM 11-07-2025"
     }
   ]
 }
