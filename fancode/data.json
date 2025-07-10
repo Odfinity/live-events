@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:39 PM 10-07-2025",
+  "last update time": "04:59 PM 10-07-2025",
   "matches": [
     {
       "id": 128431,
@@ -14,20 +14,6 @@
       "event_name": "Bangladesh tour of Sri Lanka, 2025",
       "match_name": "Sri Lanka vs Bangladesh",
       "startTime": "07:00:00 PM 10-07-2025"
-    },
-    {
-      "id": 130409,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs Gauhati Town Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "City Cricket Club",
-      "team_2": "Gauhati Town Club",
-      "status": "LIVE",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "City Cricket Club vs Gauhati Town Club",
-      "startTime": "01:30:00 PM 10-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/g1UzYs-qRcetXp1F20TSLw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130409_english_hls_5866ta-di_h264/index.m3u8"
     },
     {
       "id": 130106,
@@ -398,18 +384,6 @@
       "startTime": "10:00:00 PM 11-07-2025"
     },
     {
-      "id": 130303,
-      "event_category": "Baseball",
-      "title": "Baltimore Orioles vs New York Mets (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130303_CASACARDS_APP.png",
-      "team_1": "Baltimore Orioles",
-      "team_2": "New York Mets",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Baltimore Orioles vs New York Mets",
-      "startTime": "09:35:00 PM 10-07-2025"
-    },
-    {
       "id": 129857,
       "event_category": "Cricket",
       "title": "Netherlands vs Italy (ICC Men’s T20 World Cup Europe Regional Final 2025)",
@@ -434,6 +408,18 @@
       "startTime": "07:30:00 PM 11-07-2025"
     },
     {
+      "id": 130303,
+      "event_category": "Baseball",
+      "title": "Baltimore Orioles vs New York Mets (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/130303_CASACARDS_APP.png",
+      "team_1": "Baltimore Orioles",
+      "team_2": "New York Mets",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Baltimore Orioles vs New York Mets",
+      "startTime": "09:35:00 PM 10-07-2025"
+    },
+    {
       "id": 130544,
       "event_category": "Golf",
       "title": "Day 1 vs Hurstbourne Country Club - Louisville, Kentucky  (Isco Championship 2025)",
@@ -446,18 +432,6 @@
       "startTime": "01:30:00 AM 11-07-2025"
     },
     {
-      "id": 130304,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Arizona Diamondbacks (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130304_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "Arizona Diamondbacks",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Arizona Diamondbacks",
-      "startTime": "07:10:00 AM 11-07-2025"
-    },
-    {
       "id": 125871,
       "event_category": "Cricket",
       "title": "Somerset Women vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
@@ -468,6 +442,30 @@
       "event_name": "Women's Vitality Blast T20, 2025",
       "match_name": "Somerset Women vs Warwickshire Women",
       "startTime": "11:00:00 PM 11-07-2025"
+    },
+    {
+      "id": 125870,
+      "event_category": "Cricket",
+      "title": "Durham Women vs Hampshire Women (Women's Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125870_5206_DHW_HAM-W_fc-Web.jpg",
+      "team_1": "Durham Women",
+      "team_2": "Hampshire Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Vitality Blast T20, 2025",
+      "match_name": "Durham Women vs Hampshire Women",
+      "startTime": "11:00:00 PM 11-07-2025"
+    },
+    {
+      "id": 130304,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Arizona Diamondbacks (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/130304_CASACARDS_APP.png",
+      "team_1": "San Diego Padres",
+      "team_2": "Arizona Diamondbacks",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Arizona Diamondbacks",
+      "startTime": "07:10:00 AM 11-07-2025"
     }
   ]
 }
