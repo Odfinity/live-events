@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:27 AM 11-07-2025",
+  "last update time": "04:56 AM 11-07-2025",
   "matches": [
     {
       "id": 130481,
@@ -18,20 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130481_english_hls_33790ta-di_h264/index.m3u8"
     },
     {
-      "id": 129991,
-      "event_category": "Cricket",
-      "title": "Tally Rangers vs CECC (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129991_5379_TCC_CEC-A_fc-web.jpg",
-      "team_1": "Tally Rangers",
-      "team_2": "CECC",
-      "status": "LIVE",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "Tally Rangers vs CECC",
-      "startTime": "01:15:00 AM 11-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/08HmhbS6Rd6OuoCMHBU3rg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129991_english_hls_9709ta-di_h264/index.m3u8"
-    },
-    {
       "id": 130544,
       "event_category": "Golf",
       "title": "Day 1 vs Hurstbourne Country Club - Louisville, Kentucky  (Isco Championship 2025)",
@@ -44,6 +30,20 @@
       "startTime": "01:30:00 AM 11-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/xy1TDkW5SP-psFEzpUYhIw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130544_english_hls_96982ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129991,
+      "event_category": "Cricket",
+      "title": "Tally Rangers vs CECC (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129991_5379_TCC_CEC-A_fc-web.jpg",
+      "team_1": "Tally Rangers",
+      "team_2": "CECC",
+      "status": "LIVE",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "Tally Rangers vs CECC",
+      "startTime": "01:15:00 AM 11-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/08HmhbS6Rd6OuoCMHBU3rg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129991_english_hls_9709ta-di_h264/index.m3u8"
     },
     {
       "id": 130482,
@@ -346,6 +346,18 @@
       "startTime": "07:00:00 AM 12-07-2025"
     },
     {
+      "id": 129717,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (MCA T20 Tri-Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "MCA T20 Tri-Series, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:30:00 AM 12-07-2025"
+    },
+    {
       "id": 130304,
       "event_category": "Baseball",
       "title": "San Diego Padres vs Arizona Diamondbacks (Major League Baseball, 2025)",
@@ -370,18 +382,6 @@
       "startTime": "12:30:00 PM 11-07-2025"
     },
     {
-      "id": 129717,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (MCA T20 Tri-Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "MCA T20 Tri-Series, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:30:00 AM 12-07-2025"
-    },
-    {
       "id": 130243,
       "event_category": "Golf",
       "title": "Day 1 vs Real Club Valderrama, Spain (LIV Golf Andalucia 2025)",
@@ -404,6 +404,18 @@
       "event_name": "Genesis Scottish Open",
       "match_name": "Day 2",
       "startTime": "05:30:00 PM 11-07-2025"
+    },
+    {
+      "id": 130412,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs Navarang Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "Gauhati Town Club",
+      "team_2": "Navarang Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "Gauhati Town Club vs Navarang Club",
+      "startTime": "09:30:00 AM 12-07-2025"
     }
   ]
 }
