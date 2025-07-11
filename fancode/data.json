@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 PM 11-07-2025",
+  "last update time": "12:08 AM 12-07-2025",
   "matches": [
-    {
-      "id": 130482,
-      "event_category": "Cricket",
-      "title": "Dubai Capitals vs Hobart Hurricanes (Global Super League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130482_5402_HUR_DC_fc-Web_1752057007028.jpg",
-      "team_1": "Dubai Capitals",
-      "team_2": "Hobart Hurricanes",
-      "status": "LIVE",
-      "event_name": "Global Super League, 2025",
-      "match_name": "Dubai Capitals vs Hobart Hurricanes",
-      "startTime": "07:30:00 PM 11-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/AfSkGW4ER2eO633f_9C5Iw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130482_english_hls_39564ta-di_h264/index.m3u8"
-    },
     {
       "id": 125983,
       "event_category": "Cricket",
@@ -60,34 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125870_english_hls_92521ta-di_h264/index.m3u8"
     },
     {
-      "id": 129992,
-      "event_category": "Cricket",
-      "title": "Fakhr-E-Kashmir vs ACE KRM Panthers (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129992_5379_FEK_KRM_fc-web.jpg",
-      "team_1": "Fakhr-E-Kashmir",
-      "team_2": "ACE KRM Panthers",
-      "status": "LIVE",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "Fakhr-E-Kashmir vs ACE KRM Panthers",
-      "startTime": "08:30:00 PM 11-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/QJyj7GUgQc2Wi6Anx2axWA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129992_english_hls_88686ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130154,
-      "event_category": "Golf",
-      "title": "Day 2 vs North Berwick, Scotland (Genesis Scottish Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Scottish-open-old.jpg",
-      "team_1": "Day 2",
-      "team_2": "North Berwick, Scotland",
-      "status": "LIVE",
-      "event_name": "Genesis Scottish Open",
-      "match_name": "Day 2",
-      "startTime": "05:30:00 PM 11-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/lYSEo58bSyOh91shISTWwg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130154_english_hls_72116ta-di_h264/index.m3u8"
-    },
-    {
       "id": 125989,
       "event_category": "Cricket",
       "title": "Yorkshire vs Lancashire (Vitality Blast T20, 2025)",
@@ -100,6 +58,20 @@
       "startTime": "11:30:00 PM 11-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
       "adfree_url": null
+    },
+    {
+      "id": 129992,
+      "event_category": "Cricket",
+      "title": "Fakhr-E-Kashmir vs ACE KRM Panthers (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129992_5379_FEK_KRM_fc-web.jpg",
+      "team_1": "Fakhr-E-Kashmir",
+      "team_2": "ACE KRM Panthers",
+      "status": "LIVE",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "Fakhr-E-Kashmir vs ACE KRM Panthers",
+      "startTime": "08:30:00 PM 11-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/QJyj7GUgQc2Wi6Anx2axWA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129992_english_hls_88686ta-di_h264/index.m3u8"
     },
     {
       "id": 130483,
@@ -126,18 +98,6 @@
       "startTime": "12:30:00 AM 12-07-2025"
     },
     {
-      "id": 130262,
-      "event_category": "Cricket",
-      "title": "South Korea vs Indonesia (Bali Bash International Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130262_5392_SK_INA_fc-Web.jpg",
-      "team_1": "South Korea",
-      "team_2": "Indonesia",
-      "status": "UPCOMING",
-      "event_name": "Bali Bash International Tri Series, 2025",
-      "match_name": "South Korea vs Indonesia",
-      "startTime": "07:00:00 AM 12-07-2025"
-    },
-    {
       "id": 123363,
       "event_category": "Football",
       "title": "Portugal Women vs Belgium Women (UEFA Women's EURO 2025)",
@@ -160,6 +120,18 @@
       "event_name": "UEFA Women's EURO 2025",
       "match_name": "Italy Women vs Spain Women",
       "startTime": "12:30:00 AM 12-07-2025"
+    },
+    {
+      "id": 130262,
+      "event_category": "Cricket",
+      "title": "South Korea vs Indonesia (Bali Bash International Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130262_5392_SK_INA_fc-Web.jpg",
+      "team_1": "South Korea",
+      "team_2": "Indonesia",
+      "status": "UPCOMING",
+      "event_name": "Bali Bash International Tri Series, 2025",
+      "match_name": "South Korea vs Indonesia",
+      "startTime": "07:00:00 AM 12-07-2025"
     },
     {
       "id": 129717,
@@ -282,18 +254,6 @@
       "startTime": "02:45:00 PM 12-07-2025"
     },
     {
-      "id": 130582,
-      "event_category": "Cricket",
-      "title": "French Eiffels-W vs Luxembourg Mullerthals-W (ECS-W Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
-      "team_1": "French Eiffels-W",
-      "team_2": "Luxembourg Mullerthals-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Belgium, 2025",
-      "match_name": "French Eiffels-W vs Luxembourg Mullerthals-W",
-      "startTime": "04:15:00 PM 12-07-2025"
-    },
-    {
       "id": 128744,
       "event_category": "Cricket",
       "title": "England Women vs India Women (India Women tour of England, 2025)",
@@ -304,6 +264,18 @@
       "event_name": "India Women tour of England, 2025",
       "match_name": "England Women vs India Women",
       "startTime": "11:05:00 PM 12-07-2025"
+    },
+    {
+      "id": 130582,
+      "event_category": "Cricket",
+      "title": "French Eiffels-W vs Luxembourg Mullerthals-W (ECS-W Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
+      "team_1": "French Eiffels-W",
+      "team_2": "Luxembourg Mullerthals-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Belgium, 2025",
+      "match_name": "French Eiffels-W vs Luxembourg Mullerthals-W",
+      "startTime": "04:15:00 PM 12-07-2025"
     },
     {
       "id": 130553,
@@ -342,6 +314,18 @@
       "startTime": "05:15:00 PM 12-07-2025"
     },
     {
+      "id": 127552,
+      "event_category": "Cricket",
+      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "West Indies vs Australia",
+      "startTime": "12:00:00 AM 13-07-2025"
+    },
+    {
       "id": 130111,
       "event_category": "Cricket",
       "title": "Mahe Megalo Strikers vs Villianur Mohit Kings (Pondicherry Premier League, 2025)",
@@ -364,18 +348,6 @@
       "event_name": "ECS-W Belgium, 2025",
       "match_name": "Belgium Jeanekens-W vs Luxembourg Mullerthals-W",
       "startTime": "06:15:00 PM 12-07-2025"
-    },
-    {
-      "id": 127552,
-      "event_category": "Cricket",
-      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "West Indies vs Australia",
-      "startTime": "12:00:00 AM 13-07-2025"
     },
     {
       "id": 130710,
@@ -460,6 +432,18 @@
       "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY",
       "match_name": "Day 2",
       "startTime": "12:10:00 PM 12-07-2025"
+    },
+    {
+      "id": 130244,
+      "event_category": "Golf",
+      "title": "Day 2 vs Real Club Valderrama, Spain (LIV Golf Andalucia 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Andalucia-old.jpg",
+      "team_1": "Day 2",
+      "team_2": "Real Club Valderrama, Spain",
+      "status": "UPCOMING",
+      "event_name": "LIV Golf Andalucia 2025",
+      "match_name": "Day 2",
+      "startTime": "04:35:00 PM 12-07-2025"
     }
   ]
 }
