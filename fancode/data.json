@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:28 PM 11-07-2025",
+  "last update time": "02:06 PM 11-07-2025",
   "matches": [
     {
       "id": 118604,
@@ -16,20 +16,6 @@
       "startTime": "12:30:00 PM 11-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/BubFv4YVTMezlZZdaSneOA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/118604_english_hls_37127ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130525,
-      "event_category": "Cricket",
-      "title": "Assam Women vs Malaysia Women (Assam Women tour of Malaysia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-Women's-Tour-of-Malaysia-old-match-card.png",
-      "team_1": "Assam Women",
-      "team_2": "Malaysia Women",
-      "status": "LIVE",
-      "event_name": "Assam Women tour of Malaysia, 2025",
-      "match_name": "Assam Women vs Malaysia Women",
-      "startTime": "07:30:00 AM 11-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/2k0fdbPvThqKtD9mqAW8NQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130525_english_hls_25052ta-di_h264/index.m3u8"
     },
     {
       "id": 130350,
@@ -72,6 +58,20 @@
       "startTime": "01:30:00 PM 11-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/yVoI03LPTXSKJqKm-6NDXw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130411_english_hls_28368ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130108,
+      "event_category": "Cricket",
+      "title": "Ossudu Accord Warriors vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ossudu Accord Warriors",
+      "team_2": "Genid Yanam Royals",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ossudu Accord Warriors vs Genid Yanam Royals",
+      "startTime": "02:00:00 PM 11-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LEoM8cNGQU-GAM5itts_yA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130108_english_hls_17301ta-di_h264/index.m3u8"
     },
     {
       "id": 130482,
@@ -146,39 +146,29 @@
       "startTime": "04:30:00 AM 12-07-2025"
     },
     {
-      "id": 130108,
-      "event_category": "Cricket",
-      "title": "Ossudu Accord Warriors vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ossudu Accord Warriors",
-      "team_2": "Genid Yanam Royals",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ossudu Accord Warriors vs Genid Yanam Royals",
-      "startTime": "02:00:00 PM 11-07-2025"
-    },
-    {
       "id": 130351,
       "event_category": "Cricket",
       "title": "Hasselt Titans vs Brussels Bashers (ECS Belgium, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
       "team_1": "Hasselt Titans",
       "team_2": "Brussels Bashers",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ECS Belgium, 2025",
       "match_name": "Hasselt Titans vs Brussels Bashers",
-      "startTime": "02:15:00 PM 11-07-2025"
+      "startTime": "02:15:00 PM 11-07-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 129856,
       "event_category": "Cricket",
-      "title": "Jersey vs Scotland (ICC Men’s T20 World Cup Europe Regional Final 2025)",
+      "title": "Scotland vs Jersey (ICC Men’s T20 World Cup Europe Regional Final 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/129856_5372_SCO_JER_fc-Web.jpg",
-      "team_1": "Jersey",
-      "team_2": "Scotland",
+      "team_1": "Scotland",
+      "team_2": "Jersey",
       "status": "UPCOMING",
       "event_name": "ICC Men’s T20 World Cup Europe Regional Final 2025",
-      "match_name": "Jersey vs Scotland",
+      "match_name": "Scotland vs Jersey",
       "startTime": "02:30:00 PM 11-07-2025"
     },
     {
@@ -422,6 +412,30 @@
       "startTime": "02:45:00 PM 12-07-2025"
     },
     {
+      "id": 130582,
+      "event_category": "Cricket",
+      "title": "French Eiffels-W vs Luxembourg Mullerthals-W (ECS-W Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "French Eiffels-W",
+      "team_2": "Luxembourg Mullerthals-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Belgium, 2025",
+      "match_name": "French Eiffels-W vs Luxembourg Mullerthals-W",
+      "startTime": "04:15:00 PM 12-07-2025"
+    },
+    {
+      "id": 130553,
+      "event_category": "Cricket",
+      "title": "Turkiye vs Gibraltar (ECN Bulgaria T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Bulgaria-T20I-old.png",
+      "team_1": "Turkiye",
+      "team_2": "Gibraltar",
+      "status": "UPCOMING",
+      "event_name": "ECN Bulgaria T20I, 2025",
+      "match_name": "Turkiye vs Gibraltar",
+      "startTime": "04:30:00 PM 12-07-2025"
+    },
+    {
       "id": 130243,
       "event_category": "Golf",
       "title": "Day 1 vs Real Club Valderrama, Spain (LIV Golf Andalucia 2025)",
@@ -446,28 +460,16 @@
       "startTime": "05:30:00 PM 11-07-2025"
     },
     {
-      "id": 130582,
+      "id": 130709,
       "event_category": "Cricket",
-      "title": "French Eiffels-W vs Luxembourg Mullerthals-W (ECS-W Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "French Eiffels-W",
-      "team_2": "Luxembourg Mullerthals-W",
+      "title": "Germany vs Belgium (ECI Germany-Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Germany-Belgium,-2025_match-card.jpg",
+      "team_1": "Germany",
+      "team_2": "Belgium",
       "status": "UPCOMING",
-      "event_name": "ECS-W Belgium, 2025",
-      "match_name": "French Eiffels-W vs Luxembourg Mullerthals-W",
-      "startTime": "04:15:00 PM 12-07-2025"
-    },
-    {
-      "id": 130553,
-      "event_category": "Cricket",
-      "title": "Turkiye vs Gibraltar (ECN Bulgaria T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Bulgaria-T20I-old.png",
-      "team_1": "Turkiye",
-      "team_2": "Gibraltar",
-      "status": "UPCOMING",
-      "event_name": "ECN Bulgaria T20I, 2025",
-      "match_name": "Turkiye vs Gibraltar",
-      "startTime": "04:30:00 PM 12-07-2025"
+      "event_name": "ECI Germany-Belgium, 2025",
+      "match_name": "Germany vs Belgium",
+      "startTime": "04:45:00 PM 12-07-2025"
     }
   ]
 }
