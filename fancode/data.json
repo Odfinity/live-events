@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:41 AM 12-07-2025",
+  "last update time": "11:09 AM 12-07-2025",
   "matches": [
-    {
-      "id": 130262,
-      "event_category": "Cricket",
-      "title": "Indonesia vs South Korea (Bali Bash International Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130262_5392_SK_INA_fc-Web.jpg",
-      "team_1": "Indonesia",
-      "team_2": "South Korea",
-      "status": "LIVE",
-      "event_name": "Bali Bash International Tri Series, 2025",
-      "match_name": "Indonesia vs South Korea",
-      "startTime": "07:00:00 AM 12-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZtlxtDFKR06pUOWhf89c-Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130262_english_hls_33596ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 129717,
-      "event_category": "Cricket",
-      "title": "Malaysia Blues vs Malaysia Reds (MCA T20 Tri-Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01.jpg",
-      "team_1": "Malaysia Blues",
-      "team_2": "Malaysia Reds",
-      "status": "LIVE",
-      "event_name": "MCA T20 Tri-Series, 2025",
-      "match_name": "Malaysia Blues vs Malaysia Reds",
-      "startTime": "07:30:00 AM 12-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/MyEHCiiYTLOhvhPnm22zZQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129717_english_hls_53089ta-di_h264/index.m3u8"
-    },
     {
       "id": 130412,
       "event_category": "Cricket",
@@ -46,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130412_english_hls_19631ta-di_h264/index.m3u8"
     },
     {
-      "id": 130305,
-      "event_category": "Baseball",
-      "title": "San Francisco Giants vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130305_CASACARDS_APP.png",
-      "team_1": "San Francisco Giants",
-      "team_2": "Los Angeles Dodgers",
+      "id": 129717,
+      "event_category": "Cricket",
+      "title": "Malaysia Blues vs Malaysia Reds (MCA T20 Tri-Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01.jpg",
+      "team_1": "Malaysia Blues",
+      "team_2": "Malaysia Reds",
       "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Francisco Giants vs Los Angeles Dodgers",
-      "startTime": "07:45:00 AM 12-07-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130305_english_hls_39471ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130305_english_hls_39471ta-di_h264/index.m3u8"
+      "event_name": "MCA T20 Tri-Series, 2025",
+      "match_name": "Malaysia Blues vs Malaysia Reds",
+      "startTime": "07:30:00 AM 12-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/MyEHCiiYTLOhvhPnm22zZQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129717_english_hls_53089ta-di_h264/index.m3u8"
     },
     {
       "id": 128744,
@@ -312,18 +284,6 @@
       "startTime": "07:00:00 AM 13-07-2025"
     },
     {
-      "id": 130244,
-      "event_category": "Golf",
-      "title": "Day 2 vs Real Club Valderrama, Spain (LIV Golf Andalucia 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Andalucia-old.jpg",
-      "team_1": "Day 2",
-      "team_2": "Real Club Valderrama, Spain",
-      "status": "UPCOMING",
-      "event_name": "LIV Golf Andalucia 2025",
-      "match_name": "Day 2",
-      "startTime": "11:30:00 AM 12-07-2025"
-    },
-    {
       "id": 130526,
       "event_category": "Cricket",
       "title": "Malaysia Women vs Assam Women (Assam Women tour of Malaysia, 2025)",
@@ -334,6 +294,18 @@
       "event_name": "Assam Women tour of Malaysia, 2025",
       "match_name": "Malaysia Women vs Assam Women",
       "startTime": "07:30:00 AM 13-07-2025"
+    },
+    {
+      "id": 130244,
+      "event_category": "Golf",
+      "title": "Day 2 vs Real Club Valderrama, Spain (LIV Golf Andalucia 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Andalucia-old.jpg",
+      "team_1": "Day 2",
+      "team_2": "Real Club Valderrama, Spain",
+      "status": "UPCOMING",
+      "event_name": "LIV Golf Andalucia 2025",
+      "match_name": "Day 2",
+      "startTime": "11:30:00 AM 12-07-2025"
     },
     {
       "id": 130414,
@@ -408,6 +380,18 @@
       "startTime": "01:00:00 PM 13-07-2025"
     },
     {
+      "id": 130415,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "Gauhati Town Club",
+      "team_2": "Nabajyoti Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "Gauhati Town Club vs Nabajyoti Club",
+      "startTime": "01:30:00 PM 13-07-2025"
+    },
+    {
       "id": 118607,
       "event_category": "MotoGP",
       "title": "Day 2 vs Sachsenring (LIQUI MOLY GRAND PRIX OF GERMANY)",
@@ -432,16 +416,16 @@
       "startTime": "07:00:00 PM 12-07-2025"
     },
     {
-      "id": 130415,
+      "id": 130112,
       "event_category": "Cricket",
-      "title": "Gauhati Town Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "Gauhati Town Club",
-      "team_2": "Nabajyoti Club",
+      "title": "Karaikal Kniights vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Karaikal Kniights",
+      "team_2": "Genid Yanam Royals",
       "status": "UPCOMING",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "Gauhati Town Club vs Nabajyoti Club",
-      "startTime": "01:30:00 PM 13-07-2025"
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Karaikal Kniights vs Genid Yanam Royals",
+      "startTime": "02:00:00 PM 13-07-2025"
     },
     {
       "id": 130546,
@@ -466,6 +450,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "New York Yankees vs Chicago Cubs",
       "startTime": "10:35:00 PM 12-07-2025"
+    },
+    {
+      "id": 130585,
+      "event_category": "Cricket",
+      "title": "Belgium Belforts-W vs Luxembourg Mullerthals-W (ECS-W Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
+      "team_1": "Belgium Belforts-W",
+      "team_2": "Luxembourg Mullerthals-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Belgium, 2025",
+      "match_name": "Belgium Belforts-W vs Luxembourg Mullerthals-W",
+      "startTime": "02:15:00 PM 13-07-2025"
     }
   ]
 }
