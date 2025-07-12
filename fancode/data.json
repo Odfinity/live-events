@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:26 PM 12-07-2025",
+  "last update time": "02:02 PM 12-07-2025",
   "matches": [
     {
       "id": 130263,
@@ -74,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130413_english_hls_2435ta-di_h264/index.m3u8"
     },
     {
+      "id": 130110,
+      "event_category": "Cricket",
+      "title": "Ruby White Town Legends vs Karaikal Kniights (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ruby White Town Legends",
+      "team_2": "Karaikal Kniights",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ruby White Town Legends vs Karaikal Kniights",
+      "startTime": "02:00:00 PM 12-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/W7S7BmOcR-S8-Y8J85I8Cw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130110_english_hls_44859ta-di_h264/index.m3u8"
+    },
+    {
       "id": 130244,
       "event_category": "Golf",
       "title": "Day 2 vs Real Club Valderrama, Spain (LIV Golf Andalucia 2025)",
@@ -126,27 +140,15 @@
       "startTime": "12:00:00 AM 13-07-2025"
     },
     {
-      "id": 130110,
-      "event_category": "Cricket",
-      "title": "Ruby White Town Legends vs Karaikal Kniights (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ruby White Town Legends",
-      "team_2": "Karaikal Kniights",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ruby White Town Legends vs Karaikal Kniights",
-      "startTime": "02:00:00 PM 12-07-2025"
-    },
-    {
       "id": 130581,
       "event_category": "Cricket",
-      "title": "Belgium Belforts-W vs Belgium Jeanekens-W (ECS-W Belgium, 2025)",
+      "title": "Belgium Jeanekens-W vs Belgium Belforts-W (ECS-W Belgium, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
-      "team_1": "Belgium Belforts-W",
-      "team_2": "Belgium Jeanekens-W",
+      "team_1": "Belgium Jeanekens-W",
+      "team_2": "Belgium Belforts-W",
       "status": "UPCOMING",
       "event_name": "ECS-W Belgium, 2025",
-      "match_name": "Belgium Belforts-W vs Belgium Jeanekens-W",
+      "match_name": "Belgium Jeanekens-W vs Belgium Belforts-W",
       "startTime": "02:15:00 PM 12-07-2025"
     },
     {
