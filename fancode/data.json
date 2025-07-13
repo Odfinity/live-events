@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:22 PM 13-07-2025",
+  "last update time": "07:02 PM 13-07-2025",
   "matches": [
+    {
+      "id": 125990,
+      "event_category": "Cricket",
+      "title": "Leicestershire vs Worcestershire (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/125990_5207_WOR_LEI_fc-Web.jpg",
+      "team_1": "Leicestershire",
+      "team_2": "Worcestershire",
+      "status": "LIVE",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Leicestershire vs Worcestershire",
+      "startTime": "07:00:00 PM 13-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/qUO4xEyPSbGluxESHlkkCw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125990_english_hls_27116ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128432,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-T20Is-old-match-card.png",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "LIVE",
+      "event_name": "Bangladesh tour of Sri Lanka, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "07:00:00 PM 13-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1752456175~acl=/*~id=52005872203785699907778144511849~hmac=7e39c53318ed202d57adb7e2a95c4000ed84cf7b2f9706b4aea25347e839d441"
+    },
     {
       "id": 130713,
       "event_category": "Cricket",
@@ -32,20 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130198_english_hls_22281ta-di_h264/index.m3u8"
     },
     {
-      "id": 130586,
-      "event_category": "Cricket",
-      "title": "Belgium Belforts-W vs Luxembourg Mullerthals-W (ECS-W Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
-      "team_1": "Belgium Belforts-W",
-      "team_2": "Luxembourg Mullerthals-W",
-      "status": "LIVE",
-      "event_name": "ECS-W Belgium, 2025",
-      "match_name": "Belgium Belforts-W vs Luxembourg Mullerthals-W",
-      "startTime": "05:15:00 PM 13-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/sRv7om_BQeCqiqS6jKjUNA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130586_english_hls_92895ta-di_h264/index.m3u8"
-    },
-    {
       "id": 130113,
       "event_category": "Cricket",
       "title": "Villianur Mohit Kings vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
@@ -58,6 +72,20 @@
       "startTime": "06:00:00 PM 13-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/iVw6OkRcQfeMxEN3GmoBkQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130113_english_hls_35060ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130714,
+      "event_category": "Cricket",
+      "title": "Belgium vs Germany (ECI Germany-Belgium, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Germany-Belgium,-2025_match-card.jpg",
+      "team_1": "Belgium",
+      "team_2": "Germany",
+      "status": "LIVE",
+      "event_name": "ECI Germany-Belgium, 2025",
+      "match_name": "Belgium vs Germany",
+      "startTime": "06:45:00 PM 13-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9w4JkKzTRx6_DjaosHUNBA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130714_english_hls_22513ta-di_h264/index.m3u8"
     },
     {
       "id": 118608,
@@ -88,40 +116,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130245_english_hls_43921ta-di_h264/index.m3u8"
     },
     {
-      "id": 125990,
-      "event_category": "Cricket",
-      "title": "Worcestershire vs Leicestershire (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/125990_5207_WOR_LEI_fc-Web.jpg",
-      "team_1": "Worcestershire",
-      "team_2": "Leicestershire",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Worcestershire vs Leicestershire",
-      "startTime": "07:00:00 PM 13-07-2025"
-    },
-    {
-      "id": 128432,
-      "event_category": "Cricket",
-      "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-T20Is-old-match-card.png",
-      "team_1": "Sri Lanka",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh tour of Sri Lanka, 2025",
-      "match_name": "Sri Lanka vs Bangladesh",
-      "startTime": "07:00:00 PM 13-07-2025"
-    },
-    {
-      "id": 127552,
-      "event_category": "Cricket",
-      "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-      "team_1": "Australia",
-      "team_2": "West Indies",
-      "status": "PAUSED",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "Australia vs West Indies",
-      "startTime": "12:00:00 AM 13-07-2025"
+      "id": 130156,
+      "event_category": "Golf",
+      "title": "Day 4 vs North Berwick, Scotland (Genesis Scottish Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Scottish-open-old.jpg",
+      "team_1": "Day 4",
+      "team_2": "North Berwick, Scotland",
+      "status": "LIVE",
+      "event_name": "Genesis Scottish Open",
+      "match_name": "Day 4",
+      "startTime": "07:00:00 PM 13-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/yJ5SvwsVQWONfsP0ncEGQg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130156_english_hls_66573ta-di_h264/index.m3u8"
     },
     {
       "id": 125992,
@@ -148,6 +154,18 @@
       "startTime": "07:30:00 PM 13-07-2025"
     },
     {
+      "id": 127552,
+      "event_category": "Cricket",
+      "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+      "team_1": "Australia",
+      "team_2": "West Indies",
+      "status": "PAUSED",
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "Australia vs West Indies",
+      "startTime": "12:00:00 AM 13-07-2025"
+    },
+    {
       "id": 130485,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs Guyana Amazon Warriors (Global Super League, 2025)",
@@ -160,16 +178,16 @@
       "startTime": "04:30:00 AM 14-07-2025"
     },
     {
-      "id": 130714,
-      "event_category": "Cricket",
-      "title": "Germany vs Belgium (ECI Germany-Belgium, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Germany-Belgium,-2025_match-card.jpg",
-      "team_1": "Germany",
-      "team_2": "Belgium",
+      "id": 131243,
+      "event_category": "Football",
+      "title": "Preston North End vs Liverpool (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pre-season-friendly_old.jpg",
+      "team_1": "Preston North End",
+      "team_2": "Liverpool",
       "status": "UPCOMING",
-      "event_name": "ECI Germany-Belgium, 2025",
-      "match_name": "Germany vs Belgium",
-      "startTime": "06:45:00 PM 13-07-2025"
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Preston North End vs Liverpool",
+      "startTime": "07:30:00 PM 13-07-2025"
     },
     {
       "id": 130587,
@@ -196,16 +214,16 @@
       "startTime": "11:00:00 PM 13-07-2025"
     },
     {
-      "id": 131243,
-      "event_category": "Football",
-      "title": "Preston North End vs Liverpool (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pre-season-friendly_old.jpg",
-      "team_1": "Preston North End",
-      "team_2": "Liverpool",
+      "id": 128753,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128753_5315_ZIM_SA_fc-web.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "South Africa",
       "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Preston North End vs Liverpool",
-      "startTime": "07:30:00 PM 13-07-2025"
+      "event_name": "Zimbabwe T20I Tri Series, 2025",
+      "match_name": "Zimbabwe vs South Africa",
+      "startTime": "04:30:00 PM 14-07-2025"
     },
     {
       "id": 123367,
@@ -230,18 +248,6 @@
       "event_name": "UEFA Women's EURO 2025",
       "match_name": "Netherlands Women vs France Women",
       "startTime": "12:30:00 AM 14-07-2025"
-    },
-    {
-      "id": 128753,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128753_5315_ZIM_SA_fc-web.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "South Africa",
-      "status": "UPCOMING",
-      "event_name": "Zimbabwe T20I Tri Series, 2025",
-      "match_name": "Zimbabwe vs South Africa",
-      "startTime": "04:30:00 PM 14-07-2025"
     },
     {
       "id": 130416,
@@ -290,18 +296,6 @@
       "event_name": "ECS Germany, Krefeld, 2025",
       "match_name": "VFB Gelsenkirchen vs SC Krefeld Spartans",
       "startTime": "02:30:00 PM 14-07-2025"
-    },
-    {
-      "id": 130156,
-      "event_category": "Golf",
-      "title": "Day 4 vs North Berwick, Scotland (Genesis Scottish Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Scottish-open-old.jpg",
-      "team_1": "Day 4",
-      "team_2": "North Berwick, Scotland",
-      "status": "UPCOMING",
-      "event_name": "Genesis Scottish Open",
-      "match_name": "Day 4",
-      "startTime": "07:00:00 PM 13-07-2025"
     },
     {
       "id": 130590,
@@ -376,18 +370,6 @@
       "startTime": "01:35:00 AM 14-07-2025"
     },
     {
-      "id": 131248,
-      "event_category": "Live events",
-      "title": "Andhra Premier League Season 4 Auction vs Radisson, Visakhapatnam (Andhra Premier League Season 4 Auction)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Andhra-Premier-League-Season-4_old.jpg",
-      "team_1": "Andhra Premier League Season 4 Auction",
-      "team_2": "Radisson, Visakhapatnam",
-      "status": "UPCOMING",
-      "event_name": "Andhra Premier League Season 4 Auction",
-      "match_name": "Andhra Premier League Season 4 Auction",
-      "startTime": "11:00:00 AM 14-07-2025"
-    },
-    {
       "id": 129996,
       "event_category": "Cricket",
       "title": "Gujrat CC vs Royal Lions CC (KCC T20 Summer League, 2025)",
@@ -398,6 +380,18 @@
       "event_name": "KCC T20 Summer League, 2025",
       "match_name": "Gujrat CC vs Royal Lions CC",
       "startTime": "10:30:00 PM 14-07-2025"
+    },
+    {
+      "id": 131248,
+      "event_category": "Live events",
+      "title": "Andhra Premier League Season 4 Auction vs Radisson, Visakhapatnam (Andhra Premier League Season 4 Auction)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Andhra-Premier-League-Season-4_old.jpg",
+      "team_1": "Andhra Premier League Season 4 Auction",
+      "team_2": "Radisson, Visakhapatnam",
+      "status": "UPCOMING",
+      "event_name": "Andhra Premier League Season 4 Auction",
+      "match_name": "Andhra Premier League Season 4 Auction",
+      "startTime": "11:00:00 AM 14-07-2025"
     },
     {
       "id": 130527,
@@ -446,6 +440,18 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "Gauhati Town Club vs Bud Cricket Club",
       "startTime": "01:30:00 PM 15-07-2025"
+    },
+    {
+      "id": 131246,
+      "event_category": "Live events",
+      "title": "Maharaja Trophy KSCA T20 Auction vs Karnataka (Maharaja Trophy KSCA T20 Auction)",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+      "team_1": "Maharaja Trophy KSCA T20 Auction",
+      "team_2": "Karnataka",
+      "status": "UPCOMING",
+      "event_name": "Maharaja Trophy KSCA T20 Auction",
+      "match_name": "Maharaja Trophy KSCA T20 Auction",
+      "startTime": "09:00:00 AM 15-07-2025"
     }
   ]
 }
