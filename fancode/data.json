@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:21 PM 13-07-2025",
+  "last update time": "12:01 AM 14-07-2025",
   "matches": [
+    {
+      "id": 127552,
+      "event_category": "Cricket",
+      "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+      "team_1": "Australia",
+      "team_2": "West Indies",
+      "status": "LIVE",
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "Australia vs West Indies",
+      "startTime": "12:00:00 AM 13-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/H1WoIkUGRouSNRuXHkoqzA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/127552_english_hls_67459ta-di_h264/index.m3u8"
+    },
     {
       "id": 129995,
       "event_category": "Cricket",
@@ -16,20 +30,6 @@
       "startTime": "11:00:00 PM 13-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/sczXFwDbTY-BU5RfFdRD1w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129995_english_hls_1821ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130156,
-      "event_category": "Golf",
-      "title": "Day 4 vs North Berwick, Scotland (Genesis Scottish Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Scottish-open-old.jpg",
-      "team_1": "Day 4",
-      "team_2": "North Berwick, Scotland",
-      "status": "LIVE",
-      "event_name": "Genesis Scottish Open",
-      "match_name": "Day 4",
-      "startTime": "07:00:00 PM 13-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yJ5SvwsVQWONfsP0ncEGQg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130156_english_hls_66573ta-di_h264/index.m3u8"
     },
     {
       "id": 130547,
@@ -60,18 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130309_english_hls_76726ta-di_h264/index.m3u8"
     },
     {
-      "id": 127552,
-      "event_category": "Cricket",
-      "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-      "team_1": "Australia",
-      "team_2": "West Indies",
-      "status": "PAUSED",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "Australia vs West Indies",
-      "startTime": "12:00:00 AM 13-07-2025"
-    },
-    {
       "id": 130485,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs Guyana Amazon Warriors (Global Super League, 2025)",
@@ -82,18 +70,6 @@
       "event_name": "Global Super League, 2025",
       "match_name": "Dubai Capitals vs Guyana Amazon Warriors",
       "startTime": "04:30:00 AM 14-07-2025"
-    },
-    {
-      "id": 128753,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128753_5315_ZIM_SA_fc-web.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "South Africa",
-      "status": "UPCOMING",
-      "event_name": "Zimbabwe T20I Tri Series, 2025",
-      "match_name": "Zimbabwe vs South Africa",
-      "startTime": "04:30:00 PM 14-07-2025"
     },
     {
       "id": 123367,
@@ -118,6 +94,18 @@
       "event_name": "UEFA Women's EURO 2025",
       "match_name": "Netherlands Women vs France Women",
       "startTime": "12:30:00 AM 14-07-2025"
+    },
+    {
+      "id": 128753,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128753_5315_ZIM_SA_fc-web.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "South Africa",
+      "status": "UPCOMING",
+      "event_name": "Zimbabwe T20I Tri Series, 2025",
+      "match_name": "Zimbabwe vs South Africa",
+      "startTime": "04:30:00 PM 14-07-2025"
     },
     {
       "id": 130416,
@@ -406,6 +394,18 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "Gauhati Town Club vs 91 Yards Club",
       "startTime": "09:30:00 AM 16-07-2025"
+    },
+    {
+      "id": 130598,
+      "event_category": "Cricket",
+      "title": "SC Krefeld Boosters vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130598_CASACARDS_APP.png",
+      "team_1": "SC Krefeld Boosters",
+      "team_2": "Dusseldorf Blackcaps",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "SC Krefeld Boosters vs Dusseldorf Blackcaps",
+      "startTime": "12:30:00 PM 16-07-2025"
     }
   ]
 }
