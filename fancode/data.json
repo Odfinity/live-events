@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:12 PM 13-07-2025",
+  "last update time": "01:27 PM 13-07-2025",
   "matches": [
     {
       "id": 130265,
@@ -72,6 +72,20 @@
       "startTime": "01:00:00 PM 13-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/xB8kkaZJS_i9zZEU5mEGeQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130197_english_hls_53778ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130415,
+      "event_category": "Cricket",
+      "title": "Nabajyoti Club vs Gauhati Town Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "Nabajyoti Club",
+      "team_2": "Gauhati Town Club",
+      "status": "LIVE",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "Nabajyoti Club vs Gauhati Town Club",
+      "startTime": "01:30:00 PM 13-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Q9nTuHwRQgiysDw3MDKveg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130415_english_hls_11603ta-di_h264/index.m3u8"
     },
     {
       "id": 118608,
@@ -158,18 +172,6 @@
       "event_name": "Global Super League, 2025",
       "match_name": "Dubai Capitals vs Guyana Amazon Warriors",
       "startTime": "04:30:00 AM 14-07-2025"
-    },
-    {
-      "id": 130415,
-      "event_category": "Cricket",
-      "title": "Nabajyoti Club vs Gauhati Town Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "Nabajyoti Club",
-      "team_2": "Gauhati Town Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "Nabajyoti Club vs Gauhati Town Club",
-      "startTime": "01:30:00 PM 13-07-2025"
     },
     {
       "id": 130112,
@@ -304,18 +306,6 @@
       "startTime": "08:15:00 PM 13-07-2025"
     },
     {
-      "id": 131243,
-      "event_category": "Football",
-      "title": "Preston North End vs Liverpool (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pre-season-friendly_old.jpg",
-      "team_1": "Preston North End",
-      "team_2": "Liverpool",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Preston North End vs Liverpool",
-      "startTime": "07:30:00 PM 13-07-2025"
-    },
-    {
       "id": 129995,
       "event_category": "Cricket",
       "title": "Chennai Kings CA vs Stack CC (KCC T20 Summer League, 2025)",
@@ -326,6 +316,18 @@
       "event_name": "KCC T20 Summer League, 2025",
       "match_name": "Chennai Kings CA vs Stack CC",
       "startTime": "11:00:00 PM 13-07-2025"
+    },
+    {
+      "id": 131243,
+      "event_category": "Football",
+      "title": "Preston North End vs Liverpool (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pre-season-friendly_old.jpg",
+      "team_1": "Preston North End",
+      "team_2": "Liverpool",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Preston North End vs Liverpool",
+      "startTime": "07:30:00 PM 13-07-2025"
     },
     {
       "id": 123367,
@@ -458,6 +460,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Detroit Tigers vs Seattle Mariners",
       "startTime": "11:10:00 PM 13-07-2025"
+    },
+    {
+      "id": 130310,
+      "event_category": "Baseball",
+      "title": "San Francisco Giants vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/130310_CASACARDS_APP.png",
+      "team_1": "San Francisco Giants",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Francisco Giants vs Los Angeles Dodgers",
+      "startTime": "01:35:00 AM 14-07-2025"
     }
   ]
 }
