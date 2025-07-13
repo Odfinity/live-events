@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 13-07-2025",
+  "last update time": "02:02 PM 13-07-2025",
   "matches": [
     {
       "id": 130265,
@@ -86,6 +86,20 @@
       "startTime": "01:30:00 PM 13-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Q9nTuHwRQgiysDw3MDKveg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130415_english_hls_11603ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130112,
+      "event_category": "Cricket",
+      "title": "Genid Yanam Royals vs Karaikal Kniights (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Genid Yanam Royals",
+      "team_2": "Karaikal Kniights",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Genid Yanam Royals vs Karaikal Kniights",
+      "startTime": "02:00:00 PM 13-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/xVgNRNhPRs2clFm2ESX2cw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130112_english_hls_66676ta-di_h264/index.m3u8"
     },
     {
       "id": 118608,
@@ -174,39 +188,29 @@
       "startTime": "04:30:00 AM 14-07-2025"
     },
     {
-      "id": 130112,
-      "event_category": "Cricket",
-      "title": "Karaikal Kniights vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Karaikal Kniights",
-      "team_2": "Genid Yanam Royals",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Karaikal Kniights vs Genid Yanam Royals",
-      "startTime": "02:00:00 PM 13-07-2025"
-    },
-    {
       "id": 130585,
       "event_category": "Cricket",
       "title": "Belgium Belforts-W vs Luxembourg Mullerthals-W (ECS-W Belgium, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
       "team_1": "Belgium Belforts-W",
       "team_2": "Luxembourg Mullerthals-W",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ECS-W Belgium, 2025",
       "match_name": "Belgium Belforts-W vs Luxembourg Mullerthals-W",
-      "startTime": "02:15:00 PM 13-07-2025"
+      "startTime": "02:15:00 PM 13-07-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 130712,
       "event_category": "Cricket",
-      "title": "Germany vs Belgium (ECI Germany-Belgium, 2025)",
+      "title": "Belgium vs Germany (ECI Germany-Belgium, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Germany-Belgium,-2025_match-card.jpg",
-      "team_1": "Germany",
-      "team_2": "Belgium",
+      "team_1": "Belgium",
+      "team_2": "Germany",
       "status": "UPCOMING",
       "event_name": "ECI Germany-Belgium, 2025",
-      "match_name": "Germany vs Belgium",
+      "match_name": "Belgium vs Germany",
       "startTime": "02:45:00 PM 13-07-2025"
     },
     {
@@ -366,18 +370,6 @@
       "startTime": "09:30:00 AM 14-07-2025"
     },
     {
-      "id": 130588,
-      "event_category": "Cricket",
-      "title": "VFB Gelsenkirchen vs Koln CC (ECS Germany, Krefeld, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/130588_CASACARDS_APP.png",
-      "team_1": "VFB Gelsenkirchen",
-      "team_2": "Koln CC",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "VFB Gelsenkirchen vs Koln CC",
-      "startTime": "12:30:00 PM 14-07-2025"
-    },
-    {
       "id": 128753,
       "event_category": "Cricket",
       "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
@@ -388,6 +380,18 @@
       "event_name": "Zimbabwe T20I Tri Series, 2025",
       "match_name": "Zimbabwe vs South Africa",
       "startTime": "04:30:00 PM 14-07-2025"
+    },
+    {
+      "id": 130588,
+      "event_category": "Cricket",
+      "title": "VFB Gelsenkirchen vs Koln CC (ECS Germany, Krefeld, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130588_CASACARDS_APP.png",
+      "team_1": "VFB Gelsenkirchen",
+      "team_2": "Koln CC",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "VFB Gelsenkirchen vs Koln CC",
+      "startTime": "12:30:00 PM 14-07-2025"
     },
     {
       "id": 130417,
@@ -426,6 +430,18 @@
       "startTime": "03:05:00 PM 13-07-2025"
     },
     {
+      "id": 130590,
+      "event_category": "Cricket",
+      "title": "Koln CC vs Lenkerbeck Marl (ECS Germany, Krefeld, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130590_CASACARDS_APP.png",
+      "team_1": "Koln CC",
+      "team_2": "Lenkerbeck Marl",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Koln CC vs Lenkerbeck Marl",
+      "startTime": "04:45:00 PM 14-07-2025"
+    },
+    {
       "id": 130156,
       "event_category": "Golf",
       "title": "Day 4 vs North Berwick, Scotland (Genesis Scottish Open)",
@@ -460,18 +476,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Detroit Tigers vs Seattle Mariners",
       "startTime": "11:10:00 PM 13-07-2025"
-    },
-    {
-      "id": 130310,
-      "event_category": "Baseball",
-      "title": "San Francisco Giants vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130310_CASACARDS_APP.png",
-      "team_1": "San Francisco Giants",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Francisco Giants vs Los Angeles Dodgers",
-      "startTime": "01:35:00 AM 14-07-2025"
     }
   ]
 }
