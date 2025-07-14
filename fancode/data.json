@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:14 PM 14-07-2025",
+  "last update time": "12:42 PM 14-07-2025",
   "matches": [
+    {
+      "id": 130588,
+      "event_category": "Cricket",
+      "title": "VFB Gelsenkirchen vs Koln CC (ECS Germany, Krefeld, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130588_CASACARDS_APP.png",
+      "team_1": "VFB Gelsenkirchen",
+      "team_2": "Koln CC",
+      "status": "LIVE",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "VFB Gelsenkirchen vs Koln CC",
+      "startTime": "12:30:00 PM 14-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/QQRrUhNQQx6UNDlNjAciqg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130588_english_hls_74632ta-di_h264/index.m3u8"
+    },
     {
       "id": 130416,
       "event_category": "Cricket",
@@ -40,18 +54,6 @@
       "event_name": "Zimbabwe T20I Tri Series, 2025",
       "match_name": "Zimbabwe vs South Africa",
       "startTime": "04:30:00 PM 14-07-2025"
-    },
-    {
-      "id": 130588,
-      "event_category": "Cricket",
-      "title": "VFB Gelsenkirchen vs Koln CC (ECS Germany, Krefeld, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/130588_CASACARDS_APP.png",
-      "team_1": "VFB Gelsenkirchen",
-      "team_2": "Koln CC",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "VFB Gelsenkirchen vs Koln CC",
-      "startTime": "12:30:00 PM 14-07-2025"
     },
     {
       "id": 130417,
