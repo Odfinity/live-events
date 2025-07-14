@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:23 PM 14-07-2025",
+  "last update time": "08:57 PM 14-07-2025",
   "matches": [
     {
-      "id": 130591,
+      "id": 130592,
       "event_category": "Cricket",
-      "title": "Grey Caps Aachen vs SC Krefeld Spartans (ECS Germany, Krefeld, 2025)",
+      "title": "Grey Caps Aachen vs Lenkerbeck Marl (ECS Germany, Krefeld, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
       "team_1": "Grey Caps Aachen",
-      "team_2": "SC Krefeld Spartans",
+      "team_2": "Lenkerbeck Marl",
       "status": "LIVE",
       "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Grey Caps Aachen vs SC Krefeld Spartans",
-      "startTime": "06:45:00 PM 14-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/d9E1zOC_RXezYFsuLBu24w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130591_english_hls_86221ta-di_h264/index.m3u8"
+      "match_name": "Grey Caps Aachen vs Lenkerbeck Marl",
+      "startTime": "09:00:00 PM 14-07-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 127552,
@@ -28,18 +28,6 @@
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "Australia vs West Indies",
       "startTime": "12:00:00 AM 13-07-2025"
-    },
-    {
-      "id": 130592,
-      "event_category": "Cricket",
-      "title": "Grey Caps Aachen vs Lenkerbeck Marl (ECS Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-      "team_1": "Grey Caps Aachen",
-      "team_2": "Lenkerbeck Marl",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Grey Caps Aachen vs Lenkerbeck Marl",
-      "startTime": "09:00:00 PM 14-07-2025"
     },
     {
       "id": 129996,
@@ -376,6 +364,18 @@
       "event_name": "ECS Germany, Krefeld, 2025",
       "match_name": "Strass Rising Stars vs Bonn Blue Star",
       "startTime": "06:45:00 PM 16-07-2025"
+    },
+    {
+      "id": 131447,
+      "event_category": "Cricket",
+      "title": "Florida Lions vs Miami Blaze (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Florida Lions",
+      "team_2": "Miami Blaze",
+      "status": "UPCOMING",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Florida Lions vs Miami Blaze",
+      "startTime": "09:30:00 PM 16-07-2025"
     }
   ]
 }
