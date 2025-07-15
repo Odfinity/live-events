@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 15-07-2025",
+  "last update time": "06:29 PM 15-07-2025",
   "matches": [
-    {
-      "id": 130114,
-      "event_category": "Cricket",
-      "title": "Ruby White Town Legends vs Karaikal Kniights (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ruby White Town Legends",
-      "team_2": "Karaikal Kniights",
-      "status": "LIVE",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ruby White Town Legends vs Karaikal Kniights",
-      "startTime": "02:00:00 PM 15-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/S6FHTlrqTIirf1owLscYIw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130114_english_hls_12627ta-di_h264/index.m3u8"
-    },
     {
       "id": 130595,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "04:45:00 PM 15-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/QE2dbudiSrWoMZeMBkgmCg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130595_english_hls_19596ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130115,
+      "event_category": "Cricket",
+      "title": "Genid Yanam Royals vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Genid Yanam Royals",
+      "team_2": "Ossudu Accord Warriors",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Genid Yanam Royals vs Ossudu Accord Warriors",
+      "startTime": "06:00:00 PM 15-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/igpLQEMdR_CB0gBF3brbYQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130115_english_hls_80933ta-di_h264/index.m3u8"
     },
     {
       "id": 125998,
@@ -56,27 +56,15 @@
       "startTime": "04:30:00 AM 16-07-2025"
     },
     {
-      "id": 130115,
-      "event_category": "Cricket",
-      "title": "Genid Yanam Royals vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Genid Yanam Royals",
-      "team_2": "Ossudu Accord Warriors",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Genid Yanam Royals vs Ossudu Accord Warriors",
-      "startTime": "06:00:00 PM 15-07-2025"
-    },
-    {
       "id": 130596,
       "event_category": "Cricket",
-      "title": "Lenkerbeck Marl vs VFB Gelsenkirchen (ECS Germany, Krefeld, 2025)",
+      "title": "VFB Gelsenkirchen vs Lenkerbeck Marl (ECS Germany, Krefeld, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-      "team_1": "Lenkerbeck Marl",
-      "team_2": "VFB Gelsenkirchen",
+      "team_1": "VFB Gelsenkirchen",
+      "team_2": "Lenkerbeck Marl",
       "status": "UPCOMING",
       "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Lenkerbeck Marl vs VFB Gelsenkirchen",
+      "match_name": "VFB Gelsenkirchen vs Lenkerbeck Marl",
       "startTime": "06:45:00 PM 15-07-2025"
     },
     {
@@ -164,18 +152,6 @@
       "startTime": "01:30:00 PM 16-07-2025"
     },
     {
-      "id": 130116,
-      "event_category": "Cricket",
-      "title": "Villianur Mohit Kings vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Villianur Mohit Kings",
-      "team_2": "Mahe Megalo Strikers",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Villianur Mohit Kings vs Mahe Megalo Strikers",
-      "startTime": "02:00:00 PM 16-07-2025"
-    },
-    {
       "id": 128433,
       "event_category": "Cricket",
       "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
@@ -186,6 +162,18 @@
       "event_name": "Bangladesh tour of Sri Lanka, 2025",
       "match_name": "Sri Lanka vs Bangladesh",
       "startTime": "07:00:00 PM 16-07-2025"
+    },
+    {
+      "id": 130116,
+      "event_category": "Cricket",
+      "title": "Villianur Mohit Kings vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Villianur Mohit Kings",
+      "team_2": "Mahe Megalo Strikers",
+      "status": "UPCOMING",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Villianur Mohit Kings vs Mahe Megalo Strikers",
+      "startTime": "02:00:00 PM 16-07-2025"
     },
     {
       "id": 130599,
@@ -284,18 +272,6 @@
       "startTime": "10:30:00 PM 16-07-2025"
     },
     {
-      "id": 131481,
-      "event_category": "Baseball",
-      "title": "AL All Stars vs NL All Stars (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_APP.png",
-      "team_1": "AL All Stars",
-      "team_2": "NL All Stars",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "AL All Stars vs NL All Stars",
-      "startTime": "05:30:00 AM 16-07-2025"
-    },
-    {
       "id": 131448,
       "event_category": "Cricket",
       "title": "Caribbean Tigers vs Boca Raton Trailblazers (Max60 Season 2, 2025)",
@@ -318,6 +294,18 @@
       "event_name": "ECS Germany, Krefeld, 2025",
       "match_name": "Bonn Blue Star vs Monchengladbach",
       "startTime": "09:00:00 PM 16-07-2025"
+    },
+    {
+      "id": 131481,
+      "event_category": "Baseball",
+      "title": "AL All Stars vs NL All Stars (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_APP.png",
+      "team_1": "AL All Stars",
+      "team_2": "NL All Stars",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "AL All Stars vs NL All Stars",
+      "startTime": "05:30:00 AM 16-07-2025"
     },
     {
       "id": 127552,
@@ -344,18 +332,6 @@
       "startTime": "11:00:00 PM 16-07-2025"
     },
     {
-      "id": 130328,
-      "event_category": "Golf",
-      "title": "D+D Real Czech Challenge vs Beroun, Czech Republic (D+D Real Czech Challenge 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/D-D-Real-Czech-Challenge_2025_match-card.jpg",
-      "team_1": "D+D Real Czech Challenge",
-      "team_2": "Beroun, Czech Republic",
-      "status": "UPCOMING",
-      "event_name": "D+D Real Czech Challenge 2025",
-      "match_name": "D+D Real Czech Challenge",
-      "startTime": "03:25:00 PM 16-07-2025"
-    },
-    {
       "id": 131449,
       "event_category": "Cricket",
       "title": "Florida Lions vs Cayman Bay Stingrays (Max60 Season 2, 2025)",
@@ -366,6 +342,18 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Florida Lions vs Cayman Bay Stingrays",
       "startTime": "02:00:00 AM 17-07-2025"
+    },
+    {
+      "id": 130328,
+      "event_category": "Golf",
+      "title": "D+D Real Czech Challenge vs Beroun, Czech Republic (D+D Real Czech Challenge 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/D-D-Real-Czech-Challenge_2025_match-card.jpg",
+      "team_1": "D+D Real Czech Challenge",
+      "team_2": "Beroun, Czech Republic",
+      "status": "UPCOMING",
+      "event_name": "D+D Real Czech Challenge 2025",
+      "match_name": "D+D Real Czech Challenge",
+      "startTime": "03:25:00 PM 16-07-2025"
     },
     {
       "id": 123368,
@@ -450,6 +438,18 @@
       "event_name": "Pondicherry Premier League, 2025",
       "match_name": "Villianur Mohit Kings vs Genid Yanam Royals",
       "startTime": "02:00:00 PM 17-07-2025"
+    },
+    {
+      "id": 130604,
+      "event_category": "Cricket",
+      "title": "Strass Rising Stars vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130604_CASACARDS_APP.png",
+      "team_1": "Strass Rising Stars",
+      "team_2": "Dusseldorf Blackcaps",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Strass Rising Stars vs Dusseldorf Blackcaps",
+      "startTime": "02:30:00 PM 17-07-2025"
     }
   ]
 }
