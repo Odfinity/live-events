@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 16-07-2025",
+  "last update time": "06:29 PM 16-07-2025",
   "matches": [
     {
       "id": 128754,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-Vs-IND_ODI-SERIES_2025_match-card.jpg",
       "team_1": "England Women",
       "team_2": "India Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "India Women tour of England, 2025",
       "match_name": "England Women vs India Women",
-      "startTime": "05:30:00 PM 16-07-2025"
+      "startTime": "05:30:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022320/INWENW/master.m3u8?hdnea=exp=1752710403~acl=/*~id=77963706184229619641951039468030~hmac=c131c2cbadb5eaf0bbfa663853d64318918b0d17d7d7c4296279e905d35991e7"
     },
     {
       "id": 128433,
@@ -54,20 +56,6 @@
       "startTime": "07:30:00 PM 16-07-2025"
     },
     {
-      "id": 130116,
-      "event_category": "Cricket",
-      "title": "Villianur Mohit Kings vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Villianur Mohit Kings",
-      "team_2": "Mahe Megalo Strikers",
-      "status": "LIVE",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Villianur Mohit Kings vs Mahe Megalo Strikers",
-      "startTime": "02:00:00 PM 16-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/WipoMJAYSX-JAfok_D2gxg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130116_english_hls_18705ta-di_h264/index.m3u8"
-    },
-    {
       "id": 130600,
       "event_category": "Cricket",
       "title": "Monchengladbach vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
@@ -80,6 +68,20 @@
       "startTime": "04:45:00 PM 16-07-2025",
       "dai_url": null,
       "adfree_url": null
+    },
+    {
+      "id": 130117,
+      "event_category": "Cricket",
+      "title": "Ruby White Town Legends vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ruby White Town Legends",
+      "team_2": "Ossudu Accord Warriors",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ruby White Town Legends vs Ossudu Accord Warriors",
+      "startTime": "06:00:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/7LKgeqrhThqA_ql50CE2Iw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130117_english_hls_28783ta-di_h264/index.m3u8"
     },
     {
       "id": 130487,
@@ -154,18 +156,6 @@
       "startTime": "04:30:00 AM 17-07-2025"
     },
     {
-      "id": 130117,
-      "event_category": "Cricket",
-      "title": "Ruby White Town Legends vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ruby White Town Legends",
-      "team_2": "Ossudu Accord Warriors",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ruby White Town Legends vs Ossudu Accord Warriors",
-      "startTime": "06:00:00 PM 16-07-2025"
-    },
-    {
       "id": 130601,
       "event_category": "Cricket",
       "title": "Strass Rising Stars vs Bonn Blue Star (ECS Germany, Krefeld, 2025)",
@@ -205,7 +195,7 @@
       "id": 123368,
       "event_category": "Football",
       "title": "Norway Women vs Italy Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/123368_CASACARDS_APP.png",
       "team_1": "Norway Women",
       "team_2": "Italy Women",
       "status": "UPCOMING",
@@ -322,18 +312,6 @@
       "startTime": "04:00:00 PM 17-07-2025"
     },
     {
-      "id": 130605,
-      "event_category": "Cricket",
-      "title": "Bonn Blue Star vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
-      "team_1": "Bonn Blue Star",
-      "team_2": "Dusseldorf Blackcaps",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Bonn Blue Star vs Dusseldorf Blackcaps",
-      "startTime": "04:45:00 PM 17-07-2025"
-    },
-    {
       "id": 126000,
       "event_category": "Cricket",
       "title": "Gloucestershire vs Sussex (Vitality Blast T20, 2025)",
@@ -344,6 +322,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Gloucestershire vs Sussex",
       "startTime": "08:30:00 PM 17-07-2025"
+    },
+    {
+      "id": 130605,
+      "event_category": "Cricket",
+      "title": "Bonn Blue Star vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+      "team_1": "Bonn Blue Star",
+      "team_2": "Dusseldorf Blackcaps",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Bonn Blue Star vs Dusseldorf Blackcaps",
+      "startTime": "04:45:00 PM 17-07-2025"
     },
     {
       "id": 130119,
@@ -370,18 +360,6 @@
       "startTime": "09:45:00 PM 17-07-2025"
     },
     {
-      "id": 130606,
-      "event_category": "Cricket",
-      "title": "Monchengladbach vs SC Krefeld Boosters (ECS Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
-      "team_1": "Monchengladbach",
-      "team_2": "SC Krefeld Boosters",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Monchengladbach vs SC Krefeld Boosters",
-      "startTime": "06:45:00 PM 17-07-2025"
-    },
-    {
       "id": 126001,
       "event_category": "Cricket",
       "title": "Worcestershire vs Nottinghamshire (Vitality Blast T20, 2025)",
@@ -392,6 +370,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Worcestershire vs Nottinghamshire",
       "startTime": "10:00:00 PM 17-07-2025"
+    },
+    {
+      "id": 130606,
+      "event_category": "Cricket",
+      "title": "Monchengladbach vs SC Krefeld Boosters (ECS Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+      "team_1": "Monchengladbach",
+      "team_2": "SC Krefeld Boosters",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Monchengladbach vs SC Krefeld Boosters",
+      "startTime": "06:45:00 PM 17-07-2025"
     },
     {
       "id": 126002,
@@ -428,6 +418,18 @@
       "event_name": "ECS Germany, Krefeld, 2025",
       "match_name": "SC Krefeld Boosters vs Bonn Blue Star",
       "startTime": "09:00:00 PM 17-07-2025"
+    },
+    {
+      "id": 129999,
+      "event_category": "Cricket",
+      "title": "ACE KRM Panthers vs Gujrat CC (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129999_5379_KRM_GCC_fc-web.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "Gujrat CC",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs Gujrat CC",
+      "startTime": "10:15:00 PM 17-07-2025"
     },
     {
       "id": 131280,
