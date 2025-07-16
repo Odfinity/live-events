@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:00 PM 16-07-2025",
+  "last update time": "11:22 PM 16-07-2025",
   "matches": [
     {
       "id": 128745,
@@ -16,20 +16,6 @@
       "startTime": "05:30:00 PM 16-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022320/INWENW/master.m3u8?hdnea=exp=1752710403~acl=/*~id=77963706184229619641951039468030~hmac=c131c2cbadb5eaf0bbfa663853d64318918b0d17d7d7c4296279e905d35991e7"
-    },
-    {
-      "id": 130487,
-      "event_category": "Cricket",
-      "title": "Rangpur Riders vs Dubai Capitals (Global Super League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130487_5402_DC_RAN_fc-Web_1752057007019.jpg",
-      "team_1": "Rangpur Riders",
-      "team_2": "Dubai Capitals",
-      "status": "LIVE",
-      "event_name": "Global Super League, 2025",
-      "match_name": "Rangpur Riders vs Dubai Capitals",
-      "startTime": "07:30:00 PM 16-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/m6-8hXT_RZ-jDZ19VewfoQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130487_english_hls_38298ta-di_h264/index.m3u8"
     },
     {
       "id": 125878,
@@ -58,6 +44,20 @@
       "startTime": "11:00:00 PM 16-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/1RsR-MsXSYydIjB-L1fJNw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129998_english_hls_64050ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130487,
+      "event_category": "Cricket",
+      "title": "Rangpur Riders vs Dubai Capitals (Global Super League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130487_5402_DC_RAN_fc-Web_1752057007019.jpg",
+      "team_1": "Rangpur Riders",
+      "team_2": "Dubai Capitals",
+      "status": "LIVE",
+      "event_name": "Global Super League, 2025",
+      "match_name": "Rangpur Riders vs Dubai Capitals",
+      "startTime": "07:30:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/m6-8hXT_RZ-jDZ19VewfoQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130487_english_hls_38298ta-di_h264/index.m3u8"
     },
     {
       "id": 130488,
@@ -156,18 +156,6 @@
       "startTime": "12:30:00 PM 17-07-2025"
     },
     {
-      "id": 130423,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "City Cricket Club",
-      "team_2": "Nabajyoti Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "City Cricket Club vs Nabajyoti Club",
-      "startTime": "01:30:00 PM 17-07-2025"
-    },
-    {
       "id": 131471,
       "event_category": "Cricket",
       "title": "Vegas Vikings vs Florida Lions (Max60 Season 2, 2025)",
@@ -180,16 +168,16 @@
       "startTime": "09:45:00 PM 17-07-2025"
     },
     {
-      "id": 130118,
+      "id": 130423,
       "event_category": "Cricket",
-      "title": "Villianur Mohit Kings vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Villianur Mohit Kings",
-      "team_2": "Genid Yanam Royals",
+      "title": "City Cricket Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "City Cricket Club",
+      "team_2": "Nabajyoti Club",
       "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Villianur Mohit Kings vs Genid Yanam Royals",
-      "startTime": "02:00:00 PM 17-07-2025"
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "City Cricket Club vs Nabajyoti Club",
+      "startTime": "01:30:00 PM 17-07-2025"
     },
     {
       "id": 126001,
@@ -202,6 +190,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Worcestershire vs Nottinghamshire",
       "startTime": "10:00:00 PM 17-07-2025"
+    },
+    {
+      "id": 130118,
+      "event_category": "Cricket",
+      "title": "Villianur Mohit Kings vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Villianur Mohit Kings",
+      "team_2": "Genid Yanam Royals",
+      "status": "UPCOMING",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Villianur Mohit Kings vs Genid Yanam Royals",
+      "startTime": "02:00:00 PM 17-07-2025"
     },
     {
       "id": 130604,
@@ -228,18 +228,6 @@
       "startTime": "04:00:00 PM 17-07-2025"
     },
     {
-      "id": 130605,
-      "event_category": "Cricket",
-      "title": "Bonn Blue Star vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
-      "team_1": "Bonn Blue Star",
-      "team_2": "Dusseldorf Blackcaps",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Bonn Blue Star vs Dusseldorf Blackcaps",
-      "startTime": "04:45:00 PM 17-07-2025"
-    },
-    {
       "id": 126002,
       "event_category": "Cricket",
       "title": "Yorkshire vs Lancashire (Vitality Blast T20, 2025)",
@@ -250,6 +238,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Yorkshire vs Lancashire",
       "startTime": "11:00:00 PM 17-07-2025"
+    },
+    {
+      "id": 130605,
+      "event_category": "Cricket",
+      "title": "Bonn Blue Star vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+      "team_1": "Bonn Blue Star",
+      "team_2": "Dusseldorf Blackcaps",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Bonn Blue Star vs Dusseldorf Blackcaps",
+      "startTime": "04:45:00 PM 17-07-2025"
     },
     {
       "id": 130119,
@@ -300,18 +300,6 @@
       "startTime": "09:00:00 PM 17-07-2025"
     },
     {
-      "id": 129999,
-      "event_category": "Cricket",
-      "title": "ACE KRM Panthers vs Gujrat CC (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129999_5379_KRM_GCC_fc-web.jpg",
-      "team_1": "ACE KRM Panthers",
-      "team_2": "Gujrat CC",
-      "status": "UPCOMING",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "ACE KRM Panthers vs Gujrat CC",
-      "startTime": "10:15:00 PM 17-07-2025"
-    },
-    {
       "id": 131457,
       "event_category": "Cricket",
       "title": "Vegas Vikings vs Caribbean Tigers (Max60 Season 2, 2025)",
@@ -322,6 +310,18 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Vegas Vikings vs Caribbean Tigers",
       "startTime": "02:00:00 AM 18-07-2025"
+    },
+    {
+      "id": 129999,
+      "event_category": "Cricket",
+      "title": "ACE KRM Panthers vs Gujrat CC (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129999_5379_KRM_GCC_fc-web.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "Gujrat CC",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs Gujrat CC",
+      "startTime": "10:15:00 PM 17-07-2025"
     },
     {
       "id": 123369,
