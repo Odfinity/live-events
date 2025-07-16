@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:54 AM 17-07-2025",
+  "last update time": "03:13 AM 17-07-2025",
   "matches": [
-    {
-      "id": 123368,
-      "event_category": "Football",
-      "title": "Norway Women vs Italy Women (UEFA Women's EURO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/123368_5107_NR-W_ITA-W_fc-web.jpg",
-      "team_1": "Norway Women",
-      "team_2": "Italy Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's EURO 2025",
-      "match_name": "Norway Women vs Italy Women",
-      "startTime": "12:30:00 AM 17-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/6CoIAQmURbO6kAKnCaOSfQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/123368_english_hls_27780ta-di_h264/index.m3u8"
-    },
     {
       "id": 130488,
       "event_category": "Cricket",
@@ -210,18 +196,6 @@
       "startTime": "04:45:00 PM 17-07-2025"
     },
     {
-      "id": 130119,
-      "event_category": "Cricket",
-      "title": "Ruby White Town Legends vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ruby White Town Legends",
-      "team_2": "Mahe Megalo Strikers",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ruby White Town Legends vs Mahe Megalo Strikers",
-      "startTime": "06:00:00 PM 17-07-2025"
-    },
-    {
       "id": 131457,
       "event_category": "Cricket",
       "title": "Vegas Vikings vs Caribbean Tigers (Max60 Season 2, 2025)",
@@ -232,6 +206,18 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Vegas Vikings vs Caribbean Tigers",
       "startTime": "02:00:00 AM 18-07-2025"
+    },
+    {
+      "id": 130119,
+      "event_category": "Cricket",
+      "title": "Ruby White Town Legends vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ruby White Town Legends",
+      "team_2": "Mahe Megalo Strikers",
+      "status": "UPCOMING",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ruby White Town Legends vs Mahe Megalo Strikers",
+      "startTime": "06:00:00 PM 17-07-2025"
     },
     {
       "id": 130606,
@@ -376,6 +362,18 @@
       "event_name": "ECS Germany, Krefeld, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "12:30:00 PM 18-07-2025"
+    },
+    {
+      "id": 130425,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs City Cricket Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "Gauhati Town Club",
+      "team_2": "City Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "Gauhati Town Club vs City Cricket Club",
+      "startTime": "01:30:00 PM 18-07-2025"
     }
   ]
 }
