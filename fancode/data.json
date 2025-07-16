@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:07 PM 16-07-2025",
+  "last update time": "12:29 PM 16-07-2025",
   "matches": [
     {
       "id": 130420,
@@ -16,6 +16,20 @@
       "startTime": "09:30:00 AM 16-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/vYN8XeWsS-K4levIikKAnQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130420_english_hls_29424ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130598,
+      "event_category": "Cricket",
+      "title": "SC Krefeld Boosters vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
+      "team_1": "SC Krefeld Boosters",
+      "team_2": "Dusseldorf Blackcaps",
+      "status": "LIVE",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "SC Krefeld Boosters vs Dusseldorf Blackcaps",
+      "startTime": "12:30:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Yh10RSLVSsmOJiawtpYJKg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130598_english_hls_92113ta-di_h264/index.m3u8"
     },
     {
       "id": 128754,
@@ -124,18 +138,6 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Florida Lions vs Cayman Bay Stingrays",
       "startTime": "02:00:00 AM 17-07-2025"
-    },
-    {
-      "id": 130598,
-      "event_category": "Cricket",
-      "title": "SC Krefeld Boosters vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-      "team_1": "SC Krefeld Boosters",
-      "team_2": "Dusseldorf Blackcaps",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "SC Krefeld Boosters vs Dusseldorf Blackcaps",
-      "startTime": "12:30:00 PM 16-07-2025"
     },
     {
       "id": 130488,
@@ -390,18 +392,6 @@
       "startTime": "07:30:00 PM 17-07-2025"
     },
     {
-      "id": 130119,
-      "event_category": "Cricket",
-      "title": "Ruby White Town Legends vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ruby White Town Legends",
-      "team_2": "Mahe Megalo Strikers",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ruby White Town Legends vs Mahe Megalo Strikers",
-      "startTime": "06:00:00 PM 17-07-2025"
-    },
-    {
       "id": 126000,
       "event_category": "Cricket",
       "title": "Gloucestershire vs Sussex (Vitality Blast T20, 2025)",
@@ -412,6 +402,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Gloucestershire vs Sussex",
       "startTime": "08:30:00 PM 17-07-2025"
+    },
+    {
+      "id": 130119,
+      "event_category": "Cricket",
+      "title": "Ruby White Town Legends vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ruby White Town Legends",
+      "team_2": "Mahe Megalo Strikers",
+      "status": "UPCOMING",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ruby White Town Legends vs Mahe Megalo Strikers",
+      "startTime": "06:00:00 PM 17-07-2025"
     },
     {
       "id": 131280,
