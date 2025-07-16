@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:29 PM 16-07-2025",
+  "last update time": "07:16 PM 16-07-2025",
   "matches": [
     {
       "id": 128754,
@@ -38,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-T20Is-old-match-card.png",
       "team_1": "Sri Lanka",
       "team_2": "Bangladesh",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Bangladesh tour of Sri Lanka, 2025",
       "match_name": "Sri Lanka vs Bangladesh",
-      "startTime": "07:00:00 PM 16-07-2025"
+      "startTime": "07:00:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1752715261~acl=/*~id=77311366568617110234003893852164~hmac=0cc5f1e81bb382c49e098a87477ac1962ff24ef6d3df8cecf026b8a84a1c7bf0"
     },
     {
       "id": 131630,
@@ -50,10 +52,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131448_5453_CAT_BRT_fc-Web.jpg",
       "team_1": "Caribbean Tigers",
       "team_2": "Boca Raton Trailblazers",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Caribbean Tigers vs Boca Raton Trailblazers",
-      "startTime": "07:30:00 PM 16-07-2025"
+      "startTime": "07:30:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/q15hlUW4QBODoJIy0qIQ9w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131630_english_hls_3976ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130487,
+      "event_category": "Cricket",
+      "title": "Rangpur Riders vs Dubai Capitals (Global Super League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130487_5402_DC_RAN_fc-Web_1752057007019.jpg",
+      "team_1": "Rangpur Riders",
+      "team_2": "Dubai Capitals",
+      "status": "LIVE",
+      "event_name": "Global Super League, 2025",
+      "match_name": "Rangpur Riders vs Dubai Capitals",
+      "startTime": "07:30:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/m6-8hXT_RZ-jDZ19VewfoQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130487_english_hls_38298ta-di_h264/index.m3u8"
     },
     {
       "id": 130600,
@@ -84,16 +102,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130117_english_hls_28783ta-di_h264/index.m3u8"
     },
     {
-      "id": 130487,
+      "id": 130601,
       "event_category": "Cricket",
-      "title": "Dubai Capitals vs Rangpur Riders (Global Super League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130487_5402_DC_RAN_fc-Web_1752057007019.jpg",
-      "team_1": "Dubai Capitals",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Global Super League, 2025",
-      "match_name": "Dubai Capitals vs Rangpur Riders",
-      "startTime": "07:30:00 PM 16-07-2025"
+      "title": "Strass Rising Stars vs Bonn Blue Star (ECS Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+      "team_1": "Strass Rising Stars",
+      "team_2": "Bonn Blue Star",
+      "status": "LIVE",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Strass Rising Stars vs Bonn Blue Star",
+      "startTime": "06:45:00 PM 16-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/TgV5mx_VSEuraPtPks7ifg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130601_english_hls_74296ta-di_h264/index.m3u8"
     },
     {
       "id": 131447,
@@ -154,18 +174,6 @@
       "event_name": "Global Super League, 2025",
       "match_name": "Guyana Amazon Warriors vs Hobart Hurricanes",
       "startTime": "04:30:00 AM 17-07-2025"
-    },
-    {
-      "id": 130601,
-      "event_category": "Cricket",
-      "title": "Strass Rising Stars vs Bonn Blue Star (ECS Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
-      "team_1": "Strass Rising Stars",
-      "team_2": "Bonn Blue Star",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Strass Rising Stars vs Bonn Blue Star",
-      "startTime": "06:45:00 PM 16-07-2025"
     },
     {
       "id": 130602,
@@ -252,30 +260,6 @@
       "startTime": "01:30:00 PM 17-07-2025"
     },
     {
-      "id": 130118,
-      "event_category": "Cricket",
-      "title": "Villianur Mohit Kings vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Villianur Mohit Kings",
-      "team_2": "Genid Yanam Royals",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Villianur Mohit Kings vs Genid Yanam Royals",
-      "startTime": "02:00:00 PM 17-07-2025"
-    },
-    {
-      "id": 130604,
-      "event_category": "Cricket",
-      "title": "Strass Rising Stars vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/130604_CASACARDS_APP.png",
-      "team_1": "Strass Rising Stars",
-      "team_2": "Dusseldorf Blackcaps",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Strass Rising Stars vs Dusseldorf Blackcaps",
-      "startTime": "02:30:00 PM 17-07-2025"
-    },
-    {
       "id": 130489,
       "event_category": "Cricket",
       "title": "Rangpur Riders vs Central Stags (Global Super League, 2025)",
@@ -300,16 +284,28 @@
       "startTime": "07:30:00 PM 17-07-2025"
     },
     {
-      "id": 130759,
+      "id": 130118,
       "event_category": "Cricket",
-      "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-      "team_1": "Kenya",
-      "team_2": "Nigeria",
+      "title": "Villianur Mohit Kings vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Villianur Mohit Kings",
+      "team_2": "Genid Yanam Royals",
       "status": "UPCOMING",
-      "event_name": "Pearl of Africa T20, 2025",
-      "match_name": "Kenya vs Nigeria",
-      "startTime": "04:00:00 PM 17-07-2025"
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Villianur Mohit Kings vs Genid Yanam Royals",
+      "startTime": "02:00:00 PM 17-07-2025"
+    },
+    {
+      "id": 130604,
+      "event_category": "Cricket",
+      "title": "Strass Rising Stars vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130604_CASACARDS_APP.png",
+      "team_1": "Strass Rising Stars",
+      "team_2": "Dusseldorf Blackcaps",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Strass Rising Stars vs Dusseldorf Blackcaps",
+      "startTime": "02:30:00 PM 17-07-2025"
     },
     {
       "id": 126000,
@@ -324,6 +320,18 @@
       "startTime": "08:30:00 PM 17-07-2025"
     },
     {
+      "id": 130759,
+      "event_category": "Cricket",
+      "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+      "team_1": "Kenya",
+      "team_2": "Nigeria",
+      "status": "UPCOMING",
+      "event_name": "Pearl of Africa T20, 2025",
+      "match_name": "Kenya vs Nigeria",
+      "startTime": "04:00:00 PM 17-07-2025"
+    },
+    {
       "id": 130605,
       "event_category": "Cricket",
       "title": "Bonn Blue Star vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
@@ -336,18 +344,6 @@
       "startTime": "04:45:00 PM 17-07-2025"
     },
     {
-      "id": 130119,
-      "event_category": "Cricket",
-      "title": "Ruby White Town Legends vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ruby White Town Legends",
-      "team_2": "Mahe Megalo Strikers",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ruby White Town Legends vs Mahe Megalo Strikers",
-      "startTime": "06:00:00 PM 17-07-2025"
-    },
-    {
       "id": 131471,
       "event_category": "Cricket",
       "title": "Vegas Vikings vs Florida Lions (Max60 Season 2, 2025)",
@@ -358,6 +354,18 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Vegas Vikings vs Florida Lions",
       "startTime": "09:45:00 PM 17-07-2025"
+    },
+    {
+      "id": 130119,
+      "event_category": "Cricket",
+      "title": "Ruby White Town Legends vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Ruby White Town Legends",
+      "team_2": "Mahe Megalo Strikers",
+      "status": "UPCOMING",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Ruby White Town Legends vs Mahe Megalo Strikers",
+      "startTime": "06:00:00 PM 17-07-2025"
     },
     {
       "id": 126001,
