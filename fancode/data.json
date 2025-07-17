@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:19 PM 17-07-2025",
+  "last update time": "01:46 PM 17-07-2025",
   "matches": [
     {
       "id": 130758,
@@ -44,6 +44,20 @@
       "startTime": "01:30:00 PM 17-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/sZ8OaQ-UQZyXIGEskVj09Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130423_english_hls_8528ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130118,
+      "event_category": "Cricket",
+      "title": "Genid Yanam Royals vs Villianur Mohit Kings (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Genid Yanam Royals",
+      "team_2": "Villianur Mohit Kings",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Genid Yanam Royals vs Villianur Mohit Kings",
+      "startTime": "02:00:00 PM 17-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/stn7ZTEyTaeYuE4t5TIpmA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130118_english_hls_43946ta-di_h264/index.m3u8"
     },
     {
       "id": 131280,
@@ -156,27 +170,15 @@
       "startTime": "02:00:00 AM 18-07-2025"
     },
     {
-      "id": 130118,
-      "event_category": "Cricket",
-      "title": "Villianur Mohit Kings vs Genid Yanam Royals (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Villianur Mohit Kings",
-      "team_2": "Genid Yanam Royals",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Villianur Mohit Kings vs Genid Yanam Royals",
-      "startTime": "02:00:00 PM 17-07-2025"
-    },
-    {
       "id": 130604,
       "event_category": "Cricket",
-      "title": "Strass Rising Stars vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
+      "title": "Dusseldorf Blackcaps vs Strass Rising Stars (ECS Germany, Krefeld, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-      "team_1": "Strass Rising Stars",
-      "team_2": "Dusseldorf Blackcaps",
+      "team_1": "Dusseldorf Blackcaps",
+      "team_2": "Strass Rising Stars",
       "status": "UPCOMING",
       "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Strass Rising Stars vs Dusseldorf Blackcaps",
+      "match_name": "Dusseldorf Blackcaps vs Strass Rising Stars",
       "startTime": "02:30:00 PM 17-07-2025"
     },
     {
@@ -410,14 +412,26 @@
     {
       "id": 131263,
       "event_category": "Cricket",
-      "title": "Bahrain vs Rwanda (Bahrain and Malawi tour of Rwanda, 2025)",
+      "title": "Bahrain vs Rwanda (Rwanda Tri Nations T20 Cup 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
       "team_1": "Bahrain",
       "team_2": "Rwanda",
       "status": "UPCOMING",
-      "event_name": "Bahrain and Malawi tour of Rwanda, 2025",
+      "event_name": "Rwanda Tri Nations T20 Cup 2025",
       "match_name": "Bahrain vs Rwanda",
       "startTime": "05:15:00 PM 18-07-2025"
+    },
+    {
+      "id": 130610,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "05:30:00 PM 18-07-2025"
     }
   ]
 }
