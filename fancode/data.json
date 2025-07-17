@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 17-07-2025",
+  "last update time": "04:02 PM 17-07-2025",
   "matches": [
-    {
-      "id": 130758,
-      "event_category": "Cricket",
-      "title": "Namibia A vs Uganda A (Pearl of Africa T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-      "team_1": "Namibia A",
-      "team_2": "Uganda A",
-      "status": "LIVE",
-      "event_name": "Pearl of Africa T20, 2025",
-      "match_name": "Namibia A vs Uganda A",
-      "startTime": "12:00:00 PM 17-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/rcqtiYO3TJK2bVa5fXaR_Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130758_english_hls_13839ta-di_h264/index.m3u8"
-    },
     {
       "id": 130423,
       "event_category": "Cricket",
@@ -58,6 +44,20 @@
       "startTime": "02:30:00 PM 17-07-2025",
       "dai_url": null,
       "adfree_url": null
+    },
+    {
+      "id": 130759,
+      "event_category": "Cricket",
+      "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+      "team_1": "Kenya",
+      "team_2": "Nigeria",
+      "status": "LIVE",
+      "event_name": "Pearl of Africa T20, 2025",
+      "match_name": "Kenya vs Nigeria",
+      "startTime": "04:00:00 PM 17-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RTaA-eo_R7SrtJ_lkqOSjw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130759_english_hls_83144ta-di_h264/index.m3u8"
     },
     {
       "id": 131280,
@@ -170,18 +170,6 @@
       "startTime": "02:00:00 AM 18-07-2025"
     },
     {
-      "id": 130759,
-      "event_category": "Cricket",
-      "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-      "team_1": "Kenya",
-      "team_2": "Nigeria",
-      "status": "UPCOMING",
-      "event_name": "Pearl of Africa T20, 2025",
-      "match_name": "Kenya vs Nigeria",
-      "startTime": "04:00:00 PM 17-07-2025"
-    },
-    {
       "id": 130605,
       "event_category": "Cricket",
       "title": "Bonn Blue Star vs Dusseldorf Blackcaps (ECS Germany, Krefeld, 2025)",
@@ -290,18 +278,6 @@
       "startTime": "09:30:00 AM 18-07-2025"
     },
     {
-      "id": 130777,
-      "event_category": "Cricket",
-      "title": "Singapore vs Samoa (Asia-Pacific Cricket Champions Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130777_5424_SIN_SAM_fc-web.jpg",
-      "team_1": "Singapore",
-      "team_2": "Samoa",
-      "status": "UPCOMING",
-      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
-      "match_name": "Singapore vs Samoa",
-      "startTime": "11:30:00 AM 18-07-2025"
-    },
-    {
       "id": 128755,
       "event_category": "Cricket",
       "title": "Zimbabwe vs New Zealand (Zimbabwe T20I Tri Series, 2025)",
@@ -312,6 +288,18 @@
       "event_name": "Zimbabwe T20I Tri Series, 2025",
       "match_name": "Zimbabwe vs New Zealand",
       "startTime": "04:30:00 PM 18-07-2025"
+    },
+    {
+      "id": 130777,
+      "event_category": "Cricket",
+      "title": "Singapore vs Samoa (Asia-Pacific Cricket Champions Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130777_5424_SIN_SAM_fc-web.jpg",
+      "team_1": "Singapore",
+      "team_2": "Samoa",
+      "status": "UPCOMING",
+      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
+      "match_name": "Singapore vs Samoa",
+      "startTime": "11:30:00 AM 18-07-2025"
     },
     {
       "id": 130760,
@@ -362,18 +350,6 @@
       "startTime": "02:30:00 PM 18-07-2025"
     },
     {
-      "id": 130761,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Kenya (Pearl of Africa T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Kenya",
-      "status": "UPCOMING",
-      "event_name": "Pearl of Africa T20, 2025",
-      "match_name": "United Arab Emirates vs Kenya",
-      "startTime": "04:00:00 PM 18-07-2025"
-    },
-    {
       "id": 131454,
       "event_category": "Cricket",
       "title": "Florida Lions vs Boca Raton Trailblazers (Max60 Season 2, 2025)",
@@ -384,6 +360,18 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Florida Lions vs Boca Raton Trailblazers",
       "startTime": "07:30:00 PM 18-07-2025"
+    },
+    {
+      "id": 130761,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates vs Kenya (Pearl of Africa T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+      "team_1": "United Arab Emirates",
+      "team_2": "Kenya",
+      "status": "UPCOMING",
+      "event_name": "Pearl of Africa T20, 2025",
+      "match_name": "United Arab Emirates vs Kenya",
+      "startTime": "04:00:00 PM 18-07-2025"
     },
     {
       "id": 131263,
@@ -410,18 +398,6 @@
       "startTime": "05:30:00 PM 18-07-2025"
     },
     {
-      "id": 130120,
-      "event_category": "Cricket",
-      "title": "Genid Yanam Royals vs Karaikal Kniights (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Genid Yanam Royals",
-      "team_2": "Karaikal Kniights",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Genid Yanam Royals vs Karaikal Kniights",
-      "startTime": "06:00:00 PM 18-07-2025"
-    },
-    {
       "id": 129718,
       "event_category": "Cricket",
       "title": "England Champions vs Pakistan Champions (World Championship of Legends, 2025)",
@@ -434,16 +410,16 @@
       "startTime": "09:00:00 PM 18-07-2025"
     },
     {
-      "id": 131255,
-      "event_category": "Golf",
-      "title": "Day 1 vs Tahoe Mountain Club (Old Greenwood) - Truckee, Cal (Barracuda Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Barracuda-championship-old.png",
-      "team_1": "Day 1",
-      "team_2": "Tahoe Mountain Club (Old Greenwood) - Truckee, Cal",
+      "id": 130120,
+      "event_category": "Cricket",
+      "title": "Genid Yanam Royals vs Karaikal Kniights (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Genid Yanam Royals",
+      "team_2": "Karaikal Kniights",
       "status": "UPCOMING",
-      "event_name": "Barracuda Championship 2025",
-      "match_name": "Day 1",
-      "startTime": "03:30:00 AM 18-07-2025"
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Genid Yanam Royals vs Karaikal Kniights",
+      "startTime": "06:00:00 PM 18-07-2025"
     },
     {
       "id": 131462,
@@ -456,6 +432,18 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Caribbean Tigers vs Miami Blaze",
       "startTime": "09:45:00 PM 18-07-2025"
+    },
+    {
+      "id": 131255,
+      "event_category": "Golf",
+      "title": "Day 1 vs Tahoe Mountain Club (Old Greenwood) - Truckee, Cal (Barracuda Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Barracuda-championship-old.png",
+      "team_1": "Day 1",
+      "team_2": "Tahoe Mountain Club (Old Greenwood) - Truckee, Cal",
+      "status": "UPCOMING",
+      "event_name": "Barracuda Championship 2025",
+      "match_name": "Day 1",
+      "startTime": "03:30:00 AM 18-07-2025"
     }
   ]
 }
