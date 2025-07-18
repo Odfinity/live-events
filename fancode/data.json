@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:13 PM 18-07-2025",
+  "last update time": "05:27 PM 18-07-2025",
   "matches": [
     {
       "id": 128755,
@@ -58,6 +58,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131263_english_hls_5196ta-di_h264/index.m3u8"
     },
     {
+      "id": 130610,
+      "event_category": "Cricket",
+      "title": "Dusseldorf Blackcaps vs Bonn Blue Star (ECS Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+      "team_1": "Dusseldorf Blackcaps",
+      "team_2": "Bonn Blue Star",
+      "status": "LIVE",
+      "event_name": "ECS Germany, Krefeld, 2025",
+      "match_name": "Dusseldorf Blackcaps vs Bonn Blue Star",
+      "startTime": "05:30:00 PM 18-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/r0Jo_PFxTMq_QB3eCtvxOg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130610_english_hls_3338ta-di_h264/index.m3u8"
+    },
+    {
       "id": 131281,
       "event_category": "Golf",
       "title": "Day 2 vs Royal Portrush Golf Club (The Open Championship)",
@@ -98,20 +112,6 @@
       "startTime": "04:30:00 PM 18-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/KgnegfJES8G4iIaEGP94jw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131388_english_hls_31053ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130425,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs Gauhati Town Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "City Cricket Club",
-      "team_2": "Gauhati Town Club",
-      "status": "LIVE",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "City Cricket Club vs Gauhati Town Club",
-      "startTime": "01:30:00 PM 18-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Mb1JaPQqQfeS7ZRViWQpVA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130425_english_hls_20882ta-di_h264/index.m3u8"
     },
     {
       "id": 131740,
@@ -232,18 +232,6 @@
       "event_name": "Global Super League, 2025",
       "match_name": "Guyana Amazon Warriors vs Rangpur Riders",
       "startTime": "04:30:00 AM 19-07-2025"
-    },
-    {
-      "id": 130610,
-      "event_category": "Cricket",
-      "title": "Dusseldorf Blackcaps vs Bonn Blue Star (ECS Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
-      "team_1": "Dusseldorf Blackcaps",
-      "team_2": "Bonn Blue Star",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Krefeld, 2025",
-      "match_name": "Dusseldorf Blackcaps vs Bonn Blue Star",
-      "startTime": "05:30:00 PM 18-07-2025"
     },
     {
       "id": 130120,
@@ -390,18 +378,6 @@
       "startTime": "12:00:00 PM 19-07-2025"
     },
     {
-      "id": 126080,
-      "event_category": "Cricket",
-      "title": "Glamorgan Women vs Kent Women (Women's Vitality Blast League 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
-      "team_1": "Glamorgan Women",
-      "team_2": "Kent Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Vitality Blast League 2, 2025",
-      "match_name": "Glamorgan Women vs Kent Women",
-      "startTime": "07:00:00 PM 18-07-2025"
-    },
-    {
       "id": 131555,
       "event_category": "Cricket",
       "title": "Baden-Wurttemberg United-W vs Western Warriors-W (ECS-W Germany, Krefeld, 2025)",
@@ -412,6 +388,18 @@
       "event_name": "ECS-W Germany, Krefeld, 2025",
       "match_name": "Baden-Wurttemberg United-W vs Western Warriors-W",
       "startTime": "12:30:00 PM 19-07-2025"
+    },
+    {
+      "id": 126080,
+      "event_category": "Cricket",
+      "title": "Glamorgan Women vs Kent Women (Women's Vitality Blast League 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
+      "team_1": "Glamorgan Women",
+      "team_2": "Kent Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Vitality Blast League 2, 2025",
+      "match_name": "Glamorgan Women vs Kent Women",
+      "startTime": "07:00:00 PM 18-07-2025"
     },
     {
       "id": 131264,
@@ -460,6 +448,18 @@
       "event_name": "Pondicherry Premier League, 2025",
       "match_name": "Mahe Megalo Strikers vs Genid Yanam Royals",
       "startTime": "02:00:00 PM 19-07-2025"
+    },
+    {
+      "id": 131556,
+      "event_category": "Cricket",
+      "title": "Baden-Wurttemberg United-W vs DJK Munich-W (ECS-W Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Baden-Wurttemberg United-W",
+      "team_2": "DJK Munich-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Germany, Krefeld, 2025",
+      "match_name": "Baden-Wurttemberg United-W vs DJK Munich-W",
+      "startTime": "02:30:00 PM 19-07-2025"
     }
   ]
 }
