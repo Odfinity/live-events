@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:58 AM 19-07-2025",
+  "last update time": "04:18 AM 19-07-2025",
   "matches": [
     {
-      "id": 131722,
+      "id": 130490,
       "event_category": "Cricket",
-      "title": "Cayman Bay Stingrays vs Vegas Vikings (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131458_5453_VEV_CBS_fc-Web.jpg",
-      "team_1": "Cayman Bay Stingrays",
-      "team_2": "Vegas Vikings",
+      "title": "Guyana Amazon Warriors vs Rangpur Riders (Global Super League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130481_5402_GUY_RAN_fc-Web_1752057006988.jpg",
+      "team_1": "Guyana Amazon Warriors",
+      "team_2": "Rangpur Riders",
       "status": "LIVE",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Cayman Bay Stingrays vs Vegas Vikings",
-      "startTime": "01:00:00 AM 19-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jkR7hwJuQmKxl2gBOifwTw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131722_english_hls_7461ta-di_h264/index.m3u8"
+      "event_name": "Global Super League, 2025",
+      "match_name": "Guyana Amazon Warriors vs Rangpur Riders",
+      "startTime": "04:30:00 AM 19-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/86G01IR0TGSuRiikom5Ftw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130490_english_hls_3037ta-di_h264/index.m3u8"
     },
     {
       "id": 131256,
@@ -30,18 +30,6 @@
       "startTime": "03:30:00 AM 19-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/4gujmsmpS2GvkUSgDQW2Vg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131256_english_hls_65357ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130490,
-      "event_category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Rangpur Riders (Global Super League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130481_5402_GUY_RAN_fc-Web_1752057006988.jpg",
-      "team_1": "Guyana Amazon Warriors",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Global Super League, 2025",
-      "match_name": "Guyana Amazon Warriors vs Rangpur Riders",
-      "startTime": "04:30:00 AM 19-07-2025"
     },
     {
       "id": 128746,
@@ -450,6 +438,18 @@
       "event_name": "E1 Monaco GP",
       "match_name": "Session 4 - Race Off",
       "startTime": "06:10:00 PM 19-07-2025"
+    },
+    {
+      "id": 131392,
+      "event_category": "Motorsports",
+      "title": "Session 5 - Finals vs Monaco (E1 Monaco GP)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
+      "team_1": "Session 5 - Finals",
+      "team_2": "Monaco",
+      "status": "UPCOMING",
+      "event_name": "E1 Monaco GP",
+      "match_name": "Session 5 - Finals",
+      "startTime": "07:30:00 PM 19-07-2025"
     }
   ]
 }
