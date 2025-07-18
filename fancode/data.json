@@ -1,49 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:24 PM 18-07-2025",
+  "last update time": "08:56 PM 18-07-2025",
   "matches": [
-    {
-      "id": 131721,
-      "event_category": "Cricket",
-      "title": "Miami Blaze vs Grand Cayman Falcons (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131455_5453_GCF_MIB_fc-Web.jpg",
-      "team_1": "Miami Blaze",
-      "team_2": "Grand Cayman Falcons",
-      "status": "LIVE",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Miami Blaze vs Grand Cayman Falcons",
-      "startTime": "06:30:00 PM 18-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Ipxy6E4bTVadvG8TIpTf3Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131721_english_hls_30288ta-di_h264/index.m3u8"
-    },
     {
       "id": 129718,
       "event_category": "Cricket",
-      "title": "England Champions vs Pakistan Champions (World Championship of Legends, 2025)",
+      "title": "Pakistan Champions vs England Champions (World Championship of Legends, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/129718_5370_EDC_PNC_fc-Web.jpg",
-      "team_1": "England Champions",
-      "team_2": "Pakistan Champions",
+      "team_1": "Pakistan Champions",
+      "team_2": "England Champions",
       "status": "LIVE",
       "event_name": "World Championship of Legends, 2025",
-      "match_name": "England Champions vs Pakistan Champions",
+      "match_name": "Pakistan Champions vs England Champions",
       "startTime": "09:00:00 PM 18-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/GtaFJbq7QAOuC9nHaoPjuw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129718_english_hls_97303ta-di_h264/index.m3u8"
     },
     {
-      "id": 131263,
+      "id": 131740,
       "event_category": "Cricket",
-      "title": "Rwanda vs Bahrain (Rwanda Tri Nations T20 Cup 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
-      "team_1": "Rwanda",
-      "team_2": "Bahrain",
+      "title": "Cayman Bay Stingrays vs Florida Lions (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131463_5453_CBS_FLI_fc-Web.jpg",
+      "team_1": "Cayman Bay Stingrays",
+      "team_2": "Florida Lions",
       "status": "LIVE",
-      "event_name": "Rwanda Tri Nations T20 Cup 2025",
-      "match_name": "Rwanda vs Bahrain",
-      "startTime": "05:15:00 PM 18-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/o3ai0L4SQ3ODXWJ5n9qjZg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131263_english_hls_5196ta-di_h264/index.m3u8"
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Cayman Bay Stingrays vs Florida Lions",
+      "startTime": "08:45:00 PM 18-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/f1105MxURXeZfMAaFBTrdA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131740_english_hls_91227ta-di_h264/index.m3u8"
     },
     {
       "id": 130120,
@@ -128,18 +114,6 @@
       "startTime": "08:25:00 PM 18-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/2SFQPd-FRLiVLIbaFhwFRw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131389_english_hls_57561ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131740,
-      "event_category": "Cricket",
-      "title": "Cayman Bay Stingrays vs Florida Lions (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131463_5453_CBS_FLI_fc-Web.jpg",
-      "team_1": "Cayman Bay Stingrays",
-      "team_2": "Florida Lions",
-      "status": "UPCOMING",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Cayman Bay Stingrays vs Florida Lions",
-      "startTime": "08:45:00 PM 18-07-2025"
     },
     {
       "id": 131741,
@@ -274,6 +248,18 @@
       "startTime": "12:30:00 AM 19-07-2025"
     },
     {
+      "id": 131717,
+      "event_category": "Cricket",
+      "title": "Vegas Vikings vs Miami Blaze (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131451_5453_VEV_MIB_fc-Web.jpg",
+      "team_1": "Vegas Vikings",
+      "team_2": "Miami Blaze",
+      "status": "UPCOMING",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Vegas Vikings vs Miami Blaze",
+      "startTime": "06:30:00 PM 19-07-2025"
+    },
+    {
       "id": 123370,
       "event_category": "Football",
       "title": "Spain Women vs Switzerland Women (UEFA Women's EURO 2025)",
@@ -296,18 +282,6 @@
       "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
       "match_name": "Singapore vs Malaysia",
       "startTime": "06:30:00 AM 19-07-2025"
-    },
-    {
-      "id": 131717,
-      "event_category": "Cricket",
-      "title": "Vegas Vikings vs Miami Blaze (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131451_5453_VEV_MIB_fc-Web.jpg",
-      "team_1": "Vegas Vikings",
-      "team_2": "Miami Blaze",
-      "status": "UPCOMING",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Vegas Vikings vs Miami Blaze",
-      "startTime": "06:30:00 PM 19-07-2025"
     },
     {
       "id": 130426,
@@ -406,30 +380,6 @@
       "startTime": "02:00:00 PM 19-07-2025"
     },
     {
-      "id": 131556,
-      "event_category": "Cricket",
-      "title": "Baden-Wurttemberg United-W vs DJK Munich-W (ECS-W Germany, Krefeld, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Baden-Wurttemberg United-W",
-      "team_2": "DJK Munich-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Germany, Krefeld, 2025",
-      "match_name": "Baden-Wurttemberg United-W vs DJK Munich-W",
-      "startTime": "02:30:00 PM 19-07-2025"
-    },
-    {
-      "id": 130790,
-      "event_category": "Cricket",
-      "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Mis-e-Ainak Knights",
-      "team_2": "Speen Ghar Tigers",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2025",
-      "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
-      "startTime": "03:00:00 PM 19-07-2025"
-    },
-    {
       "id": 131737,
       "event_category": "Cricket",
       "title": "Caribbean Tigers vs Grand Cayman Falcons (Max60 Season 2, 2025)",
@@ -442,6 +392,18 @@
       "startTime": "08:45:00 PM 19-07-2025"
     },
     {
+      "id": 131556,
+      "event_category": "Cricket",
+      "title": "Baden-Wurttemberg United-W vs DJK Munich-W (ECS-W Germany, Krefeld, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Baden-Wurttemberg United-W",
+      "team_2": "DJK Munich-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Germany, Krefeld, 2025",
+      "match_name": "Baden-Wurttemberg United-W vs DJK Munich-W",
+      "startTime": "02:30:00 PM 19-07-2025"
+    },
+    {
       "id": 129720,
       "event_category": "Cricket",
       "title": "England Champions vs Australia Champions (World Championship of Legends, 2025)",
@@ -452,6 +414,18 @@
       "event_name": "World Championship of Legends, 2025",
       "match_name": "England Champions vs Australia Champions",
       "startTime": "09:00:00 PM 19-07-2025"
+    },
+    {
+      "id": 130790,
+      "event_category": "Cricket",
+      "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Mis-e-Ainak Knights",
+      "team_2": "Speen Ghar Tigers",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2025",
+      "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
+      "startTime": "03:00:00 PM 19-07-2025"
     },
     {
       "id": 130763,
@@ -476,6 +450,18 @@
       "event_name": "ECS-W Germany, Krefeld, 2025",
       "match_name": "Western Warriors-W vs DJK Munich-W",
       "startTime": "04:45:00 PM 19-07-2025"
+    },
+    {
+      "id": 131265,
+      "event_category": "Cricket",
+      "title": "Malawi vs Rwanda (Rwanda Tri Nations T20 Cup 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
+      "team_1": "Malawi",
+      "team_2": "Rwanda",
+      "status": "UPCOMING",
+      "event_name": "Rwanda Tri Nations T20 Cup 2025",
+      "match_name": "Malawi vs Rwanda",
+      "startTime": "05:15:00 PM 19-07-2025"
     }
   ]
 }
