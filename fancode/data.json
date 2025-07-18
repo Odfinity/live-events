@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 18-07-2025",
+  "last update time": "06:29 PM 18-07-2025",
   "matches": [
     {
       "id": 128755,
@@ -20,14 +20,16 @@
     {
       "id": 131721,
       "event_category": "Cricket",
-      "title": "Grand Cayman Falcons vs Miami Blaze (Max60 Season 2, 2025)",
+      "title": "Miami Blaze vs Grand Cayman Falcons (Max60 Season 2, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131455_5453_GCF_MIB_fc-Web.jpg",
-      "team_1": "Grand Cayman Falcons",
-      "team_2": "Miami Blaze",
-      "status": "UPCOMING",
+      "team_1": "Miami Blaze",
+      "team_2": "Grand Cayman Falcons",
+      "status": "LIVE",
       "event_name": "Max60 Season 2, 2025",
-      "match_name": "Grand Cayman Falcons vs Miami Blaze",
-      "startTime": "06:30:00 PM 18-07-2025"
+      "match_name": "Miami Blaze vs Grand Cayman Falcons",
+      "startTime": "06:30:00 PM 18-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Ipxy6E4bTVadvG8TIpTf3Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131721_english_hls_30288ta-di_h264/index.m3u8"
     },
     {
       "id": 130761,
@@ -47,7 +49,7 @@
       "id": 131263,
       "event_category": "Cricket",
       "title": "Rwanda vs Bahrain (Rwanda Tri Nations T20 Cup 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131263_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
       "team_1": "Rwanda",
       "team_2": "Bahrain",
       "status": "LIVE",
@@ -70,6 +72,20 @@
       "startTime": "05:30:00 PM 18-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/r0Jo_PFxTMq_QB3eCtvxOg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130610_english_hls_3338ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130120,
+      "event_category": "Cricket",
+      "title": "Genid Yanam Royals vs Karaikal Kniights (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Genid Yanam Royals",
+      "team_2": "Karaikal Kniights",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Genid Yanam Royals vs Karaikal Kniights",
+      "startTime": "06:00:00 PM 18-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/cbpbpMNZTy2ZScP1b_wxmQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130120_english_hls_89632ta-di_h264/index.m3u8"
     },
     {
       "id": 131281,
@@ -234,16 +250,28 @@
       "startTime": "04:30:00 AM 19-07-2025"
     },
     {
-      "id": 130120,
+      "id": 126080,
       "event_category": "Cricket",
-      "title": "Genid Yanam Royals vs Karaikal Kniights (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Genid Yanam Royals",
-      "team_2": "Karaikal Kniights",
+      "title": "Glamorgan Women vs Kent Women (Women's Vitality Blast League 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
+      "team_1": "Glamorgan Women",
+      "team_2": "Kent Women",
       "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Genid Yanam Royals vs Karaikal Kniights",
-      "startTime": "06:00:00 PM 18-07-2025"
+      "event_name": "Women's Vitality Blast League 2, 2025",
+      "match_name": "Glamorgan Women vs Kent Women",
+      "startTime": "07:00:00 PM 18-07-2025"
+    },
+    {
+      "id": 128746,
+      "event_category": "Cricket",
+      "title": "England Women vs India Women (India Women tour of England, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-Vs-IND_ODI-SERIES_2025_match-card.jpg",
+      "team_1": "England Women",
+      "team_2": "India Women",
+      "status": "UPCOMING",
+      "event_name": "India Women tour of England, 2025",
+      "match_name": "England Women vs India Women",
+      "startTime": "03:30:00 PM 19-07-2025"
     },
     {
       "id": 130001,
@@ -294,18 +322,6 @@
       "startTime": "12:30:00 AM 19-07-2025"
     },
     {
-      "id": 128746,
-      "event_category": "Cricket",
-      "title": "England Women vs India Women (India Women tour of England, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-Vs-IND_ODI-SERIES_2025_match-card.jpg",
-      "team_1": "England Women",
-      "team_2": "India Women",
-      "status": "UPCOMING",
-      "event_name": "India Women tour of England, 2025",
-      "match_name": "England Women vs India Women",
-      "startTime": "03:30:00 PM 19-07-2025"
-    },
-    {
       "id": 130778,
       "event_category": "Cricket",
       "title": "Singapore vs Malaysia (Asia-Pacific Cricket Champions Trophy, 2025)",
@@ -316,6 +332,18 @@
       "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
       "match_name": "Singapore vs Malaysia",
       "startTime": "06:30:00 AM 19-07-2025"
+    },
+    {
+      "id": 129719,
+      "event_category": "Cricket",
+      "title": "West Indies Champions vs South Africa Champions (World Championship of Legends, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129719_5370_WIC_SAC_fc-Web.jpg",
+      "team_1": "West Indies Champions",
+      "team_2": "South Africa Champions",
+      "status": "UPCOMING",
+      "event_name": "World Championship of Legends, 2025",
+      "match_name": "West Indies Champions vs South Africa Champions",
+      "startTime": "05:00:00 PM 19-07-2025"
     },
     {
       "id": 130426,
@@ -340,18 +368,6 @@
       "event_name": "Shpageeza Cricket League, 2025",
       "match_name": "Amo Sharks vs Boost Defenders",
       "startTime": "10:00:00 AM 19-07-2025"
-    },
-    {
-      "id": 129719,
-      "event_category": "Cricket",
-      "title": "West Indies Champions vs South Africa Champions (World Championship of Legends, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129719_5370_WIC_SAC_fc-Web.jpg",
-      "team_1": "West Indies Champions",
-      "team_2": "South Africa Champions",
-      "status": "UPCOMING",
-      "event_name": "World Championship of Legends, 2025",
-      "match_name": "West Indies Champions vs South Africa Champions",
-      "startTime": "05:00:00 PM 19-07-2025"
     },
     {
       "id": 130779,
@@ -390,22 +406,22 @@
       "startTime": "12:30:00 PM 19-07-2025"
     },
     {
-      "id": 126080,
+      "id": 131717,
       "event_category": "Cricket",
-      "title": "Glamorgan Women vs Kent Women (Women's Vitality Blast League 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
-      "team_1": "Glamorgan Women",
-      "team_2": "Kent Women",
+      "title": "Vegas Vikings vs Miami Blaze (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131451_5453_VEV_MIB_fc-Web.jpg",
+      "team_1": "Vegas Vikings",
+      "team_2": "Miami Blaze",
       "status": "UPCOMING",
-      "event_name": "Women's Vitality Blast League 2, 2025",
-      "match_name": "Glamorgan Women vs Kent Women",
-      "startTime": "07:00:00 PM 18-07-2025"
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Vegas Vikings vs Miami Blaze",
+      "startTime": "06:30:00 PM 19-07-2025"
     },
     {
       "id": 131264,
       "event_category": "Cricket",
       "title": "Bahrain vs Malawi (Rwanda Tri Nations T20 Cup 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131264_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
       "team_1": "Bahrain",
       "team_2": "Malawi",
       "status": "UPCOMING",
@@ -424,18 +440,6 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "Bud Cricket Club vs Nabajyoti Club",
       "startTime": "01:30:00 PM 19-07-2025"
-    },
-    {
-      "id": 131717,
-      "event_category": "Cricket",
-      "title": "Vegas Vikings vs Miami Blaze (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131451_5453_VEV_MIB_fc-Web.jpg",
-      "team_1": "Vegas Vikings",
-      "team_2": "Miami Blaze",
-      "status": "UPCOMING",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Vegas Vikings vs Miami Blaze",
-      "startTime": "06:30:00 PM 19-07-2025"
     },
     {
       "id": 130121,
@@ -460,6 +464,18 @@
       "event_name": "ECS-W Germany, Krefeld, 2025",
       "match_name": "Baden-Wurttemberg United-W vs DJK Munich-W",
       "startTime": "02:30:00 PM 19-07-2025"
+    },
+    {
+      "id": 130790,
+      "event_category": "Cricket",
+      "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Mis-e-Ainak Knights",
+      "team_2": "Speen Ghar Tigers",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2025",
+      "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
+      "startTime": "03:00:00 PM 19-07-2025"
     }
   ]
 }
