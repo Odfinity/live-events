@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 19-07-2025",
+  "last update time": "06:23 PM 19-07-2025",
   "matches": [
     {
       "id": 128746,
@@ -34,14 +34,16 @@
     {
       "id": 131717,
       "event_category": "Cricket",
-      "title": "Vegas Vikings vs Miami Blaze (Max60 Season 2, 2025)",
+      "title": "Miami Blaze vs Vegas Vikings (Max60 Season 2, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131451_5453_VEV_MIB_fc-Web.jpg",
-      "team_1": "Vegas Vikings",
-      "team_2": "Miami Blaze",
-      "status": "UPCOMING",
+      "team_1": "Miami Blaze",
+      "team_2": "Vegas Vikings",
+      "status": "LIVE",
       "event_name": "Max60 Season 2, 2025",
-      "match_name": "Vegas Vikings vs Miami Blaze",
-      "startTime": "06:30:00 PM 19-07-2025"
+      "match_name": "Miami Blaze vs Vegas Vikings",
+      "startTime": "06:30:00 PM 19-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HPNOkxLaRDa9XKOtDxnxoQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131717_english_hls_46910ta-di_h264/index.m3u8"
     },
     {
       "id": 119312,
@@ -70,20 +72,6 @@
       "startTime": "02:30:00 PM 19-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/LpV-1dVsTBu7DWnRhLgjhw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131282_english_hls_94669ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130121,
-      "event_category": "Cricket",
-      "title": "Genid Yanam Royals vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Genid Yanam Royals",
-      "team_2": "Mahe Megalo Strikers",
-      "status": "LIVE",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Genid Yanam Royals vs Mahe Megalo Strikers",
-      "startTime": "02:00:00 PM 19-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JHkZw0VwSImtqiM5zRWjKQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130121_english_hls_23950ta-di_h264/index.m3u8"
     },
     {
       "id": 130790,
@@ -142,32 +130,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131265_english_hls_72984ta-di_h264/index.m3u8"
     },
     {
-      "id": 126270,
-      "event_category": "Football",
-      "title": "Shonan Bellmare vs Cerezo Osaka (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/126270_4795_BLM_OSA_fc-web.jpg",
-      "team_1": "Shonan Bellmare",
-      "team_2": "Cerezo Osaka",
+      "id": 130122,
+      "event_category": "Cricket",
+      "title": "Villianur Mohit Kings vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Villianur Mohit Kings",
+      "team_2": "Ossudu Accord Warriors",
       "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Shonan Bellmare vs Cerezo Osaka",
-      "startTime": "03:30:00 PM 19-07-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/126270_english_hls_42666ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/126270_english_hls_42666ta-di_h264/index.m3u8"
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Villianur Mohit Kings vs Ossudu Accord Warriors",
+      "startTime": "06:00:00 PM 19-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/FeCDXRq1RPaSTsa_mxkDaw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130122_english_hls_56969ta-di_h264/index.m3u8"
     },
     {
-      "id": 131390,
+      "id": 131391,
       "event_category": "Motorsports",
-      "title": "Session 3 - Group Races vs Monaco (E1 Monaco GP)",
+      "title": "Session 4 - Race Off vs Monaco (E1 Monaco GP)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
-      "team_1": "Session 3 - Group Races",
+      "team_1": "Session 4 - Race Off",
       "team_2": "Monaco",
       "status": "LIVE",
       "event_name": "E1 Monaco GP",
-      "match_name": "Session 3 - Group Races",
-      "startTime": "03:20:00 PM 19-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iZ4B9ubGTyGq4u5OfVsR6Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131390_english_hls_98776ta-di_h264/index.m3u8"
+      "match_name": "Session 4 - Race Off",
+      "startTime": "06:10:00 PM 19-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/3tCLdNo5QMO6Vu3Cf53V-A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131391_english_hls_76288ta-di_h264/index.m3u8"
     },
     {
       "id": 131737,
@@ -230,27 +218,15 @@
       "startTime": "03:00:00 AM 20-07-2025"
     },
     {
-      "id": 130122,
-      "event_category": "Cricket",
-      "title": "Ossudu Accord Warriors vs Villianur Mohit Kings (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Ossudu Accord Warriors",
-      "team_2": "Villianur Mohit Kings",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Ossudu Accord Warriors vs Villianur Mohit Kings",
-      "startTime": "06:00:00 PM 19-07-2025"
-    },
-    {
       "id": 131558,
       "event_category": "Cricket",
-      "title": "Baden-Wurttemberg United-W vs Western Warriors-W (ECS-W Germany, Krefeld, 2025)",
+      "title": "Western Warriors-W vs Baden-Wurttemberg United-W (ECS-W Germany, Krefeld, 2025)",
       "src": "https://images.fancode.com/aig/match/v1/131558_CASACARDS_APP.png",
-      "team_1": "Baden-Wurttemberg United-W",
-      "team_2": "Western Warriors-W",
+      "team_1": "Western Warriors-W",
+      "team_2": "Baden-Wurttemberg United-W",
       "status": "UPCOMING",
       "event_name": "ECS-W Germany, Krefeld, 2025",
-      "match_name": "Baden-Wurttemberg United-W vs Western Warriors-W",
+      "match_name": "Western Warriors-W vs Baden-Wurttemberg United-W",
       "startTime": "06:45:00 PM 19-07-2025"
     },
     {
@@ -290,18 +266,6 @@
       "startTime": "12:30:00 AM 20-07-2025"
     },
     {
-      "id": 130780,
-      "event_category": "Cricket",
-      "title": "Singapore vs Hong Kong, China (Asia-Pacific Cricket Champions Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130780_5424_SIN_HK_fc-web.jpg",
-      "team_1": "Singapore",
-      "team_2": "Hong Kong, China",
-      "status": "UPCOMING",
-      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
-      "match_name": "Singapore vs Hong Kong, China",
-      "startTime": "06:30:00 AM 20-07-2025"
-    },
-    {
       "id": 128756,
       "event_category": "Cricket",
       "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
@@ -312,6 +276,18 @@
       "event_name": "Zimbabwe T20I Tri Series, 2025",
       "match_name": "Zimbabwe vs South Africa",
       "startTime": "04:30:00 PM 20-07-2025"
+    },
+    {
+      "id": 130780,
+      "event_category": "Cricket",
+      "title": "Singapore vs Hong Kong, China (Asia-Pacific Cricket Champions Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130780_5424_SIN_HK_fc-web.jpg",
+      "team_1": "Singapore",
+      "team_2": "Hong Kong, China",
+      "status": "UPCOMING",
+      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
+      "match_name": "Singapore vs Hong Kong, China",
+      "startTime": "06:30:00 AM 20-07-2025"
     },
     {
       "id": 130428,
@@ -422,18 +398,6 @@
       "startTime": "02:00:00 PM 20-07-2025"
     },
     {
-      "id": 131391,
-      "event_category": "Motorsports",
-      "title": "Session 4 - Race Off vs Monaco (E1 Monaco GP)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
-      "team_1": "Session 4 - Race Off",
-      "team_2": "Monaco",
-      "status": "UPCOMING",
-      "event_name": "E1 Monaco GP",
-      "match_name": "Session 4 - Race Off",
-      "startTime": "06:10:00 PM 19-07-2025"
-    },
-    {
       "id": 131561,
       "event_category": "Cricket",
       "title": "Baden-Wurttemberg United-W vs Western Warriors-W (ECS-W Germany, Krefeld, 2025)",
@@ -458,6 +422,30 @@
       "startTime": "03:00:00 PM 20-07-2025"
     },
     {
+      "id": 128762,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Zimbabwe Women (Zimbabwe Women tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-old-match-card.png",
+      "team_1": "Ireland Women",
+      "team_2": "Zimbabwe Women",
+      "status": "UPCOMING",
+      "event_name": "Zimbabwe Women tour of Ireland, 2025",
+      "match_name": "Ireland Women vs Zimbabwe Women",
+      "startTime": "08:30:00 PM 20-07-2025"
+    },
+    {
+      "id": 131729,
+      "event_category": "Cricket",
+      "title": "Grand Cayman Falcons vs Cayman Bay Stingrays (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131465_5453_GCF_CBS_fc-Web.jpg",
+      "team_1": "Grand Cayman Falcons",
+      "team_2": "Cayman Bay Stingrays",
+      "status": "UPCOMING",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Grand Cayman Falcons vs Cayman Bay Stingrays",
+      "startTime": "08:45:00 PM 20-07-2025"
+    },
+    {
       "id": 131562,
       "event_category": "Cricket",
       "title": "DJK Munich-W vs Baden-Wurttemberg United-W (ECS-W Germany, Krefeld, 2025)",
@@ -470,16 +458,28 @@
       "startTime": "04:45:00 PM 20-07-2025"
     },
     {
-      "id": 128762,
+      "id": 129721,
       "event_category": "Cricket",
-      "title": "Ireland Women vs Zimbabwe Women (Zimbabwe Women tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-old-match-card.png",
-      "team_1": "Ireland Women",
-      "team_2": "Zimbabwe Women",
+      "title": "India Champions vs Pakistan Champions (World Championship of Legends, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129721_5370_IAC_PNC_fc-Web.jpg",
+      "team_1": "India Champions",
+      "team_2": "Pakistan Champions",
       "status": "UPCOMING",
-      "event_name": "Zimbabwe Women tour of Ireland, 2025",
-      "match_name": "Ireland Women vs Zimbabwe Women",
-      "startTime": "08:30:00 PM 20-07-2025"
+      "event_name": "World Championship of Legends, 2025",
+      "match_name": "India Champions vs Pakistan Champions",
+      "startTime": "09:00:00 PM 20-07-2025"
+    },
+    {
+      "id": 131267,
+      "event_category": "Cricket",
+      "title": "Rwanda vs Bahrain (Rwanda Tri Nations T20 Cup 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
+      "team_1": "Rwanda",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Rwanda Tri Nations T20 Cup 2025",
+      "match_name": "Rwanda vs Bahrain",
+      "startTime": "05:15:00 PM 20-07-2025"
     }
   ]
 }
