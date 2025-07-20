@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:00 PM 20-07-2025",
+  "last update time": "04:21 PM 20-07-2025",
   "matches": [
+    {
+      "id": 128756,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128756_5315_ZIM_SA_fc-web.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "South Africa",
+      "status": "LIVE",
+      "event_name": "Zimbabwe T20I Tri Series, 2025",
+      "match_name": "Zimbabwe vs South Africa",
+      "startTime": "04:30:00 PM 20-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fgpIgNl6SzKSBwbxKC7xmw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128756_english_hls_65889ta-di_h264/index.m3u8"
+    },
     {
       "id": 119313,
       "event_category": "MotoGP",
@@ -44,20 +58,6 @@
       "startTime": "03:00:00 PM 20-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/du2ueU88QJ2qRTuubdWgAQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130792_english_hls_24674ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 129860,
-      "event_category": "Cricket",
-      "title": "Botswana Women vs Eswatini Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129860_CASACARDS_APP.png",
-      "team_1": "Botswana Women",
-      "team_2": "Eswatini Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-      "match_name": "Botswana Women vs Eswatini Women",
-      "startTime": "01:00:00 PM 20-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/3ZuBbfFPSUKQaqgu0jPFow/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129860_english_hls_8186ta-di_h264/index.m3u8"
     },
     {
       "id": 130429,
@@ -130,30 +130,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131266_english_hls_13841ta-di_h264/index.m3u8"
     },
     {
-      "id": 131561,
+      "id": 129860,
       "event_category": "Cricket",
-      "title": "Western Warriors-W vs Baden-Wurttemberg United-W (ECS-W Germany, Krefeld, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131561_CASACARDS_APP.png",
-      "team_1": "Western Warriors-W",
-      "team_2": "Baden-Wurttemberg United-W",
+      "title": "Botswana Women vs Eswatini Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/129860_CASACARDS_APP.png",
+      "team_1": "Botswana Women",
+      "team_2": "Eswatini Women",
       "status": "LIVE",
-      "event_name": "ECS-W Germany, Krefeld, 2025",
-      "match_name": "Western Warriors-W vs Baden-Wurttemberg United-W",
-      "startTime": "02:30:00 PM 20-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/uMSc2aniSWeR-j6TSsJbCA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131561_english_hls_54447ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128756,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128756_5315_ZIM_SA_fc-web.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "South Africa",
-      "status": "UPCOMING",
-      "event_name": "Zimbabwe T20I Tri Series, 2025",
-      "match_name": "Zimbabwe vs South Africa",
-      "startTime": "04:30:00 PM 20-07-2025"
+      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
+      "match_name": "Botswana Women vs Eswatini Women",
+      "startTime": "01:00:00 PM 20-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/3ZuBbfFPSUKQaqgu0jPFow/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129860_english_hls_8186ta-di_h264/index.m3u8"
     },
     {
       "id": 128762,
@@ -466,6 +454,18 @@
       "event_name": "Max60 Season 2, 2025",
       "match_name": "Caribbean Tigers vs Grand Cayman Falcons",
       "startTime": "06:30:00 PM 21-07-2025"
+    },
+    {
+      "id": 130765,
+      "event_category": "Cricket",
+      "title": "Kenya vs Uganda (Pearl of Africa T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+      "team_1": "Kenya",
+      "team_2": "Uganda",
+      "status": "UPCOMING",
+      "event_name": "Pearl of Africa T20, 2025",
+      "match_name": "Kenya vs Uganda",
+      "startTime": "04:00:00 PM 21-07-2025"
     }
   ]
 }
