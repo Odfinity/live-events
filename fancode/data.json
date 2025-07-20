@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:25 PM 20-07-2025",
+  "last update time": "02:54 PM 20-07-2025",
   "matches": [
+    {
+      "id": 119313,
+      "event_category": "MotoGP",
+      "title": "Race Day vs Automotodrom Brno (GRAND PRIX OF CZECHIA)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GRAND-PRIX-OF-CZECHIA-old-match-card.jpg",
+      "team_1": "Race Day",
+      "team_2": "Automotodrom Brno",
+      "status": "LIVE",
+      "event_name": "GRAND PRIX OF CZECHIA",
+      "match_name": "Race Day",
+      "startTime": "02:30:00 PM 20-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/aurMZXANSS-UWRi8qTYlCg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119313_english_hls_20756ta-di_h264/index.m3u8"
+    },
     {
       "id": 131283,
       "event_category": "Golf",
@@ -18,18 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131283_english_hls_57029ta-di_h264/index.m3u8"
     },
     {
-      "id": 119313,
-      "event_category": "MotoGP",
-      "title": "Race Day vs Automotodrom Brno (GRAND PRIX OF CZECHIA)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GRAND-PRIX-OF-CZECHIA-old-match-card.jpg",
-      "team_1": "Race Day",
-      "team_2": "Automotodrom Brno",
+      "id": 130792,
+      "event_category": "Cricket",
+      "title": "Boost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130792_5425_SG_BOS_fc-Web_1752947982243.jpg",
+      "team_1": "Boost Defenders",
+      "team_2": "Speen Ghar Tigers",
       "status": "LIVE",
-      "event_name": "GRAND PRIX OF CZECHIA",
-      "match_name": "Race Day",
-      "startTime": "02:30:00 PM 20-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/aurMZXANSS-UWRi8qTYlCg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119313_english_hls_20756ta-di_h264/index.m3u8"
+      "event_name": "Shpageeza Cricket League, 2025",
+      "match_name": "Boost Defenders vs Speen Ghar Tigers",
+      "startTime": "03:00:00 PM 20-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/du2ueU88QJ2qRTuubdWgAQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130792_english_hls_24674ta-di_h264/index.m3u8"
     },
     {
       "id": 131266,
@@ -60,29 +74,15 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129860_english_hls_8186ta-di_h264/index.m3u8"
     },
     {
-      "id": 129859,
-      "event_category": "Cricket",
-      "title": "Lesotho Women vs Rwanda Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129859_CASACARDS_APP.png",
-      "team_1": "Lesotho Women",
-      "team_2": "Rwanda Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-      "match_name": "Lesotho Women vs Rwanda Women",
-      "startTime": "01:00:00 PM 20-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/3_2MySvdQAiKqzH_rjHXlw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129859_english_hls_26898ta-di_h264/index.m3u8"
-    },
-    {
       "id": 130429,
       "event_category": "Cricket",
-      "title": "91 Yards Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "title": "Nabajyoti Club vs 91 Yards Club (GTC Summer Challenge T20 Trophy, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "91 Yards Club",
-      "team_2": "Nabajyoti Club",
+      "team_1": "Nabajyoti Club",
+      "team_2": "91 Yards Club",
       "status": "LIVE",
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "91 Yards Club vs Nabajyoti Club",
+      "match_name": "Nabajyoti Club vs 91 Yards Club",
       "startTime": "01:30:00 PM 20-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/_8ltcMCmSH-5LM4d-Aq1LA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130429_english_hls_54203ta-di_h264/index.m3u8"
@@ -128,18 +128,6 @@
       "startTime": "02:30:00 PM 20-07-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/126269_english_hls_98253ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/126269_english_hls_98253ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130792,
-      "event_category": "Cricket",
-      "title": "Speen Ghar Tigers vs Boost Defenders (Shpageeza Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130792_5425_SG_BOS_fc-Web_1752947982243.jpg",
-      "team_1": "Speen Ghar Tigers",
-      "team_2": "Boost Defenders",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2025",
-      "match_name": "Speen Ghar Tigers vs Boost Defenders",
-      "startTime": "03:00:00 PM 20-07-2025"
     },
     {
       "id": 128756,
@@ -238,6 +226,18 @@
       "startTime": "10:00:00 AM 21-07-2025"
     },
     {
+      "id": 126271,
+      "event_category": "Football",
+      "title": "Gamba Osaka vs Kawasaki Frontale (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/126271_4795_OSK_KAW_fc-web.jpg",
+      "team_1": "Gamba Osaka",
+      "team_2": "Kawasaki Frontale",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Gamba Osaka vs Kawasaki Frontale",
+      "startTime": "03:30:00 PM 20-07-2025"
+    },
+    {
       "id": 131562,
       "event_category": "Cricket",
       "title": "DJK Munich-W vs Baden-Wurttemberg United-W (ECS-W Germany, Krefeld, 2025)",
@@ -322,30 +322,6 @@
       "startTime": "10:30:00 PM 20-07-2025"
     },
     {
-      "id": 130430,
-      "event_category": "Cricket",
-      "title": "Bud Cricket Club vs City Cricket Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "Bud Cricket Club",
-      "team_2": "City Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "Bud Cricket Club vs City Cricket Club",
-      "startTime": "09:30:00 AM 21-07-2025"
-    },
-    {
-      "id": 126271,
-      "event_category": "Football",
-      "title": "Gamba Osaka vs Kawasaki Frontale (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/126271_4795_OSK_KAW_fc-web.jpg",
-      "team_1": "Gamba Osaka",
-      "team_2": "Kawasaki Frontale",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Gamba Osaka vs Kawasaki Frontale",
-      "startTime": "03:30:00 PM 20-07-2025"
-    },
-    {
       "id": 130794,
       "event_category": "Cricket",
       "title": "Boost Defenders vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2025)",
@@ -356,6 +332,18 @@
       "event_name": "Shpageeza Cricket League, 2025",
       "match_name": "Boost Defenders vs Mis-e-Ainak Knights",
       "startTime": "03:00:00 PM 21-07-2025"
+    },
+    {
+      "id": 130430,
+      "event_category": "Cricket",
+      "title": "Bud Cricket Club vs City Cricket Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "Bud Cricket Club",
+      "team_2": "City Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "Bud Cricket Club vs City Cricket Club",
+      "startTime": "09:30:00 AM 21-07-2025"
     },
     {
       "id": 131276,
@@ -464,6 +452,18 @@
       "event_name": "ECS-W Sweden, Stockholm, 2025",
       "match_name": "Stockholm CC-W vs Alby Zalmi-W",
       "startTime": "02:15:00 PM 21-07-2025"
+    },
+    {
+      "id": 131742,
+      "event_category": "Cricket",
+      "title": "Caribbean Tigers vs Grand Cayman Falcons (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131470_5453_CAT_GCF_fc-Web.jpg",
+      "team_1": "Caribbean Tigers",
+      "team_2": "Grand Cayman Falcons",
+      "status": "UPCOMING",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Caribbean Tigers vs Grand Cayman Falcons",
+      "startTime": "06:30:00 PM 21-07-2025"
     }
   ]
 }
