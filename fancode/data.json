@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 21-07-2025",
+  "last update time": "06:30 PM 21-07-2025",
   "matches": [
+    {
+      "id": 131742,
+      "event_category": "Cricket",
+      "title": "Grand Cayman Falcons vs Caribbean Tigers (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131470_5453_CAT_GCF_fc-Web.jpg",
+      "team_1": "Grand Cayman Falcons",
+      "team_2": "Caribbean Tigers",
+      "status": "LIVE",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Grand Cayman Falcons vs Caribbean Tigers",
+      "startTime": "06:30:00 PM 21-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/1vo3pcLAQ4i9WUCffVCs0g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131742_english_hls_61541ta-di_h264/index.m3u8"
+    },
     {
       "id": 130794,
       "event_category": "Cricket",
@@ -18,20 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130794_english_hls_30115ta-di_h264/index.m3u8"
     },
     {
-      "id": 130125,
-      "event_category": "Cricket",
-      "title": "Karaikal Kniights vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Karaikal Kniights",
-      "team_2": "Ossudu Accord Warriors",
-      "status": "LIVE",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Karaikal Kniights vs Ossudu Accord Warriors",
-      "startTime": "02:00:00 PM 21-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jhe3FIdTRRKYgmij3E3l-w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130125_english_hls_60841ta-di_h264/index.m3u8"
-    },
-    {
       "id": 130765,
       "event_category": "Cricket",
       "title": "Uganda vs Kenya (Pearl of Africa T20, 2025)",
@@ -44,20 +44,6 @@
       "startTime": "04:00:00 PM 21-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/1QxyZfsoTRq_SGTOhgy9_A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130765_english_hls_9443ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131623,
-      "event_category": "Cricket",
-      "title": "Stockholm CC-W vs Djurgardens IF-W (ECS-W Sweden, Stockholm, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131623_CASACARDS_APP.png",
-      "team_1": "Stockholm CC-W",
-      "team_2": "Djurgardens IF-W",
-      "status": "LIVE",
-      "event_name": "ECS-W Sweden, Stockholm, 2025",
-      "match_name": "Stockholm CC-W vs Djurgardens IF-W",
-      "startTime": "04:15:00 PM 21-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/CiXXsOmfT5yB1gJ3TST9uA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131623_english_hls_23752ta-di_h264/index.m3u8"
     },
     {
       "id": 129866,
@@ -88,16 +74,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129865_english_hls_67775ta-di_h264/index.m3u8"
     },
     {
-      "id": 131742,
+      "id": 130126,
       "event_category": "Cricket",
-      "title": "Caribbean Tigers vs Grand Cayman Falcons (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131470_5453_CAT_GCF_fc-Web.jpg",
-      "team_1": "Caribbean Tigers",
-      "team_2": "Grand Cayman Falcons",
-      "status": "UPCOMING",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Caribbean Tigers vs Grand Cayman Falcons",
-      "startTime": "06:30:00 PM 21-07-2025"
+      "title": "Genid Yanam Royals vs Ruby White Town Legends (Pondicherry Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+      "team_1": "Genid Yanam Royals",
+      "team_2": "Ruby White Town Legends",
+      "status": "LIVE",
+      "event_name": "Pondicherry Premier League, 2025",
+      "match_name": "Genid Yanam Royals vs Ruby White Town Legends",
+      "startTime": "06:00:00 PM 21-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/TjvnDR5SQj23zzSIenRV6A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130126_english_hls_77835ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131624,
+      "event_category": "Cricket",
+      "title": "Djurgardens IF-W vs Alby Zalmi-W (ECS-W Sweden, Stockholm, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131624_CASACARDS_APP.png",
+      "team_1": "Djurgardens IF-W",
+      "team_2": "Alby Zalmi-W",
+      "status": "LIVE",
+      "event_name": "ECS-W Sweden, Stockholm, 2025",
+      "match_name": "Djurgardens IF-W vs Alby Zalmi-W",
+      "startTime": "06:15:00 PM 21-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/OvYtNPF0TGCPztCJY1drcA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131624_english_hls_9158ta-di_h264/index.m3u8"
     },
     {
       "id": 131728,
@@ -148,30 +150,6 @@
       "startTime": "02:45:00 AM 22-07-2025"
     },
     {
-      "id": 130126,
-      "event_category": "Cricket",
-      "title": "Genid Yanam Royals vs Ruby White Town Legends (Pondicherry Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-      "team_1": "Genid Yanam Royals",
-      "team_2": "Ruby White Town Legends",
-      "status": "UPCOMING",
-      "event_name": "Pondicherry Premier League, 2025",
-      "match_name": "Genid Yanam Royals vs Ruby White Town Legends",
-      "startTime": "06:00:00 PM 21-07-2025"
-    },
-    {
-      "id": 131624,
-      "event_category": "Cricket",
-      "title": "Djurgardens IF-W vs Alby Zalmi-W (ECS-W Sweden, Stockholm, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131624_CASACARDS_APP.png",
-      "team_1": "Djurgardens IF-W",
-      "team_2": "Alby Zalmi-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Sweden, Stockholm, 2025",
-      "match_name": "Djurgardens IF-W vs Alby Zalmi-W",
-      "startTime": "06:15:00 PM 21-07-2025"
-    },
-    {
       "id": 130795,
       "event_category": "Cricket",
       "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
@@ -182,6 +160,18 @@
       "event_name": "Shpageeza Cricket League, 2025",
       "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
       "startTime": "10:00:00 AM 22-07-2025"
+    },
+    {
+      "id": 130796,
+      "event_category": "Cricket",
+      "title": "Amo Sharks vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130796_5425_AM_MAK_fc-Web.jpg",
+      "team_1": "Amo Sharks",
+      "team_2": "Mis-e-Ainak Knights",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2025",
+      "match_name": "Amo Sharks vs Mis-e-Ainak Knights",
+      "startTime": "03:00:00 PM 22-07-2025"
     },
     {
       "id": 131625,
@@ -208,16 +198,16 @@
       "startTime": "10:45:00 PM 21-07-2025"
     },
     {
-      "id": 130796,
+      "id": 128757,
       "event_category": "Cricket",
-      "title": "Amo Sharks vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130796_5425_AM_MAK_fc-Web.jpg",
-      "team_1": "Amo Sharks",
-      "team_2": "Mis-e-Ainak Knights",
+      "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/128757_5315_NZ_SA_fc-web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "South Africa",
       "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2025",
-      "match_name": "Amo Sharks vs Mis-e-Ainak Knights",
-      "startTime": "03:00:00 PM 22-07-2025"
+      "event_name": "Zimbabwe T20I Tri Series, 2025",
+      "match_name": "New Zealand vs South Africa",
+      "startTime": "04:30:00 PM 22-07-2025"
     },
     {
       "id": 130782,
@@ -232,16 +222,16 @@
       "startTime": "06:30:00 AM 22-07-2025"
     },
     {
-      "id": 128757,
+      "id": 129723,
       "event_category": "Cricket",
-      "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128757_5315_NZ_SA_fc-web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "South Africa",
+      "title": "England Champions vs West Indies Champions (World Championship of Legends, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129723_5370_EDC_WIC_fc-Web.jpg",
+      "team_1": "England Champions",
+      "team_2": "West Indies Champions",
       "status": "UPCOMING",
-      "event_name": "Zimbabwe T20I Tri Series, 2025",
-      "match_name": "New Zealand vs South Africa",
-      "startTime": "04:30:00 PM 22-07-2025"
+      "event_name": "World Championship of Legends, 2025",
+      "match_name": "England Champions vs West Indies Champions",
+      "startTime": "05:00:00 PM 22-07-2025"
     },
     {
       "id": 130432,
@@ -256,16 +246,16 @@
       "startTime": "09:30:00 AM 22-07-2025"
     },
     {
-      "id": 129723,
+      "id": 128747,
       "event_category": "Cricket",
-      "title": "England Champions vs West Indies Champions (World Championship of Legends, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129723_5370_EDC_WIC_fc-Web.jpg",
-      "team_1": "England Champions",
-      "team_2": "West Indies Champions",
+      "title": "England Women vs India Women (India Women tour of England, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-Vs-IND_ODI-SERIES_2025_match-card.jpg",
+      "team_1": "England Women",
+      "team_2": "India Women",
       "status": "UPCOMING",
-      "event_name": "World Championship of Legends, 2025",
-      "match_name": "England Champions vs West Indies Champions",
-      "startTime": "05:00:00 PM 22-07-2025"
+      "event_name": "India Women tour of England, 2025",
+      "match_name": "England Women vs India Women",
+      "startTime": "05:30:00 PM 22-07-2025"
     },
     {
       "id": 130783,
@@ -278,18 +268,6 @@
       "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
       "match_name": "Singapore vs Samoa",
       "startTime": "11:30:00 AM 22-07-2025"
-    },
-    {
-      "id": 128747,
-      "event_category": "Cricket",
-      "title": "England Women vs India Women (India Women tour of England, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-Vs-IND_ODI-SERIES_2025_match-card.jpg",
-      "team_1": "England Women",
-      "team_2": "India Women",
-      "status": "UPCOMING",
-      "event_name": "India Women tour of England, 2025",
-      "match_name": "England Women vs India Women",
-      "startTime": "05:30:00 PM 22-07-2025"
     },
     {
       "id": 130766,
@@ -316,6 +294,18 @@
       "startTime": "12:15:00 PM 22-07-2025"
     },
     {
+      "id": 131739,
+      "event_category": "Cricket",
+      "title": "Florida Lions vs Miami Blaze (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131447_5453_FLI_MIB_fc-Web.jpg",
+      "team_1": "Florida Lions",
+      "team_2": "Miami Blaze",
+      "status": "UPCOMING",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Florida Lions vs Miami Blaze",
+      "startTime": "06:30:00 PM 22-07-2025"
+    },
+    {
       "id": 131268,
       "event_category": "Cricket",
       "title": "Rwanda vs Malawi (Rwanda Tri Nations T20 Cup 2025)",
@@ -338,18 +328,6 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "Bud Cricket Club vs City Cricket Club",
       "startTime": "01:30:00 PM 22-07-2025"
-    },
-    {
-      "id": 131739,
-      "event_category": "Cricket",
-      "title": "Florida Lions vs Miami Blaze (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131447_5453_FLI_MIB_fc-Web.jpg",
-      "team_1": "Florida Lions",
-      "team_2": "Miami Blaze",
-      "status": "UPCOMING",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Florida Lions vs Miami Blaze",
-      "startTime": "06:30:00 PM 22-07-2025"
     },
     {
       "id": 130127,
@@ -388,18 +366,6 @@
       "startTime": "04:00:00 PM 22-07-2025"
     },
     {
-      "id": 131628,
-      "event_category": "Cricket",
-      "title": "Stockholm CC-W vs Alby Zalmi-W (ECS-W Sweden, Stockholm, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131628_CASACARDS_APP.png",
-      "team_1": "Stockholm CC-W",
-      "team_2": "Alby Zalmi-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Sweden, Stockholm, 2025",
-      "match_name": "Stockholm CC-W vs Alby Zalmi-W",
-      "startTime": "04:15:00 PM 22-07-2025"
-    },
-    {
       "id": 128763,
       "event_category": "Cricket",
       "title": "Ireland Women vs Zimbabwe Women (Zimbabwe Women tour of Ireland, 2025)",
@@ -410,6 +376,18 @@
       "event_name": "Zimbabwe Women tour of Ireland, 2025",
       "match_name": "Ireland Women vs Zimbabwe Women",
       "startTime": "08:30:00 PM 22-07-2025"
+    },
+    {
+      "id": 131628,
+      "event_category": "Cricket",
+      "title": "Stockholm CC-W vs Alby Zalmi-W (ECS-W Sweden, Stockholm, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131628_CASACARDS_APP.png",
+      "team_1": "Stockholm CC-W",
+      "team_2": "Alby Zalmi-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Sweden, Stockholm, 2025",
+      "match_name": "Stockholm CC-W vs Alby Zalmi-W",
+      "startTime": "04:15:00 PM 22-07-2025"
     },
     {
       "id": 131718,
@@ -424,18 +402,6 @@
       "startTime": "08:45:00 PM 22-07-2025"
     },
     {
-      "id": 131269,
-      "event_category": "Cricket",
-      "title": "Bahrain vs Rwanda (Rwanda Tri Nations T20 Cup 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
-      "team_1": "Bahrain",
-      "team_2": "Rwanda",
-      "status": "UPCOMING",
-      "event_name": "Rwanda Tri Nations T20 Cup 2025",
-      "match_name": "Bahrain vs Rwanda",
-      "startTime": "05:15:00 PM 22-07-2025"
-    },
-    {
       "id": 129722,
       "event_category": "Cricket",
       "title": "India Champions vs South Africa Champions (World Championship of Legends, 2025)",
@@ -446,6 +412,18 @@
       "event_name": "World Championship of Legends, 2025",
       "match_name": "India Champions vs South Africa Champions",
       "startTime": "09:00:00 PM 22-07-2025"
+    },
+    {
+      "id": 131269,
+      "event_category": "Cricket",
+      "title": "Bahrain vs Rwanda (Rwanda Tri Nations T20 Cup 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
+      "team_1": "Bahrain",
+      "team_2": "Rwanda",
+      "status": "UPCOMING",
+      "event_name": "Rwanda Tri Nations T20 Cup 2025",
+      "match_name": "Bahrain vs Rwanda",
+      "startTime": "05:15:00 PM 22-07-2025"
     },
     {
       "id": 130128,
@@ -470,6 +448,30 @@
       "event_name": "ECS-W Sweden, Stockholm, 2025",
       "match_name": "Djurgardens IF-W vs Stockholm CC-W",
       "startTime": "06:15:00 PM 22-07-2025"
+    },
+    {
+      "id": 131724,
+      "event_category": "Cricket",
+      "title": "Grand Cayman Falcons vs Boca Raton Trailblazers (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-Web.jpg",
+      "team_1": "Grand Cayman Falcons",
+      "team_2": "Boca Raton Trailblazers",
+      "status": "UPCOMING",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Grand Cayman Falcons vs Boca Raton Trailblazers",
+      "startTime": "10:45:00 PM 22-07-2025"
+    },
+    {
+      "id": 131277,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs Pakistan",
+      "startTime": "05:30:00 PM 22-07-2025"
     }
   ]
 }
