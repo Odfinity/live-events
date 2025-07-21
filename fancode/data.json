@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:30 PM 21-07-2025",
+  "last update time": "01:06 PM 21-07-2025",
   "matches": [
     {
       "id": 130793,
@@ -16,20 +16,6 @@
       "startTime": "10:00:00 AM 21-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/cfLT3-vuRlGUDgQwPWJuXg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130793_english_hls_80569ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130430,
-      "event_category": "Cricket",
-      "title": "Bud Cricket Club vs City Cricket Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "Bud Cricket Club",
-      "team_2": "City Cricket Club",
-      "status": "LIVE",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "Bud Cricket Club vs City Cricket Club",
-      "startTime": "09:30:00 AM 21-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YLA80qROQrmcVJ0w35hQug/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130430_english_hls_98143ta-di_h264/index.m3u8"
     },
     {
       "id": 130764,
@@ -58,6 +44,34 @@
       "startTime": "12:15:00 PM 21-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/RFuvAMc0Qf-ghE0hjwFjvA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131621_english_hls_59298ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129864,
+      "event_category": "Cricket",
+      "title": "Rwanda Women vs Malawi Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129864_5373_RWA-W_MAWW_fc-web.jpg",
+      "team_1": "Rwanda Women",
+      "team_2": "Malawi Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
+      "match_name": "Rwanda Women vs Malawi Women",
+      "startTime": "01:00:00 PM 21-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/QaK2mKlYQBuot2rXlf-FHw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129864_english_hls_6573ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 129863,
+      "event_category": "Cricket",
+      "title": "Mozambique Women vs Botswana Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129863_5373_BOT-W_MOZW_fc-web.jpg",
+      "team_1": "Mozambique Women",
+      "team_2": "Botswana Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
+      "match_name": "Mozambique Women vs Botswana Women",
+      "startTime": "01:00:00 PM 21-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/R9ODM8UlRd6etIrigVg1zA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129863_english_hls_66955ta-di_h264/index.m3u8"
     },
     {
       "id": 130794,
@@ -132,30 +146,6 @@
       "startTime": "02:45:00 AM 22-07-2025"
     },
     {
-      "id": 129864,
-      "event_category": "Cricket",
-      "title": "Rwanda Women vs Malawi Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129864_5373_RWA-W_MAWW_fc-web.jpg",
-      "team_1": "Rwanda Women",
-      "team_2": "Malawi Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-      "match_name": "Rwanda Women vs Malawi Women",
-      "startTime": "01:00:00 PM 21-07-2025"
-    },
-    {
-      "id": 129863,
-      "event_category": "Cricket",
-      "title": "Mozambique Women vs Botswana Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129863_5373_BOT-W_MOZW_fc-web.jpg",
-      "team_1": "Mozambique Women",
-      "team_2": "Botswana Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-      "match_name": "Mozambique Women vs Botswana Women",
-      "startTime": "01:00:00 PM 21-07-2025"
-    },
-    {
       "id": 130431,
       "event_category": "Cricket",
       "title": "Gauhati Town Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
@@ -178,6 +168,18 @@
       "event_name": "Pondicherry Premier League, 2025",
       "match_name": "Karaikal Kniights vs Ossudu Accord Warriors",
       "startTime": "02:00:00 PM 21-07-2025"
+    },
+    {
+      "id": 130795,
+      "event_category": "Cricket",
+      "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130795_5425_BD_SG_fc-Web.jpg",
+      "team_1": "Band-e-Amir Dragons",
+      "team_2": "Speen Ghar Tigers",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2025",
+      "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
+      "startTime": "10:00:00 AM 22-07-2025"
     },
     {
       "id": 131622,
@@ -262,18 +264,6 @@
       "event_name": "ECS-W Sweden, Stockholm, 2025",
       "match_name": "Alby Zalmi-W vs Djurgardens IF-W",
       "startTime": "06:15:00 PM 21-07-2025"
-    },
-    {
-      "id": 130795,
-      "event_category": "Cricket",
-      "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130795_5425_BD_SG_fc-Web.jpg",
-      "team_1": "Band-e-Amir Dragons",
-      "team_2": "Speen Ghar Tigers",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2025",
-      "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
-      "startTime": "10:00:00 AM 22-07-2025"
     },
     {
       "id": 131625,
@@ -444,18 +434,6 @@
       "startTime": "02:00:00 PM 22-07-2025"
     },
     {
-      "id": 131627,
-      "event_category": "Cricket",
-      "title": "Alby Zalmi-W vs Djurgardens IF-W (ECS-W Sweden, Stockholm, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131627_CASACARDS_APP.png",
-      "team_1": "Alby Zalmi-W",
-      "team_2": "Djurgardens IF-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Sweden, Stockholm, 2025",
-      "match_name": "Alby Zalmi-W vs Djurgardens IF-W",
-      "startTime": "02:15:00 PM 22-07-2025"
-    },
-    {
       "id": 128747,
       "event_category": "Cricket",
       "title": "England Women vs India Women (India Women tour of England, 2025)",
@@ -466,6 +444,18 @@
       "event_name": "India Women tour of England, 2025",
       "match_name": "England Women vs India Women",
       "startTime": "05:30:00 PM 22-07-2025"
+    },
+    {
+      "id": 131627,
+      "event_category": "Cricket",
+      "title": "Alby Zalmi-W vs Djurgardens IF-W (ECS-W Sweden, Stockholm, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131627_CASACARDS_APP.png",
+      "team_1": "Alby Zalmi-W",
+      "team_2": "Djurgardens IF-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Sweden, Stockholm, 2025",
+      "match_name": "Alby Zalmi-W vs Djurgardens IF-W",
+      "startTime": "02:15:00 PM 22-07-2025"
     }
   ]
 }
