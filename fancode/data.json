@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:20 AM 22-07-2025",
+  "last update time": "10:58 AM 22-07-2025",
   "matches": [
     {
       "id": 130795,
@@ -30,20 +30,6 @@
       "startTime": "09:30:00 AM 22-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HMqBZJOkQ5O70bMK0jS1sQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130432_english_hls_42246ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130317,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Minnesota Twins (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130317_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Minnesota Twins",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Minnesota Twins",
-      "startTime": "07:40:00 AM 22-07-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130317_english_hls_95713ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130317_english_hls_95713ta-di_h264/index.m3u8"
     },
     {
       "id": 130796,
@@ -166,6 +152,18 @@
       "startTime": "12:45:00 AM 23-07-2025"
     },
     {
+      "id": 130783,
+      "event_category": "Cricket",
+      "title": "Singapore vs Samoa (Asia-Pacific Cricket Champions Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130783_5424_SIN_SAM_fc-web.jpg",
+      "team_1": "Singapore",
+      "team_2": "Samoa",
+      "status": "UPCOMING",
+      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
+      "match_name": "Singapore vs Samoa",
+      "startTime": "11:30:00 AM 22-07-2025"
+    },
+    {
       "id": 131731,
       "event_category": "Cricket",
       "title": "Vegas Vikings vs Boca Raton Trailblazers (Max60 Season 2, 2025)",
@@ -188,18 +186,6 @@
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "West Indies vs Australia",
       "startTime": "05:30:00 AM 23-07-2025"
-    },
-    {
-      "id": 130783,
-      "event_category": "Cricket",
-      "title": "Singapore vs Samoa (Asia-Pacific Cricket Champions Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130783_5424_SIN_SAM_fc-web.jpg",
-      "team_1": "Singapore",
-      "team_2": "Samoa",
-      "status": "UPCOMING",
-      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
-      "match_name": "Singapore vs Samoa",
-      "startTime": "11:30:00 AM 22-07-2025"
     },
     {
       "id": 130766,
@@ -358,18 +344,6 @@
       "startTime": "12:30:00 AM 23-07-2025"
     },
     {
-      "id": 131277,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of Bangladesh, 2025",
-      "match_name": "Bangladesh vs Pakistan",
-      "startTime": "05:30:00 PM 22-07-2025"
-    },
-    {
       "id": 130784,
       "event_category": "Cricket",
       "title": "Hong Kong, China vs Samoa (Asia-Pacific Cricket Champions Trophy, 2025)",
@@ -380,6 +354,18 @@
       "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
       "match_name": "Hong Kong, China vs Samoa",
       "startTime": "06:30:00 AM 23-07-2025"
+    },
+    {
+      "id": 131277,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs Pakistan",
+      "startTime": "05:30:00 PM 22-07-2025"
     },
     {
       "id": 130434,
@@ -451,6 +437,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
       "match_name": "Eswatini Women vs Mozambique Women",
+      "startTime": "01:00:00 PM 23-07-2025"
+    },
+    {
+      "id": 129867,
+      "event_category": "Cricket",
+      "title": "Malawi Women vs Lesotho Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129867_5373_MAWW_LESW_fc-web.jpg",
+      "team_1": "Malawi Women",
+      "team_2": "Lesotho Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
+      "match_name": "Malawi Women vs Lesotho Women",
       "startTime": "01:00:00 PM 23-07-2025"
     }
   ]
