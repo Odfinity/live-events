@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:33 AM 22-07-2025",
+  "last update time": "09:36 AM 22-07-2025",
   "matches": [
     {
       "id": 130782,
@@ -16,6 +16,20 @@
       "startTime": "06:30:00 AM 22-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/QmxQ3JOjTNqfBd4F9Y6rtg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130782_english_hls_29811ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130432,
+      "event_category": "Cricket",
+      "title": "91 Yards Club vs Navarang Club (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "91 Yards Club",
+      "team_2": "Navarang Club",
+      "status": "LIVE",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "91 Yards Club vs Navarang Club",
+      "startTime": "09:30:00 AM 22-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HMqBZJOkQ5O70bMK0jS1sQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130432_english_hls_42246ta-di_h264/index.m3u8"
     },
     {
       "id": 130317,
@@ -186,18 +200,6 @@
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "West Indies vs Australia",
       "startTime": "05:30:00 AM 23-07-2025"
-    },
-    {
-      "id": 130432,
-      "event_category": "Cricket",
-      "title": "91 Yards Club vs Navarang Club (GTC Summer Challenge T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-      "team_1": "91 Yards Club",
-      "team_2": "Navarang Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-      "match_name": "91 Yards Club vs Navarang Club",
-      "startTime": "09:30:00 AM 22-07-2025"
     },
     {
       "id": 130783,
@@ -438,6 +440,18 @@
       "event_name": "ECS Sweden, Stockholm, 2025",
       "match_name": "Alby Zalmi vs Huddinge",
       "startTime": "12:15:00 PM 23-07-2025"
+    },
+    {
+      "id": 131270,
+      "event_category": "Cricket",
+      "title": "Malawi vs Rwanda (Rwanda Tri Nations T20 Cup 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
+      "team_1": "Malawi",
+      "team_2": "Rwanda",
+      "status": "UPCOMING",
+      "event_name": "Rwanda Tri Nations T20 Cup 2025",
+      "match_name": "Malawi vs Rwanda",
+      "startTime": "12:45:00 PM 23-07-2025"
     }
   ]
 }
