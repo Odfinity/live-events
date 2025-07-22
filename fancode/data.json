@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:19 AM 22-07-2025",
+  "last update time": "06:30 AM 22-07-2025",
   "matches": [
+    {
+      "id": 130782,
+      "event_category": "Cricket",
+      "title": "Hong Kong, China vs Malaysia (Asia-Pacific Cricket Champions Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130782_5424_MAS_HK_fc-web.jpg",
+      "team_1": "Hong Kong, China",
+      "team_2": "Malaysia",
+      "status": "LIVE",
+      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
+      "match_name": "Hong Kong, China vs Malaysia",
+      "startTime": "06:30:00 AM 22-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/QmxQ3JOjTNqfBd4F9Y6rtg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130782_english_hls_29811ta-di_h264/index.m3u8"
+    },
     {
       "id": 130795,
       "event_category": "Cricket",
@@ -136,16 +150,16 @@
       "startTime": "01:00:00 AM 23-07-2025"
     },
     {
-      "id": 130782,
+      "id": 131731,
       "event_category": "Cricket",
-      "title": "Malaysia vs Hong Kong, China (Asia-Pacific Cricket Champions Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130782_5424_MAS_HK_fc-web.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Hong Kong, China",
+      "title": "Vegas Vikings vs Boca Raton Trailblazers (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131464_5453_VEV_BRT_fc-Web.jpg",
+      "team_1": "Vegas Vikings",
+      "team_2": "Boca Raton Trailblazers",
       "status": "UPCOMING",
-      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
-      "match_name": "Malaysia vs Hong Kong, China",
-      "startTime": "06:30:00 AM 22-07-2025"
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Vegas Vikings vs Boca Raton Trailblazers",
+      "startTime": "03:00:00 AM 23-07-2025"
     },
     {
       "id": 130432,
@@ -218,18 +232,6 @@
       "event_name": "GTC Summer Challenge T20 Trophy, 2025",
       "match_name": "Bud Cricket Club vs City Cricket Club",
       "startTime": "01:30:00 PM 22-07-2025"
-    },
-    {
-      "id": 131731,
-      "event_category": "Cricket",
-      "title": "Vegas Vikings vs Boca Raton Trailblazers (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131464_5453_VEV_BRT_fc-Web.jpg",
-      "team_1": "Vegas Vikings",
-      "team_2": "Boca Raton Trailblazers",
-      "status": "UPCOMING",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Vegas Vikings vs Boca Raton Trailblazers",
-      "startTime": "03:00:00 AM 23-07-2025"
     },
     {
       "id": 130127,
@@ -316,18 +318,6 @@
       "startTime": "06:15:00 PM 22-07-2025"
     },
     {
-      "id": 130006,
-      "event_category": "Cricket",
-      "title": "Royal Lions CC vs ACE KRM Panthers (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130006_5379_RLC_KRM_fc-web.jpg",
-      "team_1": "Royal Lions CC",
-      "team_2": "ACE KRM Panthers",
-      "status": "UPCOMING",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "Royal Lions CC vs ACE KRM Panthers",
-      "startTime": "10:45:00 PM 22-07-2025"
-    },
-    {
       "id": 127554,
       "event_category": "Cricket",
       "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
@@ -338,6 +328,18 @@
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "West Indies vs Australia",
       "startTime": "05:30:00 AM 23-07-2025"
+    },
+    {
+      "id": 130006,
+      "event_category": "Cricket",
+      "title": "Royal Lions CC vs ACE KRM Panthers (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130006_5379_RLC_KRM_fc-web.jpg",
+      "team_1": "Royal Lions CC",
+      "team_2": "ACE KRM Panthers",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "Royal Lions CC vs ACE KRM Panthers",
+      "startTime": "10:45:00 PM 22-07-2025"
     },
     {
       "id": 123372,
@@ -386,6 +388,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs Minnesota Twins",
       "startTime": "07:40:00 AM 22-07-2025"
+    },
+    {
+      "id": 130434,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (GTC Summer Challenge T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "GTC Summer Challenge T20 Trophy, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:30:00 AM 23-07-2025"
     }
   ]
 }
