@@ -1,22 +1,24 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:20 PM 23-07-2025",
+  "last update time": "04:44 PM 23-07-2025",
   "matches": [
     {
-      "id": "sl1090485425",
-      "isLive": false,
+      "id": "sl1090485361",
+      "isLive": true,
       "event": "IndianOil Durand Cup 2025",
-      "match": "Upcoming: Emami East Bengal FC vs South United FC",
+      "match": "Emami East Bengal FC vs South United FC - 23 Jul",
       "Provider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005405/1753262555958446_East-Bengal-vs-South-United-23072025-landscape.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005378/1753194616258298_DC25_EBFC_vs_SUFC_22jul_landscape_thumb.jpg",
       "genre": "Football",
       "language": "ENG",
-      "venue": "N/A",
+      "venue": "vivekananda yuba bharati krirangan stadium",
       "TVchannel": "Sony Sports Ten 2",
       "MaxResolution": "FHD",
       "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/39e97a0c0716403ea1e690cece889557/1753256624/baseline-std-v4/PROMO_EAST_BENGAL_VS_SOUTH_UNITED_25_SEC_HOR_APP_REVISED_eng_baseline-800300010.mpd"
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090485361.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090485361.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090485361.m3u8"
     }
   ]
 }
