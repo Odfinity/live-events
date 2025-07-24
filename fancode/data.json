@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:28 PM 24-07-2025",
+  "last update time": "09:00 PM 24-07-2025",
   "matches": [
     {
       "id": 129725,
@@ -16,20 +16,6 @@
       "startTime": "09:00:00 PM 24-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/uArqLzPEROS5KhjRg32eXg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129725_english_hls_25225ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 129873,
-      "event_category": "Cricket",
-      "title": "Lesotho Women vs Mozambique Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129873_CASACARDS_APP.png",
-      "team_1": "Lesotho Women",
-      "team_2": "Mozambique Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-      "match_name": "Lesotho Women vs Mozambique Women",
-      "startTime": "05:30:00 PM 24-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/gNVrc0DHRkWrcz-_Xod8kw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129873_english_hls_42287ta-di_h264/index.m3u8"
     },
     {
       "id": 130130,
@@ -334,18 +320,6 @@
       "startTime": "04:15:00 PM 25-07-2025"
     },
     {
-      "id": 131733,
-      "event_category": "Cricket",
-      "title": "Caribbean Tigers vs Vegas Vikings (Max60 Season 2, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131457_5453_VEV_CAT_fc-Web.jpg",
-      "team_1": "Caribbean Tigers",
-      "team_2": "Vegas Vikings",
-      "status": "UPCOMING",
-      "event_name": "Max60 Season 2, 2025",
-      "match_name": "Caribbean Tigers vs Vegas Vikings",
-      "startTime": "12:30:00 AM 24-07-2025"
-    },
-    {
       "id": 131273,
       "event_category": "Cricket",
       "title": "Bahrain vs Malawi (Rwanda Tri Nations T20 Cup 2025)",
@@ -356,6 +330,18 @@
       "event_name": "Rwanda Tri Nations T20 Cup 2025",
       "match_name": "Bahrain vs Malawi",
       "startTime": "05:15:00 PM 25-07-2025"
+    },
+    {
+      "id": 131733,
+      "event_category": "Cricket",
+      "title": "Caribbean Tigers vs Vegas Vikings (Max60 Season 2, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131457_5453_VEV_CAT_fc-Web.jpg",
+      "team_1": "Caribbean Tigers",
+      "team_2": "Vegas Vikings",
+      "status": "UPCOMING",
+      "event_name": "Max60 Season 2, 2025",
+      "match_name": "Caribbean Tigers vs Vegas Vikings",
+      "startTime": "12:30:00 AM 24-07-2025"
     },
     {
       "id": 131914,
@@ -452,6 +438,30 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Angels vs Seattle Mariners",
       "startTime": "07:08:00 AM 25-07-2025"
+    },
+    {
+      "id": 130011,
+      "event_category": "Cricket",
+      "title": "ACE KRM Panthers vs Al Mulla Exchange (KCC T20 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130011_5379_KRM_AEC_fc-web.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "Al Mulla Exchange",
+      "status": "UPCOMING",
+      "event_name": "KCC T20 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs Al Mulla Exchange",
+      "startTime": "12:30:00 AM 26-07-2025"
+    },
+    {
+      "id": 119100,
+      "event_category": "Motorsports",
+      "title": "Practice vs Spa-Francorchamps (F3 BELGIUM 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+      "team_1": "Practice",
+      "team_2": "Spa-Francorchamps",
+      "status": "UPCOMING",
+      "event_name": "F3 BELGIUM 2025",
+      "match_name": "Practice",
+      "startTime": "12:30:00 PM 25-07-2025"
     }
   ]
 }
