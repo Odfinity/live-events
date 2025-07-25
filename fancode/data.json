@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:26 AM 25-07-2025",
+  "last update time": "07:54 AM 25-07-2025",
   "matches": [
+    {
+      "id": 131876,
+      "event_category": "Cricket",
+      "title": "Utkal Cricket Club vs Fatemi Resources Cricket Club (Malaysia T10 Bash, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131876_CASACARDS_APP.png",
+      "team_1": "Utkal Cricket Club",
+      "team_2": "Fatemi Resources Cricket Club",
+      "status": "LIVE",
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "Utkal Cricket Club vs Fatemi Resources Cricket Club",
+      "startTime": "06:30:00 AM 25-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/8DtFqUmpREuxNEDwal6Xdw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131876_english_hls_13119ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130275,
+      "event_category": "Baseball",
+      "title": "Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/130275_CASACARDS_APP.png",
+      "team_1": "Los Angeles Angels",
+      "team_2": "Seattle Mariners",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Angels vs Seattle Mariners",
+      "startTime": "07:08:00 AM 25-07-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130275_english_hls_35597ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130275_english_hls_35597ta-di_h264/index.m3u8"
+    },
     {
       "id": 130799,
       "event_category": "Cricket",
@@ -40,18 +68,6 @@
       "startTime": "09:00:00 PM 25-07-2025"
     },
     {
-      "id": 131876,
-      "event_category": "Cricket",
-      "title": "Fatemi Resources Cricket Club vs Utkal Cricket Club (Malaysia T10 Bash, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Fatemi Resources Cricket Club",
-      "team_2": "Utkal Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "Malaysia T10 Bash, 2025",
-      "match_name": "Fatemi Resources Cricket Club vs Utkal Cricket Club",
-      "startTime": "06:30:00 AM 25-07-2025"
-    },
-    {
       "id": 131877,
       "event_category": "Cricket",
       "title": "JB Kings vs MR KB Putrajaya CC (Malaysia T10 Bash, 2025)",
@@ -62,6 +78,18 @@
       "event_name": "Malaysia T10 Bash, 2025",
       "match_name": "JB Kings vs MR KB Putrajaya CC",
       "startTime": "08:40:00 AM 25-07-2025"
+    },
+    {
+      "id": 127555,
+      "event_category": "Cricket",
+      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20OLD_01.jpg",
+      "team_1": "West Indies",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "West Indies vs Australia",
+      "startTime": "04:30:00 AM 26-07-2025"
     },
     {
       "id": 131968,
@@ -256,18 +284,6 @@
       "startTime": "08:30:00 PM 25-07-2025"
     },
     {
-      "id": 127555,
-      "event_category": "Cricket",
-      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20OLD_01.jpg",
-      "team_1": "West Indies",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "West Indies vs Australia",
-      "startTime": "04:30:00 AM 26-07-2025"
-    },
-    {
       "id": 130011,
       "event_category": "Cricket",
       "title": "ACE KRM Panthers vs Al Mulla Exchange (KCC T20 Summer League, 2025)",
@@ -278,18 +294,6 @@
       "event_name": "KCC T20 Summer League, 2025",
       "match_name": "ACE KRM Panthers vs Al Mulla Exchange",
       "startTime": "12:30:00 AM 26-07-2025"
-    },
-    {
-      "id": 131880,
-      "event_category": "Cricket",
-      "title": "Fatemi Resources Cricket Club vs KL Gladiators (Malaysia T10 Bash, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Fatemi Resources Cricket Club",
-      "team_2": "KL Gladiators",
-      "status": "UPCOMING",
-      "event_name": "Malaysia T10 Bash, 2025",
-      "match_name": "Fatemi Resources Cricket Club vs KL Gladiators",
-      "startTime": "06:30:00 AM 26-07-2025"
     },
     {
       "id": 130801,
@@ -304,16 +308,28 @@
       "startTime": "10:00:00 AM 26-07-2025"
     },
     {
-      "id": 130275,
-      "event_category": "Baseball",
-      "title": "Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130275_CASACARDS_APP.png",
-      "team_1": "Los Angeles Angels",
-      "team_2": "Seattle Mariners",
+      "id": 131880,
+      "event_category": "Cricket",
+      "title": "Fatemi Resources Cricket Club vs KL Gladiators (Malaysia T10 Bash, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Fatemi Resources Cricket Club",
+      "team_2": "KL Gladiators",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Angels vs Seattle Mariners",
-      "startTime": "07:08:00 AM 25-07-2025"
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "Fatemi Resources Cricket Club vs KL Gladiators",
+      "startTime": "06:30:00 AM 26-07-2025"
+    },
+    {
+      "id": 131881,
+      "event_category": "Cricket",
+      "title": "JB Kings vs Sky Warriors Cricket Club (Malaysia T10 Bash, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "JB Kings",
+      "team_2": "Sky Warriors Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "JB Kings vs Sky Warriors Cricket Club",
+      "startTime": "08:40:00 AM 26-07-2025"
     },
     {
       "id": 119100,
@@ -364,6 +380,18 @@
       "startTime": "04:00:00 PM 25-07-2025"
     },
     {
+      "id": 131882,
+      "event_category": "Cricket",
+      "title": "Utkal Cricket Club vs Maxx Cricket Club (Malaysia T10 Bash, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Utkal Cricket Club",
+      "team_2": "Maxx Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "Utkal Cricket Club vs Maxx Cricket Club",
+      "startTime": "10:50:00 AM 26-07-2025"
+    },
+    {
       "id": 119101,
       "event_category": "Motorsports",
       "title": "Qualifying vs Spa-Francorchamps (F3 BELGIUM 2025)",
@@ -400,18 +428,6 @@
       "startTime": "05:45:00 PM 25-07-2025"
     },
     {
-      "id": 131881,
-      "event_category": "Cricket",
-      "title": "JB Kings vs Sky Warriors Cricket Club (Malaysia T10 Bash, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "JB Kings",
-      "team_2": "Sky Warriors Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "Malaysia T10 Bash, 2025",
-      "match_name": "JB Kings vs Sky Warriors Cricket Club",
-      "startTime": "08:40:00 AM 26-07-2025"
-    },
-    {
       "id": 119058,
       "event_category": "Motorsports",
       "title": "Qualifying Session vs Spa-Francorchamps (F2 BELGIUM 2025)",
@@ -446,18 +462,6 @@
       "event_name": "3M Open",
       "match_name": "Featured Groups - Day 2",
       "startTime": "06:30:00 PM 25-07-2025"
-    },
-    {
-      "id": 131592,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 2 vs TPC Twin Cities - Blaine, Minnesota  (3M Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-      "team_1": "Marquee Group - Day 2",
-      "team_2": "TPC Twin Cities - Blaine, Minnesota ",
-      "status": "UPCOMING",
-      "event_name": "3M Open",
-      "match_name": "Marquee Group - Day 2",
-      "startTime": "06:45:00 PM 25-07-2025"
     }
   ]
 }
