@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:51 PM 25-07-2025",
+  "last update time": "05:12 PM 25-07-2025",
   "matches": [
     {
       "id": 130800,
@@ -16,20 +16,6 @@
       "startTime": "03:15:00 PM 25-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/SVit0vukR_Cy27tYlDImtQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130800_english_hls_27548ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131969,
-      "event_category": "Cricket",
-      "title": "Hungary vs Romania (ECN Budapest Cup T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
-      "team_1": "Hungary",
-      "team_2": "Romania",
-      "status": "LIVE",
-      "event_name": "ECN Budapest Cup T20I, 2025",
-      "match_name": "Hungary vs Romania",
-      "startTime": "03:00:00 PM 25-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/n9VbKE3WRWuFXnRiEqETTw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131969_english_hls_84026ta-di_h264/index.m3u8"
     },
     {
       "id": 130771,
@@ -58,6 +44,20 @@
       "startTime": "04:15:00 PM 25-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/qDq38m8lT3ePdnclt62gIQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131913_english_hls_47159ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131273,
+      "event_category": "Cricket",
+      "title": "Malawi vs Bahrain (Rwanda Tri Nations T20 Cup 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
+      "team_1": "Malawi",
+      "team_2": "Bahrain",
+      "status": "LIVE",
+      "event_name": "Rwanda Tri Nations T20 Cup 2025",
+      "match_name": "Malawi vs Bahrain",
+      "startTime": "05:15:00 PM 25-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/99ZD53-xT5CIE63ZVvdYRA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131273_english_hls_11438ta-di_h264/index.m3u8"
     },
     {
       "id": 132128,
@@ -110,18 +110,6 @@
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "West Indies vs Australia",
       "startTime": "04:30:00 AM 26-07-2025"
-    },
-    {
-      "id": 131273,
-      "event_category": "Cricket",
-      "title": "Malawi vs Bahrain (Rwanda Tri Nations T20 Cup 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
-      "team_1": "Malawi",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Rwanda Tri Nations T20 Cup 2025",
-      "match_name": "Malawi vs Bahrain",
-      "startTime": "05:15:00 PM 25-07-2025"
     },
     {
       "id": 130801,
@@ -268,18 +256,6 @@
       "startTime": "04:30:00 PM 26-07-2025"
     },
     {
-      "id": 131882,
-      "event_category": "Cricket",
-      "title": "Utkal Cricket Club vs Maxx Cricket Club (Malaysia T10 Bash, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131882_5477_UTC_MXC_fc-Web.jpg",
-      "team_1": "Utkal Cricket Club",
-      "team_2": "Maxx Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "Malaysia T10 Bash, 2025",
-      "match_name": "Utkal Cricket Club vs Maxx Cricket Club",
-      "startTime": "10:50:00 AM 26-07-2025"
-    },
-    {
       "id": 129727,
       "event_category": "Cricket",
       "title": "India Champions vs Australia Champions (World Championship of Legends, 2025)",
@@ -290,6 +266,18 @@
       "event_name": "World Championship of Legends, 2025",
       "match_name": "India Champions vs Australia Champions",
       "startTime": "05:00:00 PM 26-07-2025"
+    },
+    {
+      "id": 131882,
+      "event_category": "Cricket",
+      "title": "Utkal Cricket Club vs Maxx Cricket Club (Malaysia T10 Bash, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131882_5477_UTC_MXC_fc-Web.jpg",
+      "team_1": "Utkal Cricket Club",
+      "team_2": "Maxx Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "Utkal Cricket Club vs Maxx Cricket Club",
+      "startTime": "10:50:00 AM 26-07-2025"
     },
     {
       "id": 130788,
