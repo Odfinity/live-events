@@ -1,18 +1,18 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:04 PM 26-07-2025",
+  "last update time": "02:24 PM 26-07-2025",
   "matches": [
     {
       "id": 130788,
       "event_category": "Cricket",
-      "title": "Malaysia vs Hong Kong, China (Asia-Pacific Cricket Champions Trophy, 2025)",
+      "title": "Hong Kong, China vs Malaysia (Asia-Pacific Cricket Champions Trophy, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130776_5424_MAS_HK_fc-web.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Hong Kong, China",
+      "team_1": "Hong Kong, China",
+      "team_2": "Malaysia",
       "status": "LIVE",
       "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
-      "match_name": "Malaysia vs Hong Kong, China",
+      "match_name": "Hong Kong, China vs Malaysia",
       "startTime": "11:30:00 AM 26-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/jAHkfplfR6SbKGRVMTQo2w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130788_english_hls_81678ta-di_h264/index.m3u8"
@@ -44,20 +44,6 @@
       "startTime": "12:00:00 PM 26-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/5Ho3slcwR-ugsHVMrNgcfw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130772_english_hls_53260ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131916,
-      "event_category": "Cricket",
-      "title": "Jinnah CC Stockholm vs Alby Zalmi (ECS Sweden, Stockholm, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
-      "team_1": "Jinnah CC Stockholm",
-      "team_2": "Alby Zalmi",
-      "status": "LIVE",
-      "event_name": "ECS Sweden, Stockholm, 2025",
-      "match_name": "Jinnah CC Stockholm vs Alby Zalmi",
-      "startTime": "12:15:00 PM 26-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/4jXmr7NHSQ-fk8-pv4tyug/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131916_english_hls_46730ta-di_h264/index.m3u8"
     },
     {
       "id": 129876,
@@ -102,6 +88,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131883_english_hls_52657ta-di_h264/index.m3u8"
     },
     {
+      "id": 131917,
+      "event_category": "Cricket",
+      "title": "Marsta vs Rising Phoenix (ECS Sweden, Stockholm, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+      "team_1": "Marsta",
+      "team_2": "Rising Phoenix",
+      "status": "LIVE",
+      "event_name": "ECS Sweden, Stockholm, 2025",
+      "match_name": "Marsta vs Rising Phoenix",
+      "startTime": "02:15:00 PM 26-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/SzmaREWlSJiwnNK_1ZPmjA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131917_english_hls_1799ta-di_h264/index.m3u8"
+    },
+    {
       "id": 131640,
       "event_category": "Motorsports",
       "title": "Qualifying vs Belgium (Porsche Mobil 1 Super Cup)",
@@ -143,7 +143,7 @@
       "id": 128759,
       "event_category": "Cricket",
       "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/128757_5315_NZ_SA_fc-web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_old.jpg",
       "team_1": "New Zealand",
       "team_2": "South Africa",
       "status": "UPCOMING",
@@ -186,18 +186,6 @@
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "West Indies vs Australia",
       "startTime": "04:30:00 AM 27-07-2025"
-    },
-    {
-      "id": 131917,
-      "event_category": "Cricket",
-      "title": "Marsta vs Rising Phoenix (ECS Sweden, Stockholm, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
-      "team_1": "Marsta",
-      "team_2": "Rising Phoenix",
-      "status": "UPCOMING",
-      "event_name": "ECS Sweden, Stockholm, 2025",
-      "match_name": "Marsta vs Rising Phoenix",
-      "startTime": "02:15:00 PM 26-07-2025"
     },
     {
       "id": 131972,
@@ -320,18 +308,6 @@
       "startTime": "08:15:00 PM 26-07-2025"
     },
     {
-      "id": 129902,
-      "event_category": "Football",
-      "title": "Liverpool vs Milan (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Milan_old.jpg",
-      "team_1": "Liverpool",
-      "team_2": "Milan",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Liverpool vs Milan",
-      "startTime": "05:00:00 PM 26-07-2025"
-    },
-    {
       "id": 130012,
       "event_category": "Cricket",
       "title": "Gujrat CC vs Super Lanka (KCC T20 Summer League, 2025)",
@@ -342,6 +318,18 @@
       "event_name": "KCC T20 Summer League, 2025",
       "match_name": "Gujrat CC vs Super Lanka",
       "startTime": "10:30:00 PM 26-07-2025"
+    },
+    {
+      "id": 129902,
+      "event_category": "Football",
+      "title": "Liverpool vs Milan (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Milan_old.jpg",
+      "team_1": "Liverpool",
+      "team_2": "Milan",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Liverpool vs Milan",
+      "startTime": "05:00:00 PM 26-07-2025"
     },
     {
       "id": 131884,
@@ -474,6 +462,18 @@
       "event_name": "World Championship of Legends, 2025",
       "match_name": "South Africa Champions vs Australia Champions",
       "startTime": "05:00:00 PM 27-07-2025"
+    },
+    {
+      "id": 131887,
+      "event_category": "Cricket",
+      "title": "MR KB Putrajaya CC vs Sky Warrior (Malaysia T10 Bash, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131887_5477_MKP_SWC_fc-Web.jpg",
+      "team_1": "MR KB Putrajaya CC",
+      "team_2": "Sky Warrior",
+      "status": "UPCOMING",
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "MR KB Putrajaya CC vs Sky Warrior",
+      "startTime": "01:15:00 PM 27-07-2025"
     }
   ]
 }
