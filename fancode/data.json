@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:26 PM 26-07-2025",
+  "last update time": "03:59 PM 26-07-2025",
   "matches": [
     {
       "id": 118443,
@@ -28,8 +28,8 @@
       "event_name": "Zimbabwe Women tour of Ireland, 2025",
       "match_name": "Ireland Women vs Zimbabwe Women",
       "startTime": "03:15:00 PM 26-07-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/5OTkDGVETmq27gnhfv9_qw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128765_english_hls_49067ta-di_h264/index.m3u8"
     },
     {
       "id": 130805,
@@ -42,8 +42,22 @@
       "event_name": "Shpageeza Cricket League, 2025",
       "match_name": "Speen Ghar Tigers vs Amo Sharks",
       "startTime": "03:00:00 PM 26-07-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/Oj2o6MdiQ6ai5K_rZiSn1g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130805_english_hls_44230ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 128759,
+      "event_category": "Cricket",
+      "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_old.jpg",
+      "team_1": "New Zealand",
+      "team_2": "South Africa",
+      "status": "LIVE",
+      "event_name": "Zimbabwe T20I Tri Series, 2025",
+      "match_name": "New Zealand vs South Africa",
+      "startTime": "04:30:00 PM 26-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128759_english_hls_77746ta-di_h264/index.m3u8"
     },
     {
       "id": 129876,
@@ -58,20 +72,6 @@
       "startTime": "01:00:00 PM 26-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/kLUyJruKTQWZ8OjQan_82w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129876_english_hls_13779ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 129875,
-      "event_category": "Cricket",
-      "title": "Lesotho Women vs Eswatini Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/129875_CASACARDS_APP.png",
-      "team_1": "Lesotho Women",
-      "team_2": "Eswatini Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-      "match_name": "Lesotho Women vs Eswatini Women",
-      "startTime": "01:00:00 PM 26-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Z_kypWwLSgOvp-nX6PSVzQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129875_english_hls_55731ta-di_h264/index.m3u8"
     },
     {
       "id": 131917,
@@ -98,48 +98,22 @@
       "event_name": "ECN Budapest Cup T20I, 2025",
       "match_name": "Hungary vs Austria",
       "startTime": "03:00:00 PM 26-07-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/hLDkLMG3QDGZ1gvH9IWgyA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131972_english_hls_19456ta-di_h264/index.m3u8"
     },
     {
-      "id": 130788,
+      "id": 130773,
       "event_category": "Cricket",
-      "title": "Hong Kong, China vs Malaysia (Asia-Pacific Cricket Champions Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130776_5424_MAS_HK_fc-web.jpg",
-      "team_1": "Hong Kong, China",
-      "team_2": "Malaysia",
-      "status": "LIVE",
-      "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
-      "match_name": "Hong Kong, China vs Malaysia",
-      "startTime": "11:30:00 AM 26-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jAHkfplfR6SbKGRVMTQo2w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130788_english_hls_81678ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130772,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Nigeria (Pearl of Africa T20, 2025)",
+      "title": "Kenya vs Namibia A (Pearl of Africa T20, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Nigeria",
+      "team_1": "Kenya",
+      "team_2": "Namibia A",
       "status": "LIVE",
       "event_name": "Pearl of Africa T20, 2025",
-      "match_name": "United Arab Emirates vs Nigeria",
-      "startTime": "12:00:00 PM 26-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/5Ho3slcwR-ugsHVMrNgcfw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130772_english_hls_53260ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 128759,
-      "event_category": "Cricket",
-      "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "South Africa",
-      "status": "UPCOMING",
-      "event_name": "Zimbabwe T20I Tri Series, 2025",
-      "match_name": "New Zealand vs South Africa",
-      "startTime": "04:30:00 PM 26-07-2025"
+      "match_name": "Kenya vs Namibia A",
+      "startTime": "04:00:00 PM 26-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/3to8ayQQSK29v6jbhnldmw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130773_english_hls_23539ta-di_h264/index.m3u8"
     },
     {
       "id": 129727,
@@ -176,18 +150,6 @@
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "West Indies vs Australia",
       "startTime": "04:30:00 AM 27-07-2025"
-    },
-    {
-      "id": 130773,
-      "event_category": "Cricket",
-      "title": "Kenya vs Namibia A (Pearl of Africa T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-      "team_1": "Kenya",
-      "team_2": "Namibia A",
-      "status": "UPCOMING",
-      "event_name": "Pearl of Africa T20, 2025",
-      "match_name": "Kenya vs Namibia A",
-      "startTime": "04:00:00 PM 26-07-2025"
     },
     {
       "id": 131918,
@@ -382,30 +344,6 @@
       "startTime": "11:30:00 AM 27-07-2025"
     },
     {
-      "id": 130774,
-      "event_category": "Cricket",
-      "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-      "team_1": "Kenya",
-      "team_2": "Nigeria",
-      "status": "UPCOMING",
-      "event_name": "Pearl of Africa T20, 2025",
-      "match_name": "Kenya vs Nigeria",
-      "startTime": "12:00:00 PM 27-07-2025"
-    },
-    {
-      "id": 131921,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS Sweden, Stockholm, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "ECS Sweden, Stockholm, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "12:15:00 PM 27-07-2025"
-    },
-    {
       "id": 125883,
       "event_category": "Cricket",
       "title": "The Blaze vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
@@ -428,6 +366,30 @@
       "event_name": "World Championship of Legends, 2025",
       "match_name": "South Africa Champions vs Australia Champions",
       "startTime": "05:00:00 PM 27-07-2025"
+    },
+    {
+      "id": 130774,
+      "event_category": "Cricket",
+      "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+      "team_1": "Kenya",
+      "team_2": "Nigeria",
+      "status": "UPCOMING",
+      "event_name": "Pearl of Africa T20, 2025",
+      "match_name": "Kenya vs Nigeria",
+      "startTime": "12:00:00 PM 27-07-2025"
+    },
+    {
+      "id": 131921,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS Sweden, Stockholm, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS Sweden, Stockholm, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:15:00 PM 27-07-2025"
     },
     {
       "id": 132382,
@@ -476,6 +438,30 @@
       "event_name": "ECS Sweden, Stockholm, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "02:15:00 PM 27-07-2025"
+    },
+    {
+      "id": 131975,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECN Budapest Cup T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECN Budapest Cup T20I, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "03:00:00 PM 27-07-2025"
+    },
+    {
+      "id": 132384,
+      "event_category": "Cricket",
+      "title": "Navarang Club vs City Cricket Club (Guwahati Sixes, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132384_CASACARDS_APP.png",
+      "team_1": "Navarang Club",
+      "team_2": "City Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Guwahati Sixes, 2025",
+      "match_name": "Navarang Club vs City Cricket Club",
+      "startTime": "03:15:00 PM 27-07-2025"
     }
   ]
 }
