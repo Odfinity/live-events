@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:27 AM 26-07-2025",
+  "last update time": "08:25 AM 26-07-2025",
   "matches": [
-    {
-      "id": 127555,
-      "event_category": "Cricket",
-      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_old_1753438652136.jpg",
-      "team_1": "West Indies",
-      "team_2": "Australia",
-      "status": "LIVE",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "West Indies vs Australia",
-      "startTime": "04:30:00 AM 26-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/GKlorOzHRZGr8TJPoHFJtw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/127555_english_hls_4343ta-di_h264/index.m3u8"
-    },
     {
       "id": 131880,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "06:30:00 AM 26-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/00ri_KOhSLqBA4pIm3CQJQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131880_english_hls_38327ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130277,
+      "event_category": "Baseball",
+      "title": "San Francisco Giants vs New York Mets (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/130277_CASACARDS_APP.png",
+      "team_1": "San Francisco Giants",
+      "team_2": "New York Mets",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Francisco Giants vs New York Mets",
+      "startTime": "07:45:00 AM 26-07-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 130801,
@@ -106,14 +106,26 @@
     {
       "id": 131881,
       "event_category": "Cricket",
-      "title": "JB Kings vs Sky Warrior (Malaysia T10 Bash, 2025)",
+      "title": "Sky Warrior vs JB Kings (Malaysia T10 Bash, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131881_5477_JBK_SWC_fc-Web.jpg",
-      "team_1": "JB Kings",
-      "team_2": "Sky Warrior",
+      "team_1": "Sky Warrior",
+      "team_2": "JB Kings",
       "status": "UPCOMING",
       "event_name": "Malaysia T10 Bash, 2025",
-      "match_name": "JB Kings vs Sky Warrior",
+      "match_name": "Sky Warrior vs JB Kings",
       "startTime": "08:40:00 AM 26-07-2025"
+    },
+    {
+      "id": 127556,
+      "event_category": "Cricket",
+      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_old_1753438652136.jpg",
+      "team_1": "West Indies",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "West Indies vs Australia",
+      "startTime": "04:30:00 AM 27-07-2025"
     },
     {
       "id": 131882,
@@ -296,18 +308,6 @@
       "startTime": "05:30:00 PM 26-07-2025"
     },
     {
-      "id": 127556,
-      "event_category": "Cricket",
-      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_old_1753438652136.jpg",
-      "team_1": "West Indies",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "West Indies vs Australia",
-      "startTime": "04:30:00 AM 27-07-2025"
-    },
-    {
       "id": 131919,
       "event_category": "Cricket",
       "title": "Rising Phoenix vs Jinnah CC Stockholm (ECS Sweden, Stockholm, 2025)",
@@ -404,16 +404,16 @@
       "startTime": "08:40:00 AM 27-07-2025"
     },
     {
-      "id": 130277,
-      "event_category": "Baseball",
-      "title": "San Francisco Giants vs New York Mets (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/130277_CASACARDS_APP.png",
-      "team_1": "San Francisco Giants",
-      "team_2": "New York Mets",
+      "id": 131886,
+      "event_category": "Cricket",
+      "title": "Utkal Cricket Club vs KL Gladiators (Malaysia T10 Bash, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131886_5477_UTC_KLG_fc-Web.jpg",
+      "team_1": "Utkal Cricket Club",
+      "team_2": "KL Gladiators",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Francisco Giants vs New York Mets",
-      "startTime": "07:45:00 AM 26-07-2025"
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "Utkal Cricket Club vs KL Gladiators",
+      "startTime": "10:50:00 AM 27-07-2025"
     },
     {
       "id": 119102,
@@ -450,18 +450,6 @@
       "event_name": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
       "match_name": "Sprint",
       "startTime": "03:30:00 PM 26-07-2025"
-    },
-    {
-      "id": 119059,
-      "event_category": "Motorsports",
-      "title": "Sprint Race vs Spa-Francorchamps (F2 BELGIUM 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Sprint Race",
-      "team_2": "Spa-Francorchamps",
-      "status": "UPCOMING",
-      "event_name": "F2 BELGIUM 2025",
-      "match_name": "Sprint Race",
-      "startTime": "05:15:00 PM 26-07-2025"
     }
   ]
 }
