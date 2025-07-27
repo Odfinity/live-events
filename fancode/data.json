@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:24 PM 27-07-2025",
+  "last update time": "02:55 PM 27-07-2025",
   "matches": [
     {
       "id": 131974,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131887_english_hls_60043ta-di_h264/index.m3u8"
     },
     {
-      "id": 132383,
-      "event_category": "Cricket",
-      "title": "Nabajyoti Club vs 91 Yards Club (Guwahati Sixes, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132383_CASACARDS_APP.png",
-      "team_1": "Nabajyoti Club",
-      "team_2": "91 Yards Club",
-      "status": "LIVE",
-      "event_name": "Guwahati Sixes, 2025",
-      "match_name": "Nabajyoti Club vs 91 Yards Club",
-      "startTime": "01:45:00 PM 27-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/mZ2jzQ3FRPSRDtSYF6scmA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132383_english_hls_28816ta-di_h264/index.m3u8"
-    },
-    {
       "id": 131922,
       "event_category": "Cricket",
       "title": "Alby Zalmi vs Huddinge (ECS Sweden, Stockholm, 2025)",
@@ -72,6 +58,20 @@
       "startTime": "02:15:00 PM 27-07-2025",
       "dai_url": null,
       "adfree_url": null
+    },
+    {
+      "id": 131975,
+      "event_category": "Cricket",
+      "title": "Austria vs Romania (ECN Budapest Cup T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
+      "team_1": "Austria",
+      "team_2": "Romania",
+      "status": "LIVE",
+      "event_name": "ECN Budapest Cup T20I, 2025",
+      "match_name": "Austria vs Romania",
+      "startTime": "03:00:00 PM 27-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/7H3rKKkqTs2KuhoRPv3Uvg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131975_english_hls_91984ta-di_h264/index.m3u8"
     },
     {
       "id": 119060,
@@ -136,18 +136,6 @@
       "startTime": "09:00:00 PM 27-07-2025"
     },
     {
-      "id": 131975,
-      "event_category": "Cricket",
-      "title": "Austria vs Romania (ECN Budapest Cup T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
-      "team_1": "Austria",
-      "team_2": "Romania",
-      "status": "UPCOMING",
-      "event_name": "ECN Budapest Cup T20I, 2025",
-      "match_name": "Austria vs Romania",
-      "startTime": "03:00:00 PM 27-07-2025"
-    },
-    {
       "id": 132384,
       "event_category": "Cricket",
       "title": "Navarang Club vs City Cricket Club (Guwahati Sixes, 2025)",
@@ -170,6 +158,18 @@
       "event_name": "Shpageeza Cricket League, 2025",
       "match_name": "Band-e-Amir Dragons vs Boost Defenders",
       "startTime": "10:00:00 AM 28-07-2025"
+    },
+    {
+      "id": 126268,
+      "event_category": "Football",
+      "title": "Urawa Red Diamonds vs Avispa Fukuoka (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/126268_4795_URW_FKK_fc-web.jpg",
+      "team_1": "Urawa Red Diamonds",
+      "team_2": "Avispa Fukuoka",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Urawa Red Diamonds vs Avispa Fukuoka",
+      "startTime": "03:30:00 PM 27-07-2025"
     },
     {
       "id": 130775,
@@ -340,18 +340,6 @@
       "startTime": "09:00:00 AM 28-07-2025"
     },
     {
-      "id": 126268,
-      "event_category": "Football",
-      "title": "Urawa Red Diamonds vs Avispa Fukuoka (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/126268_4795_URW_FKK_fc-web.jpg",
-      "team_1": "Urawa Red Diamonds",
-      "team_2": "Avispa Fukuoka",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Urawa Red Diamonds vs Avispa Fukuoka",
-      "startTime": "03:30:00 PM 27-07-2025"
-    },
-    {
       "id": 130803,
       "event_category": "Cricket",
       "title": "Speen Ghar Tigers vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2025)",
@@ -376,18 +364,6 @@
       "startTime": "03:15:00 PM 28-07-2025"
     },
     {
-      "id": 131641,
-      "event_category": "Motorsports",
-      "title": "Race vs Belgium (Porsche Mobil 1 Super Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_old-(1).jpg",
-      "team_1": "Race",
-      "team_2": "Belgium",
-      "status": "UPCOMING",
-      "event_name": "Porsche Mobil 1 Super Cup",
-      "match_name": "Race",
-      "startTime": "03:15:00 PM 27-07-2025"
-    },
-    {
       "id": 131890,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Malaysia T10 Bash, 2025)",
@@ -398,6 +374,18 @@
       "event_name": "Malaysia T10 Bash, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "11:30:00 AM 28-07-2025"
+    },
+    {
+      "id": 131641,
+      "event_category": "Motorsports",
+      "title": "Race vs Belgium (Porsche Mobil 1 Super Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_old-(1).jpg",
+      "team_1": "Race",
+      "team_2": "Belgium",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Super Cup",
+      "match_name": "Race",
+      "startTime": "03:15:00 PM 27-07-2025"
     },
     {
       "id": 132388,
