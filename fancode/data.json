@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:58 PM 27-07-2025",
+  "last update time": "05:13 PM 27-07-2025",
   "matches": [
     {
       "id": 129729,
@@ -38,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Blaze_vs_Warwickshire-Women_fc-Web.jpg",
       "team_1": "Warwickshire Women",
       "team_2": "The Blaze",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Women's Vitality Blast T20, 2025",
       "match_name": "Warwickshire Women vs The Blaze",
-      "startTime": "05:00:00 PM 27-07-2025"
+      "startTime": "05:00:00 PM 27-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+      "adfree_url": null
     },
     {
       "id": 131975,
@@ -84,6 +86,20 @@
       "startTime": "04:30:00 PM 27-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/4hX55aq9RKC0qLGCvYmrKg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131275_english_hls_81169ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131923,
+      "event_category": "Cricket",
+      "title": "Huddinge vs Rising Phoenix (ECS Sweden, Stockholm, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+      "team_1": "Huddinge",
+      "team_2": "Rising Phoenix",
+      "status": "LIVE",
+      "event_name": "ECS Sweden, Stockholm, 2025",
+      "match_name": "Huddinge vs Rising Phoenix",
+      "startTime": "05:15:00 PM 27-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RDGHFxYMTOSzTmzuDtBjbw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131923_english_hls_74900ta-di_h264/index.m3u8"
     },
     {
       "id": 132385,
@@ -178,18 +194,6 @@
       "event_name": "World Championship of Legends, 2025",
       "match_name": "India Champions vs England Champions",
       "startTime": "09:00:00 PM 27-07-2025"
-    },
-    {
-      "id": 131923,
-      "event_category": "Cricket",
-      "title": "Huddinge vs Rising Phoenix (ECS Sweden, Stockholm, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
-      "team_1": "Huddinge",
-      "team_2": "Rising Phoenix",
-      "status": "UPCOMING",
-      "event_name": "ECS Sweden, Stockholm, 2025",
-      "match_name": "Huddinge vs Rising Phoenix",
-      "startTime": "05:15:00 PM 27-07-2025"
     },
     {
       "id": 130804,
@@ -303,7 +307,7 @@
       "id": 131888,
       "event_category": "Cricket",
       "title": "Maxx Cricket Club vs Sky Warrior (Malaysia T10 Bash, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/131888_CASACARDS_APP.png",
       "team_1": "Maxx Cricket Club",
       "team_2": "Sky Warrior",
       "status": "UPCOMING",
@@ -315,7 +319,7 @@
       "id": 131889,
       "event_category": "Cricket",
       "title": "MR KB Putrajaya CC vs Fatemi Resources Cricket Club (Malaysia T10 Bash, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/131889_CASACARDS_APP.png",
       "team_1": "MR KB Putrajaya CC",
       "team_2": "Fatemi Resources Cricket Club",
       "status": "UPCOMING",
@@ -327,7 +331,7 @@
       "id": 132387,
       "event_category": "Cricket",
       "title": "Gauhati Town Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/132387_CASACARDS_APP.png",
       "team_1": "Gauhati Town Club",
       "team_2": "Bud Cricket Club",
       "status": "UPCOMING",
@@ -351,7 +355,7 @@
       "id": 132388,
       "event_category": "Cricket",
       "title": "91 Yards Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/132388_CASACARDS_APP.png",
       "team_1": "91 Yards Club",
       "team_2": "Nabajyoti Club",
       "status": "UPCOMING",
