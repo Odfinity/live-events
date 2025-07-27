@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:38 PM 27-07-2025",
+  "last update time": "04:58 PM 27-07-2025",
   "matches": [
     {
       "id": 129729,
@@ -18,6 +18,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129729_english_hls_47681ta-di_h264/index.m3u8"
     },
     {
+      "id": 129905,
+      "event_category": "Football",
+      "title": "Arsenal vs Newcastle United (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Newcastle-United_old_1753428071814.jpg",
+      "team_1": "Arsenal",
+      "team_2": "Newcastle United",
+      "status": "LIVE",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Arsenal vs Newcastle United",
+      "startTime": "05:00:00 PM 27-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2NEfZEFiTHKb04ijN2ERkQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129905_english_hls_81722ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 125883,
+      "event_category": "Cricket",
+      "title": "Warwickshire Women vs The Blaze (Women's Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Blaze_vs_Warwickshire-Women_fc-Web.jpg",
+      "team_1": "Warwickshire Women",
+      "team_2": "The Blaze",
+      "status": "UPCOMING",
+      "event_name": "Women's Vitality Blast T20, 2025",
+      "match_name": "Warwickshire Women vs The Blaze",
+      "startTime": "05:00:00 PM 27-07-2025"
+    },
+    {
       "id": 131975,
       "event_category": "Cricket",
       "title": "Austria vs Romania (ECN Budapest Cup T20I, 2025)",
@@ -30,20 +56,6 @@
       "startTime": "03:00:00 PM 27-07-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/7H3rKKkqTs2KuhoRPv3Uvg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131975_english_hls_91984ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132384,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs Navarang Club (Guwahati Sixes, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132384_CASACARDS_APP.png",
-      "team_1": "City Cricket Club",
-      "team_2": "Navarang Club",
-      "status": "LIVE",
-      "event_name": "Guwahati Sixes, 2025",
-      "match_name": "City Cricket Club vs Navarang Club",
-      "startTime": "03:15:00 PM 27-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Hyd-yqbRRjyO3A7j_FEq_A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132384_english_hls_38725ta-di_h264/index.m3u8"
     },
     {
       "id": 130775,
@@ -144,18 +156,6 @@
       "adfree_url": "https://d3vci48a06272z.cloudfront.net/out/v1/bc9def07e1b54c2fad90eba9154941bc/index.m3u8"
     },
     {
-      "id": 125883,
-      "event_category": "Cricket",
-      "title": "The Blaze vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Blaze_vs_Warwickshire-Women_fc-Web.jpg",
-      "team_1": "The Blaze",
-      "team_2": "Warwickshire Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Vitality Blast T20, 2025",
-      "match_name": "The Blaze vs Warwickshire Women",
-      "startTime": "05:00:00 PM 27-07-2025"
-    },
-    {
       "id": 125884,
       "event_category": "Cricket",
       "title": "Surrey Women vs TBC (Women's Vitality Blast T20, 2025)",
@@ -190,18 +190,6 @@
       "event_name": "ECS Sweden, Stockholm, 2025",
       "match_name": "Huddinge vs Rising Phoenix",
       "startTime": "05:15:00 PM 27-07-2025"
-    },
-    {
-      "id": 129905,
-      "event_category": "Football",
-      "title": "Arsenal vs Newcastle United (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Newcastle-United_old_1753428071814.jpg",
-      "team_1": "Arsenal",
-      "team_2": "Newcastle United",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Arsenal vs Newcastle United",
-      "startTime": "05:00:00 PM 27-07-2025"
     },
     {
       "id": 130804,
@@ -300,18 +288,6 @@
       "startTime": "03:00:00 PM 28-07-2025"
     },
     {
-      "id": 131888,
-      "event_category": "Cricket",
-      "title": "Maxx Cricket Club vs Sky Warrior (Malaysia T10 Bash, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Maxx Cricket Club",
-      "team_2": "Sky Warrior",
-      "status": "UPCOMING",
-      "event_name": "Malaysia T10 Bash, 2025",
-      "match_name": "Maxx Cricket Club vs Sky Warrior",
-      "startTime": "06:30:00 AM 28-07-2025"
-    },
-    {
       "id": 128766,
       "event_category": "Cricket",
       "title": "Ireland Women vs Zimbabwe Women (Zimbabwe Women tour of Ireland, 2025)",
@@ -322,6 +298,18 @@
       "event_name": "Zimbabwe Women tour of Ireland, 2025",
       "match_name": "Ireland Women vs Zimbabwe Women",
       "startTime": "03:15:00 PM 28-07-2025"
+    },
+    {
+      "id": 131888,
+      "event_category": "Cricket",
+      "title": "Maxx Cricket Club vs Sky Warrior (Malaysia T10 Bash, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Maxx Cricket Club",
+      "team_2": "Sky Warrior",
+      "status": "UPCOMING",
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "Maxx Cricket Club vs Sky Warrior",
+      "startTime": "06:30:00 AM 28-07-2025"
     },
     {
       "id": 131889,
@@ -384,6 +372,18 @@
       "startTime": "05:30:00 PM 27-07-2025"
     },
     {
+      "id": 131409,
+      "event_category": "Golf",
+      "title": "Day 3 vs JCB Golf & Country Club, Great Britain (LIV Golf UK)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-UK_old_Match_card.jpg",
+      "team_1": "Day 3",
+      "team_2": "JCB Golf & Country Club, Great Britain",
+      "status": "UPCOMING",
+      "event_name": "LIV Golf UK",
+      "match_name": "Day 3",
+      "startTime": "05:35:00 PM 27-07-2025"
+    },
+    {
       "id": 132027,
       "event_category": "Cricket",
       "title": "Twickenham vs Banstead (ECS England, Wimbledon, 2025)",
@@ -418,18 +418,6 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Twickenham vs Spencer",
       "startTime": "06:30:00 PM 28-07-2025"
-    },
-    {
-      "id": 131409,
-      "event_category": "Golf",
-      "title": "Day 3 vs JCB Golf & Country Club, Great Britain (LIV Golf UK)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-UK_old_Match_card.jpg",
-      "team_1": "Day 3",
-      "team_2": "JCB Golf & Country Club, Great Britain",
-      "status": "UPCOMING",
-      "event_name": "LIV Golf UK",
-      "match_name": "Day 3",
-      "startTime": "05:35:00 PM 27-07-2025"
     },
     {
       "id": 131603,
@@ -478,6 +466,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Boston Red Sox vs Los Angeles Dodgers",
       "startTime": "11:05:00 PM 27-07-2025"
+    },
+    {
+      "id": 130281,
+      "event_category": "Baseball",
+      "title": "Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/130281_CASACARDS_APP.png",
+      "team_1": "Los Angeles Angels",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Angels vs Seattle Mariners",
+      "startTime": "01:37:00 AM 28-07-2025"
     }
   ]
 }
