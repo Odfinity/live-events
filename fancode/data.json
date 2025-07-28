@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:00 AM 29-07-2025",
+  "last update time": "04:24 AM 29-07-2025",
   "matches": [
     {
       "id": 127557,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_old_1753438652136.jpg",
       "team_1": "West Indies",
       "team_2": "Australia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Australia Tour of West Indies, 2025",
       "match_name": "West Indies vs Australia",
-      "startTime": "04:30:00 AM 29-07-2025"
+      "startTime": "04:30:00 AM 29-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/yK1Zum3CQuiPb87chJt4ag/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/127557_english_hls_64956ta-di_h264/index.m3u8"
     },
     {
       "id": 130802,
@@ -184,6 +186,18 @@
       "startTime": "12:15:00 AM 30-07-2025"
     },
     {
+      "id": 130807,
+      "event_category": "Cricket",
+      "title": "Band-e-Amir Dragons vs Amo Sharks (Shpageeza Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130807_5425_BD_AM_fc-Web.jpg",
+      "team_1": "Band-e-Amir Dragons",
+      "team_2": "Amo Sharks",
+      "status": "UPCOMING",
+      "event_name": "Shpageeza Cricket League, 2025",
+      "match_name": "Band-e-Amir Dragons vs Amo Sharks",
+      "startTime": "10:00:00 AM 30-07-2025"
+    },
+    {
       "id": 130282,
       "event_category": "Baseball",
       "title": "San Francisco Giants vs Pittsburgh Pirates (Major League Baseball, 2025)",
@@ -206,18 +220,6 @@
       "event_name": "Maharani Trophy KSCA T20 Auction",
       "match_name": "Maharani Trophy KSCA T20 Auction",
       "startTime": "10:00:00 AM 29-07-2025"
-    },
-    {
-      "id": 130807,
-      "event_category": "Cricket",
-      "title": "Band-e-Amir Dragons vs Amo Sharks (Shpageeza Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130807_5425_BD_AM_fc-Web.jpg",
-      "team_1": "Band-e-Amir Dragons",
-      "team_2": "Amo Sharks",
-      "status": "UPCOMING",
-      "event_name": "Shpageeza Cricket League, 2025",
-      "match_name": "Band-e-Amir Dragons vs Amo Sharks",
-      "startTime": "10:00:00 AM 30-07-2025"
     },
     {
       "id": 130283,
