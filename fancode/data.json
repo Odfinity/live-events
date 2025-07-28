@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 AM 28-07-2025",
+  "last update time": "07:41 AM 28-07-2025",
   "matches": [
+    {
+      "id": 131888,
+      "event_category": "Cricket",
+      "title": "Sky Warrior vs Maxx Cricket Club (Malaysia T10 Bash, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131888_CASACARDS_APP.png",
+      "team_1": "Sky Warrior",
+      "team_2": "Maxx Cricket Club",
+      "status": "LIVE",
+      "event_name": "Malaysia T10 Bash, 2025",
+      "match_name": "Sky Warrior vs Maxx Cricket Club",
+      "startTime": "06:30:00 AM 28-07-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lBovDwPNSrqSQC3vAt9I7g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131888_english_hls_95606ta-di_h264/index.m3u8"
+    },
     {
       "id": 130804,
       "event_category": "Cricket",
@@ -40,16 +54,16 @@
       "startTime": "03:15:00 PM 28-07-2025"
     },
     {
-      "id": 131888,
+      "id": 127557,
       "event_category": "Cricket",
-      "title": "Maxx Cricket Club vs Sky Warrior (Malaysia T10 Bash, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131888_CASACARDS_APP.png",
-      "team_1": "Maxx Cricket Club",
-      "team_2": "Sky Warrior",
+      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_old_1753438652136.jpg",
+      "team_1": "West Indies",
+      "team_2": "Australia",
       "status": "UPCOMING",
-      "event_name": "Malaysia T10 Bash, 2025",
-      "match_name": "Maxx Cricket Club vs Sky Warrior",
-      "startTime": "06:30:00 AM 28-07-2025"
+      "event_name": "Australia Tour of West Indies, 2025",
+      "match_name": "West Indies vs Australia",
+      "startTime": "04:30:00 AM 29-07-2025"
     },
     {
       "id": 131889,
@@ -146,18 +160,6 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Spencer vs East Molesey",
       "startTime": "08:45:00 PM 28-07-2025"
-    },
-    {
-      "id": 127557,
-      "event_category": "Cricket",
-      "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_old_1753438652136.jpg",
-      "team_1": "West Indies",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "Australia Tour of West Indies, 2025",
-      "match_name": "West Indies vs Australia",
-      "startTime": "04:30:00 AM 29-07-2025"
     },
     {
       "id": 130014,
