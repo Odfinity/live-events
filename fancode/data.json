@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:00 AM 31-07-2025",
+  "last update time": "02:22 AM 31-07-2025",
   "matches": [
-    {
-      "id": 132134,
-      "event_category": "Cricket",
-      "title": "Jhelum Jaguars vs Tally Rangers (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Jhelum Jaguars",
-      "team_2": "Tally Rangers",
-      "status": "LIVE",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Jhelum Jaguars vs Tally Rangers",
-      "startTime": "12:15:00 AM 31-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/bWnVS2QNSTyIu8jiaNDPiQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132134_english_hls_38277ta-di_h264/index.m3u8"
-    },
     {
       "id": 128760,
       "event_category": "Cricket",
@@ -270,18 +256,6 @@
       "startTime": "10:35:00 PM 31-07-2025"
     },
     {
-      "id": 131402,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "05:30:00 AM 01-08-2025"
-    },
-    {
       "id": 132607,
       "event_category": "Cricket",
       "title": "Kelantan vs Melaka (MCA Men's T20 Inter-State Championship, 2025)",
@@ -292,6 +266,18 @@
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
       "match_name": "Kelantan vs Melaka",
       "startTime": "07:30:00 AM 01-08-2025"
+    },
+    {
+      "id": 131402,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "05:30:00 AM 01-08-2025"
     },
     {
       "id": 132195,
@@ -424,6 +410,18 @@
       "event_name": "Namibia T20, 2025",
       "match_name": "Eavion Eagles vs Pupkewitz Motors Wildcats",
       "startTime": "05:30:00 PM 01-08-2025"
+    },
+    {
+      "id": 119104,
+      "event_category": "Motorsports",
+      "title": "Practice vs Budapest (F3 HUNGARY 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "Practice",
+      "team_2": "Budapest",
+      "status": "UPCOMING",
+      "event_name": "F3 HUNGARY 2025",
+      "match_name": "Practice",
+      "startTime": "01:25:00 PM 01-08-2025"
     }
   ]
 }
