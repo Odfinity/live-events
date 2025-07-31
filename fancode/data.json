@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:41 AM 01-08-2025",
+  "last update time": "05:06 AM 01-08-2025",
   "matches": [
     {
-      "id": 130016,
+      "id": 131402,
       "event_category": "Cricket",
-      "title": "CECC vs Al Mulla Exchange (KCC T20 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Summer-League_old_02.jpg",
-      "team_1": "CECC",
-      "team_2": "Al Mulla Exchange",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
       "status": "LIVE",
-      "event_name": "KCC T20 Summer League, 2025",
-      "match_name": "CECC vs Al Mulla Exchange",
-      "startTime": "01:15:00 AM 01-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XkxifEvMS_6bDyQmjVu7Cg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130016_english_hls_74037ta-di_h264/index.m3u8"
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "05:30:00 AM 01-08-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 128760,
@@ -246,18 +246,6 @@
       "startTime": "11:00:00 PM 01-08-2025"
     },
     {
-      "id": 131402,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "05:30:00 AM 01-08-2025"
-    },
-    {
       "id": 132137,
       "event_category": "Cricket",
       "title": "Keraniganj Challengers vs Jhelum Jaguars (KCC T10 Summer League, 2025)",
@@ -436,6 +424,30 @@
       "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
       "match_name": "Practice 2",
       "startTime": "08:30:00 PM 01-08-2025"
+    },
+    {
+      "id": 132397,
+      "event_category": "Cricket",
+      "title": "Navarang Club vs Gauhati Town Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Navarang Club",
+      "team_2": "Gauhati Town Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Navarang Club vs Gauhati Town Club",
+      "startTime": "09:00:00 AM 02-08-2025"
+    },
+    {
+      "id": 132112,
+      "event_category": "Motorsports",
+      "title": "Practice vs Budapest (Porsche Mobil 1 Super Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg",
+      "team_1": "Practice",
+      "team_2": "Budapest",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Super Cup",
+      "match_name": "Practice",
+      "startTime": "09:55:00 PM 01-08-2025"
     }
   ]
 }
