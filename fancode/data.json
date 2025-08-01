@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:30 PM 01-08-2025",
+  "last update time": "07:18 PM 01-08-2025",
   "matches": [
-    {
-      "id": 118446,
-      "event_category": "Formula 1",
-      "title": "Practice 1 vs Hungary (F1 LENOVO HUNGARIAN GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian-Grand-Prix_old.jpg",
-      "team_1": "Practice 1",
-      "team_2": "Hungary",
-      "status": "LIVE",
-      "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
-      "match_name": "Practice 1",
-      "startTime": "05:00:00 PM 01-08-2025",
-      "dai_url": "https://dn5d4xg82rz1u.cloudfront.net/out/v1/49ed59c61f0c4873bfe6f26d02bb0176/index.m3u8",
-      "adfree_url": "https://dn5d4xg82rz1u.cloudfront.net/out/v1/49ed59c61f0c4873bfe6f26d02bb0176/index.m3u8"
-    },
-    {
-      "id": 128760,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)old-match-card-.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "New Zealand",
-      "status": "LIVE",
-      "event_name": "New Zealand tour of Zimbabwe, 2025",
-      "match_name": "Zimbabwe vs New Zealand",
-      "startTime": "01:30:00 PM 30-07-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/E_XDl2oIQIquNyxRymh2xA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128760_english_hls_70657ta-di_h264/index.m3u8"
-    },
     {
       "id": 132434,
       "event_category": "Cricket",
@@ -58,6 +30,20 @@
       "startTime": "06:30:00 PM 01-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/-X6OiYasQR-G0bBtFBCioA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132049_english_hls_70086ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131672,
+      "event_category": "Cricket",
+      "title": "USA Women Under-19 vs West Indies Women Under-19 (USA Women U19 tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/USA-Women-U19-tour-of-West-India,-2025_match-card.jpg",
+      "team_1": "USA Women Under-19",
+      "team_2": "West Indies Women Under-19",
+      "status": "LIVE",
+      "event_name": "USA Women U19 tour of West Indies, 2025",
+      "match_name": "USA Women Under-19 vs West Indies Women Under-19",
+      "startTime": "07:30:00 PM 01-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/hXhF18zWRHK_fcRibPNxdQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131672_english_hls_37146ta-di_h264/index.m3u8"
     },
     {
       "id": 132206,
@@ -114,32 +100,6 @@
       "startTime": "05:15:00 PM 01-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/K2tvd8PbQC2VWNhmaKUjuQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132207_english_hls_12639ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 119105,
-      "event_category": "Motorsports",
-      "title": "Qualifying vs Budapest (F3 HUNGARY 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-      "team_1": "Qualifying",
-      "team_2": "Budapest",
-      "status": "LIVE",
-      "event_name": "F3 HUNGARY 2025",
-      "match_name": "Qualifying",
-      "startTime": "06:30:00 PM 01-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119105_english_hls_44424adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119105_english_hls_44424adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131672,
-      "event_category": "Cricket",
-      "title": "West Indies Women Under-19 vs USA Women Under-19 (USA Women U19 tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/USA-Women-U19-tour-of-West-India,-2025_match-card.jpg",
-      "team_1": "West Indies Women Under-19",
-      "team_2": "USA Women Under-19",
-      "status": "UPCOMING",
-      "event_name": "USA Women U19 tour of West Indies, 2025",
-      "match_name": "West Indies Women Under-19 vs USA Women Under-19",
-      "startTime": "07:30:00 PM 01-08-2025"
     },
     {
       "id": 132050,
@@ -322,18 +282,6 @@
       "startTime": "01:30:00 PM 02-08-2025"
     },
     {
-      "id": 132012,
-      "event_category": "Football",
-      "title": "Luton Town vs AFC Wimbledon (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
-      "team_1": "Luton Town",
-      "team_2": "AFC Wimbledon",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Luton Town vs AFC Wimbledon",
-      "startTime": "12:30:00 AM 02-08-2025"
-    },
-    {
       "id": 132821,
       "event_category": "Cricket",
       "title": "Gaming CC vs Rugby CC (ECS Gibraltar, 2025)",
@@ -344,6 +292,18 @@
       "event_name": "ECS Gibraltar, 2025",
       "match_name": "Gaming CC vs Rugby CC",
       "startTime": "02:15:00 PM 02-08-2025"
+    },
+    {
+      "id": 132012,
+      "event_category": "Football",
+      "title": "Luton Town vs AFC Wimbledon (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+      "team_1": "Luton Town",
+      "team_2": "AFC Wimbledon",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Luton Town vs AFC Wimbledon",
+      "startTime": "12:30:00 AM 02-08-2025"
     },
     {
       "id": 119062,
@@ -442,6 +402,30 @@
       "startTime": "09:55:00 PM 01-08-2025"
     },
     {
+      "id": 132023,
+      "event_category": "Football",
+      "title": "Barnet vs Fleetwood Town (League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Barnet",
+      "team_2": "Fleetwood Town",
+      "status": "UPCOMING",
+      "event_name": "League Two 2025-26",
+      "match_name": "Barnet vs Fleetwood Town",
+      "startTime": "07:30:00 PM 02-08-2025"
+    },
+    {
+      "id": 132019,
+      "event_category": "Football",
+      "title": "Bradford City vs Wycombe Wanderers (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+      "team_1": "Bradford City",
+      "team_2": "Wycombe Wanderers",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Bradford City vs Wycombe Wanderers",
+      "startTime": "07:30:00 PM 02-08-2025"
+    },
+    {
       "id": 132834,
       "event_category": "Baseball",
       "title": "Cincinnati Reds vs Atlanta Braves (Major League Baseball, 2025)",
@@ -466,16 +450,16 @@
       "startTime": "12:30:00 AM 02-08-2025"
     },
     {
-      "id": 132835,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Texas Rangers (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "team_1": "Seattle Mariners",
-      "team_2": "Texas Rangers",
+      "id": 132013,
+      "event_category": "Football",
+      "title": "Cardiff City vs Peterborough United (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+      "team_1": "Cardiff City",
+      "team_2": "Peterborough United",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Texas Rangers",
-      "startTime": "07:40:00 AM 02-08-2025"
+      "event_name": "League One 2025-26",
+      "match_name": "Cardiff City vs Peterborough United",
+      "startTime": "08:00:00 PM 02-08-2025"
     }
   ]
 }
