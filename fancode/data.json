@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:30 AM 01-08-2025",
+  "last update time": "11:16 AM 01-08-2025",
   "matches": [
-    {
-      "id": 132607,
-      "event_category": "Cricket",
-      "title": "Melaka vs Kelantan (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132607_5524_KEL_MEL_fc-web.jpg",
-      "team_1": "Melaka",
-      "team_2": "Kelantan",
-      "status": "LIVE",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Melaka vs Kelantan",
-      "startTime": "07:30:00 AM 01-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zTv82Jh8SImyx6EEzLzXow/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132607_english_hls_24557ta-di_h264/index.m3u8"
-    },
     {
       "id": 132395,
       "event_category": "Cricket",
@@ -54,18 +40,6 @@
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
       "match_name": "Perak vs Kuala Lumpur",
       "startTime": "11:30:00 AM 01-08-2025"
-    },
-    {
-      "id": 132512,
-      "event_category": "Cricket",
-      "title": "Pirates vs Comets (Mackay T20 Championship, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132512_CASACARDS_APP.png",
-      "team_1": "Pirates",
-      "team_2": "Comets",
-      "status": "UPCOMING",
-      "event_name": "Mackay T20 Championship, 2025",
-      "match_name": "Pirates vs Comets",
-      "startTime": "06:30:00 AM 02-08-2025"
     },
     {
       "id": 132609,
@@ -236,18 +210,6 @@
       "startTime": "01:00:00 AM 02-08-2025"
     },
     {
-      "id": 132611,
-      "event_category": "Cricket",
-      "title": "Johor vs Kelantan (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132611_5524_JOH_KEL_fc-web.jpg",
-      "team_1": "Johor",
-      "team_2": "Kelantan",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Johor vs Kelantan",
-      "startTime": "07:00:00 AM 02-08-2025"
-    },
-    {
       "id": 132610,
       "event_category": "Cricket",
       "title": "Pahang vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
@@ -258,6 +220,18 @@
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
       "match_name": "Pahang vs Selangor",
       "startTime": "07:00:00 AM 02-08-2025"
+    },
+    {
+      "id": 132611,
+      "event_category": "Cricket",
+      "title": "Johor vs Kelantan (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132611_5524_JOH_KEL_fc-web.jpg",
+      "team_1": "Johor",
+      "team_2": "Kelantan",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Johor vs Kelantan",
+      "startTime": "07:30:00 AM 02-08-2025"
     },
     {
       "id": 132012,
@@ -344,18 +318,6 @@
       "startTime": "01:00:00 PM 02-08-2025"
     },
     {
-      "id": 119104,
-      "event_category": "Motorsports",
-      "title": "Practice vs Budapest (F3 HUNGARY 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-      "team_1": "Practice",
-      "team_2": "Budapest",
-      "status": "UPCOMING",
-      "event_name": "F3 HUNGARY 2025",
-      "match_name": "Practice",
-      "startTime": "01:25:00 PM 01-08-2025"
-    },
-    {
       "id": 132398,
       "event_category": "Cricket",
       "title": "91 Yards Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
@@ -366,6 +328,30 @@
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
       "match_name": "91 Yards Club vs Guwahati Giants",
       "startTime": "01:15:00 PM 02-08-2025"
+    },
+    {
+      "id": 132524,
+      "event_category": "Cricket",
+      "title": "Chargers vs Wolves (Mackay T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Chargers",
+      "team_2": "Wolves",
+      "status": "UPCOMING",
+      "event_name": "Mackay T20 Championship, 2025",
+      "match_name": "Chargers vs Wolves",
+      "startTime": "01:30:00 PM 02-08-2025"
+    },
+    {
+      "id": 119104,
+      "event_category": "Motorsports",
+      "title": "Practice vs Budapest (F3 HUNGARY 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+      "team_1": "Practice",
+      "team_2": "Budapest",
+      "status": "UPCOMING",
+      "event_name": "F3 HUNGARY 2025",
+      "match_name": "Practice",
+      "startTime": "01:25:00 PM 01-08-2025"
     },
     {
       "id": 119061,
@@ -450,6 +436,18 @@
       "event_name": "F3 HUNGARY 2025",
       "match_name": "Qualifying",
       "startTime": "06:30:00 PM 01-08-2025"
+    },
+    {
+      "id": 119062,
+      "event_category": "Motorsports",
+      "title": "Qualifying vs Budapest (F2 HUNGARY 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Qualifying",
+      "team_2": "Budapest",
+      "status": "UPCOMING",
+      "event_name": "F2 HUNGARY 2025",
+      "match_name": "Qualifying",
+      "startTime": "07:25:00 PM 01-08-2025"
     }
   ]
 }
