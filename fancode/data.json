@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:02 PM 01-08-2025",
+  "last update time": "09:22 PM 01-08-2025",
   "matches": [
     {
       "id": 118447,
@@ -114,20 +114,6 @@
       "startTime": "05:15:00 PM 01-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/K2tvd8PbQC2VWNhmaKUjuQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132207_english_hls_12639ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132434,
-      "event_category": "Cricket",
-      "title": "Pupkewitz Motors Wildcats vs Eavion Eagles (Namibia T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "Pupkewitz Motors Wildcats",
-      "team_2": "Eavion Eagles",
-      "status": "LIVE",
-      "event_name": "Namibia T20, 2025",
-      "match_name": "Pupkewitz Motors Wildcats vs Eavion Eagles",
-      "startTime": "05:30:00 PM 01-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/t2hoZVH3Sdq8mxyvb-4fpw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132434_english_hls_22060ta-di_h264/index.m3u8"
     },
     {
       "id": 132051,
@@ -346,18 +332,6 @@
       "startTime": "05:30:00 PM 02-08-2025"
     },
     {
-      "id": 132112,
-      "event_category": "Motorsports",
-      "title": "Practice vs Budapest (Porsche Mobil 1 Super Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg",
-      "team_1": "Practice",
-      "team_2": "Budapest",
-      "status": "UPCOMING",
-      "event_name": "Porsche Mobil 1 Super Cup",
-      "match_name": "Practice",
-      "startTime": "09:55:00 PM 01-08-2025"
-    },
-    {
       "id": 132823,
       "event_category": "Cricket",
       "title": "Rugby CC vs Pirates (ECS Gibraltar, 2025)",
@@ -370,6 +344,30 @@
       "startTime": "06:15:00 PM 02-08-2025"
     },
     {
+      "id": 132112,
+      "event_category": "Motorsports",
+      "title": "Practice vs Budapest (Porsche Mobil 1 Super Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg",
+      "team_1": "Practice",
+      "team_2": "Budapest",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Super Cup",
+      "match_name": "Practice",
+      "startTime": "09:55:00 PM 01-08-2025"
+    },
+    {
+      "id": 132834,
+      "event_category": "Baseball",
+      "title": "Cincinnati Reds vs Atlanta Braves (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "Cincinnati Reds",
+      "team_2": "Atlanta Braves",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cincinnati Reds vs Atlanta Braves",
+      "startTime": "10:10:00 PM 01-08-2025"
+    },
+    {
       "id": 132824,
       "event_category": "Cricket",
       "title": "Sloggers vs Rugby CC (ECS Gibraltar, 2025)",
@@ -380,30 +378,6 @@
       "event_name": "ECS Gibraltar, 2025",
       "match_name": "Sloggers vs Rugby CC",
       "startTime": "08:15:00 PM 02-08-2025"
-    },
-    {
-      "id": 132023,
-      "event_category": "Football",
-      "title": "Barnet vs Fleetwood Town (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Barnet",
-      "team_2": "Fleetwood Town",
-      "status": "UPCOMING",
-      "event_name": "League Two 2025-26",
-      "match_name": "Barnet vs Fleetwood Town",
-      "startTime": "07:30:00 PM 02-08-2025"
-    },
-    {
-      "id": 132019,
-      "event_category": "Football",
-      "title": "Bradford City vs Wycombe Wanderers (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
-      "team_1": "Bradford City",
-      "team_2": "Wycombe Wanderers",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Bradford City vs Wycombe Wanderers",
-      "startTime": "07:30:00 PM 02-08-2025"
     },
     {
       "id": 130017,
@@ -430,6 +404,30 @@
       "startTime": "10:30:00 PM 02-08-2025"
     },
     {
+      "id": 132023,
+      "event_category": "Football",
+      "title": "Barnet vs Fleetwood Town (League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Barnet",
+      "team_2": "Fleetwood Town",
+      "status": "UPCOMING",
+      "event_name": "League Two 2025-26",
+      "match_name": "Barnet vs Fleetwood Town",
+      "startTime": "07:30:00 PM 02-08-2025"
+    },
+    {
+      "id": 132019,
+      "event_category": "Football",
+      "title": "Bradford City vs Wycombe Wanderers (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+      "team_1": "Bradford City",
+      "team_2": "Wycombe Wanderers",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Bradford City vs Wycombe Wanderers",
+      "startTime": "07:30:00 PM 02-08-2025"
+    },
+    {
       "id": 132013,
       "event_category": "Football",
       "title": "Cardiff City vs Peterborough United (League One 2025-26)",
@@ -440,18 +438,6 @@
       "event_name": "League One 2025-26",
       "match_name": "Cardiff City vs Peterborough United",
       "startTime": "08:00:00 PM 02-08-2025"
-    },
-    {
-      "id": 132834,
-      "event_category": "Baseball",
-      "title": "Cincinnati Reds vs Atlanta Braves (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "team_1": "Cincinnati Reds",
-      "team_2": "Atlanta Braves",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cincinnati Reds vs Atlanta Braves",
-      "startTime": "10:10:00 PM 01-08-2025"
     },
     {
       "id": 132205,
@@ -476,6 +462,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Seattle Mariners vs Texas Rangers",
       "startTime": "07:40:00 AM 02-08-2025"
+    },
+    {
+      "id": 132826,
+      "event_category": "Cricket",
+      "title": "Sloggers vs Pirates (ECS Gibraltar, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132826_5531_SLO_PIR_fc-web.jpg",
+      "team_1": "Sloggers",
+      "team_2": "Pirates",
+      "status": "UPCOMING",
+      "event_name": "ECS Gibraltar, 2025",
+      "match_name": "Sloggers vs Pirates",
+      "startTime": "12:30:00 AM 03-08-2025"
     }
   ]
 }
