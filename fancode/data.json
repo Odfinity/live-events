@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:31 AM 01-08-2025",
+  "last update time": "12:20 PM 01-08-2025",
   "matches": [
     {
       "id": 132395,
@@ -32,6 +32,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132608_english_hls_37345ta-di_h264/index.m3u8"
     },
     {
+      "id": 132609,
+      "event_category": "Cricket",
+      "title": "Sarawak vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132609_5524_SAR_PEN_fc-web.jpg",
+      "team_1": "Sarawak",
+      "team_2": "Penang",
+      "status": "LIVE",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Sarawak vs Penang",
+      "startTime": "12:00:00 PM 01-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/DD1aJkAWQ36BKB6roJUzbQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132609_english_hls_5920ta-di_h264/index.m3u8"
+    },
+    {
       "id": 128760,
       "event_category": "Cricket",
       "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
@@ -42,18 +56,6 @@
       "event_name": "New Zealand tour of Zimbabwe, 2025",
       "match_name": "Zimbabwe vs New Zealand",
       "startTime": "01:30:00 PM 30-07-2025"
-    },
-    {
-      "id": 132609,
-      "event_category": "Cricket",
-      "title": "Sarawak vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132609_5524_SAR_PEN_fc-web.jpg",
-      "team_1": "Sarawak",
-      "team_2": "Penang",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Sarawak vs Penang",
-      "startTime": "12:00:00 PM 01-08-2025"
     },
     {
       "id": 132433,
@@ -344,6 +346,18 @@
       "startTime": "01:30:00 PM 02-08-2025"
     },
     {
+      "id": 132821,
+      "event_category": "Cricket",
+      "title": "Gaming CC vs Rugby CC (ECS Gibraltar, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132821_5531_GAM_RGC_fc-web.jpg",
+      "team_1": "Gaming CC",
+      "team_2": "Rugby CC",
+      "status": "UPCOMING",
+      "event_name": "ECS Gibraltar, 2025",
+      "match_name": "Gaming CC vs Rugby CC",
+      "startTime": "02:15:00 PM 02-08-2025"
+    },
+    {
       "id": 119104,
       "event_category": "Motorsports",
       "title": "Practice vs Budapest (F3 HUNGARY 2025)",
@@ -438,18 +452,6 @@
       "event_name": "F3 HUNGARY 2025",
       "match_name": "Qualifying",
       "startTime": "06:30:00 PM 01-08-2025"
-    },
-    {
-      "id": 132821,
-      "event_category": "Cricket",
-      "title": "Gaming CC vs Rugby CC (ECS Gibraltar, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132821_5531_GAM_RGC_fc-web.jpg",
-      "team_1": "Gaming CC",
-      "team_2": "Rugby CC",
-      "status": "UPCOMING",
-      "event_name": "ECS Gibraltar, 2025",
-      "match_name": "Gaming CC vs Rugby CC",
-      "startTime": "02:15:00 PM 02-08-2025"
     }
   ]
 }
