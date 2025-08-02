@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:59 PM 02-08-2025",
+  "last update time": "04:20 PM 02-08-2025",
   "matches": [
     {
       "id": 118448,
@@ -60,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132524_english_hls_65614ta-di_h264/index.m3u8"
     },
     {
+      "id": 132822,
+      "event_category": "Cricket",
+      "title": "Gaming CC vs Sloggers (ECS Gibraltar, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132822_5531_SLO_GAM_fc-web.jpg",
+      "team_1": "Gaming CC",
+      "team_2": "Sloggers",
+      "status": "LIVE",
+      "event_name": "ECS Gibraltar, 2025",
+      "match_name": "Gaming CC vs Sloggers",
+      "startTime": "04:15:00 PM 02-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LJ6StU86RtmdnsUhJlh0yA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132822_english_hls_36033ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132821,
       "event_category": "Cricket",
       "title": "Rugby CC vs Gaming CC (ECS Gibraltar, 2025)",
@@ -86,16 +100,16 @@
       "startTime": "09:00:00 PM 02-08-2025"
     },
     {
-      "id": 132822,
-      "event_category": "Cricket",
-      "title": "Gaming CC vs Sloggers (ECS Gibraltar, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132822_5531_SLO_GAM_fc-web.jpg",
-      "team_1": "Gaming CC",
-      "team_2": "Sloggers",
+      "id": 132013,
+      "event_category": "Football",
+      "title": "Cardiff City vs Peterborough United (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132013_5490_CAR_PTU_fc-Web.jpg",
+      "team_1": "Cardiff City",
+      "team_2": "Peterborough United",
       "status": "UPCOMING",
-      "event_name": "ECS Gibraltar, 2025",
-      "match_name": "Gaming CC vs Sloggers",
-      "startTime": "04:15:00 PM 02-08-2025"
+      "event_name": "League One 2025-26",
+      "match_name": "Cardiff City vs Peterborough United",
+      "startTime": "05:00:00 PM 02-08-2025"
     },
     {
       "id": 132436,
@@ -230,16 +244,16 @@
       "startTime": "10:00:00 AM 03-08-2025"
     },
     {
-      "id": 132013,
-      "event_category": "Football",
-      "title": "Cardiff City vs Peterborough United (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
-      "team_1": "Cardiff City",
-      "team_2": "Peterborough United",
+      "id": 132625,
+      "event_category": "Cricket",
+      "title": "Penang vs Putrajaya (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132625_5524_PEN_PJY_fc-web.jpg",
+      "team_1": "Penang",
+      "team_2": "Putrajaya",
       "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Cardiff City vs Peterborough United",
-      "startTime": "05:00:00 PM 02-08-2025"
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Penang vs Putrajaya",
+      "startTime": "11:30:00 AM 03-08-2025"
     },
     {
       "id": 132023,
@@ -257,25 +271,13 @@
       "id": 132019,
       "event_category": "Football",
       "title": "Bradford City vs Wycombe Wanderers (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132019_5490_BC_WYM_fc-Web.jpg",
       "team_1": "Bradford City",
       "team_2": "Wycombe Wanderers",
       "status": "UPCOMING",
       "event_name": "League One 2025-26",
       "match_name": "Bradford City vs Wycombe Wanderers",
       "startTime": "07:30:00 PM 02-08-2025"
-    },
-    {
-      "id": 132625,
-      "event_category": "Cricket",
-      "title": "Penang vs Putrajaya (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132625_5524_PEN_PJY_fc-web.jpg",
-      "team_1": "Penang",
-      "team_2": "Putrajaya",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Penang vs Putrajaya",
-      "startTime": "11:30:00 AM 03-08-2025"
     },
     {
       "id": 132626,
@@ -314,6 +316,54 @@
       "startTime": "01:00:00 PM 03-08-2025"
     },
     {
+      "id": 132211,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "Main Feed - Day 3",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
+      "status": "UPCOMING",
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "Main Feed - Day 3",
+      "startTime": "05:00:00 PM 02-08-2025"
+    },
+    {
+      "id": 132212,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "Marquee Group - Day 3",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
+      "status": "UPCOMING",
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "Marquee Group - Day 3",
+      "startTime": "05:00:00 PM 02-08-2025"
+    },
+    {
+      "id": 132214,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "Featured Holes - Day 3",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
+      "status": "UPCOMING",
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "Featured Holes - Day 3",
+      "startTime": "05:00:00 PM 02-08-2025"
+    },
+    {
+      "id": 132213,
+      "event_category": "Golf",
+      "title": "Featured Group - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "Featured Group - Day 3",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
+      "status": "UPCOMING",
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "Featured Group - Day 3",
+      "startTime": "05:00:00 PM 02-08-2025"
+    },
+    {
       "id": 132400,
       "event_category": "Cricket",
       "title": "Bud Cricket Club vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
@@ -338,18 +388,6 @@
       "startTime": "02:00:00 PM 03-08-2025"
     },
     {
-      "id": 131403,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "05:30:00 AM 03-08-2025"
-    },
-    {
       "id": 132828,
       "event_category": "Cricket",
       "title": "Sloggers vs Gaming CC (ECS Gibraltar, 2025)",
@@ -360,6 +398,18 @@
       "event_name": "ECS Gibraltar, 2025",
       "match_name": "Sloggers vs Gaming CC",
       "startTime": "02:15:00 PM 03-08-2025"
+    },
+    {
+      "id": 131403,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "05:30:00 AM 03-08-2025"
     },
     {
       "id": 132829,
@@ -420,54 +470,6 @@
       "event_name": "ECS Gibraltar, 2025",
       "match_name": "Gaming CC vs Pirates",
       "startTime": "06:15:00 PM 03-08-2025"
-    },
-    {
-      "id": 132211,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-      "team_1": "Main Feed - Day 3",
-      "team_2": "Sedgefield Country Club - Greensboro, NC",
-      "status": "UPCOMING",
-      "event_name": "Wyndham Championship 2025",
-      "match_name": "Main Feed - Day 3",
-      "startTime": "05:00:00 PM 02-08-2025"
-    },
-    {
-      "id": 132212,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-      "team_1": "Marquee Group - Day 3",
-      "team_2": "Sedgefield Country Club - Greensboro, NC",
-      "status": "UPCOMING",
-      "event_name": "Wyndham Championship 2025",
-      "match_name": "Marquee Group - Day 3",
-      "startTime": "05:00:00 PM 02-08-2025"
-    },
-    {
-      "id": 132214,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-      "team_1": "Featured Holes - Day 3",
-      "team_2": "Sedgefield Country Club - Greensboro, NC",
-      "status": "UPCOMING",
-      "event_name": "Wyndham Championship 2025",
-      "match_name": "Featured Holes - Day 3",
-      "startTime": "05:00:00 PM 02-08-2025"
-    },
-    {
-      "id": 132213,
-      "event_category": "Golf",
-      "title": "Featured Group - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-      "team_1": "Featured Group - Day 3",
-      "team_2": "Sedgefield Country Club - Greensboro, NC",
-      "status": "UPCOMING",
-      "event_name": "Wyndham Championship 2025",
-      "match_name": "Featured Group - Day 3",
-      "startTime": "05:00:00 PM 02-08-2025"
     }
   ]
 }
