@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 04-08-2025",
+  "last update time": "02:01 AM 04-08-2025",
   "matches": [
-    {
-      "id": 132188,
-      "event_category": "Football",
-      "title": "FC Porto vs Atlético de Madrid (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC-Porto-VS-Atletico-de-Madrid_old.jpg",
-      "team_1": "FC Porto",
-      "team_2": "Atlético de Madrid",
-      "status": "LIVE",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "FC Porto vs Atlético de Madrid",
-      "startTime": "11:30:00 PM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/PtRVncEcSbKkUoqsmj2ewg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132188_english_hls_43732ta-di_h264/index.m3u8"
-    },
     {
       "id": 130018,
       "event_category": "Cricket",
@@ -56,8 +42,8 @@
       "event_name": "Wyndham Championship 2025",
       "match_name": "Marquee Group - Day 4",
       "startTime": "05:30:00 PM 03-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/9zxgNdnzS9KrN5znAZPxMA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132217_english_hls_11189ta-di_h264/index.m3u8"
     },
     {
       "id": 132219,
@@ -128,6 +114,20 @@
       "startTime": "01:35:00 AM 04-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132841_english_hls_44079ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132841_english_hls_44079ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132188,
+      "event_category": "Football",
+      "title": "FC Porto vs Atlético de Madrid (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC-Porto-VS-Atletico-de-Madrid_old.jpg",
+      "team_1": "FC Porto",
+      "team_2": "Atlético de Madrid",
+      "status": "LIVE",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "FC Porto vs Atlético de Madrid",
+      "startTime": "11:30:00 PM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/PtRVncEcSbKkUoqsmj2ewg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132188_english_hls_43732ta-di_h264/index.m3u8"
     },
     {
       "id": 132401,
@@ -205,7 +205,7 @@
       "id": 129909,
       "event_category": "Football",
       "title": "Daegu vs Barcelona (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Daegu-VS-Barcelona_old.jpg",
       "team_1": "Daegu",
       "team_2": "Barcelona",
       "status": "UPCOMING",
@@ -250,18 +250,6 @@
       "startTime": "10:15:00 PM 04-08-2025"
     },
     {
-      "id": 131404,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "05:30:00 AM 04-08-2025"
-    },
-    {
       "id": 132056,
       "event_category": "Cricket",
       "title": "Kreative Sports XI vs Wimbledon (ECS England, Wimbledon, 2025)",
@@ -272,6 +260,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Kreative Sports XI vs Wimbledon",
       "startTime": "10:45:00 PM 04-08-2025"
+    },
+    {
+      "id": 131404,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "05:30:00 AM 04-08-2025"
     },
     {
       "id": 132139,
