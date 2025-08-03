@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:19 AM 03-08-2025",
+  "last update time": "06:28 AM 03-08-2025",
   "matches": [
+    {
+      "id": 132516,
+      "event_category": "Cricket",
+      "title": "Rockets vs Marlins (Mackay T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132516_5522_MAR_RCS_fc-web.jpg",
+      "team_1": "Rockets",
+      "team_2": "Marlins",
+      "status": "LIVE",
+      "event_name": "Mackay T20 Championship, 2025",
+      "match_name": "Rockets vs Marlins",
+      "startTime": "06:00:00 AM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/V5SDfZ0RTnSd9otDgwI4xA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132516_english_hls_32608ta-di_h264/index.m3u8"
+    },
     {
       "id": 131403,
       "event_category": "Cricket",
@@ -16,18 +30,6 @@
       "startTime": "05:30:00 AM 03-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/XFMd_f62THmMUFbK1dkEZg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131403_english_hls_5829ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132516,
-      "event_category": "Cricket",
-      "title": "Marlins vs Rockets (Mackay T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132516_5522_MAR_RCS_fc-web.jpg",
-      "team_1": "Marlins",
-      "team_2": "Rockets",
-      "status": "UPCOMING",
-      "event_name": "Mackay T20 Championship, 2025",
-      "match_name": "Marlins vs Rockets",
-      "startTime": "06:00:00 AM 03-08-2025"
     },
     {
       "id": 132614,
@@ -186,18 +188,6 @@
       "startTime": "05:30:00 PM 03-08-2025"
     },
     {
-      "id": 131252,
-      "event_category": "Football",
-      "title": "Tottenham Hotspur vs Newcastle United (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Newcastle-United_old.jpg",
-      "team_1": "Tottenham Hotspur",
-      "team_2": "Newcastle United",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Tottenham Hotspur vs Newcastle United",
-      "startTime": "04:30:00 PM 03-08-2025"
-    },
-    {
       "id": 132830,
       "event_category": "Cricket",
       "title": "Gaming CC vs Pirates (ECS Gibraltar, 2025)",
@@ -208,6 +198,18 @@
       "event_name": "ECS Gibraltar, 2025",
       "match_name": "Gaming CC vs Pirates",
       "startTime": "06:15:00 PM 03-08-2025"
+    },
+    {
+      "id": 131252,
+      "event_category": "Football",
+      "title": "Tottenham Hotspur vs Newcastle United (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Newcastle-United_old.jpg",
+      "team_1": "Tottenham Hotspur",
+      "team_2": "Newcastle United",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Tottenham Hotspur vs Newcastle United",
+      "startTime": "04:30:00 PM 03-08-2025"
     },
     {
       "id": 131251,
@@ -292,6 +294,30 @@
       "event_name": "League One 2025-26",
       "match_name": "Stockport County vs Bolton Wanderers",
       "startTime": "04:30:00 PM 03-08-2025"
+    },
+    {
+      "id": 132401,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132401_CASACARDS_APP.png",
+      "team_1": "Gauhati Town Club",
+      "team_2": "Nabajyoti Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Gauhati Town Club vs Nabajyoti Club",
+      "startTime": "09:00:00 AM 04-08-2025"
+    },
+    {
+      "id": 131404,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "05:30:00 AM 04-08-2025"
     },
     {
       "id": 132838,
@@ -414,6 +440,18 @@
       "startTime": "06:30:00 PM 03-08-2025"
     },
     {
+      "id": 132917,
+      "event_category": "Cricket",
+      "title": "Hubli Tigers Women vs Shivamogga Lioness Women (Maharani Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+      "team_1": "Hubli Tigers Women",
+      "team_2": "Shivamogga Lioness Women",
+      "status": "UPCOMING",
+      "event_name": "Maharani Trophy, 2025",
+      "match_name": "Hubli Tigers Women vs Shivamogga Lioness Women",
+      "startTime": "09:45:00 AM 04-08-2025"
+    },
+    {
       "id": 132466,
       "event_category": "Cricket",
       "title": "Outer Delhi Warriors vs New Delhi Tigers (Delhi Premier League, 2025)",
@@ -424,42 +462,6 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Outer Delhi Warriors vs New Delhi Tigers",
       "startTime": "07:00:00 PM 03-08-2025"
-    },
-    {
-      "id": 131404,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "05:30:00 AM 04-08-2025"
-    },
-    {
-      "id": 132401,
-      "event_category": "Cricket",
-      "title": "Gauhati Town Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132401_CASACARDS_APP.png",
-      "team_1": "Gauhati Town Club",
-      "team_2": "Nabajyoti Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Gauhati Town Club vs Nabajyoti Club",
-      "startTime": "09:00:00 AM 04-08-2025"
-    },
-    {
-      "id": 132839,
-      "event_category": "Baseball",
-      "title": "Boston Red Sox vs Houston Astros (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132839_CASACARDS_APP.png",
-      "team_1": "Boston Red Sox",
-      "team_2": "Houston Astros",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Boston Red Sox vs Houston Astros",
-      "startTime": "09:05:00 PM 03-08-2025"
     }
   ]
 }
