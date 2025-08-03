@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:18 PM 03-08-2025",
+  "last update time": "05:44 PM 03-08-2025",
   "matches": [
     {
       "id": 131252,
@@ -28,8 +28,8 @@
       "event_name": "Club Friendlies 2025",
       "match_name": "Ajax vs Monaco",
       "startTime": "05:30:00 PM 03-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/jNz6d9VwS56YbVTlT3f5_Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131251_english_hls_25313ta-di_h264/index.m3u8"
     },
     {
       "id": 118450,
@@ -70,8 +70,8 @@
       "event_name": "Namibia T20, 2025",
       "match_name": "Eavion Eagles vs NPL Bears",
       "startTime": "05:30:00 PM 03-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/ghrdIEHsS1edOvnF3U0cdw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132438_english_hls_27435ta-di_h264/index.m3u8"
     },
     {
       "id": 132020,
@@ -130,18 +130,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132217_english_hls_11189ta-di_h264/index.m3u8"
     },
     {
-      "id": 132400,
-      "event_category": "Cricket",
-      "title": "Navarang Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
-      "team_1": "Navarang Club",
-      "team_2": "Bud Cricket Club",
+      "id": 132219,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "Featured Holes - Day 4",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
       "status": "LIVE",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Navarang Club vs Bud Cricket Club",
-      "startTime": "01:15:00 PM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8"
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "Featured Holes - Day 4",
+      "startTime": "05:45:00 PM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/COQrw8u5T9S8dq4smJKz3g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132219_english_hls_2990ta-di_h264/index.m3u8"
     },
     {
       "id": 132830,
@@ -264,30 +264,6 @@
       "startTime": "01:45:00 PM 04-08-2025"
     },
     {
-      "id": 132219,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-      "team_1": "Featured Holes - Day 4",
-      "team_2": "Sedgefield Country Club - Greensboro, NC",
-      "status": "UPCOMING",
-      "event_name": "Wyndham Championship 2025",
-      "match_name": "Featured Holes - Day 4",
-      "startTime": "05:45:00 PM 03-08-2025"
-    },
-    {
-      "id": 132218,
-      "event_category": "Golf",
-      "title": "Featured Group - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-      "team_1": "Featured Group - Day 4",
-      "team_2": "Sedgefield Country Club - Greensboro, NC",
-      "status": "UPCOMING",
-      "event_name": "Wyndham Championship 2025",
-      "match_name": "Featured Group - Day 4",
-      "startTime": "06:00:00 PM 03-08-2025"
-    },
-    {
       "id": 132052,
       "event_category": "Cricket",
       "title": "Kreative Sports XI vs Guildford (ECS England, Wimbledon, 2025)",
@@ -346,6 +322,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Kreative Sports XI vs CFS Pinnacle Pro",
       "startTime": "06:30:00 PM 04-08-2025"
+    },
+    {
+      "id": 132218,
+      "event_category": "Golf",
+      "title": "Featured Group - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "Featured Group - Day 4",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
+      "status": "UPCOMING",
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "Featured Group - Day 4",
+      "startTime": "06:45:00 PM 03-08-2025"
     },
     {
       "id": 132466,
@@ -432,18 +420,6 @@
       "startTime": "10:15:00 PM 04-08-2025"
     },
     {
-      "id": 132467,
-      "event_category": "Cricket",
-      "title": "East Delhi Riders vs West Delhi Lions (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132467_5521_EDR_WDL_fc-Web.jpg",
-      "team_1": "East Delhi Riders",
-      "team_2": "West Delhi Lions",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "East Delhi Riders vs West Delhi Lions",
-      "startTime": "02:00:00 PM 04-08-2025"
-    },
-    {
       "id": 132056,
       "event_category": "Cricket",
       "title": "Kreative Sports XI vs Wimbledon (ECS England, Wimbledon, 2025)",
@@ -456,6 +432,18 @@
       "startTime": "10:45:00 PM 04-08-2025"
     },
     {
+      "id": 132467,
+      "event_category": "Cricket",
+      "title": "East Delhi Riders vs West Delhi Lions (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132467_5521_EDR_WDL_fc-Web.jpg",
+      "team_1": "East Delhi Riders",
+      "team_2": "West Delhi Lions",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "East Delhi Riders vs West Delhi Lions",
+      "startTime": "02:00:00 PM 04-08-2025"
+    },
+    {
       "id": 132139,
       "event_category": "Cricket",
       "title": "Bihar CC vs Bader & Nie Cricket Club (KCC T10 Summer League, 2025)",
@@ -466,6 +454,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Bihar CC vs Bader & Nie Cricket Club",
       "startTime": "12:15:00 AM 05-08-2025"
+    },
+    {
+      "id": 132468,
+      "event_category": "Cricket",
+      "title": "Central Delhi Kings vs New Delhi Tigers (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132468_5521_CDK_NDT_fc-Web.jpg",
+      "team_1": "Central Delhi Kings",
+      "team_2": "New Delhi Tigers",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Central Delhi Kings vs New Delhi Tigers",
+      "startTime": "07:00:00 PM 04-08-2025"
     }
   ]
 }
