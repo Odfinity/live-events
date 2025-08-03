@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:10 AM 04-08-2025",
+  "last update time": "01:27 AM 04-08-2025",
   "matches": [
     {
       "id": 132188,
@@ -56,8 +56,8 @@
       "event_name": "Wyndham Championship 2025",
       "match_name": "Marquee Group - Day 4",
       "startTime": "05:30:00 PM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9zxgNdnzS9KrN5znAZPxMA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132217_english_hls_11189ta-di_h264/index.m3u8"
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 132219,
@@ -114,6 +114,20 @@
       "startTime": "11:50:00 PM 03-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132840_english_hls_74145ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132840_english_hls_74145ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132841,
+      "event_category": "Baseball",
+      "title": "Oakland Athletics vs Arizona Diamondbacks (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132841_CASACARDS_APP.png",
+      "team_1": "Oakland Athletics",
+      "team_2": "Arizona Diamondbacks",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Oakland Athletics vs Arizona Diamondbacks",
+      "startTime": "01:35:00 AM 04-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132841_english_hls_44079ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132841_english_hls_44079ta-di_h264/index.m3u8"
     },
     {
       "id": 132401,
@@ -224,16 +238,16 @@
       "startTime": "08:45:00 PM 04-08-2025"
     },
     {
-      "id": 132841,
-      "event_category": "Baseball",
-      "title": "Oakland Athletics vs Arizona Diamondbacks (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132841_CASACARDS_APP.png",
-      "team_1": "Oakland Athletics",
-      "team_2": "Arizona Diamondbacks",
+      "id": 132138,
+      "event_category": "Cricket",
+      "title": "Phoenix Cricketers vs ACE KRM Panthers (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "Phoenix Cricketers",
+      "team_2": "ACE KRM Panthers",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Oakland Athletics vs Arizona Diamondbacks",
-      "startTime": "01:35:00 AM 04-08-2025"
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Phoenix Cricketers vs ACE KRM Panthers",
+      "startTime": "10:15:00 PM 04-08-2025"
     },
     {
       "id": 131404,
@@ -246,18 +260,6 @@
       "event_name": "Pakistan tour of West Indies, 2025",
       "match_name": "West Indies vs Pakistan",
       "startTime": "05:30:00 AM 04-08-2025"
-    },
-    {
-      "id": 132138,
-      "event_category": "Cricket",
-      "title": "Phoenix Cricketers vs ACE KRM Panthers (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Phoenix Cricketers",
-      "team_2": "ACE KRM Panthers",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Phoenix Cricketers vs ACE KRM Panthers",
-      "startTime": "10:15:00 PM 04-08-2025"
     },
     {
       "id": 132056,
@@ -462,6 +464,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Guildford vs Kreative Sports XI",
       "startTime": "06:30:00 PM 05-08-2025"
+    },
+    {
+      "id": 132469,
+      "event_category": "Cricket",
+      "title": "Outer Delhi Warriors vs Purani Delhi 6 (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132469_5521_ODW_PD_fc-Web.jpg",
+      "team_1": "Outer Delhi Warriors",
+      "team_2": "Purani Delhi 6",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Outer Delhi Warriors vs Purani Delhi 6",
+      "startTime": "02:00:00 PM 05-08-2025"
     }
   ]
 }
