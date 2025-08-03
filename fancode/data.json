@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:19 PM 03-08-2025",
+  "last update time": "04:39 PM 03-08-2025",
   "matches": [
     {
       "id": 131252,
@@ -14,22 +14,8 @@
       "event_name": "Club Friendlies 2025",
       "match_name": "Tottenham Hotspur vs Newcastle United",
       "startTime": "04:30:00 PM 03-08-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 132437,
-      "event_category": "Cricket",
-      "title": "Pupkewitz Motors Wildcats vs Paratus Jets (Namibia T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "Pupkewitz Motors Wildcats",
-      "team_2": "Paratus Jets",
-      "status": "LIVE",
-      "event_name": "Namibia T20, 2025",
-      "match_name": "Pupkewitz Motors Wildcats vs Paratus Jets",
-      "startTime": "01:00:00 PM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/10jFAIq3SX6SK15OMGmgiw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132437_english_hls_98118ta-di_h264/index.m3u8"
+      "dai_url": "https://dai.google.com/linear/hls/event/jlvd3E2ER6SQY20KFotLng/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131252_english_hls_72588ta-di_h264/index.m3u8"
     },
     {
       "id": 132400,
@@ -44,20 +30,6 @@
       "startTime": "01:15:00 PM 03-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132527,
-      "event_category": "Cricket",
-      "title": "Pirates vs Marlins (Mackay T20 Championship, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132527_CASACARDS_APP.png",
-      "team_1": "Pirates",
-      "team_2": "Marlins",
-      "status": "LIVE",
-      "event_name": "Mackay T20 Championship, 2025",
-      "match_name": "Pirates vs Marlins",
-      "startTime": "02:00:00 PM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/MbaJD_xyRHa9i-nwuUcodQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132527_english_hls_56412ta-di_h264/index.m3u8"
     },
     {
       "id": 132829,
@@ -102,6 +74,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132465_english_hls_3087ta-di_h264/index.m3u8"
     },
     {
+      "id": 118450,
+      "event_category": "Formula 1",
+      "title": "Race vs Hungary (F1 LENOVO HUNGARIAN GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian-Grand-Prix_old.jpg",
+      "team_1": "Race",
+      "team_2": "Hungary",
+      "status": "LIVE",
+      "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
+      "match_name": "Race",
+      "startTime": "06:30:00 PM 03-08-2025",
+      "dai_url": "https://d1sv7s55gxtley.cloudfront.net/out/v1/1b38579b52e74e798fdb39f652e7c5be/index.m3u8",
+      "adfree_url": "https://d1sv7s55gxtley.cloudfront.net/out/v1/1b38579b52e74e798fdb39f652e7c5be/index.m3u8"
+    },
+    {
+      "id": 132527,
+      "event_category": "Cricket",
+      "title": "Pirates vs Marlins (Mackay T20 Championship, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132527_CASACARDS_APP.png",
+      "team_1": "Pirates",
+      "team_2": "Marlins",
+      "status": "LIVE",
+      "event_name": "Mackay T20 Championship, 2025",
+      "match_name": "Pirates vs Marlins",
+      "startTime": "02:00:00 PM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/MbaJD_xyRHa9i-nwuUcodQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132527_english_hls_56412ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132438,
       "event_category": "Cricket",
       "title": "NPL Bears vs Eavion Eagles (Namibia T20, 2025)",
@@ -111,6 +111,18 @@
       "status": "UPCOMING",
       "event_name": "Namibia T20, 2025",
       "match_name": "NPL Bears vs Eavion Eagles",
+      "startTime": "05:30:00 PM 03-08-2025"
+    },
+    {
+      "id": 131251,
+      "event_category": "Football",
+      "title": "Ajax vs Monaco (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
+      "team_1": "Ajax",
+      "team_2": "Monaco",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Ajax vs Monaco",
       "startTime": "05:30:00 PM 03-08-2025"
     },
     {
@@ -174,18 +186,6 @@
       "startTime": "11:15:00 PM 03-08-2025"
     },
     {
-      "id": 131251,
-      "event_category": "Football",
-      "title": "Ajax vs Monaco (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
-      "team_1": "Ajax",
-      "team_2": "Monaco",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Ajax vs Monaco",
-      "startTime": "05:30:00 PM 03-08-2025"
-    },
-    {
       "id": 132188,
       "event_category": "Football",
       "title": "FC Porto vs Atlético de Madrid (Club Friendlies 2025)",
@@ -222,6 +222,18 @@
       "startTime": "09:45:00 AM 04-08-2025"
     },
     {
+      "id": 132402,
+      "event_category": "Cricket",
+      "title": "91 Yards Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132402_CASACARDS_APP.png",
+      "team_1": "91 Yards Club",
+      "team_2": "City Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "91 Yards Club vs City Cricket Club",
+      "startTime": "01:15:00 PM 04-08-2025"
+    },
+    {
       "id": 132216,
       "event_category": "Golf",
       "title": "Main Feed - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
@@ -234,16 +246,16 @@
       "startTime": "05:15:00 PM 03-08-2025"
     },
     {
-      "id": 132402,
-      "event_category": "Cricket",
-      "title": "91 Yards Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132402_CASACARDS_APP.png",
-      "team_1": "91 Yards Club",
-      "team_2": "City Cricket Club",
+      "id": 132217,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "Marquee Group - Day 4",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
       "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "91 Yards Club vs City Cricket Club",
-      "startTime": "01:15:00 PM 04-08-2025"
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "Marquee Group - Day 4",
+      "startTime": "05:30:00 PM 03-08-2025"
     },
     {
       "id": 132918,
@@ -258,18 +270,6 @@
       "startTime": "01:45:00 PM 04-08-2025"
     },
     {
-      "id": 131404,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "05:30:00 AM 04-08-2025"
-    },
-    {
       "id": 132052,
       "event_category": "Cricket",
       "title": "Kreative Sports XI vs Guildford (ECS England, Wimbledon, 2025)",
@@ -280,6 +280,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Kreative Sports XI vs Guildford",
       "startTime": "02:30:00 PM 04-08-2025"
+    },
+    {
+      "id": 131404,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "05:30:00 AM 04-08-2025"
     },
     {
       "id": 132053,
@@ -318,18 +330,6 @@
       "startTime": "06:30:00 PM 04-08-2025"
     },
     {
-      "id": 132217,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-      "team_1": "Marquee Group - Day 4",
-      "team_2": "Sedgefield Country Club - Greensboro, NC",
-      "status": "UPCOMING",
-      "event_name": "Wyndham Championship 2025",
-      "match_name": "Marquee Group - Day 4",
-      "startTime": "05:30:00 PM 03-08-2025"
-    },
-    {
       "id": 132219,
       "event_category": "Golf",
       "title": "Featured Holes - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
@@ -352,18 +352,6 @@
       "event_name": "Wyndham Championship 2025",
       "match_name": "Featured Group - Day 4",
       "startTime": "06:00:00 PM 03-08-2025"
-    },
-    {
-      "id": 118450,
-      "event_category": "Formula 1",
-      "title": "Race vs Hungary (F1 LENOVO HUNGARIAN GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian-Grand-Prix_old.jpg",
-      "team_1": "Race",
-      "team_2": "Hungary",
-      "status": "UPCOMING",
-      "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
-      "match_name": "Race",
-      "startTime": "06:30:00 PM 03-08-2025"
     },
     {
       "id": 132466,
@@ -438,6 +426,18 @@
       "startTime": "08:45:00 PM 04-08-2025"
     },
     {
+      "id": 132138,
+      "event_category": "Cricket",
+      "title": "Phoenix Cricketers vs ACE KRM Panthers (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "Phoenix Cricketers",
+      "team_2": "ACE KRM Panthers",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Phoenix Cricketers vs ACE KRM Panthers",
+      "startTime": "10:15:00 PM 04-08-2025"
+    },
+    {
       "id": 132467,
       "event_category": "Cricket",
       "title": "East Delhi Riders vs West Delhi Lions (Delhi Premier League, 2025)",
@@ -450,16 +450,16 @@
       "startTime": "02:00:00 PM 04-08-2025"
     },
     {
-      "id": 132138,
+      "id": 132056,
       "event_category": "Cricket",
-      "title": "Phoenix Cricketers vs ACE KRM Panthers (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Phoenix Cricketers",
-      "team_2": "ACE KRM Panthers",
+      "title": "Kreative Sports XI vs Wimbledon (ECS England, Wimbledon, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
+      "team_1": "Kreative Sports XI",
+      "team_2": "Wimbledon",
       "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Phoenix Cricketers vs ACE KRM Panthers",
-      "startTime": "10:15:00 PM 04-08-2025"
+      "event_name": "ECS England, Wimbledon, 2025",
+      "match_name": "Kreative Sports XI vs Wimbledon",
+      "startTime": "10:45:00 PM 04-08-2025"
     }
   ]
 }
