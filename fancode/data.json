@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:00 PM 03-08-2025",
+  "last update time": "01:17 PM 03-08-2025",
   "matches": [
-    {
-      "id": 132525,
-      "event_category": "Cricket",
-      "title": "Rays vs Marlins (Mackay T20 Championship, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
-      "team_1": "Rays",
-      "team_2": "Marlins",
-      "status": "LIVE",
-      "event_name": "Mackay T20 Championship, 2025",
-      "match_name": "Rays vs Marlins",
-      "startTime": "10:00:00 AM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/LN6wwxSeT9ywyqeajN5FBg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8"
-    },
     {
       "id": 132625,
       "event_category": "Cricket",
@@ -74,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132437_english_hls_98118ta-di_h264/index.m3u8"
     },
     {
+      "id": 132400,
+      "event_category": "Cricket",
+      "title": "Bud Cricket Club vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
+      "team_1": "Bud Cricket Club",
+      "team_2": "Navarang Club",
+      "status": "LIVE",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Bud Cricket Club vs Navarang Club",
+      "startTime": "01:15:00 PM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8"
+    },
+    {
       "id": 119107,
       "event_category": "Motorsports",
       "title": "Feature Race vs Budapest (F3 HUNGARY 2025)",
@@ -88,16 +88,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119107_english_hls_65217adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 132400,
+      "id": 132525,
       "event_category": "Cricket",
-      "title": "Bud Cricket Club vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
-      "team_1": "Bud Cricket Club",
-      "team_2": "Navarang Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Bud Cricket Club vs Navarang Club",
-      "startTime": "01:15:00 PM 03-08-2025"
+      "title": "Rays vs Marlins (Mackay T20 Championship, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
+      "team_1": "Rays",
+      "team_2": "Marlins",
+      "status": "LIVE",
+      "event_name": "Mackay T20 Championship, 2025",
+      "match_name": "Rays vs Marlins",
+      "startTime": "10:00:00 AM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LN6wwxSeT9ywyqeajN5FBg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8"
     },
     {
       "id": 132527,
@@ -114,13 +116,13 @@
     {
       "id": 132828,
       "event_category": "Cricket",
-      "title": "Sloggers vs Gaming CC (ECS Gibraltar, 2025)",
+      "title": "Gaming CC vs Sloggers (ECS Gibraltar, 2025)",
       "src": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
-      "team_1": "Sloggers",
-      "team_2": "Gaming CC",
+      "team_1": "Gaming CC",
+      "team_2": "Sloggers",
       "status": "UPCOMING",
       "event_name": "ECS Gibraltar, 2025",
-      "match_name": "Sloggers vs Gaming CC",
+      "match_name": "Gaming CC vs Sloggers",
       "startTime": "02:15:00 PM 03-08-2025"
     },
     {
@@ -292,6 +294,18 @@
       "startTime": "01:30:00 PM 03-08-2025"
     },
     {
+      "id": 132465,
+      "event_category": "Cricket",
+      "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132465_5521_NDS_CDK_fc-Web.jpg",
+      "team_1": "North Delhi Strikers",
+      "team_2": "Central Delhi Kings",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "North Delhi Strikers vs Central Delhi Kings",
+      "startTime": "02:00:00 PM 03-08-2025"
+    },
+    {
       "id": 131404,
       "event_category": "Cricket",
       "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
@@ -338,18 +352,6 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Kreative Sports XI vs Guildford",
       "startTime": "02:30:00 PM 04-08-2025"
-    },
-    {
-      "id": 132465,
-      "event_category": "Cricket",
-      "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132465_5521_NDS_CDK_fc-Web.jpg",
-      "team_1": "North Delhi Strikers",
-      "team_2": "Central Delhi Kings",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "North Delhi Strikers vs Central Delhi Kings",
-      "startTime": "02:00:00 PM 03-08-2025"
     },
     {
       "id": 132114,
