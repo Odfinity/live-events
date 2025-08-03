@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:28 AM 03-08-2025",
+  "last update time": "08:47 AM 03-08-2025",
   "matches": [
     {
       "id": 132516,
@@ -18,6 +18,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132516_english_hls_32608ta-di_h264/index.m3u8"
     },
     {
+      "id": 132614,
+      "event_category": "Cricket",
+      "title": "Melaka vs Pahang (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132614_5524_MEL_PHG_fc-web.jpg",
+      "team_1": "Melaka",
+      "team_2": "Pahang",
+      "status": "LIVE",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Melaka vs Pahang",
+      "startTime": "07:00:00 AM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KHLwSlN8S0GCZskamzz0-g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132614_english_hls_18497ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132624,
+      "event_category": "Cricket",
+      "title": "Kelantan vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132624_5524_SEL_KEL_fc-web.jpg",
+      "team_1": "Kelantan",
+      "team_2": "Selangor",
+      "status": "LIVE",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Kelantan vs Selangor",
+      "startTime": "07:30:00 AM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KWyHgYXIR_KHpb_8I5HgCw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132624_english_hls_64606ta-di_h264/index.m3u8"
+    },
+    {
       "id": 131403,
       "event_category": "Cricket",
       "title": "Pakistan vs West Indies (Pakistan tour of West Indies, 2025)",
@@ -32,28 +60,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131403_english_hls_5829ta-di_h264/index.m3u8"
     },
     {
-      "id": 132614,
-      "event_category": "Cricket",
-      "title": "Melaka vs Pahang (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132614_5524_MEL_PHG_fc-web.jpg",
-      "team_1": "Melaka",
-      "team_2": "Pahang",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Melaka vs Pahang",
-      "startTime": "07:00:00 AM 03-08-2025"
-    },
-    {
-      "id": 132624,
-      "event_category": "Cricket",
-      "title": "Selangor vs Kelantan (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132624_5524_SEL_KEL_fc-web.jpg",
-      "team_1": "Selangor",
-      "team_2": "Kelantan",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Selangor vs Kelantan",
-      "startTime": "07:30:00 AM 03-08-2025"
+      "id": 132838,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs St. Louis Cardinals (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132838_CASACARDS_APP.png",
+      "team_1": "San Diego Padres",
+      "team_2": "St. Louis Cardinals",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs St. Louis Cardinals",
+      "startTime": "07:40:00 AM 03-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132838_english_hls_87845ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132838_english_hls_87845ta-di_h264/index.m3u8"
     },
     {
       "id": 132399,
@@ -212,18 +230,6 @@
       "startTime": "04:30:00 PM 03-08-2025"
     },
     {
-      "id": 131251,
-      "event_category": "Football",
-      "title": "Ajax vs Monaco (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
-      "team_1": "Ajax",
-      "team_2": "Monaco",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Ajax vs Monaco",
-      "startTime": "05:30:00 PM 03-08-2025"
-    },
-    {
       "id": 131673,
       "event_category": "Cricket",
       "title": "West Indies Women Under-19 vs USA Women Under-19 (USA Women U19 tour of West Indies, 2025)",
@@ -234,6 +240,18 @@
       "event_name": "USA Women U19 tour of West Indies, 2025",
       "match_name": "West Indies Women Under-19 vs USA Women Under-19",
       "startTime": "07:30:00 PM 03-08-2025"
+    },
+    {
+      "id": 131251,
+      "event_category": "Football",
+      "title": "Ajax vs Monaco (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
+      "team_1": "Ajax",
+      "team_2": "Monaco",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Ajax vs Monaco",
+      "startTime": "05:30:00 PM 03-08-2025"
     },
     {
       "id": 132831,
@@ -308,6 +326,18 @@
       "startTime": "09:00:00 AM 04-08-2025"
     },
     {
+      "id": 132917,
+      "event_category": "Cricket",
+      "title": "Hubli Tigers Women vs Shivamogga Lioness Women (Maharani Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+      "team_1": "Hubli Tigers Women",
+      "team_2": "Shivamogga Lioness Women",
+      "status": "UPCOMING",
+      "event_name": "Maharani Trophy, 2025",
+      "match_name": "Hubli Tigers Women vs Shivamogga Lioness Women",
+      "startTime": "09:45:00 AM 04-08-2025"
+    },
+    {
       "id": 131404,
       "event_category": "Cricket",
       "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
@@ -318,18 +348,6 @@
       "event_name": "Pakistan tour of West Indies, 2025",
       "match_name": "West Indies vs Pakistan",
       "startTime": "05:30:00 AM 04-08-2025"
-    },
-    {
-      "id": 132838,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs St. Louis Cardinals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132838_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "St. Louis Cardinals",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs St. Louis Cardinals",
-      "startTime": "07:40:00 AM 03-08-2025"
     },
     {
       "id": 119107,
@@ -438,18 +456,6 @@
       "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
       "match_name": "Race",
       "startTime": "06:30:00 PM 03-08-2025"
-    },
-    {
-      "id": 132917,
-      "event_category": "Cricket",
-      "title": "Hubli Tigers Women vs Shivamogga Lioness Women (Maharani Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-      "team_1": "Hubli Tigers Women",
-      "team_2": "Shivamogga Lioness Women",
-      "status": "UPCOMING",
-      "event_name": "Maharani Trophy, 2025",
-      "match_name": "Hubli Tigers Women vs Shivamogga Lioness Women",
-      "startTime": "09:45:00 AM 04-08-2025"
     },
     {
       "id": 132466,
