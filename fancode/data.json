@@ -1,32 +1,18 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:47 AM 03-08-2025",
+  "last update time": "09:59 AM 03-08-2025",
   "matches": [
-    {
-      "id": 132516,
-      "event_category": "Cricket",
-      "title": "Rockets vs Marlins (Mackay T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132516_5522_MAR_RCS_fc-web.jpg",
-      "team_1": "Rockets",
-      "team_2": "Marlins",
-      "status": "LIVE",
-      "event_name": "Mackay T20 Championship, 2025",
-      "match_name": "Rockets vs Marlins",
-      "startTime": "06:00:00 AM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/V5SDfZ0RTnSd9otDgwI4xA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132516_english_hls_32608ta-di_h264/index.m3u8"
-    },
     {
       "id": 132614,
       "event_category": "Cricket",
-      "title": "Melaka vs Pahang (MCA Men's T20 Inter-State Championship, 2025)",
+      "title": "Malacca vs Pahang (MCA Men's T20 Inter-State Championship, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132614_5524_MEL_PHG_fc-web.jpg",
-      "team_1": "Melaka",
+      "team_1": "Malacca",
       "team_2": "Pahang",
       "status": "LIVE",
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Melaka vs Pahang",
+      "match_name": "Malacca vs Pahang",
       "startTime": "07:00:00 AM 03-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/KHLwSlN8S0GCZskamzz0-g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132614_english_hls_18497ta-di_h264/index.m3u8"
@@ -46,18 +32,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132624_english_hls_64606ta-di_h264/index.m3u8"
     },
     {
-      "id": 131403,
+      "id": 132399,
       "event_category": "Cricket",
-      "title": "Pakistan vs West Indies (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Pakistan",
-      "team_2": "West Indies",
+      "title": "Nabajyoti Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132399_CASACARDS_APP.png",
+      "team_1": "Nabajyoti Club",
+      "team_2": "City Cricket Club",
       "status": "LIVE",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "Pakistan vs West Indies",
-      "startTime": "05:30:00 AM 03-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XFMd_f62THmMUFbK1dkEZg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131403_english_hls_5829ta-di_h264/index.m3u8"
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Nabajyoti Club vs City Cricket Club",
+      "startTime": "09:00:00 AM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/WyCFy_ClTqeLkRIeQFZH0A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132399_english_hls_24947ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132525,
+      "event_category": "Cricket",
+      "title": "Rays vs Marlins (Mackay T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Rays",
+      "team_2": "Marlins",
+      "status": "LIVE",
+      "event_name": "Mackay T20 Championship, 2025",
+      "match_name": "Rays vs Marlins",
+      "startTime": "10:00:00 AM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LN6wwxSeT9ywyqeajN5FBg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8"
     },
     {
       "id": 132838,
@@ -72,30 +72,6 @@
       "startTime": "07:40:00 AM 03-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132838_english_hls_87845ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132838_english_hls_87845ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132399,
-      "event_category": "Cricket",
-      "title": "Nabajyoti Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132399_CASACARDS_APP.png",
-      "team_1": "Nabajyoti Club",
-      "team_2": "City Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Nabajyoti Club vs City Cricket Club",
-      "startTime": "09:00:00 AM 03-08-2025"
-    },
-    {
-      "id": 132525,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Mackay T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Mackay T20 Championship, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "10:00:00 AM 03-08-2025"
     },
     {
       "id": 132625,
@@ -218,18 +194,6 @@
       "startTime": "06:15:00 PM 03-08-2025"
     },
     {
-      "id": 131252,
-      "event_category": "Football",
-      "title": "Tottenham Hotspur vs Newcastle United (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Newcastle-United_old.jpg",
-      "team_1": "Tottenham Hotspur",
-      "team_2": "Newcastle United",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Tottenham Hotspur vs Newcastle United",
-      "startTime": "04:30:00 PM 03-08-2025"
-    },
-    {
       "id": 131673,
       "event_category": "Cricket",
       "title": "West Indies Women Under-19 vs USA Women Under-19 (USA Women U19 tour of West Indies, 2025)",
@@ -242,16 +206,16 @@
       "startTime": "07:30:00 PM 03-08-2025"
     },
     {
-      "id": 131251,
+      "id": 131252,
       "event_category": "Football",
-      "title": "Ajax vs Monaco (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
-      "team_1": "Ajax",
-      "team_2": "Monaco",
+      "title": "Tottenham Hotspur vs Newcastle United (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Newcastle-United_old.jpg",
+      "team_1": "Tottenham Hotspur",
+      "team_2": "Newcastle United",
       "status": "UPCOMING",
       "event_name": "Club Friendlies 2025",
-      "match_name": "Ajax vs Monaco",
-      "startTime": "05:30:00 PM 03-08-2025"
+      "match_name": "Tottenham Hotspur vs Newcastle United",
+      "startTime": "04:30:00 PM 03-08-2025"
     },
     {
       "id": 132831,
@@ -264,6 +228,18 @@
       "event_name": "ECS Gibraltar, 2025",
       "match_name": "Rugby CC vs Pirates",
       "startTime": "08:15:00 PM 03-08-2025"
+    },
+    {
+      "id": 131251,
+      "event_category": "Football",
+      "title": "Ajax vs Monaco (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
+      "team_1": "Ajax",
+      "team_2": "Monaco",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Ajax vs Monaco",
+      "startTime": "05:30:00 PM 03-08-2025"
     },
     {
       "id": 130018,
@@ -468,6 +444,30 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Outer Delhi Warriors vs New Delhi Tigers",
       "startTime": "07:00:00 PM 03-08-2025"
+    },
+    {
+      "id": 132839,
+      "event_category": "Baseball",
+      "title": "Boston Red Sox vs Houston Astros (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132839_CASACARDS_APP.png",
+      "team_1": "Boston Red Sox",
+      "team_2": "Houston Astros",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Boston Red Sox vs Houston Astros",
+      "startTime": "09:05:00 PM 03-08-2025"
+    },
+    {
+      "id": 132215,
+      "event_category": "Golf",
+      "title": "World Feed - Day 4 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+      "team_1": "World Feed - Day 4",
+      "team_2": "Sedgefield Country Club - Greensboro, NC",
+      "status": "UPCOMING",
+      "event_name": "Wyndham Championship 2025",
+      "match_name": "World Feed - Day 4",
+      "startTime": "10:30:00 PM 03-08-2025"
     }
   ]
 }
