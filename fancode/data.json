@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:29 AM 03-08-2025",
+  "last update time": "12:11 PM 03-08-2025",
   "matches": [
     {
       "id": 132399,
@@ -48,26 +48,44 @@
     {
       "id": 132626,
       "event_category": "Cricket",
-      "title": "Perak vs Sarawak (MCA Men's T20 Inter-State Championship, 2025)",
+      "title": "Sarawak vs Perak (MCA Men's T20 Inter-State Championship, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132626_5524_PER_SAR_fc-web.jpg",
-      "team_1": "Perak",
-      "team_2": "Sarawak",
-      "status": "UPCOMING",
+      "team_1": "Sarawak",
+      "team_2": "Perak",
+      "status": "LIVE",
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Perak vs Sarawak",
-      "startTime": "12:00:00 PM 03-08-2025"
+      "match_name": "Sarawak vs Perak",
+      "startTime": "12:00:00 PM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/7jVD0MEQTimgtiktdF9Czg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132626_english_hls_37407ta-di_h264/index.m3u8"
     },
     {
       "id": 132827,
       "event_category": "Cricket",
-      "title": "Gaming CC vs Rugby CC (ECS Gibraltar, 2025)",
+      "title": "Rugby CC vs Gaming CC (ECS Gibraltar, 2025)",
       "src": "https://images.fancode.com/aig/match/v1/132827_CASACARDS_APP.png",
-      "team_1": "Gaming CC",
-      "team_2": "Rugby CC",
-      "status": "UPCOMING",
+      "team_1": "Rugby CC",
+      "team_2": "Gaming CC",
+      "status": "LIVE",
       "event_name": "ECS Gibraltar, 2025",
-      "match_name": "Gaming CC vs Rugby CC",
-      "startTime": "12:15:00 PM 03-08-2025"
+      "match_name": "Rugby CC vs Gaming CC",
+      "startTime": "12:15:00 PM 03-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/3civd_6xS7WFUtpZppInbg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132827_english_hls_80553ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 119107,
+      "event_category": "Motorsports",
+      "title": "Feature Race vs Budapest (F3 HUNGARY 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+      "team_1": "Feature Race",
+      "team_2": "Budapest",
+      "status": "LIVE",
+      "event_name": "F3 HUNGARY 2025",
+      "match_name": "Feature Race",
+      "startTime": "12:00:00 PM 03-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119107_english_hls_65217adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119107_english_hls_65217adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 132437,
@@ -250,18 +268,6 @@
       "startTime": "04:30:00 PM 03-08-2025"
     },
     {
-      "id": 119107,
-      "event_category": "Motorsports",
-      "title": "Feature Race vs Budapest (F3 HUNGARY 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-      "team_1": "Feature Race",
-      "team_2": "Budapest",
-      "status": "UPCOMING",
-      "event_name": "F3 HUNGARY 2025",
-      "match_name": "Feature Race",
-      "startTime": "12:00:00 PM 03-08-2025"
-    },
-    {
       "id": 132401,
       "event_category": "Cricket",
       "title": "Gauhati Town Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
@@ -320,6 +326,18 @@
       "event_name": "Maharani Trophy, 2025",
       "match_name": "Mangaluru Dragons Women vs Bengaluru Blasters Women",
       "startTime": "01:45:00 PM 04-08-2025"
+    },
+    {
+      "id": 132052,
+      "event_category": "Cricket",
+      "title": "Kreative Sports XI vs Guildford (ECS England, Wimbledon, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
+      "team_1": "Kreative Sports XI",
+      "team_2": "Guildford",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Wimbledon, 2025",
+      "match_name": "Kreative Sports XI vs Guildford",
+      "startTime": "02:30:00 PM 04-08-2025"
     },
     {
       "id": 119064,
@@ -440,18 +458,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Boston Red Sox vs Houston Astros",
       "startTime": "09:05:00 PM 03-08-2025"
-    },
-    {
-      "id": 132052,
-      "event_category": "Cricket",
-      "title": "Kreative Sports XI vs Guildford (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
-      "team_1": "Kreative Sports XI",
-      "team_2": "Guildford",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Kreative Sports XI vs Guildford",
-      "startTime": "02:30:00 PM 04-08-2025"
     },
     {
       "id": 132215,
