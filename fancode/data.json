@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:30 PM 04-08-2025",
+  "last update time": "11:07 PM 04-08-2025",
   "matches": [
-    {
-      "id": 132468,
-      "event_category": "Cricket",
-      "title": "New Delhi Tigers vs Central Delhi Kings (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132468_5521_CDK_NDT_fc-Web.jpg",
-      "team_1": "New Delhi Tigers",
-      "team_2": "Central Delhi Kings",
-      "status": "LIVE",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "New Delhi Tigers vs Central Delhi Kings",
-      "startTime": "07:00:00 PM 04-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/t59SfHKeTLezi5HGblot3A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132468_english_hls_34249ta-di_h264/index.m3u8"
-    },
     {
       "id": 132138,
       "event_category": "Cricket",
@@ -38,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
       "team_1": "Kreative Sports XI",
       "team_2": "Wimbledon",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Kreative Sports XI vs Wimbledon",
-      "startTime": "10:45:00 PM 04-08-2025"
+      "startTime": "10:45:00 PM 04-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4Lhz7m4rSjCuxxQ03Fw87Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132056_english_hls_91723ta-di_h264/index.m3u8"
     },
     {
       "id": 132256,
@@ -188,18 +176,6 @@
       "startTime": "04:30:00 PM 05-08-2025"
     },
     {
-      "id": 133182,
-      "event_category": "Basketball",
-      "title": "New Zealand vs Iraq (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133182_5549_NZ_IRQ_fc-Web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Iraq",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "New Zealand vs Iraq",
-      "startTime": "01:30:00 PM 05-08-2025"
-    },
-    {
       "id": 132222,
       "event_category": "Cricket",
       "title": "London Spirit vs Oval Invincibles (The Hundred, 2025)",
@@ -210,6 +186,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "London Spirit vs Oval Invincibles",
       "startTime": "11:00:00 PM 05-08-2025"
+    },
+    {
+      "id": 133182,
+      "event_category": "Basketball",
+      "title": "New Zealand vs Iraq (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133182_5549_NZ_IRQ_fc-Web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Iraq",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "New Zealand vs Iraq",
+      "startTime": "01:30:00 PM 05-08-2025"
     },
     {
       "id": 132059,
@@ -438,6 +426,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Seattle Mariners vs Chicago White Sox",
       "startTime": "07:10:00 AM 06-08-2025"
+    },
+    {
+      "id": 132406,
+      "event_category": "Cricket",
+      "title": "Bud Cricket Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132406_CASACARDS_APP.png",
+      "team_1": "Bud Cricket Club",
+      "team_2": "City Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Bud Cricket Club vs City Cricket Club",
+      "startTime": "01:15:00 PM 06-08-2025"
     }
   ]
 }
