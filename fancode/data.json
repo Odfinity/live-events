@@ -1,8 +1,50 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 05-08-2025",
+  "last update time": "08:00 AM 05-08-2025",
   "matches": [
+    {
+      "id": 132627,
+      "event_category": "Cricket",
+      "title": "Johor vs Malacca (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132627_5524_JOH_MEL_fc-web.jpg",
+      "team_1": "Johor",
+      "team_2": "Malacca",
+      "status": "LIVE",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Johor vs Malacca",
+      "startTime": "07:00:00 AM 05-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/FVrt0Xb5R6SK_S5tBBAzhQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132627_english_hls_98519ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132628,
+      "event_category": "Cricket",
+      "title": "Pahang vs Kelantan (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132628_5524_KEL_PHG_fc-web.jpg",
+      "team_1": "Pahang",
+      "team_2": "Kelantan",
+      "status": "LIVE",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Pahang vs Kelantan",
+      "startTime": "07:30:00 AM 05-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/pBiCw7ECQb-bZC4t9Qjeug/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132628_english_hls_29391ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132842,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs St. Louis Cardinals (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132842_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "St. Louis Cardinals",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs St. Louis Cardinals",
+      "startTime": "07:40:00 AM 05-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132842_english_hls_81421ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132842_english_hls_81421ta-di_h264/index.m3u8"
+    },
     {
       "id": 132256,
       "event_category": "Cricket",
@@ -26,30 +68,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "London Spirit vs Oval Invincibles",
       "startTime": "11:00:00 PM 05-08-2025"
-    },
-    {
-      "id": 132627,
-      "event_category": "Cricket",
-      "title": "Johor vs Malacca (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132627_5524_JOH_MEL_fc-web.jpg",
-      "team_1": "Johor",
-      "team_2": "Malacca",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Johor vs Malacca",
-      "startTime": "07:00:00 AM 05-08-2025"
-    },
-    {
-      "id": 132628,
-      "event_category": "Cricket",
-      "title": "Kelantan vs Pahang (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132628_5524_KEL_PHG_fc-web.jpg",
-      "team_1": "Kelantan",
-      "team_2": "Pahang",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Kelantan vs Pahang",
-      "startTime": "07:30:00 AM 05-08-2025"
     },
     {
       "id": 132403,
@@ -172,18 +190,6 @@
       "startTime": "08:30:00 PM 05-08-2025"
     },
     {
-      "id": 133182,
-      "event_category": "Basketball",
-      "title": "New Zealand vs Iraq (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133182_5549_NZ_IRQ_fc-Web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Iraq",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "New Zealand vs Iraq",
-      "startTime": "01:30:00 PM 05-08-2025"
-    },
-    {
       "id": 132140,
       "event_category": "Cricket",
       "title": "Royal Trivianz vs Tally Rangers (KCC T10 Summer League, 2025)",
@@ -194,18 +200,6 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Royal Trivianz vs Tally Rangers",
       "startTime": "10:15:00 PM 05-08-2025"
-    },
-    {
-      "id": 133183,
-      "event_category": "Basketball",
-      "title": "Jordan vs India (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133183_5549_JDN_IND_fc-Web.jpg",
-      "team_1": "Jordan",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Jordan vs India",
-      "startTime": "04:30:00 PM 05-08-2025"
     },
     {
       "id": 132061,
@@ -220,16 +214,28 @@
       "startTime": "10:45:00 PM 05-08-2025"
     },
     {
-      "id": 133184,
+      "id": 133182,
       "event_category": "Basketball",
-      "title": "China vs Saudi Arabia (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133184_5549_CHN_SA_fc-Web.jpg",
-      "team_1": "China",
-      "team_2": "Saudi Arabia",
+      "title": "New Zealand vs Iraq (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133182_5549_NZ_IRQ_fc-Web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Iraq",
       "status": "UPCOMING",
       "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs Saudi Arabia",
-      "startTime": "08:30:00 PM 05-08-2025"
+      "match_name": "New Zealand vs Iraq",
+      "startTime": "01:30:00 PM 05-08-2025"
+    },
+    {
+      "id": 133183,
+      "event_category": "Basketball",
+      "title": "Jordan vs India (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133183_5549_JDN_IND_fc-Web.jpg",
+      "team_1": "Jordan",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Jordan vs India",
+      "startTime": "04:30:00 PM 05-08-2025"
     },
     {
       "id": 132141,
@@ -242,6 +248,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Gujrat CC vs NCM Investment",
       "startTime": "12:15:00 AM 06-08-2025"
+    },
+    {
+      "id": 133184,
+      "event_category": "Basketball",
+      "title": "China vs Saudi Arabia (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133184_5549_CHN_SA_fc-Web.jpg",
+      "team_1": "China",
+      "team_2": "Saudi Arabia",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "China vs Saudi Arabia",
+      "startTime": "08:30:00 PM 05-08-2025"
     },
     {
       "id": 133185,
@@ -280,16 +298,28 @@
       "startTime": "07:30:00 AM 06-08-2025"
     },
     {
-      "id": 132842,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs St. Louis Cardinals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132842_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "St. Louis Cardinals",
+      "id": 132405,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132405_CASACARDS_APP.png",
+      "team_1": "Gauhati Town Club",
+      "team_2": "Guwahati Giants",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs St. Louis Cardinals",
-      "startTime": "07:40:00 AM 05-08-2025"
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Gauhati Town Club vs Guwahati Giants",
+      "startTime": "09:00:00 AM 06-08-2025"
+    },
+    {
+      "id": 132921,
+      "event_category": "Cricket",
+      "title": "Hubli Tigers Women vs Mangaluru Dragons Women (Maharani Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+      "team_1": "Hubli Tigers Women",
+      "team_2": "Mangaluru Dragons Women",
+      "status": "UPCOMING",
+      "event_name": "Maharani Trophy, 2025",
+      "match_name": "Hubli Tigers Women vs Mangaluru Dragons Women",
+      "startTime": "09:45:00 AM 06-08-2025"
     },
     {
       "id": 132469,
@@ -328,30 +358,6 @@
       "startTime": "07:00:00 PM 05-08-2025"
     },
     {
-      "id": 132405,
-      "event_category": "Cricket",
-      "title": "Gauhati Town Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132405_CASACARDS_APP.png",
-      "team_1": "Gauhati Town Club",
-      "team_2": "Guwahati Giants",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Gauhati Town Club vs Guwahati Giants",
-      "startTime": "09:00:00 AM 06-08-2025"
-    },
-    {
-      "id": 132921,
-      "event_category": "Cricket",
-      "title": "Hubli Tigers Women vs Mangaluru Dragons Women (Maharani Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-      "team_1": "Hubli Tigers Women",
-      "team_2": "Mangaluru Dragons Women",
-      "status": "UPCOMING",
-      "event_name": "Maharani Trophy, 2025",
-      "match_name": "Hubli Tigers Women vs Mangaluru Dragons Women",
-      "startTime": "09:45:00 AM 06-08-2025"
-    },
-    {
       "id": 132633,
       "event_category": "Cricket",
       "title": "Perak vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
@@ -388,18 +394,6 @@
       "startTime": "01:15:00 PM 06-08-2025"
     },
     {
-      "id": 132843,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Chicago White Sox",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Chicago White Sox",
-      "startTime": "07:10:00 AM 06-08-2025"
-    },
-    {
       "id": 132922,
       "event_category": "Cricket",
       "title": "Shivamogga Lioness Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
@@ -434,6 +428,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Wimbledon vs London County Cricket",
       "startTime": "02:30:00 PM 06-08-2025"
+    },
+    {
+      "id": 132843,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Chicago White Sox",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Chicago White Sox",
+      "startTime": "07:10:00 AM 06-08-2025"
     },
     {
       "id": 132063,
