@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:21 PM 06-08-2025",
+  "last update time": "07:58 PM 06-08-2025",
   "matches": [
     {
       "id": 132257,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132257_5506_MNR-W_SOB-W_Fc-Web.jpg",
       "team_1": "Manchester Originals Women",
       "team_2": "Southern Brave Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "The Hundred Women, 2025",
       "match_name": "Manchester Originals Women vs Southern Brave Women",
-      "startTime": "07:30:00 PM 06-08-2025"
+      "startTime": "07:30:00 PM 06-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754532057~acl=/*~id=75516964793715059480320268839422~hmac=c7bb192e58faa274932bfdbf782580c7243bbd3c75ca1b6933b95418551c1da4"
     },
     {
       "id": 132472,
@@ -70,6 +72,18 @@
       "startTime": "11:00:00 PM 06-08-2025"
     },
     {
+      "id": 132065,
+      "event_category": "Cricket",
+      "title": "Kreative Sports XI vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
+      "team_1": "Kreative Sports XI",
+      "team_2": "CFS Pinnacle Pro",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Wimbledon, 2025",
+      "match_name": "Kreative Sports XI vs CFS Pinnacle Pro",
+      "startTime": "08:45:00 PM 06-08-2025"
+    },
+    {
       "id": 128761,
       "event_category": "Cricket",
       "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
@@ -106,16 +120,40 @@
       "startTime": "02:00:00 PM 07-08-2025"
     },
     {
-      "id": 132065,
-      "event_category": "Cricket",
-      "title": "Kreative Sports XI vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "Kreative Sports XI",
-      "team_2": "CFS Pinnacle Pro",
+      "id": 133188,
+      "event_category": "Basketball",
+      "title": "Guam vs Iran (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133188_5549_GUA_IRN_fc-Web.jpg",
+      "team_1": "Guam",
+      "team_2": "Iran",
       "status": "UPCOMING",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Kreative Sports XI vs CFS Pinnacle Pro",
-      "startTime": "08:45:00 PM 06-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Guam vs Iran",
+      "startTime": "08:30:00 PM 06-08-2025"
+    },
+    {
+      "id": 131606,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Pakistan Women",
+      "status": "UPCOMING",
+      "event_name": "Pakistan Women tour of Ireland, 2025",
+      "match_name": "Ireland Women vs Pakistan Women",
+      "startTime": "08:30:00 PM 06-08-2025"
+    },
+    {
+      "id": 133360,
+      "event_category": "Cricket",
+      "title": "Royal Challenger Delhi vs Bengol Tigers (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133360_5560_RCD_BT_fc-Web.jpg",
+      "team_1": "Royal Challenger Delhi",
+      "team_2": "Bengol Tigers",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Royal Challenger Delhi vs Bengol Tigers",
+      "startTime": "05:00:00 PM 07-08-2025"
     },
     {
       "id": 132142,
@@ -154,18 +192,6 @@
       "startTime": "12:15:00 AM 07-08-2025"
     },
     {
-      "id": 133360,
-      "event_category": "Cricket",
-      "title": "Royal Challenger Delhi vs Bengol Tigers (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133360_5560_RCD_BT_fc-Web.jpg",
-      "team_1": "Royal Challenger Delhi",
-      "team_2": "Bengol Tigers",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Royal Challenger Delhi vs Bengol Tigers",
-      "startTime": "05:00:00 PM 07-08-2025"
-    },
-    {
       "id": 132970,
       "event_category": "Football",
       "title": "Feyenoord vs Fenerbahçe (UEFA Champions League Qualifiers 2025-26)",
@@ -200,18 +226,6 @@
       "event_name": "Maharani Trophy, 2025",
       "match_name": "Bengaluru Blasters Women vs Hubli Tigers Women",
       "startTime": "09:45:00 AM 07-08-2025"
-    },
-    {
-      "id": 133188,
-      "event_category": "Basketball",
-      "title": "Guam vs Iran (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133188_5549_GUA_IRN_fc-Web.jpg",
-      "team_1": "Guam",
-      "team_2": "Iran",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Guam vs Iran",
-      "startTime": "08:30:00 PM 06-08-2025"
     },
     {
       "id": 133189,
@@ -262,18 +276,6 @@
       "startTime": "12:30:00 PM 07-08-2025"
     },
     {
-      "id": 132408,
-      "event_category": "Cricket",
-      "title": "Nabajyoti Club vs Gauhati Town Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132408_CASACARDS_APP.png",
-      "team_1": "Nabajyoti Club",
-      "team_2": "Gauhati Town Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Nabajyoti Club vs Gauhati Town Club",
-      "startTime": "01:15:00 PM 07-08-2025"
-    },
-    {
       "id": 132258,
       "event_category": "Cricket",
       "title": "Northern Superchargers Women vs Welsh Fire Women (The Hundred Women, 2025)",
@@ -284,6 +286,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Northern Superchargers Women vs Welsh Fire Women",
       "startTime": "07:30:00 PM 07-08-2025"
+    },
+    {
+      "id": 132408,
+      "event_category": "Cricket",
+      "title": "Nabajyoti Club vs Gauhati Town Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132408_CASACARDS_APP.png",
+      "team_1": "Nabajyoti Club",
+      "team_2": "Gauhati Town Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Nabajyoti Club vs Gauhati Town Club",
+      "startTime": "01:15:00 PM 07-08-2025"
     },
     {
       "id": 132924,
@@ -310,16 +324,16 @@
       "startTime": "02:30:00 PM 07-08-2025"
     },
     {
-      "id": 131606,
+      "id": 133362,
       "event_category": "Cricket",
-      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Pakistan Women",
+      "title": "Mumbai vs Rajasthan (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+      "team_1": "Mumbai",
+      "team_2": "Rajasthan",
       "status": "UPCOMING",
-      "event_name": "Pakistan Women tour of Ireland, 2025",
-      "match_name": "Ireland Women vs Pakistan Women",
-      "startTime": "08:30:00 PM 06-08-2025"
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Mumbai vs Rajasthan",
+      "startTime": "09:00:00 PM 07-08-2025"
     },
     {
       "id": 133190,
@@ -332,18 +346,6 @@
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "India vs China",
       "startTime": "01:30:00 PM 07-08-2025"
-    },
-    {
-      "id": 133362,
-      "event_category": "Cricket",
-      "title": "Mumbai vs Rajasthan (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
-      "team_1": "Mumbai",
-      "team_2": "Rajasthan",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Mumbai vs Rajasthan",
-      "startTime": "09:00:00 PM 07-08-2025"
     },
     {
       "id": 132068,
@@ -430,6 +432,18 @@
       "startTime": "08:30:00 PM 07-08-2025"
     },
     {
+      "id": 132144,
+      "event_category": "Cricket",
+      "title": "Bihar CC vs Gujrat CC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "Bihar CC",
+      "team_2": "Gujrat CC",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Bihar CC vs Gujrat CC",
+      "startTime": "10:15:00 PM 07-08-2025"
+    },
+    {
       "id": 132844,
       "event_category": "Baseball",
       "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
@@ -452,18 +466,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Colorado Rockies vs Toronto Blue Jays",
       "startTime": "12:40:00 AM 07-08-2025"
-    },
-    {
-      "id": 132144,
-      "event_category": "Cricket",
-      "title": "Bihar CC vs Gujrat CC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Bihar CC",
-      "team_2": "Gujrat CC",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Bihar CC vs Gujrat CC",
-      "startTime": "10:15:00 PM 07-08-2025"
     }
   ]
 }
