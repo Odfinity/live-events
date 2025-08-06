@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:19 PM 06-08-2025",
+  "last update time": "09:45 PM 06-08-2025",
   "matches": [
     {
       "id": 132257,
@@ -74,20 +74,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131606_english_hls_86275ta-di_h264/index.m3u8"
     },
     {
-      "id": 132190,
-      "event_category": "Arm Wrestling",
-      "title": "Day 2 vs India (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
-      "team_1": "Day 2",
-      "team_2": "India",
-      "status": "LIVE",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 2",
-      "startTime": "05:00:00 PM 06-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/_BvKmDe8RwyVXLGd5WmqNQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132190_english_hls_59879ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132223,
       "event_category": "Cricket",
       "title": "Manchester Originals vs Southern Brave (The Hundred, 2025)",
@@ -98,6 +84,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Manchester Originals vs Southern Brave",
       "startTime": "11:00:00 PM 06-08-2025"
+    },
+    {
+      "id": 132142,
+      "event_category": "Cricket",
+      "title": "Kuwait Swedish vs CECC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "Kuwait Swedish",
+      "team_2": "CECC",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Kuwait Swedish vs CECC",
+      "startTime": "10:15:00 PM 06-08-2025"
     },
     {
       "id": 128761,
@@ -148,27 +146,39 @@
       "startTime": "05:00:00 PM 07-08-2025"
     },
     {
-      "id": 132142,
+      "id": 132474,
       "event_category": "Cricket",
-      "title": "Kuwait Swedish vs CECC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Kuwait Swedish",
-      "team_2": "CECC",
+      "title": "Central Delhi Kings vs South Delhi Superstarz (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
+      "team_1": "Central Delhi Kings",
+      "team_2": "South Delhi Superstarz",
       "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Kuwait Swedish vs CECC",
-      "startTime": "10:15:00 PM 06-08-2025"
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Central Delhi Kings vs South Delhi Superstarz",
+      "startTime": "07:00:00 PM 07-08-2025"
+    },
+    {
+      "id": 133361,
+      "event_category": "Cricket",
+      "title": "Southern United vs MP Spartan (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133361_5560_SU_MPS_fc-Web.jpg",
+      "team_1": "Southern United",
+      "team_2": "MP Spartan",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Southern United vs MP Spartan",
+      "startTime": "07:00:00 PM 07-08-2025"
     },
     {
       "id": 132066,
       "event_category": "Cricket",
-      "title": "Wimbledon vs Kreative Sports XI (ECS England, Wimbledon, 2025)",
+      "title": "Kreative Sports XI vs Wimbledon (ECS England, Wimbledon, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-      "team_1": "Wimbledon",
-      "team_2": "Kreative Sports XI",
+      "team_1": "Kreative Sports XI",
+      "team_2": "Wimbledon",
       "status": "UPCOMING",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Wimbledon vs Kreative Sports XI",
+      "match_name": "Kreative Sports XI vs Wimbledon",
       "startTime": "10:45:00 PM 06-08-2025"
     },
     {
@@ -196,28 +206,16 @@
       "startTime": "12:30:00 AM 07-08-2025"
     },
     {
-      "id": 132474,
+      "id": 132258,
       "event_category": "Cricket",
-      "title": "Central Delhi Kings vs South Delhi Superstarz (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
-      "team_1": "Central Delhi Kings",
-      "team_2": "South Delhi Superstarz",
+      "title": "Northern Superchargers Women vs Welsh Fire Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132258_5506_NOS-W_WEF-W_Fc-Web.jpg",
+      "team_1": "Northern Superchargers Women",
+      "team_2": "Welsh Fire Women",
       "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Central Delhi Kings vs South Delhi Superstarz",
-      "startTime": "07:00:00 PM 07-08-2025"
-    },
-    {
-      "id": 133361,
-      "event_category": "Cricket",
-      "title": "Southern United vs MP Spartan (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133361_5560_SU_MPS_fc-Web.jpg",
-      "team_1": "Southern United",
-      "team_2": "MP Spartan",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Southern United vs MP Spartan",
-      "startTime": "07:00:00 PM 07-08-2025"
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Northern Superchargers Women vs Welsh Fire Women",
+      "startTime": "07:30:00 PM 07-08-2025"
     },
     {
       "id": 132407,
@@ -232,18 +230,6 @@
       "startTime": "09:00:00 AM 07-08-2025"
     },
     {
-      "id": 132258,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers Women vs Welsh Fire Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132258_5506_NOS-W_WEF-W_Fc-Web.jpg",
-      "team_1": "Northern Superchargers Women",
-      "team_2": "Welsh Fire Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Northern Superchargers Women vs Welsh Fire Women",
-      "startTime": "07:30:00 PM 07-08-2025"
-    },
-    {
       "id": 132923,
       "event_category": "Cricket",
       "title": "Bengaluru Blasters Women vs Hubli Tigers Women (Maharani Trophy, 2025)",
@@ -256,18 +242,6 @@
       "startTime": "09:45:00 AM 07-08-2025"
     },
     {
-      "id": 133189,
-      "event_category": "Basketball",
-      "title": "Qatar vs Lebanon (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133189_5549_QAT_LEB_fc-Web.jpg",
-      "team_1": "Qatar",
-      "team_2": "Lebanon",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Qatar vs Lebanon",
-      "startTime": "11:30:00 PM 06-08-2025"
-    },
-    {
       "id": 133315,
       "event_category": "Cricket",
       "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
@@ -278,6 +252,18 @@
       "event_name": "ECN Croatia-Cyprus T20I, 2025",
       "match_name": "Croatia vs Cyprus",
       "startTime": "12:30:00 PM 07-08-2025"
+    },
+    {
+      "id": 133189,
+      "event_category": "Basketball",
+      "title": "Qatar vs Lebanon (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133189_5549_QAT_LEB_fc-Web.jpg",
+      "team_1": "Qatar",
+      "team_2": "Lebanon",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Qatar vs Lebanon",
+      "startTime": "11:30:00 PM 06-08-2025"
     },
     {
       "id": 132408,
@@ -304,18 +290,6 @@
       "startTime": "01:45:00 PM 07-08-2025"
     },
     {
-      "id": 132067,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:30:00 PM 07-08-2025"
-    },
-    {
       "id": 133362,
       "event_category": "Cricket",
       "title": "Mumbai vs Rajasthan (LEGEN‑Z T10 League)",
@@ -326,6 +300,18 @@
       "event_name": "LEGEN‑Z T10 League",
       "match_name": "Mumbai vs Rajasthan",
       "startTime": "09:00:00 PM 07-08-2025"
+    },
+    {
+      "id": 132067,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Wimbledon, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "02:30:00 PM 07-08-2025"
     },
     {
       "id": 132068,
@@ -364,16 +350,16 @@
       "startTime": "05:00:00 PM 07-08-2025"
     },
     {
-      "id": 132844,
-      "event_category": "Baseball",
-      "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132844_CASACARDS_APP.png",
-      "team_1": "Pittsburgh Pirates",
-      "team_2": "San Francisco Giants",
+      "id": 132224,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
+      "team_1": "Northern Superchargers",
+      "team_2": "Welsh Fire",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Pittsburgh Pirates vs San Francisco Giants",
-      "startTime": "10:05:00 PM 06-08-2025"
+      "event_name": "The Hundred, 2025",
+      "match_name": "Northern Superchargers vs Welsh Fire",
+      "startTime": "11:00:00 PM 07-08-2025"
     },
     {
       "id": 132069,
@@ -388,16 +374,16 @@
       "startTime": "06:30:00 PM 07-08-2025"
     },
     {
-      "id": 132224,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
-      "team_1": "Northern Superchargers",
-      "team_2": "Welsh Fire",
+      "id": 132844,
+      "event_category": "Baseball",
+      "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132844_CASACARDS_APP.png",
+      "team_1": "Pittsburgh Pirates",
+      "team_2": "San Francisco Giants",
       "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Northern Superchargers vs Welsh Fire",
-      "startTime": "11:00:00 PM 07-08-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Pittsburgh Pirates vs San Francisco Giants",
+      "startTime": "10:05:00 PM 06-08-2025"
     },
     {
       "id": 133191,
@@ -448,6 +434,18 @@
       "startTime": "10:15:00 PM 07-08-2025"
     },
     {
+      "id": 132145,
+      "event_category": "Cricket",
+      "title": "ACE KRM Panthers vs Khan Zalmi Kings (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "Khan Zalmi Kings",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs Khan Zalmi Kings",
+      "startTime": "12:15:00 AM 08-08-2025"
+    },
+    {
       "id": 132845,
       "event_category": "Baseball",
       "title": "Colorado Rockies vs Toronto Blue Jays (Major League Baseball, 2025)",
@@ -460,16 +458,16 @@
       "startTime": "12:40:00 AM 07-08-2025"
     },
     {
-      "id": 132145,
-      "event_category": "Cricket",
-      "title": "ACE KRM Panthers vs Khan Zalmi Kings (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "ACE KRM Panthers",
-      "team_2": "Khan Zalmi Kings",
+      "id": 133193,
+      "event_category": "Basketball",
+      "title": "Saudi Arabia vs Jordan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133193_5549_SA_JDN_fc-Web.jpg",
+      "team_1": "Saudi Arabia",
+      "team_2": "Jordan",
       "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "ACE KRM Panthers vs Khan Zalmi Kings",
-      "startTime": "12:15:00 AM 08-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Saudi Arabia vs Jordan",
+      "startTime": "11:30:00 PM 07-08-2025"
     }
   ]
 }
