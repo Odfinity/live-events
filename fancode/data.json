@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:17 PM 06-08-2025",
+  "last update time": "12:44 PM 06-08-2025",
   "matches": [
     {
       "id": 132921,
@@ -44,20 +44,6 @@
       "startTime": "12:00:00 PM 06-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ZKAadUlgRYK57U5IQkut7w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132634_english_hls_19549ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133178,
-      "event_category": "Live events",
-      "title": "Semi-Finals vs Mumbai (Dream Sports MSSA Football Boys U16 Div I)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Boys_match-card.jpg",
-      "team_1": "Semi-Finals",
-      "team_2": "Mumbai",
-      "status": "LIVE",
-      "event_name": "Dream Sports MSSA Football Boys U16 Div I",
-      "match_name": "Semi-Finals",
-      "startTime": "10:00:00 AM 06-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/P5uzYQi2RYmXVnQ-xo36Tw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133178_english_hls_19223ta-di_h264/index.m3u8"
     },
     {
       "id": 132471,
@@ -118,6 +104,18 @@
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
       "match_name": "Bud Cricket Club vs City Cricket Club",
       "startTime": "01:15:00 PM 06-08-2025"
+    },
+    {
+      "id": 133186,
+      "event_category": "Basketball",
+      "title": "Australia vs South Korea (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133186_5549_AUS_SKR_fc-Web.jpg",
+      "team_1": "Australia",
+      "team_2": "South Korea",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Australia vs South Korea",
+      "startTime": "01:30:00 PM 06-08-2025"
     },
     {
       "id": 132922,
@@ -226,18 +224,6 @@
       "event_name": "UEFA Champions League Qualifiers 2025-26",
       "match_name": "Feyenoord vs Fenerbahçe",
       "startTime": "12:30:00 AM 07-08-2025"
-    },
-    {
-      "id": 133186,
-      "event_category": "Basketball",
-      "title": "Australia vs South Korea (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133186_5549_AUS_SKR_fc-Web.jpg",
-      "team_1": "Australia",
-      "team_2": "South Korea",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Australia vs South Korea",
-      "startTime": "01:30:00 PM 06-08-2025"
     },
     {
       "id": 133187,
@@ -396,6 +382,18 @@
       "startTime": "01:30:00 PM 07-08-2025"
     },
     {
+      "id": 133360,
+      "event_category": "Cricket",
+      "title": "Royal Challenger Delhi vs Bengol Tigers (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Royal Challenger Delhi",
+      "team_2": "Bengol Tigers",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Royal Challenger Delhi vs Bengol Tigers",
+      "startTime": "05:00:00 PM 07-08-2025"
+    },
+    {
       "id": 132190,
       "event_category": "Arm Wrestling",
       "title": "Day 2 vs India (Pro Panja League Season 2 2025)",
@@ -420,18 +418,6 @@
       "startTime": "10:05:00 PM 06-08-2025"
     },
     {
-      "id": 133360,
-      "event_category": "Cricket",
-      "title": "Royal Challenger Delhi vs Bengol Tigers (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Royal Challenger Delhi",
-      "team_2": "Bengol Tigers",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Royal Challenger Delhi vs Bengol Tigers",
-      "startTime": "05:00:00 PM 07-08-2025"
-    },
-    {
       "id": 132845,
       "event_category": "Baseball",
       "title": "Colorado Rockies vs Toronto Blue Jays (Major League Baseball, 2025)",
@@ -454,6 +440,18 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Central Delhi Kings vs South Delhi Superstarz",
       "startTime": "07:00:00 PM 07-08-2025"
+    },
+    {
+      "id": 132068,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Wimbledon, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "04:30:00 PM 07-08-2025"
     }
   ]
 }
