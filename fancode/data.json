@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:52 AM 07-08-2025",
+  "last update time": "03:13 AM 07-08-2025",
   "matches": [
     {
       "id": 132845,
@@ -16,20 +16,6 @@
       "startTime": "12:40:00 AM 07-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132845_english_hls_77183ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132845_english_hls_77183ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132970,
-      "event_category": "Football",
-      "title": "Feyenoord vs Fenerbahçe (UEFA Champions League Qualifiers 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/UEFA_Old_match-card_2.jpg",
-      "team_1": "Feyenoord",
-      "team_2": "Fenerbahçe",
-      "status": "LIVE",
-      "event_name": "UEFA Champions League Qualifiers 2025-26",
-      "match_name": "Feyenoord vs Fenerbahçe",
-      "startTime": "12:30:00 AM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/aunjqgbZSvaxJoJMwJJiew/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132970_english_hls_42856ta-di_h264/index.m3u8"
     },
     {
       "id": 128761,
@@ -414,6 +400,18 @@
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
       "match_name": "Selangor vs Perak",
       "startTime": "07:00:00 AM 08-08-2025"
+    },
+    {
+      "id": 132846,
+      "event_category": "Baseball",
+      "title": "Washington Nationals vs Oakland Athletics (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132846_CASACARDS_APP.png",
+      "team_1": "Washington Nationals",
+      "team_2": "Oakland Athletics",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Washington Nationals vs Oakland Athletics",
+      "startTime": "09:35:00 PM 07-08-2025"
     }
   ]
 }
