@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:01 AM 07-08-2025",
+  "last update time": "01:18 AM 07-08-2025",
   "matches": [
     {
       "id": 132223,
@@ -58,20 +58,6 @@
       "startTime": "11:30:00 PM 06-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/lRr2FxmxRpuf4bNvIB0aog/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133189_english_hls_84431ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132844,
-      "event_category": "Baseball",
-      "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132844_CASACARDS_APP.png",
-      "team_1": "Pittsburgh Pirates",
-      "team_2": "San Francisco Giants",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Pittsburgh Pirates vs San Francisco Giants",
-      "startTime": "10:05:00 PM 06-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132844_english_hls_4526ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132844_english_hls_4526ta-di_h264/index.m3u8"
     },
     {
       "id": 132845,
@@ -292,18 +278,6 @@
       "startTime": "05:00:00 PM 07-08-2025"
     },
     {
-      "id": 133190,
-      "event_category": "Basketball",
-      "title": "India vs China (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133190_5549_IND_CHN_fc-Web.jpg",
-      "team_1": "India",
-      "team_2": "China",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "India vs China",
-      "startTime": "01:30:00 PM 07-08-2025"
-    },
-    {
       "id": 132069,
       "event_category": "Cricket",
       "title": "Banstead vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
@@ -314,6 +288,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "Banstead vs CFS Pinnacle Pro",
       "startTime": "06:30:00 PM 07-08-2025"
+    },
+    {
+      "id": 133190,
+      "event_category": "Basketball",
+      "title": "India vs China (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133190_5549_IND_CHN_fc-Web.jpg",
+      "team_1": "India",
+      "team_2": "China",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "India vs China",
+      "startTime": "01:30:00 PM 07-08-2025"
     },
     {
       "id": 133191,
@@ -434,6 +420,18 @@
       "event_name": "FedEx St. Jude Championship 2025",
       "match_name": "Main Feed - Day 1",
       "startTime": "05:30:00 PM 07-08-2025"
+    },
+    {
+      "id": 133320,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 1 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+      "team_1": "Featured Groups - Day 1",
+      "team_2": "TPC Southwind - Memphis, Tennessee ",
+      "status": "UPCOMING",
+      "event_name": "FedEx St. Jude Championship 2025",
+      "match_name": "Featured Groups - Day 1",
+      "startTime": "06:15:00 PM 07-08-2025"
     }
   ]
 }
