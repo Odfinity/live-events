@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:12 AM 07-08-2025",
+  "last update time": "12:39 AM 07-08-2025",
   "matches": [
     {
       "id": 132223,
@@ -24,38 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/UEFA_Old_match-card_2.jpg",
       "team_1": "Feyenoord",
       "team_2": "Fenerbahçe",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "UEFA Champions League Qualifiers 2025-26",
       "match_name": "Feyenoord vs Fenerbahçe",
-      "startTime": "12:30:00 AM 07-08-2025"
-    },
-    {
-      "id": 132066,
-      "event_category": "Cricket",
-      "title": "Kreative Sports XI vs Wimbledon (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-      "team_1": "Kreative Sports XI",
-      "team_2": "Wimbledon",
-      "status": "LIVE",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Kreative Sports XI vs Wimbledon",
-      "startTime": "10:45:00 PM 06-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/6ihY2YNYQvGBDKsNB49TvA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132066_english_hls_60584ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133189,
-      "event_category": "Basketball",
-      "title": "Qatar vs Lebanon (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133189_5549_QAT_LEB_fc-Web.jpg",
-      "team_1": "Qatar",
-      "team_2": "Lebanon",
-      "status": "LIVE",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Qatar vs Lebanon",
-      "startTime": "11:30:00 PM 06-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/lRr2FxmxRpuf4bNvIB0aog/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133189_english_hls_84431ta-di_h264/index.m3u8"
+      "startTime": "12:30:00 AM 07-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/aunjqgbZSvaxJoJMwJJiew/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132970_english_hls_42856ta-di_h264/index.m3u8"
     },
     {
       "id": 132143,
@@ -72,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132143_english_hls_47881ta-di_h264/index.m3u8"
     },
     {
+      "id": 133189,
+      "event_category": "Basketball",
+      "title": "Qatar vs Lebanon (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133189_5549_QAT_LEB_fc-Web.jpg",
+      "team_1": "Qatar",
+      "team_2": "Lebanon",
+      "status": "LIVE",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Qatar vs Lebanon",
+      "startTime": "11:30:00 PM 06-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lRr2FxmxRpuf4bNvIB0aog/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133189_english_hls_84431ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132844,
       "event_category": "Baseball",
       "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
@@ -84,6 +72,20 @@
       "startTime": "10:05:00 PM 06-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132844_english_hls_4526ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132844_english_hls_4526ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132845,
+      "event_category": "Baseball",
+      "title": "Colorado Rockies vs Toronto Blue Jays (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132845_CASACARDS_APP.png",
+      "team_1": "Colorado Rockies",
+      "team_2": "Toronto Blue Jays",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Colorado Rockies vs Toronto Blue Jays",
+      "startTime": "12:40:00 AM 07-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132845_english_hls_77183ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132845_english_hls_77183ta-di_h264/index.m3u8"
     },
     {
       "id": 128761,
@@ -230,6 +232,18 @@
       "startTime": "01:15:00 PM 07-08-2025"
     },
     {
+      "id": 132224,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
+      "team_1": "Northern Superchargers",
+      "team_2": "Welsh Fire",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Northern Superchargers vs Welsh Fire",
+      "startTime": "11:00:00 PM 07-08-2025"
+    },
+    {
       "id": 132924,
       "event_category": "Cricket",
       "title": "Mysore Warriors Women vs Mangaluru Dragons Women (Maharani Trophy, 2025)",
@@ -244,37 +258,25 @@
     {
       "id": 132067,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
+      "title": "East Molesey vs London County Cricket (ECS England, Wimbledon, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "East Molesey",
+      "team_2": "London County Cricket",
       "status": "UPCOMING",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "East Molesey vs London County Cricket",
       "startTime": "02:30:00 PM 07-08-2025"
-    },
-    {
-      "id": 132224,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
-      "team_1": "Northern Superchargers",
-      "team_2": "Welsh Fire",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Northern Superchargers vs Welsh Fire",
-      "startTime": "11:00:00 PM 07-08-2025"
     },
     {
       "id": 132068,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
+      "title": "Kreative Sports XI vs Spencer (ECS England, Wimbledon, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Kreative Sports XI",
+      "team_2": "Spencer",
       "status": "UPCOMING",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Kreative Sports XI vs Spencer",
       "startTime": "04:30:00 PM 07-08-2025"
     },
     {
@@ -304,13 +306,13 @@
     {
       "id": 132069,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
+      "title": "Banstead vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Banstead",
+      "team_2": "CFS Pinnacle Pro",
       "status": "UPCOMING",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Banstead vs CFS Pinnacle Pro",
       "startTime": "06:30:00 PM 07-08-2025"
     },
     {
@@ -328,26 +330,14 @@
     {
       "id": 132070,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
+      "title": "Wimbledon vs Weybridge (ECS England, Wimbledon, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Wimbledon",
+      "team_2": "Weybridge",
       "status": "UPCOMING",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Wimbledon vs Weybridge",
       "startTime": "08:45:00 PM 07-08-2025"
-    },
-    {
-      "id": 132845,
-      "event_category": "Baseball",
-      "title": "Colorado Rockies vs Toronto Blue Jays (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132845_CASACARDS_APP.png",
-      "team_1": "Colorado Rockies",
-      "team_2": "Toronto Blue Jays",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Colorado Rockies vs Toronto Blue Jays",
-      "startTime": "12:40:00 AM 07-08-2025"
     },
     {
       "id": 132144,
@@ -398,18 +388,6 @@
       "startTime": "11:30:00 PM 07-08-2025"
     },
     {
-      "id": 132904,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132904_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Chicago White Sox",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Chicago White Sox",
-      "startTime": "07:10:00 AM 07-08-2025"
-    },
-    {
       "id": 132021,
       "event_category": "Football",
       "title": "Port Vale vs Cardiff City (League One 2025-26)",
@@ -422,6 +400,18 @@
       "startTime": "12:30:00 AM 08-08-2025"
     },
     {
+      "id": 132904,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132904_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Chicago White Sox",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Chicago White Sox",
+      "startTime": "07:10:00 AM 07-08-2025"
+    },
+    {
       "id": 132191,
       "event_category": "Arm Wrestling",
       "title": "Day 3 vs India (Pro Panja League Season 2 2025)",
@@ -432,6 +422,18 @@
       "event_name": "Pro Panja League Season 2 2025",
       "match_name": "Day 3",
       "startTime": "05:00:00 PM 07-08-2025"
+    },
+    {
+      "id": 133288,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 1 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+      "team_1": "Main Feed - Day 1",
+      "team_2": "TPC Southwind - Memphis, Tennessee ",
+      "status": "UPCOMING",
+      "event_name": "FedEx St. Jude Championship 2025",
+      "match_name": "Main Feed - Day 1",
+      "startTime": "05:30:00 PM 07-08-2025"
     }
   ]
 }
