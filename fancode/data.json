@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:26 PM 06-08-2025",
+  "last update time": "04:55 PM 06-08-2025",
   "matches": [
     {
       "id": 132471,
@@ -18,20 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132471_english_hls_85005ta-di_h264/index.m3u8"
     },
     {
-      "id": 132406,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132406_CASACARDS_APP.png",
-      "team_1": "City Cricket Club",
-      "team_2": "Bud Cricket Club",
-      "status": "LIVE",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "City Cricket Club vs Bud Cricket Club",
-      "startTime": "01:15:00 PM 06-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/96fXDFzlTaCUhWAEvFAtmw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132406_english_hls_67802ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132922,
       "event_category": "Cricket",
       "title": "Mysore Warriors Women vs Shivamogga Lioness Women (Maharani Trophy, 2025)",
@@ -46,18 +32,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132922_english_hls_54612ta-di_h264/index.m3u8"
     },
     {
-      "id": 132062,
+      "id": 132063,
       "event_category": "Cricket",
-      "title": "London County Cricket vs Wimbledon (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
+      "title": "London County Cricket vs Kreative Sports XI (ECS England, Wimbledon, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
       "team_1": "London County Cricket",
-      "team_2": "Wimbledon",
+      "team_2": "Kreative Sports XI",
       "status": "LIVE",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "London County Cricket vs Wimbledon",
-      "startTime": "02:30:00 PM 06-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JYPxR9M6Q6qLwtOmMZ8RWQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132062_english_hls_666ta-di_h264/index.m3u8"
+      "match_name": "London County Cricket vs Kreative Sports XI",
+      "startTime": "04:30:00 PM 06-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/-igpeIH3Rt2GIY6p53bZbQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132063_english_hls_15369ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133187,
+      "event_category": "Basketball",
+      "title": "Japan vs Syria (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133187_5549_JPN_SYR_fc-Web.jpg",
+      "team_1": "Japan",
+      "team_2": "Syria",
+      "status": "LIVE",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Japan vs Syria",
+      "startTime": "04:40:00 PM 06-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fhPWFPRZRu64agM1niO2QA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133187_english_hls_31629ta-di_h264/index.m3u8"
     },
     {
       "id": 132472,
@@ -96,42 +96,6 @@
       "startTime": "11:00:00 PM 06-08-2025"
     },
     {
-      "id": 132063,
-      "event_category": "Cricket",
-      "title": "London County Cricket vs Kreative Sports XI (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "London County Cricket",
-      "team_2": "Kreative Sports XI",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "London County Cricket vs Kreative Sports XI",
-      "startTime": "04:30:00 PM 06-08-2025"
-    },
-    {
-      "id": 133187,
-      "event_category": "Basketball",
-      "title": "Japan vs Syria (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133187_5549_JPN_SYR_fc-Web.jpg",
-      "team_1": "Japan",
-      "team_2": "Syria",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Japan vs Syria",
-      "startTime": "04:40:00 PM 06-08-2025"
-    },
-    {
-      "id": 132064,
-      "event_category": "Cricket",
-      "title": "Wimbledon vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-      "team_1": "Wimbledon",
-      "team_2": "CFS Pinnacle Pro",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Wimbledon vs CFS Pinnacle Pro",
-      "startTime": "06:30:00 PM 06-08-2025"
-    },
-    {
       "id": 128761,
       "event_category": "Cricket",
       "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
@@ -154,6 +118,30 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "01:30:00 PM 07-08-2025"
+    },
+    {
+      "id": 132473,
+      "event_category": "Cricket",
+      "title": "Purani Delhi 6 vs West Delhi Lions (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
+      "team_1": "Purani Delhi 6",
+      "team_2": "West Delhi Lions",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Purani Delhi 6 vs West Delhi Lions",
+      "startTime": "02:00:00 PM 07-08-2025"
+    },
+    {
+      "id": 132064,
+      "event_category": "Cricket",
+      "title": "Wimbledon vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
+      "team_1": "Wimbledon",
+      "team_2": "CFS Pinnacle Pro",
+      "status": "UPCOMING",
+      "event_name": "ECS England, Wimbledon, 2025",
+      "match_name": "Wimbledon vs CFS Pinnacle Pro",
+      "startTime": "06:30:00 PM 06-08-2025"
     },
     {
       "id": 132065,
@@ -202,18 +190,6 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Phoenix Cricketers vs Bader & Nie Cricket Club",
       "startTime": "12:15:00 AM 07-08-2025"
-    },
-    {
-      "id": 132473,
-      "event_category": "Cricket",
-      "title": "Purani Delhi 6 vs West Delhi Lions (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
-      "team_1": "Purani Delhi 6",
-      "team_2": "West Delhi Lions",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Purani Delhi 6 vs West Delhi Lions",
-      "startTime": "02:00:00 PM 07-08-2025"
     },
     {
       "id": 132970,
@@ -276,18 +252,6 @@
       "startTime": "09:45:00 AM 07-08-2025"
     },
     {
-      "id": 131606,
-      "event_category": "Cricket",
-      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Pakistan Women",
-      "status": "UPCOMING",
-      "event_name": "Pakistan Women tour of Ireland, 2025",
-      "match_name": "Ireland Women vs Pakistan Women",
-      "startTime": "08:30:00 PM 06-08-2025"
-    },
-    {
       "id": 133360,
       "event_category": "Cricket",
       "title": "Royal Challenger Delhi vs Bengol Tigers (LEGEN‑Z T10 League)",
@@ -298,6 +262,18 @@
       "event_name": "LEGEN‑Z T10 League",
       "match_name": "Royal Challenger Delhi vs Bengol Tigers",
       "startTime": "05:00:00 PM 07-08-2025"
+    },
+    {
+      "id": 131606,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Pakistan Women",
+      "status": "UPCOMING",
+      "event_name": "Pakistan Women tour of Ireland, 2025",
+      "match_name": "Ireland Women vs Pakistan Women",
+      "startTime": "08:30:00 PM 06-08-2025"
     },
     {
       "id": 133315,
@@ -312,18 +288,6 @@
       "startTime": "12:30:00 PM 07-08-2025"
     },
     {
-      "id": 132190,
-      "event_category": "Arm Wrestling",
-      "title": "Day 2 vs India (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
-      "team_1": "Day 2",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 2",
-      "startTime": "05:00:00 PM 06-08-2025"
-    },
-    {
       "id": 132408,
       "event_category": "Cricket",
       "title": "Nabajyoti Club vs Gauhati Town Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
@@ -334,6 +298,18 @@
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
       "match_name": "Nabajyoti Club vs Gauhati Town Club",
       "startTime": "01:15:00 PM 07-08-2025"
+    },
+    {
+      "id": 132190,
+      "event_category": "Arm Wrestling",
+      "title": "Day 2 vs India (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+      "team_1": "Day 2",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 2",
+      "startTime": "05:00:00 PM 06-08-2025"
     },
     {
       "id": 132924,
@@ -432,18 +408,6 @@
       "startTime": "05:00:00 PM 07-08-2025"
     },
     {
-      "id": 133191,
-      "event_category": "Basketball",
-      "title": "Iraq vs Chinese Taipei (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133191_5549_IRQ_CT_fc-Web.jpg",
-      "team_1": "Iraq",
-      "team_2": "Chinese Taipei",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Iraq vs Chinese Taipei",
-      "startTime": "04:30:00 PM 07-08-2025"
-    },
-    {
       "id": 133362,
       "event_category": "Cricket",
       "title": "Mumbai vs Rajasthan (LEGEN‑Z T10 League)",
@@ -456,6 +420,18 @@
       "startTime": "09:00:00 PM 07-08-2025"
     },
     {
+      "id": 133191,
+      "event_category": "Basketball",
+      "title": "Iraq vs Chinese Taipei (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133191_5549_IRQ_CT_fc-Web.jpg",
+      "team_1": "Iraq",
+      "team_2": "Chinese Taipei",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Iraq vs Chinese Taipei",
+      "startTime": "04:30:00 PM 07-08-2025"
+    },
+    {
       "id": 132069,
       "event_category": "Cricket",
       "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
@@ -466,6 +442,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "06:30:00 PM 07-08-2025"
+    },
+    {
+      "id": 132844,
+      "event_category": "Baseball",
+      "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132844_CASACARDS_APP.png",
+      "team_1": "Pittsburgh Pirates",
+      "team_2": "San Francisco Giants",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Pittsburgh Pirates vs San Francisco Giants",
+      "startTime": "10:05:00 PM 06-08-2025"
     }
   ]
 }
