@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:21 PM 07-08-2025",
+  "last update time": "02:05 PM 07-08-2025",
   "matches": [
     {
       "id": 133229,
@@ -46,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128761_english_hls_68173ta-di_h264/index.m3u8"
     },
     {
+      "id": 132473,
+      "event_category": "Cricket",
+      "title": "Purani Delhi 6 vs West Delhi Lions (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
+      "team_1": "Purani Delhi 6",
+      "team_2": "West Delhi Lions",
+      "status": "LIVE",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Purani Delhi 6 vs West Delhi Lions",
+      "startTime": "02:00:00 PM 07-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/sgOdO5ttRdqbD04i9SwkNA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133315,
       "event_category": "Cricket",
       "title": "Cyprus vs Croatia (ECN Croatia-Cyprus T20I, 2025)",
@@ -74,16 +88,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132408_english_hls_55884ta-di_h264/index.m3u8"
     },
     {
-      "id": 132473,
+      "id": 132924,
       "event_category": "Cricket",
-      "title": "Purani Delhi 6 vs West Delhi Lions (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
-      "team_1": "Purani Delhi 6",
-      "team_2": "West Delhi Lions",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Purani Delhi 6 vs West Delhi Lions",
-      "startTime": "02:00:00 PM 07-08-2025"
+      "title": "Mysore Warriors Women vs Mangaluru Dragons Women (Maharani Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+      "team_1": "Mysore Warriors Women",
+      "team_2": "Mangaluru Dragons Women",
+      "status": "LIVE",
+      "event_name": "Maharani Trophy, 2025",
+      "match_name": "Mysore Warriors Women vs Mangaluru Dragons Women",
+      "startTime": "01:45:00 PM 07-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/_ik75qYZQg-jjlzU7pEXxA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132924_english_hls_66785ta-di_h264/index.m3u8"
     },
     {
       "id": 132474,
@@ -122,27 +138,15 @@
       "startTime": "11:00:00 PM 07-08-2025"
     },
     {
-      "id": 132924,
-      "event_category": "Cricket",
-      "title": "Mysore Warriors Women vs Mangaluru Dragons Women (Maharani Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-      "team_1": "Mysore Warriors Women",
-      "team_2": "Mangaluru Dragons Women",
-      "status": "UPCOMING",
-      "event_name": "Maharani Trophy, 2025",
-      "match_name": "Mysore Warriors Women vs Mangaluru Dragons Women",
-      "startTime": "01:45:00 PM 07-08-2025"
-    },
-    {
       "id": 132067,
       "event_category": "Cricket",
-      "title": "East Molesey vs London County Cricket (ECS England, Wimbledon, 2025)",
+      "title": "London County Cricket vs East Molesey (ECS England, Wimbledon, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "East Molesey",
-      "team_2": "London County Cricket",
+      "team_1": "London County Cricket",
+      "team_2": "East Molesey",
       "status": "UPCOMING",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "East Molesey vs London County Cricket",
+      "match_name": "London County Cricket vs East Molesey",
       "startTime": "02:30:00 PM 07-08-2025"
     },
     {
@@ -302,18 +306,6 @@
       "startTime": "09:30:00 AM 08-08-2025"
     },
     {
-      "id": 132021,
-      "event_category": "Football",
-      "title": "Port Vale vs Cardiff City (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
-      "team_1": "Port Vale",
-      "team_2": "Cardiff City",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Port Vale vs Cardiff City",
-      "startTime": "12:30:00 AM 08-08-2025"
-    },
-    {
       "id": 132925,
       "event_category": "Cricket",
       "title": "Bengaluru Blasters Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
@@ -324,6 +316,18 @@
       "event_name": "Maharani Trophy, 2025",
       "match_name": "Bengaluru Blasters Women vs Mysore Warriors Women",
       "startTime": "09:45:00 AM 08-08-2025"
+    },
+    {
+      "id": 132021,
+      "event_category": "Football",
+      "title": "Port Vale vs Cardiff City (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
+      "team_1": "Port Vale",
+      "team_2": "Cardiff City",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Port Vale vs Cardiff City",
+      "startTime": "12:30:00 AM 08-08-2025"
     },
     {
       "id": 132637,
@@ -362,18 +366,6 @@
       "startTime": "01:00:00 PM 08-08-2025"
     },
     {
-      "id": 132410,
-      "event_category": "Cricket",
-      "title": "Navarang Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132410_CASACARDS_APP.png",
-      "team_1": "Navarang Club",
-      "team_2": "Bud Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Navarang Club vs Bud Cricket Club",
-      "startTime": "01:15:00 PM 08-08-2025"
-    },
-    {
       "id": 133363,
       "event_category": "Cricket",
       "title": "Mumbai vs Royal Challenger Delhi (LEGEN‑Z T10 League)",
@@ -396,6 +388,18 @@
       "event_name": "LEGEN‑Z T10 League",
       "match_name": "Royal Challenger Delhi vs Bengol Tigers",
       "startTime": "05:00:00 PM 08-08-2025"
+    },
+    {
+      "id": 132410,
+      "event_category": "Cricket",
+      "title": "Navarang Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132410_CASACARDS_APP.png",
+      "team_1": "Navarang Club",
+      "team_2": "Bud Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Navarang Club vs Bud Cricket Club",
+      "startTime": "01:15:00 PM 08-08-2025"
     },
     {
       "id": 132926,
@@ -434,40 +438,40 @@
       "startTime": "01:30:00 PM 08-08-2025"
     },
     {
-      "id": 132191,
-      "event_category": "Arm Wrestling",
-      "title": "Day 3 vs India (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-      "team_1": "Day 3",
-      "team_2": "India",
+      "id": 132476,
+      "event_category": "Cricket",
+      "title": "New Delhi Tigers vs Purani Delhi 6 (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132476_5521_NDT_PD_fc-Web.jpg",
+      "team_1": "New Delhi Tigers",
+      "team_2": "Purani Delhi 6",
       "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 3",
-      "startTime": "05:00:00 PM 07-08-2025"
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "New Delhi Tigers vs Purani Delhi 6",
+      "startTime": "07:00:00 PM 08-08-2025"
     },
     {
-      "id": 132909,
-      "event_category": "Golf",
-      "title": "Day 1 vs Aberdeenshire, Scotland (Nexo Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nexo-Championship-2025_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Aberdeenshire, Scotland",
+      "id": 133364,
+      "event_category": "Cricket",
+      "title": "Bengol Tigers vs Rajasthan (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133364_5560_BT_RAJ_fc-Web.jpg",
+      "team_1": "Bengol Tigers",
+      "team_2": "Rajasthan",
       "status": "UPCOMING",
-      "event_name": "Nexo Championship 2025",
-      "match_name": "Day 1",
-      "startTime": "05:00:00 PM 07-08-2025"
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Bengol Tigers vs Rajasthan",
+      "startTime": "07:00:00 PM 08-08-2025"
     },
     {
-      "id": 133288,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 1 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
-      "team_1": "Main Feed - Day 1",
-      "team_2": "TPC Southwind - Memphis, Tennessee ",
+      "id": 133361,
+      "event_category": "Cricket",
+      "title": "Southern United vs MP Spartan (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133361_5560_SU_MPS_fc-Web.jpg",
+      "team_1": "Southern United",
+      "team_2": "MP Spartan",
       "status": "UPCOMING",
-      "event_name": "FedEx St. Jude Championship 2025",
-      "match_name": "Main Feed - Day 1",
-      "startTime": "05:45:00 PM 07-08-2025"
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Southern United vs MP Spartan",
+      "startTime": "07:00:00 PM 08-08-2025"
     }
   ]
 }
