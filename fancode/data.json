@@ -1,49 +1,19 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:13 PM 07-08-2025",
+  "last update time": "10:40 PM 07-08-2025",
   "matches": [
     {
-      "id": 132258,
+      "id": 132224,
       "event_category": "Cricket",
-      "title": "Northern Superchargers Women vs Welsh Fire Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132258_5506_NOS-W_WEF-W_Fc-Web.jpg",
-      "team_1": "Northern Superchargers Women",
-      "team_2": "Welsh Fire Women",
-      "status": "LIVE",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Northern Superchargers Women vs Welsh Fire Women",
-      "startTime": "07:30:00 PM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754618595~acl=/*~id=05554587079400854096835566496785~hmac=cda6d242894e4b2ec5d7753e2b0fd5f7e8ef6f610ba4ed4767abc8f370734df1"
-    },
-    {
-      "id": 132070,
-      "event_category": "Cricket",
-      "title": "Wimbledon vs Weybridge (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-      "team_1": "Wimbledon",
-      "team_2": "Weybridge",
-      "status": "LIVE",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Wimbledon vs Weybridge",
-      "startTime": "08:45:00 PM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ryeecyEeSV-VqIvsijRLcg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132070_english_hls_3146ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133192,
-      "event_category": "Basketball",
-      "title": "Philippines vs New Zealand (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133192_5549_PHP_NZ_fc-Web.jpg",
-      "team_1": "Philippines",
-      "team_2": "New Zealand",
-      "status": "LIVE",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Philippines vs New Zealand",
-      "startTime": "08:30:00 PM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/bNpLU_ToRrGq2bEb5P92Dw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133192_english_hls_45040ta-di_h264/index.m3u8"
+      "title": "Welsh Fire vs Northern Superchargers (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
+      "team_1": "Welsh Fire",
+      "team_2": "Northern Superchargers",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Welsh Fire vs Northern Superchargers",
+      "startTime": "11:00:00 PM 07-08-2025"
     },
     {
       "id": 132144,
@@ -58,20 +28,6 @@
       "startTime": "10:15:00 PM 07-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/XXVphDWtRa6txPcJsshLFg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132144_english_hls_40345ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132909,
-      "event_category": "Golf",
-      "title": "Day 1 vs Aberdeenshire, Scotland (Nexo Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nexo-Championship-2025_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Aberdeenshire, Scotland",
-      "status": "LIVE",
-      "event_name": "Nexo Championship 2025",
-      "match_name": "Day 1",
-      "startTime": "05:00:00 PM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iaC9XJwnTgG3KjQmTIoUtg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132909_english_hls_75747ta-di_h264/index.m3u8"
     },
     {
       "id": 133288,
@@ -130,16 +86,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132846_english_hls_28502ta-di_h264/index.m3u8"
     },
     {
-      "id": 132224,
+      "id": 132258,
       "event_category": "Cricket",
-      "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
-      "team_1": "Northern Superchargers",
-      "team_2": "Welsh Fire",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Northern Superchargers vs Welsh Fire",
-      "startTime": "11:00:00 PM 07-08-2025"
+      "title": "Northern Superchargers Women vs Welsh Fire Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132258_5506_NOS-W_WEF-W_Fc-Web.jpg",
+      "team_1": "Northern Superchargers Women",
+      "team_2": "Welsh Fire Women",
+      "status": "LIVE",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Northern Superchargers Women vs Welsh Fire Women",
+      "startTime": "07:30:00 PM 07-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754618595~acl=/*~id=05554587079400854096835566496785~hmac=cda6d242894e4b2ec5d7753e2b0fd5f7e8ef6f610ba4ed4767abc8f370734df1"
     },
     {
       "id": 128761,
@@ -190,6 +148,18 @@
       "startTime": "05:00:00 PM 08-08-2025"
     },
     {
+      "id": 133193,
+      "event_category": "Basketball",
+      "title": "Saudi Arabia vs Jordan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133193_5549_SA_JDN_fc-Web.jpg",
+      "team_1": "Saudi Arabia",
+      "team_2": "Jordan",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Saudi Arabia vs Jordan",
+      "startTime": "11:30:00 PM 07-08-2025"
+    },
+    {
       "id": 132476,
       "event_category": "Cricket",
       "title": "New Delhi Tigers vs Purani Delhi 6 (Delhi Premier League, 2025)",
@@ -226,18 +196,6 @@
       "startTime": "07:00:00 PM 08-08-2025"
     },
     {
-      "id": 132145,
-      "event_category": "Cricket",
-      "title": "ACE KRM Panthers vs Khan Zalmi Kings (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "ACE KRM Panthers",
-      "team_2": "Khan Zalmi Kings",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "ACE KRM Panthers vs Khan Zalmi Kings",
-      "startTime": "12:15:00 AM 08-08-2025"
-    },
-    {
       "id": 132259,
       "event_category": "Cricket",
       "title": "Birmingham Phoenix Women vs Trent Rockets Women (The Hundred Women, 2025)",
@@ -248,6 +206,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Birmingham Phoenix Women vs Trent Rockets Women",
       "startTime": "07:30:00 PM 08-08-2025"
+    },
+    {
+      "id": 132145,
+      "event_category": "Cricket",
+      "title": "ACE KRM Panthers vs Khan Zalmi Kings (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "Khan Zalmi Kings",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs Khan Zalmi Kings",
+      "startTime": "12:15:00 AM 08-08-2025"
     },
     {
       "id": 132635,
@@ -298,30 +268,6 @@
       "startTime": "09:45:00 AM 08-08-2025"
     },
     {
-      "id": 132637,
-      "event_category": "Cricket",
-      "title": "Malacca vs Kuala Lumpur (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Malacca",
-      "team_2": "Kuala Lumpur",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Malacca vs Kuala Lumpur",
-      "startTime": "11:30:00 AM 08-08-2025"
-    },
-    {
-      "id": 133317,
-      "event_category": "Cricket",
-      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-      "team_1": "Croatia",
-      "team_2": "Cyprus",
-      "status": "UPCOMING",
-      "event_name": "ECN Croatia-Cyprus T20I, 2025",
-      "match_name": "Croatia vs Cyprus",
-      "startTime": "12:30:00 PM 08-08-2025"
-    },
-    {
       "id": 133365,
       "event_category": "Cricket",
       "title": "Mumbai vs Southern United (LEGEN‑Z T10 League)",
@@ -346,6 +292,30 @@
       "startTime": "09:00:00 PM 08-08-2025"
     },
     {
+      "id": 132637,
+      "event_category": "Cricket",
+      "title": "Malacca vs Kuala Lumpur (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Malacca",
+      "team_2": "Kuala Lumpur",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Malacca vs Kuala Lumpur",
+      "startTime": "11:30:00 AM 08-08-2025"
+    },
+    {
+      "id": 133317,
+      "event_category": "Cricket",
+      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+      "team_1": "Croatia",
+      "team_2": "Cyprus",
+      "status": "UPCOMING",
+      "event_name": "ECN Croatia-Cyprus T20I, 2025",
+      "match_name": "Croatia vs Cyprus",
+      "startTime": "12:30:00 PM 08-08-2025"
+    },
+    {
       "id": 132439,
       "event_category": "Cricket",
       "title": "Eavion Eagles vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
@@ -368,18 +338,6 @@
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
       "match_name": "Navarang Club vs Bud Cricket Club",
       "startTime": "01:15:00 PM 08-08-2025"
-    },
-    {
-      "id": 133193,
-      "event_category": "Basketball",
-      "title": "Saudi Arabia vs Jordan (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133193_5549_SA_JDN_fc-Web.jpg",
-      "team_1": "Saudi Arabia",
-      "team_2": "Jordan",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Saudi Arabia vs Jordan",
-      "startTime": "11:30:00 PM 07-08-2025"
     },
     {
       "id": 132926,
@@ -408,13 +366,13 @@
     {
       "id": 132072,
       "event_category": "Cricket",
-      "title": "TBC vs East Molesey (ECS England, Wimbledon, 2025)",
+      "title": "Wimbledon vs East Molesey (ECS England, Wimbledon, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-      "team_1": "TBC",
+      "team_1": "Wimbledon",
       "team_2": "East Molesey",
       "status": "UPCOMING",
       "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "TBC vs East Molesey",
+      "match_name": "Wimbledon vs East Molesey",
       "startTime": "04:30:00 PM 08-08-2025"
     },
     {
@@ -442,16 +400,16 @@
       "startTime": "01:30:00 PM 08-08-2025"
     },
     {
-      "id": 132021,
-      "event_category": "Football",
-      "title": "Port Vale vs Cardiff City (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
-      "team_1": "Port Vale",
-      "team_2": "Cardiff City",
+      "id": 132225,
+      "event_category": "Cricket",
+      "title": "Birmingham Phoenix vs Trent Rockets (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132225_5505_BPH_TRT_fc-web.jpg",
+      "team_1": "Birmingham Phoenix",
+      "team_2": "Trent Rockets",
       "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Port Vale vs Cardiff City",
-      "startTime": "12:30:00 AM 08-08-2025"
+      "event_name": "The Hundred, 2025",
+      "match_name": "Birmingham Phoenix vs Trent Rockets",
+      "startTime": "11:00:00 PM 08-08-2025"
     },
     {
       "id": 132440,
@@ -466,16 +424,40 @@
       "startTime": "05:30:00 PM 08-08-2025"
     },
     {
-      "id": 132225,
-      "event_category": "Cricket",
-      "title": "Birmingham Phoenix vs Trent Rockets (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132225_5505_BPH_TRT_fc-web.jpg",
-      "team_1": "Birmingham Phoenix",
-      "team_2": "Trent Rockets",
+      "id": 132021,
+      "event_category": "Football",
+      "title": "Port Vale vs Cardiff City (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
+      "team_1": "Port Vale",
+      "team_2": "Cardiff City",
       "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Birmingham Phoenix vs Trent Rockets",
-      "startTime": "11:00:00 PM 08-08-2025"
+      "event_name": "League One 2025-26",
+      "match_name": "Port Vale vs Cardiff City",
+      "startTime": "12:30:00 AM 08-08-2025"
+    },
+    {
+      "id": 133203,
+      "event_category": "Basketball",
+      "title": "Iran vs Japan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133203_5549_IRN_JPN_fc-Web.jpg",
+      "team_1": "Iran",
+      "team_2": "Japan",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Iran vs Japan",
+      "startTime": "04:40:00 PM 08-08-2025"
+    },
+    {
+      "id": 132760,
+      "event_category": "Cricket",
+      "title": "Kakinada Kings vs Amaravathi Royals (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
+      "team_1": "Kakinada Kings",
+      "team_2": "Amaravathi Royals",
+      "status": "UPCOMING",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Kakinada Kings vs Amaravathi Royals",
+      "startTime": "07:30:00 PM 08-08-2025"
     }
   ]
 }
