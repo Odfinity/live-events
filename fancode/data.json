@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:57 PM 07-08-2025",
+  "last update time": "08:22 PM 07-08-2025",
   "matches": [
     {
       "id": 128761,
@@ -44,34 +44,6 @@
       "startTime": "07:00:00 PM 07-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/4zqaxUsRSmy2X92gHHTr8A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133316,
-      "event_category": "Cricket",
-      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-      "team_1": "Croatia",
-      "team_2": "Cyprus",
-      "status": "LIVE",
-      "event_name": "ECN Croatia-Cyprus T20I, 2025",
-      "match_name": "Croatia vs Cyprus",
-      "startTime": "05:00:00 PM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/bmMY58JzTFGK21PjMecDSg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133316_english_hls_69427ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132069,
-      "event_category": "Cricket",
-      "title": "Banstead vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "Banstead",
-      "team_2": "CFS Pinnacle Pro",
-      "status": "LIVE",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Banstead vs CFS Pinnacle Pro",
-      "startTime": "06:30:00 PM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XhM5jMqWRyeIawauVRydRg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132069_english_hls_49885ta-di_h264/index.m3u8"
     },
     {
       "id": 132191,
@@ -144,6 +116,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133320_english_hls_71770ta-di_h264/index.m3u8"
     },
     {
+      "id": 133316,
+      "event_category": "Cricket",
+      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+      "team_1": "Croatia",
+      "team_2": "Cyprus",
+      "status": "LIVE",
+      "event_name": "ECN Croatia-Cyprus T20I, 2025",
+      "match_name": "Croatia vs Cyprus",
+      "startTime": "05:00:00 PM 07-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/bmMY58JzTFGK21PjMecDSg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133316_english_hls_69427ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132224,
       "event_category": "Cricket",
       "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
@@ -186,10 +172,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133192_5549_PHP_NZ_fc-Web.jpg",
       "team_1": "Philippines",
       "team_2": "New Zealand",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "Philippines vs New Zealand",
-      "startTime": "08:30:00 PM 07-08-2025"
+      "startTime": "08:30:00 PM 07-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/bNpLU_ToRrGq2bEb5P92Dw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133192_english_hls_45040ta-di_h264/index.m3u8"
     },
     {
       "id": 133363,
@@ -288,18 +276,6 @@
       "startTime": "09:45:00 AM 08-08-2025"
     },
     {
-      "id": 133193,
-      "event_category": "Basketball",
-      "title": "Saudi Arabia vs Jordan (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133193_5549_SA_JDN_fc-Web.jpg",
-      "team_1": "Saudi Arabia",
-      "team_2": "Jordan",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Saudi Arabia vs Jordan",
-      "startTime": "11:30:00 PM 07-08-2025"
-    },
-    {
       "id": 132476,
       "event_category": "Cricket",
       "title": "New Delhi Tigers vs Purani Delhi 6 (Delhi Premier League, 2025)",
@@ -348,16 +324,16 @@
       "startTime": "11:30:00 AM 08-08-2025"
     },
     {
-      "id": 133317,
-      "event_category": "Cricket",
-      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-      "team_1": "Croatia",
-      "team_2": "Cyprus",
+      "id": 133193,
+      "event_category": "Basketball",
+      "title": "Saudi Arabia vs Jordan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133193_5549_SA_JDN_fc-Web.jpg",
+      "team_1": "Saudi Arabia",
+      "team_2": "Jordan",
       "status": "UPCOMING",
-      "event_name": "ECN Croatia-Cyprus T20I, 2025",
-      "match_name": "Croatia vs Cyprus",
-      "startTime": "12:30:00 PM 08-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Saudi Arabia vs Jordan",
+      "startTime": "11:30:00 PM 07-08-2025"
     },
     {
       "id": 132259,
@@ -370,6 +346,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Birmingham Phoenix Women vs Trent Rockets Women",
       "startTime": "07:30:00 PM 08-08-2025"
+    },
+    {
+      "id": 133317,
+      "event_category": "Cricket",
+      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+      "team_1": "Croatia",
+      "team_2": "Cyprus",
+      "status": "UPCOMING",
+      "event_name": "ECN Croatia-Cyprus T20I, 2025",
+      "match_name": "Croatia vs Cyprus",
+      "startTime": "12:30:00 PM 08-08-2025"
     },
     {
       "id": 132439,
@@ -478,6 +466,18 @@
       "event_name": "ECS England, Wimbledon, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "04:30:00 PM 08-08-2025"
+    },
+    {
+      "id": 133318,
+      "event_category": "Cricket",
+      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+      "team_1": "Croatia",
+      "team_2": "Cyprus",
+      "status": "UPCOMING",
+      "event_name": "ECN Croatia-Cyprus T20I, 2025",
+      "match_name": "Croatia vs Cyprus",
+      "startTime": "05:00:00 PM 08-08-2025"
     }
   ]
 }
