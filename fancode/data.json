@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:32 PM 07-08-2025",
+  "last update time": "07:20 PM 07-08-2025",
   "matches": [
     {
       "id": 128761,
@@ -18,20 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128761_english_hls_68173ta-di_h264/index.m3u8"
     },
     {
-      "id": 132473,
-      "event_category": "Cricket",
-      "title": "Purani Delhi 6 vs West Delhi Lions (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
-      "team_1": "Purani Delhi 6",
-      "team_2": "West Delhi Lions",
-      "status": "LIVE",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Purani Delhi 6 vs West Delhi Lions",
-      "startTime": "02:00:00 PM 07-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/sgOdO5ttRdqbD04i9SwkNA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132258,
       "event_category": "Cricket",
       "title": "Northern Superchargers Women vs Welsh Fire Women (The Hundred Women, 2025)",
@@ -42,6 +28,20 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Northern Superchargers Women vs Welsh Fire Women",
       "startTime": "07:30:00 PM 07-08-2025"
+    },
+    {
+      "id": 132474,
+      "event_category": "Cricket",
+      "title": "South Delhi Superstarz vs Central Delhi Kings (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
+      "team_1": "South Delhi Superstarz",
+      "team_2": "Central Delhi Kings",
+      "status": "LIVE",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "South Delhi Superstarz vs Central Delhi Kings",
+      "startTime": "07:00:00 PM 07-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4zqaxUsRSmy2X92gHHTr8A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8"
     },
     {
       "id": 133316,
@@ -128,18 +128,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133319_english_hls_45284ta-di_h264/index.m3u8"
     },
     {
-      "id": 132474,
-      "event_category": "Cricket",
-      "title": "South Delhi Superstarz vs Central Delhi Kings (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
-      "team_1": "South Delhi Superstarz",
-      "team_2": "Central Delhi Kings",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "South Delhi Superstarz vs Central Delhi Kings",
-      "startTime": "07:00:00 PM 07-08-2025"
-    },
-    {
       "id": 132224,
       "event_category": "Cricket",
       "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
@@ -200,18 +188,6 @@
       "startTime": "12:15:00 AM 08-08-2025"
     },
     {
-      "id": 132635,
-      "event_category": "Cricket",
-      "title": "Selangor vs Perak (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132635_CASACARDS_APP.png",
-      "team_1": "Selangor",
-      "team_2": "Perak",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Selangor vs Perak",
-      "startTime": "07:00:00 AM 08-08-2025"
-    },
-    {
       "id": 133363,
       "event_category": "Cricket",
       "title": "Mumbai vs Royal Challenger Delhi (LEGEN‑Z T10 League)",
@@ -234,6 +210,18 @@
       "event_name": "LEGEN‑Z T10 League",
       "match_name": "Royal Challenger Delhi vs Bengol Tigers",
       "startTime": "05:00:00 PM 08-08-2025"
+    },
+    {
+      "id": 132635,
+      "event_category": "Cricket",
+      "title": "Selangor vs Perak (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132635_CASACARDS_APP.png",
+      "team_1": "Selangor",
+      "team_2": "Perak",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Selangor vs Perak",
+      "startTime": "07:00:00 AM 08-08-2025"
     },
     {
       "id": 132409,
@@ -320,30 +308,6 @@
       "startTime": "12:30:00 PM 08-08-2025"
     },
     {
-      "id": 132439,
-      "event_category": "Cricket",
-      "title": "Eavion Eagles vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "Eavion Eagles",
-      "team_2": "Pupkewitz Motors Wildcats",
-      "status": "UPCOMING",
-      "event_name": "Namibia T20, 2025",
-      "match_name": "Eavion Eagles vs Pupkewitz Motors Wildcats",
-      "startTime": "01:00:00 PM 08-08-2025"
-    },
-    {
-      "id": 132410,
-      "event_category": "Cricket",
-      "title": "Navarang Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132410_CASACARDS_APP.png",
-      "team_1": "Navarang Club",
-      "team_2": "Bud Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Navarang Club vs Bud Cricket Club",
-      "startTime": "01:15:00 PM 08-08-2025"
-    },
-    {
       "id": 132476,
       "event_category": "Cricket",
       "title": "New Delhi Tigers vs Purani Delhi 6 (Delhi Premier League, 2025)",
@@ -380,28 +344,28 @@
       "startTime": "07:00:00 PM 08-08-2025"
     },
     {
-      "id": 132926,
+      "id": 132439,
       "event_category": "Cricket",
-      "title": "Mangaluru Dragons Women vs Shivamogga Lioness Women (Maharani Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-      "team_1": "Mangaluru Dragons Women",
-      "team_2": "Shivamogga Lioness Women",
+      "title": "Eavion Eagles vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+      "team_1": "Eavion Eagles",
+      "team_2": "Pupkewitz Motors Wildcats",
       "status": "UPCOMING",
-      "event_name": "Maharani Trophy, 2025",
-      "match_name": "Mangaluru Dragons Women vs Shivamogga Lioness Women",
-      "startTime": "01:45:00 PM 08-08-2025"
+      "event_name": "Namibia T20, 2025",
+      "match_name": "Eavion Eagles vs Pupkewitz Motors Wildcats",
+      "startTime": "01:00:00 PM 08-08-2025"
     },
     {
-      "id": 132021,
-      "event_category": "Football",
-      "title": "Port Vale vs Cardiff City (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
-      "team_1": "Port Vale",
-      "team_2": "Cardiff City",
+      "id": 132410,
+      "event_category": "Cricket",
+      "title": "Navarang Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132410_CASACARDS_APP.png",
+      "team_1": "Navarang Club",
+      "team_2": "Bud Cricket Club",
       "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Port Vale vs Cardiff City",
-      "startTime": "12:30:00 AM 08-08-2025"
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Navarang Club vs Bud Cricket Club",
+      "startTime": "01:15:00 PM 08-08-2025"
     },
     {
       "id": 132259,
@@ -416,6 +380,18 @@
       "startTime": "07:30:00 PM 08-08-2025"
     },
     {
+      "id": 132926,
+      "event_category": "Cricket",
+      "title": "Mangaluru Dragons Women vs Shivamogga Lioness Women (Maharani Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+      "team_1": "Mangaluru Dragons Women",
+      "team_2": "Shivamogga Lioness Women",
+      "status": "UPCOMING",
+      "event_name": "Maharani Trophy, 2025",
+      "match_name": "Mangaluru Dragons Women vs Shivamogga Lioness Women",
+      "startTime": "01:45:00 PM 08-08-2025"
+    },
+    {
       "id": 132071,
       "event_category": "Cricket",
       "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
@@ -428,6 +404,18 @@
       "startTime": "02:30:00 PM 08-08-2025"
     },
     {
+      "id": 132021,
+      "event_category": "Football",
+      "title": "Port Vale vs Cardiff City (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
+      "team_1": "Port Vale",
+      "team_2": "Cardiff City",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Port Vale vs Cardiff City",
+      "startTime": "12:30:00 AM 08-08-2025"
+    },
+    {
       "id": 133202,
       "event_category": "Basketball",
       "title": "South Korea vs Qatar (FIBA Asia Cup, 2025)",
@@ -438,6 +426,18 @@
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "South Korea vs Qatar",
       "startTime": "01:30:00 PM 08-08-2025"
+    },
+    {
+      "id": 133320,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 1 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+      "team_1": "Featured Groups - Day 1",
+      "team_2": "TPC Southwind - Memphis, Tennessee ",
+      "status": "UPCOMING",
+      "event_name": "FedEx St. Jude Championship 2025",
+      "match_name": "Featured Groups - Day 1",
+      "startTime": "07:45:00 PM 07-08-2025"
     },
     {
       "id": 132072,
