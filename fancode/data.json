@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:29 PM 08-08-2025",
+  "last update time": "03:06 PM 08-08-2025",
   "matches": [
     {
       "id": 128761,
@@ -30,20 +30,6 @@
       "startTime": "02:00:00 PM 08-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/mTE95k9yRF-w5WI-rDrukQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132475_english_hls_91610ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132637,
-      "event_category": "Cricket",
-      "title": "Kuala Lumpur vs Malacca (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
-      "team_1": "Kuala Lumpur",
-      "team_2": "Malacca",
-      "status": "LIVE",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Kuala Lumpur vs Malacca",
-      "startTime": "11:30:00 AM 08-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/6WOeVoefQCOqSh_iqCWVow/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132637_english_hls_98569ta-di_h264/index.m3u8"
     },
     {
       "id": 133317,
@@ -277,7 +263,7 @@
       "id": 131254,
       "event_category": "Football",
       "title": "Newcastle United vs Espanyol (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-vs-Espanyol_old.jpg",
       "team_1": "Newcastle United",
       "team_2": "Espanyol",
       "status": "UPCOMING",
@@ -298,18 +284,6 @@
       "startTime": "12:30:00 AM 09-08-2025"
     },
     {
-      "id": 133203,
-      "event_category": "Basketball",
-      "title": "Iran vs Japan (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133203_5549_IRN_JPN_fc-Web.jpg",
-      "team_1": "Iran",
-      "team_2": "Japan",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Iran vs Japan",
-      "startTime": "04:40:00 PM 08-08-2025"
-    },
-    {
       "id": 133230,
       "event_category": "Cricket",
       "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
@@ -320,6 +294,30 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "01:30:00 PM 09-08-2025"
+    },
+    {
+      "id": 132477,
+      "event_category": "Cricket",
+      "title": "Central Delhi Kings vs Outer Delhi Warriors (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
+      "team_1": "Central Delhi Kings",
+      "team_2": "Outer Delhi Warriors",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Central Delhi Kings vs Outer Delhi Warriors",
+      "startTime": "02:00:00 PM 09-08-2025"
+    },
+    {
+      "id": 133203,
+      "event_category": "Basketball",
+      "title": "Iran vs Japan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133203_5549_IRN_JPN_fc-Web.jpg",
+      "team_1": "Iran",
+      "team_2": "Japan",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Iran vs Japan",
+      "startTime": "04:40:00 PM 08-08-2025"
     },
     {
       "id": 133204,
@@ -334,18 +332,6 @@
       "startTime": "08:30:00 PM 08-08-2025"
     },
     {
-      "id": 133205,
-      "event_category": "Basketball",
-      "title": "Syria vs Guam (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133205_5549_SYR_GUA_fc-Web.jpg",
-      "team_1": "Syria",
-      "team_2": "Guam",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Syria vs Guam",
-      "startTime": "11:30:00 PM 08-08-2025"
-    },
-    {
       "id": 132638,
       "event_category": "Cricket",
       "title": "Kuala Lumpur vs Johor (MCA Men's T20 Inter-State Championship, 2025)",
@@ -358,16 +344,28 @@
       "startTime": "07:00:00 AM 09-08-2025"
     },
     {
-      "id": 132477,
-      "event_category": "Cricket",
-      "title": "Central Delhi Kings vs Outer Delhi Warriors (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
-      "team_1": "Central Delhi Kings",
-      "team_2": "Outer Delhi Warriors",
+      "id": 133205,
+      "event_category": "Basketball",
+      "title": "Syria vs Guam (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133205_5549_SYR_GUA_fc-Web.jpg",
+      "team_1": "Syria",
+      "team_2": "Guam",
       "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Central Delhi Kings vs Outer Delhi Warriors",
-      "startTime": "02:00:00 PM 09-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Syria vs Guam",
+      "startTime": "11:30:00 PM 08-08-2025"
+    },
+    {
+      "id": 133362,
+      "event_category": "Cricket",
+      "title": "Mumbai Stars vs Rajasthan Raiders (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+      "team_1": "Mumbai Stars",
+      "team_2": "Rajasthan Raiders",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Mumbai Stars vs Rajasthan Raiders",
+      "startTime": "03:00:00 PM 09-08-2025"
     },
     {
       "id": 132411,
@@ -394,18 +392,6 @@
       "startTime": "09:30:00 AM 09-08-2025"
     },
     {
-      "id": 133362,
-      "event_category": "Cricket",
-      "title": "Mumbai Stars vs Rajasthan Raiders (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
-      "team_1": "Mumbai Stars",
-      "team_2": "Rajasthan Raiders",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Mumbai Stars vs Rajasthan Raiders",
-      "startTime": "03:00:00 PM 09-08-2025"
-    },
-    {
       "id": 132927,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Maharani Trophy, 2025)",
@@ -416,18 +402,6 @@
       "event_name": "Maharani Trophy, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "09:45:00 AM 09-08-2025"
-    },
-    {
-      "id": 131607,
-      "event_category": "Cricket",
-      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Pakistan Women",
-      "status": "UPCOMING",
-      "event_name": "Pakistan Women tour of Ireland, 2025",
-      "match_name": "Ireland Women vs Pakistan Women",
-      "startTime": "08:30:00 PM 08-08-2025"
     },
     {
       "id": 132260,
@@ -442,6 +416,18 @@
       "startTime": "03:30:00 PM 09-08-2025"
     },
     {
+      "id": 131607,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Pakistan Women",
+      "status": "UPCOMING",
+      "event_name": "Pakistan Women tour of Ireland, 2025",
+      "match_name": "Ireland Women vs Pakistan Women",
+      "startTime": "08:30:00 PM 08-08-2025"
+    },
+    {
       "id": 132641,
       "event_category": "Cricket",
       "title": "Penang vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
@@ -454,18 +440,6 @@
       "startTime": "11:30:00 AM 09-08-2025"
     },
     {
-      "id": 131399,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "11:30:00 PM 08-08-2025"
-    },
-    {
       "id": 132147,
       "event_category": "Cricket",
       "title": "Keraniganj Challengers vs Kuwait Swedish (KCC T10 Summer League, 2025)",
@@ -476,6 +450,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Keraniganj Challengers vs Kuwait Swedish",
       "startTime": "12:15:00 PM 09-08-2025"
+    },
+    {
+      "id": 131399,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "11:30:00 PM 08-08-2025"
     }
   ]
 }
