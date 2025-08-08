@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:09 PM 08-08-2025",
+  "last update time": "12:33 PM 08-08-2025",
   "matches": [
-    {
-      "id": 132409,
-      "event_category": "Cricket",
-      "title": "Gauhati Town Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
-      "team_1": "Gauhati Town Club",
-      "team_2": "91 Yards Club",
-      "status": "LIVE",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Gauhati Town Club vs 91 Yards Club",
-      "startTime": "09:00:00 AM 08-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/sMoR2j62QB6F9JsjY6tNhQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132409_english_hls_62676ta-di_h264/index.m3u8"
-    },
     {
       "id": 132636,
       "event_category": "Cricket",
@@ -58,6 +44,20 @@
       "startTime": "11:30:00 AM 08-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/6WOeVoefQCOqSh_iqCWVow/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132637_english_hls_98569ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133317,
+      "event_category": "Cricket",
+      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+      "team_1": "Croatia",
+      "team_2": "Cyprus",
+      "status": "LIVE",
+      "event_name": "ECN Croatia-Cyprus T20I, 2025",
+      "match_name": "Croatia vs Cyprus",
+      "startTime": "12:30:00 PM 08-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/1X-4bvKUSxWmeLP5FsUByw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133317_english_hls_92611ta-di_h264/index.m3u8"
     },
     {
       "id": 128761,
@@ -156,27 +156,15 @@
       "startTime": "11:00:00 PM 08-08-2025"
     },
     {
-      "id": 133317,
-      "event_category": "Cricket",
-      "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-      "team_1": "Croatia",
-      "team_2": "Cyprus",
-      "status": "UPCOMING",
-      "event_name": "ECN Croatia-Cyprus T20I, 2025",
-      "match_name": "Croatia vs Cyprus",
-      "startTime": "12:30:00 PM 08-08-2025"
-    },
-    {
       "id": 132439,
       "event_category": "Cricket",
-      "title": "Eavion Eagles vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
+      "title": "Pupkewitz Motors Wildcats vs Eavion Eagles (Namibia T20, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "Eavion Eagles",
-      "team_2": "Pupkewitz Motors Wildcats",
+      "team_1": "Pupkewitz Motors Wildcats",
+      "team_2": "Eavion Eagles",
       "status": "UPCOMING",
       "event_name": "Namibia T20, 2025",
-      "match_name": "Eavion Eagles vs Pupkewitz Motors Wildcats",
+      "match_name": "Pupkewitz Motors Wildcats vs Eavion Eagles",
       "startTime": "01:00:00 PM 08-08-2025"
     },
     {
@@ -202,18 +190,6 @@
       "event_name": "Maharani Trophy, 2025",
       "match_name": "Mangaluru Dragons Women vs Shivamogga Lioness Women",
       "startTime": "01:45:00 PM 08-08-2025"
-    },
-    {
-      "id": 132071,
-      "event_category": "Cricket",
-      "title": "Banstead vs Spencer (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "Banstead",
-      "team_2": "Spencer",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "Banstead vs Spencer",
-      "startTime": "02:30:00 PM 08-08-2025"
     },
     {
       "id": 132072,
@@ -262,18 +238,6 @@
       "event_name": "Andhra Premier League, 2025",
       "match_name": "Kakinada Kings vs Amaravathi Royals",
       "startTime": "07:30:00 PM 08-08-2025"
-    },
-    {
-      "id": 132073,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "ECS England, Wimbledon, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:45:00 PM 08-08-2025"
     },
     {
       "id": 130019,
@@ -420,18 +384,6 @@
       "startTime": "09:00:00 AM 09-08-2025"
     },
     {
-      "id": 132639,
-      "event_category": "Cricket",
-      "title": "Malacca vs Perak (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",
-      "team_1": "Malacca",
-      "team_2": "Perak",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Malacca vs Perak",
-      "startTime": "09:30:00 AM 09-08-2025"
-    },
-    {
       "id": 132477,
       "event_category": "Cricket",
       "title": "Central Delhi Kings vs Outer Delhi Warriors (Delhi Premier League, 2025)",
@@ -442,6 +394,18 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Central Delhi Kings vs Outer Delhi Warriors",
       "startTime": "02:00:00 PM 09-08-2025"
+    },
+    {
+      "id": 132639,
+      "event_category": "Cricket",
+      "title": "Malacca vs Perak (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",
+      "team_1": "Malacca",
+      "team_2": "Perak",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Malacca vs Perak",
+      "startTime": "09:30:00 AM 09-08-2025"
     },
     {
       "id": 132927,
@@ -466,6 +430,42 @@
       "event_name": "Pakistan tour of West Indies, 2025",
       "match_name": "West Indies vs Pakistan",
       "startTime": "11:30:00 PM 08-08-2025"
+    },
+    {
+      "id": 133362,
+      "event_category": "Cricket",
+      "title": "Mumbai Stars vs Rajasthan Raiders (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+      "team_1": "Mumbai Stars",
+      "team_2": "Rajasthan Raiders",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Mumbai Stars vs Rajasthan Raiders",
+      "startTime": "03:00:00 PM 09-08-2025"
+    },
+    {
+      "id": 132641,
+      "event_category": "Cricket",
+      "title": "Penang vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
+      "team_1": "Penang",
+      "team_2": "Selangor",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Penang vs Selangor",
+      "startTime": "11:30:00 AM 09-08-2025"
+    },
+    {
+      "id": 132260,
+      "event_category": "Cricket",
+      "title": "Oval Invincibles Women vs Manchester Originals Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
+      "team_1": "Oval Invincibles Women",
+      "team_2": "Manchester Originals Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Oval Invincibles Women vs Manchester Originals Women",
+      "startTime": "03:30:00 PM 09-08-2025"
     }
   ]
 }
