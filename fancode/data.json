@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:02 PM 08-08-2025",
+  "last update time": "09:22 PM 08-08-2025",
   "matches": [
     {
       "id": 132259,
@@ -186,20 +186,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133323_english_hls_25347ta-di_h264/index.m3u8"
     },
     {
-      "id": 132440,
-      "event_category": "Cricket",
-      "title": "Paratus Jets vs NPL Bears (Namibia T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "Paratus Jets",
-      "team_2": "NPL Bears",
-      "status": "LIVE",
-      "event_name": "Namibia T20, 2025",
-      "match_name": "Paratus Jets vs NPL Bears",
-      "startTime": "05:30:00 PM 08-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/6ZdebF3ERWCgcymG5NZJ3Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132440_english_hls_89011ta-di_h264/index.m3u8"
-    },
-    {
       "id": 128761,
       "event_category": "Cricket",
       "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
@@ -308,30 +294,6 @@
       "startTime": "12:00:00 AM 09-08-2025"
     },
     {
-      "id": 131987,
-      "event_category": "Football",
-      "title": "Birmingham City vs Ipswich Town (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Birmingham City",
-      "team_2": "Ipswich Town",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Birmingham City vs Ipswich Town",
-      "startTime": "12:30:00 AM 09-08-2025"
-    },
-    {
-      "id": 132638,
-      "event_category": "Cricket",
-      "title": "Kuala Lumpur vs Johor (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
-      "team_1": "Kuala Lumpur",
-      "team_2": "Johor",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Kuala Lumpur vs Johor",
-      "startTime": "07:00:00 AM 09-08-2025"
-    },
-    {
       "id": 132261,
       "event_category": "Cricket",
       "title": "Welsh Fire Women vs London Spirit Women (The Hundred Women, 2025)",
@@ -390,6 +352,30 @@
       "event_name": "LEGEN‑Z T10 League",
       "match_name": "Bengal Tigers vs Rajasthan Raiders",
       "startTime": "07:00:00 PM 09-08-2025"
+    },
+    {
+      "id": 131987,
+      "event_category": "Football",
+      "title": "Birmingham City vs Ipswich Town (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Birmingham City",
+      "team_2": "Ipswich Town",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Birmingham City vs Ipswich Town",
+      "startTime": "12:30:00 AM 09-08-2025"
+    },
+    {
+      "id": 132638,
+      "event_category": "Cricket",
+      "title": "Kuala Lumpur vs Johor (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
+      "team_1": "Kuala Lumpur",
+      "team_2": "Johor",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Kuala Lumpur vs Johor",
+      "startTime": "07:00:00 AM 09-08-2025"
     },
     {
       "id": 132411,
@@ -452,18 +438,6 @@
       "startTime": "12:15:00 PM 09-08-2025"
     },
     {
-      "id": 133205,
-      "event_category": "Basketball",
-      "title": "Syria vs Guam (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133205_5549_SYR_GUA_fc-Web.jpg",
-      "team_1": "Syria",
-      "team_2": "Guam",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Syria vs Guam",
-      "startTime": "11:30:00 PM 08-08-2025"
-    },
-    {
       "id": 133388,
       "event_category": "Cricket",
       "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
@@ -476,6 +450,18 @@
       "startTime": "12:30:00 PM 09-08-2025"
     },
     {
+      "id": 133205,
+      "event_category": "Basketball",
+      "title": "Syria vs Guam (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133205_5549_SYR_GUA_fc-Web.jpg",
+      "team_1": "Syria",
+      "team_2": "Guam",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Syria vs Guam",
+      "startTime": "11:30:00 PM 08-08-2025"
+    },
+    {
       "id": 132441,
       "event_category": "Cricket",
       "title": "Paratus Jets vs Eavion Eagles (Namibia T20, 2025)",
@@ -486,6 +472,18 @@
       "event_name": "Namibia T20, 2025",
       "match_name": "Paratus Jets vs Eavion Eagles",
       "startTime": "01:00:00 PM 09-08-2025"
+    },
+    {
+      "id": 132412,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132412_CASACARDS_APP.png",
+      "team_1": "Gauhati Town Club",
+      "team_2": "Navarang Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Gauhati Town Club vs Navarang Club",
+      "startTime": "01:15:00 PM 09-08-2025"
     }
   ]
 }
