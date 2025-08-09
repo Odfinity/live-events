@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:04 PM 09-08-2025",
+  "last update time": "12:25 PM 09-08-2025",
   "matches": [
     {
       "id": 132411,
@@ -44,6 +44,20 @@
       "startTime": "11:30:00 AM 09-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/2B_oecSoRbWTJqO4ViGmRA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132641_english_hls_39664ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133388,
+      "event_category": "Cricket",
+      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/133388_CASACARDS_APP.png",
+      "team_1": "Cyprus",
+      "team_2": "Croatia",
+      "status": "LIVE",
+      "event_name": "ECI Croatia-Cyprus, 2025",
+      "match_name": "Cyprus vs Croatia",
+      "startTime": "12:30:00 PM 09-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2kB5ZYabQTijmFsdBP6cnw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133388_english_hls_83291ta-di_h264/index.m3u8"
     },
     {
       "id": 133382,
@@ -156,27 +170,15 @@
       "startTime": "10:30:00 PM 09-08-2025"
     },
     {
-      "id": 133388,
-      "event_category": "Cricket",
-      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/133388_CASACARDS_APP.png",
-      "team_1": "Cyprus",
-      "team_2": "Croatia",
-      "status": "UPCOMING",
-      "event_name": "ECI Croatia-Cyprus, 2025",
-      "match_name": "Cyprus vs Croatia",
-      "startTime": "12:30:00 PM 09-08-2025"
-    },
-    {
       "id": 132441,
       "event_category": "Cricket",
-      "title": "Paratus Jets vs Eavion Eagles (Namibia T20, 2025)",
+      "title": "Eavion Eagles vs Paratus Jets (Namibia T20, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "Paratus Jets",
-      "team_2": "Eavion Eagles",
+      "team_1": "Eavion Eagles",
+      "team_2": "Paratus Jets",
       "status": "UPCOMING",
       "event_name": "Namibia T20, 2025",
-      "match_name": "Paratus Jets vs Eavion Eagles",
+      "match_name": "Eavion Eagles vs Paratus Jets",
       "startTime": "01:00:00 PM 09-08-2025"
     },
     {
@@ -444,16 +446,16 @@
       "startTime": "09:00:00 AM 10-08-2025"
     },
     {
-      "id": 132643,
-      "event_category": "Cricket",
-      "title": "Malacca vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
-      "team_1": "Malacca",
-      "team_2": "Penang",
+      "id": 133244,
+      "event_category": "Motorsports",
+      "title": "Qualifying 1 vs Nurburgring (DTM Nurburgring 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Qualifying 1",
+      "team_2": "Nurburgring",
       "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Malacca vs Penang",
-      "startTime": "09:30:00 AM 10-08-2025"
+      "event_name": "DTM Nurburgring 2025",
+      "match_name": "Qualifying 1",
+      "startTime": "01:05:00 PM 09-08-2025"
     },
     {
       "id": 132479,
