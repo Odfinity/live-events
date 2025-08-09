@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:25 PM 09-08-2025",
+  "last update time": "12:52 PM 09-08-2025",
   "matches": [
-    {
-      "id": 132411,
-      "event_category": "Cricket",
-      "title": "Nabajyoti Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132411_CASACARDS_APP.png",
-      "team_1": "Nabajyoti Club",
-      "team_2": "City Cricket Club",
-      "status": "LIVE",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Nabajyoti Club vs City Cricket Club",
-      "startTime": "09:00:00 AM 09-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/EjIc_3FNRq-T9bDPb5Mojg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132411_english_hls_52274ta-di_h264/index.m3u8"
-    },
     {
       "id": 132927,
       "event_category": "Cricket",
@@ -60,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133388_english_hls_83291ta-di_h264/index.m3u8"
     },
     {
+      "id": 132441,
+      "event_category": "Cricket",
+      "title": "Eavion Eagles vs Paratus Jets (Namibia T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+      "team_1": "Eavion Eagles",
+      "team_2": "Paratus Jets",
+      "status": "LIVE",
+      "event_name": "Namibia T20, 2025",
+      "match_name": "Eavion Eagles vs Paratus Jets",
+      "startTime": "01:00:00 PM 09-08-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 133382,
       "event_category": "Live events",
       "title": "Day 1 vs Rajgir, Bihar (Asia Rugby U20 Men's & Women's Sevens)",
@@ -74,18 +74,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133382_english_hls_96027ta-di_h264/index.m3u8"
     },
     {
-      "id": 128761,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)old-match-card-.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "New Zealand",
-      "status": "PAUSED",
-      "event_name": "New Zealand tour of Zimbabwe, 2025",
-      "match_name": "Zimbabwe vs New Zealand",
-      "startTime": "01:30:00 PM 07-08-2025"
-    },
-    {
       "id": 133230,
       "event_category": "Cricket",
       "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
@@ -96,6 +84,18 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "01:30:00 PM 09-08-2025"
+    },
+    {
+      "id": 128761,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)old-match-card-.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "New Zealand",
+      "status": "PAUSED",
+      "event_name": "New Zealand tour of Zimbabwe, 2025",
+      "match_name": "Zimbabwe vs New Zealand",
+      "startTime": "01:30:00 PM 07-08-2025"
     },
     {
       "id": 132477,
@@ -170,18 +170,6 @@
       "startTime": "10:30:00 PM 09-08-2025"
     },
     {
-      "id": 132441,
-      "event_category": "Cricket",
-      "title": "Eavion Eagles vs Paratus Jets (Namibia T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "Eavion Eagles",
-      "team_2": "Paratus Jets",
-      "status": "UPCOMING",
-      "event_name": "Namibia T20, 2025",
-      "match_name": "Eavion Eagles vs Paratus Jets",
-      "startTime": "01:00:00 PM 09-08-2025"
-    },
-    {
       "id": 132412,
       "event_category": "Cricket",
       "title": "Gauhati Town Club vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
@@ -216,6 +204,18 @@
       "event_name": "Maharani Trophy, 2025",
       "match_name": "Hubli Tigers Women vs Mangaluru Dragons Women",
       "startTime": "01:45:00 PM 09-08-2025"
+    },
+    {
+      "id": 133194,
+      "event_category": "Basketball",
+      "title": "Iraq vs Philippines (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133194_5549_IRQ_PHP_fc-Web.jpg",
+      "team_1": "Iraq",
+      "team_2": "Philippines",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Iraq vs Philippines",
+      "startTime": "01:30:00 PM 09-08-2025"
     },
     {
       "id": 133389,
@@ -326,18 +326,6 @@
       "startTime": "08:30:00 PM 09-08-2025"
     },
     {
-      "id": 131988,
-      "event_category": "Football",
-      "title": "Sheffield United vs Bristol City (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-United-VS-Bristol-City_old.jpg",
-      "team_1": "Sheffield United",
-      "team_2": "Bristol City",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Sheffield United vs Bristol City",
-      "startTime": "10:00:00 PM 09-08-2025"
-    },
-    {
       "id": 132147,
       "event_category": "Cricket",
       "title": "Keraniganj Challengers vs Kuwait Swedish (KCC T10 Summer League, 2025)",
@@ -350,16 +338,16 @@
       "startTime": "12:15:00 AM 10-08-2025"
     },
     {
-      "id": 133194,
-      "event_category": "Basketball",
-      "title": "Iraq vs Philippines (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133194_5549_IRQ_PHP_fc-Web.jpg",
-      "team_1": "Iraq",
-      "team_2": "Philippines",
+      "id": 131988,
+      "event_category": "Football",
+      "title": "Sheffield United vs Bristol City (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-United-VS-Bristol-City_old.jpg",
+      "team_1": "Sheffield United",
+      "team_2": "Bristol City",
       "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Iraq vs Philippines",
-      "startTime": "01:30:00 PM 09-08-2025"
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Sheffield United vs Bristol City",
+      "startTime": "10:00:00 PM 09-08-2025"
     },
     {
       "id": 133195,
@@ -446,18 +434,6 @@
       "startTime": "09:00:00 AM 10-08-2025"
     },
     {
-      "id": 133244,
-      "event_category": "Motorsports",
-      "title": "Qualifying 1 vs Nurburgring (DTM Nurburgring 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Qualifying 1",
-      "team_2": "Nurburgring",
-      "status": "UPCOMING",
-      "event_name": "DTM Nurburgring 2025",
-      "match_name": "Qualifying 1",
-      "startTime": "01:05:00 PM 09-08-2025"
-    },
-    {
       "id": 132479,
       "event_category": "Cricket",
       "title": "Purani Delhi 6 vs North Delhi Strikers (Delhi Premier League, 2025)",
@@ -468,6 +444,30 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Purani Delhi 6 vs North Delhi Strikers",
       "startTime": "02:00:00 PM 10-08-2025"
+    },
+    {
+      "id": 132643,
+      "event_category": "Cricket",
+      "title": "Malacca vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
+      "team_1": "Malacca",
+      "team_2": "Penang",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Malacca vs Penang",
+      "startTime": "09:30:00 AM 10-08-2025"
+    },
+    {
+      "id": 133244,
+      "event_category": "Motorsports",
+      "title": "Qualifying 1 vs Nurburgring (DTM Nurburgring 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Qualifying 1",
+      "team_2": "Nurburgring",
+      "status": "UPCOMING",
+      "event_name": "DTM Nurburgring 2025",
+      "match_name": "Qualifying 1",
+      "startTime": "01:05:00 PM 09-08-2025"
     }
   ]
 }
