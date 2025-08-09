@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:16 PM 09-08-2025",
+  "last update time": "04:28 PM 09-08-2025",
   "matches": [
-    {
-      "id": 133230,
-      "event_category": "Cricket",
-      "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
-      "team_1": "Australia A Women",
-      "team_2": "India A Women",
-      "status": "LIVE",
-      "event_name": "India A Women tour of Australia, 2025",
-      "match_name": "Australia A Women vs India A Women",
-      "startTime": "01:30:00 PM 09-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eSgA-8KsTjSkIdQ4fOcT5A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133230_english_hls_40138ta-di_h264/index.m3u8"
-    },
     {
       "id": 132477,
       "event_category": "Cricket",
@@ -130,6 +116,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132076_english_hls_4796ta-di_h264/index.m3u8"
     },
     {
+      "id": 133195,
+      "event_category": "Basketball",
+      "title": "China vs Jordan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133195_5549_CHN_JDN_fc-Web.jpg",
+      "team_1": "China",
+      "team_2": "Jordan",
+      "status": "LIVE",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "China vs Jordan",
+      "startTime": "04:30:00 PM 09-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ggfczNTCRwW6OFuGllM9sA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133195_english_hls_17747ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133382,
       "event_category": "Live events",
       "title": "Day 1 vs Rajgir, Bihar (Asia Rugby U20 Men's & Women's Sevens)",
@@ -230,18 +230,6 @@
       "startTime": "05:00:00 PM 09-08-2025"
     },
     {
-      "id": 133195,
-      "event_category": "Basketball",
-      "title": "China vs Jordan (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133195_5549_CHN_JDN_fc-Web.jpg",
-      "team_1": "China",
-      "team_2": "Jordan",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs Jordan",
-      "startTime": "04:30:00 PM 09-08-2025"
-    },
-    {
       "id": 133231,
       "event_category": "Cricket",
       "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
@@ -302,6 +290,18 @@
       "startTime": "10:15:00 PM 09-08-2025"
     },
     {
+      "id": 132479,
+      "event_category": "Cricket",
+      "title": "Purani Delhi 6 vs North Delhi Strikers (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132479_5521_PD_NDS_fc-Web.jpg",
+      "team_1": "Purani Delhi 6",
+      "team_2": "North Delhi Strikers",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Purani Delhi 6 vs North Delhi Strikers",
+      "startTime": "02:00:00 PM 10-08-2025"
+    },
+    {
       "id": 132147,
       "event_category": "Cricket",
       "title": "Keraniganj Challengers vs Kuwait Swedish (KCC T10 Summer League, 2025)",
@@ -336,18 +336,6 @@
       "event_name": "Club Friendlies 2025",
       "match_name": "Newcastle United vs Atlético de Madrid",
       "startTime": "08:30:00 PM 09-08-2025"
-    },
-    {
-      "id": 132479,
-      "event_category": "Cricket",
-      "title": "Purani Delhi 6 vs North Delhi Strikers (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132479_5521_PD_NDS_fc-Web.jpg",
-      "team_1": "Purani Delhi 6",
-      "team_2": "North Delhi Strikers",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Purani Delhi 6 vs North Delhi Strikers",
-      "startTime": "02:00:00 PM 10-08-2025"
     },
     {
       "id": 131988,
@@ -386,18 +374,6 @@
       "startTime": "08:30:00 PM 09-08-2025"
     },
     {
-      "id": 133197,
-      "event_category": "Basketball",
-      "title": "Chinese Taipei vs New Zealand (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
-      "team_1": "Chinese Taipei",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Chinese Taipei vs New Zealand",
-      "startTime": "11:30:00 PM 09-08-2025"
-    },
-    {
       "id": 132262,
       "event_category": "Cricket",
       "title": "Southern Brave Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
@@ -408,6 +384,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Southern Brave Women vs Birmingham Phoenix Women",
       "startTime": "03:30:00 PM 10-08-2025"
+    },
+    {
+      "id": 133197,
+      "event_category": "Basketball",
+      "title": "Chinese Taipei vs New Zealand (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
+      "team_1": "Chinese Taipei",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Chinese Taipei vs New Zealand",
+      "startTime": "11:30:00 PM 09-08-2025"
     },
     {
       "id": 132413,
