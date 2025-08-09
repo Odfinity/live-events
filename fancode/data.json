@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 09-08-2025",
+  "last update time": "03:58 PM 09-08-2025",
   "matches": [
     {
       "id": 128761,
@@ -44,6 +44,20 @@
       "startTime": "02:00:00 PM 09-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/nda1FVWrRr6ZRFDsEwckDw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132477_english_hls_7256ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132260,
+      "event_category": "Cricket",
+      "title": "Manchester Originals Women vs Oval Invincibles Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
+      "team_1": "Manchester Originals Women",
+      "team_2": "Oval Invincibles Women",
+      "status": "LIVE",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Manchester Originals Women vs Oval Invincibles Women",
+      "startTime": "03:30:00 PM 09-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754776941~acl=/*~id=19034740370427861482217108910354~hmac=578c222b7f16464866cabfd0d09392abce607f181b76e25590d47098450f305c"
     },
     {
       "id": 132441,
@@ -144,18 +158,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133382_english_hls_96027ta-di_h264/index.m3u8"
     },
     {
-      "id": 132260,
-      "event_category": "Cricket",
-      "title": "Manchester Originals Women vs Oval Invincibles Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
-      "team_1": "Manchester Originals Women",
-      "team_2": "Oval Invincibles Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Manchester Originals Women vs Oval Invincibles Women",
-      "startTime": "03:30:00 PM 09-08-2025"
-    },
-    {
       "id": 132261,
       "event_category": "Cricket",
       "title": "Welsh Fire Women vs London Spirit Women (The Hundred Women, 2025)",
@@ -206,14 +208,26 @@
     {
       "id": 133390,
       "event_category": "Cricket",
-      "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
+      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
       "src": "https://images.fancode.com/aig/match/v1/133390_CASACARDS_APP.png",
-      "team_1": "Croatia",
-      "team_2": "Cyprus",
+      "team_1": "Cyprus",
+      "team_2": "Croatia",
       "status": "UPCOMING",
       "event_name": "ECI Croatia-Cyprus, 2025",
-      "match_name": "Croatia vs Cyprus",
+      "match_name": "Cyprus vs Croatia",
       "startTime": "04:45:00 PM 09-08-2025"
+    },
+    {
+      "id": 133195,
+      "event_category": "Basketball",
+      "title": "China vs Jordan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133195_5549_CHN_JDN_fc-Web.jpg",
+      "team_1": "China",
+      "team_2": "Jordan",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "China vs Jordan",
+      "startTime": "04:30:00 PM 09-08-2025"
     },
     {
       "id": 132442,
@@ -264,6 +278,18 @@
       "startTime": "10:15:00 PM 09-08-2025"
     },
     {
+      "id": 133231,
+      "event_category": "Cricket",
+      "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
+      "team_1": "Australia A Women",
+      "team_2": "India A Women",
+      "status": "UPCOMING",
+      "event_name": "India A Women tour of Australia, 2025",
+      "match_name": "Australia A Women vs India A Women",
+      "startTime": "01:30:00 PM 10-08-2025"
+    },
+    {
       "id": 131989,
       "event_category": "Football",
       "title": "Southampton vs Wrexham (EFL Championship 2025-26)",
@@ -276,18 +302,6 @@
       "startTime": "05:00:00 PM 09-08-2025"
     },
     {
-      "id": 131990,
-      "event_category": "Football",
-      "title": "Stoke City vs Derby County (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Stoke-City-VS-Derby-County_old.jpg",
-      "team_1": "Stoke City",
-      "team_2": "Derby County",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Stoke City vs Derby County",
-      "startTime": "07:30:00 PM 09-08-2025"
-    },
-    {
       "id": 132147,
       "event_category": "Cricket",
       "title": "Keraniganj Challengers vs Kuwait Swedish (KCC T10 Summer League, 2025)",
@@ -298,6 +312,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Keraniganj Challengers vs Kuwait Swedish",
       "startTime": "12:15:00 AM 10-08-2025"
+    },
+    {
+      "id": 131990,
+      "event_category": "Football",
+      "title": "Stoke City vs Derby County (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Stoke-City-VS-Derby-County_old.jpg",
+      "team_1": "Stoke City",
+      "team_2": "Derby County",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Stoke City vs Derby County",
+      "startTime": "07:30:00 PM 09-08-2025"
     },
     {
       "id": 129906,
@@ -324,18 +350,6 @@
       "startTime": "10:00:00 PM 09-08-2025"
     },
     {
-      "id": 133231,
-      "event_category": "Cricket",
-      "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
-      "team_1": "Australia A Women",
-      "team_2": "India A Women",
-      "status": "UPCOMING",
-      "event_name": "India A Women tour of Australia, 2025",
-      "match_name": "Australia A Women vs India A Women",
-      "startTime": "01:30:00 PM 10-08-2025"
-    },
-    {
       "id": 132479,
       "event_category": "Cricket",
       "title": "Purani Delhi 6 vs North Delhi Strikers (Delhi Premier League, 2025)",
@@ -346,30 +360,6 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Purani Delhi 6 vs North Delhi Strikers",
       "startTime": "02:00:00 PM 10-08-2025"
-    },
-    {
-      "id": 133195,
-      "event_category": "Basketball",
-      "title": "China vs Jordan (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133195_5549_CHN_JDN_fc-Web.jpg",
-      "team_1": "China",
-      "team_2": "Jordan",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs Jordan",
-      "startTime": "04:30:00 PM 09-08-2025"
-    },
-    {
-      "id": 133196,
-      "event_category": "Basketball",
-      "title": "India vs Saudi Arabia (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
-      "team_1": "India",
-      "team_2": "Saudi Arabia",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "India vs Saudi Arabia",
-      "startTime": "08:30:00 PM 09-08-2025"
     },
     {
       "id": 132642,
@@ -384,6 +374,18 @@
       "startTime": "07:00:00 AM 10-08-2025"
     },
     {
+      "id": 133196,
+      "event_category": "Basketball",
+      "title": "India vs Saudi Arabia (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
+      "team_1": "India",
+      "team_2": "Saudi Arabia",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "India vs Saudi Arabia",
+      "startTime": "08:30:00 PM 09-08-2025"
+    },
+    {
       "id": 133197,
       "event_category": "Basketball",
       "title": "Chinese Taipei vs New Zealand (FIBA Asia Cup, 2025)",
@@ -394,6 +396,18 @@
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "Chinese Taipei vs New Zealand",
       "startTime": "11:30:00 PM 09-08-2025"
+    },
+    {
+      "id": 132262,
+      "event_category": "Cricket",
+      "title": "Southern Brave Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132262_5506_SOB-W_BPH-W_Fc-Web.jpg",
+      "team_1": "Southern Brave Women",
+      "team_2": "Birmingham Phoenix Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Southern Brave Women vs Birmingham Phoenix Women",
+      "startTime": "03:30:00 PM 10-08-2025"
     },
     {
       "id": 132413,
@@ -418,18 +432,6 @@
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
       "match_name": "Malacca vs Penang",
       "startTime": "09:30:00 AM 10-08-2025"
-    },
-    {
-      "id": 132262,
-      "event_category": "Cricket",
-      "title": "Southern Brave Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132262_5506_SOB-W_BPH-W_Fc-Web.jpg",
-      "team_1": "Southern Brave Women",
-      "team_2": "Birmingham Phoenix Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Southern Brave Women vs Birmingham Phoenix Women",
-      "startTime": "03:30:00 PM 10-08-2025"
     },
     {
       "id": 132929,
