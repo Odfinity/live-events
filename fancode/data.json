@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:21 PM 09-08-2025",
+  "last update time": "08:53 PM 09-08-2025",
   "matches": [
     {
       "id": 133196,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
       "team_1": "India",
       "team_2": "Saudi Arabia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "India vs Saudi Arabia",
-      "startTime": "08:30:00 PM 09-08-2025"
+      "startTime": "08:30:00 PM 09-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/i0glKfDfSkmzLO-OIEm7kg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133196_english_hls_65865ta-di_h264/index.m3u8"
     },
     {
       "id": 129906,
@@ -56,34 +58,6 @@
       "startTime": "07:00:00 PM 09-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754789757~acl=/*~id=33170042234473971851737086229986~hmac=010935e401eef8b4b9fbcea13e53d8bb5874e5ac108f6366e91aac6fcba0b1db"
-    },
-    {
-      "id": 132478,
-      "event_category": "Cricket",
-      "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132478_5521_EDR_SDS_fc-Web.jpg",
-      "team_1": "East Delhi Riders",
-      "team_2": "South Delhi Superstarz",
-      "status": "LIVE",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "East Delhi Riders vs South Delhi Superstarz",
-      "startTime": "07:00:00 PM 09-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/V3LrNveSREGNJiWnFUPp2A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132478_english_hls_38332ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132442,
-      "event_category": "Cricket",
-      "title": "NPL Bears vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-      "team_1": "NPL Bears",
-      "team_2": "Pupkewitz Motors Wildcats",
-      "status": "LIVE",
-      "event_name": "Namibia T20, 2025",
-      "match_name": "NPL Bears vs Pupkewitz Motors Wildcats",
-      "startTime": "05:30:00 PM 09-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/-YYQy91FRP-MpmEj5G4UkA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132442_english_hls_56644ta-di_h264/index.m3u8"
     },
     {
       "id": 132762,
@@ -336,42 +310,6 @@
       "startTime": "07:00:00 AM 10-08-2025"
     },
     {
-      "id": 132413,
-      "event_category": "Cricket",
-      "title": "91 Yards Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132413_CASACARDS_APP.png",
-      "team_1": "91 Yards Club",
-      "team_2": "Bud Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "91 Yards Club vs Bud Cricket Club",
-      "startTime": "09:00:00 AM 10-08-2025"
-    },
-    {
-      "id": 132643,
-      "event_category": "Cricket",
-      "title": "Malacca vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
-      "team_1": "Malacca",
-      "team_2": "Penang",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Malacca vs Penang",
-      "startTime": "09:30:00 AM 10-08-2025"
-    },
-    {
-      "id": 132929,
-      "event_category": "Cricket",
-      "title": "Mysore Warriors Women vs Hubli Tigers Women (Maharani Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-      "team_1": "Mysore Warriors Women",
-      "team_2": "Hubli Tigers Women",
-      "status": "UPCOMING",
-      "event_name": "Maharani Trophy, 2025",
-      "match_name": "Mysore Warriors Women vs Hubli Tigers Women",
-      "startTime": "10:00:00 AM 10-08-2025"
-    },
-    {
       "id": 132263,
       "event_category": "Cricket",
       "title": "Trent Rockets Women vs Northern Superchargers Women (The Hundred Women, 2025)",
@@ -406,6 +344,42 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "West Delhi Lions vs East Delhi Riders",
       "startTime": "07:00:00 PM 10-08-2025"
+    },
+    {
+      "id": 132413,
+      "event_category": "Cricket",
+      "title": "91 Yards Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132413_CASACARDS_APP.png",
+      "team_1": "91 Yards Club",
+      "team_2": "Bud Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "91 Yards Club vs Bud Cricket Club",
+      "startTime": "09:00:00 AM 10-08-2025"
+    },
+    {
+      "id": 132643,
+      "event_category": "Cricket",
+      "title": "Malacca vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
+      "team_1": "Malacca",
+      "team_2": "Penang",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Malacca vs Penang",
+      "startTime": "09:30:00 AM 10-08-2025"
+    },
+    {
+      "id": 132929,
+      "event_category": "Cricket",
+      "title": "Mysore Warriors Women vs Hubli Tigers Women (Maharani Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+      "team_1": "Mysore Warriors Women",
+      "team_2": "Hubli Tigers Women",
+      "status": "UPCOMING",
+      "event_name": "Maharani Trophy, 2025",
+      "match_name": "Mysore Warriors Women vs Hubli Tigers Women",
+      "startTime": "10:00:00 AM 10-08-2025"
     },
     {
       "id": 132644,
@@ -490,6 +464,30 @@
       "event_name": "ECI Croatia-Cyprus, 2025",
       "match_name": "Croatia vs Cyprus",
       "startTime": "02:30:00 PM 10-08-2025"
+    },
+    {
+      "id": 133198,
+      "event_category": "Basketball",
+      "title": "Qatar vs Australia (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133198_5549_QAT_AUS_fc-Web.jpg",
+      "team_1": "Qatar",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Qatar vs Australia",
+      "startTime": "01:30:00 PM 10-08-2025"
+    },
+    {
+      "id": 133394,
+      "event_category": "Cricket",
+      "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/133394_CASACARDS_APP.png",
+      "team_1": "Croatia",
+      "team_2": "Cyprus",
+      "status": "UPCOMING",
+      "event_name": "ECI Croatia-Cyprus, 2025",
+      "match_name": "Croatia vs Cyprus",
+      "startTime": "04:45:00 PM 10-08-2025"
     }
   ]
 }
