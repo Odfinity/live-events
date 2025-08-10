@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 AM 10-08-2025",
+  "last update time": "12:08 PM 10-08-2025",
   "matches": [
     {
       "id": 133231,
@@ -160,13 +160,13 @@
     {
       "id": 133392,
       "event_category": "Cricket",
-      "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
+      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
       "src": "https://images.fancode.com/aig/match/v1/133392_CASACARDS_APP.png",
-      "team_1": "Croatia",
-      "team_2": "Cyprus",
+      "team_1": "Cyprus",
+      "team_2": "Croatia",
       "status": "UPCOMING",
       "event_name": "ECI Croatia-Cyprus, 2025",
-      "match_name": "Croatia vs Cyprus",
+      "match_name": "Cyprus vs Croatia",
       "startTime": "12:30:00 PM 10-08-2025"
     },
     {
@@ -254,18 +254,6 @@
       "startTime": "06:30:00 PM 10-08-2025"
     },
     {
-      "id": 131245,
-      "event_category": "Football",
-      "title": "Chelsea vs Milan (Club Friendlies 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131245_CASACARDS_APP.png",
-      "team_1": "Chelsea",
-      "team_2": "Milan",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Chelsea vs Milan",
-      "startTime": "07:30:00 PM 10-08-2025"
-    },
-    {
       "id": 132148,
       "event_category": "Cricket",
       "title": "Tally Rangers vs SBS CC (KCC T10 Summer League, 2025)",
@@ -276,6 +264,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Tally Rangers vs SBS CC",
       "startTime": "10:15:00 PM 10-08-2025"
+    },
+    {
+      "id": 131245,
+      "event_category": "Football",
+      "title": "Chelsea vs Milan (Club Friendlies 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131245_CASACARDS_APP.png",
+      "team_1": "Chelsea",
+      "team_2": "Milan",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Chelsea vs Milan",
+      "startTime": "07:30:00 PM 10-08-2025"
     },
     {
       "id": 131244,
@@ -410,16 +410,16 @@
       "startTime": "04:30:00 PM 10-08-2025"
     },
     {
-      "id": 131400,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
+      "id": 133246,
+      "event_category": "Motorsports",
+      "title": "Qualifying 2 vs Nurburgring (DTM Nurburgring 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Qualifying 2",
+      "team_2": "Nurburgring",
       "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "07:00:00 PM 10-08-2025"
+      "event_name": "DTM Nurburgring 2025",
+      "match_name": "Qualifying 2",
+      "startTime": "12:30:00 PM 10-08-2025"
     },
     {
       "id": 132415,
@@ -434,16 +434,16 @@
       "startTime": "09:00:00 AM 11-08-2025"
     },
     {
-      "id": 132481,
+      "id": 131400,
       "event_category": "Cricket",
-      "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
-      "team_1": "South Delhi Superstarz",
-      "team_2": "New Delhi Tigers",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
       "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "South Delhi Superstarz vs New Delhi Tigers",
-      "startTime": "02:00:00 PM 11-08-2025"
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "07:00:00 PM 10-08-2025"
     }
   ]
 }
