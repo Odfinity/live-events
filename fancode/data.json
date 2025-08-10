@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:26 PM 10-08-2025",
+  "last update time": "10:02 PM 10-08-2025",
   "matches": [
-    {
-      "id": 131245,
-      "event_category": "Football",
-      "title": "Chelsea vs Milan (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_old.jpg",
-      "team_1": "Chelsea",
-      "team_2": "Milan",
-      "status": "LIVE",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Chelsea vs Milan",
-      "startTime": "07:30:00 PM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/-BwFNkacQsKB5-ogEt55tg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131245_english_hls_17314ta-di_h264/index.m3u8"
-    },
     {
       "id": 131244,
       "event_category": "Football",
@@ -30,34 +16,6 @@
       "startTime": "09:00:00 PM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/sHKmRSUITne8ut4hASxAhg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132263,
-      "event_category": "Cricket",
-      "title": "Trent Rockets Women vs Northern Superchargers Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
-      "team_1": "Trent Rockets Women",
-      "team_2": "Northern Superchargers Women",
-      "status": "LIVE",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Trent Rockets Women vs Northern Superchargers Women",
-      "startTime": "07:00:00 PM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
-    },
-    {
-      "id": 132228,
-      "event_category": "Cricket",
-      "title": "Birmingham Phoenix vs Southern Brave (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-      "team_1": "Birmingham Phoenix",
-      "team_2": "Southern Brave",
-      "status": "LIVE",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Birmingham Phoenix vs Southern Brave",
-      "startTime": "07:00:00 PM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
     },
     {
       "id": 132480,
@@ -114,6 +72,20 @@
       "startTime": "08:30:00 PM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/GQsuEfwwSUuSjHzqOqyTlQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133200_english_hls_77409ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132148,
+      "event_category": "Cricket",
+      "title": "Tally Rangers vs SBS CC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "Tally Rangers",
+      "team_2": "SBS CC",
+      "status": "LIVE",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Tally Rangers vs SBS CC",
+      "startTime": "10:15:00 PM 10-08-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 131608,
@@ -244,26 +216,14 @@
     {
       "id": 132229,
       "event_category": "Cricket",
-      "title": "Trent Rockets vs Northern Superchargers (The Hundred, 2025)",
+      "title": "Northern Superchargers vs Trent Rockets (The Hundred, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
-      "team_1": "Trent Rockets",
-      "team_2": "Northern Superchargers",
+      "team_1": "Northern Superchargers",
+      "team_2": "Trent Rockets",
       "status": "UPCOMING",
       "event_name": "The Hundred, 2025",
-      "match_name": "Trent Rockets vs Northern Superchargers",
+      "match_name": "Northern Superchargers vs Trent Rockets",
       "startTime": "10:30:00 PM 10-08-2025"
-    },
-    {
-      "id": 132148,
-      "event_category": "Cricket",
-      "title": "Tally Rangers vs SBS CC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Tally Rangers",
-      "team_2": "SBS CC",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Tally Rangers vs SBS CC",
-      "startTime": "10:15:00 PM 10-08-2025"
     },
     {
       "id": 132481,
@@ -290,18 +250,6 @@
       "startTime": "03:15:00 PM 11-08-2025"
     },
     {
-      "id": 132149,
-      "event_category": "Cricket",
-      "title": "NCM Investment vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "NCM Investment",
-      "team_2": "Phoenix Cricketers",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "NCM Investment vs Phoenix Cricketers",
-      "startTime": "12:15:00 AM 11-08-2025"
-    },
-    {
       "id": 132482,
       "event_category": "Cricket",
       "title": "North Delhi Strikers vs West Delhi Lions (Delhi Premier League, 2025)",
@@ -326,16 +274,16 @@
       "startTime": "07:15:00 PM 11-08-2025"
     },
     {
-      "id": 132415,
+      "id": 132149,
       "event_category": "Cricket",
-      "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
-      "team_1": "City Cricket Club",
-      "team_2": "91 Yards Club",
+      "title": "NCM Investment vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "NCM Investment",
+      "team_2": "Phoenix Cricketers",
       "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "City Cricket Club vs 91 Yards Club",
-      "startTime": "09:00:00 AM 11-08-2025"
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "NCM Investment vs Phoenix Cricketers",
+      "startTime": "12:15:00 AM 11-08-2025"
     },
     {
       "id": 132264,
@@ -348,6 +296,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Manchester Originals Women vs London Spirit Women",
       "startTime": "07:30:00 PM 11-08-2025"
+    },
+    {
+      "id": 132415,
+      "event_category": "Cricket",
+      "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
+      "team_1": "City Cricket Club",
+      "team_2": "91 Yards Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "City Cricket Club vs 91 Yards Club",
+      "startTime": "09:00:00 AM 11-08-2025"
     },
     {
       "id": 133400,
@@ -422,18 +382,6 @@
       "startTime": "04:15:00 PM 11-08-2025"
     },
     {
-      "id": 133403,
-      "event_category": "Cricket",
-      "title": "Zagreb Sokol vs Rijeka Markhors (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Sokol",
-      "team_2": "Rijeka Markhors",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Sokol vs Rijeka Markhors",
-      "startTime": "06:15:00 PM 11-08-2025"
-    },
-    {
       "id": 132230,
       "event_category": "Cricket",
       "title": "Manchester Originals vs London Spirit (The Hundred, 2025)",
@@ -444,6 +392,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Manchester Originals vs London Spirit",
       "startTime": "11:00:00 PM 11-08-2025"
+    },
+    {
+      "id": 133403,
+      "event_category": "Cricket",
+      "title": "Zagreb Sokol vs Rijeka Markhors (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Sokol",
+      "team_2": "Rijeka Markhors",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Sokol vs Rijeka Markhors",
+      "startTime": "06:15:00 PM 11-08-2025"
     },
     {
       "id": 132766,
@@ -470,6 +430,18 @@
       "startTime": "04:30:00 PM 11-08-2025"
     },
     {
+      "id": 133404,
+      "event_category": "Cricket",
+      "title": "Zagreb Warriors vs Zagreb Assassins (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Warriors",
+      "team_2": "Zagreb Assassins",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Warriors vs Zagreb Assassins",
+      "startTime": "08:15:00 PM 11-08-2025"
+    },
+    {
       "id": 132077,
       "event_category": "Football",
       "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
@@ -480,6 +452,18 @@
       "event_name": "J League 2025",
       "match_name": "Cerezo Osaka vs Albirex Niigata",
       "startTime": "03:30:00 PM 11-08-2025"
+    },
+    {
+      "id": 133539,
+      "event_category": "Cricket",
+      "title": "Mumbai Stars vs Bengal Tigers (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Mumbai Stars",
+      "team_2": "Bengal Tigers",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Mumbai Stars vs Bengal Tigers",
+      "startTime": "05:00:00 PM 11-08-2025"
     }
   ]
 }
