@@ -1,8 +1,48 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:51 PM 10-08-2025",
+  "last update time": "07:16 PM 10-08-2025",
   "matches": [
+    {
+      "id": 131245,
+      "event_category": "Football",
+      "title": "Chelsea vs Milan (Club Friendlies 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_old.jpg",
+      "team_1": "Chelsea",
+      "team_2": "Milan",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Chelsea vs Milan",
+      "startTime": "07:30:00 PM 10-08-2025"
+    },
+    {
+      "id": 132263,
+      "event_category": "Cricket",
+      "title": "Trent Rockets Women vs Northern Superchargers Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
+      "team_1": "Trent Rockets Women",
+      "team_2": "Northern Superchargers Women",
+      "status": "LIVE",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Trent Rockets Women vs Northern Superchargers Women",
+      "startTime": "07:00:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
+    },
+    {
+      "id": 132228,
+      "event_category": "Cricket",
+      "title": "Birmingham Phoenix vs Southern Brave (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
+      "team_1": "Birmingham Phoenix",
+      "team_2": "Southern Brave",
+      "status": "LIVE",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Birmingham Phoenix vs Southern Brave",
+      "startTime": "07:00:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
+    },
     {
       "id": 132480,
       "event_category": "Cricket",
@@ -72,20 +112,6 @@
       "startTime": "07:00:00 PM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/1FPKT0X8Q-OmuUAWmNLtjQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131400_english_hls_30230ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133383,
-      "event_category": "Live events",
-      "title": "Day 2 vs Rajgir, Bihar (Asia Rugby U20 Men's & Women's Sevens)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Rajgir, Bihar",
-      "status": "LIVE",
-      "event_name": "Asia Rugby U20 Men's & Women's Sevens",
-      "match_name": "Day 2",
-      "startTime": "10:00:00 AM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/frbgehnvRpS3UcR5hHkG4Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8"
     },
     {
       "id": 132912,
@@ -172,30 +198,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133335_english_hls_12352ta-di_h264/index.m3u8"
     },
     {
-      "id": 132263,
-      "event_category": "Cricket",
-      "title": "Trent Rockets Women vs Northern Superchargers Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
-      "team_1": "Trent Rockets Women",
-      "team_2": "Northern Superchargers Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Trent Rockets Women vs Northern Superchargers Women",
-      "startTime": "07:00:00 PM 10-08-2025"
-    },
-    {
-      "id": 132228,
-      "event_category": "Cricket",
-      "title": "Birmingham Phoenix vs Southern Brave (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-      "team_1": "Birmingham Phoenix",
-      "team_2": "Southern Brave",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Birmingham Phoenix vs Southern Brave",
-      "startTime": "07:00:00 PM 10-08-2025"
-    },
-    {
       "id": 132229,
       "event_category": "Cricket",
       "title": "Trent Rockets vs Northern Superchargers (The Hundred, 2025)",
@@ -206,18 +208,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Trent Rockets vs Northern Superchargers",
       "startTime": "10:30:00 PM 10-08-2025"
-    },
-    {
-      "id": 131245,
-      "event_category": "Football",
-      "title": "Chelsea vs Milan (Club Friendlies 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_old.jpg",
-      "team_1": "Chelsea",
-      "team_2": "Milan",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Chelsea vs Milan",
-      "startTime": "07:30:00 PM 10-08-2025"
     },
     {
       "id": 132481,
@@ -364,18 +354,6 @@
       "startTime": "01:15:00 PM 11-08-2025"
     },
     {
-      "id": 132765,
-      "event_category": "Cricket",
-      "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
-      "team_1": "Amaravathi Royals",
-      "team_2": "Tungabhadra Warriors",
-      "status": "UPCOMING",
-      "event_name": "Andhra Premier League, 2025",
-      "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
-      "startTime": "01:30:00 PM 11-08-2025"
-    },
-    {
       "id": 132786,
       "event_category": "Cricket",
       "title": "Kalyani Bengaluru Blasters vs Mysore Warriors (Maharaja T20 Trophy, 2025)",
@@ -388,16 +366,16 @@
       "startTime": "07:15:00 PM 11-08-2025"
     },
     {
-      "id": 131608,
+      "id": 132765,
       "event_category": "Cricket",
-      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Pakistan Women",
+      "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+      "team_1": "Amaravathi Royals",
+      "team_2": "Tungabhadra Warriors",
       "status": "UPCOMING",
-      "event_name": "Pakistan Women tour of Ireland, 2025",
-      "match_name": "Ireland Women vs Pakistan Women",
-      "startTime": "08:30:00 PM 10-08-2025"
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
+      "startTime": "01:30:00 PM 11-08-2025"
     },
     {
       "id": 132264,
@@ -424,6 +402,18 @@
       "startTime": "02:15:00 PM 11-08-2025"
     },
     {
+      "id": 131608,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Pakistan Women",
+      "status": "UPCOMING",
+      "event_name": "Pakistan Women tour of Ireland, 2025",
+      "match_name": "Ireland Women vs Pakistan Women",
+      "startTime": "08:30:00 PM 10-08-2025"
+    },
+    {
       "id": 131638,
       "event_category": "Golf",
       "title": "Day 3 vs Bolingbrook Golf Club Chicago, USA (LIV Golf Chicago)",
@@ -446,6 +436,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Warriors vs Zagreb Assassins",
       "startTime": "04:15:00 PM 11-08-2025"
+    },
+    {
+      "id": 133252,
+      "event_category": "Basketball",
+      "title": "Chinese Taipei vs Jordan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+      "team_1": "Chinese Taipei",
+      "team_2": "Jordan",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Chinese Taipei vs Jordan",
+      "startTime": "04:30:00 PM 11-08-2025"
     }
   ]
 }
