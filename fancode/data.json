@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:23 PM 10-08-2025",
+  "last update time": "10:49 PM 10-08-2025",
   "matches": [
     {
       "id": 131244,
@@ -30,6 +30,20 @@
       "startTime": "07:00:00 PM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/XKIacJ0DSguH1WN4eHnQ_g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132480_english_hls_97484ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132229,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers vs Trent Rockets (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
+      "team_1": "Northern Superchargers",
+      "team_2": "Trent Rockets",
+      "status": "LIVE",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Northern Superchargers vs Trent Rockets",
+      "startTime": "10:30:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754888489~acl=/*~id=70118483450403454833330070097499~hmac=9018f3877d1bebe815ad1922d7ff8070c547d6f02ce573ddbb42de681b75155f"
     },
     {
       "id": 132764,
@@ -116,20 +130,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133333_english_hls_82298ta-di_h264/index.m3u8"
     },
     {
-      "id": 133005,
-      "event_category": "Golf",
-      "title": "Day 3 vs Centurion Club  (PIF Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-old-match-card.png",
-      "team_1": "Day 3",
-      "team_2": "Centurion Club ",
-      "status": "LIVE",
-      "event_name": "PIF Championship",
-      "match_name": "Day 3",
-      "startTime": "06:30:00 PM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/PhZXIlBxRqyR6AIaJ3tKJw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133005_english_hls_27437ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133334,
       "event_category": "Golf",
       "title": "Marquee Group - Day 4 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
@@ -200,18 +200,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133332_english_hls_38288ta-di_h264/index.m3u8"
     },
     {
-      "id": 132229,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers vs Trent Rockets (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
-      "team_1": "Northern Superchargers",
-      "team_2": "Trent Rockets",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Northern Superchargers vs Trent Rockets",
-      "startTime": "10:30:00 PM 10-08-2025"
-    },
-    {
       "id": 132481,
       "event_category": "Cricket",
       "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
@@ -234,6 +222,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Gulbarga Mystics vs Mangaluru Dragons",
       "startTime": "03:15:00 PM 11-08-2025"
+    },
+    {
+      "id": 133201,
+      "event_category": "Basketball",
+      "title": "Syria vs Iran (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133201_5549_SYR_IRN_fc-Web.jpg",
+      "team_1": "Syria",
+      "team_2": "Iran",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Syria vs Iran",
+      "startTime": "11:30:00 PM 10-08-2025"
     },
     {
       "id": 132482,
@@ -330,18 +330,6 @@
       "event_name": "Andhra Premier League, 2025",
       "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
       "startTime": "01:30:00 PM 11-08-2025"
-    },
-    {
-      "id": 133201,
-      "event_category": "Basketball",
-      "title": "Syria vs Iran (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133201_5549_SYR_IRN_fc-Web.jpg",
-      "team_1": "Syria",
-      "team_2": "Iran",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Syria vs Iran",
-      "startTime": "11:30:00 PM 10-08-2025"
     },
     {
       "id": 133401,
@@ -450,6 +438,54 @@
       "event_name": "J League 2025",
       "match_name": "Cerezo Osaka vs Albirex Niigata",
       "startTime": "03:30:00 PM 11-08-2025"
+    },
+    {
+      "id": 133539,
+      "event_category": "Cricket",
+      "title": "Mumbai Stars vs Bengal Tigers (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Mumbai Stars",
+      "team_2": "Bengal Tigers",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Mumbai Stars vs Bengal Tigers",
+      "startTime": "05:00:00 PM 11-08-2025"
+    },
+    {
+      "id": 132150,
+      "event_category": "Cricket",
+      "title": "CECC vs Royal Trivianz (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "CECC",
+      "team_2": "Royal Trivianz",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "CECC vs Royal Trivianz",
+      "startTime": "10:15:00 PM 11-08-2025"
+    },
+    {
+      "id": 133540,
+      "event_category": "Cricket",
+      "title": "Royal Challenger Delhi vs MP Spartan (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Royal Challenger Delhi",
+      "team_2": "MP Spartan",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Royal Challenger Delhi vs MP Spartan",
+      "startTime": "07:00:00 PM 11-08-2025"
+    },
+    {
+      "id": 133253,
+      "event_category": "Basketball",
+      "title": "Saudi Arabia vs Philippines (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+      "team_1": "Saudi Arabia",
+      "team_2": "Philippines",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Saudi Arabia vs Philippines",
+      "startTime": "09:30:00 PM 11-08-2025"
     }
   ]
 }
