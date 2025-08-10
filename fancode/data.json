@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 10-08-2025",
+  "last update time": "02:03 PM 10-08-2025",
   "matches": [
     {
       "id": 133231,
@@ -18,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133231_english_hls_16260ta-di_h264/index.m3u8"
     },
     {
-      "id": 132929,
+      "id": 132479,
       "event_category": "Cricket",
-      "title": "Hubli Tigers Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-      "team_1": "Hubli Tigers Women",
-      "team_2": "Mysore Warriors Women",
+      "title": "North Delhi Strikers vs Purani Delhi 6 (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132479_5521_PD_NDS_fc-Web.jpg",
+      "team_1": "North Delhi Strikers",
+      "team_2": "Purani Delhi 6",
       "status": "LIVE",
-      "event_name": "Maharani Trophy, 2025",
-      "match_name": "Hubli Tigers Women vs Mysore Warriors Women",
-      "startTime": "10:00:00 AM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YPEwHrSsSG-Hjsik7Xgepg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132929_english_hls_13383ta-di_h264/index.m3u8"
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "North Delhi Strikers vs Purani Delhi 6",
+      "startTime": "02:00:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ldFZh_LrQMKeTUJ5GlXHPA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132479_english_hls_10902ta-di_h264/index.m3u8"
     },
     {
       "id": 132644,
@@ -112,8 +112,8 @@
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "Qatar vs Australia",
       "startTime": "01:30:00 PM 10-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/_K8iSRrISHuW_reMoIv4dA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133198_english_hls_40604ta-di_h264/index.m3u8"
     },
     {
       "id": 133383,
@@ -128,18 +128,6 @@
       "startTime": "10:00:00 AM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/frbgehnvRpS3UcR5hHkG4Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132479,
-      "event_category": "Cricket",
-      "title": "North Delhi Strikers vs Purani Delhi 6 (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132479_5521_PD_NDS_fc-Web.jpg",
-      "team_1": "North Delhi Strikers",
-      "team_2": "Purani Delhi 6",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "North Delhi Strikers vs Purani Delhi 6",
-      "startTime": "02:00:00 PM 10-08-2025"
     },
     {
       "id": 132262,
@@ -204,14 +192,26 @@
     {
       "id": 133393,
       "event_category": "Cricket",
-      "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
+      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
       "src": "https://images.fancode.com/aig/match/v1/133393_CASACARDS_APP.png",
-      "team_1": "Croatia",
-      "team_2": "Cyprus",
+      "team_1": "Cyprus",
+      "team_2": "Croatia",
       "status": "UPCOMING",
       "event_name": "ECI Croatia-Cyprus, 2025",
-      "match_name": "Croatia vs Cyprus",
+      "match_name": "Cyprus vs Croatia",
       "startTime": "02:30:00 PM 10-08-2025"
+    },
+    {
+      "id": 132078,
+      "event_category": "Football",
+      "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_2": "Shimizu S-Pulse",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
+      "startTime": "03:00:00 PM 10-08-2025"
     },
     {
       "id": 133394,
@@ -346,30 +346,6 @@
       "startTime": "11:30:00 PM 10-08-2025"
     },
     {
-      "id": 132078,
-      "event_category": "Football",
-      "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_2": "Shimizu S-Pulse",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
-      "startTime": "03:00:00 PM 10-08-2025"
-    },
-    {
-      "id": 132075,
-      "event_category": "Football",
-      "title": "Machida Zelvia vs Vissel Kobe (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132075_CASACARDS_APP.png",
-      "team_1": "Machida Zelvia",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Machida Zelvia vs Vissel Kobe",
-      "startTime": "03:30:00 PM 10-08-2025"
-    },
-    {
       "id": 132481,
       "event_category": "Cricket",
       "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
@@ -380,18 +356,6 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "South Delhi Superstarz vs New Delhi Tigers",
       "startTime": "02:00:00 PM 11-08-2025"
-    },
-    {
-      "id": 131608,
-      "event_category": "Cricket",
-      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Pakistan Women",
-      "status": "UPCOMING",
-      "event_name": "Pakistan Women tour of Ireland, 2025",
-      "match_name": "Ireland Women vs Pakistan Women",
-      "startTime": "08:30:00 PM 10-08-2025"
     },
     {
       "id": 132415,
@@ -406,6 +370,30 @@
       "startTime": "09:00:00 AM 11-08-2025"
     },
     {
+      "id": 132075,
+      "event_category": "Football",
+      "title": "Machida Zelvia vs Vissel Kobe (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132075_CASACARDS_APP.png",
+      "team_1": "Machida Zelvia",
+      "team_2": "Vissel Kobe",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Machida Zelvia vs Vissel Kobe",
+      "startTime": "03:30:00 PM 10-08-2025"
+    },
+    {
+      "id": 131608,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Pakistan Women",
+      "status": "UPCOMING",
+      "event_name": "Pakistan Women tour of Ireland, 2025",
+      "match_name": "Ireland Women vs Pakistan Women",
+      "startTime": "08:30:00 PM 10-08-2025"
+    },
+    {
       "id": 132723,
       "event_category": "Football",
       "title": "Borussia Dortmund Women vs Juventus Femminile (Club Friendlies 2025)",
@@ -416,18 +404,6 @@
       "event_name": "Club Friendlies 2025",
       "match_name": "Borussia Dortmund Women vs Juventus Femminile",
       "startTime": "04:30:00 PM 10-08-2025"
-    },
-    {
-      "id": 131400,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "07:00:00 PM 10-08-2025"
     },
     {
       "id": 132785,
@@ -442,6 +418,18 @@
       "startTime": "03:15:00 PM 11-08-2025"
     },
     {
+      "id": 131400,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "07:00:00 PM 10-08-2025"
+    },
+    {
       "id": 133400,
       "event_category": "Cricket",
       "title": "Zagreb Warriors vs Zagreb Sokol (ECS Croatia, 2025)",
@@ -452,6 +440,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Warriors vs Zagreb Sokol",
       "startTime": "12:15:00 PM 11-08-2025"
+    },
+    {
+      "id": 132416,
+      "event_category": "Cricket",
+      "title": "Navarang Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132416_CASACARDS_APP.png",
+      "team_1": "Navarang Club",
+      "team_2": "Guwahati Giants",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Navarang Club vs Guwahati Giants",
+      "startTime": "01:15:00 PM 11-08-2025"
     }
   ]
 }
