@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:53 PM 10-08-2025",
+  "last update time": "05:09 PM 10-08-2025",
   "matches": [
     {
       "id": 132262,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132763_english_hls_7178ta-di_h264/index.m3u8"
     },
     {
-      "id": 133393,
-      "event_category": "Cricket",
-      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/133393_CASACARDS_APP.png",
-      "team_1": "Cyprus",
-      "team_2": "Croatia",
-      "status": "LIVE",
-      "event_name": "ECI Croatia-Cyprus, 2025",
-      "match_name": "Cyprus vs Croatia",
-      "startTime": "02:30:00 PM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9U7YdW-TTEaEaHK1HaAdMA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133393_english_hls_88140ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133394,
       "event_category": "Cricket",
       "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
@@ -86,20 +72,6 @@
       "startTime": "04:40:00 PM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/IKqv8RmFSL-sWzICX36tdg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133199_english_hls_82580ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132078,
-      "event_category": "Football",
-      "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_2": "Shimizu S-Pulse",
-      "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
-      "startTime": "03:00:00 PM 10-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132078_english_hls_71453ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132078_english_hls_71453ta-di_h264/index.m3u8"
     },
     {
       "id": 132075,
@@ -168,8 +140,8 @@
       "event_name": "Pro Panja League Season 2 2025",
       "match_name": "Day 6",
       "startTime": "05:00:00 PM 10-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/3tZq6X-4RzmEBvvyuobAkQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132194_english_hls_7258ta-di_h264/index.m3u8"
     },
     {
       "id": 133247,
@@ -182,8 +154,36 @@
       "event_name": "DTM Nurburgring 2025",
       "match_name": "Race 2",
       "startTime": "05:00:00 PM 10-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/6pbc7duGQYWKz0f628DTqA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133247_english_hls_15320ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133333,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+      "team_1": "Main Feed - Day 4",
+      "team_2": "TPC Southwind - Memphis, Tennessee ",
+      "status": "LIVE",
+      "event_name": "FedEx St. Jude Championship 2025",
+      "match_name": "Main Feed - Day 4",
+      "startTime": "05:15:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/A5LKeOvGRyyk3FSG6yf72Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133333_english_hls_82298ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132078,
+      "event_category": "Football",
+      "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_2": "Shimizu S-Pulse",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
+      "startTime": "03:00:00 PM 10-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132078_english_hls_71453ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132078_english_hls_71453ta-di_h264/index.m3u8"
     },
     {
       "id": 132263,
@@ -378,18 +378,6 @@
       "startTime": "09:00:00 AM 11-08-2025"
     },
     {
-      "id": 131608,
-      "event_category": "Cricket",
-      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Pakistan Women",
-      "status": "UPCOMING",
-      "event_name": "Pakistan Women tour of Ireland, 2025",
-      "match_name": "Ireland Women vs Pakistan Women",
-      "startTime": "08:30:00 PM 10-08-2025"
-    },
-    {
       "id": 133400,
       "event_category": "Cricket",
       "title": "Zagreb Warriors vs Zagreb Sokol (ECS Croatia, 2025)",
@@ -400,6 +388,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Warriors vs Zagreb Sokol",
       "startTime": "12:15:00 PM 11-08-2025"
+    },
+    {
+      "id": 131608,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Pakistan Women",
+      "status": "UPCOMING",
+      "event_name": "Pakistan Women tour of Ireland, 2025",
+      "match_name": "Ireland Women vs Pakistan Women",
+      "startTime": "08:30:00 PM 10-08-2025"
     },
     {
       "id": 132416,
@@ -426,18 +426,6 @@
       "startTime": "01:30:00 PM 11-08-2025"
     },
     {
-      "id": 133333,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
-      "team_1": "Main Feed - Day 4",
-      "team_2": "TPC Southwind - Memphis, Tennessee ",
-      "status": "UPCOMING",
-      "event_name": "FedEx St. Jude Championship 2025",
-      "match_name": "Main Feed - Day 4",
-      "startTime": "05:15:00 PM 10-08-2025"
-    },
-    {
       "id": 133005,
       "event_category": "Golf",
       "title": "Day 3 vs Centurion Club  (PIF Championship)",
@@ -460,6 +448,30 @@
       "event_name": "Pakistan tour of West Indies, 2025",
       "match_name": "West Indies vs Pakistan",
       "startTime": "07:00:00 PM 10-08-2025"
+    },
+    {
+      "id": 133401,
+      "event_category": "Cricket",
+      "title": "Zagreb Sokol vs Rijeka Markhors (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Sokol",
+      "team_2": "Rijeka Markhors",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Sokol vs Rijeka Markhors",
+      "startTime": "02:15:00 PM 11-08-2025"
+    },
+    {
+      "id": 132482,
+      "event_category": "Cricket",
+      "title": "North Delhi Strikers vs West Delhi Lions (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132482_5521_NDS_WDL_fc-Web.jpg",
+      "team_1": "North Delhi Strikers",
+      "team_2": "West Delhi Lions",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "North Delhi Strikers vs West Delhi Lions",
+      "startTime": "07:00:00 PM 11-08-2025"
     }
   ]
 }
