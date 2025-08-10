@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:08 PM 10-08-2025",
+  "last update time": "12:26 PM 10-08-2025",
   "matches": [
     {
       "id": 133231,
@@ -70,6 +70,20 @@
       "startTime": "11:30:00 AM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/t6iP3szNT8CHSv_QGexnCQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132644_english_hls_31531ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133392,
+      "event_category": "Cricket",
+      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/133392_CASACARDS_APP.png",
+      "team_1": "Cyprus",
+      "team_2": "Croatia",
+      "status": "LIVE",
+      "event_name": "ECI Croatia-Cyprus, 2025",
+      "match_name": "Cyprus vs Croatia",
+      "startTime": "12:30:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/8ZcChO99QG-T2RbMZoT1lw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133392_english_hls_37703ta-di_h264/index.m3u8"
     },
     {
       "id": 133383,
@@ -156,18 +170,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Trent Rockets vs Northern Superchargers",
       "startTime": "10:30:00 PM 10-08-2025"
-    },
-    {
-      "id": 133392,
-      "event_category": "Cricket",
-      "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/133392_CASACARDS_APP.png",
-      "team_1": "Cyprus",
-      "team_2": "Croatia",
-      "status": "UPCOMING",
-      "event_name": "ECI Croatia-Cyprus, 2025",
-      "match_name": "Cyprus vs Croatia",
-      "startTime": "12:30:00 PM 10-08-2025"
     },
     {
       "id": 132443,
@@ -410,18 +412,6 @@
       "startTime": "04:30:00 PM 10-08-2025"
     },
     {
-      "id": 133246,
-      "event_category": "Motorsports",
-      "title": "Qualifying 2 vs Nurburgring (DTM Nurburgring 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Qualifying 2",
-      "team_2": "Nurburgring",
-      "status": "UPCOMING",
-      "event_name": "DTM Nurburgring 2025",
-      "match_name": "Qualifying 2",
-      "startTime": "12:30:00 PM 10-08-2025"
-    },
-    {
       "id": 132415,
       "event_category": "Cricket",
       "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
@@ -434,16 +424,30 @@
       "startTime": "09:00:00 AM 11-08-2025"
     },
     {
-      "id": 131400,
+      "id": 133246,
+      "event_category": "Motorsports",
+      "title": "Qualifying 2 vs Nurburgring (DTM Nurburgring 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Qualifying 2",
+      "team_2": "Nurburgring",
+      "status": "LIVE",
+      "event_name": "DTM Nurburgring 2025",
+      "match_name": "Qualifying 2",
+      "startTime": "12:30:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/AutEZlSpTYyTZHuFDSza7w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133246_english_hls_7646ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132481,
       "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
+      "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
+      "team_1": "South Delhi Superstarz",
+      "team_2": "New Delhi Tigers",
       "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "07:00:00 PM 10-08-2025"
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "South Delhi Superstarz vs New Delhi Tigers",
+      "startTime": "02:00:00 PM 11-08-2025"
     }
   ]
 }
