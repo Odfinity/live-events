@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 10-08-2025",
+  "last update time": "03:58 PM 10-08-2025",
   "matches": [
     {
       "id": 133231,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133231_english_hls_16260ta-di_h264/index.m3u8"
     },
     {
+      "id": 132262,
+      "event_category": "Cricket",
+      "title": "Southern Brave Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132262_5506_SOB-W_BPH-W_Fc-Web.jpg",
+      "team_1": "Southern Brave Women",
+      "team_2": "Birmingham Phoenix Women",
+      "status": "LIVE",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Southern Brave Women vs Birmingham Phoenix Women",
+      "startTime": "03:30:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754863407~acl=/*~id=20790721127111472270431789183528~hmac=3dc1aeafc438b28c9e82d0bae6a64745bad6a9ab2fb95d8b459daea3790b6bf6"
+    },
+    {
       "id": 132479,
       "event_category": "Cricket",
       "title": "North Delhi Strikers vs Purani Delhi 6 (Delhi Premier League, 2025)",
@@ -30,20 +44,6 @@
       "startTime": "02:00:00 PM 10-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ldFZh_LrQMKeTUJ5GlXHPA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132479_english_hls_10902ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132644,
-      "event_category": "Cricket",
-      "title": "Kuala Lumpur vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",
-      "team_1": "Kuala Lumpur",
-      "team_2": "Selangor",
-      "status": "LIVE",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Kuala Lumpur vs Selangor",
-      "startTime": "11:30:00 AM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/t6iP3szNT8CHSv_QGexnCQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132644_english_hls_31531ta-di_h264/index.m3u8"
     },
     {
       "id": 132443,
@@ -102,20 +102,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133393_english_hls_88140ta-di_h264/index.m3u8"
     },
     {
-      "id": 133198,
-      "event_category": "Basketball",
-      "title": "Qatar vs Australia (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133198_5549_QAT_AUS_fc-Web.jpg",
-      "team_1": "Qatar",
-      "team_2": "Australia",
-      "status": "LIVE",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Qatar vs Australia",
-      "startTime": "01:30:00 PM 10-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/_K8iSRrISHuW_reMoIv4dA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133198_english_hls_40604ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132078,
       "event_category": "Football",
       "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
@@ -158,16 +144,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8"
     },
     {
-      "id": 132262,
-      "event_category": "Cricket",
-      "title": "Southern Brave Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132262_5506_SOB-W_BPH-W_Fc-Web.jpg",
-      "team_1": "Southern Brave Women",
-      "team_2": "Birmingham Phoenix Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Southern Brave Women vs Birmingham Phoenix Women",
-      "startTime": "03:30:00 PM 10-08-2025"
+      "id": 132912,
+      "event_category": "Golf",
+      "title": "Day 4 vs Aberdeenshire, Scotland (Nexo Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nexo-Championship-2025_match-card.jpg",
+      "team_1": "Day 4",
+      "team_2": "Aberdeenshire, Scotland",
+      "status": "LIVE",
+      "event_name": "Nexo Championship 2025",
+      "match_name": "Day 4",
+      "startTime": "04:00:00 PM 10-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/pVfUKeL_SQCw8sc-Zl1K2g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132912_english_hls_21579ta-di_h264/index.m3u8"
     },
     {
       "id": 132263,
@@ -230,6 +218,30 @@
       "startTime": "04:45:00 PM 10-08-2025"
     },
     {
+      "id": 133199,
+      "event_category": "Basketball",
+      "title": "Guam vs Japan (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133199_5549_GUA_JPN_fc-Web.jpg",
+      "team_1": "Guam",
+      "team_2": "Japan",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Guam vs Japan",
+      "startTime": "04:40:00 PM 10-08-2025"
+    },
+    {
+      "id": 132723,
+      "event_category": "Football",
+      "title": "Borussia Dortmund Women vs Juventus Femminile (Club Friendlies 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132723_CASACARDS_APP.png",
+      "team_1": "Borussia Dortmund Women",
+      "team_2": "Juventus Femminile",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Borussia Dortmund Women vs Juventus Femminile",
+      "startTime": "04:30:00 PM 10-08-2025"
+    },
+    {
       "id": 132444,
       "event_category": "Cricket",
       "title": "Paratus Jets vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
@@ -266,18 +278,6 @@
       "startTime": "10:15:00 PM 10-08-2025"
     },
     {
-      "id": 131245,
-      "event_category": "Football",
-      "title": "Chelsea vs Milan (Club Friendlies 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/131245_CASACARDS_APP.png",
-      "team_1": "Chelsea",
-      "team_2": "Milan",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Chelsea vs Milan",
-      "startTime": "07:30:00 PM 10-08-2025"
-    },
-    {
       "id": 132149,
       "event_category": "Cricket",
       "title": "NCM Investment vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
@@ -288,6 +288,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "NCM Investment vs Phoenix Cricketers",
       "startTime": "12:15:00 AM 11-08-2025"
+    },
+    {
+      "id": 131245,
+      "event_category": "Football",
+      "title": "Chelsea vs Milan (Club Friendlies 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/131245_CASACARDS_APP.png",
+      "team_1": "Chelsea",
+      "team_2": "Milan",
+      "status": "UPCOMING",
+      "event_name": "Club Friendlies 2025",
+      "match_name": "Chelsea vs Milan",
+      "startTime": "07:30:00 PM 10-08-2025"
     },
     {
       "id": 131244,
@@ -324,18 +336,6 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "South Delhi Superstarz vs New Delhi Tigers",
       "startTime": "02:00:00 PM 11-08-2025"
-    },
-    {
-      "id": 133199,
-      "event_category": "Basketball",
-      "title": "Guam vs Japan (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133199_5549_GUA_JPN_fc-Web.jpg",
-      "team_1": "Guam",
-      "team_2": "Japan",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Guam vs Japan",
-      "startTime": "04:40:00 PM 10-08-2025"
     },
     {
       "id": 133200,
@@ -398,18 +398,6 @@
       "startTime": "08:30:00 PM 10-08-2025"
     },
     {
-      "id": 132723,
-      "event_category": "Football",
-      "title": "Borussia Dortmund Women vs Juventus Femminile (Club Friendlies 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132723_CASACARDS_APP.png",
-      "team_1": "Borussia Dortmund Women",
-      "team_2": "Juventus Femminile",
-      "status": "UPCOMING",
-      "event_name": "Club Friendlies 2025",
-      "match_name": "Borussia Dortmund Women vs Juventus Femminile",
-      "startTime": "04:30:00 PM 10-08-2025"
-    },
-    {
       "id": 133400,
       "event_category": "Cricket",
       "title": "Zagreb Warriors vs Zagreb Sokol (ECS Croatia, 2025)",
@@ -420,18 +408,6 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Warriors vs Zagreb Sokol",
       "startTime": "12:15:00 PM 11-08-2025"
-    },
-    {
-      "id": 132912,
-      "event_category": "Golf",
-      "title": "Day 4 vs Aberdeenshire, Scotland (Nexo Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nexo-Championship-2025_match-card.jpg",
-      "team_1": "Day 4",
-      "team_2": "Aberdeenshire, Scotland",
-      "status": "UPCOMING",
-      "event_name": "Nexo Championship 2025",
-      "match_name": "Day 4",
-      "startTime": "04:00:00 PM 10-08-2025"
     },
     {
       "id": 131400,
@@ -456,6 +432,30 @@
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
       "match_name": "Navarang Club vs Guwahati Giants",
       "startTime": "01:15:00 PM 11-08-2025"
+    },
+    {
+      "id": 132765,
+      "event_category": "Cricket",
+      "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+      "team_1": "Amaravathi Royals",
+      "team_2": "Tungabhadra Warriors",
+      "status": "UPCOMING",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
+      "startTime": "01:30:00 PM 11-08-2025"
+    },
+    {
+      "id": 133401,
+      "event_category": "Cricket",
+      "title": "Zagreb Sokol vs Rijeka Markhors (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Sokol",
+      "team_2": "Rijeka Markhors",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Sokol vs Rijeka Markhors",
+      "startTime": "02:15:00 PM 11-08-2025"
     }
   ]
 }
