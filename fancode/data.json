@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:58 PM 11-08-2025",
+  "last update time": "01:17 PM 11-08-2025",
   "matches": [
     {
       "id": 133400,
@@ -16,6 +16,20 @@
       "startTime": "12:15:00 PM 11-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/QbCVZrPgSqeoJniz6aA9pg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133400_english_hls_40528ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132416,
+      "event_category": "Cricket",
+      "title": "Navarang Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132416_CASACARDS_APP.png",
+      "team_1": "Navarang Club",
+      "team_2": "Guwahati Giants",
+      "status": "LIVE",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Navarang Club vs Guwahati Giants",
+      "startTime": "01:15:00 PM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RaXxoHMsRiKFJPRwU0adTA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132416_english_hls_3331ta-di_h264/index.m3u8"
     },
     {
       "id": 133180,
@@ -104,28 +118,18 @@
       "startTime": "11:00:00 PM 11-08-2025"
     },
     {
-      "id": 132416,
-      "event_category": "Cricket",
-      "title": "Navarang Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132416_CASACARDS_APP.png",
-      "team_1": "Navarang Club",
-      "team_2": "Guwahati Giants",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Navarang Club vs Guwahati Giants",
-      "startTime": "01:15:00 PM 11-08-2025"
-    },
-    {
       "id": 132765,
       "event_category": "Cricket",
-      "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+      "title": "Tungabhadra Warriors vs Amaravathi Royals (Andhra Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
-      "team_1": "Amaravathi Royals",
-      "team_2": "Tungabhadra Warriors",
-      "status": "UPCOMING",
+      "team_1": "Tungabhadra Warriors",
+      "team_2": "Amaravathi Royals",
+      "status": "LIVE",
       "event_name": "Andhra Premier League, 2025",
-      "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
-      "startTime": "01:30:00 PM 11-08-2025"
+      "match_name": "Tungabhadra Warriors vs Amaravathi Royals",
+      "startTime": "01:30:00 PM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/u_qxbky2T7-3w1g5e1dEaA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132765_english_hls_65045ta-di_h264/index.m3u8"
     },
     {
       "id": 133401,
@@ -296,18 +300,6 @@
       "startTime": "03:30:00 PM 11-08-2025"
     },
     {
-      "id": 132417,
-      "event_category": "Cricket",
-      "title": "Gauhati Town Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
-      "team_1": "Gauhati Town Club",
-      "team_2": "City Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Gauhati Town Club vs City Cricket Club",
-      "startTime": "09:00:00 AM 12-08-2025"
-    },
-    {
       "id": 132483,
       "event_category": "Cricket",
       "title": "Outer Delhi Warriors vs Central Delhi Kings (Delhi Premier League, 2025)",
@@ -318,6 +310,18 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Outer Delhi Warriors vs Central Delhi Kings",
       "startTime": "02:00:00 PM 12-08-2025"
+    },
+    {
+      "id": 132417,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
+      "team_1": "Gauhati Town Club",
+      "team_2": "City Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Gauhati Town Club vs City Cricket Club",
+      "startTime": "09:00:00 AM 12-08-2025"
     },
     {
       "id": 132787,
