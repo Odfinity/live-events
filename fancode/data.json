@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:22 PM 11-08-2025",
+  "last update time": "12:58 PM 11-08-2025",
   "matches": [
-    {
-      "id": 132415,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
-      "team_1": "City Cricket Club",
-      "team_2": "91 Yards Club",
-      "status": "LIVE",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "City Cricket Club vs 91 Yards Club",
-      "startTime": "09:00:00 AM 11-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/RgOrApnuSW6pBWgBO65Vdw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132415_english_hls_38916ta-di_h264/index.m3u8"
-    },
     {
       "id": 133400,
       "event_category": "Cricket",
@@ -30,20 +16,6 @@
       "startTime": "12:15:00 PM 11-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/QbCVZrPgSqeoJniz6aA9pg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133400_english_hls_40528ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133179,
-      "event_category": "Live events",
-      "title": "Third Place & Finals vs Mumbai (Dream Sports MSSA Football Boys U16 Div I)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Boys_match-card.jpg",
-      "team_1": "Third Place & Finals",
-      "team_2": "Mumbai",
-      "status": "LIVE",
-      "event_name": "Dream Sports MSSA Football Boys U16 Div I",
-      "match_name": "Third Place & Finals",
-      "startTime": "10:00:00 AM 11-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/SniNLMWaT1yWoI66k-ZomQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133179_english_hls_19664ta-di_h264/index.m3u8"
     },
     {
       "id": 133180,
@@ -279,7 +251,7 @@
       "id": 133252,
       "event_category": "Basketball",
       "title": "Chinese Taipei vs Jordan (FIBA Asia Cup, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/133252_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Taipei-vs-Jordan-old.jpg",
       "team_1": "Chinese Taipei",
       "team_2": "Jordan",
       "status": "UPCOMING",
@@ -291,7 +263,7 @@
       "id": 133253,
       "event_category": "Basketball",
       "title": "Saudi Arabia vs Philippines (FIBA Asia Cup, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/133253_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Saudi-Arabia-vs-Philippines-old.jpg",
       "team_1": "Saudi Arabia",
       "team_2": "Philippines",
       "status": "UPCOMING",
@@ -309,7 +281,7 @@
       "status": "UPCOMING",
       "event_name": "MCA Men's T20 Inter-State Championship, 2025",
       "match_name": "Kuala Lumpur vs Johor",
-      "startTime": "07:30:00 AM 12-08-2025"
+      "startTime": "07:00:00 AM 12-08-2025"
     },
     {
       "id": 132077,
@@ -444,6 +416,18 @@
       "startTime": "05:00:00 PM 11-08-2025"
     },
     {
+      "id": 132484,
+      "event_category": "Cricket",
+      "title": "Purani Delhi 6 vs East Delhi Riders (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
+      "team_1": "Purani Delhi 6",
+      "team_2": "East Delhi Riders",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Purani Delhi 6 vs East Delhi Riders",
+      "startTime": "07:00:00 PM 12-08-2025"
+    },
+    {
       "id": 133407,
       "event_category": "Cricket",
       "title": "Zagreb Warriors vs Rijeka Markhors (ECS Croatia, 2025)",
@@ -456,16 +440,28 @@
       "startTime": "04:15:00 PM 12-08-2025"
     },
     {
-      "id": 132484,
+      "id": 132788,
       "event_category": "Cricket",
-      "title": "Purani Delhi 6 vs East Delhi Riders (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
-      "team_1": "Purani Delhi 6",
-      "team_2": "East Delhi Riders",
+      "title": "Mysore Warriors vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132788_5530_MW_GMY_fc-Web.jpg",
+      "team_1": "Mysore Warriors",
+      "team_2": "Gulbarga Mystics",
       "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Purani Delhi 6 vs East Delhi Riders",
-      "startTime": "07:00:00 PM 12-08-2025"
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Mysore Warriors vs Gulbarga Mystics",
+      "startTime": "07:15:00 PM 12-08-2025"
+    },
+    {
+      "id": 132265,
+      "event_category": "Cricket",
+      "title": "Birmingham Phoenix Women vs Oval Invincibles Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132265_5506_BPH-W_OVI-W_Fc-Web.jpg",
+      "team_1": "Birmingham Phoenix Women",
+      "team_2": "Oval Invincibles Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Birmingham Phoenix Women vs Oval Invincibles Women",
+      "startTime": "07:30:00 PM 12-08-2025"
     }
   ]
 }
