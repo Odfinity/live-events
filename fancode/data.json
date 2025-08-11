@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:29 PM 11-08-2025",
+  "last update time": "02:10 PM 11-08-2025",
   "matches": [
+    {
+      "id": 132481,
+      "event_category": "Cricket",
+      "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
+      "team_1": "New Delhi Tigers",
+      "team_2": "South Delhi Superstarz",
+      "status": "LIVE",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "New Delhi Tigers vs South Delhi Superstarz",
+      "startTime": "02:00:00 PM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eNxdS5kFSKeubID5o0mtWg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132481_english_hls_94018ta-di_h264/index.m3u8"
+    },
     {
       "id": 133400,
       "event_category": "Cricket",
@@ -46,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132765_english_hls_65045ta-di_h264/index.m3u8"
     },
     {
+      "id": 133401,
+      "event_category": "Cricket",
+      "title": "Rijeka Markhors vs Zagreb Sokol (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Rijeka Markhors",
+      "team_2": "Zagreb Sokol",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Rijeka Markhors vs Zagreb Sokol",
+      "startTime": "02:15:00 PM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Nha_-qq2TZmVndvUaj61Ag/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133401_english_hls_22476ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133180,
       "event_category": "Live events",
       "title": "Semi-Finals vs Mumbai (Dream Sports MSSA Football Girls U16 Div I)",
@@ -58,18 +86,6 @@
       "startTime": "12:00:00 PM 11-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/65YEtddFRHiANFu8-oDvBw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133180_english_hls_6671ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132481,
-      "event_category": "Cricket",
-      "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
-      "team_1": "New Delhi Tigers",
-      "team_2": "South Delhi Superstarz",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "New Delhi Tigers vs South Delhi Superstarz",
-      "startTime": "02:00:00 PM 11-08-2025"
     },
     {
       "id": 132785,
@@ -132,18 +148,6 @@
       "startTime": "11:00:00 PM 11-08-2025"
     },
     {
-      "id": 133401,
-      "event_category": "Cricket",
-      "title": "Rijeka Markhors vs Zagreb Sokol (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Rijeka Markhors",
-      "team_2": "Zagreb Sokol",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Rijeka Markhors vs Zagreb Sokol",
-      "startTime": "02:15:00 PM 11-08-2025"
-    },
-    {
       "id": 133402,
       "event_category": "Cricket",
       "title": "Zagreb Warriors vs Zagreb Assassins (ECS Croatia, 2025)",
@@ -159,7 +163,7 @@
       "id": 133539,
       "event_category": "Cricket",
       "title": "Mumbai Stars vs Bengal Tigers (LEGEN‑Z T10 League)",
-      "src": "https://images.fancode.com/aig/match/v1/133539_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133374_5560_MUM_BT_fc-Web.jpg",
       "team_1": "Mumbai Stars",
       "team_2": "Bengal Tigers",
       "status": "UPCOMING",
@@ -195,7 +199,7 @@
       "id": 133540,
       "event_category": "Cricket",
       "title": "Royal Challenger Delhi vs MP Spartan (LEGEN‑Z T10 League)",
-      "src": "https://images.fancode.com/aig/match/v1/133540_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133377_5560_MPS_RCD_fc-Web.jpg",
       "team_1": "Royal Challenger Delhi",
       "team_2": "MP Spartan",
       "status": "UPCOMING",
@@ -219,7 +223,7 @@
       "id": 133541,
       "event_category": "Cricket",
       "title": "Southern United vs Rajasthan Raiders (LEGEN‑Z T10 League)",
-      "src": "https://images.fancode.com/aig/match/v1/133541_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133371_5560_SU_RAJ_fc-Web.jpg",
       "team_1": "Southern United",
       "team_2": "Rajasthan Raiders",
       "status": "UPCOMING",
@@ -300,18 +304,6 @@
       "startTime": "02:00:00 PM 12-08-2025"
     },
     {
-      "id": 132077,
-      "event_category": "Football",
-      "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
-      "team_1": "Cerezo Osaka",
-      "team_2": "Albirex Niigata",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Cerezo Osaka vs Albirex Niigata",
-      "startTime": "03:30:00 PM 11-08-2025"
-    },
-    {
       "id": 132417,
       "event_category": "Cricket",
       "title": "Gauhati Town Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
@@ -322,6 +314,18 @@
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
       "match_name": "Gauhati Town Club vs City Cricket Club",
       "startTime": "09:00:00 AM 12-08-2025"
+    },
+    {
+      "id": 132077,
+      "event_category": "Football",
+      "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
+      "team_1": "Cerezo Osaka",
+      "team_2": "Albirex Niigata",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Cerezo Osaka vs Albirex Niigata",
+      "startTime": "03:30:00 PM 11-08-2025"
     },
     {
       "id": 132787,
@@ -399,7 +403,7 @@
       "id": 133542,
       "event_category": "Cricket",
       "title": "Bengal Tigers vs MP Spartan (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133369_5560_BT_MPS_fc-Web.jpg",
       "team_1": "Bengal Tigers",
       "team_2": "MP Spartan",
       "status": "UPCOMING",
@@ -420,16 +424,16 @@
       "startTime": "07:00:00 PM 12-08-2025"
     },
     {
-      "id": 132196,
-      "event_category": "Arm Wrestling",
-      "title": "Day 7 vs India (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-      "team_1": "Day 7",
-      "team_2": "India",
+      "id": 132788,
+      "event_category": "Cricket",
+      "title": "Mysore Warriors vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132788_5530_MW_GMY_fc-Web.jpg",
+      "team_1": "Mysore Warriors",
+      "team_2": "Gulbarga Mystics",
       "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 7",
-      "startTime": "05:00:00 PM 11-08-2025"
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Mysore Warriors vs Gulbarga Mystics",
+      "startTime": "07:15:00 PM 12-08-2025"
     },
     {
       "id": 133407,
@@ -444,18 +448,6 @@
       "startTime": "04:15:00 PM 12-08-2025"
     },
     {
-      "id": 132788,
-      "event_category": "Cricket",
-      "title": "Mysore Warriors vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132788_5530_MW_GMY_fc-Web.jpg",
-      "team_1": "Mysore Warriors",
-      "team_2": "Gulbarga Mystics",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Mysore Warriors vs Gulbarga Mystics",
-      "startTime": "07:15:00 PM 12-08-2025"
-    },
-    {
       "id": 132265,
       "event_category": "Cricket",
       "title": "Birmingham Phoenix Women vs Oval Invincibles Women (The Hundred Women, 2025)",
@@ -466,6 +458,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Birmingham Phoenix Women vs Oval Invincibles Women",
       "startTime": "07:30:00 PM 12-08-2025"
+    },
+    {
+      "id": 132196,
+      "event_category": "Arm Wrestling",
+      "title": "Day 7 vs India (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+      "team_1": "Day 7",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 7",
+      "startTime": "05:00:00 PM 11-08-2025"
     }
   ]
 }
