@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:13 PM 11-08-2025",
+  "last update time": "03:27 PM 11-08-2025",
   "matches": [
     {
       "id": 132481,
@@ -74,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133401_english_hls_22476ta-di_h264/index.m3u8"
     },
     {
+      "id": 132077,
+      "event_category": "Football",
+      "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
+      "team_1": "Cerezo Osaka",
+      "team_2": "Albirex Niigata",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Cerezo Osaka vs Albirex Niigata",
+      "startTime": "03:30:00 PM 11-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132077_english_hls_29859ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132077_english_hls_29859ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132482,
       "event_category": "Cricket",
       "title": "North Delhi Strikers vs West Delhi Lions (Delhi Premier League, 2025)",
@@ -122,27 +136,15 @@
       "startTime": "11:00:00 PM 11-08-2025"
     },
     {
-      "id": 132077,
-      "event_category": "Football",
-      "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
-      "team_1": "Cerezo Osaka",
-      "team_2": "Albirex Niigata",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Cerezo Osaka vs Albirex Niigata",
-      "startTime": "03:30:00 PM 11-08-2025"
-    },
-    {
       "id": 133402,
       "event_category": "Cricket",
-      "title": "Zagreb Warriors vs Zagreb Assassins (ECS Croatia, 2025)",
+      "title": "Zagreb Assassins vs Zagreb Warriors (ECS Croatia, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Warriors",
-      "team_2": "Zagreb Assassins",
+      "team_1": "Zagreb Assassins",
+      "team_2": "Zagreb Warriors",
       "status": "UPCOMING",
       "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Warriors vs Zagreb Assassins",
+      "match_name": "Zagreb Assassins vs Zagreb Warriors",
       "startTime": "04:15:00 PM 11-08-2025"
     },
     {
@@ -266,18 +268,6 @@
       "startTime": "04:30:00 PM 11-08-2025"
     },
     {
-      "id": 133253,
-      "event_category": "Basketball",
-      "title": "Saudi Arabia vs Philippines (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Saudi-Arabia-vs-Philippines-old.jpg",
-      "team_1": "Saudi Arabia",
-      "team_2": "Philippines",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Saudi Arabia vs Philippines",
-      "startTime": "09:30:00 PM 11-08-2025"
-    },
-    {
       "id": 132645,
       "event_category": "Cricket",
       "title": "Kuala Lumpur vs Johor (MCA Men's T20 Inter-State Championship, 2025)",
@@ -290,16 +280,16 @@
       "startTime": "07:00:00 AM 12-08-2025"
     },
     {
-      "id": 132417,
-      "event_category": "Cricket",
-      "title": "Gauhati Town Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
-      "team_1": "Gauhati Town Club",
-      "team_2": "City Cricket Club",
+      "id": 133253,
+      "event_category": "Basketball",
+      "title": "Saudi Arabia vs Philippines (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Saudi-Arabia-vs-Philippines-old.jpg",
+      "team_1": "Saudi Arabia",
+      "team_2": "Philippines",
       "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Gauhati Town Club vs City Cricket Club",
-      "startTime": "09:00:00 AM 12-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Saudi Arabia vs Philippines",
+      "startTime": "09:30:00 PM 11-08-2025"
     },
     {
       "id": 132787,
@@ -312,6 +302,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Hubli Tigers vs Shivamogga Lions",
       "startTime": "03:15:00 PM 12-08-2025"
+    },
+    {
+      "id": 132417,
+      "event_category": "Cricket",
+      "title": "Gauhati Town Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
+      "team_1": "Gauhati Town Club",
+      "team_2": "City Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Gauhati Town Club vs City Cricket Club",
+      "startTime": "09:00:00 AM 12-08-2025"
     },
     {
       "id": 132646,
