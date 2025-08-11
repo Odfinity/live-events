@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:45 AM 11-08-2025",
+  "last update time": "12:22 PM 11-08-2025",
   "matches": [
     {
       "id": 132415,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132415_english_hls_38916ta-di_h264/index.m3u8"
     },
     {
+      "id": 133400,
+      "event_category": "Cricket",
+      "title": "Zagreb Sokol vs Zagreb Warriors (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Sokol",
+      "team_2": "Zagreb Warriors",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Sokol vs Zagreb Warriors",
+      "startTime": "12:15:00 PM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/QbCVZrPgSqeoJniz6aA9pg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133400_english_hls_40528ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133179,
       "event_category": "Live events",
       "title": "Third Place & Finals vs Mumbai (Dream Sports MSSA Football Boys U16 Div I)",
@@ -30,6 +44,20 @@
       "startTime": "10:00:00 AM 11-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/SniNLMWaT1yWoI66k-ZomQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133179_english_hls_19664ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133180,
+      "event_category": "Live events",
+      "title": "Semi-Finals vs Mumbai (Dream Sports MSSA Football Girls U16 Div I)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Girls_match-card.jpg",
+      "team_1": "Semi-Finals",
+      "team_2": "Mumbai",
+      "status": "LIVE",
+      "event_name": "Dream Sports MSSA Football Girls U16 Div I",
+      "match_name": "Semi-Finals",
+      "startTime": "12:00:00 PM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/65YEtddFRHiANFu8-oDvBw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133180_english_hls_6671ta-di_h264/index.m3u8"
     },
     {
       "id": 132481,
@@ -102,18 +130,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Manchester Originals vs London Spirit",
       "startTime": "11:00:00 PM 11-08-2025"
-    },
-    {
-      "id": 133400,
-      "event_category": "Cricket",
-      "title": "Zagreb Sokol vs Zagreb Warriors (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Sokol",
-      "team_2": "Zagreb Warriors",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Sokol vs Zagreb Warriors",
-      "startTime": "12:15:00 PM 11-08-2025"
     },
     {
       "id": 132416,
@@ -284,18 +300,6 @@
       "startTime": "09:30:00 PM 11-08-2025"
     },
     {
-      "id": 132077,
-      "event_category": "Football",
-      "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
-      "team_1": "Cerezo Osaka",
-      "team_2": "Albirex Niigata",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Cerezo Osaka vs Albirex Niigata",
-      "startTime": "03:30:00 PM 11-08-2025"
-    },
-    {
       "id": 132645,
       "event_category": "Cricket",
       "title": "Kuala Lumpur vs Johor (MCA Men's T20 Inter-State Championship, 2025)",
@@ -308,16 +312,16 @@
       "startTime": "07:30:00 AM 12-08-2025"
     },
     {
-      "id": 133180,
-      "event_category": "Live events",
-      "title": "Semi-Finals vs Mumbai (Dream Sports MSSA Football Girls U16 Div I)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Girls_match-card.jpg",
-      "team_1": "Semi-Finals",
-      "team_2": "Mumbai",
+      "id": 132077,
+      "event_category": "Football",
+      "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
+      "team_1": "Cerezo Osaka",
+      "team_2": "Albirex Niigata",
       "status": "UPCOMING",
-      "event_name": "Dream Sports MSSA Football Girls U16 Div I",
-      "match_name": "Semi-Finals",
-      "startTime": "12:00:00 PM 11-08-2025"
+      "event_name": "J League 2025",
+      "match_name": "Cerezo Osaka vs Albirex Niigata",
+      "startTime": "03:30:00 PM 11-08-2025"
     },
     {
       "id": 132417,
@@ -344,18 +348,6 @@
       "startTime": "02:00:00 PM 12-08-2025"
     },
     {
-      "id": 132646,
-      "event_category": "Cricket",
-      "title": "Perak vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",
-      "team_1": "Perak",
-      "team_2": "Selangor",
-      "status": "UPCOMING",
-      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-      "match_name": "Perak vs Selangor",
-      "startTime": "11:30:00 AM 12-08-2025"
-    },
-    {
       "id": 132787,
       "event_category": "Cricket",
       "title": "Hubli Tigers vs Shivamogga Lions (Maharaja T20 Trophy, 2025)",
@@ -366,6 +358,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Hubli Tigers vs Shivamogga Lions",
       "startTime": "03:15:00 PM 12-08-2025"
+    },
+    {
+      "id": 132646,
+      "event_category": "Cricket",
+      "title": "Perak vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",
+      "team_1": "Perak",
+      "team_2": "Selangor",
+      "status": "UPCOMING",
+      "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+      "match_name": "Perak vs Selangor",
+      "startTime": "11:30:00 AM 12-08-2025"
     },
     {
       "id": 133405,
@@ -416,6 +420,18 @@
       "startTime": "02:15:00 PM 12-08-2025"
     },
     {
+      "id": 133542,
+      "event_category": "Cricket",
+      "title": "Bengal Tigers vs MP Spartan (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Bengal Tigers",
+      "team_2": "MP Spartan",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Bengal Tigers vs MP Spartan",
+      "startTime": "03:00:00 PM 12-08-2025"
+    },
+    {
       "id": 132196,
       "event_category": "Arm Wrestling",
       "title": "Day 7 vs India (Pro Panja League Season 2 2025)",
@@ -428,16 +444,28 @@
       "startTime": "05:00:00 PM 11-08-2025"
     },
     {
-      "id": 133542,
+      "id": 133407,
       "event_category": "Cricket",
-      "title": "Bengal Tigers vs MP Spartan (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Bengal Tigers",
-      "team_2": "MP Spartan",
+      "title": "Zagreb Warriors vs Rijeka Markhors (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Warriors",
+      "team_2": "Rijeka Markhors",
       "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Bengal Tigers vs MP Spartan",
-      "startTime": "03:00:00 PM 12-08-2025"
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Warriors vs Rijeka Markhors",
+      "startTime": "04:15:00 PM 12-08-2025"
+    },
+    {
+      "id": 132484,
+      "event_category": "Cricket",
+      "title": "Purani Delhi 6 vs East Delhi Riders (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
+      "team_1": "Purani Delhi 6",
+      "team_2": "East Delhi Riders",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Purani Delhi 6 vs East Delhi Riders",
+      "startTime": "07:00:00 PM 12-08-2025"
     }
   ]
 }
