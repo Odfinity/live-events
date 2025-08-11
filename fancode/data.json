@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:58 AM 11-08-2025",
+  "last update time": "09:23 AM 11-08-2025",
   "matches": [
+    {
+      "id": 132415,
+      "event_category": "Cricket",
+      "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
+      "team_1": "City Cricket Club",
+      "team_2": "91 Yards Club",
+      "status": "LIVE",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "City Cricket Club vs 91 Yards Club",
+      "startTime": "09:00:00 AM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RgOrApnuSW6pBWgBO65Vdw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132415_english_hls_38916ta-di_h264/index.m3u8"
+    },
     {
       "id": 132481,
       "event_category": "Cricket",
@@ -74,18 +88,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Manchester Originals vs London Spirit",
       "startTime": "11:00:00 PM 11-08-2025"
-    },
-    {
-      "id": 132415,
-      "event_category": "Cricket",
-      "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
-      "team_1": "City Cricket Club",
-      "team_2": "91 Yards Club",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "City Cricket Club vs 91 Yards Club",
-      "startTime": "09:00:00 AM 11-08-2025"
     },
     {
       "id": 133400,
@@ -196,18 +198,6 @@
       "startTime": "10:15:00 PM 11-08-2025"
     },
     {
-      "id": 133252,
-      "event_category": "Basketball",
-      "title": "Chinese Taipei vs Jordan (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
-      "team_1": "Chinese Taipei",
-      "team_2": "Jordan",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Chinese Taipei vs Jordan",
-      "startTime": "04:30:00 PM 11-08-2025"
-    },
-    {
       "id": 132151,
       "event_category": "Cricket",
       "title": "ACE KRM Panthers vs Gujrat CC (KCC T10 Summer League, 2025)",
@@ -220,10 +210,22 @@
       "startTime": "12:15:00 AM 12-08-2025"
     },
     {
+      "id": 133252,
+      "event_category": "Basketball",
+      "title": "Chinese Taipei vs Jordan (FIBA Asia Cup, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/133252_CASACARDS_APP.png",
+      "team_1": "Chinese Taipei",
+      "team_2": "Jordan",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Chinese Taipei vs Jordan",
+      "startTime": "04:30:00 PM 11-08-2025"
+    },
+    {
       "id": 133253,
       "event_category": "Basketball",
       "title": "Saudi Arabia vs Philippines (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/133253_CASACARDS_APP.png",
       "team_1": "Saudi Arabia",
       "team_2": "Philippines",
       "status": "UPCOMING",
@@ -280,6 +282,18 @@
       "startTime": "09:00:00 PM 11-08-2025"
     },
     {
+      "id": 133179,
+      "event_category": "Live events",
+      "title": "Third Place & Finals vs Mumbai (Dream Sports MSSA Football Boys U16 Div I)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Boys_match-card.jpg",
+      "team_1": "Third Place & Finals",
+      "team_2": "Mumbai",
+      "status": "UPCOMING",
+      "event_name": "Dream Sports MSSA Football Boys U16 Div I",
+      "match_name": "Third Place & Finals",
+      "startTime": "10:00:00 AM 11-08-2025"
+    },
+    {
       "id": 132645,
       "event_category": "Cricket",
       "title": "Kuala Lumpur vs Johor (MCA Men's T20 Inter-State Championship, 2025)",
@@ -302,42 +316,6 @@
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
       "match_name": "Gauhati Town Club vs City Cricket Club",
       "startTime": "09:00:00 AM 12-08-2025"
-    },
-    {
-      "id": 133179,
-      "event_category": "Live events",
-      "title": "Third Place & Finals vs Mumbai (Dream Sports MSSA Football Boys U16 Div I)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Boys_match-card.jpg",
-      "team_1": "Third Place & Finals",
-      "team_2": "Mumbai",
-      "status": "UPCOMING",
-      "event_name": "Dream Sports MSSA Football Boys U16 Div I",
-      "match_name": "Third Place & Finals",
-      "startTime": "10:00:00 AM 11-08-2025"
-    },
-    {
-      "id": 133180,
-      "event_category": "Live events",
-      "title": "Semi-Finals vs Mumbai (Dream Sports MSSA Football Girls U16 Div I)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Girls_match-card.jpg",
-      "team_1": "Semi-Finals",
-      "team_2": "Mumbai",
-      "status": "UPCOMING",
-      "event_name": "Dream Sports MSSA Football Girls U16 Div I",
-      "match_name": "Semi-Finals",
-      "startTime": "12:00:00 PM 11-08-2025"
-    },
-    {
-      "id": 132196,
-      "event_category": "Arm Wrestling",
-      "title": "Day 7 vs India (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-      "team_1": "Day 7",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 7",
-      "startTime": "05:00:00 PM 11-08-2025"
     },
     {
       "id": 132483,
@@ -364,6 +342,30 @@
       "startTime": "11:30:00 AM 12-08-2025"
     },
     {
+      "id": 133180,
+      "event_category": "Live events",
+      "title": "Semi-Finals vs Mumbai (Dream Sports MSSA Football Girls U16 Div I)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Girls_match-card.jpg",
+      "team_1": "Semi-Finals",
+      "team_2": "Mumbai",
+      "status": "UPCOMING",
+      "event_name": "Dream Sports MSSA Football Girls U16 Div I",
+      "match_name": "Semi-Finals",
+      "startTime": "12:00:00 PM 11-08-2025"
+    },
+    {
+      "id": 132196,
+      "event_category": "Arm Wrestling",
+      "title": "Day 7 vs India (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+      "team_1": "Day 7",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 7",
+      "startTime": "05:00:00 PM 11-08-2025"
+    },
+    {
       "id": 133405,
       "event_category": "Cricket",
       "title": "Zagreb Warriors vs Zagreb Sokol (ECS Croatia, 2025)",
@@ -374,6 +376,30 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Warriors vs Zagreb Sokol",
       "startTime": "12:15:00 PM 12-08-2025"
+    },
+    {
+      "id": 132787,
+      "event_category": "Cricket",
+      "title": "Hubli Tigers vs Shivamogga Lions (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132787_5530_HT_SS_fc-Web.jpg",
+      "team_1": "Hubli Tigers",
+      "team_2": "Shivamogga Lions",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Hubli Tigers vs Shivamogga Lions",
+      "startTime": "03:15:00 PM 12-08-2025"
+    },
+    {
+      "id": 132418,
+      "event_category": "Cricket",
+      "title": "Bud Cricket Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132418_CASACARDS_APP.png",
+      "team_1": "Bud Cricket Club",
+      "team_2": "Nabajyoti Club",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Bud Cricket Club vs Nabajyoti Club",
+      "startTime": "01:15:00 PM 12-08-2025"
     }
   ]
 }
