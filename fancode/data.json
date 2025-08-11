@@ -1,8 +1,20 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 PM 11-08-2025",
+  "last update time": "10:57 PM 11-08-2025",
   "matches": [
+    {
+      "id": 132230,
+      "event_category": "Cricket",
+      "title": "Manchester Originals vs London Spirit (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132230_5505_MNR_LNS_fc-web.jpg",
+      "team_1": "Manchester Originals",
+      "team_2": "London Spirit",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Manchester Originals vs London Spirit",
+      "startTime": "11:00:00 PM 11-08-2025"
+    },
     {
       "id": 132482,
       "event_category": "Cricket",
@@ -30,34 +42,6 @@
       "startTime": "07:15:00 PM 11-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/sP6n2X03Q_-VH9aMbqoktQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132786_english_hls_696ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132766,
-      "event_category": "Cricket",
-      "title": "Simhadri Vizag Lions vs Kakinada Kings (Andhra Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132766_5529_SVL_KNK_fc-Web.jpg",
-      "team_1": "Simhadri Vizag Lions",
-      "team_2": "Kakinada Kings",
-      "status": "LIVE",
-      "event_name": "Andhra Premier League, 2025",
-      "match_name": "Simhadri Vizag Lions vs Kakinada Kings",
-      "startTime": "06:30:00 PM 11-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DVJ3pvzaSUKJKUuQvji3QQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132766_english_hls_71641ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133404,
-      "event_category": "Cricket",
-      "title": "Zagreb Assassins vs Zagreb Warriors (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Assassins",
-      "team_2": "Zagreb Warriors",
-      "status": "LIVE",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Assassins vs Zagreb Warriors",
-      "startTime": "08:15:00 PM 11-08-2025",
-      "dai_url": null,
-      "adfree_url": null
     },
     {
       "id": 133541,
@@ -102,16 +86,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133253_english_hls_98235ta-di_h264/index.m3u8"
     },
     {
-      "id": 132230,
+      "id": 132766,
       "event_category": "Cricket",
-      "title": "Manchester Originals vs London Spirit (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132230_5505_MNR_LNS_fc-web.jpg",
-      "team_1": "Manchester Originals",
-      "team_2": "London Spirit",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Manchester Originals vs London Spirit",
-      "startTime": "11:00:00 PM 11-08-2025"
+      "title": "Simhadri Vizag Lions vs Kakinada Kings (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132766_5529_SVL_KNK_fc-Web.jpg",
+      "team_1": "Simhadri Vizag Lions",
+      "team_2": "Kakinada Kings",
+      "status": "LIVE",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Simhadri Vizag Lions vs Kakinada Kings",
+      "startTime": "06:30:00 PM 11-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/DVJ3pvzaSUKJKUuQvji3QQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132766_english_hls_71641ta-di_h264/index.m3u8"
     },
     {
       "id": 132483,
@@ -459,6 +445,18 @@
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Wrexham vs Hull City",
+      "startTime": "12:15:00 AM 13-08-2025"
+    },
+    {
+      "id": 131981,
+      "event_category": "Football",
+      "title": "Salford City vs Rotherham United (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Salford City",
+      "team_2": "Rotherham United",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Salford City vs Rotherham United",
       "startTime": "12:15:00 AM 13-08-2025"
     }
   ]
