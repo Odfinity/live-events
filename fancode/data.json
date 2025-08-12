@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:30 PM 12-08-2025",
+  "last update time": "02:09 PM 12-08-2025",
   "matches": [
+    {
+      "id": 132483,
+      "event_category": "Cricket",
+      "title": "Central Delhi Kings vs Outer Delhi Warriors (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132483_5521_ODW_CDK_fc-Web.jpg",
+      "team_1": "Central Delhi Kings",
+      "team_2": "Outer Delhi Warriors",
+      "status": "LIVE",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Central Delhi Kings vs Outer Delhi Warriors",
+      "startTime": "02:00:00 PM 12-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/TjcZ7TKGRnGdfLv1oHf0zA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132483_english_hls_86094ta-di_h264/index.m3u8"
+    },
     {
       "id": 132646,
       "event_category": "Cricket",
@@ -16,20 +30,6 @@
       "startTime": "11:30:00 AM 12-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/s_Ry4PetSz2zwrt_U1fuIg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132646_english_hls_57414ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133405,
-      "event_category": "Cricket",
-      "title": "Zagreb Sokol vs Zagreb Warriors (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Sokol",
-      "team_2": "Zagreb Warriors",
-      "status": "LIVE",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Sokol vs Zagreb Warriors",
-      "startTime": "12:15:00 PM 12-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XorocSCjQy6QrqTb0PU9MA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133405_english_hls_77758ta-di_h264/index.m3u8"
     },
     {
       "id": 132418,
@@ -60,16 +60,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132767_english_hls_98537ta-di_h264/index.m3u8"
     },
     {
-      "id": 132483,
+      "id": 133406,
       "event_category": "Cricket",
-      "title": "Central Delhi Kings vs Outer Delhi Warriors (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132483_5521_ODW_CDK_fc-Web.jpg",
-      "team_1": "Central Delhi Kings",
-      "team_2": "Outer Delhi Warriors",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Central Delhi Kings vs Outer Delhi Warriors",
-      "startTime": "02:00:00 PM 12-08-2025"
+      "title": "Zagreb Sokol vs Sir Oliver Split (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Sokol",
+      "team_2": "Sir Oliver Split",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Sokol vs Sir Oliver Split",
+      "startTime": "02:15:00 PM 12-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/agC5ulREQqGbEon1I1VPdw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133406_english_hls_7789ta-di_h264/index.m3u8"
     },
     {
       "id": 132787,
@@ -142,18 +144,6 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "05:00:00 AM 13-08-2025"
-    },
-    {
-      "id": 133406,
-      "event_category": "Cricket",
-      "title": "Zagreb Sokol vs Sir Oliver Split (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Sokol",
-      "team_2": "Sir Oliver Split",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Sokol vs Sir Oliver Split",
-      "startTime": "02:15:00 PM 12-08-2025"
     },
     {
       "id": 133542,
@@ -350,13 +340,13 @@
     {
       "id": 132419,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "title": "Gauhati Town Club vs TBC (GTC Spring T20 Cup, 2nd Edition, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
+      "team_1": "Gauhati Town Club",
       "team_2": "TBC",
       "status": "UPCOMING",
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Gauhati Town Club vs TBC",
       "startTime": "10:00:00 AM 13-08-2025"
     },
     {
@@ -372,18 +362,6 @@
       "startTime": "10:00:00 AM 13-08-2025"
     },
     {
-      "id": 131401,
-      "event_category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "West Indies",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of West Indies, 2025",
-      "match_name": "West Indies vs Pakistan",
-      "startTime": "07:00:00 PM 12-08-2025"
-    },
-    {
       "id": 132789,
       "event_category": "Cricket",
       "title": "Bengaluru Blasters vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
@@ -394,6 +372,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Bengaluru Blasters vs Hubli Tigers",
       "startTime": "03:15:00 PM 13-08-2025"
+    },
+    {
+      "id": 131401,
+      "event_category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "West Indies",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of West Indies, 2025",
+      "match_name": "West Indies vs Pakistan",
+      "startTime": "07:00:00 PM 12-08-2025"
     },
     {
       "id": 132266,
@@ -456,16 +446,28 @@
       "startTime": "03:00:00 PM 13-08-2025"
     },
     {
-      "id": 132930,
-      "event_category": "Padel",
-      "title": "Vernost Jaguars vs Gamechangers Lions (World Padel League - Season 3)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132930_5502_JA_LO_fc-Web.jpg",
-      "team_1": "Vernost Jaguars",
-      "team_2": "Gamechangers Lions",
+      "id": 132790,
+      "event_category": "Cricket",
+      "title": "Mangaluru Dragons vs Shivamogga Lions (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132790_5530_MD_SS_fc-Web.jpg",
+      "team_1": "Mangaluru Dragons",
+      "team_2": "Shivamogga Lions",
       "status": "UPCOMING",
-      "event_name": "World Padel League - Season 3",
-      "match_name": "Vernost Jaguars vs Gamechangers Lions",
-      "startTime": "04:00:00 PM 12-08-2025"
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Mangaluru Dragons vs Shivamogga Lions",
+      "startTime": "07:15:00 PM 13-08-2025"
+    },
+    {
+      "id": 133412,
+      "event_category": "Cricket",
+      "title": "Sir Oliver Split vs Zagreb Assassins (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Sir Oliver Split",
+      "team_2": "Zagreb Assassins",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Sir Oliver Split vs Zagreb Assassins",
+      "startTime": "04:15:00 PM 13-08-2025"
     }
   ]
 }
