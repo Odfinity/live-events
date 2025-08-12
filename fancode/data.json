@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:30 PM 12-08-2025",
+  "last update time": "04:57 PM 12-08-2025",
   "matches": [
     {
       "id": 132930,
@@ -44,20 +44,6 @@
       "startTime": "03:15:00 PM 12-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/_J86IAxqSb-sREnH8-LwiQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132787_english_hls_93984ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132418,
-      "event_category": "Cricket",
-      "title": "Bud Cricket Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132418_CASACARDS_APP.png",
-      "team_1": "Bud Cricket Club",
-      "team_2": "Nabajyoti Club",
-      "status": "LIVE",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Bud Cricket Club vs Nabajyoti Club",
-      "startTime": "01:15:00 PM 12-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/01NdRERrRHW6zQJrVgl-vw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132418_english_hls_74978ta-di_h264/index.m3u8"
     },
     {
       "id": 132767,
@@ -114,6 +100,34 @@
       "startTime": "04:30:00 PM 12-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ML3nNk-hTRaPLHIFo1pnvg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133254_english_hls_74157ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133543,
+      "event_category": "Cricket",
+      "title": "Royal Challenger Delhi vs Southern United (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133366_5560_RCD_SU_fc-Web.jpg",
+      "team_1": "Royal Challenger Delhi",
+      "team_2": "Southern United",
+      "status": "LIVE",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Royal Challenger Delhi vs Southern United",
+      "startTime": "05:00:00 PM 12-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133543_english_hls_60720adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133543_english_hls_60720adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132197,
+      "event_category": "Arm Wrestling",
+      "title": "Day 8 vs Gwalior (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+      "team_1": "Day 8",
+      "team_2": "Gwalior",
+      "status": "LIVE",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 8",
+      "startTime": "05:00:00 PM 12-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9yGTkM_vTrachrQQXitDaQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132197_english_hls_50479ta-di_h264/index.m3u8"
     },
     {
       "id": 132484,
@@ -174,18 +188,6 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "05:00:00 AM 13-08-2025"
-    },
-    {
-      "id": 133543,
-      "event_category": "Cricket",
-      "title": "Royal Challenger Delhi vs Southern United (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133366_5560_RCD_SU_fc-Web.jpg",
-      "team_1": "Royal Challenger Delhi",
-      "team_2": "Southern United",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Royal Challenger Delhi vs Southern United",
-      "startTime": "05:00:00 PM 12-08-2025"
     },
     {
       "id": 133408,
@@ -332,18 +334,6 @@
       "startTime": "03:15:00 PM 13-08-2025"
     },
     {
-      "id": 133255,
-      "event_category": "Basketball",
-      "title": "Japan vs Lebanon (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-vs-Lebanon-old.jpg",
-      "team_1": "Japan",
-      "team_2": "Lebanon",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Japan vs Lebanon",
-      "startTime": "09:30:00 PM 12-08-2025"
-    },
-    {
       "id": 132266,
       "event_category": "Cricket",
       "title": "Southern Brave Women vs Northern Superchargers Women (The Hundred Women, 2025)",
@@ -356,15 +346,27 @@
       "startTime": "04:00:00 PM 13-08-2025"
     },
     {
+      "id": 133255,
+      "event_category": "Basketball",
+      "title": "Japan vs Lebanon (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-vs-Lebanon-old.jpg",
+      "team_1": "Japan",
+      "team_2": "Lebanon",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Japan vs Lebanon",
+      "startTime": "09:30:00 PM 12-08-2025"
+    },
+    {
       "id": 132419,
       "event_category": "Cricket",
-      "title": "Gauhati Town Club vs TBC (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "title": "Bud Cricket Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Gauhati Town Club",
-      "team_2": "TBC",
+      "team_1": "Bud Cricket Club",
+      "team_2": "Guwahati Giants",
       "status": "UPCOMING",
       "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Gauhati Town Club vs TBC",
+      "match_name": "Bud Cricket Club vs Guwahati Giants",
       "startTime": "10:00:00 AM 13-08-2025"
     },
     {
@@ -392,16 +394,16 @@
       "startTime": "12:15:00 PM 13-08-2025"
     },
     {
-      "id": 132197,
-      "event_category": "Arm Wrestling",
-      "title": "Day 8 vs Gwalior (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
-      "team_1": "Day 8",
-      "team_2": "Gwalior",
+      "id": 132769,
+      "event_category": "Cricket",
+      "title": "Royals of Rayalaseema vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132769_5529_ROR_TBW_fc-Web.jpg",
+      "team_1": "Royals of Rayalaseema",
+      "team_2": "Tungabhadra Warriors",
       "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 8",
-      "startTime": "05:00:00 PM 12-08-2025"
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Royals of Rayalaseema vs Tungabhadra Warriors",
+      "startTime": "01:30:00 PM 13-08-2025"
     },
     {
       "id": 131401,
@@ -414,18 +416,6 @@
       "event_name": "Pakistan tour of West Indies, 2025",
       "match_name": "West Indies vs Pakistan",
       "startTime": "07:00:00 PM 12-08-2025"
-    },
-    {
-      "id": 132769,
-      "event_category": "Cricket",
-      "title": "Royals of Rayalaseema vs Tungabhadra Warriors (Andhra Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132769_5529_ROR_TBW_fc-Web.jpg",
-      "team_1": "Royals of Rayalaseema",
-      "team_2": "Tungabhadra Warriors",
-      "status": "UPCOMING",
-      "event_name": "Andhra Premier League, 2025",
-      "match_name": "Royals of Rayalaseema vs Tungabhadra Warriors",
-      "startTime": "01:30:00 PM 13-08-2025"
     },
     {
       "id": 133411,
@@ -473,6 +463,18 @@
       "status": "UPCOMING",
       "event_name": "The Hundred Women, 2025",
       "match_name": "Welsh Fire Women vs Manchester Originals Women",
+      "startTime": "07:30:00 PM 13-08-2025"
+    },
+    {
+      "id": 132232,
+      "event_category": "Cricket",
+      "title": "Southern Brave vs Northern Superchargers (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132232_5505_SOB_NOS_fc-web.jpg",
+      "team_1": "Southern Brave",
+      "team_2": "Northern Superchargers",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Southern Brave vs Northern Superchargers",
       "startTime": "07:30:00 PM 13-08-2025"
     }
   ]
