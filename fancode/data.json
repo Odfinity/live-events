@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:05 PM 12-08-2025",
+  "last update time": "09:21 PM 12-08-2025",
   "matches": [
     {
       "id": 132484,
@@ -102,6 +102,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133545_english_hls_58193ta-di_h264/index.m3u8"
     },
     {
+      "id": 133255,
+      "event_category": "Basketball",
+      "title": "Japan vs Lebanon (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-vs-Lebanon-old.jpg",
+      "team_1": "Japan",
+      "team_2": "Lebanon",
+      "status": "LIVE",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Japan vs Lebanon",
+      "startTime": "09:30:00 PM 12-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/jmX341qDSZOjms6O9mE6Lg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133255_english_hls_6559ta-di_h264/index.m3u8"
+    },
+    {
       "id": 131401,
       "event_category": "Cricket",
       "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
@@ -114,20 +128,6 @@
       "startTime": "07:00:00 PM 12-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/I04DsKCeTFyOOpAeAa7NuA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131401_english_hls_12417ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132197,
-      "event_category": "Arm Wrestling",
-      "title": "Day 8 vs Gwalior (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
-      "team_1": "Day 8",
-      "team_2": "Gwalior",
-      "status": "LIVE",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 8",
-      "startTime": "05:00:00 PM 12-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9yGTkM_vTrachrQQXitDaQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132197_english_hls_50479ta-di_h264/index.m3u8"
     },
     {
       "id": 132931,
@@ -168,6 +168,18 @@
       "startTime": "05:00:00 AM 13-08-2025"
     },
     {
+      "id": 132152,
+      "event_category": "Cricket",
+      "title": "Bader & Nie Cricket Club vs Khan Zalmi Kings (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "Bader & Nie Cricket Club",
+      "team_2": "Khan Zalmi Kings",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Bader & Nie Cricket Club vs Khan Zalmi Kings",
+      "startTime": "10:15:00 PM 12-08-2025"
+    },
+    {
       "id": 132789,
       "event_category": "Cricket",
       "title": "Bengaluru Blasters vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
@@ -180,18 +192,6 @@
       "startTime": "03:15:00 PM 13-08-2025"
     },
     {
-      "id": 133255,
-      "event_category": "Basketball",
-      "title": "Japan vs Lebanon (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-vs-Lebanon-old.jpg",
-      "team_1": "Japan",
-      "team_2": "Lebanon",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Japan vs Lebanon",
-      "startTime": "09:30:00 PM 12-08-2025"
-    },
-    {
       "id": 132266,
       "event_category": "Cricket",
       "title": "Southern Brave Women vs Northern Superchargers Women (The Hundred Women, 2025)",
@@ -202,18 +202,6 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Southern Brave Women vs Northern Superchargers Women",
       "startTime": "04:00:00 PM 13-08-2025"
-    },
-    {
-      "id": 132152,
-      "event_category": "Cricket",
-      "title": "Bader & Nie Cricket Club vs Khan Zalmi Kings (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Bader & Nie Cricket Club",
-      "team_2": "Khan Zalmi Kings",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Bader & Nie Cricket Club vs Khan Zalmi Kings",
-      "startTime": "10:15:00 PM 12-08-2025"
     },
     {
       "id": 132153,
@@ -255,7 +243,7 @@
       "id": 131981,
       "event_category": "Football",
       "title": "Salford City vs Rotherham United (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131981_5488_SC_ROT_1755013420044.jpg",
       "team_1": "Salford City",
       "team_2": "Rotherham United",
       "status": "UPCOMING",
@@ -288,30 +276,6 @@
       "startTime": "07:15:00 PM 13-08-2025"
     },
     {
-      "id": 132419,
-      "event_category": "Cricket",
-      "title": "Bud Cricket Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Bud Cricket Club",
-      "team_2": "Guwahati Giants",
-      "status": "UPCOMING",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Bud Cricket Club vs Guwahati Giants",
-      "startTime": "10:00:00 AM 13-08-2025"
-    },
-    {
-      "id": 133923,
-      "event_category": "Cricket",
-      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-      "team_1": "Singapore Women",
-      "team_2": "Cambodia Women",
-      "status": "UPCOMING",
-      "event_name": "Cambodia Women tour of Singapore, 2025",
-      "match_name": "Singapore Women vs Cambodia Women",
-      "startTime": "10:00:00 AM 13-08-2025"
-    },
-    {
       "id": 132267,
       "event_category": "Cricket",
       "title": "Welsh Fire Women vs Manchester Originals Women (The Hundred Women, 2025)",
@@ -334,6 +298,30 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Southern Brave vs Northern Superchargers",
       "startTime": "07:30:00 PM 13-08-2025"
+    },
+    {
+      "id": 132419,
+      "event_category": "Cricket",
+      "title": "Bud Cricket Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Bud Cricket Club",
+      "team_2": "Guwahati Giants",
+      "status": "UPCOMING",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Bud Cricket Club vs Guwahati Giants",
+      "startTime": "10:00:00 AM 13-08-2025"
+    },
+    {
+      "id": 133923,
+      "event_category": "Cricket",
+      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
+      "team_1": "Singapore Women",
+      "team_2": "Cambodia Women",
+      "status": "UPCOMING",
+      "event_name": "Cambodia Women tour of Singapore, 2025",
+      "match_name": "Singapore Women vs Cambodia Women",
+      "startTime": "10:00:00 AM 13-08-2025"
     },
     {
       "id": 133410,
@@ -420,6 +408,18 @@
       "startTime": "06:15:00 PM 13-08-2025"
     },
     {
+      "id": 132233,
+      "event_category": "Cricket",
+      "title": "Welsh Fire vs Manchester Originals (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132233_5505_WEF_MNR_fc-web.jpg",
+      "team_1": "Welsh Fire",
+      "team_2": "Manchester Originals",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Welsh Fire vs Manchester Originals",
+      "startTime": "11:00:00 PM 13-08-2025"
+    },
+    {
       "id": 132770,
       "event_category": "Cricket",
       "title": "Vijayawada Sunshiners vs Bhimavaram Bulls (Andhra Premier League, 2025)",
@@ -444,18 +444,6 @@
       "startTime": "04:30:00 PM 13-08-2025"
     },
     {
-      "id": 132233,
-      "event_category": "Cricket",
-      "title": "Welsh Fire vs Manchester Originals (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132233_5505_WEF_MNR_fc-web.jpg",
-      "team_1": "Welsh Fire",
-      "team_2": "Manchester Originals",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Welsh Fire vs Manchester Originals",
-      "startTime": "11:00:00 PM 13-08-2025"
-    },
-    {
       "id": 133548,
       "event_category": "Cricket",
       "title": "MP Spartan vs Rajasthan Raiders (LEGEN‑Z T10 League)",
@@ -478,6 +466,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Assassins vs Rijeka Markhors",
       "startTime": "08:15:00 PM 13-08-2025"
+    },
+    {
+      "id": 133549,
+      "event_category": "Cricket",
+      "title": "Mumbai Stars vs Royal Challenger Delhi (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133363_5560_MUM_RCD_fc-Web.jpg",
+      "team_1": "Mumbai Stars",
+      "team_2": "Royal Challenger Delhi",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Mumbai Stars vs Royal Challenger Delhi",
+      "startTime": "09:00:00 PM 13-08-2025"
     }
   ]
 }
