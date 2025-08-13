@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:29 PM 13-08-2025",
+  "last update time": "08:01 PM 13-08-2025",
   "matches": [
-    {
-      "id": 132789,
-      "event_category": "Cricket",
-      "title": "Bengaluru Blasters vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132789_5530_BB_HT_fc-Web.jpg",
-      "team_1": "Bengaluru Blasters",
-      "team_2": "Hubli Tigers",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Bengaluru Blasters vs Hubli Tigers",
-      "startTime": "03:15:00 PM 13-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/bplwGr44SCSRZuFZWozIFA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132789_english_hls_76459ta-di_h264/index.m3u8"
-    },
     {
       "id": 132790,
       "event_category": "Cricket",
@@ -30,6 +16,34 @@
       "startTime": "07:15:00 PM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/wbvV4Z4hRiKoMwRI2fsaKg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132790_english_hls_56476ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132267,
+      "event_category": "Cricket",
+      "title": "Welsh Fire Women vs Manchester Originals Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132267_5506_WEF-W_MNR-W_Fc-Web.jpg",
+      "team_1": "Welsh Fire Women",
+      "team_2": "Manchester Originals Women",
+      "status": "LIVE",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Welsh Fire Women vs Manchester Originals Women",
+      "startTime": "07:30:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755136803~acl=/*~id=93070630916337657734235579475323~hmac=76547a400989d2078787e8353b1895d16eba6ac2711e79ffd9744863150fb5cd"
+    },
+    {
+      "id": 132232,
+      "event_category": "Cricket",
+      "title": "Southern Brave vs Northern Superchargers (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132232_5505_SOB_NOS_fc-web.jpg",
+      "team_1": "Southern Brave",
+      "team_2": "Northern Superchargers",
+      "status": "LIVE",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Southern Brave vs Northern Superchargers",
+      "startTime": "07:30:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755136803~acl=/*~id=93070630916337657734235579475323~hmac=76547a400989d2078787e8353b1895d16eba6ac2711e79ffd9744863150fb5cd"
     },
     {
       "id": 133555,
@@ -100,30 +114,6 @@
       "startTime": "06:00:00 PM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/NSjA3KdzRFu3gJgH8Jykzw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132933_english_hls_43102ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132267,
-      "event_category": "Cricket",
-      "title": "Welsh Fire Women vs Manchester Originals Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132267_5506_WEF-W_MNR-W_Fc-Web.jpg",
-      "team_1": "Welsh Fire Women",
-      "team_2": "Manchester Originals Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Welsh Fire Women vs Manchester Originals Women",
-      "startTime": "07:30:00 PM 13-08-2025"
-    },
-    {
-      "id": 132232,
-      "event_category": "Cricket",
-      "title": "Southern Brave vs Northern Superchargers (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132232_5505_SOB_NOS_fc-web.jpg",
-      "team_1": "Southern Brave",
-      "team_2": "Northern Superchargers",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Southern Brave vs Northern Superchargers",
-      "startTime": "07:30:00 PM 13-08-2025"
     },
     {
       "id": 132233,
@@ -258,30 +248,6 @@
       "startTime": "09:30:00 PM 13-08-2025"
     },
     {
-      "id": 133415,
-      "event_category": "Cricket",
-      "title": "Sir Oliver Split vs Zagreb Warriors (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Sir Oliver Split",
-      "team_2": "Zagreb Warriors",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Sir Oliver Split vs Zagreb Warriors",
-      "startTime": "12:15:00 PM 14-08-2025"
-    },
-    {
-      "id": 133926,
-      "event_category": "Cricket",
-      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-      "team_1": "Singapore Women",
-      "team_2": "Cambodia Women",
-      "status": "UPCOMING",
-      "event_name": "Cambodia Women tour of Singapore, 2025",
-      "match_name": "Singapore Women vs Cambodia Women",
-      "startTime": "01:00:00 PM 14-08-2025"
-    },
-    {
       "id": 132792,
       "event_category": "Cricket",
       "title": "Gulbarga Mystics vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
@@ -294,6 +260,18 @@
       "startTime": "07:15:00 PM 14-08-2025"
     },
     {
+      "id": 133415,
+      "event_category": "Cricket",
+      "title": "Sir Oliver Split vs Zagreb Warriors (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Sir Oliver Split",
+      "team_2": "Zagreb Warriors",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Sir Oliver Split vs Zagreb Warriors",
+      "startTime": "12:15:00 PM 14-08-2025"
+    },
+    {
       "id": 132268,
       "event_category": "Cricket",
       "title": "London Spirit Women vs Trent Rockets Women (The Hundred Women, 2025)",
@@ -304,6 +282,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "London Spirit Women vs Trent Rockets Women",
       "startTime": "07:30:00 PM 14-08-2025"
+    },
+    {
+      "id": 133926,
+      "event_category": "Cricket",
+      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
+      "team_1": "Singapore Women",
+      "team_2": "Cambodia Women",
+      "status": "UPCOMING",
+      "event_name": "Cambodia Women tour of Singapore, 2025",
+      "match_name": "Singapore Women vs Cambodia Women",
+      "startTime": "01:00:00 PM 14-08-2025"
     },
     {
       "id": 133416,
@@ -342,18 +332,6 @@
       "startTime": "04:15:00 PM 14-08-2025"
     },
     {
-      "id": 133258,
-      "event_category": "Basketball",
-      "title": "China vs South Korea (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-South-Korea-old.jpg",
-      "team_1": "China",
-      "team_2": "South Korea",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs South Korea",
-      "startTime": "04:30:00 PM 14-08-2025"
-    },
-    {
       "id": 133418,
       "event_category": "Cricket",
       "title": "Zagreb Assassins vs Zagreb Sokol (ECS Croatia, 2025)",
@@ -364,6 +342,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Assassins vs Zagreb Sokol",
       "startTime": "06:15:00 PM 14-08-2025"
+    },
+    {
+      "id": 133258,
+      "event_category": "Basketball",
+      "title": "China vs South Korea (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-South-Korea-old.jpg",
+      "team_1": "China",
+      "team_2": "South Korea",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "China vs South Korea",
+      "startTime": "04:30:00 PM 14-08-2025"
     },
     {
       "id": 132234,
@@ -390,30 +380,6 @@
       "startTime": "08:15:00 PM 14-08-2025"
     },
     {
-      "id": 132856,
-      "event_category": "Baseball",
-      "title": "Kansas City Royals vs Washington Nationals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132856_CASACARDS_APP.png",
-      "team_1": "Kansas City Royals",
-      "team_2": "Washington Nationals",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Kansas City Royals vs Washington Nationals",
-      "startTime": "11:40:00 PM 13-08-2025"
-    },
-    {
-      "id": 132857,
-      "event_category": "Baseball",
-      "title": "Cincinnati Reds vs Philadelphia Phillies (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132857_CASACARDS_APP.png",
-      "team_1": "Cincinnati Reds",
-      "team_2": "Philadelphia Phillies",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cincinnati Reds vs Philadelphia Phillies",
-      "startTime": "02:40:00 AM 14-08-2025"
-    },
-    {
       "id": 132156,
       "event_category": "Cricket",
       "title": "CECC vs Keraniganj Challengers (KCC T10 Summer League, 2025)",
@@ -436,6 +402,30 @@
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "New Zealand vs Lebanon",
       "startTime": "09:30:00 PM 14-08-2025"
+    },
+    {
+      "id": 132856,
+      "event_category": "Baseball",
+      "title": "Kansas City Royals vs Washington Nationals (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132856_CASACARDS_APP.png",
+      "team_1": "Kansas City Royals",
+      "team_2": "Washington Nationals",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Kansas City Royals vs Washington Nationals",
+      "startTime": "11:40:00 PM 13-08-2025"
+    },
+    {
+      "id": 132857,
+      "event_category": "Baseball",
+      "title": "Cincinnati Reds vs Philadelphia Phillies (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132857_CASACARDS_APP.png",
+      "team_1": "Cincinnati Reds",
+      "team_2": "Philadelphia Phillies",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cincinnati Reds vs Philadelphia Phillies",
+      "startTime": "02:40:00 AM 14-08-2025"
     },
     {
       "id": 132858,
