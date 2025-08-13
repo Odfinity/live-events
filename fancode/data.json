@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:21 PM 13-08-2025",
+  "last update time": "03:57 PM 13-08-2025",
   "matches": [
     {
       "id": 132266,
       "event_category": "Cricket",
-      "title": "Southern Brave Women vs Northern Superchargers Women (The Hundred Women, 2025)",
+      "title": "Northern Superchargers Women vs Southern Brave Women (The Hundred Women, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132266_5506_SOB-W_NOS-W_Fc-Web.jpg",
-      "team_1": "Southern Brave Women",
-      "team_2": "Northern Superchargers Women",
-      "status": "UPCOMING",
+      "team_1": "Northern Superchargers Women",
+      "team_2": "Southern Brave Women",
+      "status": "LIVE",
       "event_name": "The Hundred Women, 2025",
-      "match_name": "Southern Brave Women vs Northern Superchargers Women",
-      "startTime": "04:00:00 PM 13-08-2025"
+      "match_name": "Northern Superchargers Women vs Southern Brave Women",
+      "startTime": "04:00:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755123969~acl=/*~id=73223844583062946880155644115168~hmac=14234bc0456c87220541209abf4d1d3b9e5253b3ef7b1424ad27ba139527c2d0"
     },
     {
       "id": 132789,
@@ -72,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133546_english_hls_59353ta-di_h264/index.m3u8"
     },
     {
+      "id": 133412,
+      "event_category": "Cricket",
+      "title": "Zagreb Assassins vs Sir Oliver Split (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Assassins",
+      "team_2": "Sir Oliver Split",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Assassins vs Sir Oliver Split",
+      "startTime": "04:15:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/aw039JK-RzqkR8I8NRnDRQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133412_english_hls_164ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133449,
       "event_category": "Golf",
       "title": "Irish Challenge vs Killeen Castle (Irish Challenge)",
@@ -84,6 +100,20 @@
       "startTime": "03:25:00 PM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/bsu1kDMLTxeUQoNWE-g5oA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133449_english_hls_48116ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132932,
+      "event_category": "Padel",
+      "title": "Hubtown Panorama Panthers vs Vedanta Leopards (World Padel League - Season 3)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132932_5502_PA_LEO_fc-Web.jpg",
+      "team_1": "Hubtown Panorama Panthers",
+      "team_2": "Vedanta Leopards",
+      "status": "LIVE",
+      "event_name": "World Padel League - Season 3",
+      "match_name": "Hubtown Panorama Panthers vs Vedanta Leopards",
+      "startTime": "04:00:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/kO2vPHx_Qh-8zdHqGCZokA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132932_english_hls_49035ta-di_h264/index.m3u8"
     },
     {
       "id": 132790,
@@ -134,16 +164,16 @@
       "startTime": "11:00:00 PM 13-08-2025"
     },
     {
-      "id": 133412,
-      "event_category": "Cricket",
-      "title": "Zagreb Assassins vs Sir Oliver Split (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Assassins",
-      "team_2": "Sir Oliver Split",
+      "id": 133256,
+      "event_category": "Basketball",
+      "title": "Australia vs Philippines (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Philippines-old.jpg",
+      "team_1": "Australia",
+      "team_2": "Philippines",
       "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Assassins vs Sir Oliver Split",
-      "startTime": "04:15:00 PM 13-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Australia vs Philippines",
+      "startTime": "04:30:00 PM 13-08-2025"
     },
     {
       "id": 133547,
@@ -266,18 +296,6 @@
       "startTime": "12:30:00 AM 14-08-2025"
     },
     {
-      "id": 133256,
-      "event_category": "Basketball",
-      "title": "Australia vs Philippines (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Philippines-old.jpg",
-      "team_1": "Australia",
-      "team_2": "Philippines",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Australia vs Philippines",
-      "startTime": "04:30:00 PM 13-08-2025"
-    },
-    {
       "id": 133924,
       "event_category": "Cricket",
       "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
@@ -312,18 +330,6 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Mysore Warriors vs Mangaluru Dragons",
       "startTime": "03:15:00 PM 14-08-2025"
-    },
-    {
-      "id": 132932,
-      "event_category": "Padel",
-      "title": "Hubtown Panorama Panthers vs Vedanta Leopards (World Padel League - Season 3)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132932_5502_PA_LEO_fc-Web.jpg",
-      "team_1": "Hubtown Panorama Panthers",
-      "team_2": "Vedanta Leopards",
-      "status": "UPCOMING",
-      "event_name": "World Padel League - Season 3",
-      "match_name": "Hubtown Panorama Panthers vs Vedanta Leopards",
-      "startTime": "04:00:00 PM 13-08-2025"
     },
     {
       "id": 133415,
@@ -446,6 +452,18 @@
       "startTime": "04:30:00 PM 14-08-2025"
     },
     {
+      "id": 133418,
+      "event_category": "Cricket",
+      "title": "Zagreb Assassins vs Zagreb Sokol (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Assassins",
+      "team_2": "Zagreb Sokol",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Assassins vs Zagreb Sokol",
+      "startTime": "06:15:00 PM 14-08-2025"
+    },
+    {
       "id": 132198,
       "event_category": "Arm Wrestling",
       "title": "Day 9 vs Gwalior (Pro Panja League Season 2 2025)",
@@ -456,18 +474,6 @@
       "event_name": "Pro Panja League Season 2 2025",
       "match_name": "Day 9",
       "startTime": "05:00:00 PM 13-08-2025"
-    },
-    {
-      "id": 132933,
-      "event_category": "Padel",
-      "title": "Gamechangers Lions vs Khan Tigers (World Padel League - Season 3)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132933_5502_LO_TIG_fc-Web.jpg",
-      "team_1": "Gamechangers Lions",
-      "team_2": "Khan Tigers",
-      "status": "UPCOMING",
-      "event_name": "World Padel League - Season 3",
-      "match_name": "Gamechangers Lions vs Khan Tigers",
-      "startTime": "06:00:00 PM 13-08-2025"
     }
   ]
 }
