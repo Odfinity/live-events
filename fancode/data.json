@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 13-08-2025",
+  "last update time": "07:47 AM 13-08-2025",
   "matches": [
     {
       "id": 133232,
@@ -16,6 +16,20 @@
       "startTime": "05:00:00 AM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/0T_cBoPaTuaSdffpYGiZDA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133232_english_hls_39111ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132855,
+      "event_category": "Baseball",
+      "title": "Oakland Athletics vs Tampa Bay Rays (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132855_CASACARDS_APP.png",
+      "team_1": "Oakland Athletics",
+      "team_2": "Tampa Bay Rays",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Oakland Athletics vs Tampa Bay Rays",
+      "startTime": "07:35:00 AM 13-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132855_english_hls_20319ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132855_english_hls_20319ta-di_h264/index.m3u8"
     },
     {
       "id": 132789,
@@ -282,18 +296,6 @@
       "startTime": "12:15:00 AM 14-08-2025"
     },
     {
-      "id": 133257,
-      "event_category": "Basketball",
-      "title": "Iran vs Chinese Taipei (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ran-vs-Chinese-old.jpg",
-      "team_1": "Iran",
-      "team_2": "Chinese Taipei",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Iran vs Chinese Taipei",
-      "startTime": "09:30:00 PM 13-08-2025"
-    },
-    {
       "id": 131982,
       "event_category": "Football",
       "title": "Huddersfield Town vs Leicester City (Carabao Cup 2025-2026)",
@@ -318,6 +320,18 @@
       "startTime": "12:30:00 AM 14-08-2025"
     },
     {
+      "id": 133257,
+      "event_category": "Basketball",
+      "title": "Iran vs Chinese Taipei (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ran-vs-Chinese-old.jpg",
+      "team_1": "Iran",
+      "team_2": "Chinese Taipei",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Iran vs Chinese Taipei",
+      "startTime": "09:30:00 PM 13-08-2025"
+    },
+    {
       "id": 133924,
       "event_category": "Cricket",
       "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
@@ -328,18 +342,6 @@
       "event_name": "Cambodia Women tour of Singapore, 2025",
       "match_name": "Singapore Women vs Cambodia Women",
       "startTime": "07:00:00 AM 14-08-2025"
-    },
-    {
-      "id": 132855,
-      "event_category": "Baseball",
-      "title": "Oakland Athletics vs Tampa Bay Rays (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132855_CASACARDS_APP.png",
-      "team_1": "Oakland Athletics",
-      "team_2": "Tampa Bay Rays",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Oakland Athletics vs Tampa Bay Rays",
-      "startTime": "07:35:00 AM 13-08-2025"
     },
     {
       "id": 133449,
@@ -388,6 +390,18 @@
       "event_name": "World Padel League - Season 3",
       "match_name": "Gamechangers Lions vs Khan Tigers",
       "startTime": "06:00:00 PM 13-08-2025"
+    },
+    {
+      "id": 132856,
+      "event_category": "Baseball",
+      "title": "Kansas City Royals vs Washington Nationals (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132856_CASACARDS_APP.png",
+      "team_1": "Kansas City Royals",
+      "team_2": "Washington Nationals",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Kansas City Royals vs Washington Nationals",
+      "startTime": "11:40:00 PM 13-08-2025"
     }
   ]
 }
