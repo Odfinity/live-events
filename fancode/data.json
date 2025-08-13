@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:59 PM 13-08-2025",
+  "last update time": "05:14 PM 13-08-2025",
   "matches": [
     {
       "id": 132266,
@@ -72,6 +72,20 @@
       "startTime": "04:30:00 PM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/lDFfSjWAQlmXjDY6S4AlUA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133256_english_hls_16466ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133555,
+      "event_category": "Cricket",
+      "title": "Mumbai Stars vs Rajasthan Raiders (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+      "team_1": "Mumbai Stars",
+      "team_2": "Rajasthan Raiders",
+      "status": "LIVE",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Mumbai Stars vs Rajasthan Raiders",
+      "startTime": "05:00:00 PM 13-08-2025",
+      "dai_url": "https://mls3.fancode.com/250799c1-0864-4a84-9d15-cb1732489b9d/index.m3u8",
+      "adfree_url": "https://mls3.fancode.com/250799c1-0864-4a84-9d15-cb1732489b9d/index.m3u8"
     },
     {
       "id": 132932,
@@ -150,18 +164,6 @@
       "startTime": "11:00:00 PM 13-08-2025"
     },
     {
-      "id": 133555,
-      "event_category": "Cricket",
-      "title": "Mumbai Stars vs Rajasthan Raiders (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Mumbai Stars",
-      "team_2": "Rajasthan Raiders",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "Mumbai Stars vs Rajasthan Raiders",
-      "startTime": "05:00:00 PM 13-08-2025"
-    },
-    {
       "id": 133413,
       "event_category": "Cricket",
       "title": "Zagreb Warriors vs Sir Oliver Split (ECS Croatia, 2025)",
@@ -189,7 +191,7 @@
       "id": 133556,
       "event_category": "Cricket",
       "title": "Royal Challenger Delhi vs Bengal Tigers (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133360_5560_RCD_BT_fc-Web.jpg",
       "team_1": "Royal Challenger Delhi",
       "team_2": "Bengal Tigers",
       "status": "UPCOMING",
@@ -318,6 +320,18 @@
       "startTime": "01:00:00 PM 14-08-2025"
     },
     {
+      "id": 132933,
+      "event_category": "Padel",
+      "title": "Gamechangers Lions vs Khan Tigers (World Padel League - Season 3)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132933_5502_LO_TIG_fc-Web.jpg",
+      "team_1": "Gamechangers Lions",
+      "team_2": "Khan Tigers",
+      "status": "UPCOMING",
+      "event_name": "World Padel League - Season 3",
+      "match_name": "Gamechangers Lions vs Khan Tigers",
+      "startTime": "06:00:00 PM 13-08-2025"
+    },
+    {
       "id": 133416,
       "event_category": "Cricket",
       "title": "Zagreb Sokol vs Zagreb Assassins (ECS Croatia, 2025)",
@@ -402,18 +416,6 @@
       "startTime": "06:15:00 PM 14-08-2025"
     },
     {
-      "id": 132933,
-      "event_category": "Padel",
-      "title": "Gamechangers Lions vs Khan Tigers (World Padel League - Season 3)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132933_5502_LO_TIG_fc-Web.jpg",
-      "team_1": "Gamechangers Lions",
-      "team_2": "Khan Tigers",
-      "status": "UPCOMING",
-      "event_name": "World Padel League - Season 3",
-      "match_name": "Gamechangers Lions vs Khan Tigers",
-      "startTime": "06:00:00 PM 13-08-2025"
-    },
-    {
       "id": 132856,
       "event_category": "Baseball",
       "title": "Kansas City Royals vs Washington Nationals (Major League Baseball, 2025)",
@@ -426,18 +428,6 @@
       "startTime": "11:40:00 PM 13-08-2025"
     },
     {
-      "id": 132857,
-      "event_category": "Baseball",
-      "title": "Cincinnati Reds vs Philadelphia Phillies (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132857_CASACARDS_APP.png",
-      "team_1": "Cincinnati Reds",
-      "team_2": "Philadelphia Phillies",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cincinnati Reds vs Philadelphia Phillies",
-      "startTime": "02:40:00 AM 14-08-2025"
-    },
-    {
       "id": 132234,
       "event_category": "Cricket",
       "title": "London Spirit vs Trent Rockets (The Hundred, 2025)",
@@ -448,6 +438,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "London Spirit vs Trent Rockets",
       "startTime": "11:00:00 PM 14-08-2025"
+    },
+    {
+      "id": 132857,
+      "event_category": "Baseball",
+      "title": "Cincinnati Reds vs Philadelphia Phillies (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132857_CASACARDS_APP.png",
+      "team_1": "Cincinnati Reds",
+      "team_2": "Philadelphia Phillies",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cincinnati Reds vs Philadelphia Phillies",
+      "startTime": "02:40:00 AM 14-08-2025"
     },
     {
       "id": 133419,
