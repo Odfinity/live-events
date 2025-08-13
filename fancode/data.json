@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:18 PM 13-08-2025",
+  "last update time": "04:38 PM 13-08-2025",
   "matches": [
     {
       "id": 132266,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132769_english_hls_55752ta-di_h264/index.m3u8"
     },
     {
-      "id": 133411,
-      "event_category": "Cricket",
-      "title": "Zagreb Assassins vs Rijeka Markhors (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Assassins",
-      "team_2": "Rijeka Markhors",
-      "status": "LIVE",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Assassins vs Rijeka Markhors",
-      "startTime": "02:15:00 PM 13-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Z5xug0nvSlWWQcz2CM51Dw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133411_english_hls_45107ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133546,
       "event_category": "Cricket",
       "title": "Royal Challenger Delhi vs Bengal Tigers (LEGEN‑Z T10 League)",
@@ -86,6 +72,20 @@
       "startTime": "04:15:00 PM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/aw039JK-RzqkR8I8NRnDRQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133412_english_hls_164ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133256,
+      "event_category": "Basketball",
+      "title": "Australia vs Philippines (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Philippines-old.jpg",
+      "team_1": "Australia",
+      "team_2": "Philippines",
+      "status": "LIVE",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Australia vs Philippines",
+      "startTime": "04:30:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lDFfSjWAQlmXjDY6S4AlUA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133256_english_hls_16466ta-di_h264/index.m3u8"
     },
     {
       "id": 132932,
@@ -160,18 +160,6 @@
       "event_name": "LEGEN‑Z T10 League",
       "match_name": "Mumbai Stars vs Southern United",
       "startTime": "05:00:00 PM 13-08-2025"
-    },
-    {
-      "id": 133256,
-      "event_category": "Basketball",
-      "title": "Australia vs Philippines (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Philippines-old.jpg",
-      "team_1": "Australia",
-      "team_2": "Philippines",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Australia vs Philippines",
-      "startTime": "04:30:00 PM 13-08-2025"
     },
     {
       "id": 133413,
@@ -282,18 +270,6 @@
       "startTime": "12:30:00 AM 14-08-2025"
     },
     {
-      "id": 133924,
-      "event_category": "Cricket",
-      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-      "team_1": "Singapore Women",
-      "team_2": "Cambodia Women",
-      "status": "UPCOMING",
-      "event_name": "Cambodia Women tour of Singapore, 2025",
-      "match_name": "Singapore Women vs Cambodia Women",
-      "startTime": "07:00:00 AM 14-08-2025"
-    },
-    {
       "id": 132791,
       "event_category": "Cricket",
       "title": "Mysore Warriors vs Mangaluru Dragons (Maharaja T20 Trophy, 2025)",
@@ -304,6 +280,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Mysore Warriors vs Mangaluru Dragons",
       "startTime": "03:15:00 PM 14-08-2025"
+    },
+    {
+      "id": 133924,
+      "event_category": "Cricket",
+      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
+      "team_1": "Singapore Women",
+      "team_2": "Cambodia Women",
+      "status": "UPCOMING",
+      "event_name": "Cambodia Women tour of Singapore, 2025",
+      "match_name": "Singapore Women vs Cambodia Women",
+      "startTime": "07:00:00 AM 14-08-2025"
     },
     {
       "id": 133257,
@@ -460,6 +448,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Assassins vs Zagreb Sokol",
       "startTime": "06:15:00 PM 14-08-2025"
+    },
+    {
+      "id": 133552,
+      "event_category": "Cricket",
+      "title": "Bengal Tigers vs Southern United (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133376_5560_SU_BT_fc-Web.jpg",
+      "team_1": "Bengal Tigers",
+      "team_2": "Southern United",
+      "status": "UPCOMING",
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "Bengal Tigers vs Southern United",
+      "startTime": "07:00:00 PM 14-08-2025"
     },
     {
       "id": 132933,
