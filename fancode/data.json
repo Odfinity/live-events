@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:15 PM 13-08-2025",
+  "last update time": "01:26 PM 13-08-2025",
   "matches": [
     {
       "id": 132266,
@@ -16,34 +16,6 @@
       "startTime": "04:00:00 PM 13-08-2025"
     },
     {
-      "id": 132419,
-      "event_category": "Cricket",
-      "title": "Bud Cricket Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132403_CASACARDS_APP.png",
-      "team_1": "Bud Cricket Club",
-      "team_2": "Guwahati Giants",
-      "status": "LIVE",
-      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-      "match_name": "Bud Cricket Club vs Guwahati Giants",
-      "startTime": "10:00:00 AM 13-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/y3EzyVdCTD6pG0BDhdDlwQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132419_english_hls_7294ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133923,
-      "event_category": "Cricket",
-      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-      "team_1": "Singapore Women",
-      "team_2": "Cambodia Women",
-      "status": "LIVE",
-      "event_name": "Cambodia Women tour of Singapore, 2025",
-      "match_name": "Singapore Women vs Cambodia Women",
-      "startTime": "10:00:00 AM 13-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/df9ow7SASdaW14SyIlL4Xw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133923_english_hls_35182ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133410,
       "event_category": "Cricket",
       "title": "Rijeka Markhors vs Sir Oliver Split (ECS Croatia, 2025)",
@@ -56,6 +28,34 @@
       "startTime": "12:15:00 PM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/WJoB4FUrQ56sC39vDfZIyQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133410_english_hls_57651ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132769,
+      "event_category": "Cricket",
+      "title": "Royals of Rayalaseema vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132769_5529_ROR_TBW_fc-Web.jpg",
+      "team_1": "Royals of Rayalaseema",
+      "team_2": "Tungabhadra Warriors",
+      "status": "LIVE",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Royals of Rayalaseema vs Tungabhadra Warriors",
+      "startTime": "01:30:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/IrGvE-YpTsWfxnqlSBSljA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132769_english_hls_55752ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132419,
+      "event_category": "Cricket",
+      "title": "Bud Cricket Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132403_CASACARDS_APP.png",
+      "team_1": "Bud Cricket Club",
+      "team_2": "Guwahati Giants",
+      "status": "LIVE",
+      "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+      "match_name": "Bud Cricket Club vs Guwahati Giants",
+      "startTime": "10:00:00 AM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/y3EzyVdCTD6pG0BDhdDlwQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132419_english_hls_7294ta-di_h264/index.m3u8"
     },
     {
       "id": 132789,
@@ -116,18 +116,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Welsh Fire vs Manchester Originals",
       "startTime": "11:00:00 PM 13-08-2025"
-    },
-    {
-      "id": 132769,
-      "event_category": "Cricket",
-      "title": "Royals of Rayalaseema vs Tungabhadra Warriors (Andhra Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132769_5529_ROR_TBW_fc-Web.jpg",
-      "team_1": "Royals of Rayalaseema",
-      "team_2": "Tungabhadra Warriors",
-      "status": "UPCOMING",
-      "event_name": "Andhra Premier League, 2025",
-      "match_name": "Royals of Rayalaseema vs Tungabhadra Warriors",
-      "startTime": "01:30:00 PM 13-08-2025"
     },
     {
       "id": 133411,
@@ -442,18 +430,6 @@
       "startTime": "06:00:00 PM 13-08-2025"
     },
     {
-      "id": 132856,
-      "event_category": "Baseball",
-      "title": "Kansas City Royals vs Washington Nationals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132856_CASACARDS_APP.png",
-      "team_1": "Kansas City Royals",
-      "team_2": "Washington Nationals",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Kansas City Royals vs Washington Nationals",
-      "startTime": "11:40:00 PM 13-08-2025"
-    },
-    {
       "id": 133417,
       "event_category": "Cricket",
       "title": "Sir Oliver Split vs Rijeka Markhors (ECS Croatia, 2025)",
@@ -464,6 +440,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Sir Oliver Split vs Rijeka Markhors",
       "startTime": "04:15:00 PM 14-08-2025"
+    },
+    {
+      "id": 132792,
+      "event_category": "Cricket",
+      "title": "Gulbarga Mystics vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132792_5530_GMY_BB_fc-Web.jpg",
+      "team_1": "Gulbarga Mystics",
+      "team_2": "Bengaluru Blasters",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Gulbarga Mystics vs Bengaluru Blasters",
+      "startTime": "07:15:00 PM 14-08-2025"
     }
   ]
 }
