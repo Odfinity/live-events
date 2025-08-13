@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:01 PM 13-08-2025",
+  "last update time": "08:23 PM 13-08-2025",
   "matches": [
     {
       "id": 132790,
@@ -60,20 +60,6 @@
       "adfree_url": "https://mls3.fancode.com/250799c1-0864-4a84-9d15-cb1732489b9d/index.m3u8"
     },
     {
-      "id": 133413,
-      "event_category": "Cricket",
-      "title": "Zagreb Warriors vs Sir Oliver Split (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Warriors",
-      "team_2": "Sir Oliver Split",
-      "status": "LIVE",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Warriors vs Sir Oliver Split",
-      "startTime": "06:15:00 PM 13-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XouxpKGLRJeAxX4fwl6Lhg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133413_english_hls_34275ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132770,
       "event_category": "Cricket",
       "title": "Vijayawada Sunshiners vs Bhimavaram Bulls (Andhra Premier League, 2025)",
@@ -86,6 +72,20 @@
       "startTime": "06:30:00 PM 13-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/do59HaKWQXquDNS0wE0YaQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132770_english_hls_5825ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133414,
+      "event_category": "Cricket",
+      "title": "Rijeka Markhors vs Zagreb Assassins (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Rijeka Markhors",
+      "team_2": "Zagreb Assassins",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Rijeka Markhors vs Zagreb Assassins",
+      "startTime": "08:15:00 PM 13-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Jj2mGfELQBmrYKKa-PKFYg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133414_english_hls_88477ta-di_h264/index.m3u8"
     },
     {
       "id": 132198,
@@ -140,16 +140,16 @@
       "startTime": "07:00:00 PM 13-08-2025"
     },
     {
-      "id": 133414,
+      "id": 133557,
       "event_category": "Cricket",
-      "title": "Rijeka Markhors vs Zagreb Assassins (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Rijeka Markhors",
-      "team_2": "Zagreb Assassins",
+      "title": "TBC vs TBC (LEGEN‑Z T10 League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Rijeka Markhors vs Zagreb Assassins",
-      "startTime": "08:15:00 PM 13-08-2025"
+      "event_name": "LEGEN‑Z T10 League",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:00:00 PM 13-08-2025"
     },
     {
       "id": 132791,
@@ -162,18 +162,6 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Mysore Warriors vs Mangaluru Dragons",
       "startTime": "03:15:00 PM 14-08-2025"
-    },
-    {
-      "id": 133557,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "TBC vs TBC",
-      "startTime": "09:00:00 PM 13-08-2025"
     },
     {
       "id": 132154,
@@ -236,18 +224,6 @@
       "startTime": "07:00:00 AM 14-08-2025"
     },
     {
-      "id": 133257,
-      "event_category": "Basketball",
-      "title": "Iran vs Chinese Taipei (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ran-vs-Chinese-old.jpg",
-      "team_1": "Iran",
-      "team_2": "Chinese Taipei",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Iran vs Chinese Taipei",
-      "startTime": "09:30:00 PM 13-08-2025"
-    },
-    {
       "id": 132792,
       "event_category": "Cricket",
       "title": "Gulbarga Mystics vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
@@ -260,16 +236,16 @@
       "startTime": "07:15:00 PM 14-08-2025"
     },
     {
-      "id": 133415,
-      "event_category": "Cricket",
-      "title": "Sir Oliver Split vs Zagreb Warriors (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Sir Oliver Split",
-      "team_2": "Zagreb Warriors",
+      "id": 133257,
+      "event_category": "Basketball",
+      "title": "Iran vs Chinese Taipei (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ran-vs-Chinese-old.jpg",
+      "team_1": "Iran",
+      "team_2": "Chinese Taipei",
       "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Sir Oliver Split vs Zagreb Warriors",
-      "startTime": "12:15:00 PM 14-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Iran vs Chinese Taipei",
+      "startTime": "09:30:00 PM 13-08-2025"
     },
     {
       "id": 132268,
@@ -282,6 +258,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "London Spirit Women vs Trent Rockets Women",
       "startTime": "07:30:00 PM 14-08-2025"
+    },
+    {
+      "id": 133415,
+      "event_category": "Cricket",
+      "title": "Sir Oliver Split vs Zagreb Warriors (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Sir Oliver Split",
+      "team_2": "Zagreb Warriors",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Sir Oliver Split vs Zagreb Warriors",
+      "startTime": "12:15:00 PM 14-08-2025"
     },
     {
       "id": 133926,
@@ -438,6 +426,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Oakland Athletics vs Tampa Bay Rays",
       "startTime": "07:35:00 AM 14-08-2025"
+    },
+    {
+      "id": 132157,
+      "event_category": "Cricket",
+      "title": "ACE KRM Panthers vs Bihar CC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "Bihar CC",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs Bihar CC",
+      "startTime": "12:15:00 AM 15-08-2025"
     }
   ]
 }
