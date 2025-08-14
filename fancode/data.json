@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:56 AM 15-08-2025",
+  "last update time": "02:15 AM 15-08-2025",
   "matches": [
     {
       "id": 132234,
@@ -16,20 +16,6 @@
       "startTime": "11:00:00 PM 14-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755235480~acl=/*~id=46005873286136811157603021978661~hmac=efdb4b89a88b58f6e435e25acc04066f5a7ed15eec5f7eeffd6166c548156302"
-    },
-    {
-      "id": 132157,
-      "event_category": "Cricket",
-      "title": "Bihar CC vs ACE KRM Panthers (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Bihar CC",
-      "team_2": "ACE KRM Panthers",
-      "status": "LIVE",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Bihar CC vs ACE KRM Panthers",
-      "startTime": "12:15:00 AM 15-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/wB_pBjA3Q86-id7ak9adrw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132157_english_hls_16793ta-di_h264/index.m3u8"
     },
     {
       "id": 133260,
@@ -454,6 +440,18 @@
       "startTime": "10:15:00 AM 15-08-2025"
     },
     {
+      "id": 133468,
+      "event_category": "Football",
+      "title": "SG Sonnenhof Großaspach vs Bayer 04 Leverkusen (DFB Pokal 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/133468_CASACARDS_APP.png",
+      "team_1": "SG Sonnenhof Großaspach",
+      "team_2": "Bayer 04 Leverkusen",
+      "status": "UPCOMING",
+      "event_name": "DFB Pokal 2025-26",
+      "match_name": "SG Sonnenhof Großaspach vs Bayer 04 Leverkusen",
+      "startTime": "09:30:00 PM 15-08-2025"
+    },
+    {
       "id": 133702,
       "event_category": "Kabaddi",
       "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
@@ -466,16 +464,16 @@
       "startTime": "11:45:00 AM 15-08-2025"
     },
     {
-      "id": 133468,
+      "id": 130836,
       "event_category": "Football",
-      "title": "SG Sonnenhof Großaspach vs Bayer 04 Leverkusen (DFB Pokal 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/133468_CASACARDS_APP.png",
-      "team_1": "SG Sonnenhof Großaspach",
-      "team_2": "Bayer 04 Leverkusen",
+      "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
+      "team_1": "Girona",
+      "team_2": "Rayo Vallecano",
       "status": "UPCOMING",
-      "event_name": "DFB Pokal 2025-26",
-      "match_name": "SG Sonnenhof Großaspach vs Bayer 04 Leverkusen",
-      "startTime": "09:30:00 PM 15-08-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona vs Rayo Vallecano",
+      "startTime": "10:30:00 PM 15-08-2025"
     }
   ]
 }
