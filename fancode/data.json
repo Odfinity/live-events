@@ -1,21 +1,33 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:29 PM 14-08-2025",
+  "last update time": "07:12 PM 14-08-2025",
   "matches": [
     {
-      "id": 133534,
+      "id": 132268,
       "event_category": "Cricket",
-      "title": "Pakistan Shaheens vs Bangladesh A (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133534_5574_PKS_BN-A_fc-web.jpg",
-      "team_1": "Pakistan Shaheens",
-      "team_2": "Bangladesh A",
+      "title": "Trent Rockets Women vs London Spirit Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132268_5506_LNS-W_TRT-W_Fc-Web.jpg",
+      "team_1": "Trent Rockets Women",
+      "team_2": "London Spirit Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Trent Rockets Women vs London Spirit Women",
+      "startTime": "07:30:00 PM 14-08-2025"
+    },
+    {
+      "id": 132792,
+      "event_category": "Cricket",
+      "title": "Gulbarga Mystics vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132792_5530_GMY_BB_fc-Web.jpg",
+      "team_1": "Gulbarga Mystics",
+      "team_2": "Bengaluru Blasters",
       "status": "LIVE",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Pakistan Shaheens vs Bangladesh A",
-      "startTime": "03:00:00 PM 14-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/F1wAsCDoT_y84DL5sHvhww/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133534_english_hls_16284ta-di_h264/index.m3u8"
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Gulbarga Mystics vs Bengaluru Blasters",
+      "startTime": "07:15:00 PM 14-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/BIhOUdmvRKOtcFtPf9n7MA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132792_english_hls_6343ta-di_h264/index.m3u8"
     },
     {
       "id": 133418,
@@ -30,34 +42,6 @@
       "startTime": "06:15:00 PM 14-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Ss9B5IlHTuSVwzxGHoxF_Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133418_english_hls_49932ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133258,
-      "event_category": "Basketball",
-      "title": "China vs South Korea (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-South-Korea-old.jpg",
-      "team_1": "China",
-      "team_2": "South Korea",
-      "status": "LIVE",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs South Korea",
-      "startTime": "04:30:00 PM 14-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yuaOdXB6Sv62JvmK3vNKNQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133258_english_hls_4900ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132934,
-      "event_category": "Padel",
-      "title": "Khan Tigers vs Vernost Jaguars (World Padel League - Season 3)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132934_5502_TIG_JA_fc-Web.jpg",
-      "team_1": "Khan Tigers",
-      "team_2": "Vernost Jaguars",
-      "status": "LIVE",
-      "event_name": "World Padel League - Season 3",
-      "match_name": "Khan Tigers vs Vernost Jaguars",
-      "startTime": "04:00:00 PM 14-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JN0bwjOPSYuVdMDow4hQxg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132934_english_hls_87956ta-di_h264/index.m3u8"
     },
     {
       "id": 132913,
@@ -102,28 +86,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132935_english_hls_22021ta-di_h264/index.m3u8"
     },
     {
-      "id": 132792,
-      "event_category": "Cricket",
-      "title": "Gulbarga Mystics vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132792_5530_GMY_BB_fc-Web.jpg",
-      "team_1": "Gulbarga Mystics",
-      "team_2": "Bengaluru Blasters",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Gulbarga Mystics vs Bengaluru Blasters",
-      "startTime": "07:15:00 PM 14-08-2025"
-    },
-    {
-      "id": 132268,
-      "event_category": "Cricket",
-      "title": "London Spirit Women vs Trent Rockets Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132268_5506_LNS-W_TRT-W_Fc-Web.jpg",
-      "team_1": "London Spirit Women",
-      "team_2": "Trent Rockets Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "London Spirit Women vs Trent Rockets Women",
-      "startTime": "07:30:00 PM 14-08-2025"
+      "id": 133260,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 1 vs  Ownings Mills, Maryland (BMW Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+      "team_1": "Main Feed - Day 1",
+      "team_2": " Ownings Mills, Maryland",
+      "status": "LIVE",
+      "event_name": "BMW Championship 2025",
+      "match_name": "Main Feed - Day 1",
+      "startTime": "06:45:00 PM 14-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/GHYK-1QJTv-kWqlYvzCRzw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133260_english_hls_85748ta-di_h264/index.m3u8"
     },
     {
       "id": 132234,
@@ -282,30 +256,6 @@
       "startTime": "12:30:00 PM 15-08-2025"
     },
     {
-      "id": 133864,
-      "event_category": "Cricket",
-      "title": "Norway vs Hungary (ECI Norway, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-      "team_1": "Norway",
-      "team_2": "Hungary",
-      "status": "UPCOMING",
-      "event_name": "ECI Norway, 2025",
-      "match_name": "Norway vs Hungary",
-      "startTime": "12:45:00 PM 15-08-2025"
-    },
-    {
-      "id": 132771,
-      "event_category": "Cricket",
-      "title": "Simhadri Vizag Lions vs Royals of Rayalaseema (Andhra Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132771_5529_SVL_ROR_fc-Web.jpg",
-      "team_1": "Simhadri Vizag Lions",
-      "team_2": "Royals of Rayalaseema",
-      "status": "UPCOMING",
-      "event_name": "Andhra Premier League, 2025",
-      "match_name": "Simhadri Vizag Lions vs Royals of Rayalaseema",
-      "startTime": "01:30:00 PM 15-08-2025"
-    },
-    {
       "id": 132485,
       "event_category": "Cricket",
       "title": "Outer Delhi Warriors vs South Delhi Superstarz (Delhi Premier League, 2025)",
@@ -318,16 +268,16 @@
       "startTime": "07:00:00 PM 15-08-2025"
     },
     {
-      "id": 133503,
+      "id": 133864,
       "event_category": "Cricket",
-      "title": "Northern Territory Strike vs Nepal (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133503_5574_NTS_NEP_fc-web.jpg",
-      "team_1": "Northern Territory Strike",
-      "team_2": "Nepal",
+      "title": "Norway vs Hungary (ECI Norway, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+      "team_1": "Norway",
+      "team_2": "Hungary",
       "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Northern Territory Strike vs Nepal",
-      "startTime": "02:00:00 PM 15-08-2025"
+      "event_name": "ECI Norway, 2025",
+      "match_name": "Norway vs Hungary",
+      "startTime": "12:45:00 PM 15-08-2025"
     },
     {
       "id": 132794,
@@ -342,16 +292,16 @@
       "startTime": "07:15:00 PM 15-08-2025"
     },
     {
-      "id": 133421,
+      "id": 132771,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "title": "Simhadri Vizag Lions vs Royals of Rayalaseema (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132771_5529_SVL_ROR_fc-Web.jpg",
+      "team_1": "Simhadri Vizag Lions",
+      "team_2": "Royals of Rayalaseema",
       "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:15:00 PM 15-08-2025"
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Simhadri Vizag Lions vs Royals of Rayalaseema",
+      "startTime": "01:30:00 PM 15-08-2025"
     },
     {
       "id": 132269,
@@ -366,6 +316,30 @@
       "startTime": "07:30:00 PM 15-08-2025"
     },
     {
+      "id": 133503,
+      "event_category": "Cricket",
+      "title": "Northern Territory Strike vs Nepal (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133503_5574_NTS_NEP_fc-web.jpg",
+      "team_1": "Northern Territory Strike",
+      "team_2": "Nepal",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Northern Territory Strike vs Nepal",
+      "startTime": "02:00:00 PM 15-08-2025"
+    },
+    {
+      "id": 133421,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "02:15:00 PM 15-08-2025"
+    },
+    {
       "id": 133865,
       "event_category": "Cricket",
       "title": "Norway vs Sweden (ECI Norway, 2025)",
@@ -378,16 +352,40 @@
       "startTime": "02:45:00 PM 15-08-2025"
     },
     {
-      "id": 133260,
+      "id": 133263,
       "event_category": "Golf",
-      "title": "Main Feed - Day 1 vs  Ownings Mills, Maryland (BMW Championship 2025)",
+      "title": "Featured Group - Day 1 vs  Ownings Mills, Maryland  (BMW Championship 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
-      "team_1": "Main Feed - Day 1",
-      "team_2": " Ownings Mills, Maryland",
+      "team_1": "Featured Group - Day 1",
+      "team_2": " Ownings Mills, Maryland ",
       "status": "UPCOMING",
       "event_name": "BMW Championship 2025",
-      "match_name": "Main Feed - Day 1",
-      "startTime": "06:45:00 PM 14-08-2025"
+      "match_name": "Featured Group - Day 1",
+      "startTime": "07:30:00 PM 14-08-2025"
+    },
+    {
+      "id": 133262,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 1 vs  Ownings Mills, Maryland  (BMW Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+      "team_1": "Featured Holes - Day 1",
+      "team_2": " Ownings Mills, Maryland ",
+      "status": "UPCOMING",
+      "event_name": "BMW Championship 2025",
+      "match_name": "Featured Holes - Day 1",
+      "startTime": "07:30:00 PM 14-08-2025"
+    },
+    {
+      "id": 133261,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 1 vs  Ownings Mills, Maryland  (BMW Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+      "team_1": "Marquee Group - Day 1",
+      "team_2": " Ownings Mills, Maryland ",
+      "status": "UPCOMING",
+      "event_name": "BMW Championship 2025",
+      "match_name": "Marquee Group - Day 1",
+      "startTime": "07:45:00 PM 14-08-2025"
     },
     {
       "id": 133701,
@@ -400,18 +398,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Amaravati Crushers vs Vizag Commandos",
       "startTime": "10:15:00 AM 15-08-2025"
-    },
-    {
-      "id": 133702,
-      "event_category": "Kabaddi",
-      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Krishna Defenders",
-      "team_2": "Tirupati Raiders",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Krishna Defenders vs Tirupati Raiders",
-      "startTime": "11:45:00 AM 15-08-2025"
     },
     {
       "id": 133866,
@@ -438,6 +424,18 @@
       "startTime": "05:00:00 PM 15-08-2025"
     },
     {
+      "id": 133702,
+      "event_category": "Kabaddi",
+      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+      "team_1": "Krishna Defenders",
+      "team_2": "Tirupati Raiders",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Krishna Defenders vs Tirupati Raiders",
+      "startTime": "11:45:00 AM 15-08-2025"
+    },
+    {
       "id": 133422,
       "event_category": "Cricket",
       "title": "TBC vs TBC (ECS Croatia, 2025)",
@@ -448,6 +446,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "05:30:00 PM 15-08-2025"
+    },
+    {
+      "id": 132772,
+      "event_category": "Cricket",
+      "title": "Bhimavaram Bulls vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132772_5529_BVB_TBW_fc-Web.jpg",
+      "team_1": "Bhimavaram Bulls",
+      "team_2": "Tungabhadra Warriors",
+      "status": "UPCOMING",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Bhimavaram Bulls vs Tungabhadra Warriors",
+      "startTime": "06:30:00 PM 15-08-2025"
     }
   ]
 }
