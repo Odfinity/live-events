@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:19 PM 14-08-2025",
+  "last update time": "04:39 PM 14-08-2025",
   "matches": [
     {
       "id": 132791,
@@ -84,8 +84,8 @@
       "event_name": "Danish Golf Championship 2025",
       "match_name": "Day 1",
       "startTime": "04:30:00 PM 14-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/vSy5_v5USFGzAvQvSFhjgg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132913_english_hls_19888ta-di_h264/index.m3u8"
     },
     {
       "id": 132792,
@@ -196,18 +196,6 @@
       "startTime": "12:15:00 AM 15-08-2025"
     },
     {
-      "id": 133500,
-      "event_category": "Cricket",
-      "title": "Australian Capital Territory vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133500_5574_ACT_HHA_fc-web.jpg",
-      "team_1": "Australian Capital Territory",
-      "team_2": "Hobart Hurricanes Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Australian Capital Territory vs Hobart Hurricanes Academy",
-      "startTime": "07:00:00 AM 15-08-2025"
-    },
-    {
       "id": 132793,
       "event_category": "Cricket",
       "title": "Shivamogga Lions vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
@@ -218,6 +206,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Shivamogga Lions vs Bengaluru Blasters",
       "startTime": "03:15:00 PM 15-08-2025"
+    },
+    {
+      "id": 133500,
+      "event_category": "Cricket",
+      "title": "Australian Capital Territory vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133500_5574_ACT_HHA_fc-web.jpg",
+      "team_1": "Australian Capital Territory",
+      "team_2": "Hobart Hurricanes Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Australian Capital Territory vs Hobart Hurricanes Academy",
+      "startTime": "07:00:00 AM 15-08-2025"
     },
     {
       "id": 133259,
@@ -292,18 +292,6 @@
       "startTime": "12:45:00 PM 15-08-2025"
     },
     {
-      "id": 132199,
-      "event_category": "Arm Wrestling",
-      "title": "Day 10 vs Gwalior (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
-      "team_1": "Day 10",
-      "team_2": "Gwalior",
-      "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 10",
-      "startTime": "05:00:00 PM 14-08-2025"
-    },
-    {
       "id": 132771,
       "event_category": "Cricket",
       "title": "Simhadri Vizag Lions vs Royals of Rayalaseema (Andhra Premier League, 2025)",
@@ -314,6 +302,18 @@
       "event_name": "Andhra Premier League, 2025",
       "match_name": "Simhadri Vizag Lions vs Royals of Rayalaseema",
       "startTime": "01:30:00 PM 15-08-2025"
+    },
+    {
+      "id": 132199,
+      "event_category": "Arm Wrestling",
+      "title": "Day 10 vs Gwalior (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+      "team_1": "Day 10",
+      "team_2": "Gwalior",
+      "status": "UPCOMING",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 10",
+      "startTime": "05:00:00 PM 14-08-2025"
     },
     {
       "id": 133503,
@@ -352,18 +352,6 @@
       "startTime": "02:45:00 PM 15-08-2025"
     },
     {
-      "id": 133701,
-      "event_category": "Kabaddi",
-      "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Amaravati Crushers",
-      "team_2": "Vizag Commandos",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Amaravati Crushers vs Vizag Commandos",
-      "startTime": "10:15:00 AM 15-08-2025"
-    },
-    {
       "id": 132485,
       "event_category": "Cricket",
       "title": "Outer Delhi Warriors vs South Delhi Superstarz (Delhi Premier League, 2025)",
@@ -374,6 +362,18 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Outer Delhi Warriors vs South Delhi Superstarz",
       "startTime": "07:00:00 PM 15-08-2025"
+    },
+    {
+      "id": 133701,
+      "event_category": "Kabaddi",
+      "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+      "team_1": "Amaravati Crushers",
+      "team_2": "Vizag Commandos",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Amaravati Crushers vs Vizag Commandos",
+      "startTime": "10:15:00 AM 15-08-2025"
     },
     {
       "id": 132794,
@@ -388,18 +388,6 @@
       "startTime": "07:15:00 PM 15-08-2025"
     },
     {
-      "id": 133702,
-      "event_category": "Kabaddi",
-      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Krishna Defenders",
-      "team_2": "Tirupati Raiders",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Krishna Defenders vs Tirupati Raiders",
-      "startTime": "11:45:00 AM 15-08-2025"
-    },
-    {
       "id": 132269,
       "event_category": "Cricket",
       "title": "Northern Superchargers Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
@@ -410,6 +398,18 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Northern Superchargers Women vs Birmingham Phoenix Women",
       "startTime": "07:30:00 PM 15-08-2025"
+    },
+    {
+      "id": 133702,
+      "event_category": "Kabaddi",
+      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+      "team_1": "Krishna Defenders",
+      "team_2": "Tirupati Raiders",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Krishna Defenders vs Tirupati Raiders",
+      "startTime": "11:45:00 AM 15-08-2025"
     },
     {
       "id": 133866,
@@ -448,18 +448,6 @@
       "startTime": "05:30:00 PM 15-08-2025"
     },
     {
-      "id": 133703,
-      "event_category": "Kabaddi",
-      "title": "Kakinada Kraken vs Kurnool Knights (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Kakinada Kraken",
-      "team_2": "Kurnool Knights",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Kakinada Kraken vs Kurnool Knights",
-      "startTime": "03:45:00 PM 15-08-2025"
-    },
-    {
       "id": 132772,
       "event_category": "Cricket",
       "title": "Bhimavaram Bulls vs Tungabhadra Warriors (Andhra Premier League, 2025)",
@@ -470,6 +458,18 @@
       "event_name": "Andhra Premier League, 2025",
       "match_name": "Bhimavaram Bulls vs Tungabhadra Warriors",
       "startTime": "06:30:00 PM 15-08-2025"
+    },
+    {
+      "id": 133703,
+      "event_category": "Kabaddi",
+      "title": "Kakinada Kraken vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+      "team_1": "Kakinada Kraken",
+      "team_2": "Kurnool Knights",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Kakinada Kraken vs Kurnool Knights",
+      "startTime": "03:45:00 PM 15-08-2025"
     }
   ]
 }
