@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:26 PM 14-08-2025",
+  "last update time": "02:07 PM 14-08-2025",
   "matches": [
-    {
-      "id": 133415,
-      "event_category": "Cricket",
-      "title": "Zagreb Warriors vs Sir Oliver Split (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Warriors",
-      "team_2": "Sir Oliver Split",
-      "status": "LIVE",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Warriors vs Sir Oliver Split",
-      "startTime": "12:15:00 PM 14-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/81Zuf7-DTWaPL8KtpQz3Ew/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133415_english_hls_68445ta-di_h264/index.m3u8"
-    },
     {
       "id": 133926,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "01:00:00 PM 14-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/NTBp9rVPTOu5vnmlyU6TaA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133926_english_hls_88165ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133416,
+      "event_category": "Cricket",
+      "title": "Zagreb Sokol vs Zagreb Assassins (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Sokol",
+      "team_2": "Zagreb Assassins",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Sokol vs Zagreb Assassins",
+      "startTime": "02:15:00 PM 14-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RAJZPWSQTIqMu3PDmZA3Xg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133416_english_hls_53094ta-di_h264/index.m3u8"
     },
     {
       "id": 132791,
@@ -90,18 +90,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons",
       "startTime": "04:30:00 AM 15-08-2025"
-    },
-    {
-      "id": 133416,
-      "event_category": "Cricket",
-      "title": "Zagreb Sokol vs Zagreb Assassins (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Sokol",
-      "team_2": "Zagreb Assassins",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Sokol vs Zagreb Assassins",
-      "startTime": "02:15:00 PM 14-08-2025"
     },
     {
       "id": 133233,
@@ -311,7 +299,7 @@
       "id": 133701,
       "event_category": "Kabaddi",
       "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
       "team_1": "Amaravati Crushers",
       "team_2": "Vizag Commandos",
       "status": "UPCOMING",
@@ -344,18 +332,6 @@
       "startTime": "02:15:00 PM 15-08-2025"
     },
     {
-      "id": 133702,
-      "event_category": "Kabaddi",
-      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-      "team_1": "Krishna Defenders",
-      "team_2": "Tirupati Raiders",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Krishna Defenders vs Tirupati Raiders",
-      "startTime": "11:45:00 AM 15-08-2025"
-    },
-    {
       "id": 133865,
       "event_category": "Cricket",
       "title": "Norway vs Sweden (ECI Norway, 2025)",
@@ -366,6 +342,66 @@
       "event_name": "ECI Norway, 2025",
       "match_name": "Norway vs Sweden",
       "startTime": "02:45:00 PM 15-08-2025"
+    },
+    {
+      "id": 133702,
+      "event_category": "Kabaddi",
+      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+      "team_1": "Krishna Defenders",
+      "team_2": "Tirupati Raiders",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Krishna Defenders vs Tirupati Raiders",
+      "startTime": "11:45:00 AM 15-08-2025"
+    },
+    {
+      "id": 132485,
+      "event_category": "Cricket",
+      "title": "Outer Delhi Warriors vs South Delhi Superstarz (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132485_5521_ODW_SDS_fc-Web.jpg",
+      "team_1": "Outer Delhi Warriors",
+      "team_2": "South Delhi Superstarz",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Outer Delhi Warriors vs South Delhi Superstarz",
+      "startTime": "07:00:00 PM 15-08-2025"
+    },
+    {
+      "id": 132794,
+      "event_category": "Cricket",
+      "title": "Hubli Tigers vs Mangaluru Dragons (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132794_5530_HT_MD_fc-Web.jpg",
+      "team_1": "Hubli Tigers",
+      "team_2": "Mangaluru Dragons",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Hubli Tigers vs Mangaluru Dragons",
+      "startTime": "07:15:00 PM 15-08-2025"
+    },
+    {
+      "id": 132269,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132269_5506_NOS-W_BPH-W_Fc-Web.jpg",
+      "team_1": "Northern Superchargers Women",
+      "team_2": "Birmingham Phoenix Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Northern Superchargers Women vs Birmingham Phoenix Women",
+      "startTime": "07:30:00 PM 15-08-2025"
+    },
+    {
+      "id": 133866,
+      "event_category": "Cricket",
+      "title": "Sweden vs Hungary (ECI Norway, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+      "team_1": "Sweden",
+      "team_2": "Hungary",
+      "status": "UPCOMING",
+      "event_name": "ECI Norway, 2025",
+      "match_name": "Sweden vs Hungary",
+      "startTime": "04:45:00 PM 15-08-2025"
     },
     {
       "id": 132934,
@@ -426,42 +462,6 @@
       "event_name": "BMW Championship 2025",
       "match_name": "Main Feed - Day 1",
       "startTime": "06:45:00 PM 14-08-2025"
-    },
-    {
-      "id": 133263,
-      "event_category": "Golf",
-      "title": "Featured Group - Day 1 vs  Ownings Mills, Maryland  (BMW Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
-      "team_1": "Featured Group - Day 1",
-      "team_2": " Ownings Mills, Maryland ",
-      "status": "UPCOMING",
-      "event_name": "BMW Championship 2025",
-      "match_name": "Featured Group - Day 1",
-      "startTime": "07:30:00 PM 14-08-2025"
-    },
-    {
-      "id": 133262,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 1 vs  Ownings Mills, Maryland  (BMW Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
-      "team_1": "Featured Holes - Day 1",
-      "team_2": " Ownings Mills, Maryland ",
-      "status": "UPCOMING",
-      "event_name": "BMW Championship 2025",
-      "match_name": "Featured Holes - Day 1",
-      "startTime": "07:30:00 PM 14-08-2025"
-    },
-    {
-      "id": 132485,
-      "event_category": "Cricket",
-      "title": "Outer Delhi Warriors vs South Delhi Superstarz (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132485_5521_ODW_SDS_fc-Web.jpg",
-      "team_1": "Outer Delhi Warriors",
-      "team_2": "South Delhi Superstarz",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Outer Delhi Warriors vs South Delhi Superstarz",
-      "startTime": "07:00:00 PM 15-08-2025"
     }
   ]
 }
