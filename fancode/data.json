@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:56 AM 15-08-2025",
+  "last update time": "04:15 AM 15-08-2025",
   "matches": [
+    {
+      "id": 132346,
+      "event_category": "Cricket",
+      "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132346_5512_SKN_ABF_fc-web.jpg",
+      "team_1": "Antigua & Barbuda Falcons",
+      "team_2": "St Kitts and Nevis Patriots",
+      "status": "LIVE",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
+      "startTime": "04:30:00 AM 15-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/cEvzcAWFQXmVIycvB-WGZw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132346_english_hls_4249ta-di_h264/index.m3u8"
+    },
     {
       "id": 133260,
       "event_category": "Golf",
@@ -72,18 +86,6 @@
       "startTime": "11:30:00 PM 14-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/KP0MTgqYSnSiTQm154aCGQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133264_english_hls_87413ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132346,
-      "event_category": "Cricket",
-      "title": "St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132346_5512_SKN_ABF_fc-web.jpg",
-      "team_1": "St Kitts and Nevis Patriots",
-      "team_2": "Antigua & Barbuda Falcons",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons",
-      "startTime": "04:30:00 AM 15-08-2025"
     },
     {
       "id": 133233,
@@ -398,18 +400,6 @@
       "startTime": "09:30:00 PM 15-08-2025"
     },
     {
-      "id": 130836,
-      "event_category": "Football",
-      "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
-      "team_1": "Girona",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona vs Rayo Vallecano",
-      "startTime": "10:30:00 PM 15-08-2025"
-    },
-    {
       "id": 132347,
       "event_category": "Cricket",
       "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
@@ -420,6 +410,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors",
       "startTime": "04:30:00 AM 16-08-2025"
+    },
+    {
+      "id": 130836,
+      "event_category": "Football",
+      "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
+      "team_1": "Girona",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona vs Rayo Vallecano",
+      "startTime": "10:30:00 PM 15-08-2025"
     },
     {
       "id": 132159,
