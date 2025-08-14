@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:28 PM 14-08-2025",
+  "last update time": "10:06 PM 14-08-2025",
   "matches": [
     {
       "id": 132268,
@@ -46,18 +46,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133419_english_hls_55222ta-di_h264/index.m3u8"
     },
     {
-      "id": 132913,
-      "event_category": "Golf",
-      "title": "Day 1 vs Copenhagen, Denmark (Danish Golf Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Danish-Golf-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Copenhagen, Denmark",
+      "id": 132156,
+      "event_category": "Cricket",
+      "title": "Keraniganj Challengers vs CECC (KCC T10 Summer League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132156_CASACARDS_APP.png",
+      "team_1": "Keraniganj Challengers",
+      "team_2": "CECC",
       "status": "LIVE",
-      "event_name": "Danish Golf Championship 2025",
-      "match_name": "Day 1",
-      "startTime": "04:30:00 PM 14-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/vSy5_v5USFGzAvQvSFhjgg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132913_english_hls_19888ta-di_h264/index.m3u8"
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Keraniganj Challengers vs CECC",
+      "startTime": "10:15:00 PM 14-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/1LuKBhvYQ86L7TBKcZiiXQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132156_english_hls_54640ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133259,
+      "event_category": "Basketball",
+      "title": "New Zealand vs Lebanon (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ew-Zealand-vs-Lebanon-old.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Lebanon",
+      "status": "LIVE",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "New Zealand vs Lebanon",
+      "startTime": "09:30:00 PM 14-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/7yZnQikKT4u-ci60X9DNlA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133259_english_hls_33765ta-di_h264/index.m3u8"
     },
     {
       "id": 133260,
@@ -164,42 +178,6 @@
       "startTime": "03:15:00 PM 15-08-2025"
     },
     {
-      "id": 133259,
-      "event_category": "Basketball",
-      "title": "New Zealand vs Lebanon (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ew-Zealand-vs-Lebanon-old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Lebanon",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "New Zealand vs Lebanon",
-      "startTime": "09:30:00 PM 14-08-2025"
-    },
-    {
-      "id": 132156,
-      "event_category": "Cricket",
-      "title": "CECC vs Keraniganj Challengers (KCC T10 Summer League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132156_CASACARDS_APP.png",
-      "team_1": "CECC",
-      "team_2": "Keraniganj Challengers",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "CECC vs Keraniganj Challengers",
-      "startTime": "10:15:00 PM 14-08-2025"
-    },
-    {
-      "id": 132157,
-      "event_category": "Cricket",
-      "title": "ACE KRM Panthers vs Bihar CC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "ACE KRM Panthers",
-      "team_2": "Bihar CC",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "ACE KRM Panthers vs Bihar CC",
-      "startTime": "12:15:00 AM 15-08-2025"
-    },
-    {
       "id": 132485,
       "event_category": "Cricket",
       "title": "Outer Delhi Warriors vs South Delhi Superstarz (Delhi Premier League, 2025)",
@@ -210,18 +188,6 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "Outer Delhi Warriors vs South Delhi Superstarz",
       "startTime": "07:00:00 PM 15-08-2025"
-    },
-    {
-      "id": 133500,
-      "event_category": "Cricket",
-      "title": "Australian Capital Territory vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133500_5574_ACT_HHA_fc-web.jpg",
-      "team_1": "Australian Capital Territory",
-      "team_2": "Hobart Hurricanes Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Australian Capital Territory vs Hobart Hurricanes Academy",
-      "startTime": "07:00:00 AM 15-08-2025"
     },
     {
       "id": 132794,
@@ -236,16 +202,16 @@
       "startTime": "07:15:00 PM 15-08-2025"
     },
     {
-      "id": 133501,
+      "id": 132157,
       "event_category": "Cricket",
-      "title": "Melbourne Stars Academy vs Melbourne Renegades Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133501_5574_MSA_MRA_fc-web.jpg",
-      "team_1": "Melbourne Stars Academy",
-      "team_2": "Melbourne Renegades Academy",
+      "title": "ACE KRM Panthers vs Bihar CC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "Bihar CC",
       "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Melbourne Stars Academy vs Melbourne Renegades Academy",
-      "startTime": "09:00:00 AM 15-08-2025"
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs Bihar CC",
+      "startTime": "12:15:00 AM 15-08-2025"
     },
     {
       "id": 132269,
@@ -258,6 +224,30 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Northern Superchargers Women vs Birmingham Phoenix Women",
       "startTime": "07:30:00 PM 15-08-2025"
+    },
+    {
+      "id": 133500,
+      "event_category": "Cricket",
+      "title": "Australian Capital Territory vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133500_5574_ACT_HHA_fc-web.jpg",
+      "team_1": "Australian Capital Territory",
+      "team_2": "Hobart Hurricanes Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Australian Capital Territory vs Hobart Hurricanes Academy",
+      "startTime": "07:00:00 AM 15-08-2025"
+    },
+    {
+      "id": 133501,
+      "event_category": "Cricket",
+      "title": "Melbourne Stars Academy vs Melbourne Renegades Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133501_5574_MSA_MRA_fc-web.jpg",
+      "team_1": "Melbourne Stars Academy",
+      "team_2": "Melbourne Renegades Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Melbourne Stars Academy vs Melbourne Renegades Academy",
+      "startTime": "09:00:00 AM 15-08-2025"
     },
     {
       "id": 133502,
@@ -392,28 +382,16 @@
       "startTime": "05:30:00 PM 15-08-2025"
     },
     {
-      "id": 133701,
-      "event_category": "Kabaddi",
-      "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Amaravati Crushers",
-      "team_2": "Vizag Commandos",
+      "id": 132235,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers vs Birmingham Phoenix (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132235_5505_NOS_BPH_fc-web.jpg",
+      "team_1": "Northern Superchargers",
+      "team_2": "Birmingham Phoenix",
       "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Amaravati Crushers vs Vizag Commandos",
-      "startTime": "10:15:00 AM 15-08-2025"
-    },
-    {
-      "id": 133702,
-      "event_category": "Kabaddi",
-      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Krishna Defenders",
-      "team_2": "Tirupati Raiders",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Krishna Defenders vs Tirupati Raiders",
-      "startTime": "11:45:00 AM 15-08-2025"
+      "event_name": "The Hundred, 2025",
+      "match_name": "Northern Superchargers vs Birmingham Phoenix",
+      "startTime": "11:00:00 PM 15-08-2025"
     },
     {
       "id": 132772,
@@ -428,16 +406,16 @@
       "startTime": "06:30:00 PM 15-08-2025"
     },
     {
-      "id": 132235,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers vs Birmingham Phoenix (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132235_5505_NOS_BPH_fc-web.jpg",
-      "team_1": "Northern Superchargers",
-      "team_2": "Birmingham Phoenix",
+      "id": 133701,
+      "event_category": "Kabaddi",
+      "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+      "team_1": "Amaravati Crushers",
+      "team_2": "Vizag Commandos",
       "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Northern Superchargers vs Birmingham Phoenix",
-      "startTime": "11:00:00 PM 15-08-2025"
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Amaravati Crushers vs Vizag Commandos",
+      "startTime": "10:15:00 AM 15-08-2025"
     },
     {
       "id": 133867,
@@ -452,16 +430,40 @@
       "startTime": "06:45:00 PM 15-08-2025"
     },
     {
-      "id": 133703,
+      "id": 133702,
       "event_category": "Kabaddi",
-      "title": "Kakinada Kraken vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Kakinada Kraken",
-      "team_2": "Kurnool Knights",
+      "team_1": "Krishna Defenders",
+      "team_2": "Tirupati Raiders",
       "status": "UPCOMING",
       "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Kakinada Kraken vs Kurnool Knights",
-      "startTime": "03:45:00 PM 15-08-2025"
+      "match_name": "Krishna Defenders vs Tirupati Raiders",
+      "startTime": "11:45:00 AM 15-08-2025"
+    },
+    {
+      "id": 132859,
+      "event_category": "Baseball",
+      "title": "Baltimore Orioles vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_APP.png",
+      "team_1": "Baltimore Orioles",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Baltimore Orioles vs Seattle Mariners",
+      "startTime": "10:35:00 PM 14-08-2025"
+    },
+    {
+      "id": 133423,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "08:30:00 PM 15-08-2025"
     }
   ]
 }
