@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:00 PM 14-08-2025",
+  "last update time": "08:22 PM 14-08-2025",
   "matches": [
     {
       "id": 132268,
@@ -44,6 +44,20 @@
       "startTime": "06:15:00 PM 14-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Ss9B5IlHTuSVwzxGHoxF_Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133418_english_hls_49932ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133419,
+      "event_category": "Cricket",
+      "title": "Zagreb Assassins vs Sir Oliver Split (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Zagreb Assassins",
+      "team_2": "Sir Oliver Split",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Zagreb Assassins vs Sir Oliver Split",
+      "startTime": "08:15:00 PM 14-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ZEuLIt_aTqSljXcEWIGxTw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133419_english_hls_55222ta-di_h264/index.m3u8"
     },
     {
       "id": 132913,
@@ -180,18 +194,6 @@
       "startTime": "05:00:00 AM 15-08-2025"
     },
     {
-      "id": 133419,
-      "event_category": "Cricket",
-      "title": "Zagreb Assassins vs Sir Oliver Split (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Assassins",
-      "team_2": "Sir Oliver Split",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Assassins vs Sir Oliver Split",
-      "startTime": "08:15:00 PM 14-08-2025"
-    },
-    {
       "id": 132793,
       "event_category": "Cricket",
       "title": "Shivamogga Lions vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
@@ -252,18 +254,6 @@
       "startTime": "09:00:00 AM 15-08-2025"
     },
     {
-      "id": 133259,
-      "event_category": "Basketball",
-      "title": "New Zealand vs Lebanon (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ew-Zealand-vs-Lebanon-old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Lebanon",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "New Zealand vs Lebanon",
-      "startTime": "09:30:00 PM 14-08-2025"
-    },
-    {
       "id": 132485,
       "event_category": "Cricket",
       "title": "Outer Delhi Warriors vs South Delhi Superstarz (Delhi Premier League, 2025)",
@@ -276,16 +266,16 @@
       "startTime": "07:00:00 PM 15-08-2025"
     },
     {
-      "id": 133502,
-      "event_category": "Cricket",
-      "title": "Chicago Kingsmen vs Perth Scorchers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133502_5574_CHK_PSA_fc-web.jpg",
-      "team_1": "Chicago Kingsmen",
-      "team_2": "Perth Scorchers Academy",
+      "id": 133259,
+      "event_category": "Basketball",
+      "title": "New Zealand vs Lebanon (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ew-Zealand-vs-Lebanon-old.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Lebanon",
       "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Chicago Kingsmen vs Perth Scorchers Academy",
-      "startTime": "12:00:00 PM 15-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "New Zealand vs Lebanon",
+      "startTime": "09:30:00 PM 14-08-2025"
     },
     {
       "id": 132794,
@@ -300,6 +290,18 @@
       "startTime": "07:15:00 PM 15-08-2025"
     },
     {
+      "id": 133502,
+      "event_category": "Cricket",
+      "title": "Chicago Kingsmen vs Perth Scorchers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133502_5574_CHK_PSA_fc-web.jpg",
+      "team_1": "Chicago Kingsmen",
+      "team_2": "Perth Scorchers Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Chicago Kingsmen vs Perth Scorchers Academy",
+      "startTime": "12:00:00 PM 15-08-2025"
+    },
+    {
       "id": 133420,
       "event_category": "Cricket",
       "title": "TBC vs TBC (ECS Croatia, 2025)",
@@ -310,6 +312,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "12:15:00 PM 15-08-2025"
+    },
+    {
+      "id": 132269,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132269_5506_NOS-W_BPH-W_Fc-Web.jpg",
+      "team_1": "Northern Superchargers Women",
+      "team_2": "Birmingham Phoenix Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Northern Superchargers Women vs Birmingham Phoenix Women",
+      "startTime": "07:30:00 PM 15-08-2025"
     },
     {
       "id": 133670,
@@ -334,18 +348,6 @@
       "event_name": "ECI Norway, 2025",
       "match_name": "Norway vs Hungary",
       "startTime": "12:45:00 PM 15-08-2025"
-    },
-    {
-      "id": 132269,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132269_5506_NOS-W_BPH-W_Fc-Web.jpg",
-      "team_1": "Northern Superchargers Women",
-      "team_2": "Birmingham Phoenix Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Northern Superchargers Women vs Birmingham Phoenix Women",
-      "startTime": "07:30:00 PM 15-08-2025"
     },
     {
       "id": 132771,
@@ -408,18 +410,6 @@
       "startTime": "04:45:00 PM 15-08-2025"
     },
     {
-      "id": 133701,
-      "event_category": "Kabaddi",
-      "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-      "team_1": "Amaravati Crushers",
-      "team_2": "Vizag Commandos",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Amaravati Crushers vs Vizag Commandos",
-      "startTime": "10:15:00 AM 15-08-2025"
-    },
-    {
       "id": 133671,
       "event_category": "Cricket",
       "title": "Muscat Thunders vs Renaissance Challengers (Oman D20 League, 2025)",
@@ -430,6 +420,18 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "Muscat Thunders vs Renaissance Challengers",
       "startTime": "05:00:00 PM 15-08-2025"
+    },
+    {
+      "id": 133701,
+      "event_category": "Kabaddi",
+      "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+      "team_1": "Amaravati Crushers",
+      "team_2": "Vizag Commandos",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Amaravati Crushers vs Vizag Commandos",
+      "startTime": "10:15:00 AM 15-08-2025"
     },
     {
       "id": 133422,
