@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:07 PM 14-08-2025",
+  "last update time": "12:28 PM 14-08-2025",
   "matches": [
     {
       "id": 133415,
@@ -14,8 +14,8 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Warriors vs Sir Oliver Split",
       "startTime": "12:15:00 PM 14-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/81Zuf7-DTWaPL8KtpQz3Ew/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133415_english_hls_68445ta-di_h264/index.m3u8"
     },
     {
       "id": 132791,
@@ -160,18 +160,6 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Zagreb Assassins vs Sir Oliver Split",
       "startTime": "08:15:00 PM 14-08-2025"
-    },
-    {
-      "id": 133557,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (LEGEN‑Z T10 League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "LEGEN‑Z T10 League",
-      "match_name": "TBC vs TBC",
-      "startTime": "09:00:00 PM 14-08-2025"
     },
     {
       "id": 132156,
@@ -460,6 +448,18 @@
       "event_name": "BMW Championship 2025",
       "match_name": "Featured Holes - Day 1",
       "startTime": "07:30:00 PM 14-08-2025"
+    },
+    {
+      "id": 133261,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 1 vs  Ownings Mills, Maryland  (BMW Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+      "team_1": "Marquee Group - Day 1",
+      "team_2": " Ownings Mills, Maryland ",
+      "status": "UPCOMING",
+      "event_name": "BMW Championship 2025",
+      "match_name": "Marquee Group - Day 1",
+      "startTime": "07:45:00 PM 14-08-2025"
     }
   ]
 }
