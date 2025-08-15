@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:10 AM 16-08-2025",
+  "last update time": "03:27 AM 16-08-2025",
   "matches": [
-    {
-      "id": 133478,
-      "event_category": "Football",
-      "title": "Real Valladolid vs Ceuta (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133478_5572_VLD_CEU_fc-Web.jpg",
-      "team_1": "Real Valladolid",
-      "team_2": "Ceuta",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Valladolid vs Ceuta",
-      "startTime": "01:00:00 AM 16-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133478_english_hls_2667770ddf8421adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133478_english_hls_2667770ddf8421adfreeta-di_h264/index.m3u8"
-    },
     {
       "id": 132160,
       "event_category": "Cricket",
@@ -86,34 +72,6 @@
       "startTime": "11:30:00 PM 15-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/tKoas_smS8CKdGN5cT1-RA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133269_english_hls_b602cfedaf9139ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133384,
-      "event_category": "Golf",
-      "title": "Day 1 vs The Club at Chatham Hills, USA (LIV Golf Indianapolis 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Indianapolis-_old_Match_card.jpg",
-      "team_1": "Day 1",
-      "team_2": "The Club at Chatham Hills, USA",
-      "status": "LIVE",
-      "event_name": "LIV Golf Indianapolis 2025",
-      "match_name": "Day 1",
-      "startTime": "09:35:00 PM 15-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/GAuvktZDRwq2HgkzCKk0dQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133384_english_hls_8c53ab33df75557ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130832,
-      "event_category": "Football",
-      "title": "Villarreal vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-vs-Real-Oviedo_oldmatchcard.jpg",
-      "team_1": "Villarreal",
-      "team_2": "Real Oviedo",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Villarreal vs Real Oviedo",
-      "startTime": "01:00:00 AM 16-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130832_english_hls_7d6f5a5ce579078adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130832_english_hls_7d6f5a5ce579078adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 132347,
@@ -452,6 +410,30 @@
       "startTime": "07:00:00 PM 16-08-2025"
     },
     {
+      "id": 133872,
+      "event_category": "Cricket",
+      "title": "Hungary vs Sweden (ECI Norway, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+      "team_1": "Hungary",
+      "team_2": "Sweden",
+      "status": "UPCOMING",
+      "event_name": "ECI Norway, 2025",
+      "match_name": "Hungary vs Sweden",
+      "startTime": "08:15:00 PM 16-08-2025"
+    },
+    {
+      "id": 134051,
+      "event_category": "Cricket",
+      "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
+      "team_1": "Jinx Zagreb",
+      "team_2": "Lavender Lionesses",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Croatia, 2025",
+      "match_name": "Jinx Zagreb vs Lavender Lionesses",
+      "startTime": "08:15:00 PM 16-08-2025"
+    },
+    {
       "id": 131992,
       "event_category": "Football",
       "title": "Blackburn Rovers vs Birmingham City (EFL Championship 2025-26)",
@@ -464,16 +446,16 @@
       "startTime": "07:30:00 PM 16-08-2025"
     },
     {
-      "id": 133872,
+      "id": 133675,
       "event_category": "Cricket",
-      "title": "Hungary vs Sweden (ECI Norway, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-      "team_1": "Hungary",
-      "team_2": "Sweden",
+      "title": "Renaissance Challengers vs Yalla Shabab Giants (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133675_5590_RNC_YSG_fc-Web.jpg",
+      "team_1": "Renaissance Challengers",
+      "team_2": "Yalla Shabab Giants",
       "status": "UPCOMING",
-      "event_name": "ECI Norway, 2025",
-      "match_name": "Hungary vs Sweden",
-      "startTime": "08:15:00 PM 16-08-2025"
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Renaissance Challengers vs Yalla Shabab Giants",
+      "startTime": "09:00:00 PM 16-08-2025"
     }
   ]
 }
