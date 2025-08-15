@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:30 PM 15-08-2025",
+  "last update time": "04:56 PM 15-08-2025",
   "matches": [
     {
       "id": 119154,
@@ -60,6 +60,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133503_english_hls_ddbfb360ed96721ta-di_h264/index.m3u8"
     },
     {
+      "id": 133866,
+      "event_category": "Cricket",
+      "title": "Hungary vs Sweden (ECI Norway, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+      "team_1": "Hungary",
+      "team_2": "Sweden",
+      "status": "LIVE",
+      "event_name": "ECI Norway, 2025",
+      "match_name": "Hungary vs Sweden",
+      "startTime": "04:45:00 PM 15-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/UBck__RmT0yi1-2Hmj_k6w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133866_english_hls_a9929b9d8b94055ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133671,
+      "event_category": "Cricket",
+      "title": "Muscat Thunders vs Renaissance Challengers (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133671_5590_MUT_RNC_fc-Web.jpg",
+      "team_1": "Muscat Thunders",
+      "team_2": "Renaissance Challengers",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Muscat Thunders vs Renaissance Challengers",
+      "startTime": "05:00:00 PM 15-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/UlMfST7bRz2xQPtw4BPdeg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133671_english_hls_81cde183dc27720ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133703,
       "event_category": "Kabaddi",
       "title": "Kakinada Kraken vs Kurnool Knights (Yuva Andhra Championship, 2025)",
@@ -100,6 +128,20 @@
       "startTime": "04:30:00 PM 15-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HpkEIFalRzShp-n78y3JCA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132914_english_hls_5f46b6831515659ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132201,
+      "event_category": "Arm Wrestling",
+      "title": "Day 11 vs Gwalior (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+      "team_1": "Day 11",
+      "team_2": "Gwalior",
+      "status": "LIVE",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 11",
+      "startTime": "05:00:00 PM 15-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/l8RYc1f9StKsGWQ0IJaYZg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132201_english_hls_2cb600908649082ta-di_h264/index.m3u8"
     },
     {
       "id": 132485,
@@ -162,30 +204,6 @@
       "startTime": "04:30:00 AM 16-08-2025"
     },
     {
-      "id": 133866,
-      "event_category": "Cricket",
-      "title": "Hungary vs Sweden (ECI Norway, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-      "team_1": "Hungary",
-      "team_2": "Sweden",
-      "status": "UPCOMING",
-      "event_name": "ECI Norway, 2025",
-      "match_name": "Hungary vs Sweden",
-      "startTime": "04:45:00 PM 15-08-2025"
-    },
-    {
-      "id": 133671,
-      "event_category": "Cricket",
-      "title": "Muscat Thunders vs Renaissance Challengers (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133671_5590_MUT_RNC_fc-Web.jpg",
-      "team_1": "Muscat Thunders",
-      "team_2": "Renaissance Challengers",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Muscat Thunders vs Renaissance Challengers",
-      "startTime": "05:00:00 PM 15-08-2025"
-    },
-    {
       "id": 133422,
       "event_category": "Cricket",
       "title": "Rijeka Markhors vs Sir Oliver Split (ECS Croatia, 2025)",
@@ -196,6 +214,18 @@
       "event_name": "ECS Croatia, 2025",
       "match_name": "Rijeka Markhors vs Sir Oliver Split",
       "startTime": "05:30:00 PM 15-08-2025"
+    },
+    {
+      "id": 132486,
+      "event_category": "Cricket",
+      "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132486_5521_WDL_NDT_fc-Web.jpg",
+      "team_1": "West Delhi Lions",
+      "team_2": "New Delhi Tigers",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "West Delhi Lions vs New Delhi Tigers",
+      "startTime": "02:00:00 PM 16-08-2025"
     },
     {
       "id": 132772,
@@ -282,18 +312,6 @@
       "startTime": "11:15:00 PM 15-08-2025"
     },
     {
-      "id": 132486,
-      "event_category": "Cricket",
-      "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132486_5521_WDL_NDT_fc-Web.jpg",
-      "team_1": "West Delhi Lions",
-      "team_2": "New Delhi Tigers",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "West Delhi Lions vs New Delhi Tigers",
-      "startTime": "02:00:00 PM 16-08-2025"
-    },
-    {
       "id": 132160,
       "event_category": "Cricket",
       "title": "Jhelum Jaguars vs CECC (KCC T10 Summer League, 2025)",
@@ -342,30 +360,6 @@
       "startTime": "01:00:00 AM 16-08-2025"
     },
     {
-      "id": 133504,
-      "event_category": "Cricket",
-      "title": "Melbourne Renegades Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
-      "team_1": "Melbourne Renegades Academy",
-      "team_2": "Australian Capital Territory",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Melbourne Renegades Academy vs Australian Capital Territory",
-      "startTime": "07:00:00 AM 16-08-2025"
-    },
-    {
-      "id": 133925,
-      "event_category": "Cricket",
-      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-      "team_1": "Singapore Women",
-      "team_2": "Cambodia Women",
-      "status": "UPCOMING",
-      "event_name": "Cambodia Women tour of Singapore, 2025",
-      "match_name": "Singapore Women vs Cambodia Women",
-      "startTime": "07:00:00 AM 16-08-2025"
-    },
-    {
       "id": 132795,
       "event_category": "Cricket",
       "title": "Shivamogga Lions vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
@@ -390,6 +384,30 @@
       "startTime": "03:30:00 PM 16-08-2025"
     },
     {
+      "id": 133504,
+      "event_category": "Cricket",
+      "title": "Melbourne Renegades Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
+      "team_1": "Melbourne Renegades Academy",
+      "team_2": "Australian Capital Territory",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Melbourne Renegades Academy vs Australian Capital Territory",
+      "startTime": "07:00:00 AM 16-08-2025"
+    },
+    {
+      "id": 133925,
+      "event_category": "Cricket",
+      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
+      "team_1": "Singapore Women",
+      "team_2": "Cambodia Women",
+      "status": "UPCOMING",
+      "event_name": "Cambodia Women tour of Singapore, 2025",
+      "match_name": "Singapore Women vs Cambodia Women",
+      "startTime": "07:00:00 AM 16-08-2025"
+    },
+    {
       "id": 133505,
       "event_category": "Cricket",
       "title": "Melbourne Stars Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
@@ -400,18 +418,6 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Melbourne Stars Academy vs Hobart Hurricanes Academy",
       "startTime": "10:00:00 AM 16-08-2025"
-    },
-    {
-      "id": 133704,
-      "event_category": "Kabaddi",
-      "title": "Vizianagaram Ninjas vs Bhimavaram Guardians (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133704_5591_VN_BG_fc-Web.jpg",
-      "team_1": "Vizianagaram Ninjas",
-      "team_2": "Bhimavaram Guardians",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizianagaram Ninjas vs Bhimavaram Guardians",
-      "startTime": "06:00:00 PM 15-08-2025"
     },
     {
       "id": 133506,
@@ -426,16 +432,16 @@
       "startTime": "12:00:00 PM 16-08-2025"
     },
     {
-      "id": 133478,
-      "event_category": "Football",
-      "title": "Real Valladolid vs Ceuta (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133478_5572_VLD_CEU_fc-Web.jpg",
-      "team_1": "Real Valladolid",
-      "team_2": "Ceuta",
+      "id": 133704,
+      "event_category": "Kabaddi",
+      "title": "Vizianagaram Ninjas vs Bhimavaram Guardians (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133704_5591_VN_BG_fc-Web.jpg",
+      "team_1": "Vizianagaram Ninjas",
+      "team_2": "Bhimavaram Guardians",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Valladolid vs Ceuta",
-      "startTime": "01:00:00 AM 16-08-2025"
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Vizianagaram Ninjas vs Bhimavaram Guardians",
+      "startTime": "06:00:00 PM 15-08-2025"
     },
     {
       "id": 133673,
@@ -448,6 +454,18 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "Majees Titans vs Muscat Thunders",
       "startTime": "12:30:00 PM 16-08-2025"
+    },
+    {
+      "id": 133478,
+      "event_category": "Football",
+      "title": "Real Valladolid vs Ceuta (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133478_5572_VLD_CEU_fc-Web.jpg",
+      "team_1": "Real Valladolid",
+      "team_2": "Ceuta",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Valladolid vs Ceuta",
+      "startTime": "01:00:00 AM 16-08-2025"
     },
     {
       "id": 133927,
