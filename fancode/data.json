@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:27 AM 16-08-2025",
+  "last update time": "12:51 AM 16-08-2025",
   "matches": [
-    {
-      "id": 130836,
-      "event_category": "Football",
-      "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
-      "team_1": "Girona",
-      "team_2": "Rayo Vallecano",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona vs Rayo Vallecano",
-      "startTime": "10:30:00 PM 15-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8"
-    },
     {
       "id": 130832,
       "event_category": "Football",
@@ -24,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-vs-Real-Oviedo_oldmatchcard.jpg",
       "team_1": "Villarreal",
       "team_2": "Real Oviedo",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Villarreal vs Real Oviedo",
-      "startTime": "01:00:00 AM 16-08-2025"
+      "startTime": "01:00:00 AM 16-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130832_english_hls_7d6f5a5ce579078adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130832_english_hls_7d6f5a5ce579078adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 132235,
@@ -70,6 +58,20 @@
       "startTime": "11:15:00 PM 15-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/nIJzwYliQ3K9BduxnD8huw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132159_english_hls_386b8735c892041ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133478,
+      "event_category": "Football",
+      "title": "Real Valladolid vs Ceuta (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133478_5572_VLD_CEU_fc-Web.jpg",
+      "team_1": "Real Valladolid",
+      "team_2": "Ceuta",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Valladolid vs Ceuta",
+      "startTime": "01:00:00 AM 16-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133478_english_hls_2667770ddf8421adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133478_english_hls_2667770ddf8421adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 133265,
@@ -170,46 +172,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133384_english_hls_8c53ab33df75557ta-di_h264/index.m3u8"
     },
     {
-      "id": 132485,
-      "event_category": "Cricket",
-      "title": "Outer Delhi Warriors vs South Delhi Superstarz (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132485_5521_ODW_SDS_fc-Web.jpg",
-      "team_1": "Outer Delhi Warriors",
-      "team_2": "South Delhi Superstarz",
-      "status": "LIVE",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Outer Delhi Warriors vs South Delhi Superstarz",
-      "startTime": "07:00:00 PM 15-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/1jNlcqarTFqf4CCVPlXptg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132485_english_hls_21999c231a24628ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132794,
-      "event_category": "Cricket",
-      "title": "Mangaluru Dragons vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132794_5530_HT_MD_fc-Web.jpg",
-      "team_1": "Mangaluru Dragons",
-      "team_2": "Hubli Tigers",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Mangaluru Dragons vs Hubli Tigers",
-      "startTime": "07:15:00 PM 15-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zQLWYWdyQpKnt_GqyHF8PQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132794_english_hls_4a6d4b8ffc64422ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133468,
+      "id": 130836,
       "event_category": "Football",
-      "title": "SG Sonnenhof Großaspach vs Bayer 04 Leverkusen (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133468_5570_SON_LEV_Fc-Web.jpg",
-      "team_1": "SG Sonnenhof Großaspach",
-      "team_2": "Bayer 04 Leverkusen",
+      "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
+      "team_1": "Girona",
+      "team_2": "Rayo Vallecano",
       "status": "LIVE",
-      "event_name": "DFB Pokal 2025-26",
-      "match_name": "SG Sonnenhof Großaspach vs Bayer 04 Leverkusen",
-      "startTime": "09:30:00 PM 15-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HqwRz3kwSM6hxU9KBkZk2g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133468_english_hls_9113a9676a7828ta-di_h264/index.m3u8"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona vs Rayo Vallecano",
+      "startTime": "10:30:00 PM 15-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8"
     },
     {
       "id": 132347,
@@ -262,13 +236,13 @@
     {
       "id": 132160,
       "event_category": "Cricket",
-      "title": "Jhelum Jaguars vs CECC (KCC T10 Summer League, 2025)",
+      "title": "CECC vs Jhelum Jaguars (KCC T10 Summer League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Jhelum Jaguars",
-      "team_2": "CECC",
+      "team_1": "CECC",
+      "team_2": "Jhelum Jaguars",
       "status": "UPCOMING",
       "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Jhelum Jaguars vs CECC",
+      "match_name": "CECC vs Jhelum Jaguars",
       "startTime": "01:15:00 AM 16-08-2025"
     },
     {
@@ -320,18 +294,6 @@
       "startTime": "07:15:00 PM 16-08-2025"
     },
     {
-      "id": 133478,
-      "event_category": "Football",
-      "title": "Real Valladolid vs Ceuta (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133478_5572_VLD_CEU_fc-Web.jpg",
-      "team_1": "Real Valladolid",
-      "team_2": "Ceuta",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Valladolid vs Ceuta",
-      "startTime": "01:00:00 AM 16-08-2025"
-    },
-    {
       "id": 133504,
       "event_category": "Cricket",
       "title": "Melbourne Renegades Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
@@ -356,6 +318,18 @@
       "startTime": "07:00:00 AM 16-08-2025"
     },
     {
+      "id": 132237,
+      "event_category": "Cricket",
+      "title": "Oval Invincibles vs Welsh Fire (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132237_5505_OVI_WEF_fc-web.jpg",
+      "team_1": "Oval Invincibles",
+      "team_2": "Welsh Fire",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Oval Invincibles vs Welsh Fire",
+      "startTime": "10:30:00 PM 16-08-2025"
+    },
+    {
       "id": 133505,
       "event_category": "Cricket",
       "title": "Melbourne Stars Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
@@ -378,18 +352,6 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Pakistan Shaheens vs Perth Scorchers Academy",
       "startTime": "12:00:00 PM 16-08-2025"
-    },
-    {
-      "id": 132237,
-      "event_category": "Cricket",
-      "title": "Oval Invincibles vs Welsh Fire (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132237_5505_OVI_WEF_fc-web.jpg",
-      "team_1": "Oval Invincibles",
-      "team_2": "Welsh Fire",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Oval Invincibles vs Welsh Fire",
-      "startTime": "10:30:00 PM 16-08-2025"
     },
     {
       "id": 133673,
@@ -486,6 +448,42 @@
       "event_name": "ECI Norway, 2025",
       "match_name": "Hungary vs Norway",
       "startTime": "04:15:00 PM 16-08-2025"
+    },
+    {
+      "id": 133674,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133674_5590_IAI_ROS_fc-Web.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Royal Oman Stallions",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "IAS Invincibles vs Royal Oman Stallions",
+      "startTime": "05:00:00 PM 16-08-2025"
+    },
+    {
+      "id": 134049,
+      "event_category": "Cricket",
+      "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
+      "team_1": "Jinx Zagreb",
+      "team_2": "Lavender Lionesses",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Croatia, 2025",
+      "match_name": "Jinx Zagreb vs Lavender Lionesses",
+      "startTime": "05:30:00 PM 16-08-2025"
+    },
+    {
+      "id": 131994,
+      "event_category": "Football",
+      "title": "Wrexham vs West Bromwich Albion (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+      "team_1": "Wrexham",
+      "team_2": "West Bromwich Albion",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Wrexham vs West Bromwich Albion",
+      "startTime": "05:00:00 PM 16-08-2025"
     }
   ]
 }
