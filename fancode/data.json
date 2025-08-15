@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:21 AM 16-08-2025",
+  "last update time": "01:56 AM 16-08-2025",
   "matches": [
     {
       "id": 133478,
@@ -44,20 +44,6 @@
       "startTime": "11:00:00 PM 15-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755322002~acl=/*~id=55113711236542350832788845821905~hmac=4f7e41ac45177d2dca3f0908767e1427a2a9462021c4700317b9b81e690fa92e"
-    },
-    {
-      "id": 132159,
-      "event_category": "Cricket",
-      "title": "NCM Investment vs Bader & Nie Cricket Club (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "NCM Investment",
-      "team_2": "Bader & Nie Cricket Club",
-      "status": "LIVE",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "NCM Investment vs Bader & Nie Cricket Club",
-      "startTime": "11:15:00 PM 15-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/nIJzwYliQ3K9BduxnD8huw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132159_english_hls_386b8735c892041ta-di_h264/index.m3u8"
     },
     {
       "id": 132160,
@@ -170,20 +156,6 @@
       "startTime": "09:35:00 PM 15-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/GAuvktZDRwq2HgkzCKk0dQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133384_english_hls_8c53ab33df75557ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130836,
-      "event_category": "Football",
-      "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
-      "team_1": "Girona",
-      "team_2": "Rayo Vallecano",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona vs Rayo Vallecano",
-      "startTime": "10:30:00 PM 15-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8"
     },
     {
       "id": 132347,
@@ -484,6 +456,30 @@
       "event_name": "ECI Norway, 2025",
       "match_name": "Norway vs Sweden",
       "startTime": "06:15:00 PM 16-08-2025"
+    },
+    {
+      "id": 132774,
+      "event_category": "Cricket",
+      "title": "Tungabhadra Warriors vs Kakinada Kings (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
+      "team_1": "Tungabhadra Warriors",
+      "team_2": "Kakinada Kings",
+      "status": "UPCOMING",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Tungabhadra Warriors vs Kakinada Kings",
+      "startTime": "06:30:00 PM 16-08-2025"
+    },
+    {
+      "id": 134050,
+      "event_category": "Cricket",
+      "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
+      "team_1": "Jinx Zagreb",
+      "team_2": "Lavender Lionesses",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Croatia, 2025",
+      "match_name": "Jinx Zagreb vs Lavender Lionesses",
+      "startTime": "07:30:00 PM 16-08-2025"
     }
   ]
 }
