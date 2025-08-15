@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:05 PM 15-08-2025",
+  "last update time": "02:24 PM 15-08-2025",
   "matches": [
     {
       "id": 119154,
@@ -30,20 +30,6 @@
       "startTime": "12:00:00 PM 15-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/krF8JsslQViZrXNPbO-YNQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133502_english_hls_8b14934f1975658ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133420,
-      "event_category": "Cricket",
-      "title": "Zagreb Sokol vs Sir Oliver Split (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Zagreb Sokol",
-      "team_2": "Sir Oliver Split",
-      "status": "LIVE",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Zagreb Sokol vs Sir Oliver Split",
-      "startTime": "12:15:00 PM 15-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DlDe0vDiQ7C3JqVusUaCog/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133420_english_hls_dd998eb57715089ta-di_h264/index.m3u8"
     },
     {
       "id": 133670,
@@ -100,6 +86,20 @@
       "startTime": "02:00:00 PM 15-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/0P99_355TY6V5WGNScDJww/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133503_english_hls_ddbfb360ed96721ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133421,
+      "event_category": "Cricket",
+      "title": "Rijeka Markhors vs Zagreb Assassins (ECS Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+      "team_1": "Rijeka Markhors",
+      "team_2": "Zagreb Assassins",
+      "status": "LIVE",
+      "event_name": "ECS Croatia, 2025",
+      "match_name": "Rijeka Markhors vs Zagreb Assassins",
+      "startTime": "02:15:00 PM 15-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LN6CO_ePRJyoUEafdsGYMA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133421_english_hls_5d7fd8eea356913ta-di_h264/index.m3u8"
     },
     {
       "id": 132793,
@@ -172,18 +172,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors",
       "startTime": "04:30:00 AM 16-08-2025"
-    },
-    {
-      "id": 133421,
-      "event_category": "Cricket",
-      "title": "Rijeka Markhors vs Zagreb Assassins (ECS Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-      "team_1": "Rijeka Markhors",
-      "team_2": "Zagreb Assassins",
-      "status": "UPCOMING",
-      "event_name": "ECS Croatia, 2025",
-      "match_name": "Rijeka Markhors vs Zagreb Assassins",
-      "startTime": "02:15:00 PM 15-08-2025"
     },
     {
       "id": 133865,
@@ -438,6 +426,18 @@
       "startTime": "10:00:00 AM 16-08-2025"
     },
     {
+      "id": 132795,
+      "event_category": "Cricket",
+      "title": "Shivamogga Lions vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132795_5530_SS_GMY_fc-Web.jpg",
+      "team_1": "Shivamogga Lions",
+      "team_2": "Gulbarga Mystics",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Shivamogga Lions vs Gulbarga Mystics",
+      "startTime": "03:15:00 PM 16-08-2025"
+    },
+    {
       "id": 133478,
       "event_category": "Football",
       "title": "Real Valladolid vs Ceuta (LALIGA Hypermotion 2025-26)",
@@ -450,16 +450,16 @@
       "startTime": "01:00:00 AM 16-08-2025"
     },
     {
-      "id": 132795,
+      "id": 132270,
       "event_category": "Cricket",
-      "title": "Shivamogga Lions vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132795_5530_SS_GMY_fc-Web.jpg",
-      "team_1": "Shivamogga Lions",
-      "team_2": "Gulbarga Mystics",
+      "title": "Trent Rockets Women vs Southern Brave Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132270_5506_TRT-W_SOB-W_Fc-Web.jpg",
+      "team_1": "Trent Rockets Women",
+      "team_2": "Southern Brave Women",
       "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Shivamogga Lions vs Gulbarga Mystics",
-      "startTime": "03:15:00 PM 16-08-2025"
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Trent Rockets Women vs Southern Brave Women",
+      "startTime": "03:30:00 PM 16-08-2025"
     }
   ]
 }
