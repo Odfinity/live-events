@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 17-08-2025",
+  "last update time": "01:57 AM 17-08-2025",
   "matches": [
-    {
-      "id": 132162,
-      "event_category": "Cricket",
-      "title": "Phoenix Cricketers vs Khan Zalmi Kings (KCC T10 Summer League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
-      "team_1": "Phoenix Cricketers",
-      "team_2": "Khan Zalmi Kings",
-      "status": "LIVE",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Phoenix Cricketers vs Khan Zalmi Kings",
-      "startTime": "12:15:00 AM 17-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Nsc1SRoWS3WI137_6OcrxA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132162_english_hls_05cabd913156153ta-di_h264/index.m3u8"
-    },
     {
       "id": 130833,
       "event_category": "Football",
@@ -213,7 +199,7 @@
       "id": 132797,
       "event_category": "Cricket",
       "title": "Mangaluru Dragons vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web_1755374792875.jpg",
       "team_1": "Mangaluru Dragons",
       "team_2": "Bengaluru Blasters",
       "status": "UPCOMING",
@@ -273,7 +259,7 @@
       "id": 132798,
       "event_category": "Cricket",
       "title": "Mysore Warriors vs Shivamogga Lions (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web_1755374792844.jpg",
       "team_1": "Mysore Warriors",
       "team_2": "Shivamogga Lions",
       "status": "UPCOMING",
@@ -472,6 +458,30 @@
       "event_name": "FIBA Asia Cup, 2025",
       "match_name": "Iran vs New Zealand",
       "startTime": "04:30:00 PM 17-08-2025"
+    },
+    {
+      "id": 133875,
+      "event_category": "Cricket",
+      "title": "Norway vs Hungary (ECN Norway T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+      "team_1": "Norway",
+      "team_2": "Hungary",
+      "status": "UPCOMING",
+      "event_name": "ECN Norway T20I, 2025",
+      "match_name": "Norway vs Hungary",
+      "startTime": "08:45:00 PM 17-08-2025"
+    },
+    {
+      "id": 133677,
+      "event_category": "Cricket",
+      "title": "Royal Oman Stallions vs Muscat Thunders (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-Web.jpg",
+      "team_1": "Royal Oman Stallions",
+      "team_2": "Muscat Thunders",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Royal Oman Stallions vs Muscat Thunders",
+      "startTime": "09:00:00 PM 17-08-2025"
     }
   ]
 }
