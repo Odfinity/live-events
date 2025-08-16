@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 16-08-2025",
+  "last update time": "07:36 AM 16-08-2025",
   "matches": [
     {
       "id": 132347,
@@ -16,6 +16,48 @@
       "startTime": "04:30:00 AM 16-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/LaDsP6d2TUK0_En7C1YUvA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132347_english_hls_de90de2a0c72581ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133504,
+      "event_category": "Cricket",
+      "title": "Australian Capital Territory vs Melbourne Renegades Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
+      "team_1": "Australian Capital Territory",
+      "team_2": "Melbourne Renegades Academy",
+      "status": "LIVE",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Australian Capital Territory vs Melbourne Renegades Academy",
+      "startTime": "07:00:00 AM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/o6_YD4hARcieG25BFB8aRQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133504_english_hls_5d6734d71c22495ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133925,
+      "event_category": "Cricket",
+      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
+      "team_1": "Singapore Women",
+      "team_2": "Cambodia Women",
+      "status": "LIVE",
+      "event_name": "Cambodia Women tour of Singapore, 2025",
+      "match_name": "Singapore Women vs Cambodia Women",
+      "startTime": "07:00:00 AM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/3dSg1UwATKeWZDZU0XPbYg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133925_english_hls_961256cbdb25052ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132863,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs San Diego Padres (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132863_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "San Diego Padres",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs San Diego Padres",
+      "startTime": "07:40:00 AM 16-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132863_english_hls_244efeccf683765ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132863_english_hls_244efeccf683765ta-di_h264/index.m3u8"
     },
     {
       "id": 132486,
@@ -114,28 +156,16 @@
       "startTime": "10:30:00 PM 16-08-2025"
     },
     {
-      "id": 133504,
+      "id": 132348,
       "event_category": "Cricket",
-      "title": "Melbourne Renegades Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
-      "team_1": "Melbourne Renegades Academy",
-      "team_2": "Australian Capital Territory",
+      "title": "Antigua & Barbuda Falcons vs Barbados Royals (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132348_5512_ABF_BR_fc-web.jpg",
+      "team_1": "Antigua & Barbuda Falcons",
+      "team_2": "Barbados Royals",
       "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Melbourne Renegades Academy vs Australian Capital Territory",
-      "startTime": "07:00:00 AM 16-08-2025"
-    },
-    {
-      "id": 133925,
-      "event_category": "Cricket",
-      "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-      "team_1": "Singapore Women",
-      "team_2": "Cambodia Women",
-      "status": "UPCOMING",
-      "event_name": "Cambodia Women tour of Singapore, 2025",
-      "match_name": "Singapore Women vs Cambodia Women",
-      "startTime": "07:00:00 AM 16-08-2025"
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Antigua & Barbuda Falcons vs Barbados Royals",
+      "startTime": "04:30:00 AM 17-08-2025"
     },
     {
       "id": 133505,
@@ -160,6 +190,18 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Pakistan Shaheens vs Perth Scorchers Academy",
       "startTime": "12:00:00 PM 16-08-2025"
+    },
+    {
+      "id": 133234,
+      "event_category": "Cricket",
+      "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(1).jpg",
+      "team_1": "Australia A Women",
+      "team_2": "India A Women",
+      "status": "UPCOMING",
+      "event_name": "India A Women tour of Australia, 2025",
+      "match_name": "Australia A Women vs India A Women",
+      "startTime": "05:00:00 AM 17-08-2025"
     },
     {
       "id": 133673,
@@ -330,18 +372,6 @@
       "startTime": "07:30:00 PM 16-08-2025"
     },
     {
-      "id": 133469,
-      "event_category": "Football",
-      "title": "SV Sandhausen vs RB Leipzig (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133469_5570_SAND_LEP_Fc-Web.jpg",
-      "team_1": "SV Sandhausen",
-      "team_2": "RB Leipzig",
-      "status": "UPCOMING",
-      "event_name": "DFB Pokal 2025-26",
-      "match_name": "SV Sandhausen vs RB Leipzig",
-      "startTime": "07:00:00 PM 16-08-2025"
-    },
-    {
       "id": 133872,
       "event_category": "Cricket",
       "title": "Hungary vs Sweden (ECI Norway, 2025)",
@@ -366,6 +396,18 @@
       "startTime": "08:15:00 PM 16-08-2025"
     },
     {
+      "id": 133469,
+      "event_category": "Football",
+      "title": "SV Sandhausen vs RB Leipzig (DFB Pokal 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133469_5570_SAND_LEP_Fc-Web.jpg",
+      "team_1": "SV Sandhausen",
+      "team_2": "RB Leipzig",
+      "status": "UPCOMING",
+      "event_name": "DFB Pokal 2025-26",
+      "match_name": "SV Sandhausen vs RB Leipzig",
+      "startTime": "07:00:00 PM 16-08-2025"
+    },
+    {
       "id": 131992,
       "event_category": "Football",
       "title": "Blackburn Rovers vs Birmingham City (EFL Championship 2025-26)",
@@ -376,18 +418,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Blackburn Rovers vs Birmingham City",
       "startTime": "07:30:00 PM 16-08-2025"
-    },
-    {
-      "id": 132348,
-      "event_category": "Cricket",
-      "title": "Antigua & Barbuda Falcons vs Barbados Royals (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132348_5512_ABF_BR_fc-web.jpg",
-      "team_1": "Antigua & Barbuda Falcons",
-      "team_2": "Barbados Royals",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Antigua & Barbuda Falcons vs Barbados Royals",
-      "startTime": "04:30:00 AM 17-08-2025"
     },
     {
       "id": 133675,
@@ -414,30 +444,6 @@
       "startTime": "10:15:00 PM 16-08-2025"
     },
     {
-      "id": 133234,
-      "event_category": "Cricket",
-      "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(1).jpg",
-      "team_1": "Australia A Women",
-      "team_2": "India A Women",
-      "status": "UPCOMING",
-      "event_name": "India A Women tour of Australia, 2025",
-      "match_name": "Australia A Women vs India A Women",
-      "startTime": "05:00:00 AM 17-08-2025"
-    },
-    {
-      "id": 133296,
-      "event_category": "Basketball",
-      "title": "China vs New Zealand (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-New-Zealand-old.jpg",
-      "team_1": "China",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs New Zealand",
-      "startTime": "04:30:00 PM 16-08-2025"
-    },
-    {
       "id": 130838,
       "event_category": "Football",
       "title": "Mallorca vs Barcelona (LALIGA 2025-26)",
@@ -450,16 +456,16 @@
       "startTime": "11:00:00 PM 16-08-2025"
     },
     {
-      "id": 132162,
-      "event_category": "Cricket",
-      "title": "Khan Zalmi Kings vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
-      "team_1": "Khan Zalmi Kings",
-      "team_2": "Phoenix Cricketers",
+      "id": 133296,
+      "event_category": "Basketball",
+      "title": "China vs New Zealand (FIBA Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-New-Zealand-old.jpg",
+      "team_1": "China",
+      "team_2": "New Zealand",
       "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Khan Zalmi Kings vs Phoenix Cricketers",
-      "startTime": "12:15:00 AM 17-08-2025"
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "China vs New Zealand",
+      "startTime": "04:30:00 PM 16-08-2025"
     }
   ]
 }
