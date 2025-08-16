@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:58 PM 16-08-2025",
+  "last update time": "04:15 PM 16-08-2025",
   "matches": [
     {
       "id": 119157,
@@ -60,20 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132795_english_hls_0d2b7f870787461ta-di_h264/index.m3u8"
     },
     {
-      "id": 133673,
-      "event_category": "Cricket",
-      "title": "Majees Titans vs Muscat Thunders (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133673_5590_MAT_MUT_fc-Web.jpg",
-      "team_1": "Majees Titans",
-      "team_2": "Muscat Thunders",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Majees Titans vs Muscat Thunders",
-      "startTime": "12:30:00 PM 16-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/wJE8VyGdTZq6iNUEJopVPA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133673_english_hls_9987f42adf70006ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132773,
       "event_category": "Cricket",
       "title": "Simhadri Vizag Lions vs Amaravathi Royals (Andhra Premier League, 2025)",
@@ -114,6 +100,20 @@
       "startTime": "03:00:00 PM 16-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/a-QBMrM-RjSE5lCDQyuPDg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134048_english_hls_cd001ca1a968272ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133870,
+      "event_category": "Cricket",
+      "title": "Hungary vs Norway (ECI Norway, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+      "team_1": "Hungary",
+      "team_2": "Norway",
+      "status": "LIVE",
+      "event_name": "ECI Norway, 2025",
+      "match_name": "Hungary vs Norway",
+      "startTime": "04:15:00 PM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/AMZ6XAjaT--yEBP4q3_R5g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8"
     },
     {
       "id": 132079,
@@ -200,6 +200,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132915_english_hls_8b6396cd3642045ta-di_h264/index.m3u8"
     },
     {
+      "id": 133673,
+      "event_category": "Cricket",
+      "title": "Majees Titans vs Muscat Thunders (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133673_5590_MAT_MUT_fc-Web.jpg",
+      "team_1": "Majees Titans",
+      "team_2": "Muscat Thunders",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Majees Titans vs Muscat Thunders",
+      "startTime": "12:30:00 PM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/wJE8VyGdTZq6iNUEJopVPA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133673_english_hls_9987f42adf70006ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132271,
       "event_category": "Cricket",
       "title": "Oval Invincibles Women vs Welsh Fire Women (The Hundred Women, 2025)",
@@ -284,16 +298,28 @@
       "startTime": "05:00:00 AM 17-08-2025"
     },
     {
-      "id": 133870,
+      "id": 133674,
       "event_category": "Cricket",
-      "title": "Hungary vs Norway (ECI Norway, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-      "team_1": "Hungary",
-      "team_2": "Norway",
+      "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133674_5590_IAI_ROS_fc-Web.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Royal Oman Stallions",
       "status": "UPCOMING",
-      "event_name": "ECI Norway, 2025",
-      "match_name": "Hungary vs Norway",
-      "startTime": "04:15:00 PM 16-08-2025"
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "IAS Invincibles vs Royal Oman Stallions",
+      "startTime": "05:00:00 PM 16-08-2025"
+    },
+    {
+      "id": 131994,
+      "event_category": "Football",
+      "title": "Wrexham vs West Bromwich Albion (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+      "team_1": "Wrexham",
+      "team_2": "West Bromwich Albion",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Wrexham vs West Bromwich Albion",
+      "startTime": "05:00:00 PM 16-08-2025"
     },
     {
       "id": 133296,
@@ -308,27 +334,15 @@
       "startTime": "04:30:00 PM 16-08-2025"
     },
     {
-      "id": 133674,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133674_5590_IAI_ROS_fc-Web.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Royal Oman Stallions",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "IAS Invincibles vs Royal Oman Stallions",
-      "startTime": "05:00:00 PM 16-08-2025"
-    },
-    {
       "id": 134049,
       "event_category": "Cricket",
-      "title": "Jinx Zagreb-W vs Lavender Lionesses-W (ECS-W Croatia, 2025)",
+      "title": "Lavender Lionesses-W vs Jinx Zagreb-W (ECS-W Croatia, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-      "team_1": "Jinx Zagreb-W",
-      "team_2": "Lavender Lionesses-W",
+      "team_1": "Lavender Lionesses-W",
+      "team_2": "Jinx Zagreb-W",
       "status": "UPCOMING",
       "event_name": "ECS-W Croatia, 2025",
-      "match_name": "Jinx Zagreb-W vs Lavender Lionesses-W",
+      "match_name": "Lavender Lionesses-W vs Jinx Zagreb-W",
       "startTime": "05:30:00 PM 16-08-2025"
     },
     {
@@ -402,18 +416,6 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "SBS CC vs Royal Trivianz",
       "startTime": "10:15:00 PM 16-08-2025"
-    },
-    {
-      "id": 131994,
-      "event_category": "Football",
-      "title": "Wrexham vs West Bromwich Albion (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
-      "team_1": "Wrexham",
-      "team_2": "West Bromwich Albion",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Wrexham vs West Bromwich Albion",
-      "startTime": "05:00:00 PM 16-08-2025"
     },
     {
       "id": 132162,
