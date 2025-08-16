@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:22 PM 16-08-2025",
+  "last update time": "01:59 PM 16-08-2025",
   "matches": [
     {
       "id": 119157,
@@ -18,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119157_english_hls_b9d92d416061671ta-di_h264/index.m3u8"
     },
     {
-      "id": 133505,
+      "id": 132486,
       "event_category": "Cricket",
-      "title": "Hobart Hurricanes Academy vs Melbourne Stars Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133505_5574_MSA_HHA_fc-web.jpg",
-      "team_1": "Hobart Hurricanes Academy",
-      "team_2": "Melbourne Stars Academy",
+      "title": "New Delhi Tigers vs West Delhi Lions (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132486_5521_WDL_NDT_fc-Web.jpg",
+      "team_1": "New Delhi Tigers",
+      "team_2": "West Delhi Lions",
       "status": "LIVE",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Hobart Hurricanes Academy vs Melbourne Stars Academy",
-      "startTime": "10:00:00 AM 16-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/rIMY6wvfT_-nZsEYF46w-Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133505_english_hls_d659933c149435ta-di_h264/index.m3u8"
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "New Delhi Tigers vs West Delhi Lions",
+      "startTime": "02:00:00 PM 16-08-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 133506,
@@ -90,16 +90,16 @@
     {
       "id": 132773,
       "event_category": "Cricket",
-      "title": "Amaravathi Royals vs Simhadri Vizag Lions (Andhra Premier League, 2025)",
+      "title": "Simhadri Vizag Lions vs Amaravathi Royals (Andhra Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132773_5529_AMR_SVL_fc-Web.jpg",
-      "team_1": "Amaravathi Royals",
-      "team_2": "Simhadri Vizag Lions",
+      "team_1": "Simhadri Vizag Lions",
+      "team_2": "Amaravathi Royals",
       "status": "LIVE",
       "event_name": "Andhra Premier League, 2025",
-      "match_name": "Amaravathi Royals vs Simhadri Vizag Lions",
+      "match_name": "Simhadri Vizag Lions vs Amaravathi Royals",
       "startTime": "01:30:00 PM 16-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/6S7oIYQURsO8PMk5dQ2r5A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132773_english_hls_a3a0396df956852ta-di_h264/index.m3u8"
     },
     {
       "id": 133707,
@@ -116,16 +116,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133707_english_hls_e3bf5edbb532560ta-di_h264/index.m3u8"
     },
     {
-      "id": 132486,
+      "id": 133505,
       "event_category": "Cricket",
-      "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132486_5521_WDL_NDT_fc-Web.jpg",
-      "team_1": "West Delhi Lions",
-      "team_2": "New Delhi Tigers",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "West Delhi Lions vs New Delhi Tigers",
-      "startTime": "02:00:00 PM 16-08-2025"
+      "title": "Hobart Hurricanes Academy vs Melbourne Stars Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133505_5574_MSA_HHA_fc-web.jpg",
+      "team_1": "Hobart Hurricanes Academy",
+      "team_2": "Melbourne Stars Academy",
+      "status": "LIVE",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Hobart Hurricanes Academy vs Melbourne Stars Academy",
+      "startTime": "10:00:00 AM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/rIMY6wvfT_-nZsEYF46w-Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133505_english_hls_d659933c149435ta-di_h264/index.m3u8"
     },
     {
       "id": 132795,
@@ -224,18 +226,6 @@
       "startTime": "04:30:00 AM 17-08-2025"
     },
     {
-      "id": 133869,
-      "event_category": "Cricket",
-      "title": "Sweden vs Hungary (ECI Norway, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-      "team_1": "Sweden",
-      "team_2": "Hungary",
-      "status": "UPCOMING",
-      "event_name": "ECI Norway, 2025",
-      "match_name": "Sweden vs Hungary",
-      "startTime": "02:15:00 PM 16-08-2025"
-    },
-    {
       "id": 133234,
       "event_category": "Cricket",
       "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
@@ -246,6 +236,30 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "05:00:00 AM 17-08-2025"
+    },
+    {
+      "id": 133869,
+      "event_category": "Cricket",
+      "title": "Hungary vs Sweden (ECI Norway, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+      "team_1": "Hungary",
+      "team_2": "Sweden",
+      "status": "UPCOMING",
+      "event_name": "ECI Norway, 2025",
+      "match_name": "Hungary vs Sweden",
+      "startTime": "02:15:00 PM 16-08-2025"
+    },
+    {
+      "id": 132079,
+      "event_category": "Football",
+      "title": "Kashima Antlers vs Avispa Fukuoka (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132079_CASACARDS_APP.png",
+      "team_1": "Kashima Antlers",
+      "team_2": "Avispa Fukuoka",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashima Antlers vs Avispa Fukuoka",
+      "startTime": "02:33:00 PM 16-08-2025"
     },
     {
       "id": 133507,
@@ -368,18 +382,6 @@
       "startTime": "09:00:00 PM 16-08-2025"
     },
     {
-      "id": 131994,
-      "event_category": "Football",
-      "title": "Wrexham vs West Bromwich Albion (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
-      "team_1": "Wrexham",
-      "team_2": "West Bromwich Albion",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Wrexham vs West Bromwich Albion",
-      "startTime": "05:00:00 PM 16-08-2025"
-    },
-    {
       "id": 132161,
       "event_category": "Cricket",
       "title": "SBS CC vs Royal Trivianz (KCC T10 Summer League, 2025)",
@@ -390,6 +392,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "SBS CC vs Royal Trivianz",
       "startTime": "10:15:00 PM 16-08-2025"
+    },
+    {
+      "id": 131994,
+      "event_category": "Football",
+      "title": "Wrexham vs West Bromwich Albion (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+      "team_1": "Wrexham",
+      "team_2": "West Bromwich Albion",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Wrexham vs West Bromwich Albion",
+      "startTime": "05:00:00 PM 16-08-2025"
     },
     {
       "id": 133469,
@@ -462,18 +476,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia vs Real Sociedad",
       "startTime": "01:00:00 AM 17-08-2025"
-    },
-    {
-      "id": 133296,
-      "event_category": "Basketball",
-      "title": "China vs New Zealand (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-New-Zealand-old.jpg",
-      "team_1": "China",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs New Zealand",
-      "startTime": "04:30:00 PM 16-08-2025"
     }
   ]
 }
