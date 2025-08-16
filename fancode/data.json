@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:21 PM 16-08-2025",
+  "last update time": "10:48 PM 16-08-2025",
   "matches": [
     {
       "id": 130838,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/MallorcaVSBarcelona_Old_match-card.jpg",
       "team_1": "Mallorca",
       "team_2": "Barcelona",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Mallorca vs Barcelona",
-      "startTime": "11:00:00 PM 16-08-2025"
+      "startTime": "11:00:00 PM 16-08-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 132487,
@@ -44,18 +46,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132796_english_hls_a548f61c7191860ta-di_h264/index.m3u8"
     },
     {
-      "id": 132774,
+      "id": 132237,
       "event_category": "Cricket",
-      "title": "Kakinada Kings vs Tungabhadra Warriors (Andhra Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
-      "team_1": "Kakinada Kings",
-      "team_2": "Tungabhadra Warriors",
+      "title": "Oval Invincibles vs Welsh Fire (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132237_5505_OVI_WEF_fc-web.jpg",
+      "team_1": "Oval Invincibles",
+      "team_2": "Welsh Fire",
       "status": "LIVE",
-      "event_name": "Andhra Premier League, 2025",
-      "match_name": "Kakinada Kings vs Tungabhadra Warriors",
-      "startTime": "06:30:00 PM 16-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/WeBQds1cR3qDLuc7IZDdWg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8"
+      "event_name": "The Hundred, 2025",
+      "match_name": "Oval Invincibles vs Welsh Fire",
+      "startTime": "10:30:00 PM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755406770~acl=/*~id=71127019766347587769540863893276~hmac=c44b7a36ca4421d410d518a59384ec12f937ba9cfedb211422e4e317ebd22767"
     },
     {
       "id": 133675,
@@ -98,6 +100,20 @@
       "startTime": "09:30:00 PM 16-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/iTZYRlkJSpePwLGxrWyoeQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133297_english_hls_dd00ac1ec289116ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133476,
+      "event_category": "Football",
+      "title": "Málaga vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133476_5572_MAG_EIB_fc-web.jpg",
+      "team_1": "Málaga",
+      "team_2": "Eibar",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Málaga vs Eibar",
+      "startTime": "11:00:00 PM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/QBLrbVcNSiG6XwPBHgdSbA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133476_english_hls_db48a86c6b94638ta-di_h264/index.m3u8"
     },
     {
       "id": 133270,
@@ -226,18 +242,6 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755394525~acl=/*~id=27142293132647275406860127694514~hmac=681d0cd50b0ba4acf966c72206d567e02a70eb2eb252f1c292b2d7cc442187b3"
     },
     {
-      "id": 132237,
-      "event_category": "Cricket",
-      "title": "Oval Invincibles vs Welsh Fire (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132237_5505_OVI_WEF_fc-web.jpg",
-      "team_1": "Oval Invincibles",
-      "team_2": "Welsh Fire",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Oval Invincibles vs Welsh Fire",
-      "startTime": "10:30:00 PM 16-08-2025"
-    },
-    {
       "id": 132348,
       "event_category": "Cricket",
       "title": "Antigua & Barbuda Falcons vs Barbados Royals (Caribbean Premier League, 2025)",
@@ -284,18 +288,6 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Manchester Originals Women vs Northern Superchargers Women",
       "startTime": "03:30:00 PM 17-08-2025"
-    },
-    {
-      "id": 133476,
-      "event_category": "Football",
-      "title": "Málaga vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133476_5572_MAG_EIB_fc-web.jpg",
-      "team_1": "Málaga",
-      "team_2": "Eibar",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Málaga vs Eibar",
-      "startTime": "11:00:00 PM 16-08-2025"
     },
     {
       "id": 132273,
@@ -394,18 +386,6 @@
       "startTime": "07:00:00 AM 17-08-2025"
     },
     {
-      "id": 133509,
-      "event_category": "Cricket",
-      "title": "Northern Territory Strike vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
-      "team_1": "Northern Territory Strike",
-      "team_2": "Hobart Hurricanes Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Northern Territory Strike vs Hobart Hurricanes Academy",
-      "startTime": "09:00:00 AM 17-08-2025"
-    },
-    {
       "id": 132349,
       "event_category": "Cricket",
       "title": "St Kitts and Nevis Patriots vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
@@ -416,6 +396,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "St Kitts and Nevis Patriots vs Trinbago Knight Riders",
       "startTime": "08:30:00 PM 17-08-2025"
+    },
+    {
+      "id": 133509,
+      "event_category": "Cricket",
+      "title": "Northern Territory Strike vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+      "team_1": "Northern Territory Strike",
+      "team_2": "Hobart Hurricanes Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Northern Territory Strike vs Hobart Hurricanes Academy",
+      "startTime": "09:00:00 AM 17-08-2025"
     },
     {
       "id": 134052,
@@ -488,6 +480,18 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Perth Scorchers Academy vs Bangladesh A",
       "startTime": "03:00:00 PM 17-08-2025"
+    },
+    {
+      "id": 132239,
+      "event_category": "Cricket",
+      "title": "Birmingham Phoenix vs London Spirit (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132239_5505_BPH_LNS_fc-web.jpg",
+      "team_1": "Birmingham Phoenix",
+      "team_2": "London Spirit",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Birmingham Phoenix vs London Spirit",
+      "startTime": "10:30:00 PM 17-08-2025"
     }
   ]
 }
