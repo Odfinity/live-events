@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:07 PM 16-08-2025",
+  "last update time": "12:24 PM 16-08-2025",
   "matches": [
     {
       "id": 119157,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/old-recvised.jpg",
       "team_1": "Day 2",
       "team_2": "Red Bull Ring - Spielberg",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "BWIN GRAND PRIX OF AUSTRIA",
       "match_name": "Day 2",
-      "startTime": "12:10:00 PM 16-08-2025"
+      "startTime": "12:10:00 PM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/xC_KtwsARkqSyQ8eW6YKfg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119157_english_hls_b9d92d416061671ta-di_h264/index.m3u8"
     },
     {
       "id": 133505,
@@ -56,6 +58,20 @@
       "startTime": "12:00:00 PM 16-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/p7aS4ghtRzaQxb72n11xig/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133927_english_hls_d67191fa5b28423ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133673,
+      "event_category": "Cricket",
+      "title": "Majees Titans vs Muscat Thunders (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133673_5590_MAT_MUT_fc-Web.jpg",
+      "team_1": "Majees Titans",
+      "team_2": "Muscat Thunders",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Majees Titans vs Muscat Thunders",
+      "startTime": "12:30:00 PM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/wJE8VyGdTZq6iNUEJopVPA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133673_english_hls_9987f42adf70006ta-di_h264/index.m3u8"
     },
     {
       "id": 133706,
@@ -168,16 +184,16 @@
       "startTime": "10:30:00 PM 16-08-2025"
     },
     {
-      "id": 133673,
+      "id": 134047,
       "event_category": "Cricket",
-      "title": "Majees Titans vs Muscat Thunders (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133673_5590_MAT_MUT_fc-Web.jpg",
-      "team_1": "Majees Titans",
-      "team_2": "Muscat Thunders",
+      "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
+      "team_1": "Jinx Zagreb",
+      "team_2": "Lavender Lionesses",
       "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Majees Titans vs Muscat Thunders",
-      "startTime": "12:30:00 PM 16-08-2025"
+      "event_name": "ECS-W Croatia, 2025",
+      "match_name": "Jinx Zagreb vs Lavender Lionesses",
+      "startTime": "01:00:00 PM 16-08-2025"
     },
     {
       "id": 132348,
@@ -204,16 +220,16 @@
       "startTime": "05:00:00 AM 17-08-2025"
     },
     {
-      "id": 134047,
-      "event_category": "Cricket",
-      "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-      "team_1": "Jinx Zagreb",
-      "team_2": "Lavender Lionesses",
+      "id": 133707,
+      "event_category": "Kabaddi",
+      "title": "Kakinada Kraken vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133707_5591_KK_VN_fc-Web.jpg",
+      "team_1": "Kakinada Kraken",
+      "team_2": "Vizianagaram Ninjas",
       "status": "UPCOMING",
-      "event_name": "ECS-W Croatia, 2025",
-      "match_name": "Jinx Zagreb vs Lavender Lionesses",
-      "startTime": "01:00:00 PM 16-08-2025"
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Kakinada Kraken vs Vizianagaram Ninjas",
+      "startTime": "01:15:00 PM 16-08-2025"
     },
     {
       "id": 132773,
@@ -372,18 +388,6 @@
       "startTime": "05:00:00 PM 16-08-2025"
     },
     {
-      "id": 133469,
-      "event_category": "Football",
-      "title": "SV Sandhausen vs RB Leipzig (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133469_5570_SAND_LEP_Fc-Web.jpg",
-      "team_1": "SV Sandhausen",
-      "team_2": "RB Leipzig",
-      "status": "UPCOMING",
-      "event_name": "DFB Pokal 2025-26",
-      "match_name": "SV Sandhausen vs RB Leipzig",
-      "startTime": "07:00:00 PM 16-08-2025"
-    },
-    {
       "id": 132161,
       "event_category": "Cricket",
       "title": "SBS CC vs Royal Trivianz (KCC T10 Summer League, 2025)",
@@ -394,6 +398,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "SBS CC vs Royal Trivianz",
       "startTime": "10:15:00 PM 16-08-2025"
+    },
+    {
+      "id": 133469,
+      "event_category": "Football",
+      "title": "SV Sandhausen vs RB Leipzig (DFB Pokal 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133469_5570_SAND_LEP_Fc-Web.jpg",
+      "team_1": "SV Sandhausen",
+      "team_2": "RB Leipzig",
+      "status": "UPCOMING",
+      "event_name": "DFB Pokal 2025-26",
+      "match_name": "SV Sandhausen vs RB Leipzig",
+      "startTime": "07:00:00 PM 16-08-2025"
     },
     {
       "id": 131992,
@@ -454,18 +470,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia vs Real Sociedad",
       "startTime": "01:00:00 AM 17-08-2025"
-    },
-    {
-      "id": 133296,
-      "event_category": "Basketball",
-      "title": "China vs New Zealand (FIBA Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-New-Zealand-old.jpg",
-      "team_1": "China",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "China vs New Zealand",
-      "startTime": "04:30:00 PM 16-08-2025"
     }
   ]
 }
