@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:05 AM 17-08-2025",
+  "last update time": "12:22 AM 17-08-2025",
   "matches": [
     {
       "id": 130838,
@@ -16,20 +16,6 @@
       "startTime": "11:00:00 PM 16-08-2025",
       "dai_url": "https://d115o3s3p4gh4l.cloudfront.net/out/v1/b75a25a0cdea4643aab9e727391872b2/index.m3u8",
       "adfree_url": "https://d115o3s3p4gh4l.cloudfront.net/out/v1/b75a25a0cdea4643aab9e727391872b2/index.m3u8"
-    },
-    {
-      "id": 132796,
-      "event_category": "Cricket",
-      "title": "Mysore Warriors vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132796_5530_MW_HT_fc-Web.jpg",
-      "team_1": "Mysore Warriors",
-      "team_2": "Hubli Tigers",
-      "status": "LIVE",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Mysore Warriors vs Hubli Tigers",
-      "startTime": "07:15:00 PM 16-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YOpkRFeQQUy3Wl92-2g7Bw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132796_english_hls_a548f61c7191860ta-di_h264/index.m3u8"
     },
     {
       "id": 132237,
@@ -58,20 +44,6 @@
       "startTime": "09:00:00 PM 16-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/yvj-V7vcQhmg5TPzlMDpfA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133675_english_hls_b6d2a6fc804090ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132161,
-      "event_category": "Cricket",
-      "title": "Royal Trivianz vs SBS CC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "Royal Trivianz",
-      "team_2": "SBS CC",
-      "status": "LIVE",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Royal Trivianz vs SBS CC",
-      "startTime": "10:15:00 PM 16-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/pfl4TiYCR1uAwNI9qeyLZQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132161_english_hls_c6e55be62250631ta-di_h264/index.m3u8"
     },
     {
       "id": 132162,
@@ -398,6 +370,18 @@
       "startTime": "09:00:00 AM 17-08-2025"
     },
     {
+      "id": 132239,
+      "event_category": "Cricket",
+      "title": "Birmingham Phoenix vs London Spirit (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132239_5505_BPH_LNS_fc-web.jpg",
+      "team_1": "Birmingham Phoenix",
+      "team_2": "London Spirit",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Birmingham Phoenix vs London Spirit",
+      "startTime": "10:30:00 PM 17-08-2025"
+    },
+    {
       "id": 134052,
       "event_category": "Cricket",
       "title": "Jinx Zagreb-W vs Lavender Lionesses-W (ECS-W Croatia, 2025)",
@@ -420,18 +404,6 @@
       "event_name": "ECN Norway T20I, 2025",
       "match_name": "Norway vs Sweden",
       "startTime": "12:45:00 PM 17-08-2025"
-    },
-    {
-      "id": 132239,
-      "event_category": "Cricket",
-      "title": "Birmingham Phoenix vs London Spirit (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132239_5505_BPH_LNS_fc-web.jpg",
-      "team_1": "Birmingham Phoenix",
-      "team_2": "London Spirit",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Birmingham Phoenix vs London Spirit",
-      "startTime": "10:30:00 PM 17-08-2025"
     },
     {
       "id": 132775,
@@ -492,6 +464,30 @@
       "event_name": "ECS-W Croatia, 2025",
       "match_name": "Jinx Zagreb-W vs Lavender Lionesses-W",
       "startTime": "04:15:00 PM 17-08-2025"
+    },
+    {
+      "id": 133874,
+      "event_category": "Cricket",
+      "title": "Sweden vs Hungary (ECN Norway T20I, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+      "team_1": "Sweden",
+      "team_2": "Hungary",
+      "status": "UPCOMING",
+      "event_name": "ECN Norway T20I, 2025",
+      "match_name": "Sweden vs Hungary",
+      "startTime": "04:45:00 PM 17-08-2025"
+    },
+    {
+      "id": 133676,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Majees Titans (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133676_5590_IAI_MAT_fc-Web.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Majees Titans",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "IAS Invincibles vs Majees Titans",
+      "startTime": "05:00:00 PM 17-08-2025"
     }
   ]
 }
