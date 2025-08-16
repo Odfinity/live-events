@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:03 AM 16-08-2025",
+  "last update time": "10:21 AM 16-08-2025",
   "matches": [
     {
       "id": 133925,
@@ -30,6 +30,20 @@
       "startTime": "10:00:00 AM 16-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/rIMY6wvfT_-nZsEYF46w-Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133505_english_hls_d659933c149435ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133705,
+      "event_category": "Kabaddi",
+      "title": "Amaravati Crushers vs Krishna Defenders (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133705_5591_AC_KD_fc-Web.jpg",
+      "team_1": "Amaravati Crushers",
+      "team_2": "Krishna Defenders",
+      "status": "LIVE",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Amaravati Crushers vs Krishna Defenders",
+      "startTime": "10:15:00 AM 16-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KRbU0zQSQ6yd4x3YsDH97A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133705_english_hls_a07c12a07d16317ta-di_h264/index.m3u8"
     },
     {
       "id": 132863,
@@ -164,18 +178,6 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "05:00:00 AM 17-08-2025"
-    },
-    {
-      "id": 133705,
-      "event_category": "Kabaddi",
-      "title": "Amaravati Crushers vs Krishna Defenders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133705_5591_AC_KD_fc-Web.jpg",
-      "team_1": "Amaravati Crushers",
-      "team_2": "Krishna Defenders",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Amaravati Crushers vs Krishna Defenders",
-      "startTime": "10:15:00 AM 16-08-2025"
     },
     {
       "id": 133506,
@@ -346,18 +348,6 @@
       "startTime": "07:30:00 PM 16-08-2025"
     },
     {
-      "id": 131994,
-      "event_category": "Football",
-      "title": "Wrexham vs West Bromwich Albion (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
-      "team_1": "Wrexham",
-      "team_2": "West Bromwich Albion",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Wrexham vs West Bromwich Albion",
-      "startTime": "05:00:00 PM 16-08-2025"
-    },
-    {
       "id": 133872,
       "event_category": "Cricket",
       "title": "Hungary vs Sweden (ECI Norway, 2025)",
@@ -370,16 +360,16 @@
       "startTime": "08:15:00 PM 16-08-2025"
     },
     {
-      "id": 134051,
-      "event_category": "Cricket",
-      "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-      "team_1": "Jinx Zagreb",
-      "team_2": "Lavender Lionesses",
+      "id": 131994,
+      "event_category": "Football",
+      "title": "Wrexham vs West Bromwich Albion (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+      "team_1": "Wrexham",
+      "team_2": "West Bromwich Albion",
       "status": "UPCOMING",
-      "event_name": "ECS-W Croatia, 2025",
-      "match_name": "Jinx Zagreb vs Lavender Lionesses",
-      "startTime": "08:15:00 PM 16-08-2025"
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Wrexham vs West Bromwich Albion",
+      "startTime": "05:00:00 PM 16-08-2025"
     },
     {
       "id": 133675,
@@ -430,6 +420,18 @@
       "startTime": "10:15:00 PM 16-08-2025"
     },
     {
+      "id": 132162,
+      "event_category": "Cricket",
+      "title": "Khan Zalmi Kings vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
+      "team_1": "Khan Zalmi Kings",
+      "team_2": "Phoenix Cricketers",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Khan Zalmi Kings vs Phoenix Cricketers",
+      "startTime": "12:15:00 AM 17-08-2025"
+    },
+    {
       "id": 130838,
       "event_category": "Football",
       "title": "Mallorca vs Barcelona (LALIGA 2025-26)",
@@ -442,16 +444,28 @@
       "startTime": "11:00:00 PM 16-08-2025"
     },
     {
-      "id": 132162,
-      "event_category": "Cricket",
-      "title": "Khan Zalmi Kings vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
-      "team_1": "Khan Zalmi Kings",
-      "team_2": "Phoenix Cricketers",
+      "id": 130833,
+      "event_category": "Football",
+      "title": "Alavés vs Levante (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alaves-VS-Levante_oldmatchcard.jpg",
+      "team_1": "Alavés",
+      "team_2": "Levante",
       "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "Khan Zalmi Kings vs Phoenix Cricketers",
-      "startTime": "12:15:00 AM 17-08-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Alavés vs Levante",
+      "startTime": "01:00:00 AM 17-08-2025"
+    },
+    {
+      "id": 130831,
+      "event_category": "Football",
+      "title": "Valencia vs Real Sociedad (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valencia-VS-Real-Sociedad_Old_match-card.jpg",
+      "team_1": "Valencia",
+      "team_2": "Real Sociedad",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Valencia vs Real Sociedad",
+      "startTime": "01:00:00 AM 17-08-2025"
     }
   ]
 }
