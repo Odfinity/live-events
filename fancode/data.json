@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 17-08-2025",
+  "last update time": "03:57 PM 17-08-2025",
   "matches": [
     {
       "id": 119158,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
       "team_1": "Manchester Originals Women",
       "team_2": "Northern Superchargers Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "The Hundred Women, 2025",
       "match_name": "Manchester Originals Women vs Northern Superchargers Women",
-      "startTime": "03:30:00 PM 17-08-2025"
+      "startTime": "03:30:00 PM 17-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755468851~acl=/*~id=00059286051397467766184418065744~hmac=db8741fbd4e125f097e46c6a335c9f2f80f65dae6060be67af9558a63a05f42e"
     },
     {
       "id": 132797,
@@ -56,20 +58,6 @@
       "startTime": "12:45:00 PM 17-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/3eDL0pHyS326-k1KkvIrNw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133873_english_hls_06c84d0a8881600ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132775,
-      "event_category": "Cricket",
-      "title": "Simhadri Vizag Lions vs Bhimavaram Bulls (Andhra Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132775_5529_SVL_BVB_fc-Web.jpg",
-      "team_1": "Simhadri Vizag Lions",
-      "team_2": "Bhimavaram Bulls",
-      "status": "LIVE",
-      "event_name": "Andhra Premier League, 2025",
-      "match_name": "Simhadri Vizag Lions vs Bhimavaram Bulls",
-      "startTime": "01:30:00 PM 17-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/f7X-K9tQT9i_xRnfpZwGlw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132775_english_hls_0d416e8f1d12625ta-di_h264/index.m3u8"
     },
     {
       "id": 132971,
@@ -126,6 +114,34 @@
       "startTime": "02:33:00 PM 17-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132081_english_hls_1e5d2f4cab91883ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132081_english_hls_1e5d2f4cab91883ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133713,
+      "event_category": "Kabaddi",
+      "title": "Tirupati Raiders vs Krishna Defenders (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133713_5591_TR_KD_fc-Web.jpg",
+      "team_1": "Tirupati Raiders",
+      "team_2": "Krishna Defenders",
+      "status": "LIVE",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Tirupati Raiders vs Krishna Defenders",
+      "startTime": "03:45:00 PM 17-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/pXBWtqKoQ2GCx4P8t7DbGw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133713_english_hls_9fb5677d0a85557ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132916,
+      "event_category": "Golf",
+      "title": "Day 4 vs Copenhagen, Denmark (Danish Golf Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Danish-Golf-Championship_2025_Old_match-card.jpg",
+      "team_1": "Day 4",
+      "team_2": "Copenhagen, Denmark",
+      "status": "LIVE",
+      "event_name": "Danish Golf Championship 2025",
+      "match_name": "Day 4",
+      "startTime": "04:00:00 PM 17-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/deSTztcRRsWkCHI0_-9dLA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132916_english_hls_c9085e3b0e78105ta-di_h264/index.m3u8"
     },
     {
       "id": 132273,
@@ -224,18 +240,6 @@
       "startTime": "04:15:00 PM 17-08-2025"
     },
     {
-      "id": 133713,
-      "event_category": "Kabaddi",
-      "title": "Tirupati Raiders vs Krishna Defenders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133713_5591_TR_KD_fc-Web.jpg",
-      "team_1": "Tirupati Raiders",
-      "team_2": "Krishna Defenders",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Tirupati Raiders vs Krishna Defenders",
-      "startTime": "03:45:00 PM 17-08-2025"
-    },
-    {
       "id": 133874,
       "event_category": "Cricket",
       "title": "Sweden vs Hungary (ECN Norway T20I, 2025)",
@@ -246,6 +250,30 @@
       "event_name": "ECN Norway T20I, 2025",
       "match_name": "Sweden vs Hungary",
       "startTime": "04:45:00 PM 17-08-2025"
+    },
+    {
+      "id": 131993,
+      "event_category": "Football",
+      "title": "Ipswich Town vs Southampton (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-VS-Southampton_old.jpg",
+      "team_1": "Ipswich Town",
+      "team_2": "Southampton",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Ipswich Town vs Southampton",
+      "startTime": "04:30:00 PM 17-08-2025"
+    },
+    {
+      "id": 133298,
+      "event_category": "Basketball",
+      "title": "Iran vs New Zealand (FIBA Asia Cup, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/133298_CASACARDS_APP.png",
+      "team_1": "Iran",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "FIBA Asia Cup, 2025",
+      "match_name": "Iran vs New Zealand",
+      "startTime": "04:30:00 PM 17-08-2025"
     },
     {
       "id": 133676,
@@ -308,18 +336,6 @@
       "startTime": "10:15:00 PM 17-08-2025"
     },
     {
-      "id": 131993,
-      "event_category": "Football",
-      "title": "Ipswich Town vs Southampton (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-VS-Southampton_old.jpg",
-      "team_1": "Ipswich Town",
-      "team_2": "Southampton",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Ipswich Town vs Southampton",
-      "startTime": "04:30:00 PM 17-08-2025"
-    },
-    {
       "id": 132164,
       "event_category": "Cricket",
       "title": "Tally Rangers vs CECC (KCC T10 Summer League, 2025)",
@@ -366,18 +382,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Espanyol vs Atlético de Madrid",
       "startTime": "01:00:00 AM 18-08-2025"
-    },
-    {
-      "id": 133298,
-      "event_category": "Basketball",
-      "title": "Iran vs New Zealand (FIBA Asia Cup, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/133298_CASACARDS_APP.png",
-      "team_1": "Iran",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "FIBA Asia Cup, 2025",
-      "match_name": "Iran vs New Zealand",
-      "startTime": "04:30:00 PM 17-08-2025"
     },
     {
       "id": 133511,
@@ -452,18 +456,6 @@
       "startTime": "01:00:00 AM 18-08-2025"
     },
     {
-      "id": 132916,
-      "event_category": "Golf",
-      "title": "Day 4 vs Copenhagen, Denmark (Danish Golf Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Danish-Golf-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 4",
-      "team_2": "Copenhagen, Denmark",
-      "status": "UPCOMING",
-      "event_name": "Danish Golf Championship 2025",
-      "match_name": "Day 4",
-      "startTime": "04:00:00 PM 17-08-2025"
-    },
-    {
       "id": 134126,
       "event_category": "Cricket",
       "title": "THCC Hamburg vs Masroor Sports Club (ECS Germany, Kiel, 2025)",
@@ -474,6 +466,18 @@
       "event_name": "ECS Germany, Kiel, 2025",
       "match_name": "THCC Hamburg vs Masroor Sports Club",
       "startTime": "12:45:00 PM 18-08-2025"
+    },
+    {
+      "id": 132777,
+      "event_category": "Cricket",
+      "title": "Tungabhadra Warriors vs Vijayawada Sunshiners (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132777_5529_TBW_VSS_fc-Web.jpg",
+      "team_1": "Tungabhadra Warriors",
+      "team_2": "Vijayawada Sunshiners",
+      "status": "UPCOMING",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Tungabhadra Warriors vs Vijayawada Sunshiners",
+      "startTime": "01:30:00 PM 18-08-2025"
     }
   ]
 }
