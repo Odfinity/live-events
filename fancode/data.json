@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:26 PM 17-08-2025",
+  "last update time": "02:03 PM 17-08-2025",
   "matches": [
     {
       "id": 119158,
@@ -70,6 +70,34 @@
       "startTime": "01:30:00 PM 17-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/f7X-K9tQT9i_xRnfpZwGlw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132775_english_hls_0d416e8f1d12625ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132971,
+      "event_category": "Cricket",
+      "title": "North Delhi Strikers Women vs South Delhi Superstarz Women (Delhi Women's Premier League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132971_CASACARDS_APP.png",
+      "team_1": "North Delhi Strikers Women",
+      "team_2": "South Delhi Superstarz Women",
+      "status": "LIVE",
+      "event_name": "Delhi Women's Premier League, 2025",
+      "match_name": "North Delhi Strikers Women vs South Delhi Superstarz Women",
+      "startTime": "02:00:00 PM 17-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Zn8VCoOTQgWupbrBWgjOCg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132971_english_hls_81d5985a0884287ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 134053,
+      "event_category": "Cricket",
+      "title": "Lavender Lionesses vs Jinx Zagreb (ECS-W Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
+      "team_1": "Lavender Lionesses",
+      "team_2": "Jinx Zagreb",
+      "status": "LIVE",
+      "event_name": "ECS-W Croatia, 2025",
+      "match_name": "Lavender Lionesses vs Jinx Zagreb",
+      "startTime": "02:15:00 PM 17-08-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 133712,
@@ -182,30 +210,6 @@
       "startTime": "04:30:00 AM 18-08-2025"
     },
     {
-      "id": 132971,
-      "event_category": "Cricket",
-      "title": "North Delhi Strikers Women vs South Delhi Superstarz Women (Delhi Women's Premier League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132971_CASACARDS_APP.png",
-      "team_1": "North Delhi Strikers Women",
-      "team_2": "South Delhi Superstarz Women",
-      "status": "UPCOMING",
-      "event_name": "Delhi Women's Premier League, 2025",
-      "match_name": "North Delhi Strikers Women vs South Delhi Superstarz Women",
-      "startTime": "02:00:00 PM 17-08-2025"
-    },
-    {
-      "id": 134053,
-      "event_category": "Cricket",
-      "title": "Lavender Lionesses vs Jinx Zagreb (ECS-W Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-      "team_1": "Lavender Lionesses",
-      "team_2": "Jinx Zagreb",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Croatia, 2025",
-      "match_name": "Lavender Lionesses vs Jinx Zagreb",
-      "startTime": "02:15:00 PM 17-08-2025"
-    },
-    {
       "id": 133510,
       "event_category": "Cricket",
       "title": "Perth Scorchers Academy vs Bangladesh A (Top End T20 Series, 2025)",
@@ -216,6 +220,18 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Perth Scorchers Academy vs Bangladesh A",
       "startTime": "03:00:00 PM 17-08-2025"
+    },
+    {
+      "id": 132081,
+      "event_category": "Football",
+      "title": "Fagiano Okayama vs Kashiwa Reysol (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132081_CASACARDS_APP.png",
+      "team_1": "Fagiano Okayama",
+      "team_2": "Kashiwa Reysol",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Fagiano Okayama vs Kashiwa Reysol",
+      "startTime": "02:33:00 PM 17-08-2025"
     },
     {
       "id": 134054,
@@ -290,18 +306,6 @@
       "startTime": "09:00:00 PM 17-08-2025"
     },
     {
-      "id": 131993,
-      "event_category": "Football",
-      "title": "Ipswich Town vs Southampton (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-VS-Southampton_old.jpg",
-      "team_1": "Ipswich Town",
-      "team_2": "Southampton",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Ipswich Town vs Southampton",
-      "startTime": "04:30:00 PM 17-08-2025"
-    },
-    {
       "id": 132163,
       "event_category": "Cricket",
       "title": "ACE KRM Panthers vs NCM Investment (KCC T10 Summer League, 2025)",
@@ -312,6 +316,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "ACE KRM Panthers vs NCM Investment",
       "startTime": "10:15:00 PM 17-08-2025"
+    },
+    {
+      "id": 131993,
+      "event_category": "Football",
+      "title": "Ipswich Town vs Southampton (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-VS-Southampton_old.jpg",
+      "team_1": "Ipswich Town",
+      "team_2": "Southampton",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Ipswich Town vs Southampton",
+      "startTime": "04:30:00 PM 17-08-2025"
     },
     {
       "id": 130835,
@@ -398,18 +414,6 @@
       "startTime": "07:00:00 AM 18-08-2025"
     },
     {
-      "id": 132081,
-      "event_category": "Football",
-      "title": "Fagiano Okayama vs Kashiwa Reysol (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132081_CASACARDS_APP.png",
-      "team_1": "Fagiano Okayama",
-      "team_2": "Kashiwa Reysol",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Fagiano Okayama vs Kashiwa Reysol",
-      "startTime": "02:33:00 PM 17-08-2025"
-    },
-    {
       "id": 133713,
       "event_category": "Kabaddi",
       "title": "Tirupati Raiders vs Krishna Defenders (Yuva Andhra Championship, 2025)",
@@ -434,6 +438,18 @@
       "startTime": "05:30:00 PM 17-08-2025"
     },
     {
+      "id": 133512,
+      "event_category": "Cricket",
+      "title": "Northern Territory Strike vs Australian Capital Territory (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133512_5574_NTS_ACT_fc-web.jpg",
+      "team_1": "Northern Territory Strike",
+      "team_2": "Australian Capital Territory",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Northern Territory Strike vs Australian Capital Territory",
+      "startTime": "10:00:00 AM 18-08-2025"
+    },
+    {
       "id": 134125,
       "event_category": "Football",
       "title": "Huesca vs Leganés (LALIGA Hypermotion 2025-26)",
@@ -446,16 +462,16 @@
       "startTime": "01:00:00 AM 18-08-2025"
     },
     {
-      "id": 133512,
+      "id": 132799,
       "event_category": "Cricket",
-      "title": "Northern Territory Strike vs Australian Capital Territory (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133512_5574_NTS_ACT_fc-web.jpg",
-      "team_1": "Northern Territory Strike",
-      "team_2": "Australian Capital Territory",
+      "title": "Mysore Warriors vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132799_5530_MW_BB_fc-Web_1755374792890.jpg",
+      "team_1": "Mysore Warriors",
+      "team_2": "Bengaluru Blasters",
       "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Northern Territory Strike vs Australian Capital Territory",
-      "startTime": "10:00:00 AM 18-08-2025"
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Mysore Warriors vs Bengaluru Blasters",
+      "startTime": "03:15:00 PM 18-08-2025"
     }
   ]
 }
