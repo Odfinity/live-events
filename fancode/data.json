@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:14 AM 17-08-2025",
+  "last update time": "11:26 AM 17-08-2025",
   "matches": [
     {
       "id": 133509,
@@ -16,20 +16,6 @@
       "startTime": "09:00:00 AM 17-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/OjtDE5ngRCulXwwJ1YM_IA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133509_english_hls_7cf5a5a01689112ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133710,
-      "event_category": "Kabaddi",
-      "title": "Vizag Commandos vs Krishna Defenders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133710_5591_VC_KD_fc-Web.jpg",
-      "team_1": "Vizag Commandos",
-      "team_2": "Krishna Defenders",
-      "status": "LIVE",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizag Commandos vs Krishna Defenders",
-      "startTime": "10:15:00 AM 17-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0cbbTCSpS3OvAmlxgrWEnw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133710_english_hls_2389d554c313816ta-di_h264/index.m3u8"
     },
     {
       "id": 132797,
@@ -128,6 +114,18 @@
       "startTime": "10:30:00 PM 17-08-2025"
     },
     {
+      "id": 134052,
+      "event_category": "Cricket",
+      "title": "Jinx Zagreb-W vs Lavender Lionesses-W (ECS-W Croatia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
+      "team_1": "Jinx Zagreb-W",
+      "team_2": "Lavender Lionesses-W",
+      "status": "UPCOMING",
+      "event_name": "ECS-W Croatia, 2025",
+      "match_name": "Jinx Zagreb-W vs Lavender Lionesses-W",
+      "startTime": "12:15:00 PM 17-08-2025"
+    },
+    {
       "id": 132350,
       "event_category": "Cricket",
       "title": "Antigua & Barbuda Falcons vs Saint Lucia Kings (Caribbean Premier League, 2025)",
@@ -150,18 +148,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Kakinada Kraken vs Bhimavaram Guardians",
       "startTime": "11:45:00 AM 17-08-2025"
-    },
-    {
-      "id": 134052,
-      "event_category": "Cricket",
-      "title": "Jinx Zagreb-W vs Lavender Lionesses-W (ECS-W Croatia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
-      "team_1": "Jinx Zagreb-W",
-      "team_2": "Lavender Lionesses-W",
-      "status": "UPCOMING",
-      "event_name": "ECS-W Croatia, 2025",
-      "match_name": "Jinx Zagreb-W vs Lavender Lionesses-W",
-      "startTime": "12:15:00 PM 17-08-2025"
     },
     {
       "id": 133873,
@@ -462,6 +448,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Huesca vs Leganés",
       "startTime": "01:00:00 AM 18-08-2025"
+    },
+    {
+      "id": 133512,
+      "event_category": "Cricket",
+      "title": "Northern Territory Strike vs Australian Capital Territory (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133512_5574_NTS_ACT_fc-web.jpg",
+      "team_1": "Northern Territory Strike",
+      "team_2": "Australian Capital Territory",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Northern Territory Strike vs Australian Capital Territory",
+      "startTime": "10:00:00 AM 18-08-2025"
     }
   ]
 }
