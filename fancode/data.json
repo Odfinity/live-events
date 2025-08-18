@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:56 PM 18-08-2025",
+  "last update time": "11:16 PM 18-08-2025",
   "matches": [
     {
       "id": 132800,
@@ -16,6 +16,20 @@
       "startTime": "07:15:00 PM 18-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/jD7OmPIcSeeh0EcI7AL7UA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132800_english_hls_f800c43c5869380ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132240,
+      "event_category": "Cricket",
+      "title": "Southern Brave vs Oval Invincibles (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132240_5505_SOB_OVI_fc-web.jpg",
+      "team_1": "Southern Brave",
+      "team_2": "Oval Invincibles",
+      "status": "LIVE",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Southern Brave vs Oval Invincibles",
+      "startTime": "11:00:00 PM 18-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755581507~acl=/*~id=01528061517105489423081260761833~hmac=23bb222da80b9d0d8f27616c136ee5d7e64fc3269463ccd6c7640943c82515b0"
     },
     {
       "id": 133679,
@@ -58,18 +72,6 @@
       "startTime": "10:30:00 PM 18-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/J_WZH8vQQjmcnX7fB9bu7g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133475_english_hls_50b77e49a562963ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132240,
-      "event_category": "Cricket",
-      "title": "Southern Brave vs Oval Invincibles (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132240_5505_SOB_OVI_fc-web.jpg",
-      "team_1": "Southern Brave",
-      "team_2": "Oval Invincibles",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Southern Brave vs Oval Invincibles",
-      "startTime": "11:00:00 PM 18-08-2025"
     },
     {
       "id": 132801,
@@ -252,6 +254,18 @@
       "startTime": "03:00:00 PM 19-08-2025"
     },
     {
+      "id": 132241,
+      "event_category": "Cricket",
+      "title": "Trent Rockets vs Manchester Originals (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132241_5505_TRT_MNR_fc-web.jpg",
+      "team_1": "Trent Rockets",
+      "team_2": "Manchester Originals",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Trent Rockets vs Manchester Originals",
+      "startTime": "11:00:00 PM 19-08-2025"
+    },
+    {
       "id": 134133,
       "event_category": "Cricket",
       "title": "MTV Stallions vs Masroor Sports Club (ECS Germany, Kiel, 2025)",
@@ -274,18 +288,6 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "Royal Oman Stallions vs Renaissance Challengers",
       "startTime": "05:00:00 PM 19-08-2025"
-    },
-    {
-      "id": 132241,
-      "event_category": "Cricket",
-      "title": "Trent Rockets vs Manchester Originals (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132241_5505_TRT_MNR_fc-web.jpg",
-      "team_1": "Trent Rockets",
-      "team_2": "Manchester Originals",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Trent Rockets vs Manchester Originals",
-      "startTime": "11:00:00 PM 19-08-2025"
     },
     {
       "id": 132780,
@@ -372,18 +374,6 @@
       "startTime": "08:45:00 PM 19-08-2025"
     },
     {
-      "id": 133723,
-      "event_category": "Kabaddi",
-      "title": "Bhimavaram Guardians vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133723_5591_BG_KK_fc-Web.jpg",
-      "team_1": "Bhimavaram Guardians",
-      "team_2": "Kakinada Kraken",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Bhimavaram Guardians vs Kakinada Kraken",
-      "startTime": "03:45:00 PM 19-08-2025"
-    },
-    {
       "id": 133681,
       "event_category": "Cricket",
       "title": "Muscat Thunders vs Yalla Shabab Giants (Oman D20 League, 2025)",
@@ -394,6 +384,18 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "Muscat Thunders vs Yalla Shabab Giants",
       "startTime": "09:00:00 PM 19-08-2025"
+    },
+    {
+      "id": 133723,
+      "event_category": "Kabaddi",
+      "title": "Bhimavaram Guardians vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133723_5591_BG_KK_fc-Web.jpg",
+      "team_1": "Bhimavaram Guardians",
+      "team_2": "Kakinada Kraken",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Bhimavaram Guardians vs Kakinada Kraken",
+      "startTime": "03:45:00 PM 19-08-2025"
     },
     {
       "id": 133724,
