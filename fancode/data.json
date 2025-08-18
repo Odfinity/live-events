@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:26 AM 19-08-2025",
+  "last update time": "02:53 AM 19-08-2025",
   "matches": [
-    {
-      "id": 130839,
-      "event_category": "Football",
-      "title": "Elche vs Real Betis (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Elche-vs-Real-Betis_Match_card_oldmatchcard_logoVSlogo.jpg",
-      "team_1": "Elche",
-      "team_2": "Real Betis",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche vs Real Betis",
-      "startTime": "12:30:00 AM 19-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130839_english_hls_bd582ba98527488adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130839_english_hls_bd582ba98527488adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132869,
-      "event_category": "Baseball",
-      "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132869_CASACARDS_APP.png",
-      "team_1": "Chicago Cubs",
-      "team_2": "Milwaukee Brewers",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Chicago Cubs vs Milwaukee Brewers",
-      "startTime": "11:50:00 PM 18-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132869_english_hls_e80f2a328b40000ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132869_english_hls_e80f2a328b40000ta-di_h264/index.m3u8"
-    },
     {
       "id": 132801,
       "event_category": "Cricket",
@@ -260,18 +232,6 @@
       "startTime": "09:00:00 PM 19-08-2025"
     },
     {
-      "id": 133720,
-      "event_category": "Kabaddi",
-      "title": "Bhimavaram Guardians vs Kurnool Knights (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133720_5591_BG_KKK_fc-Web.jpg",
-      "team_1": "Bhimavaram Guardians",
-      "team_2": "Kurnool Knights",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Bhimavaram Guardians vs Kurnool Knights",
-      "startTime": "10:15:00 AM 19-08-2025"
-    },
-    {
       "id": 132167,
       "event_category": "Cricket",
       "title": "Khan Zalmi Kings vs NCM Investment (KCC T10 Summer League, 2025)",
@@ -282,6 +242,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Khan Zalmi Kings vs NCM Investment",
       "startTime": "10:15:00 PM 19-08-2025"
+    },
+    {
+      "id": 133720,
+      "event_category": "Kabaddi",
+      "title": "Bhimavaram Guardians vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133720_5591_BG_KKK_fc-Web.jpg",
+      "team_1": "Bhimavaram Guardians",
+      "team_2": "Kurnool Knights",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Bhimavaram Guardians vs Kurnool Knights",
+      "startTime": "10:15:00 AM 19-08-2025"
     },
     {
       "id": 133721,
@@ -332,18 +304,6 @@
       "startTime": "05:30:00 PM 19-08-2025"
     },
     {
-      "id": 132168,
-      "event_category": "Cricket",
-      "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "SBS CC",
-      "team_2": "CECC",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "SBS CC vs CECC",
-      "startTime": "12:15:00 AM 20-08-2025"
-    },
-    {
       "id": 132351,
       "event_category": "Cricket",
       "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2025)",
@@ -354,6 +314,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
       "startTime": "04:30:00 AM 20-08-2025"
+    },
+    {
+      "id": 132168,
+      "event_category": "Cricket",
+      "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "SBS CC",
+      "team_2": "CECC",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "SBS CC vs CECC",
+      "startTime": "12:15:00 AM 20-08-2025"
     },
     {
       "id": 130830,
