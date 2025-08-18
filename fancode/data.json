@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:14 AM 19-08-2025",
+  "last update time": "02:26 AM 19-08-2025",
   "matches": [
     {
       "id": 130839,
@@ -30,20 +30,6 @@
       "startTime": "11:50:00 PM 18-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132869_english_hls_e80f2a328b40000ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132869_english_hls_e80f2a328b40000ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133471,
-      "event_category": "Football",
-      "title": "Rot-Weiss Essen vs Borussia Dortmund (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133471_5570_ESS_DOR_Fc-Web.jpg",
-      "team_1": "Rot-Weiss Essen",
-      "team_2": "Borussia Dortmund",
-      "status": "LIVE",
-      "event_name": "DFB Pokal 2025-26",
-      "match_name": "Rot-Weiss Essen vs Borussia Dortmund",
-      "startTime": "12:15:00 AM 19-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DzCGWmYnQvSH2x8m3Mrj7A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133471_english_hls_a30406261f94669ta-di_h264/index.m3u8"
     },
     {
       "id": 132801,
@@ -286,18 +272,6 @@
       "startTime": "10:15:00 AM 19-08-2025"
     },
     {
-      "id": 133721,
-      "event_category": "Kabaddi",
-      "title": "Tirupati Raiders vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133721_5591_TR_AC_fc-Web.jpg",
-      "team_1": "Tirupati Raiders",
-      "team_2": "Amaravati Crushers",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Tirupati Raiders vs Amaravati Crushers",
-      "startTime": "11:45:00 AM 19-08-2025"
-    },
-    {
       "id": 132167,
       "event_category": "Cricket",
       "title": "Khan Zalmi Kings vs NCM Investment (KCC T10 Summer League, 2025)",
@@ -308,6 +282,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Khan Zalmi Kings vs NCM Investment",
       "startTime": "10:15:00 PM 19-08-2025"
+    },
+    {
+      "id": 133721,
+      "event_category": "Kabaddi",
+      "title": "Tirupati Raiders vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133721_5591_TR_AC_fc-Web.jpg",
+      "team_1": "Tirupati Raiders",
+      "team_2": "Amaravati Crushers",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Tirupati Raiders vs Amaravati Crushers",
+      "startTime": "11:45:00 AM 19-08-2025"
     },
     {
       "id": 133722,
@@ -406,18 +392,6 @@
       "startTime": "07:10:00 AM 19-08-2025"
     },
     {
-      "id": 132449,
-      "event_category": "Arm Wrestling",
-      "title": "Day 15 vs Gwalior (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-      "team_1": "Day 15",
-      "team_2": "Gwalior",
-      "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 15",
-      "startTime": "05:00:00 PM 19-08-2025"
-    },
-    {
       "id": 133517,
       "event_category": "Cricket",
       "title": "Chicago Kingsmen vs Australian Capital Territory (Top End T20 Series, 2025)",
@@ -428,6 +402,18 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Chicago Kingsmen vs Australian Capital Territory",
       "startTime": "06:00:00 AM 20-08-2025"
+    },
+    {
+      "id": 132449,
+      "event_category": "Arm Wrestling",
+      "title": "Day 15 vs Gwalior (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+      "team_1": "Day 15",
+      "team_2": "Gwalior",
+      "status": "UPCOMING",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 15",
+      "startTime": "05:00:00 PM 19-08-2025"
     }
   ]
 }
