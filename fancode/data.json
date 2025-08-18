@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:29 AM 18-08-2025",
+  "last update time": "11:03 AM 18-08-2025",
   "matches": [
-    {
-      "id": 133511,
-      "event_category": "Cricket",
-      "title": "Melbourne Stars Academy vs Nepal (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-web.jpg",
-      "team_1": "Melbourne Stars Academy",
-      "team_2": "Nepal",
-      "status": "LIVE",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Melbourne Stars Academy vs Nepal",
-      "startTime": "07:00:00 AM 18-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Fs-860HwSbWX5bbTpVLnQQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133511_english_hls_464030b6bb28526ta-di_h264/index.m3u8"
-    },
     {
       "id": 133512,
       "event_category": "Cricket",
@@ -104,6 +90,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Southern Brave vs Oval Invincibles",
       "startTime": "11:00:00 PM 18-08-2025"
+    },
+    {
+      "id": 133716,
+      "event_category": "Kabaddi",
+      "title": "Bhimavaram Guardians vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133716_5591_BG_VN_fc-Web.jpg",
+      "team_1": "Bhimavaram Guardians",
+      "team_2": "Vizianagaram Ninjas",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Bhimavaram Guardians vs Vizianagaram Ninjas",
+      "startTime": "11:45:00 AM 18-08-2025"
     },
     {
       "id": 134126,
@@ -286,16 +284,16 @@
       "startTime": "12:30:00 AM 19-08-2025"
     },
     {
-      "id": 133716,
-      "event_category": "Kabaddi",
-      "title": "Bhimavaram Guardians vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133716_5591_BG_VN_fc-Web.jpg",
-      "team_1": "Bhimavaram Guardians",
-      "team_2": "Vizianagaram Ninjas",
+      "id": 133514,
+      "event_category": "Cricket",
+      "title": "Adelaide Strikers Academy vs Perth Scorchers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
+      "team_1": "Adelaide Strikers Academy",
+      "team_2": "Perth Scorchers Academy",
       "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Bhimavaram Guardians vs Vizianagaram Ninjas",
-      "startTime": "11:45:00 AM 18-08-2025"
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Adelaide Strikers Academy vs Perth Scorchers Academy",
+      "startTime": "06:00:00 AM 19-08-2025"
     },
     {
       "id": 133717,
@@ -332,18 +330,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Vizianagaram Ninjas vs Kakinada Kraken",
       "startTime": "05:30:00 PM 18-08-2025"
-    },
-    {
-      "id": 133514,
-      "event_category": "Cricket",
-      "title": "Adelaide Strikers Academy vs Perth Scorchers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
-      "team_1": "Adelaide Strikers Academy",
-      "team_2": "Perth Scorchers Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Adelaide Strikers Academy vs Perth Scorchers Academy",
-      "startTime": "06:00:00 AM 19-08-2025"
     },
     {
       "id": 133475,
@@ -418,18 +404,6 @@
       "startTime": "10:15:00 AM 19-08-2025"
     },
     {
-      "id": 132448,
-      "event_category": "Arm Wrestling",
-      "title": "Day 14 vs Gwalior (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
-      "team_1": "Day 14",
-      "team_2": "Gwalior",
-      "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Day 14",
-      "startTime": "05:00:00 PM 18-08-2025"
-    },
-    {
       "id": 132779,
       "event_category": "Cricket",
       "title": "Kakinada Kings vs Bhimavaram Bulls (Andhra Premier League, 2025)",
@@ -442,16 +416,40 @@
       "startTime": "01:30:00 PM 19-08-2025"
     },
     {
-      "id": 132869,
-      "event_category": "Baseball",
-      "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132869_CASACARDS_APP.png",
-      "team_1": "Chicago Cubs",
-      "team_2": "Milwaukee Brewers",
+      "id": 132448,
+      "event_category": "Arm Wrestling",
+      "title": "Day 14 vs Gwalior (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+      "team_1": "Day 14",
+      "team_2": "Gwalior",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Chicago Cubs vs Milwaukee Brewers",
-      "startTime": "11:50:00 PM 18-08-2025"
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 14",
+      "startTime": "05:00:00 PM 18-08-2025"
+    },
+    {
+      "id": 132973,
+      "event_category": "Cricket",
+      "title": "South Delhi Superstarz Women vs East Delhi Riders Women (Delhi Women's Premier League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132973_CASACARDS_APP.png",
+      "team_1": "South Delhi Superstarz Women",
+      "team_2": "East Delhi Riders Women",
+      "status": "UPCOMING",
+      "event_name": "Delhi Women's Premier League, 2025",
+      "match_name": "South Delhi Superstarz Women vs East Delhi Riders Women",
+      "startTime": "02:00:00 PM 19-08-2025"
+    },
+    {
+      "id": 133721,
+      "event_category": "Kabaddi",
+      "title": "Tirupati Raiders vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133721_5591_TR_AC_fc-Web.jpg",
+      "team_1": "Tirupati Raiders",
+      "team_2": "Amaravati Crushers",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Tirupati Raiders vs Amaravati Crushers",
+      "startTime": "11:45:00 AM 19-08-2025"
     }
   ]
 }
