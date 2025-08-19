@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:03 PM 19-08-2025",
+  "last update time": "10:23 PM 19-08-2025",
   "matches": [
     {
       "id": 130830,
@@ -14,20 +14,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Madrid vs Osasuna",
       "startTime": "12:30:00 AM 20-08-2025"
-    },
-    {
-      "id": 132275,
-      "event_category": "Cricket",
-      "title": "Trent Rockets Women vs Manchester Originals Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132275_5506_TRT-W_MNR-W_Fc-Web.jpg",
-      "team_1": "Trent Rockets Women",
-      "team_2": "Manchester Originals Women",
-      "status": "LIVE",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Trent Rockets Women vs Manchester Originals Women",
-      "startTime": "07:30:00 PM 19-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?{\"error\":\"transfer closed with 1 bytes remaining to read\"}"
     },
     {
       "id": 132490,
@@ -96,19 +82,19 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Khan Zalmi Kings vs NCM Investment",
       "startTime": "10:15:00 PM 19-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/J2yZOH19S2y9u5mVlRmsYA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132167_english_hls_af94e8c8d065289ta-di_h264/index.m3u8"
     },
     {
       "id": 132241,
       "event_category": "Cricket",
-      "title": "Trent Rockets vs Manchester Originals (The Hundred, 2025)",
+      "title": "Manchester Originals vs Trent Rockets (The Hundred, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132241_5505_TRT_MNR_fc-web.jpg",
-      "team_1": "Trent Rockets",
-      "team_2": "Manchester Originals",
+      "team_1": "Manchester Originals",
+      "team_2": "Trent Rockets",
       "status": "UPCOMING",
       "event_name": "The Hundred, 2025",
-      "match_name": "Trent Rockets vs Manchester Originals",
+      "match_name": "Manchester Originals vs Trent Rockets",
       "startTime": "11:00:00 PM 19-08-2025"
     },
     {
@@ -172,18 +158,6 @@
       "startTime": "07:15:00 PM 20-08-2025"
     },
     {
-      "id": 132168,
-      "event_category": "Cricket",
-      "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "SBS CC",
-      "team_2": "CECC",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "SBS CC vs CECC",
-      "startTime": "12:15:00 AM 20-08-2025"
-    },
-    {
       "id": 132277,
       "event_category": "Cricket",
       "title": "London Spirit Women vs Northern Superchargers Women (The Hundred Women, 2025)",
@@ -206,6 +180,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Welsh Fire vs Southern Brave",
       "startTime": "07:30:00 PM 20-08-2025"
+    },
+    {
+      "id": 132168,
+      "event_category": "Cricket",
+      "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "SBS CC",
+      "team_2": "CECC",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "SBS CC vs CECC",
+      "startTime": "12:15:00 AM 20-08-2025"
     },
     {
       "id": 133517,
