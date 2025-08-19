@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 20-08-2025",
+  "last update time": "01:57 AM 20-08-2025",
   "matches": [
     {
       "id": 130830,
@@ -16,20 +16,6 @@
       "startTime": "12:30:00 AM 20-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130830_english_hls_36dc6f056f4425adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130830_english_hls_36dc6f056f4425adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132241,
-      "event_category": "Cricket",
-      "title": "Manchester Originals vs Trent Rockets (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132241_5505_TRT_MNR_fc-web.jpg",
-      "team_1": "Manchester Originals",
-      "team_2": "Trent Rockets",
-      "status": "LIVE",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Manchester Originals vs Trent Rockets",
-      "startTime": "11:00:00 PM 19-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755667918~acl=/*~id=86650795183901463249471609597554~hmac=fa0c7bfe6532db995f0b12bf79741f2e511e0aa8cf4a2e1c07d4b0503b62e0ad"
     },
     {
       "id": 132168,
@@ -58,6 +44,20 @@
       "startTime": "12:30:00 AM 20-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/SyUf5QmERYKQpzJfM5E3jQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132024_english_hls_760681d2f081397ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132241,
+      "event_category": "Cricket",
+      "title": "Manchester Originals vs Trent Rockets (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132241_5505_TRT_MNR_fc-web.jpg",
+      "team_1": "Manchester Originals",
+      "team_2": "Trent Rockets",
+      "status": "LIVE",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Manchester Originals vs Trent Rockets",
+      "startTime": "11:00:00 PM 19-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755667918~acl=/*~id=86650795183901463249471609597554~hmac=fa0c7bfe6532db995f0b12bf79741f2e511e0aa8cf4a2e1c07d4b0503b62e0ad"
     },
     {
       "id": 132351,
@@ -144,18 +144,6 @@
       "startTime": "07:30:00 PM 20-08-2025"
     },
     {
-      "id": 133517,
-      "event_category": "Cricket",
-      "title": "Chicago Kingsmen vs Australian Capital Territory (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133517_5574_CHK_ACT_fc-web.jpg",
-      "team_1": "Chicago Kingsmen",
-      "team_2": "Australian Capital Territory",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Chicago Kingsmen vs Australian Capital Territory",
-      "startTime": "06:00:00 AM 20-08-2025"
-    },
-    {
       "id": 132243,
       "event_category": "Cricket",
       "title": "London Spirit vs Northern Superchargers (The Hundred, 2025)",
@@ -166,6 +154,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "London Spirit vs Northern Superchargers",
       "startTime": "11:00:00 PM 20-08-2025"
+    },
+    {
+      "id": 133517,
+      "event_category": "Cricket",
+      "title": "Chicago Kingsmen vs Australian Capital Territory (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133517_5574_CHK_ACT_fc-web.jpg",
+      "team_1": "Chicago Kingsmen",
+      "team_2": "Australian Capital Territory",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Chicago Kingsmen vs Australian Capital Territory",
+      "startTime": "06:00:00 AM 20-08-2025"
     },
     {
       "id": 133518,
@@ -454,6 +454,18 @@
       "event_name": "Vierumäki Finnish Challenge",
       "match_name": "Vierumäki Finnish Challenge",
       "startTime": "03:25:00 PM 20-08-2025"
+    },
+    {
+      "id": 133521,
+      "event_category": "Cricket",
+      "title": "Melbourne Renegades Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133521_5574_MRA_HHA_fc-web.jpg",
+      "team_1": "Melbourne Renegades Academy",
+      "team_2": "Hobart Hurricanes Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Melbourne Renegades Academy vs Hobart Hurricanes Academy",
+      "startTime": "06:00:00 AM 21-08-2025"
     }
   ]
 }
