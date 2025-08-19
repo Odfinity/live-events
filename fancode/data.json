@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:26 PM 19-08-2025",
+  "last update time": "12:54 PM 19-08-2025",
   "matches": [
-    {
-      "id": 133515,
-      "event_category": "Cricket",
-      "title": "Chicago Kingsmen vs Pakistan Shaheens (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133515_5574_CHK_PKS_fc-web.jpg",
-      "team_1": "Chicago Kingsmen",
-      "team_2": "Pakistan Shaheens",
-      "status": "LIVE",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Chicago Kingsmen vs Pakistan Shaheens",
-      "startTime": "09:00:00 AM 19-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/TdH5o8QNRu2QNsFKvdf4ag/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133515_english_hls_e9d425b32613224ta-di_h264/index.m3u8"
-    },
     {
       "id": 133516,
       "event_category": "Cricket",
@@ -32,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133516_english_hls_751a67e5c299310ta-di_h264/index.m3u8"
     },
     {
-      "id": 133721,
-      "event_category": "Kabaddi",
-      "title": "Tirupati Raiders vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133721_5591_TR_AC_fc-Web.jpg",
-      "team_1": "Tirupati Raiders",
-      "team_2": "Amaravati Crushers",
+      "id": 134131,
+      "event_category": "Cricket",
+      "title": "Masroor Sports Club vs 1.Kieler HTC (ECS Germany, Kiel, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+      "team_1": "Masroor Sports Club",
+      "team_2": "1.Kieler HTC",
       "status": "LIVE",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Tirupati Raiders vs Amaravati Crushers",
-      "startTime": "11:45:00 AM 19-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZjMDTab1Tw2Z2UGqf60nCg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133721_english_hls_baae91325790752ta-di_h264/index.m3u8"
+      "event_name": "ECS Germany, Kiel, 2025",
+      "match_name": "Masroor Sports Club vs 1.Kieler HTC",
+      "startTime": "12:45:00 PM 19-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RlMrsQf1QCC8_fKEbmOMcQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134131_english_hls_19e58f9ba312558ta-di_h264/index.m3u8"
     },
     {
       "id": 132801,
@@ -106,18 +92,6 @@
       "startTime": "11:00:00 PM 19-08-2025"
     },
     {
-      "id": 134131,
-      "event_category": "Cricket",
-      "title": "Masroor Sports Club vs 1.Kieler HTC (ECS Germany, Kiel, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-      "team_1": "Masroor Sports Club",
-      "team_2": "1.Kieler HTC",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Kiel, 2025",
-      "match_name": "Masroor Sports Club vs 1.Kieler HTC",
-      "startTime": "12:45:00 PM 19-08-2025"
-    },
-    {
       "id": 132351,
       "event_category": "Cricket",
       "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2025)",
@@ -130,18 +104,6 @@
       "startTime": "04:30:00 AM 20-08-2025"
     },
     {
-      "id": 133722,
-      "event_category": "Kabaddi",
-      "title": "Krishna Defenders vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133722_5591_KD_VC_fc-Web.jpg",
-      "team_1": "Krishna Defenders",
-      "team_2": "Vizag Commandos",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Krishna Defenders vs Vizag Commandos",
-      "startTime": "01:15:00 PM 19-08-2025"
-    },
-    {
       "id": 132779,
       "event_category": "Cricket",
       "title": "Kakinada Kings vs Bhimavaram Bulls (Andhra Premier League, 2025)",
@@ -152,6 +114,18 @@
       "event_name": "Andhra Premier League, 2025",
       "match_name": "Kakinada Kings vs Bhimavaram Bulls",
       "startTime": "01:30:00 PM 19-08-2025"
+    },
+    {
+      "id": 133722,
+      "event_category": "Kabaddi",
+      "title": "Krishna Defenders vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133722_5591_KD_VC_fc-Web.jpg",
+      "team_1": "Krishna Defenders",
+      "team_2": "Vizag Commandos",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Krishna Defenders vs Vizag Commandos",
+      "startTime": "01:15:00 PM 19-08-2025"
     },
     {
       "id": 132973,
@@ -334,18 +308,6 @@
       "startTime": "05:30:00 PM 19-08-2025"
     },
     {
-      "id": 132024,
-      "event_category": "Football",
-      "title": "Walsall vs Grimsby Town (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Walsall",
-      "team_2": "Grimsby Town",
-      "status": "UPCOMING",
-      "event_name": "League Two 2025-26",
-      "match_name": "Walsall vs Grimsby Town",
-      "startTime": "12:30:00 AM 20-08-2025"
-    },
-    {
       "id": 133518,
       "event_category": "Cricket",
       "title": "Melbourne Stars Academy vs Perth Scorchers Academy (Top End T20 Series, 2025)",
@@ -356,6 +318,18 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Melbourne Stars Academy vs Perth Scorchers Academy",
       "startTime": "09:00:00 AM 20-08-2025"
+    },
+    {
+      "id": 132024,
+      "event_category": "Football",
+      "title": "Walsall vs Grimsby Town (League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Walsall",
+      "team_2": "Grimsby Town",
+      "status": "UPCOMING",
+      "event_name": "League Two 2025-26",
+      "match_name": "Walsall vs Grimsby Town",
+      "startTime": "12:30:00 AM 20-08-2025"
     },
     {
       "id": 133519,
@@ -430,18 +404,6 @@
       "startTime": "02:00:00 PM 20-08-2025"
     },
     {
-      "id": 133726,
-      "event_category": "Kabaddi",
-      "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
-      "team_1": "Vizag Commandos",
-      "team_2": "Kurnool Knights",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizag Commandos vs Kurnool Knights",
-      "startTime": "11:45:00 AM 20-08-2025"
-    },
-    {
       "id": 133747,
       "event_category": "Cricket",
       "title": "Netherlands Women vs Italy Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
@@ -454,6 +416,18 @@
       "startTime": "02:30:00 PM 20-08-2025"
     },
     {
+      "id": 133726,
+      "event_category": "Kabaddi",
+      "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
+      "team_1": "Vizag Commandos",
+      "team_2": "Kurnool Knights",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Vizag Commandos vs Kurnool Knights",
+      "startTime": "11:45:00 AM 20-08-2025"
+    },
+    {
       "id": 134137,
       "event_category": "Cricket",
       "title": "HTB Cricket vs VFB Fallersleben (ECS Germany, Kiel, 2025)",
@@ -464,6 +438,30 @@
       "event_name": "ECS Germany, Kiel, 2025",
       "match_name": "HTB Cricket vs VFB Fallersleben",
       "startTime": "02:45:00 PM 20-08-2025"
+    },
+    {
+      "id": 133520,
+      "event_category": "Cricket",
+      "title": "Pakistan Shaheens vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
+      "team_1": "Pakistan Shaheens",
+      "team_2": "Adelaide Strikers Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Pakistan Shaheens vs Adelaide Strikers Academy",
+      "startTime": "03:00:00 PM 20-08-2025"
+    },
+    {
+      "id": 132449,
+      "event_category": "Arm Wrestling",
+      "title": "Day 15 vs Gwalior (Pro Panja League Season 2 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+      "team_1": "Day 15",
+      "team_2": "Gwalior",
+      "status": "UPCOMING",
+      "event_name": "Pro Panja League Season 2 2025",
+      "match_name": "Day 15",
+      "startTime": "05:00:00 PM 19-08-2025"
     }
   ]
 }
