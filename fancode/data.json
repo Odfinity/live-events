@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:26 AM 19-08-2025",
+  "last update time": "07:35 AM 19-08-2025",
   "matches": [
+    {
+      "id": 133514,
+      "event_category": "Cricket",
+      "title": "Perth Scorchers Academy vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
+      "team_1": "Perth Scorchers Academy",
+      "team_2": "Adelaide Strikers Academy",
+      "status": "LIVE",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Perth Scorchers Academy vs Adelaide Strikers Academy",
+      "startTime": "06:00:00 AM 19-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/e0bQbVppTJ2O1SVfY8wOrg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133514_english_hls_4027ef258788342ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132870,
+      "event_category": "Baseball",
+      "title": "Arizona Diamondbacks vs Cleveland Guardians (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132870_CASACARDS_APP.png",
+      "team_1": "Arizona Diamondbacks",
+      "team_2": "Cleveland Guardians",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Arizona Diamondbacks vs Cleveland Guardians",
+      "startTime": "07:10:00 AM 19-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132870_english_hls_3d9076280817510ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132870_english_hls_3d9076280817510ta-di_h264/index.m3u8"
+    },
     {
       "id": 132801,
       "event_category": "Cricket",
@@ -52,18 +80,6 @@
       "startTime": "07:30:00 PM 19-08-2025"
     },
     {
-      "id": 133514,
-      "event_category": "Cricket",
-      "title": "Adelaide Strikers Academy vs Perth Scorchers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
-      "team_1": "Adelaide Strikers Academy",
-      "team_2": "Perth Scorchers Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Adelaide Strikers Academy vs Perth Scorchers Academy",
-      "startTime": "06:00:00 AM 19-08-2025"
-    },
-    {
       "id": 132241,
       "event_category": "Cricket",
       "title": "Trent Rockets vs Manchester Originals (The Hundred, 2025)",
@@ -74,6 +90,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Trent Rockets vs Manchester Originals",
       "startTime": "11:00:00 PM 19-08-2025"
+    },
+    {
+      "id": 132351,
+      "event_category": "Cricket",
+      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132351_5512_SKN_SLK_fc-web.jpg",
+      "team_1": "St Kitts and Nevis Patriots",
+      "team_2": "Saint Lucia Kings",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
+      "startTime": "04:30:00 AM 20-08-2025"
     },
     {
       "id": 133515,
@@ -232,18 +260,6 @@
       "startTime": "09:00:00 PM 19-08-2025"
     },
     {
-      "id": 132351,
-      "event_category": "Cricket",
-      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132351_CASACARDS_APP.png",
-      "team_1": "St Kitts and Nevis Patriots",
-      "team_2": "Saint Lucia Kings",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
-      "startTime": "04:30:00 AM 20-08-2025"
-    },
-    {
       "id": 132167,
       "event_category": "Cricket",
       "title": "Khan Zalmi Kings vs NCM Investment (KCC T10 Summer League, 2025)",
@@ -266,6 +282,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "SBS CC vs CECC",
       "startTime": "12:15:00 AM 20-08-2025"
+    },
+    {
+      "id": 130830,
+      "event_category": "Football",
+      "title": "Real Madrid vs Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-vs-Osasuna_Match_card_oldmatchcard_logoVSlogo_v2.jpg",
+      "team_1": "Real Madrid",
+      "team_2": "Osasuna",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Osasuna",
+      "startTime": "12:30:00 AM 20-08-2025"
     },
     {
       "id": 133720,
@@ -302,18 +330,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Krishna Defenders vs Vizag Commandos",
       "startTime": "01:15:00 PM 19-08-2025"
-    },
-    {
-      "id": 130830,
-      "event_category": "Football",
-      "title": "Real Madrid vs Osasuna (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-vs-Osasuna_Match_card_oldmatchcard_logoVSlogo_v2.jpg",
-      "team_1": "Real Madrid",
-      "team_2": "Osasuna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Osasuna",
-      "startTime": "12:30:00 AM 20-08-2025"
     },
     {
       "id": 133723,
@@ -364,16 +380,16 @@
       "startTime": "06:00:00 AM 20-08-2025"
     },
     {
-      "id": 132870,
-      "event_category": "Baseball",
-      "title": "Arizona Diamondbacks vs Cleveland Guardians (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132870_CASACARDS_APP.png",
-      "team_1": "Arizona Diamondbacks",
-      "team_2": "Cleveland Guardians",
+      "id": 133518,
+      "event_category": "Cricket",
+      "title": "Melbourne Stars Academy vs Perth Scorchers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133518_5574_MSA_PSA_fc-web.jpg",
+      "team_1": "Melbourne Stars Academy",
+      "team_2": "Perth Scorchers Academy",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Arizona Diamondbacks vs Cleveland Guardians",
-      "startTime": "07:10:00 AM 19-08-2025"
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Melbourne Stars Academy vs Perth Scorchers Academy",
+      "startTime": "09:00:00 AM 20-08-2025"
     },
     {
       "id": 132449,
@@ -388,16 +404,16 @@
       "startTime": "05:00:00 PM 19-08-2025"
     },
     {
-      "id": 133518,
+      "id": 133519,
       "event_category": "Cricket",
-      "title": "Melbourne Stars Academy vs Perth Scorchers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133518_5574_MSA_PSA_fc-web.jpg",
-      "team_1": "Melbourne Stars Academy",
-      "team_2": "Perth Scorchers Academy",
+      "title": "Nepal vs Melbourne Renegades Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133519_5574_NEP_MRA_fc-web.jpg",
+      "team_1": "Nepal",
+      "team_2": "Melbourne Renegades Academy",
       "status": "UPCOMING",
       "event_name": "Top End T20 Series, 2025",
-      "match_name": "Melbourne Stars Academy vs Perth Scorchers Academy",
-      "startTime": "09:00:00 AM 20-08-2025"
+      "match_name": "Nepal vs Melbourne Renegades Academy",
+      "startTime": "11:00:00 AM 20-08-2025"
     }
   ]
 }
