@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 AM 20-08-2025",
+  "last update time": "10:56 AM 20-08-2025",
   "matches": [
     {
       "id": 133518,
@@ -16,6 +16,20 @@
       "startTime": "09:00:00 AM 20-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/x_lTmyp1QzGv3QSsJnWsyw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133518_english_hls_40a646a9b894253ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133519,
+      "event_category": "Cricket",
+      "title": "Nepal vs Melbourne Renegades Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133519_5574_NEP_MRA_fc-web.jpg",
+      "team_1": "Nepal",
+      "team_2": "Melbourne Renegades Academy",
+      "status": "LIVE",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Nepal vs Melbourne Renegades Academy",
+      "startTime": "11:00:00 AM 20-08-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 133725,
@@ -116,18 +130,6 @@
       "startTime": "11:00:00 PM 20-08-2025"
     },
     {
-      "id": 133519,
-      "event_category": "Cricket",
-      "title": "Nepal vs Melbourne Renegades Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133519_5574_NEP_MRA_fc-web.jpg",
-      "team_1": "Nepal",
-      "team_2": "Melbourne Renegades Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Nepal vs Melbourne Renegades Academy",
-      "startTime": "11:00:00 AM 20-08-2025"
-    },
-    {
       "id": 132352,
       "event_category": "Cricket",
       "title": "Antigua & Barbuda Falcons vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
@@ -150,6 +152,18 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "05:00:00 AM 21-08-2025"
+    },
+    {
+      "id": 133726,
+      "event_category": "Kabaddi",
+      "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
+      "team_1": "Vizag Commandos",
+      "team_2": "Kurnool Knights",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Vizag Commandos vs Kurnool Knights",
+      "startTime": "11:45:00 AM 20-08-2025"
     },
     {
       "id": 134136,
@@ -284,16 +298,16 @@
       "startTime": "12:15:00 AM 21-08-2025"
     },
     {
-      "id": 133726,
-      "event_category": "Kabaddi",
-      "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
-      "team_1": "Vizag Commandos",
-      "team_2": "Kurnool Knights",
+      "id": 133521,
+      "event_category": "Cricket",
+      "title": "Melbourne Renegades Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133521_5574_MRA_HHA_fc-web.jpg",
+      "team_1": "Melbourne Renegades Academy",
+      "team_2": "Hobart Hurricanes Academy",
       "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizag Commandos vs Kurnool Knights",
-      "startTime": "11:45:00 AM 20-08-2025"
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Melbourne Renegades Academy vs Hobart Hurricanes Academy",
+      "startTime": "06:00:00 AM 21-08-2025"
     },
     {
       "id": 133727,
@@ -344,18 +358,6 @@
       "startTime": "05:30:00 PM 20-08-2025"
     },
     {
-      "id": 133521,
-      "event_category": "Cricket",
-      "title": "Melbourne Renegades Academy vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133521_5574_MRA_HHA_fc-web.jpg",
-      "team_1": "Melbourne Renegades Academy",
-      "team_2": "Hobart Hurricanes Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Melbourne Renegades Academy vs Hobart Hurricanes Academy",
-      "startTime": "06:00:00 AM 21-08-2025"
-    },
-    {
       "id": 132022,
       "event_category": "Football",
       "title": "Bolton Wanderers vs Reading (League One 2025-26)",
@@ -392,18 +394,6 @@
       "startTime": "11:00:00 AM 21-08-2025"
     },
     {
-      "id": 134939,
-      "event_category": "Cricket",
-      "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/134939_CASACARDS_APP.png",
-      "team_1": "Romania",
-      "team_2": "Czechia",
-      "status": "UPCOMING",
-      "event_name": "ECN Romania-Czechia T20I, 2025",
-      "match_name": "Romania vs Czechia",
-      "startTime": "12:00:00 PM 21-08-2025"
-    },
-    {
       "id": 132805,
       "event_category": "Cricket",
       "title": "Mangaluru Dragons vs Mysore Warriors (Maharaja T20 Trophy, 2025)",
@@ -414,6 +404,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Mangaluru Dragons vs Mysore Warriors",
       "startTime": "03:15:00 PM 21-08-2025"
+    },
+    {
+      "id": 134939,
+      "event_category": "Cricket",
+      "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/134939_CASACARDS_APP.png",
+      "team_1": "Romania",
+      "team_2": "Czechia",
+      "status": "UPCOMING",
+      "event_name": "ECN Romania-Czechia T20I, 2025",
+      "match_name": "Romania vs Czechia",
+      "startTime": "12:00:00 PM 21-08-2025"
     },
     {
       "id": 134141,
@@ -440,6 +442,18 @@
       "startTime": "10:15:00 AM 21-08-2025"
     },
     {
+      "id": 132781,
+      "event_category": "Cricket",
+      "title": "Vijayawada Sunshiners vs Bhimavaram Bulls (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Vijayawada Sunshiners",
+      "team_2": "Bhimavaram Bulls",
+      "status": "UPCOMING",
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Vijayawada Sunshiners vs Bhimavaram Bulls",
+      "startTime": "01:30:00 PM 21-08-2025"
+    },
+    {
       "id": 133811,
       "event_category": "Golf",
       "title": "Vierumäki Finnish Challenge vs Cooke Course, Vierumäki (Vierumäki Finnish Challenge)",
@@ -450,18 +464,6 @@
       "event_name": "Vierumäki Finnish Challenge",
       "match_name": "Vierumäki Finnish Challenge",
       "startTime": "03:25:00 PM 20-08-2025"
-    },
-    {
-      "id": 132450,
-      "event_category": "Arm Wrestling",
-      "title": "Semi Finals vs Gwalior (Pro Panja League Season 2 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
-      "team_1": "Semi Finals",
-      "team_2": "Gwalior",
-      "status": "UPCOMING",
-      "event_name": "Pro Panja League Season 2 2025",
-      "match_name": "Semi Finals",
-      "startTime": "07:00:00 PM 20-08-2025"
     }
   ]
 }
