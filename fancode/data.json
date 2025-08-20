@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:30 PM 20-08-2025",
+  "last update time": "09:01 PM 20-08-2025",
   "matches": [
     {
       "id": 132491,
@@ -60,20 +60,6 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755741545~acl=/*~id=15002408185951789394498798127028~hmac=b5f1f0ee24404285aadc5f813d0438f29822a45adf3212b4fd7a3cc1e9f561a1"
     },
     {
-      "id": 134139,
-      "event_category": "Cricket",
-      "title": "Berlin CC vs VFB Fallersleben (ECS Germany, Kiel, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-      "team_1": "Berlin CC",
-      "team_2": "VFB Fallersleben",
-      "status": "LIVE",
-      "event_name": "ECS Germany, Kiel, 2025",
-      "match_name": "Berlin CC vs VFB Fallersleben",
-      "startTime": "06:45:00 PM 20-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/f4PNBDHNR7udh9WdSsUy3w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134139_english_hls_771ebb4ead30155ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133748,
       "event_category": "Cricket",
       "title": "Germany Women vs Ireland Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
@@ -88,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133748_english_hls_f511f9114a84968ta-di_h264/index.m3u8"
     },
     {
+      "id": 134140,
+      "event_category": "Cricket",
+      "title": "SG Findorff vs Berlin CC (ECS Germany, Kiel, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+      "team_1": "SG Findorff",
+      "team_2": "Berlin CC",
+      "status": "LIVE",
+      "event_name": "ECS Germany, Kiel, 2025",
+      "match_name": "SG Findorff vs Berlin CC",
+      "startTime": "08:45:00 PM 20-08-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 132450,
       "event_category": "Arm Wrestling",
       "title": "Semi Finals vs Gwalior (Pro Panja League Season 2 2025)",
@@ -100,20 +100,6 @@
       "startTime": "07:00:00 PM 20-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/gy9LNd9dRFmmrzKDorIhgw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132450_english_hls_65877e0e3478347ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 134063,
-      "event_category": "Horse Racing",
-      "title": "York Ebor Festival: International Stakes vs York Racecourse (York Ebor Festival: International Stakes)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/York-Ebor-Festival-International-Stakes-old-match-card.png",
-      "team_1": "York Ebor Festival: International Stakes",
-      "team_2": "York Racecourse",
-      "status": "LIVE",
-      "event_name": "York Ebor Festival: International Stakes",
-      "match_name": "York Ebor Festival: International Stakes",
-      "startTime": "07:00:00 PM 20-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/S9vs3UrKRbmThsrLrYecnA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134063_english_hls_7e1d9a4c6b36065ta-di_h264/index.m3u8"
     },
     {
       "id": 132243,
@@ -150,18 +136,6 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "Australia A Women vs India A Women",
       "startTime": "05:00:00 AM 21-08-2025"
-    },
-    {
-      "id": 134140,
-      "event_category": "Cricket",
-      "title": "SG Findorff vs Berlin CC (ECS Germany, Kiel, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-      "team_1": "SG Findorff",
-      "team_2": "Berlin CC",
-      "status": "UPCOMING",
-      "event_name": "ECS Germany, Kiel, 2025",
-      "match_name": "SG Findorff vs Berlin CC",
-      "startTime": "08:45:00 PM 20-08-2025"
     },
     {
       "id": 132805,
@@ -212,18 +186,6 @@
       "startTime": "06:00:00 AM 21-08-2025"
     },
     {
-      "id": 133522,
-      "event_category": "Cricket",
-      "title": "Australian Capital Territory vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133522_5574_ACT_ASA_fc-web.jpg",
-      "team_1": "Australian Capital Territory",
-      "team_2": "Adelaide Strikers Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Australian Capital Territory vs Adelaide Strikers Academy",
-      "startTime": "09:00:00 AM 21-08-2025"
-    },
-    {
       "id": 132492,
       "event_category": "Cricket",
       "title": "Central Delhi Kings vs West Delhi Lions (Delhi Premier League, 2025)",
@@ -236,16 +198,16 @@
       "startTime": "07:00:00 PM 21-08-2025"
     },
     {
-      "id": 133523,
+      "id": 133522,
       "event_category": "Cricket",
-      "title": "Northern Territory Strike vs Chicago Kingsmen (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133523_5574_NTS_CHK_fc-web.jpg",
-      "team_1": "Northern Territory Strike",
-      "team_2": "Chicago Kingsmen",
+      "title": "Australian Capital Territory vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133522_5574_ACT_ASA_fc-web.jpg",
+      "team_1": "Australian Capital Territory",
+      "team_2": "Adelaide Strikers Academy",
       "status": "UPCOMING",
       "event_name": "Top End T20 Series, 2025",
-      "match_name": "Northern Territory Strike vs Chicago Kingsmen",
-      "startTime": "11:00:00 AM 21-08-2025"
+      "match_name": "Australian Capital Territory vs Adelaide Strikers Academy",
+      "startTime": "09:00:00 AM 21-08-2025"
     },
     {
       "id": 132806,
@@ -260,18 +222,6 @@
       "startTime": "07:15:00 PM 21-08-2025"
     },
     {
-      "id": 134939,
-      "event_category": "Cricket",
-      "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
-      "team_1": "Romania",
-      "team_2": "Czechia",
-      "status": "UPCOMING",
-      "event_name": "ECN Romania-Czechia T20I, 2025",
-      "match_name": "Romania vs Czechia",
-      "startTime": "12:00:00 PM 21-08-2025"
-    },
-    {
       "id": 132278,
       "event_category": "Cricket",
       "title": "Oval Invincibles Women vs Trent Rockets Women (The Hundred Women, 2025)",
@@ -282,6 +232,30 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Oval Invincibles Women vs Trent Rockets Women",
       "startTime": "07:30:00 PM 21-08-2025"
+    },
+    {
+      "id": 133523,
+      "event_category": "Cricket",
+      "title": "Northern Territory Strike vs Chicago Kingsmen (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133523_5574_NTS_CHK_fc-web.jpg",
+      "team_1": "Northern Territory Strike",
+      "team_2": "Chicago Kingsmen",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Northern Territory Strike vs Chicago Kingsmen",
+      "startTime": "11:00:00 AM 21-08-2025"
+    },
+    {
+      "id": 134939,
+      "event_category": "Cricket",
+      "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
+      "team_1": "Romania",
+      "team_2": "Czechia",
+      "status": "UPCOMING",
+      "event_name": "ECN Romania-Czechia T20I, 2025",
+      "match_name": "Romania vs Czechia",
+      "startTime": "12:00:00 PM 21-08-2025"
     },
     {
       "id": 134141,
@@ -464,16 +438,40 @@
       "startTime": "11:45:00 AM 21-08-2025"
     },
     {
-      "id": 133730,
-      "event_category": "Kabaddi",
-      "title": "Vizag Commandos vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
-      "team_1": "Vizag Commandos",
-      "team_2": "Vizianagaram Ninjas",
+      "id": 132782,
+      "event_category": "Cricket",
+      "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+      "team_1": "Amaravathi Royals",
+      "team_2": "Tungabhadra Warriors",
       "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizag Commandos vs Vizianagaram Ninjas",
-      "startTime": "01:15:00 PM 21-08-2025"
+      "event_name": "Andhra Premier League, 2025",
+      "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
+      "startTime": "06:30:00 PM 21-08-2025"
+    },
+    {
+      "id": 132244,
+      "event_category": "Cricket",
+      "title": "Oval Invincibles vs Trent Rockets (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+      "team_1": "Oval Invincibles",
+      "team_2": "Trent Rockets",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Oval Invincibles vs Trent Rockets",
+      "startTime": "11:00:00 PM 21-08-2025"
+    },
+    {
+      "id": 134144,
+      "event_category": "Cricket",
+      "title": "SG Findorff vs VFB Fallersleben (ECS Germany, Kiel, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+      "team_1": "SG Findorff",
+      "team_2": "VFB Fallersleben",
+      "status": "UPCOMING",
+      "event_name": "ECS Germany, Kiel, 2025",
+      "match_name": "SG Findorff vs VFB Fallersleben",
+      "startTime": "06:45:00 PM 21-08-2025"
     }
   ]
 }
