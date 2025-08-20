@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:13 PM 20-08-2025",
+  "last update time": "03:27 PM 20-08-2025",
   "matches": [
     {
       "id": 132803,
@@ -14,8 +14,8 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Mysore Warriors vs Gulbarga Mystics",
       "startTime": "03:15:00 PM 20-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/T5yqKqMsTmayEQI3Obi9WA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132803_english_hls_57b562128a50153ta-di_h264/index.m3u8"
     },
     {
       "id": 132974,
@@ -72,6 +72,34 @@
       "startTime": "03:00:00 PM 20-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ubTaOLAMQMa3Bcp_s1kYbg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132098,
+      "event_category": "Football",
+      "title": "Sanfrecce Hiroshima vs Vissel Kobe (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132098_CASACARDS_APP.png",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_2": "Vissel Kobe",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Sanfrecce Hiroshima vs Vissel Kobe",
+      "startTime": "03:30:00 PM 20-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132098_english_hls_896ba105bf62872ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132098_english_hls_896ba105bf62872ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133811,
+      "event_category": "Golf",
+      "title": "Vierumäki Finnish Challenge vs Cooke Course, Vierumäki (Vierumäki Finnish Challenge)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vierumaki-Finnish-Challenge_match-card_Old_match-card.jpg",
+      "team_1": "Vierumäki Finnish Challenge",
+      "team_2": "Cooke Course, Vierumäki",
+      "status": "LIVE",
+      "event_name": "Vierumäki Finnish Challenge",
+      "match_name": "Vierumäki Finnish Challenge",
+      "startTime": "03:25:00 PM 20-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/vowZX0XARF2_EsgFLa4XMA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133811_english_hls_9a09e7d32892338ta-di_h264/index.m3u8"
     },
     {
       "id": 132276,
@@ -170,18 +198,6 @@
       "startTime": "05:00:00 AM 21-08-2025"
     },
     {
-      "id": 132098,
-      "event_category": "Football",
-      "title": "Sanfrecce Hiroshima vs Vissel Kobe (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132098_CASACARDS_APP.png",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Sanfrecce Hiroshima vs Vissel Kobe",
-      "startTime": "03:30:00 PM 20-08-2025"
-    },
-    {
       "id": 133728,
       "event_category": "Kabaddi",
       "title": "Tirupati Raiders vs Bhimavaram Guardians (Yuva Andhra Championship, 2025)",
@@ -278,18 +294,6 @@
       "startTime": "06:00:00 AM 21-08-2025"
     },
     {
-      "id": 133522,
-      "event_category": "Cricket",
-      "title": "Australian Capital Territory vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133522_5574_ACT_ASA_fc-web.jpg",
-      "team_1": "Australian Capital Territory",
-      "team_2": "Adelaide Strikers Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Australian Capital Territory vs Adelaide Strikers Academy",
-      "startTime": "09:00:00 AM 21-08-2025"
-    },
-    {
       "id": 132805,
       "event_category": "Cricket",
       "title": "Mangaluru Dragons vs Mysore Warriors (Maharaja T20 Trophy, 2025)",
@@ -300,6 +304,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Mangaluru Dragons vs Mysore Warriors",
       "startTime": "03:15:00 PM 21-08-2025"
+    },
+    {
+      "id": 133522,
+      "event_category": "Cricket",
+      "title": "Australian Capital Territory vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133522_5574_ACT_ASA_fc-web.jpg",
+      "team_1": "Australian Capital Territory",
+      "team_2": "Adelaide Strikers Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Australian Capital Territory vs Adelaide Strikers Academy",
+      "startTime": "09:00:00 AM 21-08-2025"
     },
     {
       "id": 133701,
@@ -314,18 +330,6 @@
       "startTime": "05:30:00 PM 20-08-2025"
     },
     {
-      "id": 132022,
-      "event_category": "Football",
-      "title": "Bolton Wanderers vs Reading (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132022_5490_BOL_RED_fc-Web.jpg",
-      "team_1": "Bolton Wanderers",
-      "team_2": "Reading",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Bolton Wanderers vs Reading",
-      "startTime": "12:30:00 AM 21-08-2025"
-    },
-    {
       "id": 133523,
       "event_category": "Cricket",
       "title": "Northern Territory Strike vs Chicago Kingsmen (Top End T20 Series, 2025)",
@@ -338,6 +342,18 @@
       "startTime": "11:00:00 AM 21-08-2025"
     },
     {
+      "id": 132022,
+      "event_category": "Football",
+      "title": "Bolton Wanderers vs Reading (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132022_5490_BOL_RED_fc-Web.jpg",
+      "team_1": "Bolton Wanderers",
+      "team_2": "Reading",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Bolton Wanderers vs Reading",
+      "startTime": "12:30:00 AM 21-08-2025"
+    },
+    {
       "id": 134939,
       "event_category": "Cricket",
       "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
@@ -348,18 +364,6 @@
       "event_name": "ECN Romania-Czechia T20I, 2025",
       "match_name": "Romania vs Czechia",
       "startTime": "12:00:00 PM 21-08-2025"
-    },
-    {
-      "id": 133811,
-      "event_category": "Golf",
-      "title": "Vierumäki Finnish Challenge vs Cooke Course, Vierumäki (Vierumäki Finnish Challenge)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vierumaki-Finnish-Challenge_match-card_Old_match-card.jpg",
-      "team_1": "Vierumäki Finnish Challenge",
-      "team_2": "Cooke Course, Vierumäki",
-      "status": "UPCOMING",
-      "event_name": "Vierumäki Finnish Challenge",
-      "match_name": "Vierumäki Finnish Challenge",
-      "startTime": "03:25:00 PM 20-08-2025"
     },
     {
       "id": 134141,
@@ -398,18 +402,6 @@
       "startTime": "02:00:00 PM 21-08-2025"
     },
     {
-      "id": 133702,
-      "event_category": "Kabaddi",
-      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133702_5591_KD_TR_fc-Web.jpg",
-      "team_1": "Krishna Defenders",
-      "team_2": "Tirupati Raiders",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Krishna Defenders vs Tirupati Raiders",
-      "startTime": "10:15:00 AM 21-08-2025"
-    },
-    {
       "id": 133749,
       "event_category": "Cricket",
       "title": "Netherlands Women vs Ireland Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
@@ -432,6 +424,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Aries Kollam Sailors vs Calicut Globstars",
       "startTime": "02:30:00 PM 21-08-2025"
+    },
+    {
+      "id": 133702,
+      "event_category": "Kabaddi",
+      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133702_5591_KD_TR_fc-Web.jpg",
+      "team_1": "Krishna Defenders",
+      "team_2": "Tirupati Raiders",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Krishna Defenders vs Tirupati Raiders",
+      "startTime": "10:15:00 AM 21-08-2025"
     },
     {
       "id": 134142,
