@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:55 PM 20-08-2025",
+  "last update time": "03:13 PM 20-08-2025",
   "matches": [
+    {
+      "id": 132803,
+      "event_category": "Cricket",
+      "title": "Mysore Warriors vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132803_5530_GMY_MW_fc-Web_1755374792962.jpg",
+      "team_1": "Mysore Warriors",
+      "team_2": "Gulbarga Mystics",
+      "status": "LIVE",
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "Mysore Warriors vs Gulbarga Mystics",
+      "startTime": "03:15:00 PM 20-08-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
     {
       "id": 132974,
       "event_category": "Cricket",
@@ -58,18 +72,6 @@
       "startTime": "03:00:00 PM 20-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ubTaOLAMQMa3Bcp_s1kYbg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132803,
-      "event_category": "Cricket",
-      "title": "Mysore Warriors vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132803_5530_GMY_MW_fc-Web_1755374792962.jpg",
-      "team_1": "Mysore Warriors",
-      "team_2": "Gulbarga Mystics",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Mysore Warriors vs Gulbarga Mystics",
-      "startTime": "03:15:00 PM 20-08-2025"
     },
     {
       "id": 132276,
@@ -336,18 +338,6 @@
       "startTime": "11:00:00 AM 21-08-2025"
     },
     {
-      "id": 133811,
-      "event_category": "Golf",
-      "title": "Vierumäki Finnish Challenge vs Cooke Course, Vierumäki (Vierumäki Finnish Challenge)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vierumaki-Finnish-Challenge_match-card_Old_match-card.jpg",
-      "team_1": "Vierumäki Finnish Challenge",
-      "team_2": "Cooke Course, Vierumäki",
-      "status": "UPCOMING",
-      "event_name": "Vierumäki Finnish Challenge",
-      "match_name": "Vierumäki Finnish Challenge",
-      "startTime": "03:25:00 PM 20-08-2025"
-    },
-    {
       "id": 134939,
       "event_category": "Cricket",
       "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
@@ -358,6 +348,18 @@
       "event_name": "ECN Romania-Czechia T20I, 2025",
       "match_name": "Romania vs Czechia",
       "startTime": "12:00:00 PM 21-08-2025"
+    },
+    {
+      "id": 133811,
+      "event_category": "Golf",
+      "title": "Vierumäki Finnish Challenge vs Cooke Course, Vierumäki (Vierumäki Finnish Challenge)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vierumaki-Finnish-Challenge_match-card_Old_match-card.jpg",
+      "team_1": "Vierumäki Finnish Challenge",
+      "team_2": "Cooke Course, Vierumäki",
+      "status": "UPCOMING",
+      "event_name": "Vierumäki Finnish Challenge",
+      "match_name": "Vierumäki Finnish Challenge",
+      "startTime": "03:25:00 PM 20-08-2025"
     },
     {
       "id": 134141,
