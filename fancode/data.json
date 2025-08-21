@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:53 AM 21-08-2025",
+  "last update time": "11:13 AM 21-08-2025",
   "matches": [
     {
       "id": 133235,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133523_english_hls_d3262e910a69284ta-di_h264/index.m3u8"
     },
     {
-      "id": 133702,
-      "event_category": "Kabaddi",
-      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133702_5591_KD_TR_fc-Web.jpg",
-      "team_1": "Krishna Defenders",
-      "team_2": "Tirupati Raiders",
-      "status": "LIVE",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Krishna Defenders vs Tirupati Raiders",
-      "startTime": "10:15:00 AM 21-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ynps0XBeTayOH_qz4AbniQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133702_english_hls_267b30534772675ta-di_h264/index.m3u8"
-    },
-    {
       "id": 134923,
       "event_category": "Live events",
       "title": "Semi-Final vs Mumbai (Dream Sports MSSA Football Boys U16 Div Il)",
@@ -72,6 +58,20 @@
       "startTime": "10:00:00 AM 21-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/TjrY0HobSGega6097yjgyQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134923_english_hls_2068aeaf7b86179ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133702,
+      "event_category": "Kabaddi",
+      "title": "Krishna Defenders vs Tirupati Raiders (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133702_5591_KD_TR_fc-Web.jpg",
+      "team_1": "Krishna Defenders",
+      "team_2": "Tirupati Raiders",
+      "status": "LIVE",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Krishna Defenders vs Tirupati Raiders",
+      "startTime": "10:15:00 AM 21-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ynps0XBeTayOH_qz4AbniQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133702_english_hls_267b30534772675ta-di_h264/index.m3u8"
     },
     {
       "id": 132805,
@@ -134,6 +134,18 @@
       "startTime": "11:00:00 PM 21-08-2025"
     },
     {
+      "id": 134939,
+      "event_category": "Cricket",
+      "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
+      "team_1": "Romania",
+      "team_2": "Czechia",
+      "status": "UPCOMING",
+      "event_name": "ECN Romania-Czechia T20I, 2025",
+      "match_name": "Romania vs Czechia",
+      "startTime": "12:00:00 PM 21-08-2025"
+    },
+    {
       "id": 132353,
       "event_category": "Cricket",
       "title": "St Kitts and Nevis Patriots vs Barbados Royals (Caribbean Premier League, 2025)",
@@ -156,18 +168,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Amaravati Crushers vs Kurnool Knights",
       "startTime": "11:45:00 AM 21-08-2025"
-    },
-    {
-      "id": 134939,
-      "event_category": "Cricket",
-      "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
-      "team_1": "Romania",
-      "team_2": "Czechia",
-      "status": "UPCOMING",
-      "event_name": "ECN Romania-Czechia T20I, 2025",
-      "match_name": "Romania vs Czechia",
-      "startTime": "12:00:00 PM 21-08-2025"
     },
     {
       "id": 134141,
