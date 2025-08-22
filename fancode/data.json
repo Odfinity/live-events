@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:29 AM 23-08-2025",
+  "last update time": "01:59 AM 23-08-2025",
   "matches": [
     {
       "id": 130846,
@@ -16,20 +16,6 @@
       "startTime": "01:00:00 AM 23-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130846_english_hls_6a516f5cfd92347adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130846_english_hls_6a516f5cfd92347adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 135838,
-      "event_category": "Cricket",
-      "title": "Birmingham Phoenix vs Welsh Fire (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132245_5505_BPH_WEF_fc-web.jpg",
-      "team_1": "Birmingham Phoenix",
-      "team_2": "Welsh Fire",
-      "status": "LIVE",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Birmingham Phoenix vs Welsh Fire",
-      "startTime": "11:00:00 PM 22-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755927195~acl=/*~id=84837417605225743714656951588828~hmac=c349de3e51dd979cd58cb1c10d585f47c2ad928d1dc45e1011b04cd8394f64cc"
     },
     {
       "id": 131996,
@@ -376,18 +362,6 @@
       "startTime": "07:30:00 PM 23-08-2025"
     },
     {
-      "id": 130848,
-      "event_category": "Football",
-      "title": "Mallorca vs Celta de Vigo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
-      "team_1": "Mallorca",
-      "team_2": "Celta de Vigo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Mallorca vs Celta de Vigo",
-      "startTime": "08:30:00 PM 23-08-2025"
-    },
-    {
       "id": 133689,
       "event_category": "Cricket",
       "title": "Royal Oman Stallions vs Majees Titans (Oman D20 League, 2025)",
@@ -398,6 +372,18 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "Royal Oman Stallions vs Majees Titans",
       "startTime": "09:00:00 PM 23-08-2025"
+    },
+    {
+      "id": 130848,
+      "event_category": "Football",
+      "title": "Mallorca vs Celta de Vigo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
+      "team_1": "Mallorca",
+      "team_2": "Celta de Vigo",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Mallorca vs Celta de Vigo",
+      "startTime": "08:30:00 PM 23-08-2025"
     },
     {
       "id": 133737,
@@ -470,6 +456,18 @@
       "event_name": "J League 2025",
       "match_name": "Yokohama F. Marinos vs Machida Zelvia",
       "startTime": "04:00:00 PM 23-08-2025"
+    },
+    {
+      "id": 130843,
+      "event_category": "Football",
+      "title": "Atlético de Madrid vs Elche (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
+      "team_1": "Atlético de Madrid",
+      "team_2": "Elche",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atlético de Madrid vs Elche",
+      "startTime": "11:00:00 PM 23-08-2025"
     }
   ]
 }
