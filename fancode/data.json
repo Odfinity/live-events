@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:19 AM 24-08-2025",
+  "last update time": "04:39 AM 24-08-2025",
   "matches": [
+    {
+      "id": 133235,
+      "event_category": "Cricket",
+      "title": "India A Women vs Australia A Women (India A Women tour of Australia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg",
+      "team_1": "India A Women",
+      "team_2": "Australia A Women",
+      "status": "LIVE",
+      "event_name": "India A Women tour of Australia, 2025",
+      "match_name": "India A Women vs Australia A Women",
+      "startTime": "04:30:00 AM 21-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/qVOkk5KKSgyfittlB1PuEA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673333129ta-di_h264/index.m3u8"
+    },
     {
       "id": 132355,
       "event_category": "Cricket",
@@ -18,34 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132355_english_hls_e482cd6c6692504ta-di_h264/index.m3u8"
     },
     {
-      "id": 134085,
-      "event_category": "Golf",
-      "title": "World Feed - Day 3 vs East Lake Golf Course (Tour Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-      "team_1": "World Feed - Day 3",
-      "team_2": "East Lake Golf Course",
-      "status": "LIVE",
-      "event_name": "Tour Championship",
-      "match_name": "World Feed - Day 3",
-      "startTime": "10:30:00 PM 23-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/IBlDBokjSJiaxc82e6EXlg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134085_english_hls_07ffbb950019575ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 134083,
-      "event_category": "Golf",
-      "title": "Featured Group - Day 3 vs East Lake Golf Course (Tour Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-      "team_1": "Featured Group - Day 3",
-      "team_2": "East Lake Golf Course",
-      "status": "LIVE",
-      "event_name": "Tour Championship",
-      "match_name": "Featured Group - Day 3",
-      "startTime": "11:45:00 PM 23-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zGXUcOs5QOefQRDksaa1Sw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134083_english_hls_ec74eeb04576913ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132879,
       "event_category": "Baseball",
       "title": "Miami Marlins vs Toronto Blue Jays (Major League Baseball, 2025)",
@@ -58,18 +44,6 @@
       "startTime": "01:40:00 AM 24-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133235,
-      "event_category": "Cricket",
-      "title": "India A Women vs Australia A Women (India A Women tour of Australia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg",
-      "team_1": "India A Women",
-      "team_2": "Australia A Women",
-      "status": "PAUSED",
-      "event_name": "India A Women tour of Australia, 2025",
-      "match_name": "India A Women vs Australia A Women",
-      "startTime": "04:30:00 AM 21-08-2025"
     },
     {
       "id": 132496,
@@ -180,6 +154,18 @@
       "startTime": "07:15:00 PM 24-08-2025"
     },
     {
+      "id": 133532,
+      "event_category": "Cricket",
+      "title": "Pakistan Shaheens vs Perth Scorchers Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Pakistan Shaheens",
+      "team_2": "Perth Scorchers Academy",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Pakistan Shaheens vs Perth Scorchers Academy",
+      "startTime": "05:30:00 AM 24-08-2025"
+    },
+    {
       "id": 132356,
       "event_category": "Cricket",
       "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
@@ -214,18 +200,6 @@
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "MI Emirates Development vs Gulf Giants Development",
       "startTime": "11:00:00 PM 24-08-2025"
-    },
-    {
-      "id": 133532,
-      "event_category": "Cricket",
-      "title": "Pakistan Shaheens vs Perth Scorchers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Pakistan Shaheens",
-      "team_2": "Perth Scorchers Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Pakistan Shaheens vs Perth Scorchers Academy",
-      "startTime": "05:30:00 AM 24-08-2025"
     },
     {
       "id": 133531,
@@ -360,18 +334,6 @@
       "startTime": "08:30:00 PM 24-08-2025"
     },
     {
-      "id": 132175,
-      "event_category": "Cricket",
-      "title": "ACE KRM Panthers vs SBS CC (KCC T10 Summer League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-      "team_1": "ACE KRM Panthers",
-      "team_2": "SBS CC",
-      "status": "UPCOMING",
-      "event_name": "KCC T10 Summer League, 2025",
-      "match_name": "ACE KRM Panthers vs SBS CC",
-      "startTime": "10:15:00 PM 24-08-2025"
-    },
-    {
       "id": 132357,
       "event_category": "Cricket",
       "title": "Saint Lucia Kings vs Barbados Royals (Caribbean Premier League, 2025)",
@@ -382,6 +344,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Barbados Royals",
       "startTime": "04:30:00 AM 25-08-2025"
+    },
+    {
+      "id": 132175,
+      "event_category": "Cricket",
+      "title": "ACE KRM Panthers vs SBS CC (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "ACE KRM Panthers",
+      "team_2": "SBS CC",
+      "status": "UPCOMING",
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "ACE KRM Panthers vs SBS CC",
+      "startTime": "10:15:00 PM 24-08-2025"
     },
     {
       "id": 130849,
@@ -466,6 +440,30 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Vizianagaram Ninjas vs Amaravati Crushers",
       "startTime": "03:45:00 PM 24-08-2025"
+    },
+    {
+      "id": 133744,
+      "event_category": "Kabaddi",
+      "title": "Kurnool Knights vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
+      "team_1": "Kurnool Knights",
+      "team_2": "Vizag Commandos",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Kurnool Knights vs Vizag Commandos",
+      "startTime": "05:30:00 PM 24-08-2025"
+    },
+    {
+      "id": 130845,
+      "event_category": "Football",
+      "title": "Real Oviedo vs Real Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+      "team_1": "Real Oviedo",
+      "team_2": "Real Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Oviedo vs Real Madrid",
+      "startTime": "01:00:00 AM 25-08-2025"
     }
   ]
 }
