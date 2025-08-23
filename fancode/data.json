@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:11 AM 23-08-2025",
+  "last update time": "11:27 AM 23-08-2025",
   "matches": [
     {
       "id": 133235,
@@ -44,20 +44,6 @@
       "startTime": "10:00:00 AM 23-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133529_english_hls_3a0bd2ac6e72984adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133529_english_hls_3a0bd2ac6e72984adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133737,
-      "event_category": "Kabaddi",
-      "title": "Amaravati Crushers vs Bhimavaram Guardians (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
-      "team_1": "Amaravati Crushers",
-      "team_2": "Bhimavaram Guardians",
-      "status": "LIVE",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Amaravati Crushers vs Bhimavaram Guardians",
-      "startTime": "10:15:00 AM 23-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/L6NtMxDpTAut35W95J9fvQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133737_english_hls_5602d30a2d21729ta-di_h264/index.m3u8"
     },
     {
       "id": 132494,
@@ -442,6 +428,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Zaragoza vs FC Andorra",
       "startTime": "01:00:00 AM 24-08-2025"
+    },
+    {
+      "id": 119163,
+      "event_category": "MotoGP",
+      "title": "Day 2 vs Balaton Park (GRAND PRIX OF HUNGARY)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Balaton Park",
+      "status": "UPCOMING",
+      "event_name": "GRAND PRIX OF HUNGARY",
+      "match_name": "Hungary GP",
+      "startTime": "12:10:00 PM 23-08-2025"
     },
     {
       "id": 132496,
