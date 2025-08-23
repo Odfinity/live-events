@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:27 PM 23-08-2025",
+  "last update time": "07:52 PM 23-08-2025",
   "matches": [
     {
       "id": 119163,
@@ -43,7 +43,7 @@
       "match_name": "London Spirit Women vs Southern Brave Women",
       "startTime": "07:00:00 PM 23-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8"
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756001385~acl=/*~id=50606752287474811628271852927352~hmac=22d5544320bb61a3c220602dfcfbabf75a9da7c70c0f51970f88e8969486e629"
     },
     {
       "id": 132495,
@@ -71,7 +71,7 @@
       "match_name": "Northern Superchargers vs Oval Invincibles",
       "startTime": "07:00:00 PM 23-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?{\"error\":\"cookie not found\"}"
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756001385~acl=/*~id=50606752287474811628271852927352~hmac=22d5544320bb61a3c220602dfcfbabf75a9da7c70c0f51970f88e8969486e629"
     },
     {
       "id": 132810,
@@ -172,6 +172,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133911_english_hls_76fe12e9f260993ta-di_h264/index.m3u8"
     },
     {
+      "id": 133808,
+      "event_category": "Golf",
+      "title": "Semifinals vs The Cardinal at Saint John’s (LIV Golf Michigan)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Michigan_Old_match-card.jpg",
+      "team_1": "Semifinals",
+      "team_2": "The Cardinal at Saint John’s",
+      "status": "LIVE",
+      "event_name": "LIV Golf Michigan",
+      "match_name": "Semifinals",
+      "startTime": "07:35:00 PM 23-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/P8isfyrGRUO9ICE5OaaRdA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133808_english_hls_13a3eb944c15553ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133235,
       "event_category": "Cricket",
       "title": "India A Women vs Australia A Women (India A Women tour of Australia, 2025)",
@@ -206,6 +220,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
       "startTime": "04:30:00 AM 24-08-2025"
+    },
+    {
+      "id": 130848,
+      "event_category": "Football",
+      "title": "Mallorca vs Celta de Vigo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
+      "team_1": "Mallorca",
+      "team_2": "Celta de Vigo",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Mallorca vs Celta de Vigo",
+      "startTime": "08:30:00 PM 23-08-2025"
     },
     {
       "id": 132496,
@@ -292,18 +318,6 @@
       "startTime": "12:15:00 AM 24-08-2025"
     },
     {
-      "id": 130848,
-      "event_category": "Football",
-      "title": "Mallorca vs Celta de Vigo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
-      "team_1": "Mallorca",
-      "team_2": "Celta de Vigo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Mallorca vs Celta de Vigo",
-      "startTime": "08:30:00 PM 23-08-2025"
-    },
-    {
       "id": 130843,
       "event_category": "Football",
       "title": "Atlético de Madrid vs Elche (LALIGA 2025-26)",
@@ -376,30 +390,6 @@
       "startTime": "06:45:00 PM 24-08-2025"
     },
     {
-      "id": 133533,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "12:00:00 PM 24-08-2025"
-    },
-    {
-      "id": 134891,
-      "event_category": "Cricket",
-      "title": "Northern Suburbs vs Valley (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
-      "team_1": "Northern Suburbs",
-      "team_2": "Valley",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Northern Suburbs vs Valley",
-      "startTime": "12:00:00 PM 24-08-2025"
-    },
-    {
       "id": 132283,
       "event_category": "Cricket",
       "title": "Manchester Originals Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
@@ -422,6 +412,30 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Welsh Fire vs Trent Rockets",
       "startTime": "07:00:00 PM 24-08-2025"
+    },
+    {
+      "id": 133533,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:00:00 PM 24-08-2025"
+    },
+    {
+      "id": 134891,
+      "event_category": "Cricket",
+      "title": "Northern Suburbs vs Valley (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
+      "team_1": "Northern Suburbs",
+      "team_2": "Valley",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Northern Suburbs vs Valley",
+      "startTime": "12:00:00 PM 24-08-2025"
     },
     {
       "id": 132812,
@@ -448,6 +462,18 @@
       "startTime": "02:30:00 PM 24-08-2025"
     },
     {
+      "id": 132356,
+      "event_category": "Cricket",
+      "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+      "team_1": "Antigua & Barbuda Falcons",
+      "team_2": "St Kitts and Nevis Patriots",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
+      "startTime": "08:30:00 PM 24-08-2025"
+    },
+    {
       "id": 134944,
       "event_category": "Football",
       "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
@@ -458,30 +484,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Zaragoza vs FC Andorra",
       "startTime": "01:00:00 AM 24-08-2025"
-    },
-    {
-      "id": 133790,
-      "event_category": "Cricket",
-      "title": "Papua New Guinea vs Kuwait (ICC CWC Challenge League A, 2024-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg",
-      "team_1": "Papua New Guinea",
-      "team_2": "Kuwait",
-      "status": "UPCOMING",
-      "event_name": "ICC CWC Challenge League A, 2024-26",
-      "match_name": "Papua New Guinea vs Kuwait",
-      "startTime": "03:30:00 PM 24-08-2025"
-    },
-    {
-      "id": 133789,
-      "event_category": "Cricket",
-      "title": "Qatar vs Kenya (ICC CWC Challenge League A, 2024-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133789_4464_QAT_KEN_fc-Web.jpg",
-      "team_1": "Qatar",
-      "team_2": "Kenya",
-      "status": "UPCOMING",
-      "event_name": "ICC CWC Challenge League A, 2024-26",
-      "match_name": "Qatar vs Kenya",
-      "startTime": "03:30:00 PM 24-08-2025"
     }
   ]
 }
