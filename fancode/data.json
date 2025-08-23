@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:17 AM 24-08-2025",
+  "last update time": "01:29 AM 24-08-2025",
   "matches": [
     {
       "id": 130847,
@@ -142,6 +142,20 @@
       "startTime": "11:45:00 PM 23-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/zGXUcOs5QOefQRDksaa1Sw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134083_english_hls_ec74eeb04576913ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132879,
+      "event_category": "Baseball",
+      "title": "Miami Marlins vs Toronto Blue Jays (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132879_CASACARDS_APP.png",
+      "team_1": "Miami Marlins",
+      "team_2": "Toronto Blue Jays",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Miami Marlins vs Toronto Blue Jays",
+      "startTime": "01:40:00 AM 24-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8"
     },
     {
       "id": 130843,
@@ -468,18 +482,6 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "Majees Titans vs Renaissance Challengers",
       "startTime": "09:00:00 PM 24-08-2025"
-    },
-    {
-      "id": 133741,
-      "event_category": "Kabaddi",
-      "title": "Kurnool Knights vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
-      "team_1": "Kurnool Knights",
-      "team_2": "Vizianagaram Ninjas",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Kurnool Knights vs Vizianagaram Ninjas",
-      "startTime": "10:15:00 AM 24-08-2025"
     }
   ]
 }
