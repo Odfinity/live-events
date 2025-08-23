@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:29 PM 23-08-2025",
+  "last update time": "02:01 PM 23-08-2025",
   "matches": [
     {
       "id": 119163,
@@ -16,6 +16,20 @@
       "startTime": "12:10:00 PM 23-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Fqg0Xi9uTquO0s4IOSBuMA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132494,
+      "event_category": "Cricket",
+      "title": "North Delhi Strikers vs East Delhi Riders (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg",
+      "team_1": "North Delhi Strikers",
+      "team_2": "East Delhi Riders",
+      "status": "LIVE",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "North Delhi Strikers vs East Delhi Riders",
+      "startTime": "02:00:00 PM 23-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/3D1fsfiPTtedKtvg2aGaPw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132494_english_hls_73ea8946cf7698ta-di_h264/index.m3u8"
     },
     {
       "id": 133687,
@@ -46,16 +60,16 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133530_english_hls_09d60e185952135adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 132494,
+      "id": 133880,
       "event_category": "Cricket",
-      "title": "North Delhi Strikers vs East Delhi Riders (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg",
-      "team_1": "North Delhi Strikers",
-      "team_2": "East Delhi Riders",
+      "title": "Kochi Blue Tigers vs Alleppey Ripples (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg",
+      "team_1": "Kochi Blue Tigers",
+      "team_2": "Alleppey Ripples",
       "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "North Delhi Strikers vs East Delhi Riders",
-      "startTime": "02:00:00 PM 23-08-2025"
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Kochi Blue Tigers vs Alleppey Ripples",
+      "startTime": "02:30:00 PM 23-08-2025"
     },
     {
       "id": 133235,
@@ -68,18 +82,6 @@
       "event_name": "India A Women tour of Australia, 2025",
       "match_name": "India A Women vs Australia A Women",
       "startTime": "04:30:00 AM 21-08-2025"
-    },
-    {
-      "id": 133880,
-      "event_category": "Cricket",
-      "title": "Kochi Blue Tigers vs Alleppey Ripples (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg",
-      "team_1": "Kochi Blue Tigers",
-      "team_2": "Alleppey Ripples",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Kochi Blue Tigers vs Alleppey Ripples",
-      "startTime": "02:30:00 PM 23-08-2025"
     },
     {
       "id": 132809,
@@ -262,18 +264,6 @@
       "startTime": "09:00:00 PM 23-08-2025"
     },
     {
-      "id": 131995,
-      "event_category": "Football",
-      "title": "Charlton Athletic vs Leicester City (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
-      "team_1": "Charlton Athletic",
-      "team_2": "Leicester City",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Charlton Athletic vs Leicester City",
-      "startTime": "05:00:00 PM 23-08-2025"
-    },
-    {
       "id": 132173,
       "event_category": "Cricket",
       "title": "Khan Zalmi Kings vs Tally Rangers (KCC T10 Summer League, 2025)",
@@ -284,6 +274,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "Khan Zalmi Kings vs Tally Rangers",
       "startTime": "10:15:00 PM 23-08-2025"
+    },
+    {
+      "id": 131995,
+      "event_category": "Football",
+      "title": "Charlton Athletic vs Leicester City (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
+      "team_1": "Charlton Athletic",
+      "team_2": "Leicester City",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Charlton Athletic vs Leicester City",
+      "startTime": "05:00:00 PM 23-08-2025"
     },
     {
       "id": 131997,
@@ -382,6 +384,18 @@
       "startTime": "02:00:00 PM 24-08-2025"
     },
     {
+      "id": 133882,
+      "event_category": "Cricket",
+      "title": "Calicut Globstars vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
+      "team_1": "Calicut Globstars",
+      "team_2": "Adani Trivandrum Royals",
+      "status": "UPCOMING",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Calicut Globstars vs Adani Trivandrum Royals",
+      "startTime": "02:30:00 PM 24-08-2025"
+    },
+    {
       "id": 132086,
       "event_category": "Football",
       "title": "Cerezo Osaka vs Vissel Kobe (J League 2025)",
@@ -428,18 +442,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Tirupati Raiders vs Vizianagaram Ninjas",
       "startTime": "05:30:00 PM 23-08-2025"
-    },
-    {
-      "id": 133882,
-      "event_category": "Cricket",
-      "title": "Calicut Globstars vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
-      "team_1": "Calicut Globstars",
-      "team_2": "Adani Trivandrum Royals",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Calicut Globstars vs Adani Trivandrum Royals",
-      "startTime": "02:30:00 PM 24-08-2025"
     },
     {
       "id": 134944,
