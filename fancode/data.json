@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:08 AM 24-08-2025",
+  "last update time": "03:20 AM 24-08-2025",
   "matches": [
-    {
-      "id": 130847,
-      "event_category": "Football",
-      "title": "Levante vs Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-      "team_1": "Levante",
-      "team_2": "Barcelona",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Barcelona",
-      "startTime": "01:00:00 AM 24-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8"
-    },
     {
       "id": 134084,
       "event_category": "Golf",
@@ -102,18 +88,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8"
     },
     {
-      "id": 134944,
+      "id": 130847,
       "event_category": "Football",
-      "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-      "team_1": "Real Zaragoza",
-      "team_2": "FC Andorra",
+      "title": "Levante vs Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+      "team_1": "Levante",
+      "team_2": "Barcelona",
       "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza vs FC Andorra",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Barcelona",
       "startTime": "01:00:00 AM 24-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8"
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 133235,
@@ -473,6 +459,18 @@
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Sociedad vs Espanyol",
+      "startTime": "11:00:00 PM 24-08-2025"
+    },
+    {
+      "id": 130841,
+      "event_category": "Football",
+      "title": "Villarreal vs Girona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
+      "team_1": "Villarreal",
+      "team_2": "Girona",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Villarreal vs Girona",
       "startTime": "11:00:00 PM 24-08-2025"
     }
   ]
