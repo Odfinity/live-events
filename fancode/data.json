@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:07 AM 24-08-2025",
+  "last update time": "04:19 AM 24-08-2025",
   "matches": [
+    {
+      "id": 132355,
+      "event_category": "Cricket",
+      "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+      "team_1": "Trinbago Knight Riders",
+      "team_2": "Saint Lucia Kings",
+      "status": "LIVE",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+      "startTime": "04:30:00 AM 24-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/wplS0q8jTuycMlyxKSuhPQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132355_english_hls_e482cd6c6692504ta-di_h264/index.m3u8"
+    },
     {
       "id": 134085,
       "event_category": "Golf",
@@ -44,20 +58,6 @@
       "startTime": "01:40:00 AM 24-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132355,
-      "event_category": "Cricket",
-      "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-      "team_1": "Trinbago Knight Riders",
-      "team_2": "Saint Lucia Kings",
-      "status": "LIVE",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
-      "startTime": "04:30:00 AM 24-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/wplS0q8jTuycMlyxKSuhPQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132355_english_hls_e482cd6c6692504ta-di_h264/index.m3u8"
     },
     {
       "id": 133235,
@@ -384,18 +384,6 @@
       "startTime": "04:30:00 AM 25-08-2025"
     },
     {
-      "id": 133741,
-      "event_category": "Kabaddi",
-      "title": "Kurnool Knights vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
-      "team_1": "Kurnool Knights",
-      "team_2": "Vizianagaram Ninjas",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Kurnool Knights vs Vizianagaram Ninjas",
-      "startTime": "10:15:00 AM 24-08-2025"
-    },
-    {
       "id": 130849,
       "event_category": "Football",
       "title": "Real Sociedad vs Espanyol (LALIGA 2025-26)",
@@ -418,6 +406,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Villarreal vs Girona",
       "startTime": "11:00:00 PM 24-08-2025"
+    },
+    {
+      "id": 133741,
+      "event_category": "Kabaddi",
+      "title": "Kurnool Knights vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
+      "team_1": "Kurnool Knights",
+      "team_2": "Vizianagaram Ninjas",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Kurnool Knights vs Vizianagaram Ninjas",
+      "startTime": "10:15:00 AM 24-08-2025"
     },
     {
       "id": 133742,
