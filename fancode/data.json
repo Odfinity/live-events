@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 AM 23-08-2025",
+  "last update time": "10:54 AM 23-08-2025",
   "matches": [
     {
       "id": 133235,
@@ -16,20 +16,6 @@
       "startTime": "04:30:00 AM 21-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/lli35XTpTSqirlgvPXHH3A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673330810ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133528,
-      "event_category": "Cricket",
-      "title": "Chicago Kingsmen vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
-      "team_1": "Chicago Kingsmen",
-      "team_2": "Hobart Hurricanes Academy",
-      "status": "LIVE",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Chicago Kingsmen vs Hobart Hurricanes Academy",
-      "startTime": "07:00:00 AM 23-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 134881,
@@ -146,18 +132,6 @@
       "startTime": "07:00:00 PM 23-08-2025"
     },
     {
-      "id": 132246,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers vs Oval Invincibles (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132246_5505_NOS_OVI_fc-web.jpg",
-      "team_1": "Northern Superchargers",
-      "team_2": "Oval Invincibles",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Northern Superchargers vs Oval Invincibles",
-      "startTime": "07:00:00 PM 23-08-2025"
-    },
-    {
       "id": 132495,
       "event_category": "Cricket",
       "title": "West Delhi Lions vs Purani Delhi 6 (Delhi Premier League, 2025)",
@@ -182,18 +156,6 @@
       "startTime": "07:15:00 PM 23-08-2025"
     },
     {
-      "id": 132247,
-      "event_category": "Cricket",
-      "title": "London Spirit vs Southern Brave (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-      "team_1": "London Spirit",
-      "team_2": "Southern Brave",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "London Spirit vs Southern Brave",
-      "startTime": "10:30:00 PM 23-08-2025"
-    },
-    {
       "id": 132355,
       "event_category": "Cricket",
       "title": "Saint Lucia Kings vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
@@ -204,6 +166,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
       "startTime": "04:30:00 AM 24-08-2025"
+    },
+    {
+      "id": 133738,
+      "event_category": "Kabaddi",
+      "title": "Vizag Commandos vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133738_5591_VC_KK_fc-Web.jpg",
+      "team_1": "Vizag Commandos",
+      "team_2": "Kakinada Kraken",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Vizag Commandos vs Kakinada Kraken",
+      "startTime": "11:45:00 AM 23-08-2025"
     },
     {
       "id": 133687,
@@ -386,16 +360,28 @@
       "startTime": "01:00:00 AM 24-08-2025"
     },
     {
-      "id": 133738,
-      "event_category": "Kabaddi",
-      "title": "Vizag Commandos vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133738_5591_VC_KK_fc-Web.jpg",
-      "team_1": "Vizag Commandos",
-      "team_2": "Kakinada Kraken",
+      "id": 133532,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizag Commandos vs Kakinada Kraken",
-      "startTime": "11:45:00 AM 23-08-2025"
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "06:00:00 AM 24-08-2025"
+    },
+    {
+      "id": 133531,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "06:00:00 AM 24-08-2025"
     },
     {
       "id": 132086,
@@ -446,28 +432,40 @@
       "startTime": "05:30:00 PM 23-08-2025"
     },
     {
-      "id": 133532,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "id": 134944,
+      "event_category": "Football",
+      "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+      "team_1": "Real Zaragoza",
+      "team_2": "FC Andorra",
       "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "06:00:00 AM 24-08-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Zaragoza vs FC Andorra",
+      "startTime": "01:00:00 AM 24-08-2025"
     },
     {
-      "id": 133531,
+      "id": 132496,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "title": "New Delhi Tigers vs Central Delhi Kings (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132496_5521_NDT_CDK_fc-Web.jpg",
+      "team_1": "New Delhi Tigers",
+      "team_2": "Central Delhi Kings",
       "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "06:00:00 AM 24-08-2025"
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "New Delhi Tigers vs Central Delhi Kings",
+      "startTime": "02:00:00 PM 24-08-2025"
+    },
+    {
+      "id": 133882,
+      "event_category": "Cricket",
+      "title": "Calicut Globstars vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
+      "team_1": "Calicut Globstars",
+      "team_2": "Adani Trivandrum Royals",
+      "status": "UPCOMING",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Calicut Globstars vs Adani Trivandrum Royals",
+      "startTime": "02:30:00 PM 24-08-2025"
     }
   ]
 }
