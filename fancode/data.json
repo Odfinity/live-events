@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:26 PM 23-08-2025",
+  "last update time": "08:53 PM 23-08-2025",
   "matches": [
     {
       "id": 130848,
@@ -102,20 +102,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8"
     },
     {
-      "id": 133688,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Renaissance Challengers (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133688_5590_RNC_IAI_fc-Web.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Renaissance Challengers",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "IAS Invincibles vs Renaissance Challengers",
-      "startTime": "05:00:00 PM 23-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jkiujbriTKKKvmhQGbuY1A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133688_english_hls_4daecfe50489632ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132784,
       "event_category": "Cricket",
       "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
@@ -156,6 +142,20 @@
       "startTime": "07:30:00 PM 23-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/FmZjuQKuQjW-LyLJOMwi_Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133689,
+      "event_category": "Cricket",
+      "title": "Royal Oman Stallions vs Majees Titans (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg",
+      "team_1": "Royal Oman Stallions",
+      "team_2": "Majees Titans",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Royal Oman Stallions vs Majees Titans",
+      "startTime": "09:00:00 PM 23-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lpcXE0-nTJyKc143guszHQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8"
     },
     {
       "id": 133911,
@@ -220,18 +220,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
       "startTime": "04:30:00 AM 24-08-2025"
-    },
-    {
-      "id": 133689,
-      "event_category": "Cricket",
-      "title": "Royal Oman Stallions vs Majees Titans (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg",
-      "team_1": "Royal Oman Stallions",
-      "team_2": "Majees Titans",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Royal Oman Stallions vs Majees Titans",
-      "startTime": "09:00:00 PM 23-08-2025"
     },
     {
       "id": 132496,
@@ -306,6 +294,18 @@
       "startTime": "12:15:00 AM 24-08-2025"
     },
     {
+      "id": 135796,
+      "event_category": "Cricket",
+      "title": "Dubai Capitals Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg",
+      "team_1": "Dubai Capitals Development",
+      "team_2": "Desert Vipers Development",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Dubai Capitals Development vs Desert Vipers Development",
+      "startTime": "06:30:00 PM 24-08-2025"
+    },
+    {
       "id": 130843,
       "event_category": "Football",
       "title": "Atlético de Madrid vs Elche (LALIGA 2025-26)",
@@ -316,18 +316,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Atlético de Madrid vs Elche",
       "startTime": "11:00:00 PM 23-08-2025"
-    },
-    {
-      "id": 130847,
-      "event_category": "Football",
-      "title": "Levante vs Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-      "team_1": "Levante",
-      "team_2": "Barcelona",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Barcelona",
-      "startTime": "01:00:00 AM 24-08-2025"
     },
     {
       "id": 133532,
@@ -342,6 +330,18 @@
       "startTime": "05:30:00 AM 24-08-2025"
     },
     {
+      "id": 130847,
+      "event_category": "Football",
+      "title": "Levante vs Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+      "team_1": "Levante",
+      "team_2": "Barcelona",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Barcelona",
+      "startTime": "01:00:00 AM 24-08-2025"
+    },
+    {
       "id": 133531,
       "event_category": "Cricket",
       "title": "Chicago Kingsmen vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
@@ -352,18 +352,6 @@
       "event_name": "Top End T20 Series, 2025",
       "match_name": "Chicago Kingsmen vs Adelaide Strikers Academy",
       "startTime": "06:00:00 AM 24-08-2025"
-    },
-    {
-      "id": 135796,
-      "event_category": "Cricket",
-      "title": "Dubai Capitals Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg",
-      "team_1": "Dubai Capitals Development",
-      "team_2": "Desert Vipers Development",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Dubai Capitals Development vs Desert Vipers Development",
-      "startTime": "06:30:00 PM 24-08-2025"
     },
     {
       "id": 133883,
@@ -438,18 +426,6 @@
       "startTime": "12:00:00 PM 24-08-2025"
     },
     {
-      "id": 133753,
-      "event_category": "Cricket",
-      "title": "Germany Women vs Ireland Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-web.jpg",
-      "team_1": "Germany Women",
-      "team_2": "Ireland Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
-      "match_name": "Germany Women vs Ireland Women",
-      "startTime": "02:30:00 PM 24-08-2025"
-    },
-    {
       "id": 132356,
       "event_category": "Cricket",
       "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
@@ -460,6 +436,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
       "startTime": "08:30:00 PM 24-08-2025"
+    },
+    {
+      "id": 133753,
+      "event_category": "Cricket",
+      "title": "Germany Women vs Ireland Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-web.jpg",
+      "team_1": "Germany Women",
+      "team_2": "Ireland Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
+      "match_name": "Germany Women vs Ireland Women",
+      "startTime": "02:30:00 PM 24-08-2025"
     },
     {
       "id": 133790,
@@ -484,6 +472,18 @@
       "event_name": "ICC CWC Challenge League A, 2024-26",
       "match_name": "Qatar vs Kenya",
       "startTime": "03:30:00 PM 24-08-2025"
+    },
+    {
+      "id": 134944,
+      "event_category": "Football",
+      "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+      "team_1": "Real Zaragoza",
+      "team_2": "FC Andorra",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Zaragoza vs FC Andorra",
+      "startTime": "01:00:00 AM 24-08-2025"
     }
   ]
 }
