@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:29 AM 24-08-2025",
+  "last update time": "12:49 AM 24-08-2025",
   "matches": [
     {
       "id": 130843,
@@ -32,20 +32,6 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756011753~acl=/*~id=19365123790319802203408696048138~hmac=8072009473d03148186fdd1e3c724d79bb4d89d3a13001d188f6271a36080f8f"
     },
     {
-      "id": 133689,
-      "event_category": "Cricket",
-      "title": "Royal Oman Stallions vs Majees Titans (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg",
-      "team_1": "Royal Oman Stallions",
-      "team_2": "Majees Titans",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Royal Oman Stallions vs Majees Titans",
-      "startTime": "09:00:00 PM 23-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/lpcXE0-nTJyKc143guszHQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8"
-    },
-    {
       "id": 132174,
       "event_category": "Cricket",
       "title": "NCM Investment vs CECC (KCC T10 Summer League, 2025)",
@@ -58,6 +44,20 @@
       "startTime": "12:15:00 AM 24-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/hh7yegL2RJa2Inh_ti_62g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132174_english_hls_e7db028c6547496ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130847,
+      "event_category": "Football",
+      "title": "Levante vs Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+      "team_1": "Levante",
+      "team_2": "Barcelona",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Barcelona",
+      "startTime": "01:00:00 AM 24-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 133808,
@@ -230,18 +230,6 @@
       "startTime": "03:30:00 PM 24-08-2025"
     },
     {
-      "id": 130847,
-      "event_category": "Football",
-      "title": "Levante vs Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-      "team_1": "Levante",
-      "team_2": "Barcelona",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Barcelona",
-      "startTime": "01:00:00 AM 24-08-2025"
-    },
-    {
       "id": 135796,
       "event_category": "Cricket",
       "title": "Dubai Capitals Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
@@ -320,10 +308,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
       "team_1": "Real Zaragoza",
       "team_2": "FC Andorra",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Zaragoza vs FC Andorra",
-      "startTime": "01:00:00 AM 24-08-2025"
+      "startTime": "01:00:00 AM 24-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8"
     },
     {
       "id": 133532,
@@ -468,6 +458,30 @@
       "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
       "match_name": "Italy Women vs Netherlands Women",
       "startTime": "07:15:00 PM 24-08-2025"
+    },
+    {
+      "id": 133741,
+      "event_category": "Kabaddi",
+      "title": "Kurnool Knights vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
+      "team_1": "Kurnool Knights",
+      "team_2": "Vizianagaram Ninjas",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Kurnool Knights vs Vizianagaram Ninjas",
+      "startTime": "10:15:00 AM 24-08-2025"
+    },
+    {
+      "id": 133742,
+      "event_category": "Kabaddi",
+      "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
+      "team_1": "Amaravati Crushers",
+      "team_2": "Vizag Commandos",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Amaravati Crushers vs Vizag Commandos",
+      "startTime": "11:45:00 AM 24-08-2025"
     }
   ]
 }
