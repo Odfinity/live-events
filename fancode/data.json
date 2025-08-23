@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:21 AM 23-08-2025",
+  "last update time": "07:16 AM 23-08-2025",
   "matches": [
     {
       "id": 133235,
@@ -30,6 +30,34 @@
       "startTime": "04:30:00 AM 23-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/nBwEGiS1TfeKXYLC012XnA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132354_english_hls_03ab4def0e66997ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133528,
+      "event_category": "Cricket",
+      "title": "Chicago Kingsmen vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
+      "team_1": "Chicago Kingsmen",
+      "team_2": "Hobart Hurricanes Academy",
+      "status": "LIVE",
+      "event_name": "Top End T20 Series, 2025",
+      "match_name": "Chicago Kingsmen vs Hobart Hurricanes Academy",
+      "startTime": "07:00:00 AM 23-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132877,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132877_CASACARDS_APP.png",
+      "team_1": "San Diego Padres",
+      "team_2": "Los Angeles Dodgers",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Los Angeles Dodgers",
+      "startTime": "07:10:00 AM 23-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132877_english_hls_7b9259466639652ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132877_english_hls_7b9259466639652ta-di_h264/index.m3u8"
     },
     {
       "id": 132494,
@@ -152,18 +180,6 @@
       "startTime": "10:30:00 PM 23-08-2025"
     },
     {
-      "id": 133528,
-      "event_category": "Cricket",
-      "title": "Chicago Kingsmen vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
-      "team_1": "Chicago Kingsmen",
-      "team_2": "Hobart Hurricanes Academy",
-      "status": "UPCOMING",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Chicago Kingsmen vs Hobart Hurricanes Academy",
-      "startTime": "07:00:00 AM 23-08-2025"
-    },
-    {
       "id": 134881,
       "event_category": "Cricket",
       "title": "Western Suburbs vs University Of Queensland (KFC T20 Max, 2025)",
@@ -174,6 +190,18 @@
       "event_name": "KFC T20 Max, 2025",
       "match_name": "Western Suburbs vs University Of Queensland",
       "startTime": "08:45:00 AM 23-08-2025"
+    },
+    {
+      "id": 132355,
+      "event_category": "Cricket",
+      "title": "Saint Lucia Kings vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+      "team_1": "Saint Lucia Kings",
+      "team_2": "Trinbago Knight Riders",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
+      "startTime": "04:30:00 AM 24-08-2025"
     },
     {
       "id": 133529,
@@ -308,18 +336,6 @@
       "startTime": "09:00:00 PM 23-08-2025"
     },
     {
-      "id": 132355,
-      "event_category": "Cricket",
-      "title": "Saint Lucia Kings vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-      "team_1": "Saint Lucia Kings",
-      "team_2": "Trinbago Knight Riders",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
-      "startTime": "04:30:00 AM 24-08-2025"
-    },
-    {
       "id": 130848,
       "event_category": "Football",
       "title": "Mallorca vs Celta de Vigo (LALIGA 2025-26)",
@@ -366,6 +382,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "NCM Investment vs CECC",
       "startTime": "12:15:00 AM 24-08-2025"
+    },
+    {
+      "id": 130847,
+      "event_category": "Football",
+      "title": "Levante vs Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+      "team_1": "Levante",
+      "team_2": "Barcelona",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Barcelona",
+      "startTime": "01:00:00 AM 24-08-2025"
     },
     {
       "id": 133737,
@@ -428,18 +456,6 @@
       "startTime": "04:00:00 PM 23-08-2025"
     },
     {
-      "id": 130847,
-      "event_category": "Football",
-      "title": "Levante vs Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-      "team_1": "Levante",
-      "team_2": "Barcelona",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Barcelona",
-      "startTime": "01:00:00 AM 24-08-2025"
-    },
-    {
       "id": 133740,
       "event_category": "Kabaddi",
       "title": "Tirupati Raiders vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
@@ -450,18 +466,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Tirupati Raiders vs Vizianagaram Ninjas",
       "startTime": "05:30:00 PM 23-08-2025"
-    },
-    {
-      "id": 134944,
-      "event_category": "Football",
-      "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-      "team_1": "Real Zaragoza",
-      "team_2": "FC Andorra",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza vs FC Andorra",
-      "startTime": "01:00:00 AM 24-08-2025"
     }
   ]
 }
