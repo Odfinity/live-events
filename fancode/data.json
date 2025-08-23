@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:56 AM 23-08-2025",
+  "last update time": "10:14 AM 23-08-2025",
   "matches": [
     {
       "id": 133235,
@@ -48,16 +48,30 @@
     {
       "id": 133529,
       "event_category": "Cricket",
-      "title": "Australian Capital Territory vs Melbourne Stars Academy (Top End T20 Series, 2025)",
+      "title": "Melbourne Stars Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg",
-      "team_1": "Australian Capital Territory",
-      "team_2": "Melbourne Stars Academy",
+      "team_1": "Melbourne Stars Academy",
+      "team_2": "Australian Capital Territory",
       "status": "LIVE",
       "event_name": "Top End T20 Series, 2025",
-      "match_name": "Australian Capital Territory vs Melbourne Stars Academy",
+      "match_name": "Melbourne Stars Academy vs Australian Capital Territory",
       "startTime": "10:00:00 AM 23-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133529_english_hls_3a0bd2ac6e72984adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133529_english_hls_3a0bd2ac6e72984adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133737,
+      "event_category": "Kabaddi",
+      "title": "Amaravati Crushers vs Bhimavaram Guardians (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
+      "team_1": "Amaravati Crushers",
+      "team_2": "Bhimavaram Guardians",
+      "status": "LIVE",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Amaravati Crushers vs Bhimavaram Guardians",
+      "startTime": "10:15:00 AM 23-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/L6NtMxDpTAut35W95J9fvQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133737_english_hls_5602d30a2d21729ta-di_h264/index.m3u8"
     },
     {
       "id": 132494,
@@ -190,18 +204,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
       "startTime": "04:30:00 AM 24-08-2025"
-    },
-    {
-      "id": 133737,
-      "event_category": "Kabaddi",
-      "title": "Amaravati Crushers vs Bhimavaram Guardians (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
-      "team_1": "Amaravati Crushers",
-      "team_2": "Bhimavaram Guardians",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Amaravati Crushers vs Bhimavaram Guardians",
-      "startTime": "10:15:00 AM 23-08-2025"
     },
     {
       "id": 133687,
@@ -348,18 +350,6 @@
       "startTime": "08:30:00 PM 23-08-2025"
     },
     {
-      "id": 130843,
-      "event_category": "Football",
-      "title": "Atlético de Madrid vs Elche (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
-      "team_1": "Atlético de Madrid",
-      "team_2": "Elche",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atlético de Madrid vs Elche",
-      "startTime": "11:00:00 PM 23-08-2025"
-    },
-    {
       "id": 132174,
       "event_category": "Cricket",
       "title": "NCM Investment vs CECC (KCC T10 Summer League, 2025)",
@@ -370,6 +360,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "NCM Investment vs CECC",
       "startTime": "12:15:00 AM 24-08-2025"
+    },
+    {
+      "id": 130843,
+      "event_category": "Football",
+      "title": "Atlético de Madrid vs Elche (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
+      "team_1": "Atlético de Madrid",
+      "team_2": "Elche",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atlético de Madrid vs Elche",
+      "startTime": "11:00:00 PM 23-08-2025"
     },
     {
       "id": 130847,
