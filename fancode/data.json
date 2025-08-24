@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:26 AM 25-08-2025",
+  "last update time": "04:53 AM 25-08-2025",
   "matches": [
     {
       "id": 132357,
@@ -30,20 +30,6 @@
       "startTime": "10:35:00 PM 24-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/JebZebywQ7C_lS8dsiKlmg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133809_english_hls_93886de1dc47356ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132883,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Oakland Athletics (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132883_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Oakland Athletics",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Oakland Athletics",
-      "startTime": "01:40:00 AM 25-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132883_english_hls_ce7adc310e92118ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132883_english_hls_ce7adc310e92118ta-di_h264/index.m3u8"
     },
     {
       "id": 132497,
@@ -320,6 +306,18 @@
       "event_name": "KFC T20 Max, 2025",
       "match_name": "Valley vs Sandgate-Redcliffe",
       "startTime": "01:30:00 PM 26-08-2025"
+    },
+    {
+      "id": 132884,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "07:40:00 AM 26-08-2025"
     }
   ]
 }
