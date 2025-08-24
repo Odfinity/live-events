@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:52 PM 24-08-2025",
+  "last update time": "08:10 PM 24-08-2025",
   "matches": [
     {
       "id": 130844,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Osasuna-vs-Valencia_Old_match-card.jpg",
       "team_1": "Osasuna",
       "team_2": "Valencia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Osasuna vs Valencia",
-      "startTime": "08:30:00 PM 24-08-2025"
+      "startTime": "08:30:00 PM 24-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130844_english_hls_eb3a12022292620adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130844_english_hls_eb3a12022292620adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 133883,
@@ -70,6 +72,20 @@
       "startTime": "07:15:00 PM 24-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/8VeWkjY1TmKs4Sgn6IYzXQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132356,
+      "event_category": "Cricket",
+      "title": "St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+      "team_1": "St Kitts and Nevis Patriots",
+      "team_2": "Antigua & Barbuda Falcons",
+      "status": "LIVE",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons",
+      "startTime": "08:30:00 PM 24-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/k4HokqPUSHibJdEEENruJQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8"
     },
     {
       "id": 133790,
@@ -170,18 +186,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8"
     },
     {
-      "id": 132356,
-      "event_category": "Cricket",
-      "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-      "team_1": "Antigua & Barbuda Falcons",
-      "team_2": "St Kitts and Nevis Patriots",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
-      "startTime": "08:30:00 PM 24-08-2025"
-    },
-    {
       "id": 132249,
       "event_category": "Cricket",
       "title": "Manchester Originals vs Birmingham Phoenix (The Hundred, 2025)",
@@ -204,6 +208,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Barbados Royals",
       "startTime": "04:30:00 AM 25-08-2025"
+    },
+    {
+      "id": 133691,
+      "event_category": "Cricket",
+      "title": "Majees Titans vs Renaissance Challengers (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+      "team_1": "Majees Titans",
+      "team_2": "Renaissance Challengers",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Majees Titans vs Renaissance Challengers",
+      "startTime": "09:00:00 PM 24-08-2025"
     },
     {
       "id": 132497,
@@ -252,18 +268,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Deportivo de La Coruña vs Burgos",
       "startTime": "08:30:00 PM 24-08-2025"
-    },
-    {
-      "id": 133691,
-      "event_category": "Cricket",
-      "title": "Majees Titans vs Renaissance Challengers (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-      "team_1": "Majees Titans",
-      "team_2": "Renaissance Challengers",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Majees Titans vs Renaissance Challengers",
-      "startTime": "09:00:00 PM 24-08-2025"
     },
     {
       "id": 132175,
@@ -410,6 +414,18 @@
       "startTime": "03:30:00 PM 25-08-2025"
     },
     {
+      "id": 133692,
+      "event_category": "Cricket",
+      "title": "Renaissance Challengers vs Royal Oman Stallions (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133692_5590_RNC_ROS_fc-Web.jpg",
+      "team_1": "Renaissance Challengers",
+      "team_2": "Royal Oman Stallions",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Renaissance Challengers vs Royal Oman Stallions",
+      "startTime": "05:00:00 PM 25-08-2025"
+    },
+    {
       "id": 134086,
       "event_category": "Golf",
       "title": "Main Feed - Day 4 vs East Lake Golf Course (Tour Championship)",
@@ -444,18 +460,6 @@
       "event_name": "Yuva Andhra Championship, 2025",
       "match_name": "Vizianagaram Ninjas vs Vizag Commandos",
       "startTime": "10:15:00 AM 25-08-2025"
-    },
-    {
-      "id": 133692,
-      "event_category": "Cricket",
-      "title": "Renaissance Challengers vs Royal Oman Stallions (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133692_5590_RNC_ROS_fc-Web.jpg",
-      "team_1": "Renaissance Challengers",
-      "team_2": "Royal Oman Stallions",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Renaissance Challengers vs Royal Oman Stallions",
-      "startTime": "05:00:00 PM 25-08-2025"
     },
     {
       "id": 133746,
