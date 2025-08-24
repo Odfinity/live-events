@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:27 PM 24-08-2025",
+  "last update time": "04:49 PM 24-08-2025",
   "matches": [
     {
       "id": 119164,
@@ -130,20 +130,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132084_english_hls_d51cdb4f4990028ta-di_h264/index.m3u8"
     },
     {
-      "id": 133743,
-      "event_category": "Kabaddi",
-      "title": "Vizianagaram Ninjas vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
-      "team_1": "Vizianagaram Ninjas",
-      "team_2": "Amaravati Crushers",
-      "status": "LIVE",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizianagaram Ninjas vs Amaravati Crushers",
-      "startTime": "03:45:00 PM 24-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/w2yazq7GRgGPoEvv45ePVQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133912,
       "event_category": "Golf",
       "title": "Day 4 vs The Belfry, Sutton Coldfield (Betfred British Masters 2025)",
@@ -156,6 +142,20 @@
       "startTime": "04:30:00 PM 24-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/dZbKWB8PQA-QcKqIVGEXUQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133743,
+      "event_category": "Kabaddi",
+      "title": "Vizianagaram Ninjas vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
+      "team_1": "Vizianagaram Ninjas",
+      "team_2": "Amaravati Crushers",
+      "status": "LIVE",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Vizianagaram Ninjas vs Amaravati Crushers",
+      "startTime": "03:45:00 PM 24-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/w2yazq7GRgGPoEvv45ePVQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8"
     },
     {
       "id": 135796,
@@ -278,6 +278,30 @@
       "startTime": "05:00:00 PM 24-08-2025"
     },
     {
+      "id": 133744,
+      "event_category": "Kabaddi",
+      "title": "Kurnool Knights vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
+      "team_1": "Kurnool Knights",
+      "team_2": "Vizag Commandos",
+      "status": "UPCOMING",
+      "event_name": "Yuva Andhra Championship, 2025",
+      "match_name": "Kurnool Knights vs Vizag Commandos",
+      "startTime": "05:30:00 PM 24-08-2025"
+    },
+    {
+      "id": 132497,
+      "event_category": "Cricket",
+      "title": "South Delhi Superstarz vs West Delhi Lions (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
+      "team_1": "South Delhi Superstarz",
+      "team_2": "West Delhi Lions",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "South Delhi Superstarz vs West Delhi Lions",
+      "startTime": "02:00:00 PM 25-08-2025"
+    },
+    {
       "id": 132977,
       "event_category": "Cricket",
       "title": "South Delhi Superstarz Women vs Central Delhi Queens (Delhi Women's Premier League, 2025)",
@@ -326,18 +350,6 @@
       "startTime": "10:15:00 PM 24-08-2025"
     },
     {
-      "id": 132497,
-      "event_category": "Cricket",
-      "title": "South Delhi Superstarz vs West Delhi Lions (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
-      "team_1": "South Delhi Superstarz",
-      "team_2": "West Delhi Lions",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "South Delhi Superstarz vs West Delhi Lions",
-      "startTime": "02:00:00 PM 25-08-2025"
-    },
-    {
       "id": 132176,
       "event_category": "Cricket",
       "title": "Bader & Nie Cricket Club vs Kuwait Swedish (KCC T10 Summer League, 2025)",
@@ -360,6 +372,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Osasuna vs Valencia",
       "startTime": "08:30:00 PM 24-08-2025"
+    },
+    {
+      "id": 133884,
+      "event_category": "Cricket",
+      "title": "Aries Kollam Sailors vs Thrissur Titans (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133884_5600_AKS_TT_fc-Web_1755771731141.jpg",
+      "team_1": "Aries Kollam Sailors",
+      "team_2": "Thrissur Titans",
+      "status": "UPCOMING",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Aries Kollam Sailors vs Thrissur Titans",
+      "startTime": "02:30:00 PM 25-08-2025"
     },
     {
       "id": 130849,
@@ -398,18 +422,6 @@
       "startTime": "01:00:00 AM 25-08-2025"
     },
     {
-      "id": 133884,
-      "event_category": "Cricket",
-      "title": "Aries Kollam Sailors vs Thrissur Titans (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133884_5600_AKS_TT_fc-Web_1755771731141.jpg",
-      "team_1": "Aries Kollam Sailors",
-      "team_2": "Thrissur Titans",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Aries Kollam Sailors vs Thrissur Titans",
-      "startTime": "02:30:00 PM 25-08-2025"
-    },
-    {
       "id": 132813,
       "event_category": "Cricket",
       "title": "Shivamogga Lions vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
@@ -420,18 +432,6 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "Shivamogga Lions vs Hubli Tigers",
       "startTime": "03:15:00 PM 25-08-2025"
-    },
-    {
-      "id": 133744,
-      "event_category": "Kabaddi",
-      "title": "Kurnool Knights vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
-      "team_1": "Kurnool Knights",
-      "team_2": "Vizag Commandos",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Kurnool Knights vs Vizag Commandos",
-      "startTime": "05:30:00 PM 24-08-2025"
     },
     {
       "id": 134946,
@@ -446,18 +446,6 @@
       "startTime": "08:30:00 PM 24-08-2025"
     },
     {
-      "id": 134996,
-      "event_category": "Motorsports",
-      "title": "Race 2 vs Germany (DTM Sachsenring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-      "team_1": "Race 2",
-      "team_2": "Germany",
-      "status": "UPCOMING",
-      "event_name": "DTM Sachsenring",
-      "match_name": "Race 2",
-      "startTime": "05:00:00 PM 24-08-2025"
-    },
-    {
       "id": 134892,
       "event_category": "Cricket",
       "title": "Northern Suburbs vs Gold Coast (KFC T20 Max, 2025)",
@@ -468,6 +456,18 @@
       "event_name": "KFC T20 Max, 2025",
       "match_name": "Northern Suburbs vs Gold Coast",
       "startTime": "01:30:00 PM 25-08-2025"
+    },
+    {
+      "id": 134996,
+      "event_category": "Motorsports",
+      "title": "Race 2 vs Germany (DTM Sachsenring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+      "team_1": "Race 2",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "DTM Sachsenring",
+      "match_name": "Race 2",
+      "startTime": "05:00:00 PM 24-08-2025"
     }
   ]
 }
