@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:32 AM 24-08-2025",
+  "last update time": "10:06 AM 24-08-2025",
   "matches": [
     {
       "id": 133235,
@@ -16,20 +16,6 @@
       "startTime": "04:30:00 AM 21-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/qVOkk5KKSgyfittlB1PuEA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673333129ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133531,
-      "event_category": "Cricket",
-      "title": "Chicago Kingsmen vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133508_5574_CHK_ASA_fc-web.jpg",
-      "team_1": "Chicago Kingsmen",
-      "team_2": "Adelaide Strikers Academy",
-      "status": "LIVE",
-      "event_name": "Top End T20 Series, 2025",
-      "match_name": "Chicago Kingsmen vs Adelaide Strikers Academy",
-      "startTime": "06:00:00 AM 24-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/8Ma7jWtiTgK_z83bLwnSxg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133531_english_hls_61e2df1d0f22685ta-di_h264/index.m3u8"
     },
     {
       "id": 132880,
@@ -216,13 +202,13 @@
     {
       "id": 133533,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Top End T20 Series, 2025)",
+      "title": "Adelaide Strikers Academy vs Perth Scorchers Academy (Top End T20 Series, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Adelaide Strikers Academy",
+      "team_2": "Perth Scorchers Academy",
       "status": "UPCOMING",
       "event_name": "Top End T20 Series, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Adelaide Strikers Academy vs Perth Scorchers Academy",
       "startTime": "12:00:00 PM 24-08-2025"
     },
     {
@@ -322,18 +308,6 @@
       "startTime": "09:00:00 PM 24-08-2025"
     },
     {
-      "id": 130844,
-      "event_category": "Football",
-      "title": "Osasuna vs Valencia (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Osasuna-vs-Valencia_Old_match-card.jpg",
-      "team_1": "Osasuna",
-      "team_2": "Valencia",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Osasuna vs Valencia",
-      "startTime": "08:30:00 PM 24-08-2025"
-    },
-    {
       "id": 132175,
       "event_category": "Cricket",
       "title": "ACE KRM Panthers vs SBS CC (KCC T10 Summer League, 2025)",
@@ -344,6 +318,18 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "ACE KRM Panthers vs SBS CC",
       "startTime": "10:15:00 PM 24-08-2025"
+    },
+    {
+      "id": 130844,
+      "event_category": "Football",
+      "title": "Osasuna vs Valencia (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Osasuna-vs-Valencia_Old_match-card.jpg",
+      "team_1": "Osasuna",
+      "team_2": "Valencia",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Osasuna vs Valencia",
+      "startTime": "08:30:00 PM 24-08-2025"
     },
     {
       "id": 130849,
@@ -452,6 +438,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Deportivo de La Coruña vs Burgos",
       "startTime": "08:30:00 PM 24-08-2025"
+    },
+    {
+      "id": 132497,
+      "event_category": "Cricket",
+      "title": "South Delhi Superstarz vs West Delhi Lions (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
+      "team_1": "South Delhi Superstarz",
+      "team_2": "West Delhi Lions",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "South Delhi Superstarz vs West Delhi Lions",
+      "startTime": "02:00:00 PM 25-08-2025"
     }
   ]
 }
