@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:23 PM 25-08-2025",
+  "last update time": "10:48 PM 25-08-2025",
   "matches": [
     {
       "id": 130842,
@@ -10,9 +10,23 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
       "team_1": "Athletic Club",
       "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Rayo Vallecano",
+      "startTime": "11:00:00 PM 25-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130842_english_hls_eaa28cfecb33586adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130842_english_hls_eaa28cfecb33586adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 135842,
+      "event_category": "Cricket",
+      "title": "London Spirit vs Oval Invincibles (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+      "team_1": "London Spirit",
+      "team_2": "Oval Invincibles",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "London Spirit vs Oval Invincibles",
       "startTime": "11:00:00 PM 25-08-2025"
     },
     {
@@ -58,20 +72,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132814_english_hls_712472022c81880ta-di_h264/index.m3u8"
     },
     {
-      "id": 133791,
-      "event_category": "Cricket",
-      "title": "Jersey vs Denmark (ICC CWC Challenge League A, 2024-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133791_4464_JER_DEN_fc-Web.jpg",
-      "team_1": "Jersey",
-      "team_2": "Denmark",
-      "status": "LIVE",
-      "event_name": "ICC CWC Challenge League A, 2024-26",
-      "match_name": "Jersey vs Denmark",
-      "startTime": "03:30:00 PM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/7s81OiApTouqiPRrCV4g5Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133791_english_hls_7fd892374e29457ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133693,
       "event_category": "Cricket",
       "title": "IAS Invincibles vs Muscat Thunders (Oman D20 League, 2025)",
@@ -100,16 +100,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135799_english_hls_06cc33772a55821ta-di_h264/index.m3u8"
     },
     {
-      "id": 135842,
+      "id": 133791,
       "event_category": "Cricket",
-      "title": "London Spirit vs Oval Invincibles (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
-      "team_1": "London Spirit",
-      "team_2": "Oval Invincibles",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "London Spirit vs Oval Invincibles",
-      "startTime": "11:00:00 PM 25-08-2025"
+      "title": "Jersey vs Denmark (ICC CWC Challenge League A, 2024-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133791_4464_JER_DEN_fc-Web.jpg",
+      "team_1": "Jersey",
+      "team_2": "Denmark",
+      "status": "LIVE",
+      "event_name": "ICC CWC Challenge League A, 2024-26",
+      "match_name": "Jersey vs Denmark",
+      "startTime": "03:30:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/7s81OiApTouqiPRrCV4g5Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133791_english_hls_7fd892374e29457ta-di_h264/index.m3u8"
     },
     {
       "id": 132499,
@@ -160,18 +162,6 @@
       "startTime": "06:45:00 PM 26-08-2025"
     },
     {
-      "id": 134945,
-      "event_category": "Football",
-      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
-      "team_1": "Albacete",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Racing de Santander",
-      "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
       "id": 132500,
       "event_category": "Cricket",
       "title": "West Delhi Lions vs Outer Delhi Warriors (Delhi Premier League, 2025)",
@@ -182,6 +172,18 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "West Delhi Lions vs Outer Delhi Warriors",
       "startTime": "07:00:00 PM 26-08-2025"
+    },
+    {
+      "id": 134945,
+      "event_category": "Football",
+      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+      "team_1": "Albacete",
+      "team_2": "Racing de Santander",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Racing de Santander",
+      "startTime": "11:00:00 PM 25-08-2025"
     },
     {
       "id": 132816,
@@ -410,6 +412,18 @@
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Sheffield Wednesday vs Leeds United",
       "startTime": "12:30:00 AM 27-08-2025"
+    },
+    {
+      "id": 132358,
+      "event_category": "Cricket",
+      "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132358_5512_SLK_GUY_fc-web.jpg",
+      "team_1": "Saint Lucia Kings",
+      "team_2": "Guyana Amazon Warriors",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
+      "startTime": "04:30:00 AM 27-08-2025"
     },
     {
       "id": 132884,
