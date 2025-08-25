@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:57 PM 25-08-2025",
+  "last update time": "01:12 PM 25-08-2025",
   "matches": [
-    {
-      "id": 133746,
-      "event_category": "Kabaddi",
-      "title": "Kurnool Knights vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
-      "team_1": "Kurnool Knights",
-      "team_2": "Amaravati Crushers",
-      "status": "LIVE",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Kurnool Knights vs Amaravati Crushers",
-      "startTime": "11:45:00 AM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YkX2Kzr2T0KKw7zXe_ziLQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133746_english_hls_b260b5eb8d13786ta-di_h264/index.m3u8"
-    },
     {
       "id": 132497,
       "event_category": "Cricket",
@@ -100,18 +86,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Oval Invincibles vs London Spirit",
       "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
-      "id": 134892,
-      "event_category": "Cricket",
-      "title": "Northern Suburbs vs Gold Coast (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_Fc-Web_1755807575937.jpg",
-      "team_1": "Northern Suburbs",
-      "team_2": "Gold Coast",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Northern Suburbs vs Gold Coast",
-      "startTime": "01:30:00 PM 25-08-2025"
     },
     {
       "id": 133791,
@@ -198,18 +172,6 @@
       "startTime": "01:00:00 AM 26-08-2025"
     },
     {
-      "id": 134945,
-      "event_category": "Football",
-      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
-      "team_1": "Albacete",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Racing de Santander",
-      "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
       "id": 132499,
       "event_category": "Cricket",
       "title": "South Delhi Superstarz vs North Delhi Strikers (Delhi Premier League, 2025)",
@@ -220,6 +182,18 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "South Delhi Superstarz vs North Delhi Strikers",
       "startTime": "02:00:00 PM 26-08-2025"
+    },
+    {
+      "id": 134945,
+      "event_category": "Football",
+      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+      "team_1": "Albacete",
+      "team_2": "Racing de Santander",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Racing de Santander",
+      "startTime": "11:00:00 PM 25-08-2025"
     },
     {
       "id": 133886,
@@ -328,6 +302,30 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "IAS Invincibles vs Yalla Shabab Giants",
       "startTime": "05:00:00 PM 26-08-2025"
+    },
+    {
+      "id": 132884,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "07:40:00 AM 26-08-2025"
+    },
+    {
+      "id": 135800,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi Knight Riders Development vs MI Emirates Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135800_5636_ADK_MED_fc-web.jpg",
+      "team_1": "Abu Dhabi Knight Riders Development",
+      "team_2": "MI Emirates Development",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Abu Dhabi Knight Riders Development vs MI Emirates Development",
+      "startTime": "06:30:00 PM 26-08-2025"
     }
   ]
 }
