@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:59 PM 25-08-2025",
+  "last update time": "03:16 PM 25-08-2025",
   "matches": [
     {
       "id": 132497,
@@ -34,14 +34,16 @@
     {
       "id": 132813,
       "event_category": "Cricket",
-      "title": "Shivamogga Lions vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
+      "title": "Hubli Tigers vs Shivamogga Lions (Maharaja T20 Trophy, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
-      "team_1": "Shivamogga Lions",
-      "team_2": "Hubli Tigers",
-      "status": "UPCOMING",
+      "team_1": "Hubli Tigers",
+      "team_2": "Shivamogga Lions",
+      "status": "LIVE",
       "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Shivamogga Lions vs Hubli Tigers",
-      "startTime": "03:15:00 PM 25-08-2025"
+      "match_name": "Hubli Tigers vs Shivamogga Lions",
+      "startTime": "03:15:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/A4qCLrqxSUKzhPWipKisSg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132813_english_hls_6ff65ed04782545ta-di_h264/index.m3u8"
     },
     {
       "id": 133885,
@@ -342,6 +344,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
       "startTime": "07:40:00 AM 26-08-2025"
+    },
+    {
+      "id": 133756,
+      "event_category": "Cricket",
+      "title": "Ireland Women vs Netherlands Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133756_5592_IR-W_ND-W_fc-web.jpg",
+      "team_1": "Ireland Women",
+      "team_2": "Netherlands Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
+      "match_name": "Ireland Women vs Netherlands Women",
+      "startTime": "07:15:00 PM 26-08-2025"
     }
   ]
 }
