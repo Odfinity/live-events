@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:05 PM 25-08-2025",
+  "last update time": "07:21 PM 25-08-2025",
   "matches": [
     {
       "id": 135903,
@@ -98,20 +98,6 @@
       "startTime": "06:30:00 PM 25-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/4E8PFX4LRVCGxhKcx_ML9Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135798_english_hls_c12dbdcc8a21020ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133884,
-      "event_category": "Cricket",
-      "title": "Thrissur Titans vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133884_5600_AKS_TT_fc-Web_1755771731141.jpg",
-      "team_1": "Thrissur Titans",
-      "team_2": "Aries Kollam Sailors",
-      "status": "LIVE",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Thrissur Titans vs Aries Kollam Sailors",
-      "startTime": "02:30:00 PM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/06A6yIxCSA2edqg_TfCC6g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133884_english_hls_0f80490ec437875ta-di_h264/index.m3u8"
     },
     {
       "id": 135842,
@@ -270,18 +256,6 @@
       "startTime": "07:30:00 PM 26-08-2025"
     },
     {
-      "id": 134945,
-      "event_category": "Football",
-      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
-      "team_1": "Albacete",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Racing de Santander",
-      "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
       "id": 133755,
       "event_category": "Cricket",
       "title": "Germany Women vs Italy Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
@@ -292,6 +266,18 @@
       "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
       "match_name": "Germany Women vs Italy Women",
       "startTime": "02:30:00 PM 26-08-2025"
+    },
+    {
+      "id": 134945,
+      "event_category": "Football",
+      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+      "team_1": "Albacete",
+      "team_2": "Racing de Santander",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Racing de Santander",
+      "startTime": "11:00:00 PM 25-08-2025"
     },
     {
       "id": 133694,
@@ -366,18 +352,6 @@
       "startTime": "10:15:00 PM 26-08-2025"
     },
     {
-      "id": 132884,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Cincinnati Reds",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
-      "startTime": "07:40:00 AM 26-08-2025"
-    },
-    {
       "id": 135801,
       "event_category": "Cricket",
       "title": "Desert Vipers Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament, 2025)",
@@ -388,6 +362,18 @@
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "Desert Vipers Development vs Sharjah Warriorz Development",
       "startTime": "10:30:00 PM 26-08-2025"
+    },
+    {
+      "id": 132884,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "07:40:00 AM 26-08-2025"
     }
   ]
 }
