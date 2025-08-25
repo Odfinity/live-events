@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 AM 25-08-2025",
+  "last update time": "12:10 PM 25-08-2025",
   "matches": [
     {
-      "id": 133745,
+      "id": 133746,
       "event_category": "Kabaddi",
-      "title": "Vizianagaram Ninjas vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
-      "team_1": "Vizianagaram Ninjas",
-      "team_2": "Vizag Commandos",
+      "title": "Kurnool Knights vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
+      "team_1": "Kurnool Knights",
+      "team_2": "Amaravati Crushers",
       "status": "LIVE",
       "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Vizianagaram Ninjas vs Vizag Commandos",
-      "startTime": "10:15:00 AM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/aAmp82f_SHSk0LYpPySKkw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133745_english_hls_048a9d0ea852505ta-di_h264/index.m3u8"
+      "match_name": "Kurnool Knights vs Amaravati Crushers",
+      "startTime": "11:45:00 AM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YkX2Kzr2T0KKw7zXe_ziLQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133746_english_hls_b260b5eb8d13786ta-di_h264/index.m3u8"
     },
     {
       "id": 132497,
@@ -90,18 +90,6 @@
       "startTime": "07:15:00 PM 25-08-2025"
     },
     {
-      "id": 132284,
-      "event_category": "Cricket",
-      "title": "Oval Invincibles Women vs London Spirit Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132284_5506_OVI-W_LNS-W_Fc-Web.jpg",
-      "team_1": "Oval Invincibles Women",
-      "team_2": "London Spirit Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Oval Invincibles Women vs London Spirit Women",
-      "startTime": "07:30:00 PM 25-08-2025"
-    },
-    {
       "id": 135842,
       "event_category": "Cricket",
       "title": "Oval Invincibles vs London Spirit (The Hundred, 2025)",
@@ -112,18 +100,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Oval Invincibles vs London Spirit",
       "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
-      "id": 133746,
-      "event_category": "Kabaddi",
-      "title": "Kurnool Knights vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
-      "team_1": "Kurnool Knights",
-      "team_2": "Amaravati Crushers",
-      "status": "UPCOMING",
-      "event_name": "Yuva Andhra Championship, 2025",
-      "match_name": "Kurnool Knights vs Amaravati Crushers",
-      "startTime": "11:45:00 AM 25-08-2025"
     },
     {
       "id": 134892,
@@ -316,6 +292,30 @@
       "event_name": "Delhi Premier League, 2025",
       "match_name": "West Delhi Lions vs Outer Delhi Warriors",
       "startTime": "07:00:00 PM 26-08-2025"
+    },
+    {
+      "id": 132816,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:15:00 PM 26-08-2025"
+    },
+    {
+      "id": 132285,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers Women vs Manchester Originals Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132285_5506_NOS-W_MNR-W_Fc-Web.jpg",
+      "team_1": "Northern Superchargers Women",
+      "team_2": "Manchester Originals Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Northern Superchargers Women vs Manchester Originals Women",
+      "startTime": "07:30:00 PM 26-08-2025"
     }
   ]
 }
