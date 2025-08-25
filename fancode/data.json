@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 PM 25-08-2025",
+  "last update time": "06:27 PM 25-08-2025",
   "matches": [
     {
       "id": 135903,
@@ -28,20 +28,6 @@
       "startTime": "02:00:00 PM 25-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/uUiKMZF0TqmS0e5Ac9sn5Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132497_english_hls_c8d0cdf71999586ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133884,
-      "event_category": "Cricket",
-      "title": "Thrissur Titans vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133884_5600_AKS_TT_fc-Web_1755771731141.jpg",
-      "team_1": "Thrissur Titans",
-      "team_2": "Aries Kollam Sailors",
-      "status": "LIVE",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Thrissur Titans vs Aries Kollam Sailors",
-      "startTime": "02:30:00 PM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/06A6yIxCSA2edqg_TfCC6g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133884_english_hls_0f80490ec437875ta-di_h264/index.m3u8"
     },
     {
       "id": 132813,
@@ -86,15 +72,43 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133692_english_hls_a73a98cc5397712ta-di_h264/index.m3u8"
     },
     {
+      "id": 135798,
+      "event_category": "Cricket",
+      "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
+      "team_1": "Sharjah Warriorz Development",
+      "team_2": "Abu Dhabi Knight Riders Development",
+      "status": "LIVE",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
+      "startTime": "06:30:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4E8PFX4LRVCGxhKcx_ML9Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135798_english_hls_c12dbdcc8a21020ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133884,
+      "event_category": "Cricket",
+      "title": "Thrissur Titans vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133884_5600_AKS_TT_fc-Web_1755771731141.jpg",
+      "team_1": "Thrissur Titans",
+      "team_2": "Aries Kollam Sailors",
+      "status": "LIVE",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Thrissur Titans vs Aries Kollam Sailors",
+      "startTime": "02:30:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/06A6yIxCSA2edqg_TfCC6g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133884_english_hls_0f80490ec437875ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133885,
       "event_category": "Cricket",
-      "title": "Alleppey Ripples vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+      "title": "Adani Trivandrum Royals vs Alleppey Ripples (Kerala Cricket League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg",
-      "team_1": "Alleppey Ripples",
-      "team_2": "Adani Trivandrum Royals",
+      "team_1": "Adani Trivandrum Royals",
+      "team_2": "Alleppey Ripples",
       "status": "UPCOMING",
       "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Alleppey Ripples vs Adani Trivandrum Royals",
+      "match_name": "Adani Trivandrum Royals vs Alleppey Ripples",
       "startTime": "06:45:00 PM 25-08-2025"
     },
     {
@@ -158,16 +172,16 @@
       "startTime": "02:30:00 PM 26-08-2025"
     },
     {
-      "id": 135798,
+      "id": 132815,
       "event_category": "Cricket",
-      "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
-      "team_1": "Sharjah Warriorz Development",
-      "team_2": "Abu Dhabi Knight Riders Development",
+      "title": "TBC vs TBC (Maharaja T20 Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
-      "startTime": "06:30:00 PM 25-08-2025"
+      "event_name": "Maharaja T20 Trophy, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "03:15:00 PM 26-08-2025"
     },
     {
       "id": 133693,
@@ -206,18 +220,6 @@
       "startTime": "11:00:00 PM 25-08-2025"
     },
     {
-      "id": 132815,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Maharaja T20 Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "03:15:00 PM 26-08-2025"
-    },
-    {
       "id": 130840,
       "event_category": "Football",
       "title": "Sevilla vs Getafe (LALIGA 2025-26)",
@@ -228,30 +230,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Sevilla vs Getafe",
       "startTime": "01:00:00 AM 26-08-2025"
-    },
-    {
-      "id": 134945,
-      "event_category": "Football",
-      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
-      "team_1": "Albacete",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Racing de Santander",
-      "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
-      "id": 134894,
-      "event_category": "Cricket",
-      "title": "Valley vs Sandgate-Redcliffe (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134894_5623_VLY_SGR_Fc-Web_1755807575969.jpg",
-      "team_1": "Valley",
-      "team_2": "Sandgate-Redcliffe",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Valley vs Sandgate-Redcliffe",
-      "startTime": "01:30:00 PM 26-08-2025"
     },
     {
       "id": 133887,
@@ -266,6 +244,18 @@
       "startTime": "06:45:00 PM 26-08-2025"
     },
     {
+      "id": 134894,
+      "event_category": "Cricket",
+      "title": "Valley vs Sandgate-Redcliffe (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134894_5623_VLY_SGR_Fc-Web_1755807575969.jpg",
+      "team_1": "Valley",
+      "team_2": "Sandgate-Redcliffe",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Valley vs Sandgate-Redcliffe",
+      "startTime": "01:30:00 PM 26-08-2025"
+    },
+    {
       "id": 132500,
       "event_category": "Cricket",
       "title": "West Delhi Lions vs Outer Delhi Warriors (Delhi Premier League, 2025)",
@@ -278,16 +268,16 @@
       "startTime": "07:00:00 PM 26-08-2025"
     },
     {
-      "id": 133755,
-      "event_category": "Cricket",
-      "title": "Germany Women vs Italy Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133755_5592_GER-W_ITA-W_fc-web.jpg",
-      "team_1": "Germany Women",
-      "team_2": "Italy Women",
+      "id": 134945,
+      "event_category": "Football",
+      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+      "team_1": "Albacete",
+      "team_2": "Racing de Santander",
       "status": "UPCOMING",
-      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
-      "match_name": "Germany Women vs Italy Women",
-      "startTime": "02:30:00 PM 26-08-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Racing de Santander",
+      "startTime": "11:00:00 PM 25-08-2025"
     },
     {
       "id": 132816,
@@ -300,6 +290,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "07:15:00 PM 26-08-2025"
+    },
+    {
+      "id": 133755,
+      "event_category": "Cricket",
+      "title": "Germany Women vs Italy Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133755_5592_GER-W_ITA-W_fc-web.jpg",
+      "team_1": "Germany Women",
+      "team_2": "Italy Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
+      "match_name": "Germany Women vs Italy Women",
+      "startTime": "02:30:00 PM 26-08-2025"
     },
     {
       "id": 132285,
@@ -362,6 +364,18 @@
       "startTime": "11:00:00 PM 26-08-2025"
     },
     {
+      "id": 133695,
+      "event_category": "Cricket",
+      "title": "Muscat Thunders vs Royal Oman Stallions (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133695_5590_MUT_ROS_fc-Web.jpg",
+      "team_1": "Muscat Thunders",
+      "team_2": "Royal Oman Stallions",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Muscat Thunders vs Royal Oman Stallions",
+      "startTime": "09:00:00 PM 26-08-2025"
+    },
+    {
       "id": 132884,
       "event_category": "Baseball",
       "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
@@ -374,16 +388,28 @@
       "startTime": "07:40:00 AM 26-08-2025"
     },
     {
-      "id": 133695,
+      "id": 132177,
       "event_category": "Cricket",
-      "title": "Muscat Thunders vs Royal Oman Stallions (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133695_5590_MUT_ROS_fc-Web.jpg",
-      "team_1": "Muscat Thunders",
-      "team_2": "Royal Oman Stallions",
+      "title": "Khan Zalmi Kings vs ACE KRM Panthers (KCC T10 Summer League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+      "team_1": "Khan Zalmi Kings",
+      "team_2": "ACE KRM Panthers",
       "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Muscat Thunders vs Royal Oman Stallions",
-      "startTime": "09:00:00 PM 26-08-2025"
+      "event_name": "KCC T10 Summer League, 2025",
+      "match_name": "Khan Zalmi Kings vs ACE KRM Panthers",
+      "startTime": "10:15:00 PM 26-08-2025"
+    },
+    {
+      "id": 135801,
+      "event_category": "Cricket",
+      "title": "Desert Vipers Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-web.jpg",
+      "team_1": "Desert Vipers Development",
+      "team_2": "Sharjah Warriorz Development",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Desert Vipers Development vs Sharjah Warriorz Development",
+      "startTime": "10:30:00 PM 26-08-2025"
     }
   ]
 }
