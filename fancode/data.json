@@ -1,8 +1,20 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:03 PM 25-08-2025",
+  "last update time": "10:23 PM 25-08-2025",
   "matches": [
+    {
+      "id": 130842,
+      "event_category": "Football",
+      "title": "Athletic Club vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
+      "team_1": "Athletic Club",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs Rayo Vallecano",
+      "startTime": "11:00:00 PM 25-08-2025"
+    },
     {
       "id": 133885,
       "event_category": "Cricket",
@@ -60,20 +72,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133791_english_hls_7fd892374e29457ta-di_h264/index.m3u8"
     },
     {
-      "id": 135798,
-      "event_category": "Cricket",
-      "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
-      "team_1": "Sharjah Warriorz Development",
-      "team_2": "Abu Dhabi Knight Riders Development",
-      "status": "LIVE",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
-      "startTime": "06:30:00 PM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/4E8PFX4LRVCGxhKcx_ML9Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135798_english_hls_c12dbdcc8a21020ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133693,
       "event_category": "Cricket",
       "title": "IAS Invincibles vs Muscat Thunders (Oman D20 League, 2025)",
@@ -88,28 +86,30 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133693_english_hls_278623fc0391528ta-di_h264/index.m3u8"
     },
     {
-      "id": 135842,
-      "event_category": "Cricket",
-      "title": "Oval Invincibles vs London Spirit (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
-      "team_1": "Oval Invincibles",
-      "team_2": "London Spirit",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Oval Invincibles vs London Spirit",
-      "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
       "id": 135799,
       "event_category": "Cricket",
       "title": "Gulf Giants Development vs Dubai Capitals Development (DP World ILT20 Development Tournament, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/135799_5636_GGD_DCD_fc-web.jpg",
       "team_1": "Gulf Giants Development",
       "team_2": "Dubai Capitals Development",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "Gulf Giants Development vs Dubai Capitals Development",
-      "startTime": "10:30:00 PM 25-08-2025"
+      "startTime": "10:30:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gH1KaI2cTHqKstiFQWDpng/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135799_english_hls_06cc33772a55821ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 135842,
+      "event_category": "Cricket",
+      "title": "London Spirit vs Oval Invincibles (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+      "team_1": "London Spirit",
+      "team_2": "Oval Invincibles",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "London Spirit vs Oval Invincibles",
+      "startTime": "11:00:00 PM 25-08-2025"
     },
     {
       "id": 132499,
@@ -160,6 +160,18 @@
       "startTime": "06:45:00 PM 26-08-2025"
     },
     {
+      "id": 134945,
+      "event_category": "Football",
+      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+      "team_1": "Albacete",
+      "team_2": "Racing de Santander",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Racing de Santander",
+      "startTime": "11:00:00 PM 25-08-2025"
+    },
+    {
       "id": 132500,
       "event_category": "Cricket",
       "title": "West Delhi Lions vs Outer Delhi Warriors (Delhi Premier League, 2025)",
@@ -194,18 +206,6 @@
       "event_name": "The Hundred Women, 2025",
       "match_name": "Northern Superchargers Women vs Manchester Originals Women",
       "startTime": "07:30:00 PM 26-08-2025"
-    },
-    {
-      "id": 130842,
-      "event_category": "Football",
-      "title": "Athletic Club vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
-      "team_1": "Athletic Club",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs Rayo Vallecano",
-      "startTime": "11:00:00 PM 25-08-2025"
     },
     {
       "id": 130840,
@@ -254,18 +254,6 @@
       "event_name": "Oman D20 League, 2025",
       "match_name": "IAS Invincibles vs Yalla Shabab Giants",
       "startTime": "05:00:00 PM 26-08-2025"
-    },
-    {
-      "id": 134945,
-      "event_category": "Football",
-      "title": "Albacete vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
-      "team_1": "Albacete",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Racing de Santander",
-      "startTime": "11:00:00 PM 25-08-2025"
     },
     {
       "id": 135843,
