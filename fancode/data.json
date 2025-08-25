@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:26 PM 25-08-2025",
+  "last update time": "08:58 PM 25-08-2025",
   "matches": [
     {
       "id": 135903,
@@ -74,20 +74,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133791_english_hls_7fd892374e29457ta-di_h264/index.m3u8"
     },
     {
-      "id": 133692,
-      "event_category": "Cricket",
-      "title": "Royal Oman Stallions vs Renaissance Challengers (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133692_5590_RNC_ROS_fc-Web.jpg",
-      "team_1": "Royal Oman Stallions",
-      "team_2": "Renaissance Challengers",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Royal Oman Stallions vs Renaissance Challengers",
-      "startTime": "05:00:00 PM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/X1YPRUxsQv-ry2lqSeK6cg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133692_english_hls_a73a98cc5397712ta-di_h264/index.m3u8"
-    },
-    {
       "id": 135798,
       "event_category": "Cricket",
       "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament, 2025)",
@@ -102,6 +88,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135798_english_hls_c12dbdcc8a21020ta-di_h264/index.m3u8"
     },
     {
+      "id": 133693,
+      "event_category": "Cricket",
+      "title": "Muscat Thunders vs IAS Invincibles (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133693_5590_MUT_IAI_fc-Web.jpg",
+      "team_1": "Muscat Thunders",
+      "team_2": "IAS Invincibles",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Muscat Thunders vs IAS Invincibles",
+      "startTime": "09:00:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Il5UuuIgRbOI1Qi7b8iS4w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133693_english_hls_278623fc0391528ta-di_h264/index.m3u8"
+    },
+    {
       "id": 135842,
       "event_category": "Cricket",
       "title": "Oval Invincibles vs London Spirit (The Hundred, 2025)",
@@ -112,18 +112,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Oval Invincibles vs London Spirit",
       "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
-      "id": 133693,
-      "event_category": "Cricket",
-      "title": "Muscat Thunders vs IAS Invincibles (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133693_5590_MUT_IAI_fc-Web.jpg",
-      "team_1": "Muscat Thunders",
-      "team_2": "IAS Invincibles",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Muscat Thunders vs IAS Invincibles",
-      "startTime": "09:00:00 PM 25-08-2025"
     },
     {
       "id": 132499,
@@ -400,6 +388,66 @@
       "event_name": "KCC T10 Summer League, 2025",
       "match_name": "CECC vs Kuwait Swedish",
       "startTime": "12:15:00 AM 27-08-2025"
+    },
+    {
+      "id": 133470,
+      "event_category": "Football",
+      "title": "Eintracht Braunschweig vs VfB Stuttgart (DFB Pokal 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133470_5570_BRA_STU_Fc-Web.jpg",
+      "team_1": "Eintracht Braunschweig",
+      "team_2": "VfB Stuttgart",
+      "status": "UPCOMING",
+      "event_name": "DFB Pokal 2025-26",
+      "match_name": "Eintracht Braunschweig vs VfB Stuttgart",
+      "startTime": "12:15:00 AM 27-08-2025"
+    },
+    {
+      "id": 134971,
+      "event_category": "Football",
+      "title": "Bournemouth vs Brentford (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Bournemouth",
+      "team_2": "Brentford",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Bournemouth vs Brentford",
+      "startTime": "12:15:00 AM 27-08-2025"
+    },
+    {
+      "id": 134965,
+      "event_category": "Football",
+      "title": "Sunderland vs Huddersfield Town (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Sunderland",
+      "team_2": "Huddersfield Town",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Sunderland vs Huddersfield Town",
+      "startTime": "12:15:00 AM 27-08-2025"
+    },
+    {
+      "id": 134964,
+      "event_category": "Football",
+      "title": "Burnley vs Derby County (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Burnley",
+      "team_2": "Derby County",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Burnley vs Derby County",
+      "startTime": "12:15:00 AM 27-08-2025"
+    },
+    {
+      "id": 134966,
+      "event_category": "Football",
+      "title": "Sheffield Wednesday vs Leeds United (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Sheffield Wednesday",
+      "team_2": "Leeds United",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Sheffield Wednesday vs Leeds United",
+      "startTime": "12:30:00 AM 27-08-2025"
     }
   ]
 }
