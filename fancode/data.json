@@ -1,18 +1,18 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:49 PM 25-08-2025",
+  "last update time": "05:03 PM 25-08-2025",
   "matches": [
     {
       "id": 132497,
       "event_category": "Cricket",
-      "title": "South Delhi Superstarz vs West Delhi Lions (Delhi Premier League, 2025)",
+      "title": "West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
-      "team_1": "South Delhi Superstarz",
-      "team_2": "West Delhi Lions",
+      "team_1": "West Delhi Lions",
+      "team_2": "South Delhi Superstarz",
       "status": "LIVE",
       "event_name": "Delhi Premier League, 2025",
-      "match_name": "South Delhi Superstarz vs West Delhi Lions",
+      "match_name": "West Delhi Lions vs South Delhi Superstarz",
       "startTime": "02:00:00 PM 25-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/uUiKMZF0TqmS0e5Ac9sn5Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132497_english_hls_c8d0cdf71999586ta-di_h264/index.m3u8"
@@ -58,6 +58,20 @@
       "startTime": "03:30:00 PM 25-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/7s81OiApTouqiPRrCV4g5Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133791_english_hls_7fd892374e29457ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133692,
+      "event_category": "Cricket",
+      "title": "Royal Oman Stallions vs Renaissance Challengers (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133692_5590_RNC_ROS_fc-Web.jpg",
+      "team_1": "Royal Oman Stallions",
+      "team_2": "Renaissance Challengers",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Royal Oman Stallions vs Renaissance Challengers",
+      "startTime": "05:00:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/X1YPRUxsQv-ry2lqSeK6cg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133692_english_hls_a73a98cc5397712ta-di_h264/index.m3u8"
     },
     {
       "id": 133885,
@@ -118,18 +132,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Oval Invincibles vs London Spirit",
       "startTime": "11:00:00 PM 25-08-2025"
-    },
-    {
-      "id": 133692,
-      "event_category": "Cricket",
-      "title": "Renaissance Challengers vs Royal Oman Stallions (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133692_5590_RNC_ROS_fc-Web.jpg",
-      "team_1": "Renaissance Challengers",
-      "team_2": "Royal Oman Stallions",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Renaissance Challengers vs Royal Oman Stallions",
-      "startTime": "05:00:00 PM 25-08-2025"
     },
     {
       "id": 132499,
@@ -370,6 +372,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
       "startTime": "07:40:00 AM 26-08-2025"
+    },
+    {
+      "id": 133695,
+      "event_category": "Cricket",
+      "title": "Muscat Thunders vs Royal Oman Stallions (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133695_5590_MUT_ROS_fc-Web.jpg",
+      "team_1": "Muscat Thunders",
+      "team_2": "Royal Oman Stallions",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Muscat Thunders vs Royal Oman Stallions",
+      "startTime": "09:00:00 PM 26-08-2025"
     }
   ]
 }
