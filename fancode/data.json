@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:00 AM 26-08-2025",
+  "last update time": "01:17 AM 26-08-2025",
   "matches": [
-    {
-      "id": 130842,
-      "event_category": "Football",
-      "title": "Athletic Club vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
-      "team_1": "Athletic Club",
-      "team_2": "Rayo Vallecano",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs Rayo Vallecano",
-      "startTime": "11:00:00 PM 25-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130842_english_hls_eaa28cfecb33586adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130842_english_hls_eaa28cfecb33586adfreeta-di_h264/index.m3u8"
-    },
     {
       "id": 130840,
       "event_category": "Football",
@@ -46,20 +32,6 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756186167~acl=/*~id=15462211498301977333034738806510~hmac=1b2c47d4aae560ad12d526a97d2c97e388397c5d4444fd853a7a6a724868371f"
     },
     {
-      "id": 133693,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Muscat Thunders (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133693_5590_MUT_IAI_fc-Web.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Muscat Thunders",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "IAS Invincibles vs Muscat Thunders",
-      "startTime": "09:00:00 PM 25-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Il5UuuIgRbOI1Qi7b8iS4w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133693_english_hls_278623fc0391528ta-di_h264/index.m3u8"
-    },
-    {
       "id": 135799,
       "event_category": "Cricket",
       "title": "Gulf Giants Development vs Dubai Capitals Development (DP World ILT20 Development Tournament, 2025)",
@@ -72,6 +44,20 @@
       "startTime": "10:30:00 PM 25-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/gH1KaI2cTHqKstiFQWDpng/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135799_english_hls_06cc33772a55821ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133693,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Muscat Thunders (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133693_5590_MUT_IAI_fc-Web.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Muscat Thunders",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "IAS Invincibles vs Muscat Thunders",
+      "startTime": "09:00:00 PM 25-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Il5UuuIgRbOI1Qi7b8iS4w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133693_english_hls_278623fc0391528ta-di_h264/index.m3u8"
     },
     {
       "id": 134945,
