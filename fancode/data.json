@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:22 PM 26-08-2025",
+  "last update time": "10:49 PM 26-08-2025",
   "matches": [
     {
       "id": 135843,
@@ -84,20 +84,6 @@
       "startTime": "10:30:00 PM 26-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/0HKXBtFEQym0LVzaAf2SQg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135801_english_hls_41d38d7cd794292ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133756,
-      "event_category": "Cricket",
-      "title": "Netherlands Women vs Ireland Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133756_5592_IR-W_ND-W_fc-web.jpg",
-      "team_1": "Netherlands Women",
-      "team_2": "Ireland Women",
-      "status": "LIVE",
-      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
-      "match_name": "Netherlands Women vs Ireland Women",
-      "startTime": "07:15:00 PM 26-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/S7OG9TDBS9uGk_VRoNRaoA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133756_english_hls_fbc6bb762949437ta-di_h264/index.m3u8"
     },
     {
       "id": 132358,
@@ -446,6 +432,18 @@
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Grimsby Town vs Manchester United",
       "startTime": "12:30:00 AM 28-08-2025"
+    },
+    {
+      "id": 132359,
+      "event_category": "Cricket",
+      "title": "Trinbago Knight Riders vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Trinbago Knight Riders",
+      "team_2": "Antigua & Barbuda Falcons",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Trinbago Knight Riders vs Antigua & Barbuda Falcons",
+      "startTime": "04:30:00 AM 28-08-2025"
     }
   ]
 }
