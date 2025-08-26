@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:30 PM 26-08-2025",
+  "last update time": "04:56 PM 26-08-2025",
   "matches": [
     {
       "id": 132499,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132815_english_hls_1b14a7a03a2170ta-di_h264/index.m3u8"
     },
     {
-      "id": 134894,
-      "event_category": "Cricket",
-      "title": "Valley vs Sandgate-Redcliffe (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134894_5623_VLY_SGR_Fc-Web_1755807575969.jpg",
-      "team_1": "Valley",
-      "team_2": "Sandgate-Redcliffe",
-      "status": "LIVE",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Valley vs Sandgate-Redcliffe",
-      "startTime": "01:30:00 PM 26-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134894_english_hls_2730b8edb049152ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134894_english_hls_2730b8edb049152ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133755,
       "event_category": "Cricket",
       "title": "Germany Women vs Italy Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
@@ -72,6 +58,20 @@
       "startTime": "02:30:00 PM 26-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Yor3YsAWT9OzWpLs3qe8EA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133755_english_hls_5543f2af0287853ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133694,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133694_5590_IAI_YSG_fc-Web.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Yalla Shabab Giants",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "IAS Invincibles vs Yalla Shabab Giants",
+      "startTime": "05:00:00 PM 26-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/xdktJDMcTM-KFdN5XKoWUA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133694_english_hls_cc1a6b253635869ta-di_h264/index.m3u8"
     },
     {
       "id": 133887,
@@ -146,16 +146,16 @@
       "startTime": "04:30:00 AM 27-08-2025"
     },
     {
-      "id": 133694,
+      "id": 132501,
       "event_category": "Cricket",
-      "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133694_5590_IAI_YSG_fc-Web.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Yalla Shabab Giants",
+      "title": "Purani Delhi 6 vs South Delhi Superstarz (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132501_5521_PD_SDS_fc-Web.jpg",
+      "team_1": "Purani Delhi 6",
+      "team_2": "South Delhi Superstarz",
       "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "IAS Invincibles vs Yalla Shabab Giants",
-      "startTime": "05:00:00 PM 26-08-2025"
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "Purani Delhi 6 vs South Delhi Superstarz",
+      "startTime": "02:00:00 PM 27-08-2025"
     },
     {
       "id": 135800,
@@ -218,16 +218,16 @@
       "startTime": "10:30:00 PM 26-08-2025"
     },
     {
-      "id": 132501,
+      "id": 133888,
       "event_category": "Cricket",
-      "title": "Purani Delhi 6 vs South Delhi Superstarz (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132501_5521_PD_SDS_fc-Web.jpg",
-      "team_1": "Purani Delhi 6",
-      "team_2": "South Delhi Superstarz",
+      "title": "Calicut Globstars vs Kochi Blue Tigers (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133888_5600_CG_KBT_fc-Web_1755771731145.jpg",
+      "team_1": "Calicut Globstars",
+      "team_2": "Kochi Blue Tigers",
       "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Purani Delhi 6 vs South Delhi Superstarz",
-      "startTime": "02:00:00 PM 27-08-2025"
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Calicut Globstars vs Kochi Blue Tigers",
+      "startTime": "02:30:00 PM 27-08-2025"
     },
     {
       "id": 132178,
@@ -314,18 +314,6 @@
       "startTime": "12:30:00 AM 27-08-2025"
     },
     {
-      "id": 133888,
-      "event_category": "Cricket",
-      "title": "Calicut Globstars vs Kochi Blue Tigers (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133888_5600_CG_KBT_fc-Web_1755771731145.jpg",
-      "team_1": "Calicut Globstars",
-      "team_2": "Kochi Blue Tigers",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Calicut Globstars vs Kochi Blue Tigers",
-      "startTime": "02:30:00 PM 27-08-2025"
-    },
-    {
       "id": 134895,
       "event_category": "Cricket",
       "title": "Toombul vs Western Suburbs (KFC T20 Max, 2025)",
@@ -338,18 +326,6 @@
       "startTime": "01:30:00 PM 27-08-2025"
     },
     {
-      "id": 133757,
-      "event_category": "Cricket",
-      "title": "Germany Women vs Netherlands Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133757_5592_GER-W_ND-W_fc-web.jpg",
-      "team_1": "Germany Women",
-      "team_2": "Netherlands Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
-      "match_name": "Germany Women vs Netherlands Women",
-      "startTime": "02:30:00 PM 27-08-2025"
-    },
-    {
       "id": 133889,
       "event_category": "Cricket",
       "title": "Adani Trivandrum Royals vs Thrissur Titans (Kerala Cricket League, 2025)",
@@ -360,6 +336,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Adani Trivandrum Royals vs Thrissur Titans",
       "startTime": "06:45:00 PM 27-08-2025"
+    },
+    {
+      "id": 133757,
+      "event_category": "Cricket",
+      "title": "Germany Women vs Netherlands Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133757_5592_GER-W_ND-W_fc-web.jpg",
+      "team_1": "Germany Women",
+      "team_2": "Netherlands Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
+      "match_name": "Germany Women vs Netherlands Women",
+      "startTime": "02:30:00 PM 27-08-2025"
     },
     {
       "id": 132502,
@@ -456,6 +444,18 @@
       "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
       "match_name": "Italy Women vs Ireland Women",
       "startTime": "07:15:00 PM 27-08-2025"
+    },
+    {
+      "id": 135844,
+      "event_category": "Cricket",
+      "title": "Trent Rockets vs Birmingham Phoenix (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132252_5505_TRT_BPH_fc-web.jpg",
+      "team_1": "Trent Rockets",
+      "team_2": "Birmingham Phoenix",
+      "status": "UPCOMING",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Trent Rockets vs Birmingham Phoenix",
+      "startTime": "11:00:00 PM 27-08-2025"
     }
   ]
 }
