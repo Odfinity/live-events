@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 26-08-2025",
+  "last update time": "06:27 PM 26-08-2025",
   "matches": [
     {
       "id": 133886,
@@ -44,6 +44,20 @@
       "startTime": "05:00:00 PM 26-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/xdktJDMcTM-KFdN5XKoWUA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133694_english_hls_cc1a6b253635869ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 135800,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi Knight Riders Development vs MI Emirates Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135800_5636_ADK_MED_fc-web.jpg",
+      "team_1": "Abu Dhabi Knight Riders Development",
+      "team_2": "MI Emirates Development",
+      "status": "LIVE",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Abu Dhabi Knight Riders Development vs MI Emirates Development",
+      "startTime": "06:30:00 PM 26-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/VWN4eskdRsCwWC-crukLAw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135800_english_hls_a8a881fbbe89288ta-di_h264/index.m3u8"
     },
     {
       "id": 133887,
@@ -118,6 +132,18 @@
       "startTime": "04:30:00 AM 27-08-2025"
     },
     {
+      "id": 133756,
+      "event_category": "Cricket",
+      "title": "Netherlands Women vs Ireland Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133756_5592_IR-W_ND-W_fc-web.jpg",
+      "team_1": "Netherlands Women",
+      "team_2": "Ireland Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
+      "match_name": "Netherlands Women vs Ireland Women",
+      "startTime": "07:15:00 PM 26-08-2025"
+    },
+    {
       "id": 132501,
       "event_category": "Cricket",
       "title": "Purani Delhi 6 vs South Delhi Superstarz (Delhi Premier League, 2025)",
@@ -140,30 +166,6 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Calicut Globstars vs Kochi Blue Tigers",
       "startTime": "02:30:00 PM 27-08-2025"
-    },
-    {
-      "id": 135800,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi Knight Riders Development vs MI Emirates Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135800_5636_ADK_MED_fc-web.jpg",
-      "team_1": "Abu Dhabi Knight Riders Development",
-      "team_2": "MI Emirates Development",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Abu Dhabi Knight Riders Development vs MI Emirates Development",
-      "startTime": "06:30:00 PM 26-08-2025"
-    },
-    {
-      "id": 133756,
-      "event_category": "Cricket",
-      "title": "Ireland Women vs Netherlands Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133756_5592_IR-W_ND-W_fc-web.jpg",
-      "team_1": "Ireland Women",
-      "team_2": "Netherlands Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
-      "match_name": "Ireland Women vs Netherlands Women",
-      "startTime": "07:15:00 PM 26-08-2025"
     },
     {
       "id": 133695,
@@ -241,7 +243,7 @@
       "id": 134971,
       "event_category": "Football",
       "title": "Bournemouth vs Brentford (Carabao Cup 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1/134971_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134971_5488_BOU_BRE_fc-web.jpg",
       "team_1": "Bournemouth",
       "team_2": "Brentford",
       "status": "UPCOMING",
@@ -286,18 +288,6 @@
       "startTime": "12:30:00 AM 27-08-2025"
     },
     {
-      "id": 134895,
-      "event_category": "Cricket",
-      "title": "Toombul vs Western Suburbs (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Toombul",
-      "team_2": "Western Suburbs",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Toombul vs Western Suburbs",
-      "startTime": "01:30:00 PM 27-08-2025"
-    },
-    {
       "id": 133889,
       "event_category": "Cricket",
       "title": "Adani Trivandrum Royals vs Thrissur Titans (Kerala Cricket League, 2025)",
@@ -308,6 +298,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Adani Trivandrum Royals vs Thrissur Titans",
       "startTime": "06:45:00 PM 27-08-2025"
+    },
+    {
+      "id": 134895,
+      "event_category": "Cricket",
+      "title": "Toombul vs Western Suburbs (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Toombul",
+      "team_2": "Western Suburbs",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Toombul vs Western Suburbs",
+      "startTime": "01:30:00 PM 27-08-2025"
     },
     {
       "id": 132502,
@@ -322,18 +324,6 @@
       "startTime": "07:00:00 PM 27-08-2025"
     },
     {
-      "id": 133757,
-      "event_category": "Cricket",
-      "title": "Germany Women vs Netherlands Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133757_5592_GER-W_ND-W_fc-web.jpg",
-      "team_1": "Germany Women",
-      "team_2": "Netherlands Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
-      "match_name": "Germany Women vs Netherlands Women",
-      "startTime": "02:30:00 PM 27-08-2025"
-    },
-    {
       "id": 132817,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Maharaja T20 Trophy, 2025)",
@@ -344,6 +334,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "07:15:00 PM 27-08-2025"
+    },
+    {
+      "id": 133757,
+      "event_category": "Cricket",
+      "title": "Germany Women vs Netherlands Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133757_5592_GER-W_ND-W_fc-web.jpg",
+      "team_1": "Germany Women",
+      "team_2": "Netherlands Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
+      "match_name": "Germany Women vs Netherlands Women",
+      "startTime": "02:30:00 PM 27-08-2025"
     },
     {
       "id": 132286,
@@ -428,6 +430,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Trent Rockets vs Birmingham Phoenix",
       "startTime": "11:00:00 PM 27-08-2025"
+    },
+    {
+      "id": 132885,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132885_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "07:40:00 AM 27-08-2025"
     }
   ]
 }
