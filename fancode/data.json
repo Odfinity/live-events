@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:14 PM 26-08-2025",
+  "last update time": "03:27 PM 26-08-2025",
   "matches": [
     {
       "id": 132499,
@@ -34,13 +34,13 @@
     {
       "id": 132815,
       "event_category": "Cricket",
-      "title": "Mangaluru Dragons vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
+      "title": "Hubli Tigers vs Mangaluru Dragons (Maharaja T20 Trophy, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132802_5530_MD_HT_fc-Web_1755374793036.jpg",
-      "team_1": "Mangaluru Dragons",
-      "team_2": "Hubli Tigers",
+      "team_1": "Hubli Tigers",
+      "team_2": "Mangaluru Dragons",
       "status": "LIVE",
       "event_name": "Maharaja T20 Trophy, 2025",
-      "match_name": "Mangaluru Dragons vs Hubli Tigers",
+      "match_name": "Hubli Tigers vs Mangaluru Dragons",
       "startTime": "03:15:00 PM 26-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132815_english_hls_1b14a7a03a2170ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132815_english_hls_1b14a7a03a2170ta-di_h264/index.m3u8"
@@ -362,6 +362,18 @@
       "startTime": "06:45:00 PM 27-08-2025"
     },
     {
+      "id": 132502,
+      "event_category": "Cricket",
+      "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132502_5521_EDR_CDK_fc-Web.jpg",
+      "team_1": "East Delhi Riders",
+      "team_2": "Central Delhi Kings",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "East Delhi Riders vs Central Delhi Kings",
+      "startTime": "07:00:00 PM 27-08-2025"
+    },
+    {
       "id": 133793,
       "event_category": "Cricket",
       "title": "Qatar vs Denmark (ICC CWC Challenge League A, 2024-26)",
@@ -384,18 +396,6 @@
       "event_name": "ICC CWC Challenge League A, 2024-26",
       "match_name": "Papua New Guinea vs Kenya",
       "startTime": "03:30:00 PM 27-08-2025"
-    },
-    {
-      "id": 132502,
-      "event_category": "Cricket",
-      "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132502_5521_EDR_CDK_fc-Web.jpg",
-      "team_1": "East Delhi Riders",
-      "team_2": "Central Delhi Kings",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "East Delhi Riders vs Central Delhi Kings",
-      "startTime": "07:00:00 PM 27-08-2025"
     },
     {
       "id": 132817,
@@ -446,16 +446,16 @@
       "startTime": "06:30:00 PM 27-08-2025"
     },
     {
-      "id": 132885,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132885_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Cincinnati Reds",
+      "id": 133758,
+      "event_category": "Cricket",
+      "title": "Italy Women vs Ireland Women (ICC Women’s T20 WC Europe Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133758_5592_ITA-W_IR-W_fc-web.jpg",
+      "team_1": "Italy Women",
+      "team_2": "Ireland Women",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
-      "startTime": "07:40:00 AM 27-08-2025"
+      "event_name": "ICC Women’s T20 WC Europe Qualifier Division 1",
+      "match_name": "Italy Women vs Ireland Women",
+      "startTime": "07:15:00 PM 27-08-2025"
     }
   ]
 }
