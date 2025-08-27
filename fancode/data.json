@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:26 AM 27-08-2025",
+  "last update time": "09:07 AM 27-08-2025",
   "matches": [
-    {
-      "id": 132358,
-      "event_category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132358_5512_SLK_GUY_fc-web.jpg",
-      "team_1": "Guyana Amazon Warriors",
-      "team_2": "Saint Lucia Kings",
-      "status": "LIVE",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Guyana Amazon Warriors vs Saint Lucia Kings",
-      "startTime": "04:30:00 AM 27-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/1fsKtr_YSye9Y-R6YOo7pQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132358_english_hls_00db99044721013ta-di_h264/index.m3u8"
-    },
     {
       "id": 132885,
       "event_category": "Baseball",
@@ -320,6 +306,18 @@
       "startTime": "02:30:00 PM 28-08-2025"
     },
     {
+      "id": 135852,
+      "event_category": "Golf",
+      "title": "The Dutch Futures vs Netherlands (The Dutch Futures)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+      "team_1": "The Dutch Futures",
+      "team_2": "Netherlands",
+      "status": "UPCOMING",
+      "event_name": "The Dutch Futures",
+      "match_name": "The Dutch Futures",
+      "startTime": "03:25:00 PM 27-08-2025"
+    },
+    {
       "id": 132886,
       "event_category": "Baseball",
       "title": "New York Yankees vs Washington Nationals (Major League Baseball, 2025)",
@@ -354,18 +352,6 @@
       "event_name": "KFC T20 Max, 2025",
       "match_name": "University Of Queensland vs Wynnum-Manly",
       "startTime": "02:00:00 PM 28-08-2025"
-    },
-    {
-      "id": 135854,
-      "event_category": "Kabaddi",
-      "title": "Jogulamba Lions vs Ananthagiri Hawks (Yuva Telangana Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-      "team_1": "Jogulamba Lions",
-      "team_2": "Ananthagiri Hawks",
-      "status": "UPCOMING",
-      "event_name": "Yuva Telangana Championship, 2025",
-      "match_name": "Jogulamba Lions vs Ananthagiri Hawks",
-      "startTime": "09:30:00 AM 28-08-2025"
     }
   ]
 }
