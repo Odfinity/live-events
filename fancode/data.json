@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:20 AM 28-08-2025",
+  "last update time": "01:54 AM 28-08-2025",
   "matches": [
     {
       "id": 134968,
@@ -144,6 +144,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132886_english_hls_c5f5b36e0d35293ta-di_h264/index.m3u8"
     },
     {
+      "id": 132887,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs San Diego Padres (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "San Diego Padres",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs San Diego Padres",
+      "startTime": "01:40:00 AM 28-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132359,
       "event_category": "Cricket",
       "title": "Trinbago Knight Riders vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
@@ -216,18 +230,6 @@
       "startTime": "07:30:00 PM 28-08-2025"
     },
     {
-      "id": 136207,
-      "event_category": "Cricket",
-      "title": "Altruistian vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Altruistian",
-      "team_2": "Chandigarh Kings",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Altruistian vs Chandigarh Kings",
-      "startTime": "10:00:00 AM 28-08-2025"
-    },
-    {
       "id": 135845,
       "event_category": "Cricket",
       "title": "Southern Brave vs Welsh Fire (The Hundred, 2025)",
@@ -238,6 +240,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Southern Brave vs Welsh Fire",
       "startTime": "11:00:00 PM 28-08-2025"
+    },
+    {
+      "id": 136207,
+      "event_category": "Cricket",
+      "title": "Altruistian vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Altruistian",
+      "team_2": "Chandigarh Kings",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Altruistian vs Chandigarh Kings",
+      "startTime": "10:00:00 AM 28-08-2025"
     },
     {
       "id": 135814,
@@ -324,18 +338,6 @@
       "startTime": "09:00:00 PM 28-08-2025"
     },
     {
-      "id": 132887,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs San Diego Padres (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "San Diego Padres",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs San Diego Padres",
-      "startTime": "01:40:00 AM 28-08-2025"
-    },
-    {
       "id": 132360,
       "event_category": "Cricket",
       "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
@@ -382,6 +384,30 @@
       "event_name": "Omega European Masters 2025",
       "match_name": "Day 1",
       "startTime": "05:00:00 PM 28-08-2025"
+    },
+    {
+      "id": 136273,
+      "event_category": "Football",
+      "title": "Al-Ahli vs NEOM (Saudi Pro League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Al-Ahli",
+      "team_2": "NEOM",
+      "status": "UPCOMING",
+      "event_name": "Saudi Pro League 2025-2026",
+      "match_name": "Al-Ahli vs NEOM",
+      "startTime": "11:30:00 PM 28-08-2025"
+    },
+    {
+      "id": 136272,
+      "event_category": "Football",
+      "title": "Al-Ettifaq vs Al-Kholood (Saudi Pro League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Al-Ettifaq",
+      "team_2": "Al-Kholood",
+      "status": "UPCOMING",
+      "event_name": "Saudi Pro League 2025-2026",
+      "match_name": "Al-Ettifaq vs Al-Kholood",
+      "startTime": "11:30:00 PM 28-08-2025"
     }
   ]
 }
