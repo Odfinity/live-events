@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:17 PM 27-08-2025",
+  "last update time": "06:48 PM 27-08-2025",
   "matches": [
-    {
-      "id": 132501,
-      "event_category": "Cricket",
-      "title": "Purani Delhi 6 vs South Delhi Superstarz (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132501_5521_PD_SDS_fc-Web.jpg",
-      "team_1": "Purani Delhi 6",
-      "team_2": "South Delhi Superstarz",
-      "status": "LIVE",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "Purani Delhi 6 vs South Delhi Superstarz",
-      "startTime": "02:00:00 PM 27-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Dun24EzpQEanqIOgPPU9mA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132501_english_hls_7ae7504f0c37814ta-di_h264/index.m3u8"
-    },
     {
       "id": 133888,
       "event_category": "Cricket",
@@ -30,6 +16,34 @@
       "startTime": "02:30:00 PM 27-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/9MdaEscpT3y2qopwx6BzHw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133888_english_hls_252d5b8f8b17607ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133889,
+      "event_category": "Cricket",
+      "title": "Thrissur Titans vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133889_5600_TR_TT_fc-Web_1756275176734.jpg",
+      "team_1": "Thrissur Titans",
+      "team_2": "Adani Trivandrum Royals",
+      "status": "LIVE",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Thrissur Titans vs Adani Trivandrum Royals",
+      "startTime": "06:45:00 PM 27-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9liMhPonSdaKUmT9HwnHHw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133889_english_hls_eac3d9cb4b86125ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132502,
+      "event_category": "Cricket",
+      "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132502_5521_EDR_CDK_fc-Web.jpg",
+      "team_1": "East Delhi Riders",
+      "team_2": "Central Delhi Kings",
+      "status": "LIVE",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "East Delhi Riders vs Central Delhi Kings",
+      "startTime": "07:00:00 PM 27-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/SjpMButLSPWtp4fe8fq2bg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132502_english_hls_cbb832147828369ta-di_h264/index.m3u8"
     },
     {
       "id": 133793,
@@ -72,30 +86,6 @@
       "startTime": "06:30:00 PM 27-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/nP3H9_9sTdq6o5jpE7Bvvg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135802_english_hls_07e2e459dd20368ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133889,
-      "event_category": "Cricket",
-      "title": "Adani Trivandrum Royals vs Thrissur Titans (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133889_5600_TR_TT_fc-Web_1756275176734.jpg",
-      "team_1": "Adani Trivandrum Royals",
-      "team_2": "Thrissur Titans",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Adani Trivandrum Royals vs Thrissur Titans",
-      "startTime": "06:45:00 PM 27-08-2025"
-    },
-    {
-      "id": 132502,
-      "event_category": "Cricket",
-      "title": "East Delhi Riders vs Central Delhi Kings (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132502_5521_EDR_CDK_fc-Web.jpg",
-      "team_1": "East Delhi Riders",
-      "team_2": "Central Delhi Kings",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "East Delhi Riders vs Central Delhi Kings",
-      "startTime": "07:00:00 PM 27-08-2025"
     },
     {
       "id": 132817,
@@ -444,6 +434,18 @@
       "event_name": "Yuva Telangana Championship, 2025",
       "match_name": "Jogulamba Lions vs Satavahana Sainikas",
       "startTime": "05:15:00 PM 28-08-2025"
+    },
+    {
+      "id": 133697,
+      "event_category": "Cricket",
+      "title": "Majees Titans vs IAS Invincibles (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133697_5590_MAT_IAI_fc-Web.jpg",
+      "team_1": "Majees Titans",
+      "team_2": "IAS Invincibles",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Majees Titans vs IAS Invincibles",
+      "startTime": "09:00:00 PM 28-08-2025"
     }
   ]
 }
