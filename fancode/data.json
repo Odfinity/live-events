@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:27 PM 27-08-2025",
+  "last update time": "07:55 PM 27-08-2025",
   "matches": [
     {
       "id": 136187,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132286_5506_TRT-W_BPH-W_Fc-Web.jpg",
       "team_1": "Birmingham Phoenix Women",
       "team_2": "Trent Rockets Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "The Hundred Women, 2025",
       "match_name": "Birmingham Phoenix Women vs Trent Rockets Women",
-      "startTime": "07:30:00 PM 27-08-2025"
+      "startTime": "07:30:00 PM 27-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756346303~acl=/*~id=56802678666391252943067849067039~hmac=579d9d1128e3630cb471849b468be67d776ff83830056c1a7d705b15ae7a0079"
     },
     {
       "id": 133889,
@@ -246,18 +248,6 @@
       "startTime": "12:30:00 AM 28-08-2025"
     },
     {
-      "id": 135814,
-      "event_category": "Cricket",
-      "title": "University of Queensland Women vs Wynnum-Manly Women (KFC Women's T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
-      "team_1": "University of Queensland Women",
-      "team_2": "Wynnum-Manly Women",
-      "status": "UPCOMING",
-      "event_name": "KFC Women's T20 Max, 2025",
-      "match_name": "University of Queensland Women vs Wynnum-Manly Women",
-      "startTime": "10:30:00 AM 28-08-2025"
-    },
-    {
       "id": 132818,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Maharaja T20 Trophy, 2025)",
@@ -268,6 +258,18 @@
       "event_name": "Maharaja T20 Trophy, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "06:30:00 PM 28-08-2025"
+    },
+    {
+      "id": 135814,
+      "event_category": "Cricket",
+      "title": "University of Queensland Women vs Wynnum-Manly Women (KFC Women's T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
+      "team_1": "University of Queensland Women",
+      "team_2": "Wynnum-Manly Women",
+      "status": "UPCOMING",
+      "event_name": "KFC Women's T20 Max, 2025",
+      "match_name": "University of Queensland Women vs Wynnum-Manly Women",
+      "startTime": "10:30:00 AM 28-08-2025"
     },
     {
       "id": 133891,
