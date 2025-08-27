@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:27 AM 28-08-2025",
+  "last update time": "12:50 AM 28-08-2025",
   "matches": [
     {
       "id": 134968,
@@ -32,20 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133467_english_hls_90a1f62a0d20245ta-di_h264/index.m3u8"
     },
     {
-      "id": 135844,
-      "event_category": "Cricket",
-      "title": "Birmingham Phoenix vs Trent Rockets (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132252_5505_TRT_BPH_fc-web.jpg",
-      "team_1": "Birmingham Phoenix",
-      "team_2": "Trent Rockets",
-      "status": "LIVE",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Birmingham Phoenix vs Trent Rockets",
-      "startTime": "11:00:00 PM 27-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756359196~acl=/*~id=94766703288827387951265405036619~hmac=3191783ef646ae67bf9a3e7c07443f4a5790c6d43a5b7d14137c9a4dcd7834db"
-    },
-    {
       "id": 130888,
       "event_category": "Football",
       "title": "Celta de Vigo vs Real Betis (LALIGA 2025-26)",
@@ -58,6 +44,20 @@
       "startTime": "12:30:00 AM 28-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130888_english_hls_69c98c05a775104adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130888_english_hls_69c98c05a775104adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 135844,
+      "event_category": "Cricket",
+      "title": "Birmingham Phoenix vs Trent Rockets (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132252_5505_TRT_BPH_fc-web.jpg",
+      "team_1": "Birmingham Phoenix",
+      "team_2": "Trent Rockets",
+      "status": "LIVE",
+      "event_name": "The Hundred, 2025",
+      "match_name": "Birmingham Phoenix vs Trent Rockets",
+      "startTime": "11:00:00 PM 27-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756359196~acl=/*~id=94766703288827387951265405036619~hmac=3191783ef646ae67bf9a3e7c07443f4a5790c6d43a5b7d14137c9a4dcd7834db"
     },
     {
       "id": 134969,
@@ -240,18 +240,6 @@
       "startTime": "10:30:00 AM 28-08-2025"
     },
     {
-      "id": 134899,
-      "event_category": "Cricket",
-      "title": "University Of Queensland vs Wynnum-Manly (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134899_5623_UOQ_WYN_Fc-Web_1755807575943.jpg",
-      "team_1": "University Of Queensland",
-      "team_2": "Wynnum-Manly",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "University Of Queensland vs Wynnum-Manly",
-      "startTime": "02:00:00 PM 28-08-2025"
-    },
-    {
       "id": 135845,
       "event_category": "Cricket",
       "title": "Southern Brave vs Welsh Fire (The Hundred, 2025)",
@@ -262,6 +250,18 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Southern Brave vs Welsh Fire",
       "startTime": "11:00:00 PM 28-08-2025"
+    },
+    {
+      "id": 134899,
+      "event_category": "Cricket",
+      "title": "University Of Queensland vs Wynnum-Manly (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134899_5623_UOQ_WYN_Fc-Web_1755807575943.jpg",
+      "team_1": "University Of Queensland",
+      "team_2": "Wynnum-Manly",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "University Of Queensland vs Wynnum-Manly",
+      "startTime": "02:00:00 PM 28-08-2025"
     },
     {
       "id": 136208,
@@ -324,18 +324,6 @@
       "startTime": "09:00:00 PM 28-08-2025"
     },
     {
-      "id": 132360,
-      "event_category": "Cricket",
-      "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Saint Lucia Kings",
-      "team_2": "St Kitts and Nevis Patriots",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Saint Lucia Kings vs St Kitts and Nevis Patriots",
-      "startTime": "04:30:00 AM 29-08-2025"
-    },
-    {
       "id": 132887,
       "event_category": "Baseball",
       "title": "Seattle Mariners vs San Diego Padres (Major League Baseball, 2025)",
@@ -346,6 +334,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Seattle Mariners vs San Diego Padres",
       "startTime": "01:40:00 AM 28-08-2025"
+    },
+    {
+      "id": 132360,
+      "event_category": "Cricket",
+      "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Saint Lucia Kings",
+      "team_2": "St Kitts and Nevis Patriots",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Saint Lucia Kings vs St Kitts and Nevis Patriots",
+      "startTime": "04:30:00 AM 29-08-2025"
     },
     {
       "id": 132888,
