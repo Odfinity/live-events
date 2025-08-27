@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:52 AM 28-08-2025",
+  "last update time": "03:08 AM 28-08-2025",
   "matches": [
-    {
-      "id": 134968,
-      "event_category": "Football",
-      "title": "Grimsby Town vs Manchester United (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134968_5488_GR_MUN_fc-web.jpg",
-      "team_1": "Grimsby Town",
-      "team_2": "Manchester United",
-      "status": "LIVE",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Grimsby Town vs Manchester United",
-      "startTime": "12:30:00 AM 28-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/SWp-2JPLS0eWdYczRFAnow/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134968_english_hls_91f803b36782787ta-di_h264/index.m3u8"
-    },
     {
       "id": 133759,
       "event_category": "Cricket",
@@ -44,20 +30,6 @@
       "startTime": "01:40:00 AM 28-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130888,
-      "event_category": "Football",
-      "title": "Celta de Vigo vs Real Betis (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Celta-de-Vigo-vs-Real-Betis_Old_match-card.jpg",
-      "team_1": "Celta de Vigo",
-      "team_2": "Real Betis",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Celta de Vigo vs Real Betis",
-      "startTime": "12:30:00 AM 28-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130888_english_hls_69c98c05a775104adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130888_english_hls_69c98c05a775104adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 132359,
@@ -334,6 +306,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "San Francisco Giants vs Chicago Cubs",
       "startTime": "01:15:00 AM 29-08-2025"
+    },
+    {
+      "id": 136209,
+      "event_category": "Cricket",
+      "title": "Chandigarh Kings vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Chandigarh Kings",
+      "team_2": "Talanoa Tigers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Chandigarh Kings vs Talanoa Tigers",
+      "startTime": "10:00:00 AM 29-08-2025"
     }
   ]
 }
