@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:22 PM 28-08-2025",
+  "last update time": "02:54 PM 28-08-2025",
   "matches": [
+    {
+      "id": 133890,
+      "event_category": "Cricket",
+      "title": "Kochi Blue Tigers vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1756275176751.jpg",
+      "team_1": "Kochi Blue Tigers",
+      "team_2": "Adani Trivandrum Royals",
+      "status": "LIVE",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Kochi Blue Tigers vs Adani Trivandrum Royals",
+      "startTime": "02:30:00 PM 28-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/d7DZVmOpRQmPysTzLvkgcQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133890_english_hls_6a57cd7a3d63018ta-di_h264/index.m3u8"
+    },
     {
       "id": 136207,
       "event_category": "Cricket",
@@ -28,8 +42,8 @@
       "event_name": "Chandigarh Premier League T20 Tournament, 2025",
       "match_name": "Dr Morepen Dazzlers vs Capital Strikers",
       "startTime": "02:15:00 PM 28-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/JGcXbby6Sua40SkBq1WE3Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136208_english_hls_8ff98f68db26014ta-di_h264/index.m3u8"
     },
     {
       "id": 134899,
@@ -44,18 +58,6 @@
       "startTime": "02:00:00 PM 28-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134899_english_hls_88bef0bf1c63714ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134899_english_hls_88bef0bf1c63714ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133890,
-      "event_category": "Cricket",
-      "title": "Kochi Blue Tigers vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1756275176751.jpg",
-      "team_1": "Kochi Blue Tigers",
-      "team_2": "Adani Trivandrum Royals",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Kochi Blue Tigers vs Adani Trivandrum Royals",
-      "startTime": "02:30:00 PM 28-08-2025"
     },
     {
       "id": 132818,
@@ -132,13 +134,13 @@
     {
       "id": 133795,
       "event_category": "Cricket",
-      "title": "Papua New Guinea vs Jersey (ICC CWC Challenge League A, 2024-26)",
+      "title": "Jersey vs Papua New Guinea (ICC CWC Challenge League A, 2024-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133795_4464_PNG_JER_fc-Web.jpg",
-      "team_1": "Papua New Guinea",
-      "team_2": "Jersey",
+      "team_1": "Jersey",
+      "team_2": "Papua New Guinea",
       "status": "UPCOMING",
       "event_name": "ICC CWC Challenge League A, 2024-26",
-      "match_name": "Papua New Guinea vs Jersey",
+      "match_name": "Jersey vs Papua New Guinea",
       "startTime": "03:30:00 PM 28-08-2025"
     },
     {
@@ -274,16 +276,16 @@
       "startTime": "07:00:00 PM 29-08-2025"
     },
     {
-      "id": 135821,
-      "event_category": "Golf",
-      "title": "Day 1 vs Golf Club Crans-sur-Sierre (Omega European Masters 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Omega_Old_match-card_2.jpg",
-      "team_1": "Day 1",
-      "team_2": "Golf Club Crans-sur-Sierre",
+      "id": 133760,
+      "event_category": "Cricket",
+      "title": "Namibia vs Scotland (ICC CWC League 2, 2023-27)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133760_3908_NAM_SCO_fc-web_1755793966432.jpg",
+      "team_1": "Namibia",
+      "team_2": "Scotland",
       "status": "UPCOMING",
-      "event_name": "Omega European Masters 2025",
-      "match_name": "Day 1",
-      "startTime": "05:00:00 PM 28-08-2025"
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_name": "Namibia vs Scotland",
+      "startTime": "08:00:00 PM 29-08-2025"
     },
     {
       "id": 133698,
@@ -298,40 +300,28 @@
       "startTime": "05:00:00 PM 29-08-2025"
     },
     {
-      "id": 132889,
-      "event_category": "Baseball",
-      "title": "Baltimore Orioles vs Boston Red Sox (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132889_CASACARDS_APP.png",
-      "team_1": "Baltimore Orioles",
-      "team_2": "Boston Red Sox",
+      "id": 135821,
+      "event_category": "Golf",
+      "title": "Day 1 vs Golf Club Crans-sur-Sierre (Omega European Masters 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Omega_Old_match-card_2.jpg",
+      "team_1": "Day 1",
+      "team_2": "Golf Club Crans-sur-Sierre",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Baltimore Orioles vs Boston Red Sox",
-      "startTime": "10:35:00 PM 28-08-2025"
+      "event_name": "Omega European Masters 2025",
+      "match_name": "Day 1",
+      "startTime": "05:00:00 PM 28-08-2025"
     },
     {
-      "id": 133760,
+      "id": 135784,
       "event_category": "Cricket",
-      "title": "Namibia vs Scotland (ICC CWC League 2, 2023-27)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133760_3908_NAM_SCO_fc-web_1755793966432.jpg",
-      "team_1": "Namibia",
-      "team_2": "Scotland",
+      "title": "Afghanistan vs Pakistan (Afghanistan and Pakistan tour of UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Pakistan",
       "status": "UPCOMING",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_name": "Namibia vs Scotland",
-      "startTime": "08:00:00 PM 29-08-2025"
-    },
-    {
-      "id": 132890,
-      "event_category": "Baseball",
-      "title": "San Francisco Giants vs Chicago Cubs (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132890_CASACARDS_APP.png",
-      "team_1": "San Francisco Giants",
-      "team_2": "Chicago Cubs",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Francisco Giants vs Chicago Cubs",
-      "startTime": "01:15:00 AM 29-08-2025"
+      "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
+      "match_name": "Afghanistan vs Pakistan",
+      "startTime": "08:30:00 PM 29-08-2025"
     },
     {
       "id": 134901,
@@ -346,16 +336,40 @@
       "startTime": "02:00:00 PM 29-08-2025"
     },
     {
-      "id": 135784,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Pakistan (Afghanistan and Pakistan tour of UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "Pakistan",
+      "id": 132889,
+      "event_category": "Baseball",
+      "title": "Baltimore Orioles vs Boston Red Sox (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132889_CASACARDS_APP.png",
+      "team_1": "Baltimore Orioles",
+      "team_2": "Boston Red Sox",
       "status": "UPCOMING",
-      "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
-      "match_name": "Afghanistan vs Pakistan",
-      "startTime": "08:30:00 PM 29-08-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Baltimore Orioles vs Boston Red Sox",
+      "startTime": "10:35:00 PM 28-08-2025"
+    },
+    {
+      "id": 132890,
+      "event_category": "Baseball",
+      "title": "San Francisco Giants vs Chicago Cubs (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132890_CASACARDS_APP.png",
+      "team_1": "San Francisco Giants",
+      "team_2": "Chicago Cubs",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Francisco Giants vs Chicago Cubs",
+      "startTime": "01:15:00 AM 29-08-2025"
+    },
+    {
+      "id": 135804,
+      "event_category": "Cricket",
+      "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web.jpg",
+      "team_1": "Sharjah Warriorz Development",
+      "team_2": "Gulf Giants Development",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
+      "startTime": "06:30:00 PM 29-08-2025"
     }
   ]
 }
