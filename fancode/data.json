@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:23 AM 28-08-2025",
+  "last update time": "09:56 AM 28-08-2025",
   "matches": [
+    {
+      "id": 136207,
+      "event_category": "Cricket",
+      "title": "Altruistian vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_APP.png",
+      "team_1": "Altruistian",
+      "team_2": "Chandigarh Kings",
+      "status": "LIVE",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Altruistian vs Chandigarh Kings",
+      "startTime": "10:00:00 AM 28-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/FX5siArUT1mWzJGLc75anw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136207_english_hls_574928817b94826ta-di_h264/index.m3u8"
+    },
     {
       "id": 132888,
       "event_category": "Baseball",
@@ -90,30 +104,6 @@
       "startTime": "11:00:00 PM 28-08-2025"
     },
     {
-      "id": 136207,
-      "event_category": "Cricket",
-      "title": "Altruistian vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Altruistian",
-      "team_2": "Chandigarh Kings",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Altruistian vs Chandigarh Kings",
-      "startTime": "10:00:00 AM 28-08-2025"
-    },
-    {
-      "id": 132360,
-      "event_category": "Cricket",
-      "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Saint Lucia Kings",
-      "team_2": "St Kitts and Nevis Patriots",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Saint Lucia Kings vs St Kitts and Nevis Patriots",
-      "startTime": "04:30:00 AM 29-08-2025"
-    },
-    {
       "id": 135814,
       "event_category": "Cricket",
       "title": "University of Queensland Women vs Wynnum-Manly Women (KFC Women's T20 Max, 2025)",
@@ -124,6 +114,18 @@
       "event_name": "KFC Women's T20 Max, 2025",
       "match_name": "University of Queensland Women vs Wynnum-Manly Women",
       "startTime": "10:30:00 AM 28-08-2025"
+    },
+    {
+      "id": 132360,
+      "event_category": "Cricket",
+      "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132360_CASACARDS_APP.png",
+      "team_1": "Saint Lucia Kings",
+      "team_2": "St Kitts and Nevis Patriots",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Saint Lucia Kings vs St Kitts and Nevis Patriots",
+      "startTime": "04:30:00 AM 29-08-2025"
     },
     {
       "id": 134899,
@@ -222,18 +224,6 @@
       "startTime": "10:00:00 AM 29-08-2025"
     },
     {
-      "id": 136271,
-      "event_category": "Football",
-      "title": "Damac vs Al-Hazem (Saudi Pro League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Damac",
-      "team_2": "Al-Hazem",
-      "status": "UPCOMING",
-      "event_name": "Saudi Pro League 2025-2026",
-      "match_name": "Damac vs Al-Hazem",
-      "startTime": "09:35:00 PM 28-08-2025"
-    },
-    {
       "id": 135815,
       "event_category": "Cricket",
       "title": "Western Suburbs Women vs Valley Women (KFC Women's T20 Max, 2025)",
@@ -244,6 +234,30 @@
       "event_name": "KFC Women's T20 Max, 2025",
       "match_name": "Western Suburbs Women vs Valley Women",
       "startTime": "10:30:00 AM 29-08-2025"
+    },
+    {
+      "id": 132504,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "02:00:00 PM 29-08-2025"
+    },
+    {
+      "id": 136271,
+      "event_category": "Football",
+      "title": "Damac vs Al-Hazem (Saudi Pro League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Damac",
+      "team_2": "Al-Hazem",
+      "status": "UPCOMING",
+      "event_name": "Saudi Pro League 2025-2026",
+      "match_name": "Damac vs Al-Hazem",
+      "startTime": "09:35:00 PM 28-08-2025"
     },
     {
       "id": 136273,
@@ -268,18 +282,6 @@
       "event_name": "Saudi Pro League 2025-2026",
       "match_name": "Al-Ettifaq vs Al-Kholood",
       "startTime": "11:30:00 PM 28-08-2025"
-    },
-    {
-      "id": 132504,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:00:00 PM 29-08-2025"
     },
     {
       "id": 133892,
@@ -340,6 +342,18 @@
       "event_name": "KFC T20 Max, 2025",
       "match_name": "Valley vs Western Suburbs",
       "startTime": "02:00:00 PM 29-08-2025"
+    },
+    {
+      "id": 136210,
+      "event_category": "Cricket",
+      "title": "Capital Strikers vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Capital Strikers",
+      "team_2": "Panchkula Bashers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Capital Strikers vs Panchkula Bashers",
+      "startTime": "02:15:00 PM 29-08-2025"
     }
   ]
 }
