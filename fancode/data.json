@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:50 AM 29-08-2025",
+  "last update time": "04:11 AM 29-08-2025",
   "matches": [
     {
       "id": 132360,
       "event_category": "Cricket",
-      "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
+      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Saint-Lucia-Kings-VS-St-Kitts-and-Nevis-Patriots_old.jpg",
-      "team_1": "Saint Lucia Kings",
-      "team_2": "St Kitts and Nevis Patriots",
-      "status": "UPCOMING",
+      "team_1": "St Kitts and Nevis Patriots",
+      "team_2": "Saint Lucia Kings",
+      "status": "LIVE",
       "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Saint Lucia Kings vs St Kitts and Nevis Patriots",
-      "startTime": "04:30:00 AM 29-08-2025"
+      "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
+      "startTime": "04:30:00 AM 29-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/N-WKwHk0QGeluZ4QQaz5SQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132360_english_hls_a136c3fb5825629ta-di_h264/index.m3u8"
     },
     {
       "id": 133665,
@@ -232,6 +234,18 @@
       "startTime": "11:30:00 PM 29-08-2025"
     },
     {
+      "id": 132361,
+      "event_category": "Cricket",
+      "title": "Trinbago Knight Riders vs Barbados Royals (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Trinbago-Knight-Riders-VS-Barbados-Royals_old.jpg",
+      "team_1": "Trinbago Knight Riders",
+      "team_2": "Barbados Royals",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Trinbago Knight Riders vs Barbados Royals",
+      "startTime": "05:30:00 AM 30-08-2025"
+    },
+    {
       "id": 131998,
       "event_category": "Football",
       "title": "Leicester City vs Birmingham City (EFL Championship 2025-26)",
@@ -256,16 +270,16 @@
       "startTime": "10:30:00 AM 29-08-2025"
     },
     {
-      "id": 132361,
-      "event_category": "Cricket",
-      "title": "Trinbago Knight Riders vs Barbados Royals (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Trinbago-Knight-Riders-VS-Barbados-Royals_old.jpg",
-      "team_1": "Trinbago Knight Riders",
-      "team_2": "Barbados Royals",
+      "id": 130850,
+      "event_category": "Football",
+      "title": "Valencia vs Getafe (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130850_5427_VAL_GEF_fc-Web.jpg",
+      "team_1": "Valencia",
+      "team_2": "Getafe",
       "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Trinbago Knight Riders vs Barbados Royals",
-      "startTime": "05:30:00 AM 30-08-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Valencia vs Getafe",
+      "startTime": "01:00:00 AM 30-08-2025"
     },
     {
       "id": 134901,
@@ -278,18 +292,6 @@
       "event_name": "KFC T20 Max, 2025",
       "match_name": "Valley vs Western Suburbs",
       "startTime": "02:00:00 PM 29-08-2025"
-    },
-    {
-      "id": 130850,
-      "event_category": "Football",
-      "title": "Valencia vs Getafe (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130850_5427_VAL_GEF_fc-Web.jpg",
-      "team_1": "Valencia",
-      "team_2": "Getafe",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Valencia vs Getafe",
-      "startTime": "01:00:00 AM 30-08-2025"
     },
     {
       "id": 135971,
