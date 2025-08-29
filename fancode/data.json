@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:26 AM 30-08-2025",
+  "last update time": "02:51 AM 30-08-2025",
   "matches": [
     {
       "id": 130850,
@@ -16,20 +16,6 @@
       "startTime": "01:00:00 AM 30-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130850_english_hls_d94acf854563105ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130850_english_hls_d94acf854563105ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131998,
-      "event_category": "Football",
-      "title": "Leicester City vs Birmingham City (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Leicester-City-VS-Birmingham-City_old.jpg",
-      "team_1": "Leicester City",
-      "team_2": "Birmingham City",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Leicester City vs Birmingham City",
-      "startTime": "12:30:00 AM 30-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/xqqkzvXQReCs0t_orM-Sgg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131998_english_hls_78c68ac15380163ta-di_h264/index.m3u8"
     },
     {
       "id": 135971,
@@ -240,13 +226,13 @@
     {
       "id": 133700,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Oman D20 League, 2025)",
+      "title": "Royal Oman Stallions vs Majees Titans (Oman D20 League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Royal Oman Stallions",
+      "team_2": "Majees Titans",
       "status": "UPCOMING",
       "event_name": "Oman D20 League, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Royal Oman Stallions vs Majees Titans",
       "startTime": "09:00:00 PM 30-08-2025"
     },
     {
@@ -260,18 +246,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Alavés vs Atlético de Madrid",
       "startTime": "08:30:00 PM 30-08-2025"
-    },
-    {
-      "id": 132088,
-      "event_category": "Football",
-      "title": "Yokohama vs Tokyo Verdy (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
-      "team_1": "Yokohama",
-      "team_2": "Tokyo Verdy",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Yokohama vs Tokyo Verdy",
-      "startTime": "02:30:00 PM 30-08-2025"
     },
     {
       "id": 130857,
@@ -298,6 +272,18 @@
       "startTime": "11:00:00 PM 30-08-2025"
     },
     {
+      "id": 132088,
+      "event_category": "Football",
+      "title": "Yokohama vs Tokyo Verdy (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
+      "team_1": "Yokohama",
+      "team_2": "Tokyo Verdy",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Yokohama vs Tokyo Verdy",
+      "startTime": "02:30:00 PM 30-08-2025"
+    },
+    {
       "id": 130856,
       "event_category": "Football",
       "title": "Girona vs Sevilla (LALIGA 2025-26)",
@@ -308,18 +294,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Girona vs Sevilla",
       "startTime": "11:00:00 PM 30-08-2025"
-    },
-    {
-      "id": 134903,
-      "event_category": "Cricket",
-      "title": "Redlands vs Ipswich (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134903_5623_RLS_IPS_Fc-Web_1755807575945.jpg",
-      "team_1": "Redlands",
-      "team_2": "Ipswich",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Redlands vs Ipswich",
-      "startTime": "08:45:00 AM 30-08-2025"
     },
     {
       "id": 136595,
@@ -344,6 +318,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
       "startTime": "04:30:00 AM 31-08-2025"
+    },
+    {
+      "id": 134903,
+      "event_category": "Cricket",
+      "title": "Redlands vs Ipswich (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134903_5623_RLS_IPS_Fc-Web_1755807575945.jpg",
+      "team_1": "Redlands",
+      "team_2": "Ipswich",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Redlands vs Ipswich",
+      "startTime": "08:45:00 AM 30-08-2025"
     },
     {
       "id": 130851,
