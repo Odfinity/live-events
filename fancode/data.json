@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:29 PM 29-08-2025",
+  "last update time": "10:54 PM 29-08-2025",
   "matches": [
     {
       "id": 136615,
@@ -38,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130854_5427_ELC_LE_fc-Web.jpg",
       "team_1": "Elche",
       "team_2": "Levante",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Elche vs Levante",
-      "startTime": "11:00:00 PM 29-08-2025"
+      "startTime": "11:00:00 PM 29-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130854_english_hls_05e78629de76477adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130854_english_hls_05e78629de76477adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 118452,
@@ -180,6 +182,20 @@
       "startTime": "05:00:00 PM 29-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/oK0Bj3N8Q92jejw4Lpw9yQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135822_english_hls_a83764cde938539ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130856,
+      "event_category": "Football",
+      "title": "Girona vs Sevilla (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130856_5427_GIR_SEV_fc-Web.jpg",
+      "team_1": "Girona",
+      "team_2": "Sevilla",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona vs Sevilla",
+      "startTime": "11:00:00 PM 30-08-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 132361,
@@ -468,18 +484,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs Real Sociedad",
       "startTime": "10:30:00 PM 30-08-2025"
-    },
-    {
-      "id": 135807,
-      "event_category": "Cricket",
-      "title": "Dubai Capitals Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
-      "team_1": "Dubai Capitals Development",
-      "team_2": "Sharjah Warriorz Development",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Dubai Capitals Development vs Sharjah Warriorz Development",
-      "startTime": "11:00:00 PM 30-08-2025"
     }
   ]
 }
