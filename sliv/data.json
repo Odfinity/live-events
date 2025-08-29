@@ -1,8 +1,25 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:23 PM 29-08-2025",
+  "last update time": "11:50 PM 29-08-2025",
   "matches": [
+    {
+      "id": "sl1090487542",
+      "isLive": true,
+      "event": "Bundesliga 2025-26",
+      "match": "Hamburg SV vs St. Pauli - MD 2 - 29 Aug 2025",
+      "Provider": "DFL Deutsche Fubball Liga e.V.",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006898/1755941237780812_Bundesliga_MD2_Hamburg_SV_vs_St_Pauli_hls_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "Volksparkstadion",
+      "TVchannel": "Sony Sports Ten 2",
+      "MaxResolution": "FHD",
+      "SeoTags": "N/A",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090487542.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090487542.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090487542.m3u8"
+    },
     {
       "id": "sl1090487125",
       "isLive": false,
