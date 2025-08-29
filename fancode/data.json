@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:56 AM 30-08-2025",
+  "last update time": "02:11 AM 30-08-2025",
   "matches": [
     {
       "id": 130850,
@@ -16,20 +16,6 @@
       "startTime": "01:00:00 AM 30-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130850_english_hls_d94acf854563105ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130850_english_hls_d94acf854563105ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 135805,
-      "event_category": "Cricket",
-      "title": "Dubai Capitals Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135805_5636_ADK_DCD_fc-web_1756269777735.jpg",
-      "team_1": "Dubai Capitals Development",
-      "team_2": "Abu Dhabi Knight Riders Development",
-      "status": "LIVE",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Dubai Capitals Development vs Abu Dhabi Knight Riders Development",
-      "startTime": "10:30:00 PM 29-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZZPOKpPTSIWU07aida2iBQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135805_english_hls_453a7dd36429390ta-di_h264/index.m3u8"
     },
     {
       "id": 131998,
@@ -312,18 +298,6 @@
       "startTime": "11:00:00 PM 30-08-2025"
     },
     {
-      "id": 134903,
-      "event_category": "Cricket",
-      "title": "Redlands vs Ipswich (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134903_5623_RLS_IPS_Fc-Web_1755807575945.jpg",
-      "team_1": "Redlands",
-      "team_2": "Ipswich",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Redlands vs Ipswich",
-      "startTime": "08:45:00 AM 30-08-2025"
-    },
-    {
       "id": 130856,
       "event_category": "Football",
       "title": "Girona vs Sevilla (LALIGA 2025-26)",
@@ -334,6 +308,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Girona vs Sevilla",
       "startTime": "11:00:00 PM 30-08-2025"
+    },
+    {
+      "id": 134903,
+      "event_category": "Cricket",
+      "title": "Redlands vs Ipswich (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134903_5623_RLS_IPS_Fc-Web_1755807575945.jpg",
+      "team_1": "Redlands",
+      "team_2": "Ipswich",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Redlands vs Ipswich",
+      "startTime": "08:45:00 AM 30-08-2025"
     },
     {
       "id": 136595,
