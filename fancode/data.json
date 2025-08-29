@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:54 PM 29-08-2025",
+  "last update time": "09:10 PM 29-08-2025",
   "matches": [
     {
       "id": 136615,
@@ -44,6 +44,20 @@
       "startTime": "01:00:00 PM 29-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/coLUCm3iQ2KztVgG9Vrxpw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133665_english_hls_1f64ecae8b33591ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136593,
+      "event_category": "Football",
+      "title": "Al-Hilal vs Al-Riyadh (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-VS-Al-Riyadh_old.jpg",
+      "team_1": "Al-Hilal",
+      "team_2": "Al-Riyadh",
+      "status": "LIVE",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Hilal vs Al-Riyadh",
+      "startTime": "09:20:00 PM 29-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4xU2vzUnRTmhAevYrakJyA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136593_english_hls_3a280fa50a59396ta-di_h264/index.m3u8"
     },
     {
       "id": 133893,
@@ -102,20 +116,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135784_english_hls_22dcb0fab991737ta-di_h264/index.m3u8"
     },
     {
-      "id": 133698,
-      "event_category": "Cricket",
-      "title": "Renaissance Challengers vs Muscat Thunders (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133698_5590_MUT_RNC_fc-Web.jpg",
-      "team_1": "Renaissance Challengers",
-      "team_2": "Muscat Thunders",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Renaissance Challengers vs Muscat Thunders",
-      "startTime": "05:00:00 PM 29-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DVjPxvxzSM2nr4iy1ApFJA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133698_english_hls_bfde0dc74346888ta-di_h264/index.m3u8"
-    },
-    {
       "id": 135804,
       "event_category": "Cricket",
       "title": "Gulf Giants Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament, 2025)",
@@ -128,6 +128,20 @@
       "startTime": "06:30:00 PM 29-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/2CUM5ddMSk6ffSrrdf8zVA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135804_english_hls_c596dc18d1173ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133699,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Majees Titans (Oman D20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133699_5590_YSG_MAT_fc-Web.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Majees Titans",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025",
+      "match_name": "Yalla Shabab Giants vs Majees Titans",
+      "startTime": "09:00:00 PM 29-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/VMczQ4IkTz2I3tA4kG774w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133699_english_hls_7785f932d475203ta-di_h264/index.m3u8"
     },
     {
       "id": 135822,
@@ -144,6 +158,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135822_english_hls_a83764cde938539ta-di_h264/index.m3u8"
     },
     {
+      "id": 119128,
+      "event_category": "Motorsports",
+      "title": "Second Practice Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+      "team_1": "Second Practice Session",
+      "team_2": "Zandvoort",
+      "status": "LIVE",
+      "event_name": "F1 ACADEMY NETHERLANDS 2025",
+      "match_name": "Second Practice Session",
+      "startTime": "09:00:00 PM 29-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119128_english_hls_ad2af44fea60887adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119128_english_hls_ad2af44fea60887adfreeta-di_h264/index.m3u8"
+    },
+    {
       "id": 132361,
       "event_category": "Cricket",
       "title": "Trinbago Knight Riders vs Barbados Royals (Caribbean Premier League, 2025)",
@@ -154,30 +182,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Trinbago Knight Riders vs Barbados Royals",
       "startTime": "05:30:00 AM 30-08-2025"
-    },
-    {
-      "id": 133699,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Majees Titans (Oman D20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133699_5590_YSG_MAT_fc-Web.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Majees Titans",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025",
-      "match_name": "Yalla Shabab Giants vs Majees Titans",
-      "startTime": "09:00:00 PM 29-08-2025"
-    },
-    {
-      "id": 136593,
-      "event_category": "Football",
-      "title": "Al-Hilal vs Al-Riyadh (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-VS-Al-Riyadh_old.jpg",
-      "team_1": "Al-Hilal",
-      "team_2": "Al-Riyadh",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Hilal vs Al-Riyadh",
-      "startTime": "09:20:00 PM 29-08-2025"
     },
     {
       "id": 133894,
@@ -228,6 +232,30 @@
       "startTime": "10:30:00 PM 29-08-2025"
     },
     {
+      "id": 132288,
+      "event_category": "Cricket",
+      "title": "Northern Superchargers Women vs London Spirit Women (The Hundred Women, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132277_5506_LNS-W_NOS-W_Fc-Web.jpg",
+      "team_1": "Northern Superchargers Women",
+      "team_2": "London Spirit Women",
+      "status": "UPCOMING",
+      "event_name": "The Hundred Women, 2025",
+      "match_name": "Northern Superchargers Women vs London Spirit Women",
+      "startTime": "06:45:00 PM 30-08-2025"
+    },
+    {
+      "id": 133895,
+      "event_category": "Cricket",
+      "title": "Kochi Blue Tigers vs Thrissur Titans (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133895_5600_KBT_TT_fc-Web_1756275176659.jpg",
+      "team_1": "Kochi Blue Tigers",
+      "team_2": "Thrissur Titans",
+      "status": "UPCOMING",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Kochi Blue Tigers vs Thrissur Titans",
+      "startTime": "06:45:00 PM 30-08-2025"
+    },
+    {
       "id": 130854,
       "event_category": "Football",
       "title": "Elche vs Levante (LALIGA 2025-26)",
@@ -276,30 +304,6 @@
       "startTime": "01:00:00 AM 30-08-2025"
     },
     {
-      "id": 132288,
-      "event_category": "Cricket",
-      "title": "Northern Superchargers Women vs London Spirit Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132277_5506_LNS-W_NOS-W_Fc-Web.jpg",
-      "team_1": "Northern Superchargers Women",
-      "team_2": "London Spirit Women",
-      "status": "UPCOMING",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Northern Superchargers Women vs London Spirit Women",
-      "startTime": "06:45:00 PM 30-08-2025"
-    },
-    {
-      "id": 133895,
-      "event_category": "Cricket",
-      "title": "Kochi Blue Tigers vs Thrissur Titans (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133895_5600_KBT_TT_fc-Web_1756275176659.jpg",
-      "team_1": "Kochi Blue Tigers",
-      "team_2": "Thrissur Titans",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Kochi Blue Tigers vs Thrissur Titans",
-      "startTime": "06:45:00 PM 30-08-2025"
-    },
-    {
       "id": 132506,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Delhi Premier League, 2025)",
@@ -324,18 +328,6 @@
       "startTime": "10:00:00 AM 30-08-2025"
     },
     {
-      "id": 136212,
-      "event_category": "Cricket",
-      "title": "Dr Morepen Dazzlers vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136212_5651_DMD_PKB_fc-Web.jpg",
-      "team_1": "Dr Morepen Dazzlers",
-      "team_2": "Panchkula Bashers",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Dr Morepen Dazzlers vs Panchkula Bashers",
-      "startTime": "02:15:00 PM 30-08-2025"
-    },
-    {
       "id": 135785,
       "event_category": "Cricket",
       "title": "United Arab Emirates vs Pakistan (Afghanistan and Pakistan tour of UAE, 2025)",
@@ -346,6 +338,18 @@
       "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
       "match_name": "United Arab Emirates vs Pakistan",
       "startTime": "08:30:00 PM 30-08-2025"
+    },
+    {
+      "id": 136212,
+      "event_category": "Cricket",
+      "title": "Dr Morepen Dazzlers vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136212_5651_DMD_PKB_fc-Web.jpg",
+      "team_1": "Dr Morepen Dazzlers",
+      "team_2": "Panchkula Bashers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Dr Morepen Dazzlers vs Panchkula Bashers",
+      "startTime": "02:15:00 PM 30-08-2025"
     },
     {
       "id": 133797,
@@ -394,18 +398,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Middlesbrough vs Sheffield United",
       "startTime": "05:00:00 PM 30-08-2025"
-    },
-    {
-      "id": 119128,
-      "event_category": "Motorsports",
-      "title": "Second Practice Session vs Zandvoort (F1 ACADEMY NETHERLANDS 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-      "team_1": "Second Practice Session",
-      "team_2": "Zandvoort",
-      "status": "UPCOMING",
-      "event_name": "F1 ACADEMY NETHERLANDS 2025",
-      "match_name": "Second Practice Session",
-      "startTime": "09:00:00 PM 29-08-2025"
     },
     {
       "id": 132254,
@@ -478,6 +470,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Millwall vs Wrexham",
       "startTime": "07:30:00 PM 30-08-2025"
+    },
+    {
+      "id": 130852,
+      "event_category": "Football",
+      "title": "Alavés vs Atlético de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130852_5427_ALA_ATL_fc-Web.jpg",
+      "team_1": "Alavés",
+      "team_2": "Atlético de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Alavés vs Atlético de Madrid",
+      "startTime": "08:30:00 PM 30-08-2025"
     }
   ]
 }
