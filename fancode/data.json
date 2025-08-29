@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:08 AM 30-08-2025",
+  "last update time": "05:20 AM 30-08-2025",
   "matches": [
     {
       "id": 132361,
       "event_category": "Cricket",
-      "title": "Trinbago Knight Riders vs Barbados Royals (Caribbean Premier League, 2025)",
+      "title": "Barbados Royals vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132361_5512_TKR_BR_fc-web.jpg",
-      "team_1": "Trinbago Knight Riders",
-      "team_2": "Barbados Royals",
+      "team_1": "Barbados Royals",
+      "team_2": "Trinbago Knight Riders",
       "status": "LIVE",
       "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Trinbago Knight Riders vs Barbados Royals",
+      "match_name": "Barbados Royals vs Trinbago Knight Riders",
       "startTime": "05:30:00 AM 30-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/LdUsuBOpT2uQHU3k6fJGzA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132361_english_hls_75c67fcb9123457ta-di_h264/index.m3u8"
     },
     {
       "id": 133894,
@@ -150,18 +150,6 @@
       "startTime": "03:30:00 PM 30-08-2025"
     },
     {
-      "id": 131999,
-      "event_category": "Football",
-      "title": "Middlesbrough vs Sheffield United (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-VS-Sheffield-United_old.jpg",
-      "team_1": "Middlesbrough",
-      "team_2": "Sheffield United",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Middlesbrough vs Sheffield United",
-      "startTime": "05:00:00 PM 30-08-2025"
-    },
-    {
       "id": 135806,
       "event_category": "Cricket",
       "title": "Desert Vipers Development vs MI Emirates Development (DP World ILT20 Development Tournament, 2025)",
@@ -172,6 +160,18 @@
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "Desert Vipers Development vs MI Emirates Development",
       "startTime": "06:30:00 PM 30-08-2025"
+    },
+    {
+      "id": 131999,
+      "event_category": "Football",
+      "title": "Middlesbrough vs Sheffield United (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-VS-Sheffield-United_old.jpg",
+      "team_1": "Middlesbrough",
+      "team_2": "Sheffield United",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Middlesbrough vs Sheffield United",
+      "startTime": "05:00:00 PM 30-08-2025"
     },
     {
       "id": 135981,
@@ -210,18 +210,6 @@
       "startTime": "09:00:00 PM 30-08-2025"
     },
     {
-      "id": 130852,
-      "event_category": "Football",
-      "title": "Alavés vs Atlético de Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130852_5427_ALA_ATL_fc-Web.jpg",
-      "team_1": "Alavés",
-      "team_2": "Atlético de Madrid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Alavés vs Atlético de Madrid",
-      "startTime": "08:30:00 PM 30-08-2025"
-    },
-    {
       "id": 132362,
       "event_category": "Cricket",
       "title": "Trinbago Knight Riders vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
@@ -232,6 +220,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
       "startTime": "04:30:00 AM 31-08-2025"
+    },
+    {
+      "id": 130852,
+      "event_category": "Football",
+      "title": "Alavés vs Atlético de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130852_5427_ALA_ATL_fc-Web.jpg",
+      "team_1": "Alavés",
+      "team_2": "Atlético de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Alavés vs Atlético de Madrid",
+      "startTime": "08:30:00 PM 30-08-2025"
     },
     {
       "id": 135807,
