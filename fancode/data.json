@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:45 AM 31-08-2025",
+  "last update time": "12:57 AM 31-08-2025",
   "matches": [
     {
       "id": 130851,
@@ -16,20 +16,6 @@
       "startTime": "01:00:00 AM 31-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130851_english_hls_70d86c826432982adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130851_english_hls_70d86c826432982adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130857,
-      "event_category": "Football",
-      "title": "Real Oviedo vs Real Sociedad (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130857_5427_RO_RS_fc-Web.jpg",
-      "team_1": "Real Oviedo",
-      "team_2": "Real Sociedad",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Oviedo vs Real Sociedad",
-      "startTime": "10:30:00 PM 30-08-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130857_english_hls_de80cfb95f7662adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130857_english_hls_de80cfb95f7662adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 130856,
@@ -88,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135981_english_hls_5a8987d5f360635ta-di_h264/index.m3u8"
     },
     {
+      "id": 135972,
+      "event_category": "Football",
+      "title": "Castellón vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
+      "team_1": "Castellón",
+      "team_2": "Real Zaragoza",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Castellón vs Real Zaragoza",
+      "startTime": "01:00:00 AM 31-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/-tljtzh5Ru-MeMnmbABPBQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135972_english_hls_2a1773e69d30696ta-di_h264/index.m3u8"
+    },
+    {
       "id": 132892,
       "event_category": "Baseball",
       "title": "Toronto Blue Jays vs Milwaukee Brewers (Major League Baseball, 2025)",
@@ -100,6 +100,20 @@
       "startTime": "12:37:00 AM 31-08-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132892_english_hls_21b2b8afd391329ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132892_english_hls_21b2b8afd391329ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130857,
+      "event_category": "Football",
+      "title": "Real Oviedo vs Real Sociedad (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130857_5427_RO_RS_fc-Web.jpg",
+      "team_1": "Real Oviedo",
+      "team_2": "Real Sociedad",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Oviedo vs Real Sociedad",
+      "startTime": "10:30:00 PM 30-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130857_english_hls_de80cfb95f7662adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130857_english_hls_de80cfb95f7662adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 132362,
@@ -198,16 +212,16 @@
       "startTime": "08:30:00 PM 31-08-2025"
     },
     {
-      "id": 135972,
-      "event_category": "Football",
-      "title": "Castellón vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
-      "team_1": "Castellón",
-      "team_2": "Real Zaragoza",
+      "id": 135846,
+      "event_category": "Cricket",
+      "title": "Oval Invincibles vs TBC (The Hundred, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Oval Invincibles",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Real Zaragoza",
-      "startTime": "01:00:00 AM 31-08-2025"
+      "event_name": "The Hundred, 2025",
+      "match_name": "Oval Invincibles vs TBC",
+      "startTime": "10:30:00 PM 31-08-2025"
     },
     {
       "id": 136213,
@@ -220,18 +234,6 @@
       "event_name": "Chandigarh Premier League T20 Tournament, 2025",
       "match_name": "Altruistian vs Capital Strikers",
       "startTime": "10:00:00 AM 31-08-2025"
-    },
-    {
-      "id": 135846,
-      "event_category": "Cricket",
-      "title": "Oval Invincibles vs TBC (The Hundred, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Oval Invincibles",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "The Hundred, 2025",
-      "match_name": "Oval Invincibles vs TBC",
-      "startTime": "10:30:00 PM 31-08-2025"
     },
     {
       "id": 133766,
