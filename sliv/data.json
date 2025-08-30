@@ -1,8 +1,25 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:18 PM 30-08-2025",
+  "last update time": "09:27 PM 30-08-2025",
   "matches": [
+    {
+      "id": "sl1090487573",
+      "isLive": true,
+      "event": "Bundesliga 2025-26",
+      "match": "FC Augsburg vs Bayern Munich - MD 2 - 30 Aug 2025",
+      "Provider": "DFL Deutsche Fubball Liga e.V.",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006978/1755954749229800_Bundesliga_FC_Augsburg_vs_Bayern_Munich_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "WWK Arena",
+      "TVchannel": "Sony Sports Ten 2",
+      "MaxResolution": "FHD",
+      "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090487573.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090487573.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090487573.m3u8"
+    },
     {
       "id": "sl1090483667",
       "isLive": true,
@@ -66,21 +83,6 @@
       "MaxResolution": "FHD",
       "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8923d93b79e043f09e925ec3c2755b38/1756538581/baseline-std-v4/PROMO_ASIA_CUP_MAIN_FILM_HIN_hin_baseline-800300010.mpd"
-    },
-    {
-      "id": "sl1090487662",
-      "isLive": false,
-      "event": "FC Augsburg vs Bayern Munich",
-      "match": "Upcoming: FC Augsburg vs Bayern Munich",
-      "Provider": "DFL Deutsche Fubball Liga e.V.",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007218/175653541518368_Bundesliga25_Augsburg_vs_Bayer_Laandscape_thumb.jpg",
-      "genre": "Football",
-      "language": "ENG",
-      "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 5",
-      "MaxResolution": "FHD",
-      "SeoTags": "N/A",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/4a4367416ed840bf819022bf792714b6/1756535754/baseline-std-v4/PROMO_BUNDESLIGA_FC_AUGSUBURG_VS_FC_BAYERN_MUNCHEN_30_SEC_HOR_APP_eng_baseline-800300010.mpd"
     },
     {
       "id": "sl1090487663",
