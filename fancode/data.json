@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 PM 30-08-2025",
+  "last update time": "06:18 PM 30-08-2025",
   "matches": [
     {
       "id": 135849,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
       "team_1": "Qualifying",
       "team_2": "Netherlands",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2025",
       "match_name": "Qualifying",
-      "startTime": "06:30:00 PM 30-08-2025"
+      "startTime": "06:30:00 PM 30-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/118454_english_hls_559eba282466554adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/118454_english_hls_559eba282466554adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 133894,
@@ -42,20 +44,6 @@
       "startTime": "02:30:00 PM 30-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/FBq3g-UORLGRDx3yWkH3cw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133894_english_hls_b828633d5791118ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136212,
-      "event_category": "Cricket",
-      "title": "Dr Morepen Dazzlers vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136212_5651_DMD_PKB_fc-Web.jpg",
-      "team_1": "Dr Morepen Dazzlers",
-      "team_2": "Panchkula Bashers",
-      "status": "LIVE",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Dr Morepen Dazzlers vs Panchkula Bashers",
-      "startTime": "02:15:00 PM 30-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/c4c7b6KnR1y3atbPAmOx6Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136212_english_hls_68559f713c22460ta-di_h264/index.m3u8"
     },
     {
       "id": 133797,
@@ -172,30 +160,6 @@
       "startTime": "04:30:00 AM 31-08-2025"
     },
     {
-      "id": 133666,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs Sri Lanka (Sri Lanka tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
-      "team_1": "Zimbabwe",
-      "team_2": "Sri Lanka",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of Zimbabwe, 2025",
-      "match_name": "Zimbabwe vs Sri Lanka",
-      "startTime": "01:00:00 PM 31-08-2025"
-    },
-    {
-      "id": 133896,
-      "event_category": "Cricket",
-      "title": "Adani Trivandrum Royals vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
-      "team_1": "Adani Trivandrum Royals",
-      "team_2": "Aries Kollam Sailors",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Adani Trivandrum Royals vs Aries Kollam Sailors",
-      "startTime": "02:30:00 PM 31-08-2025"
-    },
-    {
       "id": 135806,
       "event_category": "Cricket",
       "title": "Desert Vipers Development vs MI Emirates Development (DP World ILT20 Development Tournament, 2025)",
@@ -218,6 +182,30 @@
       "event_name": "Sri Lanka Under-19 tour of West Indies, 2025",
       "match_name": "West Indies Under-19 vs Sri Lanka Under-19",
       "startTime": "07:00:00 PM 30-08-2025"
+    },
+    {
+      "id": 133666,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs Sri Lanka (Sri Lanka tour of Zimbabwe, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
+      "team_1": "Zimbabwe",
+      "team_2": "Sri Lanka",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of Zimbabwe, 2025",
+      "match_name": "Zimbabwe vs Sri Lanka",
+      "startTime": "01:00:00 PM 31-08-2025"
+    },
+    {
+      "id": 133896,
+      "event_category": "Cricket",
+      "title": "Adani Trivandrum Royals vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
+      "team_1": "Adani Trivandrum Royals",
+      "team_2": "Aries Kollam Sailors",
+      "status": "UPCOMING",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Adani Trivandrum Royals vs Aries Kollam Sailors",
+      "startTime": "02:30:00 PM 31-08-2025"
     },
     {
       "id": 133700,
@@ -352,18 +340,6 @@
       "startTime": "01:00:00 PM 31-08-2025"
     },
     {
-      "id": 135972,
-      "event_category": "Football",
-      "title": "Castellón vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
-      "team_1": "Castellón",
-      "team_2": "Real Zaragoza",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Real Zaragoza",
-      "startTime": "01:00:00 AM 31-08-2025"
-    },
-    {
       "id": 132289,
       "event_category": "Cricket",
       "title": "Southern Brave Women vs TBC (The Hundred Women, 2025)",
@@ -388,6 +364,30 @@
       "startTime": "06:45:00 PM 31-08-2025"
     },
     {
+      "id": 132507,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Delhi Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Delhi Premier League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:00:00 PM 31-08-2025"
+    },
+    {
+      "id": 135972,
+      "event_category": "Football",
+      "title": "Castellón vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
+      "team_1": "Castellón",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Castellón vs Real Zaragoza",
+      "startTime": "01:00:00 AM 31-08-2025"
+    },
+    {
       "id": 136214,
       "event_category": "Cricket",
       "title": "Chandigarh Kings vs Dr Morepen Dazzlers (Chandigarh Premier League T20 Tournament, 2025)",
@@ -400,16 +400,18 @@
       "startTime": "02:15:00 PM 31-08-2025"
     },
     {
-      "id": 132507,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Delhi Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Delhi Premier League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:00:00 PM 31-08-2025"
+      "id": 135823,
+      "event_category": "Golf",
+      "title": "Day 3 vs Golf Club Crans-sur-Sierre (Omega European Masters 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Omega_Old_match-card_2.jpg",
+      "team_1": "Day 3",
+      "team_2": "Golf Club Crans-sur-Sierre",
+      "status": "LIVE",
+      "event_name": "Omega European Masters 2025",
+      "match_name": "Day 3",
+      "startTime": "06:30:00 PM 30-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/w5eQCqTARum0H7xXqEc0lA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135823_english_hls_3ab5f4c62c56187ta-di_h264/index.m3u8"
     },
     {
       "id": 133799,
@@ -448,16 +450,16 @@
       "startTime": "08:00:00 PM 31-08-2025"
     },
     {
-      "id": 132363,
+      "id": 135816,
       "event_category": "Cricket",
-      "title": "Saint Lucia Kings vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Saint-Lucia-Kings-VS-Antigua-&-Barbuda-Falcons_old.jpg",
-      "team_1": "Saint Lucia Kings",
-      "team_2": "Antigua & Barbuda Falcons",
+      "title": "TBC vs TBC (KFC Women's T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Saint Lucia Kings vs Antigua & Barbuda Falcons",
-      "startTime": "08:30:00 PM 31-08-2025"
+      "event_name": "KFC Women's T20 Max, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "05:30:00 PM 31-08-2025"
     }
   ]
 }
