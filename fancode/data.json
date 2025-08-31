@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:27 PM 31-08-2025",
+  "last update time": "02:53 PM 31-08-2025",
   "matches": [
     {
       "id": 133666,
@@ -28,8 +28,8 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Adani Trivandrum Royals vs Aries Kollam Sailors",
       "startTime": "02:30:00 PM 31-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/GlGwWvhhTyaiNEMu4ebtbQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133896_english_hls_b7ff39263c73011ta-di_h264/index.m3u8"
     },
     {
       "id": 133766,
@@ -86,6 +86,20 @@
       "startTime": "12:00:00 PM 31-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/uChVs_fMTxeKwu46fiwl2w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135817_english_hls_b5edf17b3235163ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132089,
+      "event_category": "Football",
+      "title": "Shimizu S-Pulse vs Kashima Antlers (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132089_CASACARDS_APP.png",
+      "team_1": "Shimizu S-Pulse",
+      "team_2": "Kashima Antlers",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Shimizu S-Pulse vs Kashima Antlers",
+      "startTime": "03:00:00 PM 31-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132089_english_hls_0fcca6c20623000ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132089_english_hls_0fcca6c20623000ta-di_h264/index.m3u8"
     },
     {
       "id": 136193,
@@ -174,18 +188,6 @@
       "startTime": "10:30:00 PM 31-08-2025"
     },
     {
-      "id": 132089,
-      "event_category": "Football",
-      "title": "Shimizu S-Pulse vs Kashima Antlers (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132089_CASACARDS_APP.png",
-      "team_1": "Shimizu S-Pulse",
-      "team_2": "Kashima Antlers",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Shimizu S-Pulse vs Kashima Antlers",
-      "startTime": "03:00:00 PM 31-08-2025"
-    },
-    {
       "id": 133799,
       "event_category": "Cricket",
       "title": "Denmark vs Kenya (ICC CWC Challenge League A, 2024-26)",
@@ -200,13 +202,37 @@
     {
       "id": 133798,
       "event_category": "Cricket",
-      "title": "Jersey vs Qatar (ICC CWC Challenge League A, 2024-26)",
+      "title": "Qatar vs Jersey (ICC CWC Challenge League A, 2024-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133798_4464_JER_QAT_fc-Web.jpg",
-      "team_1": "Jersey",
-      "team_2": "Qatar",
+      "team_1": "Qatar",
+      "team_2": "Jersey",
       "status": "UPCOMING",
       "event_name": "ICC CWC Challenge League A, 2024-26",
-      "match_name": "Jersey vs Qatar",
+      "match_name": "Qatar vs Jersey",
+      "startTime": "03:30:00 PM 31-08-2025"
+    },
+    {
+      "id": 132090,
+      "event_category": "Football",
+      "title": "Cerezo Osaka vs Sanfrecce Hiroshima (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132090_CASACARDS_APP.png",
+      "team_1": "Cerezo Osaka",
+      "team_2": "Sanfrecce Hiroshima",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Cerezo Osaka vs Sanfrecce Hiroshima",
+      "startTime": "03:30:00 PM 31-08-2025"
+    },
+    {
+      "id": 132087,
+      "event_category": "Football",
+      "title": "Kawasaki Frontale vs Machida Zelvia (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132087_CASACARDS_APP.png",
+      "team_1": "Kawasaki Frontale",
+      "team_2": "Machida Zelvia",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kawasaki Frontale vs Machida Zelvia",
       "startTime": "03:30:00 PM 31-08-2025"
     },
     {
@@ -318,30 +344,6 @@
       "startTime": "09:00:00 AM 01-09-2025"
     },
     {
-      "id": 132090,
-      "event_category": "Football",
-      "title": "Cerezo Osaka vs Sanfrecce Hiroshima (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132090_CASACARDS_APP.png",
-      "team_1": "Cerezo Osaka",
-      "team_2": "Sanfrecce Hiroshima",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Cerezo Osaka vs Sanfrecce Hiroshima",
-      "startTime": "03:30:00 PM 31-08-2025"
-    },
-    {
-      "id": 132087,
-      "event_category": "Football",
-      "title": "Kawasaki Frontale vs Machida Zelvia (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132087_CASACARDS_APP.png",
-      "team_1": "Kawasaki Frontale",
-      "team_2": "Machida Zelvia",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kawasaki Frontale vs Machida Zelvia",
-      "startTime": "03:30:00 PM 31-08-2025"
-    },
-    {
       "id": 136215,
       "event_category": "Cricket",
       "title": "Capital Strikers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
@@ -364,6 +366,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Las Palmas vs Málaga",
       "startTime": "11:00:00 PM 31-08-2025"
+    },
+    {
+      "id": 132117,
+      "event_category": "Motorsports",
+      "title": "Race vs Zaandvoort (Porsche Mobil 1 Super Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg",
+      "team_1": "Race",
+      "team_2": "Zaandvoort",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Super Cup",
+      "match_name": "Race",
+      "startTime": "03:25:00 PM 31-08-2025"
     },
     {
       "id": 133770,
@@ -438,30 +452,6 @@
       "startTime": "06:45:00 PM 01-09-2025"
     },
     {
-      "id": 132117,
-      "event_category": "Motorsports",
-      "title": "Race vs Zaandvoort (Porsche Mobil 1 Super Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg",
-      "team_1": "Race",
-      "team_2": "Zaandvoort",
-      "status": "UPCOMING",
-      "event_name": "Porsche Mobil 1 Super Cup",
-      "match_name": "Race",
-      "startTime": "03:25:00 PM 31-08-2025"
-    },
-    {
-      "id": 135824,
-      "event_category": "Golf",
-      "title": "Day 4 vs Golf Club Crans-sur-Sierre (Omega European Masters 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Omega_Old_match-card_2.jpg",
-      "team_1": "Day 4",
-      "team_2": "Golf Club Crans-sur-Sierre",
-      "status": "UPCOMING",
-      "event_name": "Omega European Masters 2025",
-      "match_name": "Day 4",
-      "startTime": "04:00:00 PM 31-08-2025"
-    },
-    {
       "id": 134913,
       "event_category": "Cricket",
       "title": "Northern Suburbs vs Western Suburbs (KFC T20 Max, 2025)",
@@ -472,6 +462,18 @@
       "event_name": "KFC T20 Max, 2025",
       "match_name": "Northern Suburbs vs Western Suburbs",
       "startTime": "01:30:00 PM 01-09-2025"
+    },
+    {
+      "id": 133772,
+      "event_category": "Cricket",
+      "title": "Uganda Women vs Rwanda Women (ICC Women's T20 WC Africa Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+      "team_1": "Uganda Women",
+      "team_2": "Rwanda Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
+      "match_name": "Uganda Women vs Rwanda Women",
+      "startTime": "05:20:00 PM 01-09-2025"
     }
   ]
 }
