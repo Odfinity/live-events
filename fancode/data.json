@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:49 PM 31-08-2025",
+  "last update time": "01:01 PM 31-08-2025",
   "matches": [
     {
       "id": 133666,
@@ -10,24 +10,40 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
       "team_1": "Zimbabwe",
       "team_2": "Sri Lanka",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Sri Lanka tour of Zimbabwe, 2025",
       "match_name": "Zimbabwe vs Sri Lanka",
-      "startTime": "01:00:00 PM 31-08-2025"
+      "startTime": "01:00:00 PM 31-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/A92eEbvmT_CRhid4qgvlGg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133666_english_hls_45d889605d60726ta-di_h264/index.m3u8"
     },
     {
-      "id": 136213,
+      "id": 133766,
       "event_category": "Cricket",
-      "title": "Altruistian vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-Web.jpg",
-      "team_1": "Altruistian",
-      "team_2": "Capital Strikers",
+      "title": "Kenya Women vs Rwanda Women (ICC Women's T20 WC Africa Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+      "team_1": "Kenya Women",
+      "team_2": "Rwanda Women",
       "status": "LIVE",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Altruistian vs Capital Strikers",
-      "startTime": "10:00:00 AM 31-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/xFm-ruX0Qyim_ZOrDjo5qg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136213_english_hls_8676c616d286820ta-di_h264/index.m3u8"
+      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
+      "match_name": "Kenya Women vs Rwanda Women",
+      "startTime": "01:00:00 PM 31-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Fx2_aOnxTvyw8AqqQ2A06A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133766_english_hls_834702dc7f57500ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133765,
+      "event_category": "Cricket",
+      "title": "Nigeria Women vs Sierra Leone Women (ICC Women's T20 WC Africa Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+      "team_1": "Nigeria Women",
+      "team_2": "Sierra Leone Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
+      "match_name": "Nigeria Women vs Sierra Leone Women",
+      "startTime": "01:00:00 PM 31-08-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fLLFZCmVSOWyZRW3EEGRjg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133765_english_hls_2246e72da02305ta-di_h264/index.m3u8"
     },
     {
       "id": 135817,
@@ -126,30 +142,6 @@
       "event_name": "The Hundred, 2025",
       "match_name": "Oval Invincibles vs Trent Rockets",
       "startTime": "10:30:00 PM 31-08-2025"
-    },
-    {
-      "id": 133766,
-      "event_category": "Cricket",
-      "title": "Kenya Women vs Rwanda Women (ICC Women's T20 WC Africa Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-      "team_1": "Kenya Women",
-      "team_2": "Rwanda Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
-      "match_name": "Kenya Women vs Rwanda Women",
-      "startTime": "01:00:00 PM 31-08-2025"
-    },
-    {
-      "id": 133765,
-      "event_category": "Cricket",
-      "title": "Nigeria Women vs Sierra Leone Women (ICC Women's T20 WC Africa Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-      "team_1": "Nigeria Women",
-      "team_2": "Sierra Leone Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
-      "match_name": "Nigeria Women vs Sierra Leone Women",
-      "startTime": "01:00:00 PM 31-08-2025"
     },
     {
       "id": 136214,
@@ -308,18 +300,6 @@
       "startTime": "03:30:00 PM 31-08-2025"
     },
     {
-      "id": 135973,
-      "event_category": "Football",
-      "title": "Las Palmas vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135973_5572_LAP_MAG_FC-Web.jpg",
-      "team_1": "Las Palmas",
-      "team_2": "Málaga",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Las Palmas vs Málaga",
-      "startTime": "11:00:00 PM 31-08-2025"
-    },
-    {
       "id": 136240,
       "event_category": "Cricket",
       "title": "Siang Storm vs KRA Dominators (Arunachal T20 Championship, 2025)",
@@ -332,16 +312,16 @@
       "startTime": "09:00:00 AM 01-09-2025"
     },
     {
-      "id": 136215,
-      "event_category": "Cricket",
-      "title": "Capital Strikers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
-      "team_1": "Capital Strikers",
-      "team_2": "Talanoa Tigers",
+      "id": 135973,
+      "event_category": "Football",
+      "title": "Las Palmas vs Málaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135973_5572_LAP_MAG_FC-Web.jpg",
+      "team_1": "Las Palmas",
+      "team_2": "Málaga",
       "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Capital Strikers vs Talanoa Tigers",
-      "startTime": "10:00:00 AM 01-09-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Málaga",
+      "startTime": "11:00:00 PM 31-08-2025"
     },
     {
       "id": 133898,
@@ -354,6 +334,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Thrissur Titans vs Alleppey Ripples",
       "startTime": "02:30:00 PM 01-09-2025"
+    },
+    {
+      "id": 136215,
+      "event_category": "Cricket",
+      "title": "Capital Strikers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
+      "team_1": "Capital Strikers",
+      "team_2": "Talanoa Tigers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Capital Strikers vs Talanoa Tigers",
+      "startTime": "10:00:00 AM 01-09-2025"
     },
     {
       "id": 133770,
@@ -462,6 +454,18 @@
       "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2025",
       "match_name": "Race",
       "startTime": "06:30:00 PM 31-08-2025"
+    },
+    {
+      "id": 133899,
+      "event_category": "Cricket",
+      "title": "Calicut Globstars vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133899_5600_CG_AKS_fc-Web_1756275176728.jpg",
+      "team_1": "Calicut Globstars",
+      "team_2": "Aries Kollam Sailors",
+      "status": "UPCOMING",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Calicut Globstars vs Aries Kollam Sailors",
+      "startTime": "06:45:00 PM 01-09-2025"
     }
   ]
 }
