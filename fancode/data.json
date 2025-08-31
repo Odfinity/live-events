@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:16 PM 31-08-2025",
+  "last update time": "05:28 PM 31-08-2025",
   "matches": [
     {
       "id": 133666,
@@ -62,13 +62,13 @@
     {
       "id": 133768,
       "event_category": "Cricket",
-      "title": "Uganda Women vs Tanzania Women (ICC Women's T20 WC Africa Qualifier Division 1)",
+      "title": "Tanzania Women vs Uganda Women (ICC Women's T20 WC Africa Qualifier Division 1)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-      "team_1": "Uganda Women",
-      "team_2": "Tanzania Women",
+      "team_1": "Tanzania Women",
+      "team_2": "Uganda Women",
       "status": "LIVE",
       "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
-      "match_name": "Uganda Women vs Tanzania Women",
+      "match_name": "Tanzania Women vs Uganda Women",
       "startTime": "05:20:00 PM 31-08-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/DKjVPXtSRcyIH4ZGEDOSUA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133768_english_hls_6c46580d6d38937ta-di_h264/index.m3u8"
@@ -230,18 +230,6 @@
       "startTime": "10:30:00 PM 31-08-2025"
     },
     {
-      "id": 135808,
-      "event_category": "Cricket",
-      "title": "Desert Vipers Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-web_1756269777746.jpg",
-      "team_1": "Desert Vipers Development",
-      "team_2": "Abu Dhabi Knight Riders Development",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Desert Vipers Development vs Abu Dhabi Knight Riders Development",
-      "startTime": "07:45:00 PM 31-08-2025"
-    },
-    {
       "id": 133898,
       "event_category": "Cricket",
       "title": "Thrissur Titans vs Alleppey Ripples (Kerala Cricket League, 2025)",
@@ -252,6 +240,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Thrissur Titans vs Alleppey Ripples",
       "startTime": "02:30:00 PM 01-09-2025"
+    },
+    {
+      "id": 135808,
+      "event_category": "Cricket",
+      "title": "Desert Vipers Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-web_1756269777746.jpg",
+      "team_1": "Desert Vipers Development",
+      "team_2": "Abu Dhabi Knight Riders Development",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Desert Vipers Development vs Abu Dhabi Knight Riders Development",
+      "startTime": "07:45:00 PM 31-08-2025"
     },
     {
       "id": 135807,
