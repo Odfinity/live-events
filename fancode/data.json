@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 AM 31-08-2025",
+  "last update time": "07:36 AM 31-08-2025",
   "matches": [
     {
       "id": 132362,
@@ -28,8 +28,22 @@
       "event_name": "KFC Women's T20 Max, 2025",
       "match_name": "Valley Women vs Wynnum-Manly Women",
       "startTime": "05:30:00 AM 31-08-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/YnYkVgf1R7-l9ZzwqjsxJA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135816_english_hls_e3a97e74b729879ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132893,
+      "event_category": "Baseball",
+      "title": "Oakland Athletics vs Texas Rangers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132893_CASACARDS_APP.png",
+      "team_1": "Oakland Athletics",
+      "team_2": "Texas Rangers",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Oakland Athletics vs Texas Rangers",
+      "startTime": "07:35:00 AM 31-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132893_english_hls_f34f89d41d58809ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132893_english_hls_f34f89d41d58809ta-di_h264/index.m3u8"
     },
     {
       "id": 133666,
@@ -272,6 +286,18 @@
       "startTime": "11:00:00 PM 31-08-2025"
     },
     {
+      "id": 130859,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130859_5427_RVL_BAR_fc-Web.jpg",
+      "team_1": "Rayo Vallecano",
+      "team_2": "Barcelona",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs Barcelona",
+      "startTime": "01:00:00 AM 01-09-2025"
+    },
+    {
       "id": 132089,
       "event_category": "Football",
       "title": "Shimizu S-Pulse vs Kashima Antlers (J League 2025)",
@@ -308,18 +334,6 @@
       "startTime": "03:30:00 PM 31-08-2025"
     },
     {
-      "id": 130859,
-      "event_category": "Football",
-      "title": "Rayo Vallecano vs Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130859_5427_RVL_BAR_fc-Web.jpg",
-      "team_1": "Rayo Vallecano",
-      "team_2": "Barcelona",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Rayo Vallecano vs Barcelona",
-      "startTime": "01:00:00 AM 01-09-2025"
-    },
-    {
       "id": 135817,
       "event_category": "Cricket",
       "title": "TBC vs TBC (KFC Women's T20 Max, 2025)",
@@ -344,16 +358,28 @@
       "startTime": "11:00:00 PM 31-08-2025"
     },
     {
-      "id": 132893,
-      "event_category": "Baseball",
-      "title": "Oakland Athletics vs Texas Rangers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132893_CASACARDS_APP.png",
-      "team_1": "Oakland Athletics",
-      "team_2": "Texas Rangers",
+      "id": 136240,
+      "event_category": "Cricket",
+      "title": "Siang Storm vs KRA Dominators (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Siang Storm",
+      "team_2": "KRA Dominators",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Oakland Athletics vs Texas Rangers",
-      "startTime": "07:35:00 AM 31-08-2025"
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Siang Storm vs KRA Dominators",
+      "startTime": "09:00:00 AM 01-09-2025"
+    },
+    {
+      "id": 136215,
+      "event_category": "Cricket",
+      "title": "Capital Strikers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
+      "team_1": "Capital Strikers",
+      "team_2": "Talanoa Tigers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Capital Strikers vs Talanoa Tigers",
+      "startTime": "10:00:00 AM 01-09-2025"
     },
     {
       "id": 132117,
@@ -392,18 +418,6 @@
       "startTime": "06:30:00 PM 31-08-2025"
     },
     {
-      "id": 136240,
-      "event_category": "Cricket",
-      "title": "Siang Storm vs KRA Dominators (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Siang Storm",
-      "team_2": "KRA Dominators",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Siang Storm vs KRA Dominators",
-      "startTime": "09:00:00 AM 01-09-2025"
-    },
-    {
       "id": 132894,
       "event_category": "Baseball",
       "title": "Cincinnati Reds vs St. Louis Cardinals (Major League Baseball, 2025)",
@@ -414,6 +428,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Cincinnati Reds vs St. Louis Cardinals",
       "startTime": "09:40:00 PM 31-08-2025"
+    },
+    {
+      "id": 132895,
+      "event_category": "Baseball",
+      "title": "Chicago White Sox vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132895_CASACARDS_APP.png",
+      "team_1": "Chicago White Sox",
+      "team_2": "New York Yankees",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Chicago White Sox vs New York Yankees",
+      "startTime": "11:40:00 PM 31-08-2025"
     }
   ]
 }
