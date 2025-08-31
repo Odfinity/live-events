@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:55 PM 31-08-2025",
+  "last update time": "10:13 PM 31-08-2025",
   "matches": [
-    {
-      "id": 132289,
-      "event_category": "Cricket",
-      "title": "Southern Brave Women vs Northern Superchargers Women (The Hundred Women, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132266_SOB-W_NOS-W_Fc-App-1.jpg",
-      "team_1": "Southern Brave Women",
-      "team_2": "Northern Superchargers Women",
-      "status": "LIVE",
-      "event_name": "The Hundred Women, 2025",
-      "match_name": "Southern Brave Women vs Northern Superchargers Women",
-      "startTime": "06:45:00 PM 31-08-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756689316~acl=/*~id=84241811869774512242320321286253~hmac=404807368ea05e6ac6ad8d19d7ae7b12a73f6807e5040cd3ba91e5424b0ab1a1"
-    },
     {
       "id": 133897,
       "event_category": "Cricket",
@@ -116,6 +102,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130853_english_hls_3e5564daee46098adfreeta-di_h264/index.m3u8"
     },
     {
+      "id": 130858,
+      "event_category": "Football",
+      "title": "Real Betis vs Athletic Club (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130858_5427_RB_ATH_fc-Web.jpg",
+      "team_1": "Real Betis",
+      "team_2": "Athletic Club",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Betis vs Athletic Club",
+      "startTime": "10:30:00 PM 31-08-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130858_english_hls_b091f20a352942adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130858_english_hls_b091f20a352942adfreeta-di_h264/index.m3u8"
+    },
+    {
       "id": 132894,
       "event_category": "Baseball",
       "title": "Cincinnati Reds vs St. Louis Cardinals (Major League Baseball, 2025)",
@@ -142,16 +142,16 @@
       "startTime": "10:30:00 PM 31-08-2025"
     },
     {
-      "id": 130858,
+      "id": 130855,
       "event_category": "Football",
-      "title": "Real Betis vs Athletic Club (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130858_5427_RB_ATH_fc-Web.jpg",
-      "team_1": "Real Betis",
-      "team_2": "Athletic Club",
+      "title": "Espanyol vs Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130855_5427_ESL_OSN_fc-Web.jpg",
+      "team_1": "Espanyol",
+      "team_2": "Osasuna",
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Real Betis vs Athletic Club",
-      "startTime": "10:30:00 PM 31-08-2025"
+      "match_name": "Espanyol vs Osasuna",
+      "startTime": "11:00:00 PM 31-08-2025"
     },
     {
       "id": 133898,
@@ -178,6 +178,18 @@
       "startTime": "05:30:00 PM 01-09-2025"
     },
     {
+      "id": 135973,
+      "event_category": "Football",
+      "title": "Las Palmas vs Málaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135973_5572_LAP_MAG_FC-Web.jpg",
+      "team_1": "Las Palmas",
+      "team_2": "Málaga",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Málaga",
+      "startTime": "11:00:00 PM 31-08-2025"
+    },
+    {
       "id": 133899,
       "event_category": "Cricket",
       "title": "Calicut Globstars vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
@@ -200,18 +212,6 @@
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "Dubai Capitals Development vs Sharjah Warriorz Development",
       "startTime": "11:45:00 PM 31-08-2025"
-    },
-    {
-      "id": 130855,
-      "event_category": "Football",
-      "title": "Espanyol vs Osasuna (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130855_5427_ESL_OSN_fc-Web.jpg",
-      "team_1": "Espanyol",
-      "team_2": "Osasuna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Espanyol vs Osasuna",
-      "startTime": "11:00:00 PM 31-08-2025"
     },
     {
       "id": 130859,
@@ -320,18 +320,6 @@
       "event_name": "Chandigarh Premier League T20 Tournament, 2025",
       "match_name": "Chandigarh Kings vs Panchkula Bashers",
       "startTime": "02:15:00 PM 01-09-2025"
-    },
-    {
-      "id": 135973,
-      "event_category": "Football",
-      "title": "Las Palmas vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135973_5572_LAP_MAG_FC-Web.jpg",
-      "team_1": "Las Palmas",
-      "team_2": "Málaga",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Las Palmas vs Málaga",
-      "startTime": "11:00:00 PM 31-08-2025"
     },
     {
       "id": 133772,
