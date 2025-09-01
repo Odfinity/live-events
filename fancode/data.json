@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:21 PM 01-09-2025",
+  "last update time": "06:19 PM 01-09-2025",
   "matches": [
     {
       "id": 136616,
@@ -14,8 +14,8 @@
       "event_name": "CAFA Nations Cup 2025",
       "match_name": "India vs IR Iran",
       "startTime": "05:30:00 PM 01-09-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/h7qFSTL2Q122qnzhUK4MFg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136616_english_hls_c7d0d6300986865ta-di_h264/index.m3u8"
     },
     {
       "id": 135850,
@@ -30,20 +30,6 @@
       "startTime": "05:30:00 PM 01-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ARwKp1--SK-wHKUYZB1ZeA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135850_english_hls_a20ac846ae4348ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133898,
-      "event_category": "Cricket",
-      "title": "Alleppey Ripples vs Thrissur Titans (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133898_5600_TT_AP_fc-Web_1756713694173.jpg",
-      "team_1": "Alleppey Ripples",
-      "team_2": "Thrissur Titans",
-      "status": "LIVE",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Alleppey Ripples vs Thrissur Titans",
-      "startTime": "02:30:00 PM 01-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/IuU7a8KsT_i2ooI-FZdu0g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133898_english_hls_8a1cf4ec4762212ta-di_h264/index.m3u8"
     },
     {
       "id": 133772,
@@ -72,6 +58,34 @@
       "startTime": "05:20:00 PM 01-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/pqSaqBhKT4aGuS0sHPUkPA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133771_english_hls_d53b59c7a269500ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 135809,
+      "event_category": "Cricket",
+      "title": "Sharjah Warriorz Development vs MI Emirates Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135809_5636_SWD_MED_fc-web_1756269778540.jpg",
+      "team_1": "Sharjah Warriorz Development",
+      "team_2": "MI Emirates Development",
+      "status": "LIVE",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Sharjah Warriorz Development vs MI Emirates Development",
+      "startTime": "06:30:00 PM 01-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/VYfntV3sRjW-cXgzpoBFFA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135809_english_hls_bb2c23342c48133ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133898,
+      "event_category": "Cricket",
+      "title": "Alleppey Ripples vs Thrissur Titans (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133898_5600_TT_AP_fc-Web_1756713694173.jpg",
+      "team_1": "Alleppey Ripples",
+      "team_2": "Thrissur Titans",
+      "status": "LIVE",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Alleppey Ripples vs Thrissur Titans",
+      "startTime": "02:30:00 PM 01-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/IuU7a8KsT_i2ooI-FZdu0g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133898_english_hls_8a1cf4ec4762212ta-di_h264/index.m3u8"
     },
     {
       "id": 133899,
@@ -122,18 +136,6 @@
       "startTime": "02:30:00 PM 02-09-2025"
     },
     {
-      "id": 135809,
-      "event_category": "Cricket",
-      "title": "Sharjah Warriorz Development vs MI Emirates Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135809_5636_SWD_MED_fc-web_1756269778540.jpg",
-      "team_1": "Sharjah Warriorz Development",
-      "team_2": "MI Emirates Development",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Sharjah Warriorz Development vs MI Emirates Development",
-      "startTime": "06:30:00 PM 01-09-2025"
-    },
-    {
       "id": 135810,
       "event_category": "Cricket",
       "title": "Abu Dhabi Knight Riders Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
@@ -182,16 +184,16 @@
       "startTime": "05:30:00 PM 02-09-2025"
     },
     {
-      "id": 135970,
-      "event_category": "Football",
-      "title": "Huesca vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135970_5572_HUE_EIB_FC-Web.jpg",
-      "team_1": "Huesca",
-      "team_2": "Eibar",
+      "id": 133901,
+      "event_category": "Cricket",
+      "title": "Thrissur Titans vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133901_5600_TT_TR_fc-Web_1756713694249.jpg",
+      "team_1": "Thrissur Titans",
+      "team_2": "Adani Trivandrum Royals",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Huesca vs Eibar",
-      "startTime": "11:00:00 PM 01-09-2025"
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Thrissur Titans vs Adani Trivandrum Royals",
+      "startTime": "06:45:00 PM 02-09-2025"
     },
     {
       "id": 136243,
@@ -206,16 +208,16 @@
       "startTime": "01:15:00 PM 02-09-2025"
     },
     {
-      "id": 133901,
-      "event_category": "Cricket",
-      "title": "Thrissur Titans vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133901_5600_TT_TR_fc-Web_1756713694249.jpg",
-      "team_1": "Thrissur Titans",
-      "team_2": "Adani Trivandrum Royals",
+      "id": 135970,
+      "event_category": "Football",
+      "title": "Huesca vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135970_5572_HUE_EIB_FC-Web.jpg",
+      "team_1": "Huesca",
+      "team_2": "Eibar",
       "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Thrissur Titans vs Adani Trivandrum Royals",
-      "startTime": "06:45:00 PM 02-09-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Huesca vs Eibar",
+      "startTime": "11:00:00 PM 01-09-2025"
     },
     {
       "id": 136218,
@@ -254,18 +256,6 @@
       "startTime": "08:30:00 PM 02-09-2025"
     },
     {
-      "id": 134914,
-      "event_category": "Cricket",
-      "title": "Gold Coast vs South Brisbane (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134914_5623_GCT_SBB_Fc-Web_1755807575940.jpg",
-      "team_1": "Gold Coast",
-      "team_2": "South Brisbane",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Gold Coast vs South Brisbane",
-      "startTime": "01:30:00 PM 02-09-2025"
-    },
-    {
       "id": 135811,
       "event_category": "Cricket",
       "title": "TBC vs TBC (DP World ILT20 Development Tournament, 2025)",
@@ -276,6 +266,18 @@
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "06:30:00 PM 02-09-2025"
+    },
+    {
+      "id": 134914,
+      "event_category": "Cricket",
+      "title": "Gold Coast vs South Brisbane (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134914_5623_GCT_SBB_Fc-Web_1755807575940.jpg",
+      "team_1": "Gold Coast",
+      "team_2": "South Brisbane",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Gold Coast vs South Brisbane",
+      "startTime": "01:30:00 PM 02-09-2025"
     },
     {
       "id": 135982,
@@ -336,6 +338,18 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Siang Storm vs Pare Panthers",
       "startTime": "09:00:00 AM 03-09-2025"
+    },
+    {
+      "id": 136219,
+      "event_category": "Cricket",
+      "title": "Chandigarh Kings vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136219_5651_CST_CST_fc-Web.jpg",
+      "team_1": "Chandigarh Kings",
+      "team_2": "Capital Strikers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Chandigarh Kings vs Capital Strikers",
+      "startTime": "10:00:00 AM 03-09-2025"
     }
   ]
 }
