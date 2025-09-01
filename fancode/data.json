@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:57 PM 01-09-2025",
+  "last update time": "01:12 PM 01-09-2025",
   "matches": [
-    {
-      "id": 136240,
-      "event_category": "Cricket",
-      "title": "KRA Dominators vs Siang Storm (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "KRA Dominators",
-      "team_2": "Siang Storm",
-      "status": "LIVE",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "KRA Dominators vs Siang Storm",
-      "startTime": "09:00:00 AM 01-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/YuQuAWYFT9uVafvYAKxgJw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136240_english_hls_8ccdc40e5157757ta-di_h264/index.m3u8"
-    },
     {
       "id": 136215,
       "event_category": "Cricket",
@@ -30,6 +16,48 @@
       "startTime": "10:00:00 AM 01-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/UFc1xQtITiS_pTdLHeiEyg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136215_english_hls_b9f98cef1b32613ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133770,
+      "event_category": "Cricket",
+      "title": "Tanzania Women vs Kenya Women (ICC Women's T20 WC Africa Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+      "team_1": "Tanzania Women",
+      "team_2": "Kenya Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
+      "match_name": "Tanzania Women vs Kenya Women",
+      "startTime": "01:00:00 PM 01-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LF2aTOrpT4eO9hFjFHFuog/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133770_english_hls_cb2f284e6399457ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133769,
+      "event_category": "Cricket",
+      "title": "Sierra Leone Women vs Zimbabwe Women (ICC Women's T20 WC Africa Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+      "team_1": "Sierra Leone Women",
+      "team_2": "Zimbabwe Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
+      "match_name": "Sierra Leone Women vs Zimbabwe Women",
+      "startTime": "01:00:00 PM 01-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/nZwPvcB6SQyfwne4RKfB6w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133769_english_hls_3ae0f8537854947ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136241,
+      "event_category": "Cricket",
+      "title": "Kameng Kings vs Kurung Blasters (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Kameng Kings",
+      "team_2": "Kurung Blasters",
+      "status": "LIVE",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Kameng Kings vs Kurung Blasters",
+      "startTime": "01:00:00 PM 01-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/a0P7SVgyRjSuFz0TyOLqsA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136241_english_hls_67b869629784000ta-di_h264/index.m3u8"
     },
     {
       "id": 133898,
@@ -90,42 +118,6 @@
       "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
       "match_name": "Afghanistan vs United Arab Emirates",
       "startTime": "08:30:00 PM 01-09-2025"
-    },
-    {
-      "id": 133770,
-      "event_category": "Cricket",
-      "title": "Tanzania Women vs Kenya Women (ICC Women's T20 WC Africa Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-      "team_1": "Tanzania Women",
-      "team_2": "Kenya Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
-      "match_name": "Tanzania Women vs Kenya Women",
-      "startTime": "01:00:00 PM 01-09-2025"
-    },
-    {
-      "id": 133769,
-      "event_category": "Cricket",
-      "title": "Sierra Leone Women vs Zimbabwe Women (ICC Women's T20 WC Africa Qualifier Division 1)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-      "team_1": "Sierra Leone Women",
-      "team_2": "Zimbabwe Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
-      "match_name": "Sierra Leone Women vs Zimbabwe Women",
-      "startTime": "01:00:00 PM 01-09-2025"
-    },
-    {
-      "id": 136241,
-      "event_category": "Cricket",
-      "title": "Kameng Kings vs Kurung Blasters (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Kameng Kings",
-      "team_2": "Kurung Blasters",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Kameng Kings vs Kurung Blasters",
-      "startTime": "01:00:00 PM 01-09-2025"
     },
     {
       "id": 136216,
@@ -212,18 +204,6 @@
       "startTime": "10:30:00 PM 01-09-2025"
     },
     {
-      "id": 135970,
-      "event_category": "Football",
-      "title": "Huesca vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135970_5572_HUE_EIB_FC-Web.jpg",
-      "team_1": "Huesca",
-      "team_2": "Eibar",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Huesca vs Eibar",
-      "startTime": "11:00:00 PM 01-09-2025"
-    },
-    {
       "id": 136242,
       "event_category": "Cricket",
       "title": "Kamle Knights vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
@@ -236,16 +216,16 @@
       "startTime": "09:00:00 AM 02-09-2025"
     },
     {
-      "id": 136217,
-      "event_category": "Cricket",
-      "title": "Dr Morepen Dazzlers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136217_5651_DMD_TLT_fc-Web.jpg",
-      "team_1": "Dr Morepen Dazzlers",
-      "team_2": "Talanoa Tigers",
+      "id": 135970,
+      "event_category": "Football",
+      "title": "Huesca vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135970_5572_HUE_EIB_FC-Web.jpg",
+      "team_1": "Huesca",
+      "team_2": "Eibar",
       "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Dr Morepen Dazzlers vs Talanoa Tigers",
-      "startTime": "10:00:00 AM 02-09-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Huesca vs Eibar",
+      "startTime": "11:00:00 PM 01-09-2025"
     },
     {
       "id": 133900,
@@ -260,6 +240,18 @@
       "startTime": "02:30:00 PM 02-09-2025"
     },
     {
+      "id": 136217,
+      "event_category": "Cricket",
+      "title": "Dr Morepen Dazzlers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136217_5651_DMD_TLT_fc-Web.jpg",
+      "team_1": "Dr Morepen Dazzlers",
+      "team_2": "Talanoa Tigers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Dr Morepen Dazzlers vs Talanoa Tigers",
+      "startTime": "10:00:00 AM 02-09-2025"
+    },
+    {
       "id": 136243,
       "event_category": "Cricket",
       "title": "Pare Panthers vs Tawang Titans (Arunachal T20 Championship, 2025)",
@@ -270,30 +262,6 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Pare Panthers vs Tawang Titans",
       "startTime": "01:15:00 PM 02-09-2025"
-    },
-    {
-      "id": 136218,
-      "event_category": "Cricket",
-      "title": "Altruistian vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136218_5651_ALT_PKB_fc-Web.jpg",
-      "team_1": "Altruistian",
-      "team_2": "Panchkula Bashers",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Altruistian vs Panchkula Bashers",
-      "startTime": "02:15:00 PM 02-09-2025"
-    },
-    {
-      "id": 132896,
-      "event_category": "Baseball",
-      "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132896_CASACARDS_APP.png",
-      "team_1": "Detroit Tigers",
-      "team_2": "New York Mets",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Detroit Tigers vs New York Mets",
-      "startTime": "10:40:00 PM 01-09-2025"
     },
     {
       "id": 135988,
@@ -308,6 +276,18 @@
       "startTime": "05:30:00 PM 02-09-2025"
     },
     {
+      "id": 136218,
+      "event_category": "Cricket",
+      "title": "Altruistian vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136218_5651_ALT_PKB_fc-Web.jpg",
+      "team_1": "Altruistian",
+      "team_2": "Panchkula Bashers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Altruistian vs Panchkula Bashers",
+      "startTime": "02:15:00 PM 02-09-2025"
+    },
+    {
       "id": 133901,
       "event_category": "Cricket",
       "title": "Thrissur Titans vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
@@ -318,6 +298,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Thrissur Titans vs Adani Trivandrum Royals",
       "startTime": "06:45:00 PM 02-09-2025"
+    },
+    {
+      "id": 132896,
+      "event_category": "Baseball",
+      "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132896_CASACARDS_APP.png",
+      "team_1": "Detroit Tigers",
+      "team_2": "New York Mets",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Detroit Tigers vs New York Mets",
+      "startTime": "10:40:00 PM 01-09-2025"
     },
     {
       "id": 132897,
@@ -366,6 +358,18 @@
       "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
       "match_name": "Afghanistan vs Pakistan",
       "startTime": "08:30:00 PM 02-09-2025"
+    },
+    {
+      "id": 135811,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "06:30:00 PM 02-09-2025"
     }
   ]
 }
