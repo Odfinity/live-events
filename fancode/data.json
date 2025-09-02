@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 02-09-2025",
+  "last update time": "06:18 PM 02-09-2025",
   "matches": [
     {
       "id": 135988,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-England_2025_Old_match-card_2025_Old_match-card.jpg",
       "team_1": "England",
       "team_2": "South Africa",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "South Africa tour of England, 2025",
       "match_name": "England vs South Africa",
-      "startTime": "05:30:00 PM 02-09-2025"
+      "startTime": "05:30:00 PM 02-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI11FC/master_mdh.m3u8?hdnea=exp=1756858054~acl=/*~id=20603179047531168112273292211604~hmac=f15f7545e2a545493b582bdfac0423ca2f9b20cceead0ec3cf1bc2f8ade64279"
     },
     {
       "id": 133900,
@@ -66,18 +68,6 @@
       "startTime": "08:30:00 PM 02-09-2025"
     },
     {
-      "id": 133902,
-      "event_category": "Cricket",
-      "title": "Adani Trivandrum Royals vs Alleppey Ripples (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133902_5600_TR_AP_fc-Web_1756713693983.jpg",
-      "team_1": "Adani Trivandrum Royals",
-      "team_2": "Alleppey Ripples",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Adani Trivandrum Royals vs Alleppey Ripples",
-      "startTime": "02:30:00 PM 03-09-2025"
-    },
-    {
       "id": 135811,
       "event_category": "Cricket",
       "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
@@ -102,6 +92,18 @@
       "startTime": "07:00:00 PM 02-09-2025"
     },
     {
+      "id": 133902,
+      "event_category": "Cricket",
+      "title": "Adani Trivandrum Royals vs Alleppey Ripples (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133902_5600_TR_AP_fc-Web_1756713693983.jpg",
+      "team_1": "Adani Trivandrum Royals",
+      "team_2": "Alleppey Ripples",
+      "status": "UPCOMING",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Adani Trivandrum Royals vs Alleppey Ripples",
+      "startTime": "02:30:00 PM 03-09-2025"
+    },
+    {
       "id": 135812,
       "event_category": "Cricket",
       "title": "Abu Dhabi Knight Riders Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
@@ -112,6 +114,18 @@
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "Abu Dhabi Knight Riders Development vs Desert Vipers Development",
       "startTime": "10:30:00 PM 02-09-2025"
+    },
+    {
+      "id": 133667,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs Sri Lanka (Sri Lanka tour of Zimbabwe, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "Sri Lanka",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka tour of Zimbabwe, 2025",
+      "match_name": "Zimbabwe vs Sri Lanka",
+      "startTime": "05:00:00 PM 03-09-2025"
     },
     {
       "id": 136245,
@@ -136,18 +150,6 @@
       "event_name": "Chandigarh Premier League T20 Tournament, 2025",
       "match_name": "Chandigarh Kings vs Capital Strikers",
       "startTime": "10:00:00 AM 03-09-2025"
-    },
-    {
-      "id": 133667,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs Sri Lanka (Sri Lanka tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "Sri Lanka",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka tour of Zimbabwe, 2025",
-      "match_name": "Zimbabwe vs Sri Lanka",
-      "startTime": "05:00:00 PM 03-09-2025"
     },
     {
       "id": 135851,
@@ -282,18 +284,6 @@
       "startTime": "08:30:00 PM 03-09-2025"
     },
     {
-      "id": 132898,
-      "event_category": "Baseball",
-      "title": "Arizona Diamondbacks vs Texas Rangers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132898_CASACARDS_APP.png",
-      "team_1": "Arizona Diamondbacks",
-      "team_2": "Texas Rangers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Arizona Diamondbacks vs Texas Rangers",
-      "startTime": "07:10:00 AM 03-09-2025"
-    },
-    {
       "id": 136639,
       "event_category": "Football",
       "title": "Seychelles vs Gabon (CAF World Cup Qualifiers)",
@@ -304,6 +294,18 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Seychelles vs Gabon",
       "startTime": "06:30:00 PM 03-09-2025"
+    },
+    {
+      "id": 132898,
+      "event_category": "Baseball",
+      "title": "Arizona Diamondbacks vs Texas Rangers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132898_CASACARDS_APP.png",
+      "team_1": "Arizona Diamondbacks",
+      "team_2": "Texas Rangers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Arizona Diamondbacks vs Texas Rangers",
+      "startTime": "07:10:00 AM 03-09-2025"
     },
     {
       "id": 136189,
@@ -364,6 +366,30 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Tawang Titans vs Kameng Kings",
       "startTime": "09:00:00 AM 04-09-2025"
+    },
+    {
+      "id": 136221,
+      "event_category": "Cricket",
+      "title": "Dr Morepen Dazzlers vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136221_5651_DMD_CST_fc-Web.jpg",
+      "team_1": "Dr Morepen Dazzlers",
+      "team_2": "Chandigarh Kings",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Dr Morepen Dazzlers vs Chandigarh Kings",
+      "startTime": "10:00:00 AM 04-09-2025"
+    },
+    {
+      "id": 132901,
+      "event_category": "Baseball",
+      "title": "Colorado Rockies vs San Francisco Giants (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132901_CASACARDS_APP.png",
+      "team_1": "Colorado Rockies",
+      "team_2": "San Francisco Giants",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Colorado Rockies vs San Francisco Giants",
+      "startTime": "06:10:00 AM 04-09-2025"
     }
   ]
 }
