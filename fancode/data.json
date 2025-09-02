@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:42 AM 02-09-2025",
+  "last update time": "09:17 AM 02-09-2025",
   "matches": [
+    {
+      "id": 136242,
+      "event_category": "Cricket",
+      "title": "Kamle Knights vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/136242_CASACARDS_APP.png",
+      "team_1": "Kamle Knights",
+      "team_2": "Dirang Daredevils",
+      "status": "LIVE",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Kamle Knights vs Dirang Daredevils",
+      "startTime": "09:00:00 AM 02-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2ZQ6kgGkSamJWq-2vHv_Lw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136242_english_hls_b54a485d5399075ta-di_h264/index.m3u8"
+    },
     {
       "id": 133900,
       "event_category": "Cricket",
@@ -62,18 +76,6 @@
       "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
       "match_name": "Afghanistan vs Pakistan",
       "startTime": "08:30:00 PM 02-09-2025"
-    },
-    {
-      "id": 136242,
-      "event_category": "Cricket",
-      "title": "Kamle Knights vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/136242_CASACARDS_APP.png",
-      "team_1": "Kamle Knights",
-      "team_2": "Dirang Daredevils",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Kamle Knights vs Dirang Daredevils",
-      "startTime": "09:00:00 AM 02-09-2025"
     },
     {
       "id": 136217,
@@ -256,18 +258,6 @@
       "startTime": "05:00:00 PM 03-09-2025"
     },
     {
-      "id": 132898,
-      "event_category": "Baseball",
-      "title": "Arizona Diamondbacks vs Texas Rangers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132898_CASACARDS_APP.png",
-      "team_1": "Arizona Diamondbacks",
-      "team_2": "Texas Rangers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Arizona Diamondbacks vs Texas Rangers",
-      "startTime": "07:10:00 AM 03-09-2025"
-    },
-    {
       "id": 135851,
       "event_category": "Cricket",
       "title": "Bangladesh vs Netherlands (Netherlands tour of Bangladesh, 2025)",
@@ -278,6 +268,18 @@
       "event_name": "Netherlands tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs Netherlands",
       "startTime": "05:30:00 PM 03-09-2025"
+    },
+    {
+      "id": 132898,
+      "event_category": "Baseball",
+      "title": "Arizona Diamondbacks vs Texas Rangers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132898_CASACARDS_APP.png",
+      "team_1": "Arizona Diamondbacks",
+      "team_2": "Texas Rangers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Arizona Diamondbacks vs Texas Rangers",
+      "startTime": "07:10:00 AM 03-09-2025"
     },
     {
       "id": 134918,
