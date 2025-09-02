@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 PM 02-09-2025",
+  "last update time": "10:02 PM 02-09-2025",
   "matches": [
-    {
-      "id": 135988,
-      "event_category": "Cricket",
-      "title": "England vs South Africa (South Africa tour of England, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-England_2025_Old_match-card_2025_Old_match-card.jpg",
-      "team_1": "England",
-      "team_2": "South Africa",
-      "status": "LIVE",
-      "event_name": "South Africa tour of England, 2025",
-      "match_name": "England vs South Africa",
-      "startTime": "05:30:00 PM 02-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI11FC/master_mdh.m3u8?hdnea=exp=1756858054~acl=/*~id=20603179047531168112273292211604~hmac=f15f7545e2a545493b582bdfac0423ca2f9b20cceead0ec3cf1bc2f8ade64279"
-    },
     {
       "id": 135787,
       "event_category": "Cricket",
@@ -60,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133762_english_hls_98665f9f6d73539ta-di_h264/index.m3u8"
     },
     {
-      "id": 135811,
-      "event_category": "Cricket",
-      "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web_1756269777839.jpg",
-      "team_1": "Sharjah Warriorz Development",
-      "team_2": "Gulf Giants Development",
-      "status": "LIVE",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
-      "startTime": "06:30:00 PM 02-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/4ur4hnImQGez763Uwyl4Xw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135811_english_hls_87c6dd876c98766ta-di_h264/index.m3u8"
-    },
-    {
       "id": 135982,
       "event_category": "Cricket",
       "title": "West Indies Under-19 vs Sri Lanka Under-19 (Sri Lanka Under-19 tour of West Indies, 2025)",
@@ -86,6 +58,18 @@
       "startTime": "07:00:00 PM 02-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/FcIuL7JvTeCwgC8RFNiPzg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135982_english_hls_7d1eecffb290155ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 135812,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi Knight Riders Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-web_1756269777746.jpg",
+      "team_1": "Abu Dhabi Knight Riders Development",
+      "team_2": "Desert Vipers Development",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 Development Tournament, 2025",
+      "match_name": "Abu Dhabi Knight Riders Development vs Desert Vipers Development",
+      "startTime": "10:30:00 PM 02-09-2025"
     },
     {
       "id": 133902,
@@ -122,18 +106,6 @@
       "event_name": "Netherlands tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs Netherlands",
       "startTime": "05:30:00 PM 03-09-2025"
-    },
-    {
-      "id": 135812,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi Knight Riders Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-web_1756269777746.jpg",
-      "team_1": "Abu Dhabi Knight Riders Development",
-      "team_2": "Desert Vipers Development",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 Development Tournament, 2025",
-      "match_name": "Abu Dhabi Knight Riders Development vs Desert Vipers Development",
-      "startTime": "10:30:00 PM 02-09-2025"
     },
     {
       "id": 133903,
@@ -256,18 +228,6 @@
       "startTime": "11:00:00 PM 03-09-2025"
     },
     {
-      "id": 134918,
-      "event_category": "Cricket",
-      "title": "Valley vs Redlands (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134918_5623_VLY_RLS_Fc-Web_1755807575981.jpg",
-      "team_1": "Valley",
-      "team_2": "Redlands",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Valley vs Redlands",
-      "startTime": "01:30:00 PM 03-09-2025"
-    },
-    {
       "id": 135813,
       "event_category": "Cricket",
       "title": "TBC vs TBC (DP World ILT20 Development Tournament, 2025)",
@@ -278,6 +238,18 @@
       "event_name": "DP World ILT20 Development Tournament, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "08:30:00 PM 03-09-2025"
+    },
+    {
+      "id": 134918,
+      "event_category": "Cricket",
+      "title": "Valley vs Redlands (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134918_5623_VLY_RLS_Fc-Web_1755807575981.jpg",
+      "team_1": "Valley",
+      "team_2": "Redlands",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Valley vs Redlands",
+      "startTime": "01:30:00 PM 03-09-2025"
     },
     {
       "id": 136639,
@@ -304,18 +276,6 @@
       "startTime": "07:10:00 AM 03-09-2025"
     },
     {
-      "id": 136189,
-      "event_category": "Golf",
-      "title": "Indoor Golf Group Challenge vs Vesterby, Sweden (Indoor Golf Group Challenge)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Indoor-Golf-Group-Challenge-old-match-card.png",
-      "team_1": "Indoor Golf Group Challenge",
-      "team_2": "Vesterby, Sweden",
-      "status": "UPCOMING",
-      "event_name": "Indoor Golf Group Challenge",
-      "match_name": "Indoor Golf Group Challenge",
-      "startTime": "03:25:00 PM 03-09-2025"
-    },
-    {
       "id": 132365,
       "event_category": "Cricket",
       "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
@@ -326,6 +286,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
       "startTime": "04:30:00 AM 04-09-2025"
+    },
+    {
+      "id": 136189,
+      "event_category": "Golf",
+      "title": "Indoor Golf Group Challenge vs Vesterby, Sweden (Indoor Golf Group Challenge)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Indoor-Golf-Group-Challenge-old-match-card.png",
+      "team_1": "Indoor Golf Group Challenge",
+      "team_2": "Vesterby, Sweden",
+      "status": "UPCOMING",
+      "event_name": "Indoor Golf Group Challenge",
+      "match_name": "Indoor Golf Group Challenge",
+      "startTime": "03:25:00 PM 03-09-2025"
     },
     {
       "id": 132899,
@@ -398,6 +370,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Alleppey Ripples vs Aries Kollam Sailors",
       "startTime": "02:30:00 PM 04-09-2025"
+    },
+    {
+      "id": 133778,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (ICC Women's T20 WC Africa Qualifier Division 1)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
+      "match_name": "TBC vs TBC",
+      "startTime": "01:00:00 PM 04-09-2025"
     }
   ]
 }
