@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:21 PM 03-09-2025",
+  "last update time": "12:50 PM 03-09-2025",
   "matches": [
     {
       "id": 136245,
@@ -16,20 +16,6 @@
       "startTime": "09:00:00 AM 03-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Vr0vBj14RaqEbZgH603OYg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136245_english_hls_f987dc3b3184993ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136219,
-      "event_category": "Cricket",
-      "title": "Chandigarh Kings vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136219_5651_CST_CST_fc-Web.jpg",
-      "team_1": "Chandigarh Kings",
-      "team_2": "Capital Strikers",
-      "status": "LIVE",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Chandigarh Kings vs Capital Strikers",
-      "startTime": "10:00:00 AM 03-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/l2An6wRoTG-biEWwj80ErA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136219_english_hls_2ab82de8c889359ta-di_h264/index.m3u8"
     },
     {
       "id": 133902,
@@ -98,10 +84,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
       "team_1": "Namibia Women",
       "team_2": "Sierra Leone Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
       "match_name": "Namibia Women vs Sierra Leone Women",
-      "startTime": "01:00:00 PM 03-09-2025"
+      "startTime": "01:00:00 PM 03-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/VOEQsf59RqCLqeKHbsnyvA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133774_english_hls_47b8605e7d63293ta-di_h264/index.m3u8"
     },
     {
       "id": 133773,
@@ -110,22 +98,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
       "team_1": "Tanzania Women",
       "team_2": "Rwanda Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
       "match_name": "Tanzania Women vs Rwanda Women",
-      "startTime": "01:00:00 PM 03-09-2025"
-    },
-    {
-      "id": 132365,
-      "event_category": "Cricket",
-      "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Trinbago-Knight-Riders-VS-Saint-Lucia-Kings_old.jpg",
-      "team_1": "Trinbago Knight Riders",
-      "team_2": "Saint Lucia Kings",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
-      "startTime": "04:30:00 AM 04-09-2025"
+      "startTime": "01:00:00 PM 03-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2zbVexKXRj6IZv5BNb1cIw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133773_english_hls_c3152e3f3e67776ta-di_h264/index.m3u8"
     },
     {
       "id": 136244,
@@ -138,6 +116,18 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Siang Storm vs Pare Panthers",
       "startTime": "01:15:00 PM 03-09-2025"
+    },
+    {
+      "id": 132365,
+      "event_category": "Cricket",
+      "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Trinbago-Knight-Riders-VS-Saint-Lucia-Kings_old.jpg",
+      "team_1": "Trinbago Knight Riders",
+      "team_2": "Saint Lucia Kings",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+      "startTime": "04:30:00 AM 04-09-2025"
     },
     {
       "id": 136220,
@@ -176,6 +166,18 @@
       "startTime": "05:20:00 PM 03-09-2025"
     },
     {
+      "id": 134918,
+      "event_category": "Cricket",
+      "title": "Valley vs Redlands (KFC T20 Max, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134918_5623_VLY_RLS_Fc-Web_1755807575981.jpg",
+      "team_1": "Valley",
+      "team_2": "Redlands",
+      "status": "UPCOMING",
+      "event_name": "KFC T20 Max, 2025",
+      "match_name": "Valley vs Redlands",
+      "startTime": "01:30:00 PM 03-09-2025"
+    },
+    {
       "id": 135813,
       "event_category": "Cricket",
       "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
@@ -210,18 +212,6 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Tawang Titans vs Kameng Kings",
       "startTime": "09:00:00 AM 04-09-2025"
-    },
-    {
-      "id": 134918,
-      "event_category": "Cricket",
-      "title": "Valley vs Redlands (KFC T20 Max, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134918_5623_VLY_RLS_Fc-Web_1755807575981.jpg",
-      "team_1": "Valley",
-      "team_2": "Redlands",
-      "status": "UPCOMING",
-      "event_name": "KFC T20 Max, 2025",
-      "match_name": "Valley vs Redlands",
-      "startTime": "01:30:00 PM 03-09-2025"
     },
     {
       "id": 136221,
@@ -332,18 +322,6 @@
       "startTime": "10:40:00 PM 03-09-2025"
     },
     {
-      "id": 132900,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Baltimore Orioles (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132900_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "Baltimore Orioles",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Baltimore Orioles",
-      "startTime": "01:40:00 AM 04-09-2025"
-    },
-    {
       "id": 133905,
       "event_category": "Cricket",
       "title": "Calicut Globstars vs Thrissur Titans (Kerala Cricket League, 2025)",
@@ -354,6 +332,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Calicut Globstars vs Thrissur Titans",
       "startTime": "06:45:00 PM 04-09-2025"
+    },
+    {
+      "id": 132900,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Baltimore Orioles (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132900_CASACARDS_APP.png",
+      "team_1": "San Diego Padres",
+      "team_2": "Baltimore Orioles",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Baltimore Orioles",
+      "startTime": "01:40:00 AM 04-09-2025"
     },
     {
       "id": 132901,
@@ -402,6 +392,18 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Namibia vs Scotland",
       "startTime": "08:00:00 PM 04-09-2025"
+    },
+    {
+      "id": 136617,
+      "event_category": "Football",
+      "title": "Afghanistan vs India (CAFA Nations Cup 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CAFA-Nations-Cup_2025_Old_match-card_2.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "CAFA Nations Cup 2025",
+      "match_name": "Afghanistan vs India",
+      "startTime": "05:30:00 PM 04-09-2025"
     }
   ]
 }
