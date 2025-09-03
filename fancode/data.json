@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 PM 03-09-2025",
+  "last update time": "10:01 PM 03-09-2025",
   "matches": [
-    {
-      "id": 135851,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Netherlands (Netherlands tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Netherlands",
-      "status": "LIVE",
-      "event_name": "Netherlands tour of Bangladesh, 2025",
-      "match_name": "Bangladesh vs Netherlands",
-      "startTime": "05:30:00 PM 03-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/1apJCH_HRlemYYUoF7vIOw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135851_english_hls_44391d194464856ta-di_h264/index.m3u8"
-    },
     {
       "id": 133903,
       "event_category": "Cricket",
@@ -118,18 +104,6 @@
       "startTime": "09:00:00 AM 04-09-2025"
     },
     {
-      "id": 136221,
-      "event_category": "Cricket",
-      "title": "Dr Morepen Dazzlers vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136221_5651_DMD_CST_fc-Web.jpg",
-      "team_1": "Dr Morepen Dazzlers",
-      "team_2": "Chandigarh Kings",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Dr Morepen Dazzlers vs Chandigarh Kings",
-      "startTime": "10:00:00 AM 04-09-2025"
-    },
-    {
       "id": 133763,
       "event_category": "Cricket",
       "title": "Namibia vs Scotland (ICC CWC League 2, 2023-27)",
@@ -140,6 +114,18 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Namibia vs Scotland",
       "startTime": "08:00:00 PM 04-09-2025"
+    },
+    {
+      "id": 136221,
+      "event_category": "Cricket",
+      "title": "Dr Morepen Dazzlers vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136221_5651_DMD_CST_fc-Web.jpg",
+      "team_1": "Dr Morepen Dazzlers",
+      "team_2": "Chandigarh Kings",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Dr Morepen Dazzlers vs Chandigarh Kings",
+      "startTime": "10:00:00 AM 04-09-2025"
     },
     {
       "id": 135788,
@@ -238,6 +224,18 @@
       "startTime": "05:30:00 PM 04-09-2025"
     },
     {
+      "id": 132899,
+      "event_category": "Baseball",
+      "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132899_CASACARDS_APP.png",
+      "team_1": "Detroit Tigers",
+      "team_2": "New York Mets",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Detroit Tigers vs New York Mets",
+      "startTime": "10:40:00 PM 03-09-2025"
+    },
+    {
       "id": 135983,
       "event_category": "Cricket",
       "title": "West Indies Under-19 vs Sri Lanka Under-19 (Sri Lanka Under-19 tour of West Indies, 2025)",
@@ -322,18 +320,6 @@
       "startTime": "09:30:00 PM 04-09-2025"
     },
     {
-      "id": 132899,
-      "event_category": "Baseball",
-      "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132899_CASACARDS_APP.png",
-      "team_1": "Detroit Tigers",
-      "team_2": "New York Mets",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Detroit Tigers vs New York Mets",
-      "startTime": "10:40:00 PM 03-09-2025"
-    },
-    {
       "id": 132900,
       "event_category": "Baseball",
       "title": "San Diego Padres vs Baltimore Orioles (Major League Baseball, 2025)",
@@ -391,6 +377,18 @@
       "status": "UPCOMING",
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Mali vs Comoros",
+      "startTime": "12:30:00 AM 05-09-2025"
+    },
+    {
+      "id": 136643,
+      "event_category": "Football",
+      "title": "Cameroon vs Eswatini (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136643_3741_CMR_ESW_Fc-Web.jpg",
+      "team_1": "Cameroon",
+      "team_2": "Eswatini",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Cameroon vs Eswatini",
       "startTime": "12:30:00 AM 05-09-2025"
     }
   ]
