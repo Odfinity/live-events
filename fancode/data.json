@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 AM 04-09-2025",
+  "last update time": "07:12 AM 04-09-2025",
   "matches": [
     {
       "id": 132365,
@@ -16,6 +16,20 @@
       "startTime": "04:30:00 AM 04-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Dx7OO5gBTOeyZdzMb6HSvQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132365_english_hls_e5316e527287872ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132901,
+      "event_category": "Baseball",
+      "title": "Colorado Rockies vs San Francisco Giants (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132901_CASACARDS_APP.png",
+      "team_1": "Colorado Rockies",
+      "team_2": "San Francisco Giants",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Colorado Rockies vs San Francisco Giants",
+      "startTime": "06:10:00 AM 04-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132901_english_hls_ee43adf39e14005ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132901_english_hls_ee43adf39e14005ta-di_h264/index.m3u8"
     },
     {
       "id": 133904,
@@ -102,6 +116,18 @@
       "startTime": "10:00:00 AM 04-09-2025"
     },
     {
+      "id": 132366,
+      "event_category": "Cricket",
+      "title": "Barbados Royals vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Barbados Royals",
+      "team_2": "Guyana Amazon Warriors",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Barbados Royals vs Guyana Amazon Warriors",
+      "startTime": "04:30:00 AM 05-09-2025"
+    },
+    {
       "id": 133778,
       "event_category": "Cricket",
       "title": "Nigeria Women vs Kenya Women (ICC Women's T20 WC Africa Qualifier Division 1)",
@@ -174,18 +200,6 @@
       "startTime": "05:20:00 PM 04-09-2025"
     },
     {
-      "id": 136617,
-      "event_category": "Football",
-      "title": "Afghanistan vs India (CAFA Nations Cup 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CAFA-Nations-Cup_2025_Old_match-card_2.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "CAFA Nations Cup 2025",
-      "match_name": "Afghanistan vs India",
-      "startTime": "05:30:00 PM 04-09-2025"
-    },
-    {
       "id": 135983,
       "event_category": "Cricket",
       "title": "West Indies Under-19 vs Sri Lanka Under-19 (Sri Lanka Under-19 tour of West Indies, 2025)",
@@ -198,16 +212,16 @@
       "startTime": "07:00:00 PM 04-09-2025"
     },
     {
-      "id": 132366,
-      "event_category": "Cricket",
-      "title": "Barbados Royals vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Barbados Royals",
-      "team_2": "Guyana Amazon Warriors",
+      "id": 136617,
+      "event_category": "Football",
+      "title": "Afghanistan vs India (CAFA Nations Cup 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CAFA-Nations-Cup_2025_Old_match-card_2.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "India",
       "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Barbados Royals vs Guyana Amazon Warriors",
-      "startTime": "04:30:00 AM 05-09-2025"
+      "event_name": "CAFA Nations Cup 2025",
+      "match_name": "Afghanistan vs India",
+      "startTime": "05:30:00 PM 04-09-2025"
     },
     {
       "id": 136640,
@@ -220,18 +234,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Chad vs Ghana",
       "startTime": "06:30:00 PM 04-09-2025"
-    },
-    {
-      "id": 132901,
-      "event_category": "Baseball",
-      "title": "Colorado Rockies vs San Francisco Giants (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132901_CASACARDS_APP.png",
-      "team_1": "Colorado Rockies",
-      "team_2": "San Francisco Giants",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Colorado Rockies vs San Francisco Giants",
-      "startTime": "06:10:00 AM 04-09-2025"
     },
     {
       "id": 136641,
@@ -294,6 +296,42 @@
       "startTime": "09:30:00 PM 04-09-2025"
     },
     {
+      "id": 136673,
+      "event_category": "Football",
+      "title": "Uruguay vs Peru (CONMEBOL World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Uruguay",
+      "team_2": "Peru",
+      "status": "UPCOMING",
+      "event_name": "CONMEBOL World Cup Qualifiers",
+      "match_name": "Uruguay vs Peru",
+      "startTime": "05:00:00 AM 05-09-2025"
+    },
+    {
+      "id": 136672,
+      "event_category": "Football",
+      "title": "Paraguay vs Ecuador (CONMEBOL World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Paraguay",
+      "team_2": "Ecuador",
+      "status": "UPCOMING",
+      "event_name": "CONMEBOL World Cup Qualifiers",
+      "match_name": "Paraguay vs Ecuador",
+      "startTime": "05:00:00 AM 05-09-2025"
+    },
+    {
+      "id": 136671,
+      "event_category": "Football",
+      "title": "Colombia vs Bolivia (CONMEBOL World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Colombia",
+      "team_2": "Bolivia",
+      "status": "UPCOMING",
+      "event_name": "CONMEBOL World Cup Qualifiers",
+      "match_name": "Colombia vs Bolivia",
+      "startTime": "05:00:00 AM 05-09-2025"
+    },
+    {
       "id": 136649,
       "event_category": "Football",
       "title": "Tunisia vs Liberia (CAF World Cup Qualifiers)",
@@ -342,40 +380,28 @@
       "startTime": "12:30:00 AM 05-09-2025"
     },
     {
-      "id": 136673,
-      "event_category": "Football",
-      "title": "Uruguay vs Peru (CONMEBOL World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Uruguay",
-      "team_2": "Peru",
+      "id": 136248,
+      "event_category": "Cricket",
+      "title": "Siang Storm vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Siang Storm",
+      "team_2": "Dirang Daredevils",
       "status": "UPCOMING",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_name": "Uruguay vs Peru",
-      "startTime": "05:00:00 AM 05-09-2025"
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Siang Storm vs Dirang Daredevils",
+      "startTime": "09:00:00 AM 05-09-2025"
     },
     {
-      "id": 136672,
-      "event_category": "Football",
-      "title": "Paraguay vs Ecuador (CONMEBOL World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Paraguay",
-      "team_2": "Ecuador",
+      "id": 136223,
+      "event_category": "Cricket",
+      "title": "Panchkula Bashers vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136223_5651_PKB_ALT_fc-Web.jpg",
+      "team_1": "Panchkula Bashers",
+      "team_2": "Altruistian",
       "status": "UPCOMING",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_name": "Paraguay vs Ecuador",
-      "startTime": "05:00:00 AM 05-09-2025"
-    },
-    {
-      "id": 136671,
-      "event_category": "Football",
-      "title": "Colombia vs Bolivia (CONMEBOL World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Colombia",
-      "team_2": "Bolivia",
-      "status": "UPCOMING",
-      "event_name": "CONMEBOL World Cup Qualifiers",
-      "match_name": "Colombia vs Bolivia",
-      "startTime": "05:00:00 AM 05-09-2025"
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Panchkula Bashers vs Altruistian",
+      "startTime": "10:00:00 AM 05-09-2025"
     },
     {
       "id": 135825,
@@ -388,18 +414,6 @@
       "event_name": "Amgen Irish Open 2025",
       "match_name": "Day 1",
       "startTime": "05:30:00 PM 04-09-2025"
-    },
-    {
-      "id": 136248,
-      "event_category": "Cricket",
-      "title": "Siang Storm vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Siang Storm",
-      "team_2": "Dirang Daredevils",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Siang Storm vs Dirang Daredevils",
-      "startTime": "09:00:00 AM 05-09-2025"
     }
   ]
 }
