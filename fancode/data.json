@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:06 PM 04-09-2025",
+  "last update time": "12:22 PM 04-09-2025",
   "matches": [
     {
       "id": 136246,
@@ -30,6 +30,20 @@
       "startTime": "10:00:00 AM 04-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/P6lZH2BRSVWveUc0TVeo_g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136221_english_hls_035067407419130ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 135825,
+      "event_category": "Golf",
+      "title": "Day 1 vs The K Club (Amgen Irish Open 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "The K Club",
+      "status": "LIVE",
+      "event_name": "Amgen Irish Open 2025",
+      "match_name": "Day 1",
+      "startTime": "12:30:00 PM 04-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8"
     },
     {
       "id": 133904,
@@ -92,18 +106,6 @@
       "startTime": "08:30:00 PM 04-09-2025"
     },
     {
-      "id": 132366,
-      "event_category": "Cricket",
-      "title": "Barbados Royals vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Barbados-Royals-VS-Guyana-Amazon-Warriors_old.jpg",
-      "team_1": "Barbados Royals",
-      "team_2": "Guyana Amazon Warriors",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Barbados Royals vs Guyana Amazon Warriors",
-      "startTime": "04:30:00 AM 05-09-2025"
-    },
-    {
       "id": 133778,
       "event_category": "Cricket",
       "title": "Nigeria Women vs Kenya Women (ICC Women's T20 WC Africa Qualifier Division 1)",
@@ -138,6 +140,18 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Pare Panthers vs Kamle Knights",
       "startTime": "01:15:00 PM 04-09-2025"
+    },
+    {
+      "id": 132366,
+      "event_category": "Cricket",
+      "title": "Barbados Royals vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Barbados-Royals-VS-Guyana-Amazon-Warriors_old.jpg",
+      "team_1": "Barbados Royals",
+      "team_2": "Guyana Amazon Warriors",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Barbados Royals vs Guyana Amazon Warriors",
+      "startTime": "04:30:00 AM 05-09-2025"
     },
     {
       "id": 136222,
@@ -354,18 +368,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Algeria vs Botswana",
       "startTime": "12:30:00 AM 05-09-2025"
-    },
-    {
-      "id": 135825,
-      "event_category": "Golf",
-      "title": "Day 1 vs The K Club (Amgen Irish Open 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "The K Club",
-      "status": "UPCOMING",
-      "event_name": "Amgen Irish Open 2025",
-      "match_name": "Day 1",
-      "startTime": "12:30:00 PM 04-09-2025"
     },
     {
       "id": 136248,
