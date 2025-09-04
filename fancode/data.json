@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:58 PM 04-09-2025",
+  "last update time": "02:18 PM 04-09-2025",
   "matches": [
+    {
+      "id": 133904,
+      "event_category": "Cricket",
+      "title": "Alleppey Ripples vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133904_5600_AP_AKS_fc-Web_1756713694161.jpg",
+      "team_1": "Alleppey Ripples",
+      "team_2": "Aries Kollam Sailors",
+      "status": "LIVE",
+      "event_name": "Kerala Cricket League, 2025",
+      "match_name": "Alleppey Ripples vs Aries Kollam Sailors",
+      "startTime": "02:30:00 PM 04-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Mn6VUQCqQzKeufl1e-H1ig/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133904_english_hls_ef9ab99c0a20748ta-di_h264/index.m3u8"
+    },
     {
       "id": 136221,
       "event_category": "Cricket",
@@ -60,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136247_english_hls_68189d181589001ta-di_h264/index.m3u8"
     },
     {
+      "id": 136222,
+      "event_category": "Cricket",
+      "title": "Talanoa Tigers vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136222_5651_TLT_PKB_fc-Web.jpg",
+      "team_1": "Talanoa Tigers",
+      "team_2": "Panchkula Bashers",
+      "status": "LIVE",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Talanoa Tigers vs Panchkula Bashers",
+      "startTime": "02:15:00 PM 04-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/yUwaumvVSMa0_6ytvmb7GA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136222_english_hls_1e2d47d6c642909ta-di_h264/index.m3u8"
+    },
+    {
       "id": 135825,
       "event_category": "Golf",
       "title": "Day 1 vs The K Club (Amgen Irish Open 2025)",
@@ -72,18 +100,6 @@
       "startTime": "12:30:00 PM 04-09-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8"
-    },
-    {
-      "id": 133904,
-      "event_category": "Cricket",
-      "title": "Alleppey Ripples vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133904_5600_AP_AKS_fc-Web_1756713694161.jpg",
-      "team_1": "Alleppey Ripples",
-      "team_2": "Aries Kollam Sailors",
-      "status": "UPCOMING",
-      "event_name": "Kerala Cricket League, 2025",
-      "match_name": "Alleppey Ripples vs Aries Kollam Sailors",
-      "startTime": "02:30:00 PM 04-09-2025"
     },
     {
       "id": 135989,
@@ -144,18 +160,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Barbados Royals vs Guyana Amazon Warriors",
       "startTime": "04:30:00 AM 05-09-2025"
-    },
-    {
-      "id": 136222,
-      "event_category": "Cricket",
-      "title": "Talanoa Tigers vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136222_5651_TLT_PKB_fc-Web.jpg",
-      "team_1": "Talanoa Tigers",
-      "team_2": "Panchkula Bashers",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Talanoa Tigers vs Panchkula Bashers",
-      "startTime": "02:15:00 PM 04-09-2025"
     },
     {
       "id": 133780,
@@ -242,18 +246,6 @@
       "startTime": "05:00:00 AM 05-09-2025"
     },
     {
-      "id": 136248,
-      "event_category": "Cricket",
-      "title": "Siang Storm vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Siang Storm",
-      "team_2": "Dirang Daredevils",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Siang Storm vs Dirang Daredevils",
-      "startTime": "09:00:00 AM 05-09-2025"
-    },
-    {
       "id": 133906,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Kerala Cricket League, 2025)",
@@ -264,6 +256,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "02:30:00 PM 05-09-2025"
+    },
+    {
+      "id": 136248,
+      "event_category": "Cricket",
+      "title": "Siang Storm vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Siang Storm",
+      "team_2": "Dirang Daredevils",
+      "status": "UPCOMING",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Siang Storm vs Dirang Daredevils",
+      "startTime": "09:00:00 AM 05-09-2025"
     },
     {
       "id": 136640,
