@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:59 PM 05-09-2025",
+  "last update time": "12:16 AM 06-09-2025",
   "matches": [
-    {
-      "id": 135789,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs United Arab Emirates (Afghanistan and Pakistan tour of UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(2).jpg",
-      "team_1": "Afghanistan",
-      "team_2": "United Arab Emirates",
-      "status": "LIVE",
-      "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
-      "match_name": "Afghanistan vs United Arab Emirates",
-      "startTime": "08:30:00 PM 05-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/n5m22-5_SpmDjH2NTYMtvA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135789_english_hls_2c2024816c83599ta-di_h264/index.m3u8"
-    },
     {
       "id": 136725,
       "event_category": "Cricket",
@@ -60,6 +46,76 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135976_english_hls_5622bf7b1f30943ta-di_h264/index.m3u8"
     },
     {
+      "id": 136654,
+      "event_category": "Football",
+      "title": "Egypt vs Ethiopia (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136654_3741_EGY_ETH_Fc-Web.jpg",
+      "team_1": "Egypt",
+      "team_2": "Ethiopia",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Egypt vs Ethiopia",
+      "startTime": "12:30:00 AM 06-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/FP8_6UKuR1KqgqjKm0wDxA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136654_english_hls_cce39b87da91918ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136652,
+      "event_category": "Football",
+      "title": "Côte d'Ivoire vs Burundi (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136652_3741_IVC_BRD_Fc-Web.jpg",
+      "team_1": "Côte d'Ivoire",
+      "team_2": "Burundi",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Côte d'Ivoire vs Burundi",
+      "startTime": "12:30:00 AM 06-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/O_A9nVZkQXCztOxpjx6wlA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136652_english_hls_07bee5acb428904ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136661,
+      "event_category": "Football",
+      "title": "Senegal vs Sudan (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136661_3741_SEN_SUD_Fc-Web.jpg",
+      "team_1": "Senegal",
+      "team_2": "Sudan",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Senegal vs Sudan",
+      "startTime": "12:30:00 AM 06-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/mKbomaidQtGuyTnhOho4Qw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136661_english_hls_7e6ba91f1683170ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136659,
+      "event_category": "Football",
+      "title": "Morocco vs Niger (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136659_3741_MOR_NGR_Fc-Web.jpg",
+      "team_1": "Morocco",
+      "team_2": "Niger",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Morocco vs Niger",
+      "startTime": "12:30:00 AM 06-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/jPd6sziJTPO2Lx7gqHNwRw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136659_english_hls_44a70604b641484ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136658,
+      "event_category": "Football",
+      "title": "Mauritania vs Togo (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136658_3741_MAU_TGO_Fc-Web.jpg",
+      "team_1": "Mauritania",
+      "team_2": "Togo",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Mauritania vs Togo",
+      "startTime": "12:30:00 AM 06-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/shq0PVhxRr-qj3tfRl-0OQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136658_english_hls_67cab74ff677172ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133920,
       "event_category": "Golf",
       "title": "Day 1 vs Golfcrest Country Club (Aramco Houston Championship)",
@@ -72,20 +128,6 @@
       "startTime": "11:30:00 PM 05-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/sU5jGQDfS7CBqwczNXVBbA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133920_english_hls_e40b23efff48272ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136653,
-      "event_category": "Football",
-      "title": "Djibouti vs Burkina Faso (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136653_3741_DJI_BRK_Fc-Web.jpg",
-      "team_1": "Djibouti",
-      "team_2": "Burkina Faso",
-      "status": "LIVE",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Djibouti vs Burkina Faso",
-      "startTime": "09:30:00 PM 05-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/uKJ8Lpj6R8ed8Bgtw-SCVg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136653_english_hls_c3c30c6c9e10324ta-di_h264/index.m3u8"
     },
     {
       "id": 132367,
@@ -134,66 +176,6 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Canada vs Scotland",
       "startTime": "08:00:00 PM 06-09-2025"
-    },
-    {
-      "id": 136654,
-      "event_category": "Football",
-      "title": "Egypt vs Ethiopia (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136654_3741_EGY_ETH_Fc-Web.jpg",
-      "team_1": "Egypt",
-      "team_2": "Ethiopia",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Egypt vs Ethiopia",
-      "startTime": "12:30:00 AM 06-09-2025"
-    },
-    {
-      "id": 136652,
-      "event_category": "Football",
-      "title": "Côte d'Ivoire vs Burundi (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136652_3741_IVC_BRD_Fc-Web.jpg",
-      "team_1": "Côte d'Ivoire",
-      "team_2": "Burundi",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Côte d'Ivoire vs Burundi",
-      "startTime": "12:30:00 AM 06-09-2025"
-    },
-    {
-      "id": 136661,
-      "event_category": "Football",
-      "title": "Senegal vs Sudan (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136661_3741_SEN_SUD_Fc-Web.jpg",
-      "team_1": "Senegal",
-      "team_2": "Sudan",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Senegal vs Sudan",
-      "startTime": "12:30:00 AM 06-09-2025"
-    },
-    {
-      "id": 136659,
-      "event_category": "Football",
-      "title": "Morocco vs Niger (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136659_3741_MOR_NGR_Fc-Web.jpg",
-      "team_1": "Morocco",
-      "team_2": "Niger",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Morocco vs Niger",
-      "startTime": "12:30:00 AM 06-09-2025"
-    },
-    {
-      "id": 136658,
-      "event_category": "Football",
-      "title": "Mauritania vs Togo (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136658_3741_MAU_TGO_Fc-Web.jpg",
-      "team_1": "Mauritania",
-      "team_2": "Togo",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Mauritania vs Togo",
-      "startTime": "12:30:00 AM 06-09-2025"
     },
     {
       "id": 136250,
@@ -268,18 +250,6 @@
       "startTime": "02:15:00 PM 06-09-2025"
     },
     {
-      "id": 136755,
-      "event_category": "Cricket",
-      "title": "Muscat Thunders vs Renaissance Challengers (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "Muscat Thunders",
-      "team_2": "Renaissance Challengers",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Muscat Thunders vs Renaissance Challengers",
-      "startTime": "02:45:00 PM 06-09-2025"
-    },
-    {
       "id": 136727,
       "event_category": "Cricket",
       "title": "Somerset vs Warwickshire (Vitality Blast T20, 2025)",
@@ -290,6 +260,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Somerset vs Warwickshire",
       "startTime": "11:00:00 PM 06-09-2025"
+    },
+    {
+      "id": 136755,
+      "event_category": "Cricket",
+      "title": "Muscat Thunders vs Renaissance Challengers (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "Muscat Thunders",
+      "team_2": "Renaissance Challengers",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Muscat Thunders vs Renaissance Challengers",
+      "startTime": "02:45:00 PM 06-09-2025"
     },
     {
       "id": 133800,
@@ -458,6 +440,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
       "startTime": "04:30:00 AM 07-09-2025"
+    },
+    {
+      "id": 136817,
+      "event_category": "Baseball",
+      "title": "Baltimore Orioles vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136817_5028_BAO_LAD_fc-Web.jpg",
+      "team_1": "Baltimore Orioles",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Baltimore Orioles vs Los Angeles Dodgers",
+      "startTime": "04:35:00 AM 06-09-2025"
     }
   ]
 }
