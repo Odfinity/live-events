@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:54 PM 05-09-2025",
+  "last update time": "08:12 PM 05-09-2025",
   "matches": [
+    {
+      "id": 135789,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs United Arab Emirates (Afghanistan and Pakistan tour of UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(2).jpg",
+      "team_1": "Afghanistan",
+      "team_2": "United Arab Emirates",
+      "status": "LIVE",
+      "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
+      "match_name": "Afghanistan vs United Arab Emirates",
+      "startTime": "08:30:00 PM 05-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/n5m22-5_SpmDjH2NTYMtvA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135789_english_hls_2c2024816c83599ta-di_h264/index.m3u8"
+    },
     {
       "id": 119176,
       "event_category": "MotoGP",
@@ -102,30 +116,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135826_english_hls_f6a7277ff068184ta-di_h264/index.m3u8"
     },
     {
-      "id": 119066,
-      "event_category": "Motorsports",
-      "title": "Qualifying Session vs Monza (F2 MONZA 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Qualifying Session",
-      "team_2": "Monza",
+      "id": 118457,
+      "event_category": "Formula 1",
+      "title": "Practice 2 vs Italy (F1 PIRELLI GRAN PREMIO D’ITALIA 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA-2025_match-card.jpg",
+      "team_1": "Practice 2",
+      "team_2": "Italy",
       "status": "LIVE",
-      "event_name": "F2 MONZA 2025",
-      "match_name": "Qualifying Session",
-      "startTime": "07:25:00 PM 05-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119066_english_hls_84a2c5c7eb65220adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119066_english_hls_84a2c5c7eb65220adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 135789,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs United Arab Emirates (Afghanistan and Pakistan tour of UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(2).jpg",
-      "team_1": "Afghanistan",
-      "team_2": "United Arab Emirates",
-      "status": "UPCOMING",
-      "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
-      "match_name": "Afghanistan vs United Arab Emirates",
-      "startTime": "08:30:00 PM 05-09-2025"
+      "event_name": "F1 PIRELLI GRAN PREMIO D’ITALIA 2025",
+      "match_name": "Practice 2",
+      "startTime": "08:30:00 PM 05-09-2025",
+      "dai_url": "https://d2rw6dcine0sex.cloudfront.net/out/v1/5e145b775f304473a24e4d3695060c9b/index.m3u8",
+      "adfree_url": "https://d2rw6dcine0sex.cloudfront.net/out/v1/5e145b775f304473a24e4d3695060c9b/index.m3u8"
     },
     {
       "id": 136725,
@@ -428,18 +430,6 @@
       "startTime": "12:30:00 AM 06-09-2025"
     },
     {
-      "id": 118457,
-      "event_category": "Formula 1",
-      "title": "Practice 2 vs Italy (F1 PIRELLI GRAN PREMIO D’ITALIA 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA-2025_match-card.jpg",
-      "team_1": "Practice 2",
-      "team_2": "Italy",
-      "status": "UPCOMING",
-      "event_name": "F1 PIRELLI GRAN PREMIO D’ITALIA 2025",
-      "match_name": "Practice 2",
-      "startTime": "08:30:00 PM 05-09-2025"
-    },
-    {
       "id": 136756,
       "event_category": "Cricket",
       "title": "Yalla Shabab Giants vs SFT Smashers (Oman D10 League, 2025)",
@@ -474,6 +464,18 @@
       "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
       "match_name": "TBC vs TBC",
       "startTime": "05:20:00 PM 06-09-2025"
+    },
+    {
+      "id": 136727,
+      "event_category": "Cricket",
+      "title": "Somerset vs Warwickshire (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Somerset_vs_Birmingham-Bears_Old_match-card.jpg",
+      "team_1": "Somerset",
+      "team_2": "Warwickshire",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Somerset vs Warwickshire",
+      "startTime": "11:00:00 PM 06-09-2025"
     }
   ]
 }
