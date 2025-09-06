@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:16 PM 06-09-2025",
+  "last update time": "06:40 PM 06-09-2025",
   "matches": [
     {
       "id": 133668,
@@ -32,6 +32,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119179_english_hls_d06a3bdf89351ta-di_h264/index.m3u8"
     },
     {
+      "id": 136756,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs SFT Smashers (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "SFT Smashers",
+      "status": "LIVE",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Yalla Shabab Giants vs SFT Smashers",
+      "startTime": "05:00:00 PM 06-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KwWuQLrhQgSuzYRaLZ1GNQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136756_english_hls_313544c82459481ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133784,
       "event_category": "Cricket",
       "title": "Rwanda Women vs Kenya Women (ICC Women's T20 WC Africa Qualifier Division 1)",
@@ -58,20 +72,6 @@
       "startTime": "05:20:00 PM 06-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Q9ngNiZNR2atmo6w0OXm-g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133783_english_hls_996c616b6721206ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136756,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs SFT Smashers (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "SFT Smashers",
-      "status": "LIVE",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Yalla Shabab Giants vs SFT Smashers",
-      "startTime": "05:00:00 PM 06-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/KwWuQLrhQgSuzYRaLZ1GNQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136756_english_hls_313544c82459481ta-di_h264/index.m3u8"
     },
     {
       "id": 132025,
@@ -132,13 +132,13 @@
     {
       "id": 136726,
       "event_category": "Cricket",
-      "title": "Lancashire vs Kent (Vitality Blast T20, 2025)",
+      "title": "Kent vs Lancashire (Vitality Blast T20, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Lancashire_vs_Kent_Old_match_-cards.jpg",
-      "team_1": "Lancashire",
-      "team_2": "Kent",
+      "team_1": "Kent",
+      "team_2": "Lancashire",
       "status": "UPCOMING",
       "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Lancashire vs Kent",
+      "match_name": "Kent vs Lancashire",
       "startTime": "07:00:00 PM 06-09-2025"
     },
     {
@@ -274,18 +274,6 @@
       "startTime": "10:00:00 AM 07-09-2025"
     },
     {
-      "id": 136252,
-      "event_category": "Cricket",
-      "title": "Tawang Titans vs Siang Storm (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Tawang Titans",
-      "team_2": "Siang Storm",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Tawang Titans vs Siang Storm",
-      "startTime": "01:15:00 PM 07-09-2025"
-    },
-    {
       "id": 133908,
       "event_category": "Cricket",
       "title": "Aries Kollam Sailors vs Kochi Blue Tigers (Kerala Cricket League, 2025)",
@@ -296,6 +284,18 @@
       "event_name": "Kerala Cricket League, 2025",
       "match_name": "Aries Kollam Sailors vs Kochi Blue Tigers",
       "startTime": "06:45:00 PM 07-09-2025"
+    },
+    {
+      "id": 136252,
+      "event_category": "Cricket",
+      "title": "Tawang Titans vs Siang Storm (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Tawang Titans",
+      "team_2": "Siang Storm",
+      "status": "UPCOMING",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Tawang Titans vs Siang Storm",
+      "startTime": "01:15:00 PM 07-09-2025"
     },
     {
       "id": 136665,
@@ -346,6 +346,18 @@
       "startTime": "02:15:00 PM 07-09-2025"
     },
     {
+      "id": 118459,
+      "event_category": "Formula 1",
+      "title": "Qualifying vs Italy (F1 PIRELLI GRAN PREMIO D’ITALIA 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA-2025_match-card.jpg",
+      "team_1": "Qualifying",
+      "team_2": "Italy",
+      "status": "UPCOMING",
+      "event_name": "F1 PIRELLI GRAN PREMIO D’ITALIA 2025",
+      "match_name": "Qualifying",
+      "startTime": "07:30:00 PM 06-09-2025"
+    },
+    {
       "id": 132369,
       "event_category": "Cricket",
       "title": "Barbados Royals vs Saint Lucia Kings (Caribbean Premier League, 2025)",
@@ -394,18 +406,6 @@
       "startTime": "07:15:00 PM 07-09-2025"
     },
     {
-      "id": 118459,
-      "event_category": "Formula 1",
-      "title": "Qualifying vs Italy (F1 PIRELLI GRAN PREMIO D’ITALIA 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA-2025_match-card.jpg",
-      "team_1": "Qualifying",
-      "team_2": "Italy",
-      "status": "UPCOMING",
-      "event_name": "F1 PIRELLI GRAN PREMIO D’ITALIA 2025",
-      "match_name": "Qualifying",
-      "startTime": "07:30:00 PM 06-09-2025"
-    },
-    {
       "id": 136819,
       "event_category": "Baseball",
       "title": "New York Yankees vs Toronto Blue Jays (Major League Baseball, 2025)",
@@ -430,18 +430,6 @@
       "startTime": "11:30:00 PM 06-09-2025"
     },
     {
-      "id": 136820,
-      "event_category": "Baseball",
-      "title": "Los Angeles Angels vs Oakland Athletics (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136820_5028_LAA_OA_fc-Web.jpg",
-      "team_1": "Los Angeles Angels",
-      "team_2": "Oakland Athletics",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Angels vs Oakland Athletics",
-      "startTime": "07:08:00 AM 07-09-2025"
-    },
-    {
       "id": 133801,
       "event_category": "Cricket",
       "title": "Guyana Amazon Warriors Women vs Barbados Royals Women (Women's Caribbean Premier League, 2025)",
@@ -464,6 +452,18 @@
       "event_name": "Oman D10 League, 2025",
       "match_name": "IAS Invincibles vs Ideal International",
       "startTime": "09:45:00 PM 07-09-2025"
+    },
+    {
+      "id": 136820,
+      "event_category": "Baseball",
+      "title": "Los Angeles Angels vs Oakland Athletics (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136820_5028_LAA_OA_fc-Web.jpg",
+      "team_1": "Los Angeles Angels",
+      "team_2": "Oakland Athletics",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Angels vs Oakland Athletics",
+      "startTime": "07:08:00 AM 07-09-2025"
     }
   ]
 }
