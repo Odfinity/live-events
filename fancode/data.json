@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:11 AM 07-09-2025",
+  "last update time": "03:27 AM 07-09-2025",
   "matches": [
-    {
-      "id": 133800,
-      "event_category": "Cricket",
-      "title": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women (Women's Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133800_5594_GUY-W_TKR-W_fc-Web_1757131430122.jpg",
-      "team_1": "Guyana Amazon Warriors Women",
-      "team_2": "Trinbago Knight Riders Women",
-      "status": "LIVE",
-      "event_name": "Women's Caribbean Premier League, 2025",
-      "match_name": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women",
-      "startTime": "11:30:00 PM 06-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/PA4aEUrLToSHJwYbYGnMoQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133800_english_hls_fe0b51adcb58167ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136819,
-      "event_category": "Baseball",
-      "title": "New York Yankees vs Toronto Blue Jays (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136819_5028_NEY_TOJ_fc-Web.jpg",
-      "team_1": "New York Yankees",
-      "team_2": "Toronto Blue Jays",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "New York Yankees vs Toronto Blue Jays",
-      "startTime": "10:35:00 PM 06-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136819_english_hls_cc27f57f5e33220ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136819_english_hls_cc27f57f5e33220ta-di_h264/index.m3u8"
-    },
     {
       "id": 132368,
       "event_category": "Cricket",
@@ -390,6 +362,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Texas Rangers vs Houston Astros",
       "startTime": "12:05:00 AM 08-09-2025"
+    },
+    {
+      "id": 136254,
+      "event_category": "Cricket",
+      "title": "Kamle Knights vs Kurung Blasters (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Kamle Knights",
+      "team_2": "Kurung Blasters",
+      "status": "UPCOMING",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Kamle Knights vs Kurung Blasters",
+      "startTime": "09:00:00 AM 08-09-2025"
     }
   ]
 }
