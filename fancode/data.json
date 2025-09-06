@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:51 AM 07-09-2025",
+  "last update time": "04:08 AM 07-09-2025",
   "matches": [
     {
       "id": 132368,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132368_5512_GUY_TKR_fc-web.jpg",
       "team_1": "Guyana Amazon Warriors",
       "team_2": "Trinbago Knight Riders",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
-      "startTime": "04:30:00 AM 07-09-2025"
+      "startTime": "04:30:00 AM 07-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2WEkvkFbRF29yIAcsCHoQA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132368_english_hls_0680678baa77729ta-di_h264/index.m3u8"
     },
     {
       "id": 135990,
@@ -352,18 +354,6 @@
       "startTime": "11:30:00 PM 07-09-2025"
     },
     {
-      "id": 136823,
-      "event_category": "Baseball",
-      "title": "Texas Rangers vs Houston Astros (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136823_5028_TR_HAS_fc-Web.jpg",
-      "team_1": "Texas Rangers",
-      "team_2": "Houston Astros",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Texas Rangers vs Houston Astros",
-      "startTime": "12:05:00 AM 08-09-2025"
-    },
-    {
       "id": 136254,
       "event_category": "Cricket",
       "title": "Kamle Knights vs Kurung Blasters (Arunachal T20 Championship, 2025)",
@@ -374,6 +364,18 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Kamle Knights vs Kurung Blasters",
       "startTime": "09:00:00 AM 08-09-2025"
+    },
+    {
+      "id": 136823,
+      "event_category": "Baseball",
+      "title": "Texas Rangers vs Houston Astros (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136823_5028_TR_HAS_fc-Web.jpg",
+      "team_1": "Texas Rangers",
+      "team_2": "Houston Astros",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Texas Rangers vs Houston Astros",
+      "startTime": "12:05:00 AM 08-09-2025"
     }
   ]
 }
