@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:54 PM 07-09-2025",
+  "last update time": "02:11 PM 07-09-2025",
   "matches": [
     {
       "id": 119180,
@@ -30,20 +30,6 @@
       "startTime": "03:30:00 PM 07-09-2025"
     },
     {
-      "id": 136227,
-      "event_category": "Cricket",
-      "title": "Capital Strikers vs Dr Morepen Dazzlers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136227_5651_CST_DMD_fc-Web.jpg",
-      "team_1": "Capital Strikers",
-      "team_2": "Dr Morepen Dazzlers",
-      "status": "LIVE",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Capital Strikers vs Dr Morepen Dazzlers",
-      "startTime": "10:00:00 AM 07-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/KQ0XL_z0TiCVdXrW_ikB2g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136227_english_hls_071ffc712724645ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136252,
       "event_category": "Cricket",
       "title": "Siang Storm vs Tawang Titans (Arunachal T20 Championship, 2025)",
@@ -56,6 +42,20 @@
       "startTime": "01:15:00 PM 07-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/tENKo_3ZSMmXdyP9rfUU6w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136252_english_hls_44f364e3e544286ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136228,
+      "event_category": "Cricket",
+      "title": "Chandigarh Kings vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136228_5651_CST_ALT_fc-Web.jpg",
+      "team_1": "Chandigarh Kings",
+      "team_2": "Altruistian",
+      "status": "LIVE",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Chandigarh Kings vs Altruistian",
+      "startTime": "02:15:00 PM 07-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gYBIjbw0SPq0kjZ9YRIeJg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136228_english_hls_64f7da6ed522809ta-di_h264/index.m3u8"
     },
     {
       "id": 119068,
@@ -130,18 +130,6 @@
       "event_name": "Women's Caribbean Premier League, 2025",
       "match_name": "Guyana Amazon Warriors Women vs Barbados Royals Women",
       "startTime": "12:30:00 AM 08-09-2025"
-    },
-    {
-      "id": 136228,
-      "event_category": "Cricket",
-      "title": "Chandigarh Kings vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136228_5651_CST_ALT_fc-Web.jpg",
-      "team_1": "Chandigarh Kings",
-      "team_2": "Altruistian",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Chandigarh Kings vs Altruistian",
-      "startTime": "02:15:00 PM 07-09-2025"
     },
     {
       "id": 132370,
@@ -336,6 +324,18 @@
       "startTime": "09:35:00 PM 07-09-2025"
     },
     {
+      "id": 136763,
+      "event_category": "Cricket",
+      "title": "Royal Oman Stallions vs Majees Titans (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
+      "team_1": "Royal Oman Stallions",
+      "team_2": "Majees Titans",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Royal Oman Stallions vs Majees Titans",
+      "startTime": "05:00:00 PM 08-09-2025"
+    },
+    {
       "id": 136822,
       "event_category": "Baseball",
       "title": "Baltimore Orioles vs Los Angeles Dodgers (Major League Baseball, 2025)",
@@ -372,18 +372,6 @@
       "startTime": "12:05:00 AM 08-09-2025"
     },
     {
-      "id": 136763,
-      "event_category": "Cricket",
-      "title": "Royal Oman Stallions vs Majees Titans (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-      "team_1": "Royal Oman Stallions",
-      "team_2": "Majees Titans",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Royal Oman Stallions vs Majees Titans",
-      "startTime": "05:00:00 PM 08-09-2025"
-    },
-    {
       "id": 136618,
       "event_category": "Football",
       "title": "India vs Oman (CAFA Nations Cup 2025)",
@@ -394,6 +382,18 @@
       "event_name": "CAFA Nations Cup 2025",
       "match_name": "India vs Oman",
       "startTime": "05:30:00 PM 08-09-2025"
+    },
+    {
+      "id": 136764,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Pai XI Mavericks (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Pai XI Mavericks",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Yalla Shabab Giants vs Pai XI Mavericks",
+      "startTime": "07:15:00 PM 08-09-2025"
     }
   ]
 }
