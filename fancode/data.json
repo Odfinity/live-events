@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:09 PM 07-09-2025",
+  "last update time": "09:21 PM 07-09-2025",
   "matches": [
     {
       "id": 135990,
@@ -88,6 +88,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136760_english_hls_309fa99e6373378ta-di_h264/index.m3u8"
     },
     {
+      "id": 136666,
+      "event_category": "Football",
+      "title": "Central African Republic vs Comoros (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136666_3741_CAF_COM_Fc-Web.jpg",
+      "team_1": "Central African Republic",
+      "team_2": "Comoros",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Central African Republic vs Comoros",
+      "startTime": "09:30:00 PM 07-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/o6ELZsYgRPuzqVCF_l1Kbg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136666_english_hls_bfe4eaa2f015732ta-di_h264/index.m3u8"
+    },
+    {
       "id": 135828,
       "event_category": "Golf",
       "title": "Day 4 vs The K Club (Amgen Irish Open 2025)",
@@ -150,18 +164,6 @@
       "event_name": "Oman D10 League, 2025",
       "match_name": "IAS Invincibles vs Ideal International",
       "startTime": "09:45:00 PM 07-09-2025"
-    },
-    {
-      "id": 136666,
-      "event_category": "Football",
-      "title": "Central African Republic vs Comoros (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136666_3741_CAF_COM_Fc-Web.jpg",
-      "team_1": "Central African Republic",
-      "team_2": "Comoros",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Central African Republic vs Comoros",
-      "startTime": "09:30:00 PM 07-09-2025"
     },
     {
       "id": 135977,
@@ -332,6 +334,18 @@
       "startTime": "06:30:00 PM 08-09-2025"
     },
     {
+      "id": 136766,
+      "event_category": "Cricket",
+      "title": "Muscat Thunders vs Braveheart XI (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
+      "team_1": "Muscat Thunders",
+      "team_2": "Braveheart XI",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Muscat Thunders vs Braveheart XI",
+      "startTime": "12:00:00 AM 09-09-2025"
+    },
+    {
       "id": 133922,
       "event_category": "Golf",
       "title": "Day 3 vs Golfcrest Country Club (Aramco Houston Championship)",
@@ -354,18 +368,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Baltimore Orioles vs Los Angeles Dodgers",
       "startTime": "11:05:00 PM 07-09-2025"
-    },
-    {
-      "id": 136823,
-      "event_category": "Baseball",
-      "title": "Texas Rangers vs Houston Astros (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136823_5028_TR_HAS_fc-Web.jpg",
-      "team_1": "Texas Rangers",
-      "team_2": "Houston Astros",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Texas Rangers vs Houston Astros",
-      "startTime": "12:05:00 AM 08-09-2025"
     },
     {
       "id": 136684,
@@ -428,16 +430,16 @@
       "startTime": "09:30:00 PM 08-09-2025"
     },
     {
-      "id": 136766,
-      "event_category": "Cricket",
-      "title": "Muscat Thunders vs Braveheart XI (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-      "team_1": "Muscat Thunders",
-      "team_2": "Braveheart XI",
+      "id": 136823,
+      "event_category": "Baseball",
+      "title": "Texas Rangers vs Houston Astros (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136823_5028_TR_HAS_fc-Web.jpg",
+      "team_1": "Texas Rangers",
+      "team_2": "Houston Astros",
       "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Muscat Thunders vs Braveheart XI",
-      "startTime": "12:00:00 AM 09-09-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Texas Rangers vs Houston Astros",
+      "startTime": "12:05:00 AM 08-09-2025"
     }
   ]
 }
