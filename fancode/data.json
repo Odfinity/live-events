@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 AM 07-09-2025",
+  "last update time": "07:33 AM 07-09-2025",
   "matches": [
     {
       "id": 132368,
@@ -16,6 +16,20 @@
       "startTime": "04:30:00 AM 07-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/2WEkvkFbRF29yIAcsCHoQA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132368_english_hls_0680678baa77729ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136820,
+      "event_category": "Baseball",
+      "title": "Los Angeles Angels vs Oakland Athletics (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136820_5028_LAA_OA_fc-Web.jpg",
+      "team_1": "Los Angeles Angels",
+      "team_2": "Oakland Athletics",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Angels vs Oakland Athletics",
+      "startTime": "07:08:00 AM 07-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136820_english_hls_6244f64c1d24289ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136820_english_hls_6244f64c1d24289ta-di_h264/index.m3u8"
     },
     {
       "id": 135990,
@@ -138,6 +152,18 @@
       "startTime": "02:15:00 PM 07-09-2025"
     },
     {
+      "id": 132370,
+      "event_category": "Cricket",
+      "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132370_5512_GUY_SKN_fc-web.jpg",
+      "team_1": "Guyana Amazon Warriors",
+      "team_2": "St Kitts and Nevis Patriots",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
+      "startTime": "05:30:00 AM 08-09-2025"
+    },
+    {
       "id": 135984,
       "event_category": "Cricket",
       "title": "West Indies Under-19 vs Sri Lanka Under-19 (Sri Lanka Under-19 tour of West Indies, 2025)",
@@ -172,18 +198,6 @@
       "event_name": "Oman D10 League, 2025",
       "match_name": "IAS Invincibles vs Ideal International",
       "startTime": "09:45:00 PM 07-09-2025"
-    },
-    {
-      "id": 132370,
-      "event_category": "Cricket",
-      "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132370_5512_GUY_SKN_fc-web.jpg",
-      "team_1": "Guyana Amazon Warriors",
-      "team_2": "St Kitts and Nevis Patriots",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
-      "startTime": "05:30:00 AM 08-09-2025"
     },
     {
       "id": 136762,
@@ -234,16 +248,28 @@
       "startTime": "05:30:00 AM 08-09-2025"
     },
     {
-      "id": 136820,
-      "event_category": "Baseball",
-      "title": "Los Angeles Angels vs Oakland Athletics (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136820_5028_LAA_OA_fc-Web.jpg",
-      "team_1": "Los Angeles Angels",
-      "team_2": "Oakland Athletics",
+      "id": 136254,
+      "event_category": "Cricket",
+      "title": "Kamle Knights vs Kurung Blasters (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Kamle Knights",
+      "team_2": "Kurung Blasters",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Angels vs Oakland Athletics",
-      "startTime": "07:08:00 AM 07-09-2025"
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Kamle Knights vs Kurung Blasters",
+      "startTime": "09:00:00 AM 08-09-2025"
+    },
+    {
+      "id": 136229,
+      "event_category": "Cricket",
+      "title": "Panchkula Bashers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136229_5651_PKB_TLT_fc-Web.jpg",
+      "team_1": "Panchkula Bashers",
+      "team_2": "Talanoa Tigers",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Panchkula Bashers vs Talanoa Tigers",
+      "startTime": "10:00:00 AM 08-09-2025"
     },
     {
       "id": 119111,
@@ -318,18 +344,6 @@
       "startTime": "06:30:00 PM 07-09-2025"
     },
     {
-      "id": 136254,
-      "event_category": "Cricket",
-      "title": "Kamle Knights vs Kurung Blasters (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Kamle Knights",
-      "team_2": "Kurung Blasters",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Kamle Knights vs Kurung Blasters",
-      "startTime": "09:00:00 AM 08-09-2025"
-    },
-    {
       "id": 136821,
       "event_category": "Baseball",
       "title": "Atlanta Braves vs Seattle Mariners (Major League Baseball, 2025)",
@@ -366,16 +380,16 @@
       "startTime": "11:30:00 PM 07-09-2025"
     },
     {
-      "id": 136229,
-      "event_category": "Cricket",
-      "title": "Panchkula Bashers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136229_5651_PKB_TLT_fc-Web.jpg",
-      "team_1": "Panchkula Bashers",
-      "team_2": "Talanoa Tigers",
+      "id": 136823,
+      "event_category": "Baseball",
+      "title": "Texas Rangers vs Houston Astros (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136823_5028_TR_HAS_fc-Web.jpg",
+      "team_1": "Texas Rangers",
+      "team_2": "Houston Astros",
       "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Panchkula Bashers vs Talanoa Tigers",
-      "startTime": "10:00:00 AM 08-09-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Texas Rangers vs Houston Astros",
+      "startTime": "12:05:00 AM 08-09-2025"
     }
   ]
 }
