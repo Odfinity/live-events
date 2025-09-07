@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:09 AM 08-09-2025",
+  "last update time": "04:21 AM 08-09-2025",
   "matches": [
-    {
-      "id": 133801,
-      "event_category": "Cricket",
-      "title": "Guyana Amazon Warriors Women vs Barbados Royals Women (Women's Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133801_5594_GUY-W_BR-W_fc-Web_1757131430160.jpg",
-      "team_1": "Guyana Amazon Warriors Women",
-      "team_2": "Barbados Royals Women",
-      "status": "LIVE",
-      "event_name": "Women's Caribbean Premier League, 2025",
-      "match_name": "Guyana Amazon Warriors Women vs Barbados Royals Women",
-      "startTime": "12:30:00 AM 08-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/2T6MNILnS3-KaWE_UBDHsg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133801_english_hls_d874f17bce99473ta-di_h264/index.m3u8"
-    },
     {
       "id": 132370,
       "event_category": "Cricket",
@@ -376,6 +362,18 @@
       "event_name": "Chandigarh Premier League T20 Tournament, 2025",
       "match_name": "Talanoa Tigers vs Chandigarh Kings",
       "startTime": "02:15:00 PM 09-09-2025"
+    },
+    {
+      "id": 136767,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Renaissance Challengers",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
+      "startTime": "05:00:00 PM 09-09-2025"
     }
   ]
 }
