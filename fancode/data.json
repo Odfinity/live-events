@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:54 PM 07-09-2025",
+  "last update time": "10:11 PM 07-09-2025",
   "matches": [
     {
       "id": 132369,
@@ -76,13 +76,13 @@
     {
       "id": 136761,
       "event_category": "Cricket",
-      "title": "IAS Invincibles vs Ideal International (Oman D10 League, 2025)",
+      "title": "Ideal International vs IAS Invincibles (Oman D10 League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Ideal International",
+      "team_1": "Ideal International",
+      "team_2": "IAS Invincibles",
       "status": "LIVE",
       "event_name": "Oman D10 League, 2025",
-      "match_name": "IAS Invincibles vs Ideal International",
+      "match_name": "Ideal International vs IAS Invincibles",
       "startTime": "09:45:00 PM 07-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/NYZd7llgQN-rPn-QH3A0Uw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136761_english_hls_378f41b82c92495ta-di_h264/index.m3u8"
@@ -128,20 +128,6 @@
       "startTime": "05:00:00 PM 07-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/P3s4pH3KSzqXi8ufXmhBeA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135828_english_hls_fd68dc1adc94209ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 118460,
-      "event_category": "Formula 1",
-      "title": "Race vs Italy (F1 PIRELLI GRAN PREMIO D’ITALIA 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA-2025_match-card.jpg",
-      "team_1": "Race",
-      "team_2": "Italy",
-      "status": "LIVE",
-      "event_name": "F1 PIRELLI GRAN PREMIO D’ITALIA 2025",
-      "match_name": "Race",
-      "startTime": "06:30:00 PM 07-09-2025",
-      "dai_url": "https://d266bbdxspm9rd.cloudfront.net/out/v1/aeb90808c10b4dfeb543017dc9144e91/index.m3u8",
-      "adfree_url": "https://d266bbdxspm9rd.cloudfront.net/out/v1/aeb90808c10b4dfeb543017dc9144e91/index.m3u8"
     },
     {
       "id": 136821,
@@ -278,6 +264,18 @@
       "startTime": "10:30:00 PM 07-09-2025"
     },
     {
+      "id": 136822,
+      "event_category": "Baseball",
+      "title": "Baltimore Orioles vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136822_5028_BAO_LAD_fc-Web.jpg",
+      "team_1": "Baltimore Orioles",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Baltimore Orioles vs Los Angeles Dodgers",
+      "startTime": "11:05:00 PM 07-09-2025"
+    },
+    {
       "id": 136764,
       "event_category": "Cricket",
       "title": "Yalla Shabab Giants vs Pai XI Mavericks (Oman D10 League, 2025)",
@@ -410,18 +408,6 @@
       "startTime": "09:30:00 PM 08-09-2025"
     },
     {
-      "id": 136822,
-      "event_category": "Baseball",
-      "title": "Baltimore Orioles vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136822_5028_BAO_LAD_fc-Web.jpg",
-      "team_1": "Baltimore Orioles",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Baltimore Orioles vs Los Angeles Dodgers",
-      "startTime": "11:05:00 PM 07-09-2025"
-    },
-    {
       "id": 136823,
       "event_category": "Baseball",
       "title": "Texas Rangers vs Houston Astros (Major League Baseball, 2025)",
@@ -432,6 +418,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Texas Rangers vs Houston Astros",
       "startTime": "12:05:00 AM 08-09-2025"
+    },
+    {
+      "id": 135975,
+      "event_category": "Football",
+      "title": "Eibar vs FC Andorra (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135975_5572_EIB_AND_fc-Web.jpg",
+      "team_1": "Eibar",
+      "team_2": "FC Andorra",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Eibar vs FC Andorra",
+      "startTime": "12:00:00 AM 09-09-2025"
     }
   ]
 }
