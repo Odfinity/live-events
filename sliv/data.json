@@ -1,8 +1,25 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:14 PM 08-09-2025",
+  "last update time": "10:25 PM 08-09-2025",
   "matches": [
+    {
+      "id": "sl1090488418",
+      "isLive": true,
+      "event": "UEFA International Friendlies",
+      "match": "Czechia vs Saudi Arabia - 8 Sep 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007642/1757317083534792_UEFA_INT_Friendlies_Czechia_vs_Saudi_Arabia_8sep_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "Hradec Kralove",
+      "TVchannel": "Sony Sports Ten 2",
+      "MaxResolution": "FHD",
+      "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090488418.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090488418.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090488418.m3u8"
+    },
     {
       "id": "sl1090488209",
       "isLive": false,
@@ -62,21 +79,6 @@
       "MaxResolution": "FHD",
       "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/c66bb41274944bff9e3823e938e66f38/1757142689/baseline-std-v4/Promo_Asia_Cup_India_vs_UAE_H_20_Sec_Rev_APP_hin_baseline-800300010.mpd"
-    },
-    {
-      "id": "sl1090488325",
-      "isLive": false,
-      "event": "Asia Cup 2025",
-      "match": "Upcoming: Bangladesh vs Hong Kong, China",
-      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007631/1757308891566964_acc25_Bangladesh_vs_Hong_Kong_8sep_dated_promo2_landscape_thumb.jpg",
-      "genre": "Cricket",
-      "language": "HIN",
-      "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 5",
-      "MaxResolution": "FHD",
-      "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/bb6053e346774f48965929f71eeb6622/1757247816/baseline-std-v4/1090488325_07092025_hin_baseline-800300010.mpd"
     }
   ]
 }
