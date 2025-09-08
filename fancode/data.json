@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:26 PM 08-09-2025",
+  "last update time": "10:01 PM 08-09-2025",
   "matches": [
     {
-      "id": 136764,
+      "id": 136765,
       "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Pai XI Mavericks (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Pai XI Mavericks",
+      "title": "Bin Ali Strikers vs Ideal International (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+      "team_1": "Bin Ali Strikers",
+      "team_2": "Ideal International",
       "status": "LIVE",
       "event_name": "Oman D10 League, 2025",
-      "match_name": "Yalla Shabab Giants vs Pai XI Mavericks",
-      "startTime": "07:15:00 PM 08-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/GrhnEpLHQIe3TLQqZmRh2w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136764_english_hls_e0003512c792812ta-di_h264/index.m3u8"
+      "match_name": "Bin Ali Strikers vs Ideal International",
+      "startTime": "09:45:00 PM 08-09-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136684,
@@ -30,20 +30,6 @@
       "startTime": "09:30:00 PM 08-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/DWrZ4Ip_SFO7NA65q3a6MQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136684_english_hls_4031f7c7a01906ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136683,
-      "event_category": "Football",
-      "title": "Madagascar vs Chad (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136683_3741_MDG_CHA_Fc-Web.jpg",
-      "team_1": "Madagascar",
-      "team_2": "Chad",
-      "status": "LIVE",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Madagascar vs Chad",
-      "startTime": "09:30:00 PM 08-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/fBdONKVWTyi7xFTxtgWohg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136683_english_hls_f5ed8d021b25869ta-di_h264/index.m3u8"
     },
     {
       "id": 136681,
@@ -74,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136680_english_hls_4a98d89bd145733ta-di_h264/index.m3u8"
     },
     {
+      "id": 136683,
+      "event_category": "Football",
+      "title": "Madagascar vs Chad (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136683_3741_MDG_CHA_Fc-Web.jpg",
+      "team_1": "Madagascar",
+      "team_2": "Chad",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Madagascar vs Chad",
+      "startTime": "09:30:00 PM 08-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fBdONKVWTyi7xFTxtgWohg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136683_english_hls_f5ed8d021b25869ta-di_h264/index.m3u8"
+    },
+    {
       "id": 136686,
       "event_category": "Football",
       "title": "Uganda vs Somalia (CAF World Cup Qualifiers)",
@@ -86,18 +86,6 @@
       "startTime": "09:30:00 PM 08-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/J3vrw5d4QKeot8i5ELcoFg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136686_english_hls_08b2e710bc28885ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136765,
-      "event_category": "Cricket",
-      "title": "Bin Ali Strikers vs Ideal International (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-      "team_1": "Bin Ali Strikers",
-      "team_2": "Ideal International",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Bin Ali Strikers vs Ideal International",
-      "startTime": "09:45:00 PM 08-09-2025"
     },
     {
       "id": 136766,
@@ -208,6 +196,18 @@
       "startTime": "02:15:00 PM 09-09-2025"
     },
     {
+      "id": 136767,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Renaissance Challengers",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
+      "startTime": "05:00:00 PM 09-09-2025"
+    },
+    {
       "id": 135975,
       "event_category": "Football",
       "title": "Eibar vs FC Andorra (LALIGA Hypermotion 2025-26)",
@@ -242,18 +242,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Ghana vs Mali",
       "startTime": "12:30:00 AM 09-09-2025"
-    },
-    {
-      "id": 136767,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Renaissance Challengers",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
-      "startTime": "05:00:00 PM 09-09-2025"
     },
     {
       "id": 135985,
