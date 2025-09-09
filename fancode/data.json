@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:04 AM 09-09-2025",
+  "last update time": "09:22 AM 09-09-2025",
   "matches": [
-    {
-      "id": 136706,
-      "event_category": "Cricket",
-      "title": "Philippines Women vs Samoa Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136706_5663_SAMW_PHI_fc-Web.jpg",
-      "team_1": "Philippines Women",
-      "team_2": "Samoa Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
-      "match_name": "Philippines Women vs Samoa Women",
-      "startTime": "07:00:00 AM 09-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/LBAY_ciyQZ20h2V4can9hw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136706_english_hls_9e8326088128597ta-di_h264/index.m3u8"
-    },
     {
       "id": 136705,
       "event_category": "Cricket",
@@ -58,6 +44,20 @@
       "startTime": "07:40:00 AM 09-09-2025",
       "dai_url": null,
       "adfree_url": null
+    },
+    {
+      "id": 136706,
+      "event_category": "Cricket",
+      "title": "Philippines Women vs Samoa Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136706_5663_SAMW_PHI_fc-Web.jpg",
+      "team_1": "Philippines Women",
+      "team_2": "Samoa Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+      "match_name": "Philippines Women vs Samoa Women",
+      "startTime": "07:00:00 AM 09-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LBAY_ciyQZ20h2V4can9hw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136706_english_hls_9e8326088128597ta-di_h264/index.m3u8"
     },
     {
       "id": 136231,
@@ -454,6 +454,18 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Kamle Knights vs KRA Dominators",
       "startTime": "01:15:00 PM 10-09-2025"
+    },
+    {
+      "id": 136234,
+      "event_category": "Cricket",
+      "title": "Capital Strikers vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136234_5651_CST_CST_fc-Web.jpg",
+      "team_1": "Capital Strikers",
+      "team_2": "Chandigarh Kings",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Capital Strikers vs Chandigarh Kings",
+      "startTime": "02:15:00 PM 10-09-2025"
     }
   ]
 }
