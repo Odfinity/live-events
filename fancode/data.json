@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:24 PM 09-09-2025",
+  "last update time": "12:51 PM 09-09-2025",
   "matches": [
     {
       "id": 136231,
@@ -18,18 +18,16 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136231_english_hls_4aa45bbebe72688ta-di_h264/index.m3u8"
     },
     {
-      "id": 136257,
+      "id": 136731,
       "event_category": "Cricket",
-      "title": "Tawang Titans vs Kamle Knights (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Tawang Titans",
-      "team_2": "Kamle Knights",
-      "status": "LIVE",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Tawang Titans vs Kamle Knights",
-      "startTime": "09:00:00 AM 09-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/MPWPguytTC6ODgVmr9lIDQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136257_english_hls_05f0bf450172814ta-di_h264/index.m3u8"
+      "title": "Afghanistan vs Hong Kong, China (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFGvsHK_Old_match-card.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Hong Kong, China",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Afghanistan vs Hong Kong, China",
+      "startTime": "08:00:00 PM 09-09-2025"
     },
     {
       "id": 136256,
@@ -320,6 +318,18 @@
       "startTime": "09:30:00 PM 09-09-2025"
     },
     {
+      "id": 136258,
+      "event_category": "Cricket",
+      "title": "Dirang Daredevils vs Kameng Kings (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Dirang Daredevils",
+      "team_2": "Kameng Kings",
+      "status": "UPCOMING",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Dirang Daredevils vs Kameng Kings",
+      "startTime": "09:00:00 AM 10-09-2025"
+    },
+    {
       "id": 136688,
       "event_category": "Football",
       "title": "Angola vs Mauritius (CAF World Cup Qualifiers)",
@@ -380,18 +390,6 @@
       "startTime": "12:30:00 AM 10-09-2025"
     },
     {
-      "id": 136258,
-      "event_category": "Cricket",
-      "title": "Dirang Daredevils vs Kameng Kings (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Dirang Daredevils",
-      "team_2": "Kameng Kings",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Dirang Daredevils vs Kameng Kings",
-      "startTime": "09:00:00 AM 10-09-2025"
-    },
-    {
       "id": 136233,
       "event_category": "Cricket",
       "title": "Panchkula Bashers vs Dr Morepen Dazzlers (Chandigarh Premier League T20 Tournament, 2025)",
@@ -428,6 +426,18 @@
       "startTime": "02:15:00 PM 10-09-2025"
     },
     {
+      "id": 136732,
+      "event_category": "Cricket",
+      "title": "India vs United Arab Emirates (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/INDvsUAE_Old_match-card.jpg",
+      "team_1": "India",
+      "team_2": "United Arab Emirates",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "India vs United Arab Emirates",
+      "startTime": "08:00:00 PM 10-09-2025"
+    },
+    {
       "id": 136825,
       "event_category": "Baseball",
       "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
@@ -438,30 +448,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs Colorado Rockies",
       "startTime": "07:40:00 AM 10-09-2025"
-    },
-    {
-      "id": 135991,
-      "event_category": "Cricket",
-      "title": "England vs South Africa (South Africa tour of England, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-England-T20Is_old.jpg",
-      "team_1": "England",
-      "team_2": "South Africa",
-      "status": "UPCOMING",
-      "event_name": "South Africa tour of England, 2025",
-      "match_name": "England vs South Africa",
-      "startTime": "11:00:00 PM 10-09-2025"
-    },
-    {
-      "id": 133802,
-      "event_category": "Cricket",
-      "title": "Trinbago Knight Riders Women vs Barbados Royals Women (Women's Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133802_5594_TKR-W_BR-W_fc-Web_1757131430165.jpg",
-      "team_1": "Trinbago Knight Riders Women",
-      "team_2": "Barbados Royals Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Caribbean Premier League, 2025",
-      "match_name": "Trinbago Knight Riders Women vs Barbados Royals Women",
-      "startTime": "11:30:00 PM 10-09-2025"
     }
   ]
 }
