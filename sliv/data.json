@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:24 AM 10-09-2025",
+  "last update time": "12:41 AM 10-09-2025",
   "matches": [
     {
       "id": "sl1090488438",
@@ -140,6 +140,23 @@
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090488441.m3u8"
     },
     {
+      "id": "sl1090488450",
+      "isLive": true,
+      "event": "UEFA International Friendlies",
+      "match": "Malta vs San Marino - 10 Sep 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007419/1756917767450320_UEFA_INT_Friendlies_Malta_vs_San_Marino_3sep_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "Ta'Qali National Stadium",
+      "TVchannel": "Sony Sports Ten 2",
+      "MaxResolution": "FHD",
+      "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090488450.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090488450.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090488450.m3u8"
+    },
+    {
       "id": "sl1090488569",
       "isLive": false,
       "event": "Asia Cup 2025",
@@ -175,7 +192,7 @@
       "event": "Asia Cup 2025",
       "match": "Upcoming: India vs UAE",
       "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007697/1757362537093253_ACC25_promo_IND_vs_UAE_ddt_9sep_landscapet_thumb_re3.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007697/1757362549816253_ACC25_promo_IND_vs_UAE_ton_9sep_landscape_thumb_re3.jpg",
       "genre": "Cricket",
       "language": "HIN",
       "venue": "N/A",
