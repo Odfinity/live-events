@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:03 PM 10-09-2025",
+  "last update time": "11:17 PM 10-09-2025",
   "matches": [
     {
       "id": 135991,
@@ -20,14 +20,16 @@
     {
       "id": 133802,
       "event_category": "Cricket",
-      "title": "Trinbago Knight Riders Women vs Barbados Royals Women (Women's Caribbean Premier League, 2025)",
+      "title": "Barbados Royals Women vs Trinbago Knight Riders Women (Women's Caribbean Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133802_5594_TKR-W_BR-W_fc-Web_1757131430165.jpg",
-      "team_1": "Trinbago Knight Riders Women",
-      "team_2": "Barbados Royals Women",
-      "status": "UPCOMING",
+      "team_1": "Barbados Royals Women",
+      "team_2": "Trinbago Knight Riders Women",
+      "status": "LIVE",
       "event_name": "Women's Caribbean Premier League, 2025",
-      "match_name": "Trinbago Knight Riders Women vs Barbados Royals Women",
-      "startTime": "11:30:00 PM 10-09-2025"
+      "match_name": "Barbados Royals Women vs Trinbago Knight Riders Women",
+      "startTime": "11:30:00 PM 10-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/7gtvBLmaTWS_TpmDhoM9_g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133802_english_hls_9d2f2a75dc56857ta-di_h264/index.m3u8"
     },
     {
       "id": 132371,
@@ -76,6 +78,18 @@
       "event_name": "Chandigarh Premier League T20 Tournament, 2025",
       "match_name": "Talanoa Tigers vs Altruistian",
       "startTime": "02:15:00 PM 11-09-2025"
+    },
+    {
+      "id": 136826,
+      "event_category": "Baseball",
+      "title": "Texas Rangers vs Milwaukee Brewers (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136826_5028_TR_MB_fc-Web.jpg",
+      "team_1": "Texas Rangers",
+      "team_2": "Milwaukee Brewers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Texas Rangers vs Milwaukee Brewers",
+      "startTime": "12:05:00 AM 11-09-2025"
     },
     {
       "id": 136260,
@@ -148,18 +162,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Barbados Royals vs St Kitts and Nevis Patriots",
       "startTime": "04:30:00 AM 12-09-2025"
-    },
-    {
-      "id": 136826,
-      "event_category": "Baseball",
-      "title": "Texas Rangers vs Milwaukee Brewers (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136826_5028_TR_MB_fc-Web.jpg",
-      "team_1": "Texas Rangers",
-      "team_2": "Milwaukee Brewers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Texas Rangers vs Milwaukee Brewers",
-      "startTime": "12:05:00 AM 11-09-2025"
     },
     {
       "id": 136827,
