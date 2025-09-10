@@ -1,18 +1,18 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:27 PM 10-09-2025",
+  "last update time": "07:55 PM 10-09-2025",
   "matches": [
     {
       "id": 136732,
       "event_category": "Cricket",
-      "title": "India vs United Arab Emirates (Asia Cup, 2025)",
+      "title": "United Arab Emirates vs India (Asia Cup, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/match-2.jpg",
-      "team_1": "India",
-      "team_2": "United Arab Emirates",
+      "team_1": "United Arab Emirates",
+      "team_2": "India",
       "status": "LIVE",
       "event_name": "Asia Cup, 2025",
-      "match_name": "India vs United Arab Emirates",
+      "match_name": "United Arab Emirates vs India",
       "startTime": "08:00:00 PM 10-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/bm4t4V2URjS9I8O8mxnJUg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136732_english_hls_877e5c48d829506ta-di_h264/index.m3u8"
@@ -66,18 +66,6 @@
       "startTime": "10:00:00 AM 11-09-2025"
     },
     {
-      "id": 136236,
-      "event_category": "Cricket",
-      "title": "Talanoa Tigers vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136236_5651_TLT_ALT_fc-Web.jpg",
-      "team_1": "Talanoa Tigers",
-      "team_2": "Altruistian",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Talanoa Tigers vs Altruistian",
-      "startTime": "02:15:00 PM 11-09-2025"
-    },
-    {
       "id": 136733,
       "event_category": "Cricket",
       "title": "Bangladesh vs Hong Kong, China (Asia Cup, 2025)",
@@ -88,6 +76,18 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Bangladesh vs Hong Kong, China",
       "startTime": "08:00:00 PM 11-09-2025"
+    },
+    {
+      "id": 136236,
+      "event_category": "Cricket",
+      "title": "Talanoa Tigers vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136236_5651_TLT_ALT_fc-Web.jpg",
+      "team_1": "Talanoa Tigers",
+      "team_2": "Altruistian",
+      "status": "UPCOMING",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Talanoa Tigers vs Altruistian",
+      "startTime": "02:15:00 PM 11-09-2025"
     },
     {
       "id": 136260,
@@ -258,30 +258,6 @@
       "startTime": "03:00:00 AM 12-09-2025"
     },
     {
-      "id": 136714,
-      "event_category": "Cricket",
-      "title": "Samoa Women vs Papua New Guinea Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136714_5663_SAMW_PN-W_fc-Web.jpg",
-      "team_1": "Samoa Women",
-      "team_2": "Papua New Guinea Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
-      "match_name": "Samoa Women vs Papua New Guinea Women",
-      "startTime": "07:00:00 AM 12-09-2025"
-    },
-    {
-      "id": 136713,
-      "event_category": "Cricket",
-      "title": "Fiji Women vs Vanuatu Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136713_5663_FIJW_VANW_fc-Web.jpg",
-      "team_1": "Fiji Women",
-      "team_2": "Vanuatu Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
-      "match_name": "Fiji Women vs Vanuatu Women",
-      "startTime": "07:00:00 AM 12-09-2025"
-    },
-    {
       "id": 136888,
       "event_category": "Baseball",
       "title": "Baltimore Orioles vs Pittsburgh Pirates (Major League Baseball, 2025)",
@@ -304,6 +280,30 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Chicago White Sox vs Toronto Blue Jays",
       "startTime": "11:40:00 PM 11-09-2025"
+    },
+    {
+      "id": 136714,
+      "event_category": "Cricket",
+      "title": "Samoa Women vs Papua New Guinea Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136714_5663_SAMW_PN-W_fc-Web.jpg",
+      "team_1": "Samoa Women",
+      "team_2": "Papua New Guinea Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+      "match_name": "Samoa Women vs Papua New Guinea Women",
+      "startTime": "07:00:00 AM 12-09-2025"
+    },
+    {
+      "id": 136713,
+      "event_category": "Cricket",
+      "title": "Fiji Women vs Vanuatu Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136713_5663_FIJW_VANW_fc-Web.jpg",
+      "team_1": "Fiji Women",
+      "team_2": "Vanuatu Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+      "match_name": "Fiji Women vs Vanuatu Women",
+      "startTime": "07:00:00 AM 12-09-2025"
     },
     {
       "id": 136237,
@@ -330,6 +330,18 @@
       "startTime": "09:00:00 AM 12-09-2025"
     },
     {
+      "id": 136890,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Colorado Rockies (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "San Diego Padres",
+      "team_2": "Colorado Rockies",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Colorado Rockies",
+      "startTime": "07:10:00 AM 12-09-2025"
+    },
+    {
       "id": 136238,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Chandigarh Premier League T20 Tournament, 2025)",
@@ -352,18 +364,6 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Kurung Blasters vs Dirang Daredevils",
       "startTime": "01:15:00 PM 12-09-2025"
-    },
-    {
-      "id": 136890,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Colorado Rockies (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "team_1": "San Diego Padres",
-      "team_2": "Colorado Rockies",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Colorado Rockies",
-      "startTime": "07:10:00 AM 12-09-2025"
     },
     {
       "id": 136775,
