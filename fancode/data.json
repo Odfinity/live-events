@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:09 PM 10-09-2025",
+  "last update time": "01:20 PM 10-09-2025",
   "matches": [
     {
       "id": 136732,
@@ -40,8 +40,8 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Kamle Knights vs KRA Dominators",
       "startTime": "01:15:00 PM 10-09-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/2QewaGmcRVCpOxWUpdcHOA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136259_english_hls_b2977957f655270ta-di_h264/index.m3u8"
     },
     {
       "id": 135991,
@@ -164,18 +164,6 @@
       "startTime": "12:05:00 AM 11-09-2025"
     },
     {
-      "id": 136827,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Cincinnati Reds (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136827_5028_SDP_CR_fc-Web.jpg",
-      "team_1": "San Diego Padres",
-      "team_2": "Cincinnati Reds",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Cincinnati Reds",
-      "startTime": "06:10:00 AM 11-09-2025"
-    },
-    {
       "id": 136733,
       "event_category": "Cricket",
       "title": "Bangladesh vs Hong Kong, China (Asia Cup, 2025)",
@@ -186,6 +174,18 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Bangladesh vs Hong Kong, China",
       "startTime": "08:00:00 PM 11-09-2025"
+    },
+    {
+      "id": 136827,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136827_5028_SDP_CR_fc-Web.jpg",
+      "team_1": "San Diego Padres",
+      "team_2": "Cincinnati Reds",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Cincinnati Reds",
+      "startTime": "06:10:00 AM 11-09-2025"
     },
     {
       "id": 136828,
