@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 AM 10-09-2025",
+  "last update time": "09:58 AM 10-09-2025",
   "matches": [
     {
       "id": 136732,
@@ -14,6 +14,48 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs United Arab Emirates",
       "startTime": "08:00:00 PM 10-09-2025"
+    },
+    {
+      "id": 136258,
+      "event_category": "Cricket",
+      "title": "Dirang Daredevils vs Kameng Kings (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Dirang Daredevils",
+      "team_2": "Kameng Kings",
+      "status": "LIVE",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Dirang Daredevils vs Kameng Kings",
+      "startTime": "09:00:00 AM 10-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LTXIU1GKTIOEBu2VBSixog/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136258_english_hls_0b84551e7435100ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136233,
+      "event_category": "Cricket",
+      "title": "Panchkula Bashers vs Dr Morepen Dazzlers (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136233_5651_PKB_DMD_fc-Web.jpg",
+      "team_1": "Panchkula Bashers",
+      "team_2": "Dr Morepen Dazzlers",
+      "status": "LIVE",
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "Panchkula Bashers vs Dr Morepen Dazzlers",
+      "startTime": "10:00:00 AM 10-09-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 136825,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136825_5028_LAD_COR_fc-Web.jpg",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Colorado Rockies",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Colorado Rockies",
+      "startTime": "07:40:00 AM 10-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136825_english_hls_462f6da91072700ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136825_english_hls_462f6da91072700ta-di_h264/index.m3u8"
     },
     {
       "id": 136710,
@@ -44,34 +86,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136709_english_hls_fe5885158629884ta-di_h264/index.m3u8"
     },
     {
-      "id": 136258,
-      "event_category": "Cricket",
-      "title": "Dirang Daredevils vs Kameng Kings (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Dirang Daredevils",
-      "team_2": "Kameng Kings",
-      "status": "LIVE",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Dirang Daredevils vs Kameng Kings",
-      "startTime": "09:00:00 AM 10-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/LTXIU1GKTIOEBu2VBSixog/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136258_english_hls_0b84551e7435100ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136825,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136825_5028_LAD_COR_fc-Web.jpg",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Colorado Rockies",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Colorado Rockies",
-      "startTime": "07:40:00 AM 10-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136825_english_hls_462f6da91072700ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136825_english_hls_462f6da91072700ta-di_h264/index.m3u8"
-    },
-    {
       "id": 135991,
       "event_category": "Cricket",
       "title": "England vs South Africa (South Africa tour of England, 2025)",
@@ -94,18 +108,6 @@
       "event_name": "Women's Caribbean Premier League, 2025",
       "match_name": "Trinbago Knight Riders Women vs Barbados Royals Women",
       "startTime": "11:30:00 PM 10-09-2025"
-    },
-    {
-      "id": 136233,
-      "event_category": "Cricket",
-      "title": "Panchkula Bashers vs Dr Morepen Dazzlers (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136233_5651_PKB_DMD_fc-Web.jpg",
-      "team_1": "Panchkula Bashers",
-      "team_2": "Dr Morepen Dazzlers",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "Panchkula Bashers vs Dr Morepen Dazzlers",
-      "startTime": "10:00:00 AM 10-09-2025"
     },
     {
       "id": 132371,
@@ -180,18 +182,6 @@
       "startTime": "03:25:00 PM 10-09-2025"
     },
     {
-      "id": 136826,
-      "event_category": "Baseball",
-      "title": "Texas Rangers vs Milwaukee Brewers (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136826_5028_TR_MB_fc-Web.jpg",
-      "team_1": "Texas Rangers",
-      "team_2": "Milwaukee Brewers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Texas Rangers vs Milwaukee Brewers",
-      "startTime": "12:05:00 AM 11-09-2025"
-    },
-    {
       "id": 136261,
       "event_category": "Cricket",
       "title": "Kameng Kings vs Pare Panthers (Arunachal T20 Championship, 2025)",
@@ -202,6 +192,18 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Kameng Kings vs Pare Panthers",
       "startTime": "01:15:00 PM 11-09-2025"
+    },
+    {
+      "id": 136826,
+      "event_category": "Baseball",
+      "title": "Texas Rangers vs Milwaukee Brewers (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136826_5028_TR_MB_fc-Web.jpg",
+      "team_1": "Texas Rangers",
+      "team_2": "Milwaukee Brewers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Texas Rangers vs Milwaukee Brewers",
+      "startTime": "12:05:00 AM 11-09-2025"
     },
     {
       "id": 136236,
@@ -237,7 +239,7 @@
       "status": "UPCOMING",
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs Colorado Rockies",
-      "startTime": "08:10:00 AM 11-09-2025"
+      "startTime": "07:40:00 AM 11-09-2025"
     },
     {
       "id": 136733,
