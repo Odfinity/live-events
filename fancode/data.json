@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:27 PM 12-09-2025",
+  "last update time": "07:54 PM 12-09-2025",
   "matches": [
-    {
-      "id": 119192,
-      "event_category": "MotoGP",
-      "title": "Day 1 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/RED-BULL-GRAND-PRIX-OF-SAN-MARINO--RIMINI-RIVIERA-old-match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Misano World Circuit Marco Simoncelli",
-      "status": "LIVE",
-      "event_name": "RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA",
-      "match_name": "Day 1",
-      "startTime": "06:30:00 PM 12-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/dND2mwV3S7a8_RfdCMdTUg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119192_english_hls_6480ffada670845ta-di_h264/index.m3u8"
-    },
     {
       "id": 136734,
       "event_category": "Cricket",
@@ -72,6 +58,20 @@
       "startTime": "04:30:00 PM 12-09-2025",
       "dai_url": null,
       "adfree_url": null
+    },
+    {
+      "id": 119192,
+      "event_category": "MotoGP",
+      "title": "Day 1 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/RED-BULL-GRAND-PRIX-OF-SAN-MARINO--RIMINI-RIVIERA-old-match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Misano World Circuit Marco Simoncelli",
+      "status": "LIVE",
+      "event_name": "RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA",
+      "match_name": "San Marino GP",
+      "startTime": "06:30:00 PM 12-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/dND2mwV3S7a8_RfdCMdTUg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119192_english_hls_6480ffada670845ta-di_h264/index.m3u8"
     },
     {
       "id": 133918,
@@ -260,18 +260,6 @@
       "startTime": "07:00:00 PM 13-09-2025"
     },
     {
-      "id": 136778,
-      "event_category": "Cricket",
-      "title": "Majees Titans vs Ideal International (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "Majees Titans",
-      "team_2": "Ideal International",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Majees Titans vs Ideal International",
-      "startTime": "09:45:00 PM 12-09-2025"
-    },
-    {
       "id": 136735,
       "event_category": "Cricket",
       "title": "Bangladesh vs Sri Lanka (Asia Cup, 2025)",
@@ -282,6 +270,18 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Bangladesh vs Sri Lanka",
       "startTime": "08:00:00 PM 13-09-2025"
+    },
+    {
+      "id": 136778,
+      "event_category": "Cricket",
+      "title": "Majees Titans vs Ideal International (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "Majees Titans",
+      "team_2": "Ideal International",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Majees Titans vs Ideal International",
+      "startTime": "09:45:00 PM 12-09-2025"
     },
     {
       "id": 136670,
@@ -332,18 +332,6 @@
       "startTime": "05:00:00 PM 13-09-2025"
     },
     {
-      "id": 136265,
-      "event_category": "Cricket",
-      "title": "Kurung Blasters vs KRA Dominators (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Kurung Blasters",
-      "team_2": "KRA Dominators",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Kurung Blasters vs KRA Dominators",
-      "startTime": "09:00:00 AM 13-09-2025"
-    },
-    {
       "id": 130865,
       "event_category": "Football",
       "title": "Getafe vs Real Oviedo (LALIGA 2025-26)",
@@ -354,6 +342,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Getafe vs Real Oviedo",
       "startTime": "05:30:00 PM 13-09-2025"
+    },
+    {
+      "id": 136265,
+      "event_category": "Cricket",
+      "title": "Kurung Blasters vs KRA Dominators (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Kurung Blasters",
+      "team_2": "KRA Dominators",
+      "status": "UPCOMING",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Kurung Blasters vs KRA Dominators",
+      "startTime": "09:00:00 AM 13-09-2025"
     },
     {
       "id": 132094,
@@ -380,18 +380,6 @@
       "startTime": "02:45:00 PM 13-09-2025"
     },
     {
-      "id": 136264,
-      "event_category": "Cricket",
-      "title": "Siang Storm vs Kameng Kings (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Siang Storm",
-      "team_2": "Kameng Kings",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Siang Storm vs Kameng Kings",
-      "startTime": "01:15:00 PM 13-09-2025"
-    },
-    {
       "id": 132093,
       "event_category": "Football",
       "title": "Fagiano Okayama vs Nagoya Grampus (J League 2025)",
@@ -402,6 +390,18 @@
       "event_name": "J League 2025",
       "match_name": "Fagiano Okayama vs Nagoya Grampus",
       "startTime": "03:25:00 PM 13-09-2025"
+    },
+    {
+      "id": 136264,
+      "event_category": "Cricket",
+      "title": "Siang Storm vs Kameng Kings (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Siang Storm",
+      "team_2": "Kameng Kings",
+      "status": "UPCOMING",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Siang Storm vs Kameng Kings",
+      "startTime": "01:15:00 PM 13-09-2025"
     },
     {
       "id": 132091,
@@ -416,18 +416,6 @@
       "startTime": "03:30:00 PM 13-09-2025"
     },
     {
-      "id": 132004,
-      "event_category": "Football",
-      "title": "Swansea City vs Hull City (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132004_5489_SWA_HUL_fc-web.jpg",
-      "team_1": "Swansea City",
-      "team_2": "Hull City",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Swansea City vs Hull City",
-      "startTime": "07:30:00 PM 13-09-2025"
-    },
-    {
       "id": 136730,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Vitality Blast T20, 2025)",
@@ -438,6 +426,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "11:15:00 PM 13-09-2025"
+    },
+    {
+      "id": 132004,
+      "event_category": "Football",
+      "title": "Swansea City vs Hull City (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132004_5489_SWA_HUL_fc-web.jpg",
+      "team_1": "Swansea City",
+      "team_2": "Hull City",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Swansea City vs Hull City",
+      "startTime": "07:30:00 PM 13-09-2025"
     },
     {
       "id": 130860,
