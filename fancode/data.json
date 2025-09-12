@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:29 PM 12-09-2025",
+  "last update time": "02:56 PM 12-09-2025",
   "matches": [
     {
       "id": 119192,
@@ -32,6 +32,20 @@
       "adfree_url": null
     },
     {
+      "id": 136775,
+      "event_category": "Cricket",
+      "title": "Pai XI Mavericks vs SFT Smashers (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "Pai XI Mavericks",
+      "team_2": "SFT Smashers",
+      "status": "LIVE",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Pai XI Mavericks vs SFT Smashers",
+      "startTime": "02:45:00 PM 12-09-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 136263,
       "event_category": "Cricket",
       "title": "Dirang Daredevils vs Kurung Blasters (Arunachal T20 Championship, 2025)",
@@ -42,6 +56,20 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Dirang Daredevils vs Kurung Blasters",
       "startTime": "01:15:00 PM 12-09-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 136627,
+      "event_category": "Motorsports",
+      "title": "Free Practice 1 vs Germany (DTM Red Bull Ring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_-Austria-2025_old-match-card.jpg",
+      "team_1": "Free Practice 1",
+      "team_2": "Germany",
+      "status": "LIVE",
+      "event_name": "DTM Red Bull Ring",
+      "match_name": "Free Practice 1",
+      "startTime": "02:35:00 PM 12-09-2025",
       "dai_url": null,
       "adfree_url": null
     },
@@ -82,16 +110,16 @@
       "startTime": "04:30:00 AM 13-09-2025"
     },
     {
-      "id": 136775,
-      "event_category": "Cricket",
-      "title": "Pai XI Mavericks vs SFT Smashers (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "Pai XI Mavericks",
-      "team_2": "SFT Smashers",
+      "id": 132092,
+      "event_category": "Football",
+      "title": "Vissel Kobe vs Kashiwa Reysol (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132092_CASACARDS_APP.png",
+      "team_1": "Vissel Kobe",
+      "team_2": "Kashiwa Reysol",
       "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Pai XI Mavericks vs SFT Smashers",
-      "startTime": "02:45:00 PM 12-09-2025"
+      "event_name": "J League 2025",
+      "match_name": "Vissel Kobe vs Kashiwa Reysol",
+      "startTime": "03:30:00 PM 12-09-2025"
     },
     {
       "id": 135986,
@@ -118,30 +146,6 @@
       "startTime": "11:30:00 PM 12-09-2025"
     },
     {
-      "id": 130869,
-      "event_category": "Football",
-      "title": "Sevilla vs Elche (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130869_5427_SEV_ELC_fc-Web_1757156106480.jpg",
-      "team_1": "Sevilla",
-      "team_2": "Elche",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla vs Elche",
-      "startTime": "12:30:00 AM 13-09-2025"
-    },
-    {
-      "id": 132002,
-      "event_category": "Football",
-      "title": "Ipswich Town vs Sheffield United (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132002_5489_IPT_SHF_fc-web.jpg",
-      "team_1": "Ipswich Town",
-      "team_2": "Sheffield United",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Ipswich Town vs Sheffield United",
-      "startTime": "12:30:00 AM 13-09-2025"
-    },
-    {
       "id": 136716,
       "event_category": "Cricket",
       "title": "Fiji Women vs Philippines Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
@@ -164,6 +168,30 @@
       "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
       "match_name": "Samoa Women vs Cook Islands Women",
       "startTime": "02:30:00 AM 13-09-2025"
+    },
+    {
+      "id": 130869,
+      "event_category": "Football",
+      "title": "Sevilla vs Elche (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130869_5427_SEV_ELC_fc-Web_1757156106480.jpg",
+      "team_1": "Sevilla",
+      "team_2": "Elche",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Sevilla vs Elche",
+      "startTime": "12:30:00 AM 13-09-2025"
+    },
+    {
+      "id": 132002,
+      "event_category": "Football",
+      "title": "Ipswich Town vs Sheffield United (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132002_5489_IPT_SHF_fc-web.jpg",
+      "team_1": "Ipswich Town",
+      "team_2": "Sheffield United",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Ipswich Town vs Sheffield United",
+      "startTime": "12:30:00 AM 13-09-2025"
     },
     {
       "id": 136718,
@@ -190,16 +218,28 @@
       "startTime": "07:00:00 AM 13-09-2025"
     },
     {
-      "id": 132092,
-      "event_category": "Football",
-      "title": "Vissel Kobe vs Kashiwa Reysol (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132092_CASACARDS_APP.png",
-      "team_1": "Vissel Kobe",
-      "team_2": "Kashiwa Reysol",
+      "id": 136239,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Chandigarh Premier League T20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Vissel Kobe vs Kashiwa Reysol",
-      "startTime": "03:30:00 PM 12-09-2025"
+      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "10:00:00 AM 13-09-2025"
+    },
+    {
+      "id": 136728,
+      "event_category": "Cricket",
+      "title": "Lancashire vs Somerset (Vitality Blast T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Lancashire_vs_Somerset_Old_match_cards_2.jpg",
+      "team_1": "Lancashire",
+      "team_2": "Somerset",
+      "status": "UPCOMING",
+      "event_name": "Vitality Blast T20, 2025",
+      "match_name": "Lancashire vs Somerset",
+      "startTime": "03:30:00 PM 13-09-2025"
     },
     {
       "id": 136776,
@@ -224,18 +264,6 @@
       "event_name": "Oman D10 League, 2025",
       "match_name": "Renaissance Challengers vs Braveheart XI",
       "startTime": "07:15:00 PM 12-09-2025"
-    },
-    {
-      "id": 136239,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Chandigarh Premier League T20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "10:00:00 AM 13-09-2025"
     },
     {
       "id": 136778,
@@ -274,30 +302,6 @@
       "startTime": "12:00:00 AM 13-09-2025"
     },
     {
-      "id": 136728,
-      "event_category": "Cricket",
-      "title": "Lancashire vs Somerset (Vitality Blast T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Lancashire_vs_Somerset_Old_match_cards_2.jpg",
-      "team_1": "Lancashire",
-      "team_2": "Somerset",
-      "status": "UPCOMING",
-      "event_name": "Vitality Blast T20, 2025",
-      "match_name": "Lancashire vs Somerset",
-      "startTime": "03:30:00 PM 13-09-2025"
-    },
-    {
-      "id": 136627,
-      "event_category": "Motorsports",
-      "title": "Free Practice 1 vs Germany (DTM Red Bull Ring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_-Austria-2025_old-match-card.jpg",
-      "team_1": "Free Practice 1",
-      "team_2": "Germany",
-      "status": "UPCOMING",
-      "event_name": "DTM Red Bull Ring",
-      "match_name": "Free Practice 1",
-      "startTime": "02:35:00 PM 12-09-2025"
-    },
-    {
       "id": 136265,
       "event_category": "Cricket",
       "title": "Kurung Blasters vs KRA Dominators (Arunachal T20 Championship, 2025)",
@@ -320,6 +324,18 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Northamptonshire vs Hampshire",
       "startTime": "07:00:00 PM 13-09-2025"
+    },
+    {
+      "id": 136735,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3-BANvsSRL_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "08:00:00 PM 13-09-2025"
     },
     {
       "id": 136264,
@@ -346,16 +362,40 @@
       "startTime": "02:30:00 PM 13-09-2025"
     },
     {
-      "id": 136735,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Sri Lanka (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3-BANvsSRL_Old_match-card.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Sri Lanka",
+      "id": 132001,
+      "event_category": "Football",
+      "title": "Charlton Athletic vs Millwall (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132001_5489_CHL_MLW_fc-web.jpg",
+      "team_1": "Charlton Athletic",
+      "team_2": "Millwall",
       "status": "UPCOMING",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "Bangladesh vs Sri Lanka",
-      "startTime": "08:00:00 PM 13-09-2025"
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Charlton Athletic vs Millwall",
+      "startTime": "05:00:00 PM 13-09-2025"
+    },
+    {
+      "id": 136780,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "02:45:00 PM 13-09-2025"
+    },
+    {
+      "id": 132374,
+      "event_category": "Cricket",
+      "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132374_5512_GUY_SLK_fc-web.jpg",
+      "team_1": "Guyana Amazon Warriors",
+      "team_2": "Saint Lucia Kings",
+      "status": "UPCOMING",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Guyana Amazon Warriors vs Saint Lucia Kings",
+      "startTime": "08:30:00 PM 13-09-2025"
     },
     {
       "id": 135830,
@@ -406,28 +446,16 @@
       "startTime": "07:30:00 PM 12-09-2025"
     },
     {
-      "id": 132001,
+      "id": 130865,
       "event_category": "Football",
-      "title": "Charlton Athletic vs Millwall (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132001_5489_CHL_MLW_fc-web.jpg",
-      "team_1": "Charlton Athletic",
-      "team_2": "Millwall",
+      "title": "Getafe vs Real Oviedo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130865_5427_GEF_RO_fc-Web.jpg",
+      "team_1": "Getafe",
+      "team_2": "Real Oviedo",
       "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Charlton Athletic vs Millwall",
-      "startTime": "05:00:00 PM 13-09-2025"
-    },
-    {
-      "id": 136780,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:45:00 PM 13-09-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Getafe vs Real Oviedo",
+      "startTime": "05:30:00 PM 13-09-2025"
     },
     {
       "id": 136891,
@@ -440,30 +468,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Chicago Cubs vs Tampa Bay Rays",
       "startTime": "11:50:00 PM 12-09-2025"
-    },
-    {
-      "id": 132374,
-      "event_category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132374_5512_GUY_SLK_fc-web.jpg",
-      "team_1": "Guyana Amazon Warriors",
-      "team_2": "Saint Lucia Kings",
-      "status": "UPCOMING",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Guyana Amazon Warriors vs Saint Lucia Kings",
-      "startTime": "08:30:00 PM 13-09-2025"
-    },
-    {
-      "id": 130865,
-      "event_category": "Football",
-      "title": "Getafe vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130865_5427_GEF_RO_fc-Web.jpg",
-      "team_1": "Getafe",
-      "team_2": "Real Oviedo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe vs Real Oviedo",
-      "startTime": "05:30:00 PM 13-09-2025"
     }
   ]
 }
