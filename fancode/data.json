@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:01 AM 14-09-2025",
+  "last update time": "12:17 AM 14-09-2025",
   "matches": [
-    {
-      "id": 132374,
-      "event_category": "Cricket",
-      "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132374_5512_GUY_SLK_fc-web.jpg",
-      "team_1": "Saint Lucia Kings",
-      "team_2": "Guyana Amazon Warriors",
-      "status": "LIVE",
-      "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
-      "startTime": "08:30:00 PM 13-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/_VPgxhaZTgSEJBJRsQo27Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132374_english_hls_c1c678ea1281894ta-di_h264/index.m3u8"
-    },
     {
       "id": 136730,
       "event_category": "Cricket",
@@ -60,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136597_english_hls_981c4ecae531023ta-di_h264/index.m3u8"
     },
     {
+      "id": 130861,
+      "event_category": "Football",
+      "title": "Atlético de Madrid vs Villarreal (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130861_5427_ATL_VIL_fc-Web.jpg",
+      "team_1": "Atlético de Madrid",
+      "team_2": "Villarreal",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atlético de Madrid vs Villarreal",
+      "startTime": "12:30:00 AM 14-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130861_english_hls_762f25341347249adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130861_english_hls_762f25341347249adfreeta-di_h264/index.m3u8"
+    },
+    {
       "id": 136784,
       "event_category": "Cricket",
       "title": "Muscat Thunders vs Renaissance Challengers (Oman D10 League, 2025)",
@@ -72,6 +72,20 @@
       "startTime": "12:00:00 AM 14-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Z2dIkR8oR4SX98RLdPPK1Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136784_english_hls_6d0e903f5580112ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136668,
+      "event_category": "Football",
+      "title": "Real Valladolid vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v2/136668_CASACARDS_APP.png",
+      "team_1": "Real Valladolid",
+      "team_2": "Almería",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Valladolid vs Almería",
+      "startTime": "12:30:00 AM 14-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HiJdYlMeTMi8Srzr2OX2SQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136668_english_hls_f57142830315206ta-di_h264/index.m3u8"
     },
     {
       "id": 136893,
@@ -102,6 +116,20 @@
       "adfree_url": null
     },
     {
+      "id": 132374,
+      "event_category": "Cricket",
+      "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132374_5512_GUY_SLK_fc-web.jpg",
+      "team_1": "Saint Lucia Kings",
+      "team_2": "Guyana Amazon Warriors",
+      "status": "LIVE",
+      "event_name": "Caribbean Premier League, 2025",
+      "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
+      "startTime": "08:30:00 PM 13-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/_VPgxhaZTgSEJBJRsQo27Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132374_english_hls_c1c678ea1281894ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133803,
       "event_category": "Cricket",
       "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2025)",
@@ -112,18 +140,6 @@
       "event_name": "Women's Caribbean Premier League, 2025",
       "match_name": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women",
       "startTime": "01:30:00 AM 14-09-2025"
-    },
-    {
-      "id": 130861,
-      "event_category": "Football",
-      "title": "Atlético de Madrid vs Villarreal (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130861_5427_ATL_VIL_fc-Web.jpg",
-      "team_1": "Atlético de Madrid",
-      "team_2": "Villarreal",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atlético de Madrid vs Villarreal",
-      "startTime": "12:30:00 AM 14-09-2025"
     },
     {
       "id": 135993,
@@ -148,18 +164,6 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs Pakistan",
       "startTime": "08:00:00 PM 14-09-2025"
-    },
-    {
-      "id": 136668,
-      "event_category": "Football",
-      "title": "Real Valladolid vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v2/136668_CASACARDS_APP.png",
-      "team_1": "Real Valladolid",
-      "team_2": "Almería",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Valladolid vs Almería",
-      "startTime": "12:30:00 AM 14-09-2025"
     },
     {
       "id": 133804,
@@ -222,18 +226,6 @@
       "startTime": "09:00:00 AM 14-09-2025"
     },
     {
-      "id": 136267,
-      "event_category": "Cricket",
-      "title": "Tawang Titans vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Tawang Titans",
-      "team_2": "Dirang Daredevils",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Tawang Titans vs Dirang Daredevils",
-      "startTime": "01:15:00 PM 14-09-2025"
-    },
-    {
       "id": 130866,
       "event_category": "Football",
       "title": "Osasuna vs Rayo Vallecano (LALIGA 2025-26)",
@@ -244,6 +236,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Osasuna vs Rayo Vallecano",
       "startTime": "10:00:00 PM 14-09-2025"
+    },
+    {
+      "id": 136267,
+      "event_category": "Cricket",
+      "title": "Tawang Titans vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Tawang Titans",
+      "team_2": "Dirang Daredevils",
+      "status": "UPCOMING",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Tawang Titans vs Dirang Daredevils",
+      "startTime": "01:15:00 PM 14-09-2025"
     },
     {
       "id": 136785,
@@ -330,6 +334,30 @@
       "startTime": "01:40:00 AM 14-09-2025"
     },
     {
+      "id": 136720,
+      "event_category": "Cricket",
+      "title": "Cook Islands Women vs Philippines Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
+      "team_1": "Cook Islands Women",
+      "team_2": "Philippines Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+      "match_name": "Cook Islands Women vs Philippines Women",
+      "startTime": "03:00:00 AM 15-09-2025"
+    },
+    {
+      "id": 136719,
+      "event_category": "Cricket",
+      "title": "Samoa Women vs Fiji Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
+      "team_1": "Samoa Women",
+      "team_2": "Fiji Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+      "match_name": "Samoa Women vs Fiji Women",
+      "startTime": "03:00:00 AM 15-09-2025"
+    },
+    {
       "id": 136925,
       "event_category": "Golf",
       "title": "World Feed - Day 3 vs Napa, California (Procore Championship)",
@@ -340,6 +368,18 @@
       "event_name": "Procore Championship",
       "match_name": "World Feed - Day 3",
       "startTime": "03:30:00 AM 14-09-2025"
+    },
+    {
+      "id": 136669,
+      "event_category": "Football",
+      "title": "Granada vs Leganés (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/136669_CASACARDS_APP.png",
+      "team_1": "Granada",
+      "team_2": "Leganés",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Granada vs Leganés",
+      "startTime": "12:30:00 AM 15-09-2025"
     },
     {
       "id": 136723,
@@ -376,42 +416,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Oakland Athletics vs Cincinnati Reds",
       "startTime": "07:35:00 AM 14-09-2025"
-    },
-    {
-      "id": 136669,
-      "event_category": "Football",
-      "title": "Granada vs Leganés (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/136669_CASACARDS_APP.png",
-      "team_1": "Granada",
-      "team_2": "Leganés",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Granada vs Leganés",
-      "startTime": "12:30:00 AM 15-09-2025"
-    },
-    {
-      "id": 136720,
-      "event_category": "Cricket",
-      "title": "Cook Islands Women vs Philippines Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
-      "team_1": "Cook Islands Women",
-      "team_2": "Philippines Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
-      "match_name": "Cook Islands Women vs Philippines Women",
-      "startTime": "03:00:00 AM 15-09-2025"
-    },
-    {
-      "id": 136719,
-      "event_category": "Cricket",
-      "title": "Samoa Women vs Fiji Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
-      "team_1": "Samoa Women",
-      "team_2": "Fiji Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
-      "match_name": "Samoa Women vs Fiji Women",
-      "startTime": "03:00:00 AM 15-09-2025"
     },
     {
       "id": 136632,
@@ -460,6 +464,18 @@
       "event_name": "BMW PGA Championship 2025",
       "match_name": "Day 4",
       "startTime": "04:30:00 PM 14-09-2025"
+    },
+    {
+      "id": 136631,
+      "event_category": "Motorsports",
+      "title": "Race 2 vs Germany (DTM Red Bull Ring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_-Austria-2025_old-match-card.jpg",
+      "team_1": "Race 2",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "DTM Red Bull Ring",
+      "match_name": "Race 2",
+      "startTime": "05:00:00 PM 14-09-2025"
     }
   ]
 }
