@@ -1,8 +1,20 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:32 AM 13-09-2025",
+  "last update time": "09:00 AM 13-09-2025",
   "matches": [
+    {
+      "id": 136735,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Sri Lanka (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/3-BANvsSRL_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Bangladesh vs Sri Lanka",
+      "startTime": "08:00:00 PM 13-09-2025"
+    },
     {
       "id": 132373,
       "event_category": "Cricket",
@@ -46,6 +58,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136717_english_hls_60b34f674c13059ta-di_h264/index.m3u8"
     },
     {
+      "id": 136265,
+      "event_category": "Cricket",
+      "title": "Kurung Blasters vs KRA Dominators (Arunachal T20 Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+      "team_1": "Kurung Blasters",
+      "team_2": "KRA Dominators",
+      "status": "LIVE",
+      "event_name": "Arunachal T20 Championship, 2025",
+      "match_name": "Kurung Blasters vs KRA Dominators",
+      "startTime": "09:00:00 AM 13-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4Oz7ZDmuTcaXiptyDzw6Yw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136265_english_hls_46c8f6053479593ta-di_h264/index.m3u8"
+    },
+    {
       "id": 136728,
       "event_category": "Cricket",
       "title": "Lancashire vs Somerset (Vitality Blast T20, 2025)",
@@ -68,18 +94,6 @@
       "event_name": "Vitality Blast T20, 2025",
       "match_name": "Northamptonshire vs Hampshire",
       "startTime": "07:00:00 PM 13-09-2025"
-    },
-    {
-      "id": 136735,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Sri Lanka (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/3-BANvsSRL_Old_match-card.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Sri Lanka",
-      "status": "UPCOMING",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "Bangladesh vs Sri Lanka",
-      "startTime": "08:00:00 PM 13-09-2025"
     },
     {
       "id": 132374,
@@ -128,18 +142,6 @@
       "event_name": "Chandigarh Premier League T20 Tournament, 2025",
       "match_name": "Capital Strikers vs Chandigarh Kings",
       "startTime": "10:00:00 AM 13-09-2025"
-    },
-    {
-      "id": 136265,
-      "event_category": "Cricket",
-      "title": "Kurung Blasters vs KRA Dominators (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Kurung Blasters",
-      "team_2": "KRA Dominators",
-      "status": "UPCOMING",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Kurung Blasters vs KRA Dominators",
-      "startTime": "09:00:00 AM 13-09-2025"
     },
     {
       "id": 132001,
@@ -442,18 +444,6 @@
       "startTime": "08:30:00 PM 13-09-2025"
     },
     {
-      "id": 136893,
-      "event_category": "Baseball",
-      "title": "Chicago Cubs vs Tampa Bay Rays (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136893_5028_CHC_TAB_FC-Web.jpg",
-      "team_1": "Chicago Cubs",
-      "team_2": "Tampa Bay Rays",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Chicago Cubs vs Tampa Bay Rays",
-      "startTime": "11:50:00 PM 13-09-2025"
-    },
-    {
       "id": 136266,
       "event_category": "Cricket",
       "title": "Pare Panthers vs Kurung Blasters (Arunachal T20 Championship, 2025)",
@@ -464,6 +454,18 @@
       "event_name": "Arunachal T20 Championship, 2025",
       "match_name": "Pare Panthers vs Kurung Blasters",
       "startTime": "09:00:00 AM 14-09-2025"
+    },
+    {
+      "id": 136893,
+      "event_category": "Baseball",
+      "title": "Chicago Cubs vs Tampa Bay Rays (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136893_5028_CHC_TAB_FC-Web.jpg",
+      "team_1": "Chicago Cubs",
+      "team_2": "Tampa Bay Rays",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Chicago Cubs vs Tampa Bay Rays",
+      "startTime": "11:50:00 PM 13-09-2025"
     }
   ]
 }
