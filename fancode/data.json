@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:39 PM 14-09-2025",
+  "last update time": "06:58 PM 14-09-2025",
   "matches": [
     {
       "id": 136736,
@@ -10,38 +10,24 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/4-INDvsPAK_Old_match-card_v2.jpg",
       "team_1": "India",
       "team_2": "Pakistan",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs Pakistan",
-      "startTime": "08:00:00 PM 14-09-2025"
+      "startTime": "08:00:00 PM 14-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4OzQzZaVTQuBi-6O__iwdg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136736_english_hls_9776118ee542689ta-di_h264/index.m3u8"
     },
     {
-      "id": 119196,
-      "event_category": "MotoGP",
-      "title": "Race Day vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/RED-BULL-GRAND-PRIX-OF-SAN-MARINO--RIMINI-RIVIERA-old-match-card.jpg",
-      "team_1": "Race Day",
-      "team_2": "Misano World Circuit Marco Simoncelli",
-      "status": "LIVE",
-      "event_name": "RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA",
-      "match_name": "Race Day",
-      "startTime": "01:10:00 PM 14-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/QTyWfMUdT8ikM8-ilIeiPQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119196_english_hls_f6df1e936d39012ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132003,
-      "event_category": "Football",
-      "title": "Southampton vs Portsmouth (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132003_5489_SOU_PRM_fc-web.jpg",
-      "team_1": "Southampton",
-      "team_2": "Portsmouth",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Southampton vs Portsmouth",
-      "startTime": "04:30:00 PM 14-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/3YzTfRCoSUGqyyp7ZafwOg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132003_english_hls_15f5bf072b15283ta-di_h264/index.m3u8"
+      "id": 135993,
+      "event_category": "Cricket",
+      "title": "England vs South Africa (South Africa tour of England, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-England-T20Is_old_v1.jpg",
+      "team_1": "England",
+      "team_2": "South Africa",
+      "status": "UPCOMING",
+      "event_name": "South Africa tour of England, 2025",
+      "match_name": "England vs South Africa",
+      "startTime": "07:00:00 PM 14-09-2025"
     },
     {
       "id": 130863,
@@ -86,18 +72,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135832_english_hls_e233aaff1d71080ta-di_h264/index.m3u8"
     },
     {
-      "id": 135993,
-      "event_category": "Cricket",
-      "title": "England vs South Africa (South Africa tour of England, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-England-T20Is_old_v1.jpg",
-      "team_1": "England",
-      "team_2": "South Africa",
-      "status": "UPCOMING",
-      "event_name": "South Africa tour of England, 2025",
-      "match_name": "England vs South Africa",
-      "startTime": "07:00:00 PM 14-09-2025"
-    },
-    {
       "id": 133804,
       "event_category": "Cricket",
       "title": "Barbados Royals Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2025)",
@@ -131,6 +105,18 @@
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
       "match_name": "Levante vs Real Betis",
+      "startTime": "07:45:00 PM 14-09-2025"
+    },
+    {
+      "id": 136785,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Majees Titans (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Majees Titans",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "IAS Invincibles vs Majees Titans",
       "startTime": "07:45:00 PM 14-09-2025"
     },
     {
@@ -228,18 +214,6 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "United Arab Emirates vs Oman",
       "startTime": "05:30:00 PM 15-09-2025"
-    },
-    {
-      "id": 136785,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Majees Titans (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Majees Titans",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "IAS Invincibles vs Majees Titans",
-      "startTime": "07:45:00 PM 14-09-2025"
     },
     {
       "id": 136786,
@@ -362,18 +336,6 @@
       "startTime": "01:35:00 AM 15-09-2025"
     },
     {
-      "id": 136930,
-      "event_category": "Golf",
-      "title": "World Feed - Day 4 vs Napa, California (Procore Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Procore-Championship-_2025_old_match-card.jpg",
-      "team_1": "World Feed - Day 4",
-      "team_2": "Napa, California",
-      "status": "UPCOMING",
-      "event_name": "Procore Championship",
-      "match_name": "World Feed - Day 4",
-      "startTime": "03:30:00 AM 15-09-2025"
-    },
-    {
       "id": 136044,
       "event_category": "Football",
       "title": "Al Wahda vs Al-Ittihad (AFC Champions League Elite 2025-26)",
@@ -384,6 +346,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Wahda vs Al-Ittihad",
       "startTime": "09:30:00 PM 15-09-2025"
+    },
+    {
+      "id": 136930,
+      "event_category": "Golf",
+      "title": "World Feed - Day 4 vs Napa, California (Procore Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Procore-Championship-_2025_old_match-card.jpg",
+      "team_1": "World Feed - Day 4",
+      "team_2": "Napa, California",
+      "status": "UPCOMING",
+      "event_name": "Procore Championship",
+      "match_name": "World Feed - Day 4",
+      "startTime": "03:30:00 AM 15-09-2025"
     },
     {
       "id": 136788,
@@ -408,6 +382,30 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Shorta vs Al Sadd",
       "startTime": "11:45:00 PM 15-09-2025"
+    },
+    {
+      "id": 136045,
+      "event_category": "Football",
+      "title": "Al-Ahli vs Nasaf (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Al-Ahli",
+      "team_2": "Nasaf",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al-Ahli vs Nasaf",
+      "startTime": "11:45:00 PM 15-09-2025"
+    },
+    {
+      "id": 136789,
+      "event_category": "Cricket",
+      "title": "Royal Oman Stallions vs Muscat Thunders (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
+      "team_1": "Royal Oman Stallions",
+      "team_2": "Muscat Thunders",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Royal Oman Stallions vs Muscat Thunders",
+      "startTime": "10:00:00 PM 15-09-2025"
     }
   ]
 }
