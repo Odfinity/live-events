@@ -1,18 +1,18 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:26 PM 14-09-2025",
+  "last update time": "07:50 PM 14-09-2025",
   "matches": [
     {
       "id": 136736,
       "event_category": "Cricket",
-      "title": "India vs Pakistan (Asia Cup, 2025)",
+      "title": "Pakistan vs India (Asia Cup, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/4-INDvsPAK_Old_match-card_v2.jpg",
-      "team_1": "India",
-      "team_2": "Pakistan",
+      "team_1": "Pakistan",
+      "team_2": "India",
       "status": "LIVE",
       "event_name": "Asia Cup, 2025",
-      "match_name": "India vs Pakistan",
+      "match_name": "Pakistan vs India",
       "startTime": "08:00:00 PM 14-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/4OzQzZaVTQuBi-6O__iwdg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136736_english_hls_9776118ee542689ta-di_h264/index.m3u8"
@@ -32,20 +32,6 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI11FC/master_mdh.m3u8?hdnea=exp=1757899812~acl=/*~id=25883594441950389339192473898615~hmac=a4d91c8aefdf6332f361d4e1ba560d2967a123ea501fd610a90f42cbe06aea7e"
     },
     {
-      "id": 130863,
-      "event_category": "Football",
-      "title": "Celta de Vigo vs Girona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130863_5427_CEV_GIR_fc-Web.jpg",
-      "team_1": "Celta de Vigo",
-      "team_2": "Girona",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Celta de Vigo vs Girona",
-      "startTime": "05:30:00 PM 14-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130863_english_hls_20bd2fbe0730858adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130863_english_hls_20bd2fbe0730858adfreeta-di_h264/index.m3u8"
-    },
-    {
       "id": 130868,
       "event_category": "Football",
       "title": "Levante vs Real Betis (LALIGA 2025-26)",
@@ -58,6 +44,20 @@
       "startTime": "07:45:00 PM 14-09-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130868_english_hls_60f2c89a1287964adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130868_english_hls_60f2c89a1287964adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136785,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Majees Titans (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Majees Titans",
+      "status": "LIVE",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "IAS Invincibles vs Majees Titans",
+      "startTime": "07:45:00 PM 14-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/p9p7GBhNTxiodz1--xW_Ew/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136785_english_hls_d7d809271e9994ta-di_h264/index.m3u8"
     },
     {
       "id": 136936,
@@ -88,6 +88,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135832_english_hls_e233aaff1d71080ta-di_h264/index.m3u8"
     },
     {
+      "id": 130863,
+      "event_category": "Football",
+      "title": "Celta de Vigo vs Girona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130863_5427_CEV_GIR_fc-Web.jpg",
+      "team_1": "Celta de Vigo",
+      "team_2": "Girona",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Celta de Vigo vs Girona",
+      "startTime": "05:30:00 PM 14-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130863_english_hls_20bd2fbe0730858adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130863_english_hls_20bd2fbe0730858adfreeta-di_h264/index.m3u8"
+    },
+    {
       "id": 133804,
       "event_category": "Cricket",
       "title": "Barbados Royals Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2025)",
@@ -110,18 +124,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Guyana Amazon Warriors vs Barbados Royals",
       "startTime": "04:30:00 AM 15-09-2025"
-    },
-    {
-      "id": 136785,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Majees Titans (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Majees Titans",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "IAS Invincibles vs Majees Titans",
-      "startTime": "07:45:00 PM 14-09-2025"
     },
     {
       "id": 136720,
@@ -220,18 +222,6 @@
       "startTime": "07:00:00 AM 15-09-2025"
     },
     {
-      "id": 136786,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Muscat Thunders (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Muscat Thunders",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Yalla Shabab Giants vs Muscat Thunders",
-      "startTime": "10:00:00 PM 14-09-2025"
-    },
-    {
       "id": 136738,
       "event_category": "Cricket",
       "title": "Sri Lanka vs Hong Kong, China (Asia Cup, 2025)",
@@ -242,6 +232,18 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Sri Lanka vs Hong Kong, China",
       "startTime": "08:00:00 PM 15-09-2025"
+    },
+    {
+      "id": 136786,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Muscat Thunders (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Muscat Thunders",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Yalla Shabab Giants vs Muscat Thunders",
+      "startTime": "10:00:00 PM 14-09-2025"
     },
     {
       "id": 136787,
@@ -328,6 +330,18 @@
       "startTime": "09:30:00 PM 15-09-2025"
     },
     {
+      "id": 136788,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Majees Titans (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Majees Titans",
+      "status": "UPCOMING",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Yalla Shabab Giants vs Majees Titans",
+      "startTime": "07:45:00 PM 15-09-2025"
+    },
+    {
       "id": 136896,
       "event_category": "Baseball",
       "title": "Washington Nationals vs Pittsburgh Pirates (Major League Baseball, 2025)",
@@ -350,18 +364,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "San Francisco Giants vs Los Angeles Dodgers",
       "startTime": "01:35:00 AM 15-09-2025"
-    },
-    {
-      "id": 136788,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Majees Titans (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Majees Titans",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Yalla Shabab Giants vs Majees Titans",
-      "startTime": "07:45:00 PM 15-09-2025"
     },
     {
       "id": 136930,
