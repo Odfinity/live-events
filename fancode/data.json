@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:20 PM 14-09-2025",
+  "last update time": "03:49 PM 14-09-2025",
   "matches": [
     {
       "id": 136736,
@@ -40,8 +40,8 @@
       "event_name": "Nurburgring Langstrecken Serie 2025",
       "match_name": "NLS 8",
       "startTime": "03:30:00 PM 14-09-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/j10xmwE0TgiWh3weyc5ypg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136936_english_hls_b620ee111087355ta-di_h264/index.m3u8"
     },
     {
       "id": 135993,
@@ -248,6 +248,18 @@
       "startTime": "12:30:00 AM 15-09-2025"
     },
     {
+      "id": 135832,
+      "event_category": "Golf",
+      "title": "Day 4 vs Wentworth Club (BMW PGA Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-Championship_old.jpg",
+      "team_1": "Day 4",
+      "team_2": "Wentworth Club",
+      "status": "UPCOMING",
+      "event_name": "BMW PGA Championship 2025",
+      "match_name": "Day 4",
+      "startTime": "04:30:00 PM 14-09-2025"
+    },
+    {
       "id": 136737,
       "event_category": "Cricket",
       "title": "United Arab Emirates vs Oman (Asia Cup, 2025)",
@@ -262,13 +274,13 @@
     {
       "id": 136268,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Arunachal T20 Championship, 2025)",
+      "title": "Dirang Daredevils vs Tawang Titans (Arunachal T20 Championship, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Dirang Daredevils",
+      "team_2": "Tawang Titans",
       "status": "UPCOMING",
       "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Dirang Daredevils vs Tawang Titans",
       "startTime": "09:00:00 AM 15-09-2025"
     },
     {
@@ -286,26 +298,14 @@
     {
       "id": 136269,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Arunachal T20 Championship, 2025)",
+      "title": "Siang Storm vs KRA Dominators (Arunachal T20 Championship, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Siang Storm",
+      "team_2": "KRA Dominators",
       "status": "UPCOMING",
       "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Siang Storm vs KRA Dominators",
       "startTime": "01:15:00 PM 15-09-2025"
-    },
-    {
-      "id": 135832,
-      "event_category": "Golf",
-      "title": "Day 4 vs Wentworth Club (BMW PGA Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-Championship_old.jpg",
-      "team_1": "Day 4",
-      "team_2": "Wentworth Club",
-      "status": "UPCOMING",
-      "event_name": "BMW PGA Championship 2025",
-      "match_name": "Day 4",
-      "startTime": "04:30:00 PM 14-09-2025"
     },
     {
       "id": 136631,
@@ -380,16 +380,16 @@
       "startTime": "07:15:00 PM 15-09-2025"
     },
     {
-      "id": 136788,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Majees Titans (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Majees Titans",
+      "id": 136044,
+      "event_category": "Football",
+      "title": "Al Wahda vs Al-Ittihad (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Al Wahda",
+      "team_2": "Al-Ittihad",
       "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Yalla Shabab Giants vs Majees Titans",
-      "startTime": "07:45:00 PM 15-09-2025"
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Wahda vs Al-Ittihad",
+      "startTime": "09:30:00 PM 15-09-2025"
     }
   ]
 }
