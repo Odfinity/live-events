@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:56 AM 16-09-2025",
+  "last update time": "02:11 AM 16-09-2025",
   "matches": [
     {
       "id": 130864,
@@ -32,6 +32,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135987_english_hls_2d1b2766dd58079ta-di_h264/index.m3u8"
     },
     {
+      "id": 136790,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Renaissance Challengers (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Renaissance Challengers",
+      "status": "LIVE",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "IAS Invincibles vs Renaissance Challengers",
+      "startTime": "12:00:00 AM 16-09-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 136045,
       "event_category": "Football",
       "title": "Al-Ahli vs Nasaf (AFC Champions League Elite 2025-26)",
@@ -60,34 +74,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136667_english_hls_b3dac6ac5638164ta-di_h264/index.m3u8"
     },
     {
-      "id": 136790,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Renaissance Challengers (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Renaissance Challengers",
-      "status": "LIVE",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "IAS Invincibles vs Renaissance Challengers",
-      "startTime": "12:00:00 AM 16-09-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 136046,
-      "event_category": "Football",
-      "title": "Al Shorta vs Al Sadd (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Al-Shorta-vs-Al-Sadd_Old_-Match_Cards.jpg",
-      "team_1": "Al Shorta",
-      "team_2": "Al Sadd",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al Shorta vs Al Sadd",
-      "startTime": "11:45:00 PM 15-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DLpXTchKTT206Iq8AgH9vw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136046_english_hls_4a742c384e28262ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136739,
       "event_category": "Cricket",
       "title": "Bangladesh vs Afghanistan (Asia Cup, 2025)",
@@ -112,18 +98,6 @@
       "startTime": "05:00:00 AM 16-09-2025"
     },
     {
-      "id": 135995,
-      "event_category": "Football",
-      "title": "Melbourne City vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Melbourne-City-vs-Sanfrecce-Hiroshima_Old-Match-Card_1757904326064.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Sanfrecce Hiroshima",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Melbourne City vs Sanfrecce Hiroshima",
-      "startTime": "01:15:00 PM 16-09-2025"
-    },
-    {
       "id": 133805,
       "event_category": "Cricket",
       "title": "Barbados Royals Women vs Trinbago Knight Riders Women (Women's Caribbean Premier League, 2025)",
@@ -134,6 +108,18 @@
       "event_name": "Women's Caribbean Premier League, 2025",
       "match_name": "Barbados Royals Women vs Trinbago Knight Riders Women",
       "startTime": "12:30:00 AM 17-09-2025"
+    },
+    {
+      "id": 135995,
+      "event_category": "Football",
+      "title": "Melbourne City vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Melbourne-City-vs-Sanfrecce-Hiroshima_Old-Match-Card_1757904326064.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Sanfrecce Hiroshima",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Melbourne City vs Sanfrecce Hiroshima",
+      "startTime": "01:15:00 PM 16-09-2025"
     },
     {
       "id": 135997,
@@ -422,6 +408,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Shanghai Port vs Vissel Kobe",
       "startTime": "05:45:00 PM 17-09-2025"
+    },
+    {
+      "id": 137060,
+      "event_category": "Cricket",
+      "title": "Bhubaneshwar Tigers vs Cuttack Panthers (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Bhubaneshwar Tigers",
+      "team_2": "Cuttack Panthers",
+      "status": "UPCOMING",
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Bhubaneshwar Tigers vs Cuttack Panthers",
+      "startTime": "07:00:00 PM 17-09-2025"
     }
   ]
 }
