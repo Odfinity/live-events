@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:26 PM 15-09-2025",
+  "last update time": "04:50 PM 15-09-2025",
   "matches": [
     {
       "id": 136737,
@@ -26,20 +26,6 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Sri Lanka vs Hong Kong, China",
       "startTime": "08:00:00 PM 15-09-2025"
-    },
-    {
-      "id": 136269,
-      "event_category": "Cricket",
-      "title": "Siang Storm vs KRA Dominators (Arunachal T20 Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "Siang Storm",
-      "team_2": "KRA Dominators",
-      "status": "LIVE",
-      "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "Siang Storm vs KRA Dominators",
-      "startTime": "01:15:00 PM 15-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ODa1P2XbSna-SgAg7xMAzw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136269_english_hls_e14195d1cd9025ta-di_h264/index.m3u8"
     },
     {
       "id": 135987,
@@ -188,13 +174,13 @@
     {
       "id": 136270,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Arunachal T20 Championship, 2025)",
+      "title": "Tawang Titans vs Siang Storm (Arunachal T20 Championship, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Tawang Titans",
+      "team_2": "Siang Storm",
       "status": "UPCOMING",
       "event_name": "Arunachal T20 Championship, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Tawang Titans vs Siang Storm",
       "startTime": "09:00:00 AM 16-09-2025"
     },
     {
@@ -412,6 +398,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Washington Nationals vs Atlanta Braves",
       "startTime": "10:35:00 PM 16-09-2025"
+    },
+    {
+      "id": 133929,
+      "event_category": "Cricket",
+      "title": "Queensland vs Victoria (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133929_5606_QUN_VCT_fc-web.jpg",
+      "team_1": "Queensland",
+      "team_2": "Victoria",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Queensland vs Victoria",
+      "startTime": "05:00:00 AM 17-09-2025"
     }
   ]
 }
