@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:29 PM 16-09-2025",
+  "last update time": "12:06 AM 17-09-2025",
   "matches": [
     {
       "id": 136739,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136048_5647_AHS_ADH.jpg",
       "team_1": "Al-Hilal",
       "team_2": "Al Duhail",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al-Hilal vs Al Duhail",
-      "startTime": "11:45:00 PM 16-09-2025"
+      "startTime": "11:45:00 PM 16-09-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136832,
@@ -66,20 +68,6 @@
       "startTime": "12:30:00 AM 17-09-2025"
     },
     {
-      "id": 136047,
-      "event_category": "Football",
-      "title": "Shabab Al Ahli vs Tractor (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136047_5647_SAA_TFC.jpg",
-      "team_1": "Shabab Al Ahli",
-      "team_2": "Tractor",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shabab Al Ahli vs Tractor",
-      "startTime": "09:30:00 PM 16-09-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
       "id": 136792,
       "event_category": "Cricket",
       "title": "Muscat Thunders vs Majees Titans (Oman D10 League, 2025)",
@@ -90,6 +78,34 @@
       "event_name": "Oman D10 League, 2025",
       "match_name": "Muscat Thunders vs Majees Titans",
       "startTime": "10:00:00 PM 16-09-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 136116,
+      "event_category": "Football",
+      "title": "Al Hussein vs Sepahan (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136116_5648_HUS_SEP_fc-Web.jpg",
+      "team_1": "Al Hussein",
+      "team_2": "Sepahan",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Al Hussein vs Sepahan",
+      "startTime": "11:45:00 PM 16-09-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 136793,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Renaissance Challengers",
+      "status": "LIVE",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
+      "startTime": "12:00:00 AM 17-09-2025",
       "dai_url": null,
       "adfree_url": null
     },
@@ -154,30 +170,6 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Pakistan vs United Arab Emirates",
       "startTime": "08:00:00 PM 17-09-2025"
-    },
-    {
-      "id": 136116,
-      "event_category": "Football",
-      "title": "Al Hussein vs Sepahan (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136116_5648_HUS_SEP_fc-Web.jpg",
-      "team_1": "Al Hussein",
-      "team_2": "Sepahan",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Al Hussein vs Sepahan",
-      "startTime": "11:45:00 PM 16-09-2025"
-    },
-    {
-      "id": 136793,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Renaissance Challengers",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
-      "startTime": "12:00:00 AM 17-09-2025"
     },
     {
       "id": 133929,
@@ -336,18 +328,6 @@
       "startTime": "12:30:00 AM 18-09-2025"
     },
     {
-      "id": 136901,
-      "event_category": "Baseball",
-      "title": "Boston Red Sox vs Oakland Athletics (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136901_5028_BRS_OA_FC-Web.jpg",
-      "team_1": "Boston Red Sox",
-      "team_2": "Oakland Athletics",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Boston Red Sox vs Oakland Athletics",
-      "startTime": "04:15:00 AM 17-09-2025"
-    },
-    {
       "id": 136128,
       "event_category": "Football",
       "title": "Al-Nassr vs Istiklol (AFC Champions League Two 2025-26)",
@@ -372,18 +352,6 @@
       "startTime": "11:45:00 PM 17-09-2025"
     },
     {
-      "id": 136902,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Philadelphia Phillies (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136902_5028_LAD_PHP_FC-Web.jpg",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Philadelphia Phillies",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Philadelphia Phillies",
-      "startTime": "07:40:00 AM 17-09-2025"
-    },
-    {
       "id": 132377,
       "event_category": "Cricket",
       "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
@@ -394,6 +362,30 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
       "startTime": "05:30:00 AM 18-09-2025"
+    },
+    {
+      "id": 136901,
+      "event_category": "Baseball",
+      "title": "Boston Red Sox vs Oakland Athletics (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136901_5028_BRS_OA_FC-Web.jpg",
+      "team_1": "Boston Red Sox",
+      "team_2": "Oakland Athletics",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Boston Red Sox vs Oakland Athletics",
+      "startTime": "04:15:00 AM 17-09-2025"
+    },
+    {
+      "id": 136902,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Philadelphia Phillies (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136902_5028_LAD_PHP_FC-Web.jpg",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Philadelphia Phillies",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Philadelphia Phillies",
+      "startTime": "07:40:00 AM 17-09-2025"
     },
     {
       "id": 136625,
@@ -454,6 +446,30 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs Philadelphia Phillies",
       "startTime": "07:40:00 AM 18-09-2025"
+    },
+    {
+      "id": 136175,
+      "event_category": "Football",
+      "title": "Kaya vs Tampines Rovers FC (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136175_5648_KAYA_TAM_fc-Web.jpg",
+      "team_1": "Kaya",
+      "team_2": "Tampines Rovers FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Kaya vs Tampines Rovers FC",
+      "startTime": "03:30:00 PM 18-09-2025"
+    },
+    {
+      "id": 136163,
+      "event_category": "Football",
+      "title": "Selangor vs Bangkok United (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136163_5648_SEL_BU_fc-Web.jpg",
+      "team_1": "Selangor",
+      "team_2": "Bangkok United",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Selangor vs Bangkok United",
+      "startTime": "03:30:00 PM 18-09-2025"
     }
   ]
 }
