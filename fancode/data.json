@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:06 AM 17-09-2025",
+  "last update time": "12:21 AM 17-09-2025",
   "matches": [
-    {
-      "id": 136739,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Afghanistan (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/7-BANvsAFG_Old_match-card.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Afghanistan",
-      "status": "LIVE",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "Bangladesh vs Afghanistan",
-      "startTime": "08:00:00 PM 16-09-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
     {
       "id": 136048,
       "event_category": "Football",
@@ -38,22 +24,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136832_5488_CRY_MLW_FC-Web.jpg",
       "team_1": "Crystal Palace",
       "team_2": "Millwall",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Crystal Palace vs Millwall",
-      "startTime": "12:15:00 AM 17-09-2025"
+      "startTime": "12:15:00 AM 17-09-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 133805,
       "event_category": "Cricket",
-      "title": "Barbados Royals Women vs Trinbago Knight Riders Women (Women's Caribbean Premier League, 2025)",
+      "title": "Trinbago Knight Riders Women vs Barbados Royals Women (Women's Caribbean Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133805_5594_BR-W_TKR-W_fc-Web_1757131430971.jpg",
-      "team_1": "Barbados Royals Women",
-      "team_2": "Trinbago Knight Riders Women",
-      "status": "UPCOMING",
+      "team_1": "Trinbago Knight Riders Women",
+      "team_2": "Barbados Royals Women",
+      "status": "LIVE",
       "event_name": "Women's Caribbean Premier League, 2025",
-      "match_name": "Barbados Royals Women vs Trinbago Knight Riders Women",
-      "startTime": "12:30:00 AM 17-09-2025"
+      "match_name": "Trinbago Knight Riders Women vs Barbados Royals Women",
+      "startTime": "12:30:00 AM 17-09-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136833,
@@ -62,22 +52,10 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136833_5488_BRE_AVL_FC-Web_1758032591295.jpg",
       "team_1": "Brentford",
       "team_2": "Aston Villa",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Brentford vs Aston Villa",
-      "startTime": "12:30:00 AM 17-09-2025"
-    },
-    {
-      "id": 136792,
-      "event_category": "Cricket",
-      "title": "Muscat Thunders vs Majees Titans (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-      "team_1": "Muscat Thunders",
-      "team_2": "Majees Titans",
-      "status": "LIVE",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Muscat Thunders vs Majees Titans",
-      "startTime": "10:00:00 PM 16-09-2025",
+      "startTime": "12:30:00 AM 17-09-2025",
       "dai_url": null,
       "adfree_url": null
     },
@@ -120,6 +98,20 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Washington Nationals vs Atlanta Braves",
       "startTime": "10:35:00 PM 16-09-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 136739,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Afghanistan (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/7-BANvsAFG_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "Afghanistan",
+      "status": "LIVE",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Bangladesh vs Afghanistan",
+      "startTime": "08:00:00 PM 16-09-2025",
       "dai_url": null,
       "adfree_url": null
     },
@@ -184,18 +176,6 @@
       "startTime": "05:00:00 AM 17-09-2025"
     },
     {
-      "id": 135999,
-      "event_category": "Football",
-      "title": "Ulsan HD vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/135999_5647_ULS_CR.jpg",
-      "team_1": "Ulsan HD",
-      "team_2": "Chengdu Rongcheng",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Ulsan HD vs Chengdu Rongcheng",
-      "startTime": "03:30:00 PM 17-09-2025"
-    },
-    {
       "id": 133806,
       "event_category": "Cricket",
       "title": "Barbados Royals Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2025)",
@@ -206,6 +186,18 @@
       "event_name": "Women's Caribbean Premier League, 2025",
       "match_name": "Barbados Royals Women vs Guyana Amazon Warriors Women",
       "startTime": "11:30:00 PM 17-09-2025"
+    },
+    {
+      "id": 135999,
+      "event_category": "Football",
+      "title": "Ulsan HD vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/135999_5647_ULS_CR.jpg",
+      "team_1": "Ulsan HD",
+      "team_2": "Chengdu Rongcheng",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Ulsan HD vs Chengdu Rongcheng",
+      "startTime": "03:30:00 PM 17-09-2025"
     },
     {
       "id": 136000,
@@ -280,6 +272,18 @@
       "startTime": "07:15:00 PM 17-09-2025"
     },
     {
+      "id": 136834,
+      "event_category": "Football",
+      "title": "Swansea City vs Nottingham Forest (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136834_5488_SWA_NOT_FC-Web.jpg",
+      "team_1": "Swansea City",
+      "team_2": "Nottingham Forest",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Swansea City vs Nottingham Forest",
+      "startTime": "12:30:00 AM 18-09-2025"
+    },
+    {
       "id": 136104,
       "event_category": "Football",
       "title": "Al Ahli (QAT) vs Khaldiya (AFC Champions League Two 2025-26)",
@@ -314,18 +318,6 @@
       "event_name": "Oman D10 League, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "09:30:00 PM 17-09-2025"
-    },
-    {
-      "id": 136834,
-      "event_category": "Football",
-      "title": "Swansea City vs Nottingham Forest (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136834_5488_SWA_NOT_FC-Web.jpg",
-      "team_1": "Swansea City",
-      "team_2": "Nottingham Forest",
-      "status": "UPCOMING",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Swansea City vs Nottingham Forest",
-      "startTime": "12:30:00 AM 18-09-2025"
     },
     {
       "id": 136128,
@@ -469,6 +461,18 @@
       "status": "UPCOMING",
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Selangor vs Bangkok United",
+      "startTime": "03:30:00 PM 18-09-2025"
+    },
+    {
+      "id": 136139,
+      "event_category": "Football",
+      "title": "Wofoo Tai Po vs Macarthur (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136139_5648_WTP_MAC_fc-Web.jpg",
+      "team_1": "Wofoo Tai Po",
+      "team_2": "Macarthur",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Wofoo Tai Po vs Macarthur",
       "startTime": "03:30:00 PM 18-09-2025"
     }
   ]
