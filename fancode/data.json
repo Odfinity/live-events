@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:59 PM 17-09-2025",
+  "last update time": "07:15 PM 17-09-2025",
   "matches": [
     {
       "id": 136621,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/8-PAKvsUAE_Old_match-card.jpg",
       "team_1": "Pakistan",
       "team_2": "United Arab Emirates",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Asia Cup, 2025",
       "match_name": "Pakistan vs United Arab Emirates",
-      "startTime": "08:00:00 PM 17-09-2025"
+      "startTime": "08:00:00 PM 17-09-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136127,
@@ -36,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136127_5648_FCG_ALZ_fc-Web.jpg",
       "team_1": "Goa",
       "team_2": "Al Zawra'a",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Goa vs Al Zawra'a",
-      "startTime": "07:15:00 PM 17-09-2025"
+      "startTime": "07:15:00 PM 17-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gP7OmORbQkqyxKRT4aVK-g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136127_english_hls_674730bb0377703ta-di_h264/index.m3u8"
     },
     {
       "id": 137060,
@@ -98,6 +102,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136152_english_hls_395e5617fa82465ta-di_h264/index.m3u8"
     },
     {
+      "id": 136103,
+      "event_category": "Football",
+      "title": "Arkadag vs Andijan (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136103_5648_ARK_ABD_fc-Web.jpg",
+      "team_1": "Arkadag",
+      "team_2": "Andijan",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Arkadag vs Andijan",
+      "startTime": "07:15:00 PM 17-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gvMc1DIZTeeEftoRb5CDJQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136103_english_hls_6a222641ac597ta-di_h264/index.m3u8"
+    },
+    {
       "id": 135999,
       "event_category": "Football",
       "title": "Ulsan HD vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
@@ -146,18 +164,6 @@
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "Keonjhar Miners vs Puri Titans",
       "startTime": "02:00:00 PM 18-09-2025"
-    },
-    {
-      "id": 136103,
-      "event_category": "Football",
-      "title": "Arkadag vs Andijan (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136103_5648_ARK_ABD_fc-Web.jpg",
-      "team_1": "Arkadag",
-      "team_2": "Andijan",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Arkadag vs Andijan",
-      "startTime": "07:15:00 PM 17-09-2025"
     },
     {
       "id": 136795,
