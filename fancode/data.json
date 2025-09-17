@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:28 PM 17-09-2025",
+  "last update time": "06:24 PM 17-09-2025",
   "matches": [
     {
       "id": 136621,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-Ireland_T20Is_old_v1-(1).jpg",
       "team_1": "Ireland",
       "team_2": "England",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "England tour of Ireland, 2025",
       "match_name": "Ireland vs England",
-      "startTime": "06:00:00 PM 17-09-2025"
+      "startTime": "06:00:00 PM 17-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/EGPor6hyTk6D2a5Qs_q7_g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136621_english_hls_4397dbc0cc88908ta-di_h264/index.m3u8"
     },
     {
       "id": 136740,
@@ -40,6 +42,48 @@
       "startTime": "07:15:00 PM 17-09-2025"
     },
     {
+      "id": 136000,
+      "event_category": "Football",
+      "title": "Shanghai Port vs Vissel Kobe (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136000_5647_SHG_VIS.jpg",
+      "team_1": "Shanghai Port",
+      "team_2": "Vissel Kobe",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Shanghai Port vs Vissel Kobe",
+      "startTime": "05:45:00 PM 17-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/hsSPVTK7TxqMpcOQtB3ngA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136000_english_hls_be36c300ac77483ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136794,
+      "event_category": "Cricket",
+      "title": "Royal Oman Stallions vs Yalla Shabab Giants (Oman D10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+      "team_1": "Royal Oman Stallions",
+      "team_2": "Yalla Shabab Giants",
+      "status": "LIVE",
+      "event_name": "Oman D10 League, 2025",
+      "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
+      "startTime": "06:00:00 PM 17-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4zh4XVM7QsOnHoya2PC7Qg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136794_english_hls_323e36e60011860ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136152,
+      "event_category": "Football",
+      "title": "Nam Dinh vs Ratchaburi (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136152_5648_ND_RAT_fc-Web.jpg",
+      "team_1": "Nam Dinh",
+      "team_2": "Ratchaburi",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Nam Dinh vs Ratchaburi",
+      "startTime": "05:45:00 PM 17-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Oxm8rrl-SRCHKzvjK16UKw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136152_english_hls_395e5617fa82465ta-di_h264/index.m3u8"
+    },
+    {
       "id": 135999,
       "event_category": "Football",
       "title": "Ulsan HD vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
@@ -52,20 +96,6 @@
       "startTime": "03:30:00 PM 17-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/mnVf-jRHRYGa6suVyJUV8g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135999_english_hls_bcf5f1de7d66137ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136151,
-      "event_category": "Football",
-      "title": "Gamba Osaka vs Eastern SC (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136151_5648_OSK_ESC_fc-Web.jpg",
-      "team_1": "Gamba Osaka",
-      "team_2": "Eastern SC",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Gamba Osaka vs Eastern SC",
-      "startTime": "03:30:00 PM 17-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0Upr_ETaQqmO1Vz0-wdkIQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136151_english_hls_0e9bd44b5e69696ta-di_h264/index.m3u8"
     },
     {
       "id": 137060,
@@ -102,42 +132,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
       "startTime": "05:30:00 AM 18-09-2025"
-    },
-    {
-      "id": 136794,
-      "event_category": "Cricket",
-      "title": "Royal Oman Stallions vs Yalla Shabab Giants (Oman D10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-      "team_1": "Royal Oman Stallions",
-      "team_2": "Yalla Shabab Giants",
-      "status": "UPCOMING",
-      "event_name": "Oman D10 League, 2025",
-      "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
-      "startTime": "06:00:00 PM 17-09-2025"
-    },
-    {
-      "id": 136000,
-      "event_category": "Football",
-      "title": "Shanghai Port vs Vissel Kobe (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136000_5647_SHG_VIS.jpg",
-      "team_1": "Shanghai Port",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shanghai Port vs Vissel Kobe",
-      "startTime": "05:45:00 PM 17-09-2025"
-    },
-    {
-      "id": 136152,
-      "event_category": "Football",
-      "title": "Nam Dinh vs Ratchaburi (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136152_5648_ND_RAT_fc-Web.jpg",
-      "team_1": "Nam Dinh",
-      "team_2": "Ratchaburi",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Nam Dinh vs Ratchaburi",
-      "startTime": "05:45:00 PM 17-09-2025"
     },
     {
       "id": 137061,
@@ -296,18 +290,6 @@
       "startTime": "03:30:00 PM 18-09-2025"
     },
     {
-      "id": 136903,
-      "event_category": "Baseball",
-      "title": "Pittsburgh Pirates vs Chicago Cubs (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136903_5028_PBP_CHC_FC-Web.jpg",
-      "team_1": "Pittsburgh Pirates",
-      "team_2": "Chicago Cubs",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Pittsburgh Pirates vs Chicago Cubs",
-      "startTime": "10:05:00 PM 17-09-2025"
-    },
-    {
       "id": 136176,
       "event_category": "Football",
       "title": "BG Pathum United vs Pohang Steelers (AFC Champions League Two 2025-26)",
@@ -342,6 +324,18 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Beijing Guoan vs Cong An Ha Noi",
       "startTime": "05:45:00 PM 18-09-2025"
+    },
+    {
+      "id": 136903,
+      "event_category": "Baseball",
+      "title": "Pittsburgh Pirates vs Chicago Cubs (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136903_5028_PBP_CHC_FC-Web.jpg",
+      "team_1": "Pittsburgh Pirates",
+      "team_2": "Chicago Cubs",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Pittsburgh Pirates vs Chicago Cubs",
+      "startTime": "10:05:00 PM 17-09-2025"
     },
     {
       "id": 136904,
@@ -426,6 +420,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Colorado Rockies vs Miami Marlins",
       "startTime": "12:40:00 AM 19-09-2025"
+    },
+    {
+      "id": 133930,
+      "event_category": "Cricket",
+      "title": "Victoria vs Tasmania (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133930_5606_VCT_TAS_fc-web.jpg",
+      "team_1": "Victoria",
+      "team_2": "Tasmania",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Victoria vs Tasmania",
+      "startTime": "09:30:00 AM 19-09-2025"
     }
   ]
 }
