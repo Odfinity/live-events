@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:15 PM 18-09-2025",
+  "last update time": "06:48 PM 18-09-2025",
   "matches": [
-    {
-      "id": 137061,
-      "event_category": "Cricket",
-      "title": "Keonjhar Miners vs Puri Titans (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
-      "team_1": "Keonjhar Miners",
-      "team_2": "Puri Titans",
-      "status": "LIVE",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Keonjhar Miners vs Puri Titans",
-      "startTime": "02:00:00 PM 18-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/aasBnwYRQdKV3svNJ-Z6mw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137061_english_hls_eb89c3a24143511ta-di_h264/index.m3u8"
-    },
     {
       "id": 136176,
       "event_category": "Football",
@@ -72,6 +58,20 @@
       "startTime": "05:00:00 PM 18-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/TxMjl2M_RCWn2T4LezSq0g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136847_english_hls_7a6167964b64996ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133913,
+      "event_category": "Golf",
+      "title": "Day 1 vs La Sella (La Sella Open 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open-_2025_Old_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "La Sella",
+      "status": "LIVE",
+      "event_name": "La Sella Open 2025",
+      "match_name": "Day 1",
+      "startTime": "06:30:00 PM 18-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/TAECKP9QQdyy4MP6ywYwoA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133913_english_hls_aa152320fa63321ta-di_h264/index.m3u8"
     },
     {
       "id": 137062,
@@ -156,18 +156,6 @@
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "Bhubaneshwar Tigers vs Keonjhar Miners",
       "startTime": "07:00:00 PM 19-09-2025"
-    },
-    {
-      "id": 133913,
-      "event_category": "Golf",
-      "title": "Day 1 vs La Sella (La Sella Open 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open-_2025_Old_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "La Sella",
-      "status": "UPCOMING",
-      "event_name": "La Sella Open 2025",
-      "match_name": "Day 1",
-      "startTime": "06:30:00 PM 18-09-2025"
     },
     {
       "id": 136742,
@@ -266,18 +254,6 @@
       "startTime": "03:30:00 PM 19-09-2025"
     },
     {
-      "id": 136848,
-      "event_category": "Golf",
-      "title": "Day 2 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Golf de Saint-Nom-La-Bretèche, Paris",
-      "status": "UPCOMING",
-      "event_name": "FedEx Open de France",
-      "match_name": "Day 2",
-      "startTime": "05:00:00 PM 19-09-2025"
-    },
-    {
       "id": 132006,
       "event_category": "Football",
       "title": "Middlesbrough vs West Bromwich Albion (EFL Championship 2025-26)",
@@ -300,6 +276,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Betis vs Real Sociedad",
       "startTime": "12:30:00 AM 20-09-2025"
+    },
+    {
+      "id": 136848,
+      "event_category": "Golf",
+      "title": "Day 2 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Golf de Saint-Nom-La-Bretèche, Paris",
+      "status": "UPCOMING",
+      "event_name": "FedEx Open de France",
+      "match_name": "Day 2",
+      "startTime": "05:00:00 PM 19-09-2025"
     },
     {
       "id": 118462,
