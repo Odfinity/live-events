@@ -1,18 +1,30 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 AM 18-09-2025",
+  "last update time": "07:12 AM 18-09-2025",
   "matches": [
+    {
+      "id": 136741,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs Afghanistan (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/9-SRLvsAFG_Old_match-card.jpg",
+      "team_1": "Sri Lanka",
+      "team_2": "Afghanistan",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Sri Lanka vs Afghanistan",
+      "startTime": "08:00:00 PM 18-09-2025"
+    },
     {
       "id": 132377,
       "event_category": "Cricket",
-      "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
+      "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/132358_5512_SLK_GUY_fc-web.jpg",
-      "team_1": "Saint Lucia Kings",
-      "team_2": "Guyana Amazon Warriors",
+      "team_1": "Guyana Amazon Warriors",
+      "team_2": "Saint Lucia Kings",
       "status": "LIVE",
       "event_name": "Caribbean Premier League, 2025",
-      "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
+      "match_name": "Guyana Amazon Warriors vs Saint Lucia Kings",
       "startTime": "05:30:00 AM 18-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/cd5qj1XcQLKKTqlQKMyaIg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132377_english_hls_cf4a25353746378ta-di_h264/index.m3u8"
@@ -54,18 +66,6 @@
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "Rourkela Steelers vs Sambalpur Warriors",
       "startTime": "07:00:00 PM 18-09-2025"
-    },
-    {
-      "id": 136741,
-      "event_category": "Cricket",
-      "title": "Sri Lanka vs Afghanistan (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/9-SRLvsAFG_Old_match-card.jpg",
-      "team_1": "Sri Lanka",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "Sri Lanka vs Afghanistan",
-      "startTime": "08:00:00 PM 18-09-2025"
     },
     {
       "id": 136599,
@@ -164,6 +164,18 @@
       "startTime": "07:40:00 AM 18-09-2025"
     },
     {
+      "id": 133930,
+      "event_category": "Cricket",
+      "title": "Victoria vs Tasmania (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133930_5606_VCT_TAS_fc-web.jpg",
+      "team_1": "Victoria",
+      "team_2": "Tasmania",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Victoria vs Tasmania",
+      "startTime": "09:30:00 AM 19-09-2025"
+    },
+    {
       "id": 136847,
       "event_category": "Golf",
       "title": "Day 1 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
@@ -200,16 +212,16 @@
       "startTime": "10:40:00 PM 18-09-2025"
     },
     {
-      "id": 133930,
+      "id": 137063,
       "event_category": "Cricket",
-      "title": "Victoria vs Tasmania (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133930_5606_VCT_TAS_fc-web.jpg",
-      "team_1": "Victoria",
-      "team_2": "Tasmania",
+      "title": "Cuttack Panthers vs Puri Titans (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
+      "team_1": "Cuttack Panthers",
+      "team_2": "Puri Titans",
       "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Victoria vs Tasmania",
-      "startTime": "09:30:00 AM 19-09-2025"
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Cuttack Panthers vs Puri Titans",
+      "startTime": "02:00:00 PM 19-09-2025"
     },
     {
       "id": 136907,
@@ -222,18 +234,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Colorado Rockies vs Miami Marlins",
       "startTime": "12:40:00 AM 19-09-2025"
-    },
-    {
-      "id": 137063,
-      "event_category": "Cricket",
-      "title": "Cuttack Panthers vs Puri Titans (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
-      "team_1": "Cuttack Panthers",
-      "team_2": "Puri Titans",
-      "status": "UPCOMING",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Cuttack Panthers vs Puri Titans",
-      "startTime": "02:00:00 PM 19-09-2025"
     },
     {
       "id": 136908,
@@ -272,18 +272,6 @@
       "startTime": "07:00:00 PM 19-09-2025"
     },
     {
-      "id": 119069,
-      "event_category": "Motorsports",
-      "title": "Free Practice vs Baku (F2 AZERBAIJAN 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Free Practice",
-      "team_2": "Baku",
-      "status": "UPCOMING",
-      "event_name": "F2 AZERBAIJAN 2025",
-      "match_name": "Free Practice",
-      "startTime": "12:30:00 PM 19-09-2025"
-    },
-    {
       "id": 136742,
       "event_category": "Cricket",
       "title": "India vs Oman (Asia Cup, 2025)",
@@ -294,6 +282,18 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs Oman",
       "startTime": "08:00:00 PM 19-09-2025"
+    },
+    {
+      "id": 119069,
+      "event_category": "Motorsports",
+      "title": "Free Practice vs Baku (F2 AZERBAIJAN 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Free Practice",
+      "team_2": "Baku",
+      "status": "UPCOMING",
+      "event_name": "F2 AZERBAIJAN 2025",
+      "match_name": "Free Practice",
+      "startTime": "12:30:00 PM 19-09-2025"
     },
     {
       "id": 118461,
