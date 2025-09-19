@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:26 AM 20-09-2025",
+  "last update time": "02:51 AM 20-09-2025",
   "matches": [
     {
       "id": 130872,
@@ -16,20 +16,6 @@
       "startTime": "12:30:00 AM 20-09-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130872_english_hls_695388dd1397618adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130872_english_hls_695388dd1397618adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132006,
-      "event_category": "Football",
-      "title": "Middlesbrough vs West Bromwich Albion (EFL Championship 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/132006_CASACARDS_APP.png",
-      "team_1": "Middlesbrough",
-      "team_2": "West Bromwich Albion",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Middlesbrough vs West Bromwich Albion",
-      "startTime": "12:30:00 AM 20-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/xYEhmjYsSKeS-Yg3zw0iPw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132006_english_hls_9e563612d55393ta-di_h264/index.m3u8"
     },
     {
       "id": 132378,
@@ -438,6 +424,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Mallorca vs Atlético de Madrid",
       "startTime": "07:45:00 PM 21-09-2025"
+    },
+    {
+      "id": 136850,
+      "event_category": "Golf",
+      "title": "Day 4 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
+      "team_1": "Day 4",
+      "team_2": "Golf de Saint-Nom-La-Bretèche, Paris",
+      "status": "UPCOMING",
+      "event_name": "FedEx Open de France",
+      "match_name": "Day 4",
+      "startTime": "04:00:00 PM 21-09-2025"
     }
   ]
 }
