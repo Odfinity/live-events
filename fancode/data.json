@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 19-09-2025",
+  "last update time": "06:16 PM 19-09-2025",
   "matches": [
     {
       "id": 136742,
@@ -14,6 +14,20 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs Oman",
       "startTime": "08:00:00 PM 19-09-2025"
+    },
+    {
+      "id": 136622,
+      "event_category": "Cricket",
+      "title": "Ireland vs England (England tour of Ireland, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-Ireland_T20Is_old_v1-(1).jpg",
+      "team_1": "Ireland",
+      "team_2": "England",
+      "status": "LIVE",
+      "event_name": "England tour of Ireland, 2025",
+      "match_name": "Ireland vs England",
+      "startTime": "06:00:00 PM 19-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fsaFzMoORwyb5NtqJXF1Jw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136622_english_hls_87e3741e6456891ta-di_h264/index.m3u8"
     },
     {
       "id": 118462,
@@ -30,20 +44,6 @@
       "adfree_url": "https://d1k96iafit93o9.cloudfront.net/out/v1/caaf5d35f0614f2580798ec672f6aa74/index.m3u8"
     },
     {
-      "id": 137063,
-      "event_category": "Cricket",
-      "title": "Cuttack Panthers vs Puri Titans (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
-      "team_1": "Cuttack Panthers",
-      "team_2": "Puri Titans",
-      "status": "LIVE",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Cuttack Panthers vs Puri Titans",
-      "startTime": "02:00:00 PM 19-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/IjjSdpYtSMufkft_CPaq4w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137063_english_hls_544a03269011098ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136848,
       "event_category": "Golf",
       "title": "Day 2 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
@@ -56,18 +56,6 @@
       "startTime": "05:00:00 PM 19-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/PW4vZBVJSOmIOw63ix_j2w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136848_english_hls_46052320ca91141ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136622,
-      "event_category": "Cricket",
-      "title": "Ireland vs England (England tour of Ireland, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-Ireland_T20Is_old_v1-(1).jpg",
-      "team_1": "Ireland",
-      "team_2": "England",
-      "status": "UPCOMING",
-      "event_name": "England tour of Ireland, 2025",
-      "match_name": "Ireland vs England",
-      "startTime": "06:00:00 PM 19-09-2025"
     },
     {
       "id": 132378,
@@ -152,6 +140,18 @@
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "Rourkela Steelers vs Cuttack Panthers",
       "startTime": "02:00:00 PM 20-09-2025"
+    },
+    {
+      "id": 133914,
+      "event_category": "Golf",
+      "title": "Day 2 vs La Sella (La Sella Open 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open-_2025_Old_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "La Sella",
+      "status": "UPCOMING",
+      "event_name": "La Sella Open 2025",
+      "match_name": "Day 2",
+      "startTime": "06:30:00 PM 19-09-2025"
     },
     {
       "id": 136743,
@@ -262,18 +262,6 @@
       "startTime": "07:45:00 PM 20-09-2025"
     },
     {
-      "id": 133914,
-      "event_category": "Golf",
-      "title": "Day 2 vs La Sella (La Sella Open 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open-_2025_Old_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "La Sella",
-      "status": "UPCOMING",
-      "event_name": "La Sella Open 2025",
-      "match_name": "Day 2",
-      "startTime": "06:30:00 PM 19-09-2025"
-    },
-    {
       "id": 136909,
       "event_category": "Baseball",
       "title": "Detroit Tigers vs Atlanta Braves (Major League Baseball, 2025)",
@@ -334,18 +322,6 @@
       "startTime": "02:00:00 PM 20-09-2025"
     },
     {
-      "id": 119071,
-      "event_category": "Motorsports",
-      "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Sprint Race",
-      "team_2": "Baku",
-      "status": "UPCOMING",
-      "event_name": "F2 AZERBAIJAN 2025",
-      "match_name": "Sprint Race",
-      "startTime": "03:45:00 PM 20-09-2025"
-    },
-    {
       "id": 136601,
       "event_category": "Football",
       "title": "Al-Nassr vs Al-Riyadh (Roshn Saudi League 2025-2026)",
@@ -358,6 +334,18 @@
       "startTime": "11:30:00 PM 20-09-2025"
     },
     {
+      "id": 119071,
+      "event_category": "Motorsports",
+      "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Sprint Race",
+      "team_2": "Baku",
+      "status": "UPCOMING",
+      "event_name": "F2 AZERBAIJAN 2025",
+      "match_name": "Sprint Race",
+      "startTime": "03:45:00 PM 20-09-2025"
+    },
+    {
       "id": 136849,
       "event_category": "Golf",
       "title": "Day 3 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
@@ -368,6 +356,18 @@
       "event_name": "FedEx Open de France",
       "match_name": "Day 3",
       "startTime": "04:30:00 PM 20-09-2025"
+    },
+    {
+      "id": 130875,
+      "event_category": "Football",
+      "title": "Valencia vs Athletic Club (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130875_5427_VAL_ATH_fc-Web_1758202426482.jpg",
+      "team_1": "Valencia",
+      "team_2": "Athletic Club",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Valencia vs Athletic Club",
+      "startTime": "12:30:00 AM 21-09-2025"
     },
     {
       "id": 118464,
@@ -392,18 +392,6 @@
       "event_name": "La Sella Open 2025",
       "match_name": "Day 3",
       "startTime": "05:30:00 PM 20-09-2025"
-    },
-    {
-      "id": 130875,
-      "event_category": "Football",
-      "title": "Valencia vs Athletic Club (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130875_5427_VAL_ATH_fc-Web_1758202426482.jpg",
-      "team_1": "Valencia",
-      "team_2": "Athletic Club",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Valencia vs Athletic Club",
-      "startTime": "12:30:00 AM 21-09-2025"
     },
     {
       "id": 136911,
@@ -452,6 +440,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs San Francisco Giants",
       "startTime": "06:40:00 AM 21-09-2025"
+    },
+    {
+      "id": 137067,
+      "event_category": "Cricket",
+      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
+      "team_1": "Sambalpur Warriors",
+      "team_2": "Bhubaneshwar Tigers",
+      "status": "UPCOMING",
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+      "startTime": "02:00:00 PM 21-09-2025"
     }
   ]
 }
