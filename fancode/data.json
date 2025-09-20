@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:02 PM 20-09-2025",
+  "last update time": "04:17 PM 20-09-2025",
   "matches": [
     {
       "id": 136743,
@@ -14,20 +14,6 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Sri Lanka vs Bangladesh",
       "startTime": "08:00:00 PM 20-09-2025"
-    },
-    {
-      "id": 118463,
-      "event_category": "Formula 1",
-      "title": "Practice 3 vs Azerbaijan (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Azerbaijan_Race_old.jpg",
-      "team_1": "Practice 3",
-      "team_2": "Azerbaijan",
-      "status": "LIVE",
-      "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025",
-      "match_name": "Practice 3",
-      "startTime": "02:00:00 PM 20-09-2025",
-      "dai_url": "https://d1y1em7i04bjsk.cloudfront.net/out/v1/3f43da9c8de040d48c27c2ea1de7677f/index.m3u8",
-      "adfree_url": "https://d1y1em7i04bjsk.cloudfront.net/out/v1/3f43da9c8de040d48c27c2ea1de7677f/index.m3u8"
     },
     {
       "id": 137065,
@@ -100,16 +86,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119071_english_hls_a4c70499d620948adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 137066,
-      "event_category": "Cricket",
-      "title": "Puri Titans vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-      "team_1": "Puri Titans",
-      "team_2": "Sambalpur Warriors",
-      "status": "UPCOMING",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Puri Titans vs Sambalpur Warriors",
-      "startTime": "07:00:00 PM 20-09-2025"
+      "id": 136849,
+      "event_category": "Golf",
+      "title": "Day 3 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Golf de Saint-Nom-La-Bretèche, Paris",
+      "status": "LIVE",
+      "event_name": "FedEx Open de France",
+      "match_name": "Day 3",
+      "startTime": "04:30:00 PM 20-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2d4rtKQTS3aSukSAP-Mlvw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136849_english_hls_cf5729dbde81079ta-di_h264/index.m3u8"
     },
     {
       "id": 132005,
@@ -122,6 +110,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Leicester City vs Coventry City",
       "startTime": "05:00:00 PM 20-09-2025"
+    },
+    {
+      "id": 137066,
+      "event_category": "Cricket",
+      "title": "Puri Titans vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
+      "team_1": "Puri Titans",
+      "team_2": "Sambalpur Warriors",
+      "status": "UPCOMING",
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Puri Titans vs Sambalpur Warriors",
+      "startTime": "07:00:00 PM 20-09-2025"
     },
     {
       "id": 130874,
@@ -220,18 +220,6 @@
       "startTime": "09:30:00 AM 21-09-2025"
     },
     {
-      "id": 136849,
-      "event_category": "Golf",
-      "title": "Day 3 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Golf de Saint-Nom-La-Bretèche, Paris",
-      "status": "UPCOMING",
-      "event_name": "FedEx Open de France",
-      "match_name": "Day 3",
-      "startTime": "04:30:00 PM 20-09-2025"
-    },
-    {
       "id": 136623,
       "event_category": "Cricket",
       "title": "Ireland vs England (England tour of Ireland, 2025)",
@@ -304,18 +292,6 @@
       "startTime": "05:30:00 PM 20-09-2025"
     },
     {
-      "id": 136911,
-      "event_category": "Baseball",
-      "title": "Detroit Tigers vs Atlanta Braves (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136911_5028_DET_AB_FC-Web.jpg",
-      "team_1": "Detroit Tigers",
-      "team_2": "Atlanta Braves",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Detroit Tigers vs Atlanta Braves",
-      "startTime": "10:40:00 PM 20-09-2025"
-    },
-    {
       "id": 137068,
       "event_category": "Cricket",
       "title": "Keonjhar Miners vs Rourkela Steelers (Odisha Pro T20 League, 2025)",
@@ -326,6 +302,18 @@
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "Keonjhar Miners vs Rourkela Steelers",
       "startTime": "07:00:00 PM 21-09-2025"
+    },
+    {
+      "id": 136911,
+      "event_category": "Baseball",
+      "title": "Detroit Tigers vs Atlanta Braves (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136911_5028_DET_AB_FC-Web.jpg",
+      "team_1": "Detroit Tigers",
+      "team_2": "Atlanta Braves",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Detroit Tigers vs Atlanta Braves",
+      "startTime": "10:40:00 PM 20-09-2025"
     },
     {
       "id": 136912,
