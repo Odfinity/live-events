@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:19 PM 20-09-2025",
+  "last update time": "03:39 PM 20-09-2025",
   "matches": [
     {
       "id": 136743,
@@ -212,22 +212,24 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
       "team_1": "Sprint Race",
       "team_2": "Baku",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "F2 AZERBAIJAN 2025",
       "match_name": "Sprint Race",
-      "startTime": "03:45:00 PM 20-09-2025"
+      "startTime": "03:45:00 PM 20-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119071_english_hls_a4c70499d620948adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119071_english_hls_a4c70499d620948adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 137067,
-      "event_category": "Cricket",
-      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
-      "team_1": "Sambalpur Warriors",
-      "team_2": "Bhubaneshwar Tigers",
+      "id": 136849,
+      "event_category": "Golf",
+      "title": "Day 3 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Golf de Saint-Nom-La-Bretèche, Paris",
       "status": "UPCOMING",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-      "startTime": "02:00:00 PM 21-09-2025"
+      "event_name": "FedEx Open de France",
+      "match_name": "Day 3",
+      "startTime": "04:30:00 PM 20-09-2025"
     },
     {
       "id": 136623,
@@ -240,6 +242,18 @@
       "event_name": "England tour of Ireland, 2025",
       "match_name": "Ireland vs England",
       "startTime": "06:00:00 PM 21-09-2025"
+    },
+    {
+      "id": 137067,
+      "event_category": "Cricket",
+      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
+      "team_1": "Sambalpur Warriors",
+      "team_2": "Bhubaneshwar Tigers",
+      "status": "UPCOMING",
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+      "startTime": "02:00:00 PM 21-09-2025"
     },
     {
       "id": 136744,
@@ -264,18 +278,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Rayo Vallecano vs Celta de Vigo",
       "startTime": "05:30:00 PM 21-09-2025"
-    },
-    {
-      "id": 136849,
-      "event_category": "Golf",
-      "title": "Day 3 vs Golf de Saint-Nom-La-Bretèche, Paris (FedEx Open de France)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Golf de Saint-Nom-La-Bretèche, Paris",
-      "status": "UPCOMING",
-      "event_name": "FedEx Open de France",
-      "match_name": "Day 3",
-      "startTime": "04:30:00 PM 20-09-2025"
     },
     {
       "id": 118464,
@@ -314,6 +316,18 @@
       "startTime": "10:40:00 PM 20-09-2025"
     },
     {
+      "id": 137068,
+      "event_category": "Cricket",
+      "title": "Keonjhar Miners vs Rourkela Steelers (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
+      "team_1": "Keonjhar Miners",
+      "team_2": "Rourkela Steelers",
+      "status": "UPCOMING",
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Keonjhar Miners vs Rourkela Steelers",
+      "startTime": "07:00:00 PM 21-09-2025"
+    },
+    {
       "id": 136912,
       "event_category": "Baseball",
       "title": "Arizona Diamondbacks vs Philadelphia Phillies (Major League Baseball, 2025)",
@@ -336,18 +350,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs San Francisco Giants",
       "startTime": "06:40:00 AM 21-09-2025"
-    },
-    {
-      "id": 137068,
-      "event_category": "Cricket",
-      "title": "Keonjhar Miners vs Rourkela Steelers (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-      "team_1": "Keonjhar Miners",
-      "team_2": "Rourkela Steelers",
-      "status": "UPCOMING",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Keonjhar Miners vs Rourkela Steelers",
-      "startTime": "07:00:00 PM 21-09-2025"
     },
     {
       "id": 130876,
