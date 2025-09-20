@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:17 PM 20-09-2025",
+  "last update time": "11:29 PM 20-09-2025",
   "matches": [
     {
       "id": 136743,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136601_5655_ANF_ALR_fc-web.jpg",
       "team_1": "Al-Nassr",
       "team_2": "Al-Riyadh",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Nassr vs Al-Riyadh",
-      "startTime": "11:30:00 PM 20-09-2025"
+      "startTime": "11:30:00 PM 20-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/6QMo0lgESDKmKNWPahGQ7w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136601_english_hls_2d50e5bd8533299ta-di_h264/index.m3u8"
     },
     {
       "id": 137066,
@@ -254,18 +256,6 @@
       "startTime": "12:00:00 AM 22-09-2025"
     },
     {
-      "id": 119072,
-      "event_category": "Motorsports",
-      "title": "Feature Race vs Baku (F2 AZERBAIJAN 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Feature Race",
-      "team_2": "Baku",
-      "status": "UPCOMING",
-      "event_name": "F2 AZERBAIJAN 2025",
-      "match_name": "Feature Race",
-      "startTime": "12:30:00 PM 21-09-2025"
-    },
-    {
       "id": 132379,
       "event_category": "Cricket",
       "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
@@ -276,6 +266,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
       "startTime": "05:30:00 AM 22-09-2025"
+    },
+    {
+      "id": 119072,
+      "event_category": "Motorsports",
+      "title": "Feature Race vs Baku (F2 AZERBAIJAN 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Feature Race",
+      "team_2": "Baku",
+      "status": "UPCOMING",
+      "event_name": "F2 AZERBAIJAN 2025",
+      "match_name": "Feature Race",
+      "startTime": "12:30:00 PM 21-09-2025"
     },
     {
       "id": 137104,
