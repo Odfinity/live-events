@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:15 AM 22-09-2025",
+  "last update time": "12:27 AM 22-09-2025",
   "matches": [
+    {
+      "id": 130871,
+      "event_category": "Football",
+      "title": "FC Barcelona vs Getafe CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130871_5427_BAR_GEF_fc-Web.jpg",
+      "team_1": "FC Barcelona",
+      "team_2": "Getafe CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "FC Barcelona vs Getafe CF",
+      "startTime": "12:30:00 AM 22-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130871_english_hls_3077bcd2cf61322adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130871_english_hls_3077bcd2cf61322adfreeta-di_h264/index.m3u8"
+    },
     {
       "id": 136744,
       "event_category": "Cricket",
@@ -18,32 +32,18 @@
       "adfree_url": "https://d3lyx96yjhs311.cloudfront.net/out/v1/fbf31a2968cf44e9b1c15e0f07a9d0ee/index.m3u8"
     },
     {
-      "id": 130873,
+      "id": 137104,
       "event_category": "Football",
-      "title": "Elche CF vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130873_5427_ELC_RO_fc-Web.jpg",
-      "team_1": "Elche CF",
-      "team_2": "Real Oviedo",
+      "title": "Córdoba vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137104_CASACARDS_APP.png",
+      "team_1": "Córdoba",
+      "team_2": "Racing de Santander",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs Real Oviedo",
-      "startTime": "10:00:00 PM 21-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130873_english_hls_6e0ec0a5ce71597adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130873_english_hls_6e0ec0a5ce71597adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130871,
-      "event_category": "Football",
-      "title": "FC Barcelona vs Getafe CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130871_5427_BAR_GEF_fc-Web.jpg",
-      "team_1": "FC Barcelona",
-      "team_2": "Getafe CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "FC Barcelona vs Getafe CF",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Córdoba vs Racing de Santander",
       "startTime": "12:30:00 AM 22-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130871_english_hls_3077bcd2cf61322adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130871_english_hls_3077bcd2cf61322adfreeta-di_h264/index.m3u8"
+      "dai_url": "https://dai.google.com/linear/hls/event/UL6M4L8LThaep4pdshWSXw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137104_english_hls_aa887553db39165ta-di_h264/index.m3u8"
     },
     {
       "id": 137125,
@@ -60,18 +60,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137125_english_hls_c160ebe82d52223ta-di_h264/index.m3u8"
     },
     {
-      "id": 137068,
-      "event_category": "Cricket",
-      "title": "Rourkela Steelers vs Keonjhar Miners (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-      "team_1": "Rourkela Steelers",
-      "team_2": "Keonjhar Miners",
+      "id": 130873,
+      "event_category": "Football",
+      "title": "Elche CF vs Real Oviedo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130873_5427_ELC_RO_fc-Web.jpg",
+      "team_1": "Elche CF",
+      "team_2": "Real Oviedo",
       "status": "LIVE",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Rourkela Steelers vs Keonjhar Miners",
-      "startTime": "07:00:00 PM 21-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/BkyRpmvwRAWONGuHRy8VCQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137068_english_hls_a7e1b5772169721ta-di_h264/index.m3u8"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs Real Oviedo",
+      "startTime": "10:00:00 PM 21-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130873_english_hls_6e0ec0a5ce71597adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130873_english_hls_6e0ec0a5ce71597adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 132379,
@@ -84,18 +84,6 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
       "startTime": "05:30:00 AM 22-09-2025"
-    },
-    {
-      "id": 137104,
-      "event_category": "Football",
-      "title": "Córdoba vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/137104_CASACARDS_APP.png",
-      "team_1": "Córdoba",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Córdoba vs Racing de Santander",
-      "startTime": "12:30:00 AM 22-09-2025"
     },
     {
       "id": 137069,
@@ -444,6 +432,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Western Australia Women vs Queensland Fire",
       "startTime": "11:30:00 AM 24-09-2025"
+    },
+    {
+      "id": 137129,
+      "event_category": "Baseball",
+      "title": "Oakland Athletics vs Houston Astros (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137129_CASACARDS_APP.png",
+      "team_1": "Oakland Athletics",
+      "team_2": "Houston Astros",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Oakland Athletics vs Houston Astros",
+      "startTime": "07:35:00 AM 24-09-2025"
     }
   ]
 }
