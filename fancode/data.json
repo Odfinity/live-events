@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:27 AM 22-09-2025",
+  "last update time": "12:48 AM 22-09-2025",
   "matches": [
     {
       "id": 130871,
@@ -16,20 +16,6 @@
       "startTime": "12:30:00 AM 22-09-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130871_english_hls_3077bcd2cf61322adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130871_english_hls_3077bcd2cf61322adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136744,
-      "event_category": "Cricket",
-      "title": "Pakistan vs India (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/4-INDvsPAK_Old_match-card_v2.jpg",
-      "team_1": "Pakistan",
-      "team_2": "India",
-      "status": "LIVE",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "Pakistan vs India",
-      "startTime": "08:00:00 PM 21-09-2025",
-      "dai_url": "https://d3lyx96yjhs311.cloudfront.net/out/v1/fbf31a2968cf44e9b1c15e0f07a9d0ee/index.m3u8",
-      "adfree_url": "https://d3lyx96yjhs311.cloudfront.net/out/v1/fbf31a2968cf44e9b1c15e0f07a9d0ee/index.m3u8"
     },
     {
       "id": 137104,
@@ -60,18 +46,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137125_english_hls_c160ebe82d52223ta-di_h264/index.m3u8"
     },
     {
-      "id": 130873,
-      "event_category": "Football",
-      "title": "Elche CF vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130873_5427_ELC_RO_fc-Web.jpg",
-      "team_1": "Elche CF",
-      "team_2": "Real Oviedo",
+      "id": 137126,
+      "event_category": "Baseball",
+      "title": "Colorado Rockies vs Los Angeles Angels (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137126_CASACARDS_APP.png",
+      "team_1": "Colorado Rockies",
+      "team_2": "Los Angeles Angels",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs Real Oviedo",
-      "startTime": "10:00:00 PM 21-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130873_english_hls_6e0ec0a5ce71597adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130873_english_hls_6e0ec0a5ce71597adfreeta-di_h264/index.m3u8"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Colorado Rockies vs Los Angeles Angels",
+      "startTime": "12:40:00 AM 22-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137126_english_hls_2c10c0233762664ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137126_english_hls_2c10c0233762664ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136744,
+      "event_category": "Cricket",
+      "title": "Pakistan vs India (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/4-INDvsPAK_Old_match-card_v2.jpg",
+      "team_1": "Pakistan",
+      "team_2": "India",
+      "status": "LIVE",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Pakistan vs India",
+      "startTime": "08:00:00 PM 21-09-2025",
+      "dai_url": "https://d3lyx96yjhs311.cloudfront.net/out/v1/fbf31a2968cf44e9b1c15e0f07a9d0ee/index.m3u8",
+      "adfree_url": "https://d3lyx96yjhs311.cloudfront.net/out/v1/fbf31a2968cf44e9b1c15e0f07a9d0ee/index.m3u8"
     },
     {
       "id": 132379,
@@ -108,18 +108,6 @@
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "Sambalpur Warriors vs Cuttack Panthers",
       "startTime": "07:00:00 PM 22-09-2025"
-    },
-    {
-      "id": 137126,
-      "event_category": "Baseball",
-      "title": "Colorado Rockies vs Los Angeles Angels (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137126_CASACARDS_APP.png",
-      "team_1": "Colorado Rockies",
-      "team_2": "Los Angeles Angels",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Colorado Rockies vs Los Angeles Angels",
-      "startTime": "12:40:00 AM 22-09-2025"
     },
     {
       "id": 132007,
@@ -444,6 +432,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Oakland Athletics vs Houston Astros",
       "startTime": "07:35:00 AM 24-09-2025"
+    },
+    {
+      "id": 137073,
+      "event_category": "Cricket",
+      "title": "Rourkela Steelers vs Bhubaneshwar Tigers (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
+      "team_1": "Rourkela Steelers",
+      "team_2": "Bhubaneshwar Tigers",
+      "status": "UPCOMING",
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Rourkela Steelers vs Bhubaneshwar Tigers",
+      "startTime": "02:00:00 PM 24-09-2025"
     }
   ]
 }
