@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:28 AM 21-09-2025",
+  "last update time": "09:59 AM 21-09-2025",
   "matches": [
     {
       "id": 136744,
@@ -30,20 +30,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133932_english_hls_c6cc779c6e70791ta-di_h264/index.m3u8"
     },
     {
-      "id": 136913,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs San Francisco Giants (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "San Francisco Giants",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs San Francisco Giants",
-      "startTime": "06:40:00 AM 21-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136913_english_hls_6c8cb174c269919ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136913_english_hls_6c8cb174c269919ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136623,
       "event_category": "Cricket",
       "title": "Ireland vs England (England tour of Ireland, 2025)",
@@ -66,6 +52,18 @@
       "event_name": "Caribbean Premier League, 2025",
       "match_name": "Guyana Amazon Warriors vs Trinbago Knight Riders",
       "startTime": "05:30:00 AM 22-09-2025"
+    },
+    {
+      "id": 137102,
+      "event_category": "Football",
+      "title": "Almería vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137102_CASACARDS_APP.png",
+      "team_1": "Almería",
+      "team_2": "Sporting de Gijón",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Almería vs Sporting de Gijón",
+      "startTime": "12:30:00 AM 21-09-2025"
     },
     {
       "id": 137067,
@@ -138,6 +136,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Barcelona vs Getafe",
       "startTime": "12:30:00 AM 22-09-2025"
+    },
+    {
+      "id": 137101,
+      "event_category": "Football",
+      "title": "Deportivo de La Coruña vs Huesca (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137101_CASACARDS_APP.png",
+      "team_1": "Deportivo de La Coruña",
+      "team_2": "Huesca",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo de La Coruña vs Huesca",
+      "startTime": "12:00:00 AM 22-09-2025"
     },
     {
       "id": 137104,
@@ -414,18 +424,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Girona",
       "startTime": "10:30:00 PM 23-09-2025"
-    },
-    {
-      "id": 136837,
-      "event_category": "Football",
-      "title": "Barnsley vs Brighton and Hove Albion (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136837_5488_BAR_BHA_fc-Web.jpg",
-      "team_1": "Barnsley",
-      "team_2": "Brighton and Hove Albion",
-      "status": "UPCOMING",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Barnsley vs Brighton and Hove Albion",
-      "startTime": "12:15:00 AM 24-09-2025"
     }
   ]
 }
