@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:27 AM 23-09-2025",
+  "last update time": "02:51 AM 23-09-2025",
   "matches": [
-    {
-      "id": 132007,
-      "event_category": "Football",
-      "title": "Millwall F.C. vs Watford F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132007_5489_MLW_WAT_fc-web.jpg",
-      "team_1": "Millwall F.C.",
-      "team_2": "Watford F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Millwall F.C. vs Watford F.C.",
-      "startTime": "12:30:00 AM 23-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/REESyyAGT2ilCQJtUONE2w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132007_english_hls_38fd2909402155ta-di_h264/index.m3u8"
-    },
     {
       "id": 136745,
       "event_category": "Cricket",
@@ -90,18 +76,6 @@
       "startTime": "10:30:00 AM 23-09-2025"
     },
     {
-      "id": 132099,
-      "event_category": "Football",
-      "title": "Kashima Antlers vs Cerezo Osaka (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132099_CASACARDS_APP.png",
-      "team_1": "Kashima Antlers",
-      "team_2": "Cerezo Osaka",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kashima Antlers vs Cerezo Osaka",
-      "startTime": "02:30:00 PM 23-09-2025"
-    },
-    {
       "id": 130883,
       "event_category": "Football",
       "title": "RCD Espanyol vs Valencia CF (LALIGA 2025-26)",
@@ -124,6 +98,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Girona FC",
       "startTime": "10:30:00 PM 23-09-2025"
+    },
+    {
+      "id": 132099,
+      "event_category": "Football",
+      "title": "Kashima Antlers vs Cerezo Osaka (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132099_CASACARDS_APP.png",
+      "team_1": "Kashima Antlers",
+      "team_2": "Cerezo Osaka",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashima Antlers vs Cerezo Osaka",
+      "startTime": "02:30:00 PM 23-09-2025"
     },
     {
       "id": 132102,
@@ -436,6 +422,30 @@
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Huddersfield Town vs Manchester City",
       "startTime": "12:15:00 AM 25-09-2025"
+    },
+    {
+      "id": 136845,
+      "event_category": "Football",
+      "title": "Port Vale vs Arsenal (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136845_5488_PV_ARS_fc-Web.jpg",
+      "team_1": "Port Vale",
+      "team_2": "Arsenal",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Port Vale vs Arsenal",
+      "startTime": "12:30:00 AM 25-09-2025"
+    },
+    {
+      "id": 130882,
+      "event_category": "Football",
+      "title": "Atletico de Madrid vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs Rayo Vallecano",
+      "startTime": "01:00:00 AM 25-09-2025"
     }
   ]
 }
