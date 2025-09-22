@@ -1,8 +1,24 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:45 PM 22-09-2025",
+  "last update time": "08:06 PM 22-09-2025",
   "matches": [
+    {
+      "id": "sl1090490423",
+      "isLive": true,
+      "event": "Multi CDN Test Asset",
+      "match": "Test Asset",
+      "Provider": "DFL Deutsche Fubball Liga e.V.",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007921/1757497409080169_Bundesliga_25_26_MD4_VfB_Stuttgart_vs_St_Pauli_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "MultiCDNTestAsset,test assest,ACC assest ",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090490423.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090490423.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090490423.m3u8"
+    },
     {
       "id": "sl1090490287",
       "isLive": false,
