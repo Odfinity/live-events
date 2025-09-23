@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:59 PM 23-09-2025",
+  "last update time": "02:19 PM 23-09-2025",
   "matches": [
     {
-      "id": 132100,
+      "id": 137071,
+      "event_category": "Cricket",
+      "title": "Cuttack Panthers vs Keonjhar Miners (Odisha Pro T20 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
+      "team_1": "Cuttack Panthers",
+      "team_2": "Keonjhar Miners",
+      "status": "LIVE",
+      "event_name": "Odisha Pro T20 League, 2025",
+      "match_name": "Cuttack Panthers vs Keonjhar Miners",
+      "startTime": "02:00:00 PM 23-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/yYeRw6X3RTCVJLWa4HAqBA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137071_english_hls_72905be32f11463ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132099,
       "event_category": "Football",
-      "title": "Albirex Niigata vs Nagoya Grampus (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132100_CASACARDS_APP.png",
-      "team_1": "Albirex Niigata",
-      "team_2": "Nagoya Grampus",
+      "title": "Kashima Antlers vs Cerezo Osaka (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132099_CASACARDS_APP.png",
+      "team_1": "Kashima Antlers",
+      "team_2": "Cerezo Osaka",
       "status": "LIVE",
       "event_name": "J League 2025",
-      "match_name": "Albirex Niigata vs Nagoya Grampus",
-      "startTime": "10:30:00 AM 23-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132100_english_hls_2d4e75571863730ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132100_english_hls_2d4e75571863730ta-di_h264/index.m3u8"
+      "match_name": "Kashima Antlers vs Cerezo Osaka",
+      "startTime": "02:30:00 PM 23-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132099_english_hls_01089d08ad45884ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132099_english_hls_01089d08ad45884ta-di_h264/index.m3u8"
     },
     {
       "id": 136745,
@@ -28,18 +42,6 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "Pakistan vs Sri Lanka",
       "startTime": "08:00:00 PM 23-09-2025"
-    },
-    {
-      "id": 137071,
-      "event_category": "Cricket",
-      "title": "Cuttack Panthers vs Keonjhar Miners (Odisha Pro T20 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
-      "team_1": "Cuttack Panthers",
-      "team_2": "Keonjhar Miners",
-      "status": "UPCOMING",
-      "event_name": "Odisha Pro T20 League, 2025",
-      "match_name": "Cuttack Panthers vs Keonjhar Miners",
-      "startTime": "02:00:00 PM 23-09-2025"
     },
     {
       "id": 137018,
@@ -104,13 +106,13 @@
     {
       "id": 136837,
       "event_category": "Football",
-      "title": "Barnsley vs Brighton and Hove Albion (Carabao Cup 2025-2026)",
+      "title": "Barnsley FC vs Brighton and Hove Albion (Carabao Cup 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136837_5488_BAR_BHA_fc-Web.jpg",
-      "team_1": "Barnsley",
+      "team_1": "Barnsley FC",
       "team_2": "Brighton and Hove Albion",
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Barnsley vs Brighton and Hove Albion",
+      "match_name": "Barnsley FC vs Brighton and Hove Albion",
       "startTime": "12:15:00 AM 24-09-2025"
     },
     {
@@ -140,25 +142,25 @@
     {
       "id": 136840,
       "event_category": "Football",
-      "title": "Lincoln City vs Chelsea (Carabao Cup 2025-2026)",
+      "title": "Lincoln City F.C. vs Chelsea (Carabao Cup 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136840_5488_LNC_CHE_fc-Web.jpg",
-      "team_1": "Lincoln City",
+      "team_1": "Lincoln City F.C.",
       "team_2": "Chelsea",
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Lincoln City vs Chelsea",
+      "match_name": "Lincoln City F.C. vs Chelsea",
       "startTime": "12:15:00 AM 24-09-2025"
     },
     {
       "id": 136839,
       "event_category": "Football",
-      "title": "Wolverhampton Wanderers vs Everton (Carabao Cup 2025-2026)",
+      "title": "Wolverhampton Wanderers F.C. vs Everton (Carabao Cup 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136839_5488_WOL_EVE_fc-Web.jpg",
-      "team_1": "Wolverhampton Wanderers",
+      "team_1": "Wolverhampton Wanderers F.C.",
       "team_2": "Everton",
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Wolverhampton Wanderers vs Everton",
+      "match_name": "Wolverhampton Wanderers F.C. vs Everton",
       "startTime": "12:15:00 AM 24-09-2025"
     },
     {
@@ -188,13 +190,13 @@
     {
       "id": 130885,
       "event_category": "Football",
-      "title": "Sevilla fc vs Villarreal cf (LALIGA 2025-26)",
+      "title": "Sevilla FC vs Villarreal CF (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130885_5427_SEV_VIL_fc-Web.jpg",
-      "team_1": "Sevilla fc",
-      "team_2": "Villarreal cf",
+      "team_1": "Sevilla FC",
+      "team_2": "Villarreal CF",
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla fc vs Villarreal cf",
+      "match_name": "Sevilla FC vs Villarreal CF",
       "startTime": "01:00:00 AM 24-09-2025"
     },
     {
@@ -220,18 +222,6 @@
       "event_name": "One Day Cup, 2025-26",
       "match_name": "South Australia vs Western Australia",
       "startTime": "06:00:00 AM 24-09-2025"
-    },
-    {
-      "id": 132099,
-      "event_category": "Football",
-      "title": "Kashima Antlers vs Cerezo Osaka (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132099_CASACARDS_APP.png",
-      "team_1": "Kashima Antlers",
-      "team_2": "Cerezo Osaka",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kashima Antlers vs Cerezo Osaka",
-      "startTime": "02:30:00 PM 23-09-2025"
     },
     {
       "id": 132102,
@@ -294,6 +284,18 @@
       "startTime": "03:00:00 PM 24-09-2025"
     },
     {
+      "id": 136746,
+      "event_category": "Cricket",
+      "title": "India vs Bangladesh (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/12-INDvsBAN_Old_match-card_v2-(1).jpg",
+      "team_1": "India",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "India vs Bangladesh",
+      "startTime": "08:00:00 PM 24-09-2025"
+    },
+    {
       "id": 137128,
       "event_category": "Baseball",
       "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
@@ -316,18 +318,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Oakland Athletics vs Houston Astros",
       "startTime": "07:35:00 AM 24-09-2025"
-    },
-    {
-      "id": 136746,
-      "event_category": "Cricket",
-      "title": "India vs Bangladesh (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/12-INDvsBAN_Old_match-card_v2-(1).jpg",
-      "team_1": "India",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "India vs Bangladesh",
-      "startTime": "08:00:00 PM 24-09-2025"
     },
     {
       "id": 137074,
@@ -368,25 +358,25 @@
     {
       "id": 130886,
       "event_category": "Football",
-      "title": "Getafe CF vs Deportivo alaves (LALIGA 2025-26)",
+      "title": "Getafe CF vs Deportivo Alaves (LALIGA 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130886_5427_GEF_ALA_fc-Web.jpg",
       "team_1": "Getafe CF",
-      "team_2": "Deportivo alaves",
+      "team_2": "Deportivo Alaves",
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs Deportivo alaves",
+      "match_name": "Getafe CF vs Deportivo Alaves",
       "startTime": "10:30:00 PM 24-09-2025"
     },
     {
       "id": 136844,
       "event_category": "Football",
-      "title": "Tottenham Hotspur vs Doncaster Rovers (Carabao Cup 2025-2026)",
+      "title": "Tottenham Hotspur vs Doncaster Rovers F.C. (Carabao Cup 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136844_5488_TOT_DRO_fc-Web.jpg",
       "team_1": "Tottenham Hotspur",
-      "team_2": "Doncaster Rovers",
+      "team_2": "Doncaster Rovers F.C.",
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Tottenham Hotspur vs Doncaster Rovers",
+      "match_name": "Tottenham Hotspur vs Doncaster Rovers F.C.",
       "startTime": "12:15:00 AM 25-09-2025"
     },
     {
@@ -404,25 +394,25 @@
     {
       "id": 136842,
       "event_category": "Football",
-      "title": "Huddersfield Town vs Manchester City (Carabao Cup 2025-2026)",
+      "title": "Huddersfield Town A.F.C. vs Manchester City (Carabao Cup 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136842_5488_HUD_MCI_fc-Web.jpg",
-      "team_1": "Huddersfield Town",
+      "team_1": "Huddersfield Town A.F.C.",
       "team_2": "Manchester City",
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Huddersfield Town vs Manchester City",
+      "match_name": "Huddersfield Town A.F.C. vs Manchester City",
       "startTime": "12:15:00 AM 25-09-2025"
     },
     {
       "id": 136845,
       "event_category": "Football",
-      "title": "Port Vale vs Arsenal (Carabao Cup 2025-2026)",
+      "title": "Port Vale F.C. vs Arsenal (Carabao Cup 2025-2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136845_5488_PV_ARS_fc-Web.jpg",
-      "team_1": "Port Vale",
+      "team_1": "Port Vale F.C.",
       "team_2": "Arsenal",
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Port Vale vs Arsenal",
+      "match_name": "Port Vale F.C. vs Arsenal",
       "startTime": "12:30:00 AM 25-09-2025"
     },
     {
@@ -460,6 +450,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Atlanta Braves vs Washington Nationals",
       "startTime": "09:45:00 PM 24-09-2025"
+    },
+    {
+      "id": 137131,
+      "event_category": "Baseball",
+      "title": "Texas Rangers vs Minnesota Twins (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137131_CASACARDS_APP.png",
+      "team_1": "Texas Rangers",
+      "team_2": "Minnesota Twins",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Texas Rangers vs Minnesota Twins",
+      "startTime": "05:35:00 AM 25-09-2025"
     }
   ]
 }
