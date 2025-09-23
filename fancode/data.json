@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:13 AM 23-09-2025",
+  "last update time": "08:17 AM 23-09-2025",
   "matches": [
+    {
+      "id": 137127,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Milwaukee Brewers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137127_CASACARDS_APP.png",
+      "team_1": "San Diego Padres",
+      "team_2": "Milwaukee Brewers",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Milwaukee Brewers",
+      "startTime": "07:10:00 AM 23-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137127_english_hls_5ce9ad6f2854419ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137127_english_hls_5ce9ad6f2854419ta-di_h264/index.m3u8"
+    },
     {
       "id": 136745,
       "event_category": "Cricket",
@@ -242,18 +256,6 @@
       "event_name": "J League 2025",
       "match_name": "Gamba Osaka vs Yokohama F. Marinos",
       "startTime": "03:30:00 PM 23-09-2025"
-    },
-    {
-      "id": 137127,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Milwaukee Brewers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137127_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "Milwaukee Brewers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Milwaukee Brewers",
-      "startTime": "07:10:00 AM 23-09-2025"
     },
     {
       "id": 133933,
