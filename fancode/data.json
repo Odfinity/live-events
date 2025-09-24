@@ -1,8 +1,20 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 AM 24-09-2025",
+  "last update time": "12:07 PM 24-09-2025",
   "matches": [
+    {
+      "id": 136746,
+      "event_category": "Cricket",
+      "title": "India vs Bangladesh (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/12-INDvsBAN_Old_match-card_v2-(1).jpg",
+      "team_1": "India",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "India vs Bangladesh",
+      "startTime": "08:00:00 PM 24-09-2025"
+    },
     {
       "id": 133933,
       "event_category": "Cricket",
@@ -30,18 +42,6 @@
       "startTime": "11:30:00 AM 24-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/xiyga1FdSgmdPvT03EuHjg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133950_english_hls_a41d33e57686040ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136746,
-      "event_category": "Cricket",
-      "title": "India vs Bangladesh (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/12-INDvsBAN_Old_match-card_v2-(1).jpg",
-      "team_1": "India",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "India vs Bangladesh",
-      "startTime": "08:00:00 PM 24-09-2025"
     },
     {
       "id": 137073,
@@ -200,18 +200,6 @@
       "startTime": "03:25:00 PM 24-09-2025"
     },
     {
-      "id": 137130,
-      "event_category": "Baseball",
-      "title": "Atlanta Braves vs Washington Nationals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137130_CASACARDS_APP.png",
-      "team_1": "Atlanta Braves",
-      "team_2": "Washington Nationals",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Atlanta Braves vs Washington Nationals",
-      "startTime": "09:45:00 PM 24-09-2025"
-    },
-    {
       "id": 137022,
       "event_category": "Cricket",
       "title": "Pithoragarh Hurricanes Women vs Haridwar Storm Women (Women's Uttarakhand Premier League, 2025)",
@@ -222,6 +210,18 @@
       "event_name": "Women's Uttarakhand Premier League, 2025",
       "match_name": "Pithoragarh Hurricanes Women vs Haridwar Storm Women",
       "startTime": "03:00:00 PM 25-09-2025"
+    },
+    {
+      "id": 137130,
+      "event_category": "Baseball",
+      "title": "Atlanta Braves vs Washington Nationals (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137130_CASACARDS_APP.png",
+      "team_1": "Atlanta Braves",
+      "team_2": "Washington Nationals",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Atlanta Braves vs Washington Nationals",
+      "startTime": "09:45:00 PM 24-09-2025"
     },
     {
       "id": 137131,
@@ -370,13 +370,13 @@
     {
       "id": 136871,
       "event_category": "Golf",
-      "title": "The Ryder Cup vs Bethpage Black Course, USA (The Ryder Cup)",
+      "title": "Opening Ceremony vs Bethpage Black Course, USA (The Ryder Cup)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
-      "team_1": "The Ryder Cup",
+      "team_1": "Opening Ceremony",
       "team_2": "Bethpage Black Course, USA",
       "status": "UPCOMING",
       "event_name": "The Ryder Cup",
-      "match_name": "The Ryder Cup",
+      "match_name": "Opening Ceremony",
       "startTime": "01:30:00 AM 26-09-2025"
     },
     {
