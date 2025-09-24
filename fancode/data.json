@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 AM 24-09-2025",
+  "last update time": "07:14 AM 24-09-2025",
   "matches": [
     {
       "id": 136746,
@@ -16,30 +16,18 @@
       "startTime": "08:00:00 PM 24-09-2025"
     },
     {
-      "id": 137128,
-      "event_category": "Baseball",
-      "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "team_1": "Cleveland Guardians",
-      "team_2": "Detroit Tigers",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cleveland Guardians vs Detroit Tigers",
-      "startTime": "04:10:00 AM 24-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137128_english_hls_63954288de68248ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137128_english_hls_63954288de68248ta-di_h264/index.m3u8"
-    },
-    {
       "id": 133933,
       "event_category": "Cricket",
-      "title": "South Australia vs Western Australia (One Day Cup, 2025-26)",
+      "title": "Western Australia vs South Australia (One Day Cup, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/133933_5606_SAU_WAU_fc-web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Western Australia",
-      "status": "UPCOMING",
+      "team_1": "Western Australia",
+      "team_2": "South Australia",
+      "status": "LIVE",
       "event_name": "One Day Cup, 2025-26",
-      "match_name": "South Australia vs Western Australia",
-      "startTime": "06:00:00 AM 24-09-2025"
+      "match_name": "Western Australia vs South Australia",
+      "startTime": "06:00:00 AM 24-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/GDkMNJlsTrCQpwWiG19luw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133933_english_hls_d23156911a78097ta-di_h264/index.m3u8"
     },
     {
       "id": 133950,
@@ -234,18 +222,6 @@
       "startTime": "05:35:00 AM 25-09-2025"
     },
     {
-      "id": 137132,
-      "event_category": "Baseball",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "team_1": "Arizona Diamondbacks",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Arizona Diamondbacks vs Los Angeles Dodgers",
-      "startTime": "07:10:00 AM 25-09-2025"
-    },
-    {
       "id": 137075,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Odisha Pro T20 League, 2025)",
@@ -256,6 +232,18 @@
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "02:00:00 PM 25-09-2025"
+    },
+    {
+      "id": 137132,
+      "event_category": "Baseball",
+      "title": "Arizona Diamondbacks vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "Arizona Diamondbacks",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "startTime": "07:10:00 AM 25-09-2025"
     },
     {
       "id": 137022,
@@ -435,6 +423,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
       "match_name": "Nigeria vs Malawi",
+      "startTime": "01:00:00 PM 26-09-2025"
+    },
+    {
+      "id": 136797,
+      "event_category": "Cricket",
+      "title": "Namibia vs Kenya (ICC Men's T20 WC Africa Regional Final, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Namibia",
+      "team_2": "Kenya",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
+      "match_name": "Namibia vs Kenya",
       "startTime": "01:00:00 PM 26-09-2025"
     }
   ]
