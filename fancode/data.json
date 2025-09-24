@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:26 AM 25-09-2025",
+  "last update time": "12:50 AM 25-09-2025",
   "matches": [
     {
       "id": 136842,
@@ -32,18 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136844_english_hls_cfec4abbd496183ta-di_h264/index.m3u8"
     },
     {
-      "id": 130886,
+      "id": 136845,
       "event_category": "Football",
-      "title": "Getafe CF vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130886_5427_GEF_ALA_fc-Web.jpg",
-      "team_1": "Getafe CF",
-      "team_2": "Deportivo Alaves",
+      "title": "Port Vale F.C. vs Arsenal (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136845_5488_PV_ARS_fc-Web.jpg",
+      "team_1": "Port Vale F.C.",
+      "team_2": "Arsenal",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs Deportivo Alaves",
-      "startTime": "10:30:00 PM 24-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130886_english_hls_cbb66ac5b619726adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130886_english_hls_cbb66ac5b619726adfreeta-di_h264/index.m3u8"
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Port Vale F.C. vs Arsenal",
+      "startTime": "12:30:00 AM 25-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/IsBWO1COQ-2VqTRI9ZdlOg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136845_english_hls_6f8214390738209ta-di_h264/index.m3u8"
     },
     {
       "id": 136843,
@@ -60,18 +60,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136843_english_hls_e4b2c1515a4111ta-di_h264/index.m3u8"
     },
     {
-      "id": 136845,
+      "id": 130882,
       "event_category": "Football",
-      "title": "Port Vale F.C. vs Arsenal (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136845_5488_PV_ARS_fc-Web.jpg",
-      "team_1": "Port Vale F.C.",
-      "team_2": "Arsenal",
+      "title": "Atletico de Madrid vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130882_5427_ATL_RVL_fc-Web.jpg",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Rayo Vallecano",
       "status": "LIVE",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Port Vale F.C. vs Arsenal",
-      "startTime": "12:30:00 AM 25-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/IsBWO1COQ-2VqTRI9ZdlOg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136845_english_hls_6f8214390738209ta-di_h264/index.m3u8"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs Rayo Vallecano",
+      "startTime": "01:00:00 AM 25-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130882_english_hls_52f3e8312b43579adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130882_english_hls_52f3e8312b43579adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130880,
+      "event_category": "Football",
+      "title": "Real Sociedad vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130880_5427_RS_MRC_fc-Web.jpg",
+      "team_1": "Real Sociedad",
+      "team_2": "RCD Mallorca",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs RCD Mallorca",
+      "startTime": "01:00:00 AM 25-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130880_english_hls_7f47a783a657866adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130880_english_hls_7f47a783a657866adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137130,
@@ -88,42 +102,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137130_english_hls_5bd2d1e05563914ta-di_h264/index.m3u8"
     },
     {
-      "id": 136746,
-      "event_category": "Cricket",
-      "title": "India vs Bangladesh (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/12-INDvsBAN_Old_match-card_v2-(1).jpg",
-      "team_1": "India",
-      "team_2": "Bangladesh",
+      "id": 130886,
+      "event_category": "Football",
+      "title": "Getafe CF vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130886_5427_GEF_ALA_fc-Web.jpg",
+      "team_1": "Getafe CF",
+      "team_2": "Deportivo Alaves",
       "status": "LIVE",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "India vs Bangladesh",
-      "startTime": "08:00:00 PM 24-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/IysI-xdwQF-skaLF6AYspg/master.m3u8",
-      "adfree_url": null
-    },
-    {
-      "id": 130882,
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130882_5427_ATL_RVL_fc-Web.jpg",
-      "team_1": "Atletico de Madrid",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs Rayo Vallecano",
-      "startTime": "01:00:00 AM 25-09-2025"
-    },
-    {
-      "id": 130880,
-      "event_category": "Football",
-      "title": "Real Sociedad vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130880_5427_RS_MRC_fc-Web.jpg",
-      "team_1": "Real Sociedad",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Sociedad vs RCD Mallorca",
-      "startTime": "01:00:00 AM 25-09-2025"
+      "match_name": "Getafe CF vs Deportivo Alaves",
+      "startTime": "10:30:00 PM 24-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130886_english_hls_cbb66ac5b619726adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130886_english_hls_cbb66ac5b619726adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 136747,
@@ -186,6 +176,18 @@
       "startTime": "07:30:00 PM 25-09-2025"
     },
     {
+      "id": 136871,
+      "event_category": "Golf",
+      "title": "Opening Ceremony vs Bethpage Black Course, USA (The Ryder Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
+      "team_1": "Opening Ceremony",
+      "team_2": "Bethpage Black Course, USA",
+      "status": "UPCOMING",
+      "event_name": "The Ryder Cup",
+      "match_name": "Opening Ceremony",
+      "startTime": "01:30:00 AM 25-09-2025"
+    },
+    {
       "id": 130889,
       "event_category": "Football",
       "title": "CA Osasuna vs Elche CF (LALIGA 2025-26)",
@@ -220,18 +222,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs FC Barcelona",
       "startTime": "01:00:00 AM 26-09-2025"
-    },
-    {
-      "id": 136871,
-      "event_category": "Golf",
-      "title": "Opening Ceremony vs Bethpage Black Course, USA (The Ryder Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
-      "team_1": "Opening Ceremony",
-      "team_2": "Bethpage Black Course, USA",
-      "status": "UPCOMING",
-      "event_name": "The Ryder Cup",
-      "match_name": "Opening Ceremony",
-      "startTime": "01:30:00 AM 25-09-2025"
     },
     {
       "id": 137131,
@@ -435,7 +425,7 @@
       "status": "UPCOMING",
       "event_name": "The Ryder Cup",
       "match_name": "Day 1",
-      "startTime": "03:30:00 PM 26-09-2025"
+      "startTime": "04:30:00 PM 26-09-2025"
     },
     {
       "id": 136603,
