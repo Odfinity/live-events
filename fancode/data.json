@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:44 PM 24-09-2025",
+  "last update time": "12:11 AM 25-09-2025",
   "matches": [
     {
-      "id": 136746,
-      "event_category": "Cricket",
-      "title": "India vs Bangladesh (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/12-INDvsBAN_Old_match-card_v2-(1).jpg",
-      "team_1": "India",
-      "team_2": "Bangladesh",
+      "id": 136842,
+      "event_category": "Football",
+      "title": "Huddersfield Town A.F.C. vs Manchester City (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136842_5488_HUD_MCI_fc-Web.jpg",
+      "team_1": "Huddersfield Town A.F.C.",
+      "team_2": "Manchester City",
       "status": "LIVE",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "India vs Bangladesh",
-      "startTime": "08:00:00 PM 24-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/IysI-xdwQF-skaLF6AYspg/master.m3u8",
-      "adfree_url": null
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Huddersfield Town A.F.C. vs Manchester City",
+      "startTime": "12:15:00 AM 25-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/CQOaQ8lyTm6cdGjfTBW5pQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136842_english_hls_361a7d47f211892ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136844,
+      "event_category": "Football",
+      "title": "Tottenham Hotspur vs Doncaster Rovers F.C. (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136844_5488_TOT_DRO_fc-Web.jpg",
+      "team_1": "Tottenham Hotspur",
+      "team_2": "Doncaster Rovers F.C.",
+      "status": "LIVE",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Tottenham Hotspur vs Doncaster Rovers F.C.",
+      "startTime": "12:15:00 AM 25-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/R5zGXyFNTwy2FZvz_twPFA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136844_english_hls_cfec4abbd496183ta-di_h264/index.m3u8"
     },
     {
       "id": 130886,
@@ -32,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130886_english_hls_cbb66ac5b619726adfreeta-di_h264/index.m3u8"
     },
     {
+      "id": 136843,
+      "event_category": "Football",
+      "title": "Newcastle United vs Bradford City (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136843_5488_NEW_BC_fc-Web.jpg",
+      "team_1": "Newcastle United",
+      "team_2": "Bradford City",
+      "status": "LIVE",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Newcastle United vs Bradford City",
+      "startTime": "12:15:00 AM 25-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HyD8TVscRgKcpGxRN2QKEA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136843_english_hls_e4b2c1515a4111ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137130,
       "event_category": "Baseball",
       "title": "Atlanta Braves vs Washington Nationals (Major League Baseball, 2025)",
@@ -46,40 +74,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137130_english_hls_5bd2d1e05563914ta-di_h264/index.m3u8"
     },
     {
-      "id": 136844,
-      "event_category": "Football",
-      "title": "Tottenham Hotspur vs Doncaster Rovers F.C. (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136844_5488_TOT_DRO_fc-Web.jpg",
-      "team_1": "Tottenham Hotspur",
-      "team_2": "Doncaster Rovers F.C.",
-      "status": "UPCOMING",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Tottenham Hotspur vs Doncaster Rovers F.C.",
-      "startTime": "12:15:00 AM 25-09-2025"
-    },
-    {
-      "id": 136843,
-      "event_category": "Football",
-      "title": "Newcastle United vs Bradford City (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136843_5488_NEW_BC_fc-Web.jpg",
-      "team_1": "Newcastle United",
-      "team_2": "Bradford City",
-      "status": "UPCOMING",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Newcastle United vs Bradford City",
-      "startTime": "12:15:00 AM 25-09-2025"
-    },
-    {
-      "id": 136842,
-      "event_category": "Football",
-      "title": "Huddersfield Town A.F.C. vs Manchester City (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136842_5488_HUD_MCI_fc-Web.jpg",
-      "team_1": "Huddersfield Town A.F.C.",
-      "team_2": "Manchester City",
-      "status": "UPCOMING",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Huddersfield Town A.F.C. vs Manchester City",
-      "startTime": "12:15:00 AM 25-09-2025"
+      "id": 136746,
+      "event_category": "Cricket",
+      "title": "India vs Bangladesh (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/12-INDvsBAN_Old_match-card_v2-(1).jpg",
+      "team_1": "India",
+      "team_2": "Bangladesh",
+      "status": "LIVE",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "India vs Bangladesh",
+      "startTime": "08:00:00 PM 24-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/IysI-xdwQF-skaLF6AYspg/master.m3u8",
+      "adfree_url": null
     },
     {
       "id": 136845,
@@ -92,18 +98,6 @@
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Port Vale F.C. vs Arsenal",
       "startTime": "12:30:00 AM 25-09-2025"
-    },
-    {
-      "id": 136747,
-      "event_category": "Cricket",
-      "title": "Pakistan vs Bangladesh (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
-      "team_1": "Pakistan",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "Pakistan vs Bangladesh",
-      "startTime": "08:00:00 PM 25-09-2025"
     },
     {
       "id": 130882,
@@ -128,6 +122,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Sociedad vs RCD Mallorca",
       "startTime": "01:00:00 AM 25-09-2025"
+    },
+    {
+      "id": 136747,
+      "event_category": "Cricket",
+      "title": "Pakistan vs Bangladesh (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
+      "team_1": "Pakistan",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Pakistan vs Bangladesh",
+      "startTime": "08:00:00 PM 25-09-2025"
     },
     {
       "id": 137075,
@@ -262,18 +268,6 @@
       "startTime": "05:30:00 AM 26-09-2025"
     },
     {
-      "id": 137133,
-      "event_category": "Baseball",
-      "title": "Cincinnati Reds vs Pittsburgh Pirates (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
-      "team_1": "Cincinnati Reds",
-      "team_2": "Pittsburgh Pirates",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cincinnati Reds vs Pittsburgh Pirates",
-      "startTime": "10:10:00 PM 25-09-2025"
-    },
-    {
       "id": 133952,
       "event_category": "Cricket",
       "title": "South Australian Scorpions vs Tasmania Women (Women's National Cricket League, 2025-26)",
@@ -284,6 +278,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "South Australian Scorpions vs Tasmania Women",
       "startTime": "06:00:00 AM 26-09-2025"
+    },
+    {
+      "id": 137133,
+      "event_category": "Baseball",
+      "title": "Cincinnati Reds vs Pittsburgh Pirates (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
+      "team_1": "Cincinnati Reds",
+      "team_2": "Pittsburgh Pirates",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cincinnati Reds vs Pittsburgh Pirates",
+      "startTime": "10:10:00 PM 25-09-2025"
     },
     {
       "id": 137134,
@@ -451,6 +457,18 @@
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
       "match_name": "Girona FC vs RCD Espanyol",
+      "startTime": "12:30:00 AM 27-09-2025"
+    },
+    {
+      "id": 132011,
+      "event_category": "Football",
+      "title": "West Bromwich Albion F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132011_5489_WBA_LEI_fc-web.jpg",
+      "team_1": "West Bromwich Albion F.C.",
+      "team_2": "Leicester City F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "West Bromwich Albion F.C. vs Leicester City F.C.",
       "startTime": "12:30:00 AM 27-09-2025"
     }
   ]
