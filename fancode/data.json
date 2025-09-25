@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:51 PM 25-09-2025",
+  "last update time": "07:15 PM 25-09-2025",
   "matches": [
     {
       "id": 136747,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
       "team_1": "Pakistan",
       "team_2": "Bangladesh",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Asia Cup, 2025",
       "match_name": "Pakistan vs Bangladesh",
-      "startTime": "08:00:00 PM 25-09-2025"
+      "startTime": "08:00:00 PM 25-09-2025",
+      "dai_url": "https://in-mcacc-fdlive.fancode.com/mumbai-acc/136747_english_hls_630f7ced5b32225ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mcacc-fdlive.fancode.com/mumbai-acc/136747_english_hls_630f7ced5b32225ta-di_h264/index.m3u8"
     },
     {
       "id": 137075,
@@ -36,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
       "team_1": "Cuttack Panthers",
       "team_2": "Puri Titans",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Odisha Pro T20 League, 2025",
       "match_name": "Cuttack Panthers vs Puri Titans",
-      "startTime": "07:00:00 PM 25-09-2025"
+      "startTime": "07:00:00 PM 25-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/edADR3NWRaCIsGAbZNJWjg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137076_english_hls_4d1cd1805c27418ta-di_h264/index.m3u8"
     },
     {
       "id": 137023,
@@ -48,10 +52,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
       "team_1": "Mussoorie Thunders Women",
       "team_2": "Tehri Queens Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Women's Uttarakhand Premier League, 2025",
       "match_name": "Mussoorie Thunders Women vs Tehri Queens Women",
-      "startTime": "07:30:00 PM 25-09-2025"
+      "startTime": "07:30:00 PM 25-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/-DeQIUTkSry3XMCM0cqyUA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137023_english_hls_8205477fd5555ta-di_h264/index.m3u8"
     },
     {
       "id": 130889,
@@ -150,18 +156,6 @@
       "startTime": "01:00:00 PM 26-09-2025"
     },
     {
-      "id": 137024,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Women's Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Women's Uttarakhand Premier League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "03:00:00 PM 26-09-2025"
-    },
-    {
       "id": 136748,
       "event_category": "Cricket",
       "title": "India vs Sri Lanka (Asia Cup, 2025)",
@@ -172,6 +166,18 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs Sri Lanka",
       "startTime": "08:00:00 PM 26-09-2025"
+    },
+    {
+      "id": 137024,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Women's Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Women's Uttarakhand Premier League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "03:00:00 PM 26-09-2025"
     },
     {
       "id": 136800,
@@ -237,7 +243,7 @@
       "id": 119212,
       "event_category": "MotoGP",
       "title": "Day 1 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Generic-old-match-card_1741169482701.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
       "team_1": "Day 1",
       "team_2": "Mobility Resort Motegi",
       "status": "UPCOMING",
@@ -294,18 +300,6 @@
       "startTime": "11:30:00 PM 26-09-2025"
     },
     {
-      "id": 136872,
-      "event_category": "Golf",
-      "title": "Day 1 vs Bethpage Black Course, USA (The Ryder Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Bethpage Black Course, USA",
-      "status": "UPCOMING",
-      "event_name": "The Ryder Cup",
-      "match_name": "Day 1",
-      "startTime": "04:30:00 PM 26-09-2025"
-    },
-    {
       "id": 130899,
       "event_category": "Football",
       "title": "Girona FC vs RCD Espanyol (LALIGA 2025-26)",
@@ -328,6 +322,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "West Bromwich Albion F.C. vs Leicester City F.C.",
       "startTime": "12:30:00 AM 27-09-2025"
+    },
+    {
+      "id": 136872,
+      "event_category": "Golf",
+      "title": "Day 1 vs Bethpage Black Course, USA (The Ryder Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Bethpage Black Course, USA",
+      "status": "UPCOMING",
+      "event_name": "The Ryder Cup",
+      "match_name": "Day 1",
+      "startTime": "04:30:00 PM 26-09-2025"
     },
     {
       "id": 137108,
@@ -357,7 +363,7 @@
       "id": 119215,
       "event_category": "MotoGP",
       "title": "Day 2 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Generic-old-match-card_1741169482701.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
       "team_1": "Day 2",
       "team_2": "Mobility Resort Motegi",
       "status": "UPCOMING",
