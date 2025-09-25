@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:23 AM 26-09-2025",
+  "last update time": "12:47 AM 26-09-2025",
   "matches": [
-    {
-      "id": 136747,
-      "event_category": "Cricket",
-      "title": "Pakistan vs Bangladesh (Asia Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
-      "team_1": "Pakistan",
-      "team_2": "Bangladesh",
-      "status": "LIVE",
-      "event_name": "Asia Cup, 2025",
-      "match_name": "Pakistan vs Bangladesh",
-      "startTime": "08:00:00 PM 25-09-2025",
-      "dai_url": "https://in-mcacc-fdlive.fancode.com/mumbai-acc/136747_english_hls_630f7ced5b32225ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mcacc-fdlive.fancode.com/mumbai-acc/136747_english_hls_630f7ced5b32225ta-di_h264/index.m3u8"
-    },
     {
       "id": 130887,
       "event_category": "Football",
@@ -24,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130887_5427_RO_BAR_fc-Web.jpg",
       "team_1": "Real Oviedo",
       "team_2": "FC Barcelona",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs FC Barcelona",
-      "startTime": "01:00:00 AM 26-09-2025"
+      "startTime": "01:00:00 AM 26-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130887_english_hls_8497c2051f21683adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130887_english_hls_8497c2051f21683adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137076,
@@ -84,6 +72,20 @@
       "startTime": "10:10:00 PM 25-09-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137133_english_hls_7876e3f13b69634ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137133_english_hls_7876e3f13b69634ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136747,
+      "event_category": "Cricket",
+      "title": "Pakistan vs Bangladesh (Asia Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
+      "team_1": "Pakistan",
+      "team_2": "Bangladesh",
+      "status": "LIVE",
+      "event_name": "Asia Cup, 2025",
+      "match_name": "Pakistan vs Bangladesh",
+      "startTime": "08:00:00 PM 25-09-2025",
+      "dai_url": "https://in-mcacc-fdlive.fancode.com/mumbai-acc/136747_english_hls_630f7ced5b32225ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mcacc-fdlive.fancode.com/mumbai-acc/136747_english_hls_630f7ced5b32225ta-di_h264/index.m3u8"
     },
     {
       "id": 136748,
@@ -160,13 +162,13 @@
     {
       "id": 137024,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Women's Uttarakhand Premier League, 2025)",
+      "title": "Tehri Queens Women vs Haridwar Storm Women (Women's Uttarakhand Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Tehri Queens Women",
+      "team_2": "Haridwar Storm Women",
       "status": "UPCOMING",
       "event_name": "Women's Uttarakhand Premier League, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Tehri Queens Women vs Haridwar Storm Women",
       "startTime": "03:00:00 PM 26-09-2025"
     },
     {
