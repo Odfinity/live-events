@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:04 AM 27-09-2025",
+  "last update time": "12:20 AM 27-09-2025",
   "matches": [
     {
       "id": 136603,
@@ -60,6 +60,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137077_english_hls_b223474da175223ta-di_h264/index.m3u8"
     },
     {
+      "id": 130899,
+      "event_category": "Football",
+      "title": "Girona FC vs RCD Espanyol (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130899_5427_GIR_ESL_fc-Web.jpg",
+      "team_1": "Girona FC",
+      "team_2": "RCD Espanyol",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona FC vs RCD Espanyol",
+      "startTime": "12:30:00 AM 27-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 132011,
+      "event_category": "Football",
+      "title": "West Bromwich Albion F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/132011_5489_WBA_LEI_fc-web.jpg",
+      "team_1": "West Bromwich Albion F.C.",
+      "team_2": "Leicester City F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "West Bromwich Albion F.C. vs Leicester City F.C.",
+      "startTime": "12:30:00 AM 27-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/t33KliboQJSQQPMHwbVkUA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132011_english_hls_30f17f0a5870888ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137108,
       "event_category": "Football",
       "title": "Mirandés vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
@@ -86,32 +114,6 @@
       "startTime": "11:50:00 PM 26-09-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137136_english_hls_03afa7f05a66845ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137136_english_hls_03afa7f05a66845ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130899,
-      "event_category": "Football",
-      "title": "Girona FC vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130899_5427_GIR_ESL_fc-Web.jpg",
-      "team_1": "Girona FC",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona FC vs RCD Espanyol",
-      "startTime": "12:30:00 AM 27-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132011,
-      "event_category": "Football",
-      "title": "West Bromwich Albion F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132011_5489_WBA_LEI_fc-web.jpg",
-      "team_1": "West Bromwich Albion F.C.",
-      "team_2": "Leicester City F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "West Bromwich Albion F.C. vs Leicester City F.C.",
-      "startTime": "12:30:00 AM 27-09-2025"
     },
     {
       "id": 137154,
@@ -258,6 +260,18 @@
       "startTime": "12:30:00 AM 28-09-2025"
     },
     {
+      "id": 137107,
+      "event_category": "Football",
+      "title": "Las Palmas vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137107_5572_LAP_ALM_fc-Web_1758878145433.jpg",
+      "team_1": "Las Palmas",
+      "team_2": "Almería",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Almería",
+      "startTime": "12:30:00 AM 28-09-2025"
+    },
+    {
       "id": 119215,
       "event_category": "MotoGP",
       "title": "Day 2 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
@@ -292,18 +306,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "San Francisco Giants vs Colorado Rockies",
       "startTime": "07:45:00 AM 27-09-2025"
-    },
-    {
-      "id": 137107,
-      "event_category": "Football",
-      "title": "Las Palmas vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137107_5572_LAP_ALM_fc-Web_1758878145433.jpg",
-      "team_1": "Las Palmas",
-      "team_2": "Almería",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Las Palmas vs Almería",
-      "startTime": "12:30:00 AM 28-09-2025"
     },
     {
       "id": 137269,
@@ -459,6 +461,18 @@
       "status": "UPCOMING",
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Haridwar Spring Elmas vs Dehradun Warriors",
+      "startTime": "03:00:00 PM 28-09-2025"
+    },
+    {
+      "id": 132106,
+      "event_category": "Football",
+      "title": "Cerezo Osaka vs Kyoto Sanga (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132106_CASACARDS_APP.png",
+      "team_1": "Cerezo Osaka",
+      "team_2": "Kyoto Sanga",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Cerezo Osaka vs Kyoto Sanga",
       "startTime": "03:00:00 PM 28-09-2025"
     }
   ]
