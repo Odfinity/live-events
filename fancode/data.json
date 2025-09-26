@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:27 AM 27-09-2025",
+  "last update time": "02:50 AM 27-09-2025",
   "matches": [
     {
       "id": 136872,
@@ -16,48 +16,6 @@
       "startTime": "04:30:00 PM 26-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/45qwpwbjRsa7wVmLX1qePQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136872_english_hls_13308a908d66732ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130899,
-      "event_category": "Football",
-      "title": "Girona FC vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130899_5427_GIR_ESL_fc-Web.jpg",
-      "team_1": "Girona FC",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona FC vs RCD Espanyol",
-      "startTime": "12:30:00 AM 27-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 132011,
-      "event_category": "Football",
-      "title": "West Bromwich Albion F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/132011_5489_WBA_LEI_fc-web.jpg",
-      "team_1": "West Bromwich Albion F.C.",
-      "team_2": "Leicester City F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "West Bromwich Albion F.C. vs Leicester City F.C.",
-      "startTime": "12:30:00 AM 27-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/t33KliboQJSQQPMHwbVkUA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132011_english_hls_30f17f0a5870888ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137136,
-      "event_category": "Baseball",
-      "title": "Chicago Cubs vs St. Louis Cardinals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137136_CASACARDS_APP.png",
-      "team_1": "Chicago Cubs",
-      "team_2": "St. Louis Cardinals",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Chicago Cubs vs St. Louis Cardinals",
-      "startTime": "11:50:00 PM 26-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137136_english_hls_03afa7f05a66845ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137136_english_hls_03afa7f05a66845ta-di_h264/index.m3u8"
     },
     {
       "id": 137154,
@@ -156,18 +114,6 @@
       "startTime": "07:45:00 PM 27-09-2025"
     },
     {
-      "id": 132103,
-      "event_category": "Football",
-      "title": "Machida Zelvia vs Fagiano Okayama (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/132103_CASACARDS_APP.png",
-      "team_1": "Machida Zelvia",
-      "team_2": "Fagiano Okayama",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Machida Zelvia vs Fagiano Okayama",
-      "startTime": "12:30:00 PM 27-09-2025"
-    },
-    {
       "id": 130896,
       "event_category": "Football",
       "title": "RCD Mallorca vs Deportivo Alaves (LALIGA 2025-26)",
@@ -178,6 +124,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Mallorca vs Deportivo Alaves",
       "startTime": "10:00:00 PM 27-09-2025"
+    },
+    {
+      "id": 132103,
+      "event_category": "Football",
+      "title": "Machida Zelvia vs Fagiano Okayama (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/132103_CASACARDS_APP.png",
+      "team_1": "Machida Zelvia",
+      "team_2": "Fagiano Okayama",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Machida Zelvia vs Fagiano Okayama",
+      "startTime": "12:30:00 PM 27-09-2025"
     },
     {
       "id": 136604,
@@ -216,6 +174,18 @@
       "startTime": "12:30:00 AM 28-09-2025"
     },
     {
+      "id": 133954,
+      "event_category": "Cricket",
+      "title": "Victoria Women vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+      "team_1": "Victoria Women",
+      "team_2": "New South Wales Breakers",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Victoria Women vs New South Wales Breakers",
+      "startTime": "05:30:00 AM 28-09-2025"
+    },
+    {
       "id": 119215,
       "event_category": "MotoGP",
       "title": "Day 2 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
@@ -240,6 +210,30 @@
       "startTime": "07:10:00 AM 27-09-2025"
     },
     {
+      "id": 137327,
+      "event_category": "Pickleball",
+      "title": "Rise Up Championship vs Day 2, Court 2 (Rise Up Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old1.jpg",
+      "team_1": "Rise Up Championship",
+      "team_2": "Day 2, Court 2",
+      "status": "UPCOMING",
+      "event_name": "Rise Up Championship",
+      "match_name": "Rise Up Championship vs Day 2, Court 2",
+      "startTime": "07:25:00 AM 27-09-2025"
+    },
+    {
+      "id": 137326,
+      "event_category": "Pickleball",
+      "title": "Rise Up Championship vs Day 2, Court 1 (Rise Up Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Pickelball_1440-x-360.jpg",
+      "team_1": "Rise Up Championship",
+      "team_2": "Day 2, Court 1",
+      "status": "UPCOMING",
+      "event_name": "Rise Up Championship",
+      "match_name": "Rise Up Championship vs Day 2, Court 1",
+      "startTime": "07:25:00 AM 27-09-2025"
+    },
+    {
       "id": 137138,
       "event_category": "Baseball",
       "title": "San Francisco Giants vs Colorado Rockies (Major League Baseball, 2025)",
@@ -252,16 +246,16 @@
       "startTime": "07:45:00 AM 27-09-2025"
     },
     {
-      "id": 133954,
+      "id": 133955,
       "event_category": "Cricket",
-      "title": "Victoria Women vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-      "team_1": "Victoria Women",
-      "team_2": "New South Wales Breakers",
+      "title": "South Australian Scorpions vs Tasmania Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "South Australian Scorpions",
+      "team_2": "Tasmania Women",
       "status": "UPCOMING",
       "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Victoria Women vs New South Wales Breakers",
-      "startTime": "05:30:00 AM 28-09-2025"
+      "match_name": "South Australian Scorpions vs Tasmania Women",
+      "startTime": "06:00:00 AM 28-09-2025"
     },
     {
       "id": 137269,
@@ -286,18 +280,6 @@
       "event_name": "The Ryder Cup",
       "match_name": "Ryder Cup - Day 2",
       "startTime": "04:30:00 PM 27-09-2025"
-    },
-    {
-      "id": 133955,
-      "event_category": "Cricket",
-      "title": "South Australian Scorpions vs Tasmania Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "South Australian Scorpions",
-      "team_2": "Tasmania Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "South Australian Scorpions vs Tasmania Women",
-      "startTime": "06:00:00 AM 28-09-2025"
     },
     {
       "id": 137139,
@@ -336,18 +318,6 @@
       "startTime": "11:00:00 AM 28-09-2025"
     },
     {
-      "id": 119216,
-      "event_category": "MotoGP",
-      "title": "Race Day vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
-      "team_1": "Race Day",
-      "team_2": "Mobility Resort Motegi",
-      "status": "UPCOMING",
-      "event_name": "MOTUL GRAND PRIX OF JAPAN",
-      "match_name": "Japan GP",
-      "startTime": "07:30:00 AM 28-09-2025"
-    },
-    {
       "id": 136802,
       "event_category": "Cricket",
       "title": "Uganda vs Tanzania (ICC Men's T20 WC Africa Regional Final, 2025)",
@@ -370,6 +340,18 @@
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
       "match_name": "Namibia vs Nigeria",
       "startTime": "01:00:00 PM 28-09-2025"
+    },
+    {
+      "id": 119216,
+      "event_category": "MotoGP",
+      "title": "Race Day vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
+      "team_1": "Race Day",
+      "team_2": "Mobility Resort Motegi",
+      "status": "UPCOMING",
+      "event_name": "MOTUL GRAND PRIX OF JAPAN",
+      "match_name": "Japan GP",
+      "startTime": "07:30:00 AM 28-09-2025"
     },
     {
       "id": 137141,
@@ -441,6 +423,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
       "match_name": "Kenya vs Malawi",
+      "startTime": "05:20:00 PM 28-09-2025"
+    },
+    {
+      "id": 136803,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs Botswana (ICC Men's T20 WC Africa Regional Final, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136803_5668_ZIM_BOT_fc-Web.png",
+      "team_1": "Zimbabwe",
+      "team_2": "Botswana",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
+      "match_name": "Zimbabwe vs Botswana",
       "startTime": "05:20:00 PM 28-09-2025"
     }
   ]
