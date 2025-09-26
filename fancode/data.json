@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:17 PM 26-09-2025",
+  "last update time": "11:28 PM 26-09-2025",
   "matches": [
     {
       "id": 136603,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136603_5655_ITT_ANF_fc-web.jpg",
       "team_1": "Al-Ittihad",
       "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Nassr FC",
-      "startTime": "11:30:00 PM 26-09-2025"
+      "startTime": "11:30:00 PM 26-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/WFUHIDprTZKzgcThNsAhgQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136603_english_hls_b113b7f97f86931ta-di_h264/index.m3u8"
     },
     {
       "id": 136748,
@@ -58,18 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137077_english_hls_b223474da175223ta-di_h264/index.m3u8"
     },
     {
-      "id": 137108,
-      "event_category": "Football",
-      "title": "Mirandés vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137108_5572_MIR_RZ_fc-web_1758880801585.jpg",
-      "team_1": "Mirandés",
-      "team_2": "Real Zaragoza",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Mirandés vs Real Zaragoza",
-      "startTime": "12:00:00 AM 27-09-2025"
-    },
-    {
       "id": 137154,
       "event_category": "Cricket",
       "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
@@ -80,6 +70,18 @@
       "event_name": "Nepal and West Indies tour of UAE, 2025",
       "match_name": "Nepal vs West Indies",
       "startTime": "08:00:00 PM 27-09-2025"
+    },
+    {
+      "id": 137108,
+      "event_category": "Football",
+      "title": "Mirandés vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137108_5572_MIR_RZ_fc-web_1758880801585.jpg",
+      "team_1": "Mirandés",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Mirandés vs Real Zaragoza",
+      "startTime": "12:00:00 AM 27-09-2025"
     },
     {
       "id": 130899,
@@ -190,18 +192,6 @@
       "startTime": "12:30:00 PM 27-09-2025"
     },
     {
-      "id": 137136,
-      "event_category": "Baseball",
-      "title": "Chicago Cubs vs St. Louis Cardinals (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137136_CASACARDS_APP.png",
-      "team_1": "Chicago Cubs",
-      "team_2": "St. Louis Cardinals",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Chicago Cubs vs St. Louis Cardinals",
-      "startTime": "11:50:00 PM 26-09-2025"
-    },
-    {
       "id": 130891,
       "event_category": "Football",
       "title": "Atletico de Madrid vs Real Madrid (LALIGA 2025-26)",
@@ -212,6 +202,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Atletico de Madrid vs Real Madrid",
       "startTime": "07:45:00 PM 27-09-2025"
+    },
+    {
+      "id": 137136,
+      "event_category": "Baseball",
+      "title": "Chicago Cubs vs St. Louis Cardinals (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137136_CASACARDS_APP.png",
+      "team_1": "Chicago Cubs",
+      "team_2": "St. Louis Cardinals",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Chicago Cubs vs St. Louis Cardinals",
+      "startTime": "11:50:00 PM 26-09-2025"
     },
     {
       "id": 130896,
@@ -334,18 +336,6 @@
       "startTime": "05:30:00 AM 28-09-2025"
     },
     {
-      "id": 137139,
-      "event_category": "Baseball",
-      "title": "New York Yankees vs Baltimore Orioles (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137139_CASACARDS_APP.png",
-      "team_1": "New York Yankees",
-      "team_2": "Baltimore Orioles",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "New York Yankees vs Baltimore Orioles",
-      "startTime": "10:35:00 PM 27-09-2025"
-    },
-    {
       "id": 133955,
       "event_category": "Cricket",
       "title": "South Australian Scorpions vs Tasmania Women (Women's National Cricket League, 2025-26)",
@@ -356,6 +346,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "South Australian Scorpions vs Tasmania Women",
       "startTime": "06:00:00 AM 28-09-2025"
+    },
+    {
+      "id": 137139,
+      "event_category": "Baseball",
+      "title": "New York Yankees vs Baltimore Orioles (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137139_CASACARDS_APP.png",
+      "team_1": "New York Yankees",
+      "team_2": "Baltimore Orioles",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "New York Yankees vs Baltimore Orioles",
+      "startTime": "10:35:00 PM 27-09-2025"
     },
     {
       "id": 137140,
