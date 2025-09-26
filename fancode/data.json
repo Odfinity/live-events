@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:15 AM 26-09-2025",
+  "last update time": "08:21 AM 26-09-2025",
   "matches": [
     {
       "id": 136748,
@@ -70,6 +70,34 @@
       "startTime": "07:10:00 AM 26-09-2025",
       "dai_url": null,
       "adfree_url": null
+    },
+    {
+      "id": 137287,
+      "event_category": "Pickleball",
+      "title": "Rise Up Championship vs Day 1, Court 2 (Rise Up Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+      "team_1": "Rise Up Championship",
+      "team_2": "Day 1, Court 2",
+      "status": "LIVE",
+      "event_name": "Rise Up Championship",
+      "match_name": "Rise Up Championship vs Day 1, Court 2",
+      "startTime": "07:30:00 AM 26-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/oCWI-F6oS_ShtS_nFBQJ2A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137287_english_hls_b0c088b05a9614ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137286,
+      "event_category": "Pickleball",
+      "title": "Rise Up Championship vs Day 1, Court 1 (Rise Up Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+      "team_1": "Rise Up Championship",
+      "team_2": "Day 1, Court 1",
+      "status": "LIVE",
+      "event_name": "Rise Up Championship",
+      "match_name": "Rise Up Championship vs Day 1, Court 1",
+      "startTime": "07:30:00 AM 26-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LGjqVG94SzKEfcBWvShxIg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137286_english_hls_df5171435781145ta-di_h264/index.m3u8"
     },
     {
       "id": 133953,
@@ -192,30 +220,6 @@
       "startTime": "12:30:00 AM 27-09-2025"
     },
     {
-      "id": 137287,
-      "event_category": "Pickleball",
-      "title": "Rise Up Championship vs Day 1, Court 2 (Rise Up Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-      "team_1": "Rise Up Championship",
-      "team_2": "Day 1, Court 2",
-      "status": "UPCOMING",
-      "event_name": "Rise Up Championship",
-      "match_name": "Rise Up Championship vs Day 1, Court 2",
-      "startTime": "07:30:00 AM 26-09-2025"
-    },
-    {
-      "id": 137286,
-      "event_category": "Pickleball",
-      "title": "Rise Up Championship vs Day 1, Court 1 (Rise Up Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-      "team_1": "Rise Up Championship",
-      "team_2": "Day 1, Court 1",
-      "status": "UPCOMING",
-      "event_name": "Rise Up Championship",
-      "match_name": "Rise Up Championship vs Day 1, Court 1",
-      "startTime": "07:30:00 AM 26-09-2025"
-    },
-    {
       "id": 137108,
       "event_category": "Football",
       "title": "Mirandés vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
@@ -228,18 +232,6 @@
       "startTime": "12:00:00 AM 27-09-2025"
     },
     {
-      "id": 136872,
-      "event_category": "Golf",
-      "title": "Day 1 vs Bethpage Black Course, USA (The Ryder Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Bethpage Black Course, USA",
-      "status": "UPCOMING",
-      "event_name": "The Ryder Cup",
-      "match_name": "Day 1",
-      "startTime": "04:30:00 PM 26-09-2025"
-    },
-    {
       "id": 137078,
       "event_category": "Cricket",
       "title": "USN Indians vs Dehradun Warriors (Uttarakhand Premier League, 2025)",
@@ -250,6 +242,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "USN Indians vs Dehradun Warriors",
       "startTime": "11:00:00 AM 27-09-2025"
+    },
+    {
+      "id": 136872,
+      "event_category": "Golf",
+      "title": "Day 1 vs Bethpage Black Course, USA (The Ryder Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Bethpage Black Course, USA",
+      "status": "UPCOMING",
+      "event_name": "The Ryder Cup",
+      "match_name": "Day 1",
+      "startTime": "04:30:00 PM 26-09-2025"
     },
     {
       "id": 137136,
@@ -276,18 +280,6 @@
       "startTime": "05:10:00 AM 27-09-2025"
     },
     {
-      "id": 137137,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137137_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Los Angeles Dodgers",
-      "startTime": "07:10:00 AM 27-09-2025"
-    },
-    {
       "id": 132103,
       "event_category": "Football",
       "title": "Machida Zelvia vs Fagiano Okayama (J League 2025)",
@@ -300,16 +292,16 @@
       "startTime": "12:30:00 PM 27-09-2025"
     },
     {
-      "id": 137138,
+      "id": 137137,
       "event_category": "Baseball",
-      "title": "San Francisco Giants vs Colorado Rockies (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137138_CASACARDS_APP.png",
-      "team_1": "San Francisco Giants",
-      "team_2": "Colorado Rockies",
+      "title": "Seattle Mariners vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137137_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Los Angeles Dodgers",
       "status": "UPCOMING",
       "event_name": "Major League Baseball, 2025",
-      "match_name": "San Francisco Giants vs Colorado Rockies",
-      "startTime": "07:45:00 AM 27-09-2025"
+      "match_name": "Seattle Mariners vs Los Angeles Dodgers",
+      "startTime": "07:10:00 AM 27-09-2025"
     },
     {
       "id": 137079,
@@ -322,6 +314,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Tehri Titans vs Rishikesh Falcons",
       "startTime": "03:00:00 PM 27-09-2025"
+    },
+    {
+      "id": 137138,
+      "event_category": "Baseball",
+      "title": "San Francisco Giants vs Colorado Rockies (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137138_CASACARDS_APP.png",
+      "team_1": "San Francisco Giants",
+      "team_2": "Colorado Rockies",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Francisco Giants vs Colorado Rockies",
+      "startTime": "07:45:00 AM 27-09-2025"
     },
     {
       "id": 132009,
