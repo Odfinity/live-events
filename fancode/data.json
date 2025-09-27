@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:29 PM 27-09-2025",
+  "last update time": "07:52 PM 27-09-2025",
   "matches": [
     {
       "id": 136749,
@@ -36,24 +36,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png",
       "team_1": "Nepal",
       "team_2": "West Indies",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Nepal and West Indies tour of UAE, 2025",
       "match_name": "Nepal vs West Indies",
-      "startTime": "08:00:00 PM 27-09-2025"
-    },
-    {
-      "id": 130894,
-      "event_category": "Football",
-      "title": "Getafe CF vs Levante (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130894_5427_GEF_LE_fc-Web.jpg",
-      "team_1": "Getafe CF",
-      "team_2": "Levante",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs Levante",
-      "startTime": "05:30:00 PM 27-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130894_english_hls_29fa3e9a5260447adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130894_english_hls_29fa3e9a5260447adfreeta-di_h264/index.m3u8"
+      "startTime": "08:00:00 PM 27-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Wb-TSDSrS3qOJaLOMJp8Eg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137154_english_hls_135dce2fa715229ta-di_h264/index.m3u8"
     },
     {
       "id": 137080,
@@ -208,18 +196,6 @@
       "startTime": "01:00:00 PM 28-09-2025"
     },
     {
-      "id": 137107,
-      "event_category": "Football",
-      "title": "Las Palmas vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137107_5572_LAP_ALM_fc-Web_1758878145433.jpg",
-      "team_1": "Las Palmas",
-      "team_2": "Almería",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Las Palmas vs Almería",
-      "startTime": "12:30:00 AM 28-09-2025"
-    },
-    {
       "id": 137082,
       "event_category": "Cricket",
       "title": "Haridwar Spring Elmas vs Dehradun Warriors (Uttarakhand Premier League, 2025)",
@@ -230,6 +206,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Haridwar Spring Elmas vs Dehradun Warriors",
       "startTime": "03:00:00 PM 28-09-2025"
+    },
+    {
+      "id": 137107,
+      "event_category": "Football",
+      "title": "Las Palmas vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137107_5572_LAP_ALM_fc-Web_1758878145433.jpg",
+      "team_1": "Las Palmas",
+      "team_2": "Almería",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Almería",
+      "startTime": "12:30:00 AM 28-09-2025"
     },
     {
       "id": 136804,
@@ -316,18 +304,6 @@
       "startTime": "07:45:00 PM 28-09-2025"
     },
     {
-      "id": 137139,
-      "event_category": "Baseball",
-      "title": "New York Yankees vs Baltimore Orioles (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137139_CASACARDS_APP.png",
-      "team_1": "New York Yankees",
-      "team_2": "Baltimore Orioles",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "New York Yankees vs Baltimore Orioles",
-      "startTime": "10:35:00 PM 27-09-2025"
-    },
-    {
       "id": 130892,
       "event_category": "Football",
       "title": "FC Barcelona vs Real Sociedad (LALIGA 2025-26)",
@@ -338,6 +314,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "FC Barcelona vs Real Sociedad",
       "startTime": "10:00:00 PM 28-09-2025"
+    },
+    {
+      "id": 137139,
+      "event_category": "Baseball",
+      "title": "New York Yankees vs Baltimore Orioles (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137139_CASACARDS_APP.png",
+      "team_1": "New York Yankees",
+      "team_2": "Baltimore Orioles",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "New York Yankees vs Baltimore Orioles",
+      "startTime": "10:35:00 PM 27-09-2025"
     },
     {
       "id": 137140,
@@ -458,6 +446,18 @@
       "event_name": "Nepal and West Indies tour of UAE, 2025",
       "match_name": "Nepal vs West Indies",
       "startTime": "08:00:00 PM 29-09-2025"
+    },
+    {
+      "id": 136049,
+      "event_category": "Football",
+      "title": "Nasaf vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136049_5647_NQ_AHS_fc-Web.jpg",
+      "team_1": "Nasaf",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Nasaf vs Al Hilal SFC",
+      "startTime": "07:15:00 PM 29-09-2025"
     }
   ]
 }
