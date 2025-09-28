@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:01 PM 28-09-2025",
+  "last update time": "07:17 PM 28-09-2025",
   "matches": [
     {
       "id": 136749,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/INDvsPAK_AsiaCup_OldMatch_card.jpg",
       "team_1": "India",
       "team_2": "Pakistan",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs Pakistan",
-      "startTime": "08:00:00 PM 28-09-2025"
+      "startTime": "08:00:00 PM 28-09-2025",
+      "dai_url": "https://liveacc.fancode.com/136749_english_hls_f35067c8ca55201ta-di_h264/index.m3u8",
+      "adfree_url": "https://liveacc.fancode.com/136749_english_hls_f35067c8ca55201ta-di_h264/index.m3u8"
     },
     {
       "id": 136804,
@@ -118,18 +120,6 @@
       "startTime": "10:00:00 PM 28-09-2025"
     },
     {
-      "id": 137084,
-      "event_category": "Cricket",
-      "title": "Pithoragarh Hurricanes vs Nainital Tigers (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137084_5686_PIC_NLT_fc-web.jpg",
-      "team_1": "Pithoragarh Hurricanes",
-      "team_2": "Nainital Tigers",
-      "status": "UPCOMING",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Pithoragarh Hurricanes vs Nainital Tigers",
-      "startTime": "03:00:00 PM 29-09-2025"
-    },
-    {
       "id": 137155,
       "event_category": "Cricket",
       "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
@@ -142,16 +132,16 @@
       "startTime": "08:00:00 PM 29-09-2025"
     },
     {
-      "id": 136049,
-      "event_category": "Football",
-      "title": "Nasaf vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136049_5647_NQ_AHS_fc-Web.jpg",
-      "team_1": "Nasaf",
-      "team_2": "Al Hilal SFC",
+      "id": 137084,
+      "event_category": "Cricket",
+      "title": "Pithoragarh Hurricanes vs Nainital Tigers (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137084_5686_PIC_NLT_fc-web.jpg",
+      "team_1": "Pithoragarh Hurricanes",
+      "team_2": "Nainital Tigers",
       "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Nasaf vs Al Hilal SFC",
-      "startTime": "07:15:00 PM 29-09-2025"
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Pithoragarh Hurricanes vs Nainital Tigers",
+      "startTime": "03:00:00 PM 29-09-2025"
     },
     {
       "id": 137085,
@@ -166,16 +156,16 @@
       "startTime": "07:30:00 PM 29-09-2025"
     },
     {
-      "id": 136874,
-      "event_category": "Golf",
-      "title": "Ryder Cup - Day 3 vs Bethpage Black Course, USA (The Ryder Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
-      "team_1": "Ryder Cup - Day 3",
-      "team_2": "Bethpage Black Course, USA",
+      "id": 136049,
+      "event_category": "Football",
+      "title": "Nasaf vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136049_5647_NQ_AHS_fc-Web.jpg",
+      "team_1": "Nasaf",
+      "team_2": "Al Hilal SFC",
       "status": "UPCOMING",
-      "event_name": "The Ryder Cup",
-      "match_name": "Ryder Cup - Day 3",
-      "startTime": "09:30:00 PM 28-09-2025"
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Nasaf vs Al Hilal SFC",
+      "startTime": "07:15:00 PM 29-09-2025"
     },
     {
       "id": 136051,
@@ -200,6 +190,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Gharafa vs Al Shorta",
       "startTime": "09:30:00 PM 29-09-2025"
+    },
+    {
+      "id": 136874,
+      "event_category": "Golf",
+      "title": "Ryder Cup - Day 3 vs Bethpage Black Course, USA (The Ryder Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
+      "team_1": "Ryder Cup - Day 3",
+      "team_2": "Bethpage Black Course, USA",
+      "status": "UPCOMING",
+      "event_name": "The Ryder Cup",
+      "match_name": "Ryder Cup - Day 3",
+      "startTime": "09:30:00 PM 28-09-2025"
     },
     {
       "id": 137142,
