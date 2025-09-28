@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 AM 29-09-2025",
+  "last update time": "03:52 AM 29-09-2025",
   "matches": [
-    {
-      "id": 136874,
-      "event_category": "Golf",
-      "title": "Ryder Cup - Day 3 vs Bethpage Black Course, USA (The Ryder Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
-      "team_1": "Ryder Cup - Day 3",
-      "team_2": "Bethpage Black Course, USA",
-      "status": "LIVE",
-      "event_name": "The Ryder Cup",
-      "match_name": "Ryder Cup - Day 3",
-      "startTime": "09:30:00 PM 28-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/R_0-H8FFSyGLLkUFrd72uA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136874_english_hls_41a72501566543ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137142,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137142_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Los Angeles Dodgers",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Los Angeles Dodgers",
-      "startTime": "12:40:00 AM 29-09-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137142_english_hls_08b8f8927548565ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137142_english_hls_08b8f8927548565ta-di_h264/index.m3u8"
-    },
     {
       "id": 137155,
       "event_category": "Cricket",
@@ -450,6 +422,30 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Dehradun Warriors vs Nainital Tigers",
       "startTime": "07:30:00 PM 01-10-2025"
+    },
+    {
+      "id": 136129,
+      "event_category": "Football",
+      "title": "Istiklol vs Goa (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136129_5648_ISK_FCG_fc-Web_1758118383920.jpg",
+      "team_1": "Istiklol",
+      "team_2": "Goa",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Istiklol vs Goa",
+      "startTime": "07:15:00 PM 01-10-2025"
+    },
+    {
+      "id": 136105,
+      "event_category": "Football",
+      "title": "Andijan vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136105_5648_ABD_ASC_fc-Web_1758118383176.jpg",
+      "team_1": "Andijan",
+      "team_2": "Al Ahli (QAT)",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Andijan vs Al Ahli (QAT)",
+      "startTime": "07:15:00 PM 01-10-2025"
     }
   ]
 }
