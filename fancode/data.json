@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:20 PM 28-09-2025",
+  "last update time": "09:54 PM 28-09-2025",
   "matches": [
     {
       "id": 136749,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130892_5427_BAR_RS_fc-Web.jpg",
       "team_1": "FC Barcelona",
       "team_2": "Real Sociedad",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "FC Barcelona vs Real Sociedad",
-      "startTime": "10:00:00 PM 28-09-2025"
+      "startTime": "10:00:00 PM 28-09-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130892_english_hls_2689ebe0e14133adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130892_english_hls_2689ebe0e14133adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 130898,
@@ -44,16 +46,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130898_english_hls_410183798247829adfreeta-di_h264/index.m3u8"
     },
     {
+      "id": 136874,
+      "event_category": "Golf",
+      "title": "Ryder Cup - Day 3 vs Bethpage Black Course, USA (The Ryder Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
+      "team_1": "Ryder Cup - Day 3",
+      "team_2": "Bethpage Black Course, USA",
+      "status": "LIVE",
+      "event_name": "The Ryder Cup",
+      "match_name": "Ryder Cup - Day 3",
+      "startTime": "09:30:00 PM 28-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/R_0-H8FFSyGLLkUFrd72uA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136874_english_hls_41a72501566543ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137105,
       "event_category": "Football",
       "title": "Sporting de Gijón vs Albacete (LALIGA Hypermotion 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137105_5572_SG_ALB_fc-Web_1758878514342.jpg",
       "team_1": "Sporting de Gijón",
       "team_2": "Albacete",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Sporting de Gijón vs Albacete",
-      "startTime": "10:00:00 PM 28-09-2025"
+      "startTime": "10:00:00 PM 28-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/y6EB5UwOQx-YkK9uNJCp6A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137105_english_hls_bc4a75ecbd28749ta-di_h264/index.m3u8"
     },
     {
       "id": 130893,
@@ -68,18 +86,6 @@
       "startTime": "12:30:00 AM 29-09-2025"
     },
     {
-      "id": 137083,
-      "event_category": "Cricket",
-      "title": "Tehri Titans vs USN Indians (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137083_5686_TET_UI_fc-web.jpg",
-      "team_1": "Tehri Titans",
-      "team_2": "USN Indians",
-      "status": "UPCOMING",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Tehri Titans vs USN Indians",
-      "startTime": "11:00:00 AM 29-09-2025"
-    },
-    {
       "id": 137155,
       "event_category": "Cricket",
       "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
@@ -92,6 +98,18 @@
       "startTime": "08:00:00 PM 29-09-2025"
     },
     {
+      "id": 137083,
+      "event_category": "Cricket",
+      "title": "Tehri Titans vs USN Indians (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137083_5686_TET_UI_fc-web.jpg",
+      "team_1": "Tehri Titans",
+      "team_2": "USN Indians",
+      "status": "UPCOMING",
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Tehri Titans vs USN Indians",
+      "startTime": "11:00:00 AM 29-09-2025"
+    },
+    {
       "id": 137084,
       "event_category": "Cricket",
       "title": "Pithoragarh Hurricanes vs Nainital Tigers (Uttarakhand Premier League, 2025)",
@@ -102,18 +120,6 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Pithoragarh Hurricanes vs Nainital Tigers",
       "startTime": "03:00:00 PM 29-09-2025"
-    },
-    {
-      "id": 136874,
-      "event_category": "Golf",
-      "title": "Ryder Cup - Day 3 vs Bethpage Black Course, USA (The Ryder Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
-      "team_1": "Ryder Cup - Day 3",
-      "team_2": "Bethpage Black Course, USA",
-      "status": "UPCOMING",
-      "event_name": "The Ryder Cup",
-      "match_name": "Ryder Cup - Day 3",
-      "startTime": "09:30:00 PM 28-09-2025"
     },
     {
       "id": 137085,
