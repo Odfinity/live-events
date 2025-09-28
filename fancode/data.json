@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:00 PM 28-09-2025",
+  "last update time": "12:20 PM 28-09-2025",
   "matches": [
     {
       "id": 136749,
@@ -14,20 +14,6 @@
       "event_name": "Asia Cup, 2025",
       "match_name": "India vs Pakistan",
       "startTime": "08:00:00 PM 28-09-2025"
-    },
-    {
-      "id": 119216,
-      "event_category": "MotoGP",
-      "title": "Race Day vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
-      "team_1": "Race Day",
-      "team_2": "Mobility Resort Motegi",
-      "status": "LIVE",
-      "event_name": "MOTUL GRAND PRIX OF JAPAN",
-      "match_name": "Race Day",
-      "startTime": "07:30:00 AM 28-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yYwvD6q1S4O2rj6d_xzhvw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119216_english_hls_9b5cad453021915ta-di_h264/index.m3u8"
     },
     {
       "id": 133954,
@@ -254,18 +240,6 @@
       "startTime": "11:00:00 AM 29-09-2025"
     },
     {
-      "id": 136874,
-      "event_category": "Golf",
-      "title": "Ryder Cup - Day 3 vs Bethpage Black Course, USA (The Ryder Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
-      "team_1": "Ryder Cup - Day 3",
-      "team_2": "Bethpage Black Course, USA",
-      "status": "UPCOMING",
-      "event_name": "The Ryder Cup",
-      "match_name": "Ryder Cup - Day 3",
-      "startTime": "09:30:00 PM 28-09-2025"
-    },
-    {
       "id": 137084,
       "event_category": "Cricket",
       "title": "Pithoragarh Hurricanes vs Nainital Tigers (Uttarakhand Premier League, 2025)",
@@ -276,6 +250,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Pithoragarh Hurricanes vs Nainital Tigers",
       "startTime": "03:00:00 PM 29-09-2025"
+    },
+    {
+      "id": 136874,
+      "event_category": "Golf",
+      "title": "Ryder Cup - Day 3 vs Bethpage Black Course, USA (The Ryder Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
+      "team_1": "Ryder Cup - Day 3",
+      "team_2": "Bethpage Black Course, USA",
+      "status": "UPCOMING",
+      "event_name": "The Ryder Cup",
+      "match_name": "Ryder Cup - Day 3",
+      "startTime": "09:30:00 PM 28-09-2025"
     },
     {
       "id": 137142,
@@ -456,6 +442,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Sanfrecce Hiroshima vs Shanghai Port",
       "startTime": "03:30:00 PM 30-09-2025"
+    },
+    {
+      "id": 136808,
+      "event_category": "Cricket",
+      "title": "Kenya vs Nigeria (ICC Men's T20 WC Africa Regional Final, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136808_5668_KEN_NIG_fc-Web.png",
+      "team_1": "Kenya",
+      "team_2": "Nigeria",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
+      "match_name": "Kenya vs Nigeria",
+      "startTime": "05:20:00 PM 30-09-2025"
     }
   ]
 }
