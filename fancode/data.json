@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:28 PM 29-09-2025",
+  "last update time": "07:58 PM 29-09-2025",
   "matches": [
     {
       "id": 137155,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png",
       "team_1": "Nepal",
       "team_2": "West Indies",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Nepal and West Indies tour of UAE, 2025",
       "match_name": "Nepal vs West Indies",
-      "startTime": "08:00:00 PM 29-09-2025"
+      "startTime": "08:00:00 PM 29-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YBkshv6pTD-NzRV5p8zJCg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137155_english_hls_17881a64ef92643ta-di_h264/index.m3u8"
     },
     {
       "id": 136049,
@@ -140,18 +142,6 @@
       "startTime": "08:00:00 PM 30-09-2025"
     },
     {
-      "id": 137106,
-      "event_category": "Football",
-      "title": "Leganés vs Castellón (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137106_5572_LEG_CAS_fc-Web.jpg",
-      "team_1": "Leganés",
-      "team_2": "Castellón",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Leganés vs Castellón",
-      "startTime": "12:00:00 AM 30-09-2025"
-    },
-    {
       "id": 137087,
       "event_category": "Cricket",
       "title": "Nainital Tigers vs Tehri Titans (Uttarakhand Premier League, 2025)",
@@ -162,6 +152,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Nainital Tigers vs Tehri Titans",
       "startTime": "03:00:00 PM 30-09-2025"
+    },
+    {
+      "id": 137106,
+      "event_category": "Football",
+      "title": "Leganés vs Castellón (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137106_5572_LEG_CAS_fc-Web.jpg",
+      "team_1": "Leganés",
+      "team_2": "Castellón",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Leganés vs Castellón",
+      "startTime": "12:00:00 AM 30-09-2025"
     },
     {
       "id": 136002,
