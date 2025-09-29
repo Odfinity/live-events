@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:27 PM 29-09-2025",
+  "last update time": "08:56 PM 29-09-2025",
   "matches": [
     {
       "id": 137155,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137155_english_hls_17881a64ef92643ta-di_h264/index.m3u8"
     },
     {
+      "id": 137085,
+      "event_category": "Cricket",
+      "title": "Haridwar Elmas vs Rishikesh Falcons (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137085_5686_RIF_HAH_fc-web.jpg",
+      "team_1": "Haridwar Elmas",
+      "team_2": "Rishikesh Falcons",
+      "status": "LIVE",
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Haridwar Elmas vs Rishikesh Falcons",
+      "startTime": "07:30:00 PM 29-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/iyP9jvKxRpiVGRC6JbE51g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137085_english_hls_b901e4178e69833ta-di_h264/index.m3u8"
+    },
+    {
       "id": 136049,
       "event_category": "Football",
       "title": "Nasaf vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
@@ -30,20 +44,6 @@
       "startTime": "07:15:00 PM 29-09-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/NWY-IY6NTbSgsPjGfy6syQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136049_english_hls_a8e3a37baf3037ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137085,
-      "event_category": "Cricket",
-      "title": "Rishikesh Falcons vs Haridwar Elmas (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137085_5686_RIF_HAH_fc-web.jpg",
-      "team_1": "Rishikesh Falcons",
-      "team_2": "Haridwar Elmas",
-      "status": "LIVE",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Rishikesh Falcons vs Haridwar Elmas",
-      "startTime": "07:30:00 PM 29-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iyP9jvKxRpiVGRC6JbE51g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137085_english_hls_b901e4178e69833ta-di_h264/index.m3u8"
     },
     {
       "id": 136051,
@@ -82,18 +82,6 @@
       "startTime": "11:45:00 PM 29-09-2025"
     },
     {
-      "id": 130890,
-      "event_category": "Football",
-      "title": "Valencia CF vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130890_5427_VAL_RO_fc-Web.jpg",
-      "team_1": "Valencia CF",
-      "team_2": "Real Oviedo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Valencia CF vs Real Oviedo",
-      "startTime": "12:30:00 AM 30-09-2025"
-    },
-    {
       "id": 137086,
       "event_category": "Cricket",
       "title": "Dehradun Warriors vs Pithoragarh Hurricanes (Uttarakhand Premier League, 2025)",
@@ -104,6 +92,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Dehradun Warriors vs Pithoragarh Hurricanes",
       "startTime": "11:00:00 AM 30-09-2025"
+    },
+    {
+      "id": 137156,
+      "event_category": "Cricket",
+      "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png",
+      "team_1": "Nepal",
+      "team_2": "West Indies",
+      "status": "UPCOMING",
+      "event_name": "Nepal and West Indies tour of UAE, 2025",
+      "match_name": "Nepal vs West Indies",
+      "startTime": "08:00:00 PM 30-09-2025"
     },
     {
       "id": 136806,
@@ -130,18 +130,6 @@
       "startTime": "01:00:00 PM 30-09-2025"
     },
     {
-      "id": 137156,
-      "event_category": "Cricket",
-      "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png",
-      "team_1": "Nepal",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "event_name": "Nepal and West Indies tour of UAE, 2025",
-      "match_name": "Nepal vs West Indies",
-      "startTime": "08:00:00 PM 30-09-2025"
-    },
-    {
       "id": 137087,
       "event_category": "Cricket",
       "title": "Nainital Tigers vs Tehri Titans (Uttarakhand Premier League, 2025)",
@@ -152,18 +140,6 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Nainital Tigers vs Tehri Titans",
       "startTime": "03:00:00 PM 30-09-2025"
-    },
-    {
-      "id": 137106,
-      "event_category": "Football",
-      "title": "Leganés vs Castellón (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137106_5572_LEG_CAS_fc-Web.jpg",
-      "team_1": "Leganés",
-      "team_2": "Castellón",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Leganés vs Castellón",
-      "startTime": "12:00:00 AM 30-09-2025"
     },
     {
       "id": 136002,
@@ -188,6 +164,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Sanfrecce Hiroshima vs Shanghai Port",
       "startTime": "03:30:00 PM 30-09-2025"
+    },
+    {
+      "id": 137106,
+      "event_category": "Football",
+      "title": "Leganés vs Castellón (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137106_5572_LEG_CAS_fc-Web.jpg",
+      "team_1": "Leganés",
+      "team_2": "Castellón",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Leganés vs Castellón",
+      "startTime": "12:00:00 AM 30-09-2025"
     },
     {
       "id": 136808,
@@ -308,6 +296,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Derby County Football Club vs Charlton Athletic F.C",
       "startTime": "12:30:00 AM 01-10-2025"
+    },
+    {
+      "id": 130890,
+      "event_category": "Football",
+      "title": "Valencia CF vs Real Oviedo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130890_5427_VAL_RO_fc-Web.jpg",
+      "team_1": "Valencia CF",
+      "team_2": "Real Oviedo",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Valencia CF vs Real Oviedo",
+      "startTime": "12:30:00 AM 30-09-2025"
     },
     {
       "id": 137330,
