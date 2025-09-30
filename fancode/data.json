@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 PM 30-09-2025",
+  "last update time": "10:02 PM 30-09-2025",
   "matches": [
     {
       "id": 137156,
@@ -42,22 +42,8 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Sadd vs Sharjah",
       "startTime": "09:30:00 PM 30-09-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 136117,
-      "event_category": "Football",
-      "title": "Ahal vs Al Hussein (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136117_5648_AH_HUS_fc-Web_1758118382782.jpg",
-      "team_1": "Ahal",
-      "team_2": "Al Hussein",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Ahal vs Al Hussein",
-      "startTime": "07:15:00 PM 30-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Pqvhi0_0SyeSlWdRpheHXA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136117_english_hls_ecb9f760fc99203ta-di_h264/index.m3u8"
+      "dai_url": "https://dai.google.com/linear/hls/event/Duerg6sOSAK6PPl8vtfVXw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136053_english_hls_61a3f686dd24071ta-di_h264/index.m3u8"
     },
     {
       "id": 136875,
@@ -156,6 +142,18 @@
       "startTime": "05:45:00 PM 01-10-2025"
     },
     {
+      "id": 137330,
+      "event_category": "Baseball",
+      "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137330_CASACARDS_APP.png",
+      "team_1": "Detroit Tigers",
+      "team_2": "Cleveland Guardians",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Detroit Tigers vs Cleveland Guardians",
+      "startTime": "10:38:00 PM 30-09-2025"
+    },
+    {
       "id": 137091,
       "event_category": "Cricket",
       "title": "Dehradun Warriors vs Nainital Tigers (Uttarakhand Premier League, 2025)",
@@ -240,16 +238,16 @@
       "startTime": "09:30:00 PM 01-10-2025"
     },
     {
-      "id": 137330,
-      "event_category": "Baseball",
-      "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137330_CASACARDS_APP.png",
-      "team_1": "Detroit Tigers",
-      "team_2": "Cleveland Guardians",
+      "id": 136944,
+      "event_category": "Football",
+      "title": "Queens Park Rangers F.C. vs Oxford United (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136944_5489_QPR_OU_fc-web.jpg",
+      "team_1": "Queens Park Rangers F.C.",
+      "team_2": "Oxford United",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Detroit Tigers vs Cleveland Guardians",
-      "startTime": "10:38:00 PM 30-09-2025"
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Queens Park Rangers F.C. vs Oxford United",
+      "startTime": "12:30:00 AM 02-10-2025"
     },
     {
       "id": 137331,
@@ -286,18 +284,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Cincinnati Reds vs Los Angeles Dodgers",
       "startTime": "06:38:00 AM 01-10-2025"
-    },
-    {
-      "id": 136944,
-      "event_category": "Football",
-      "title": "Queens Park Rangers F.C. vs Oxford United (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136944_5489_QPR_OU_fc-web.jpg",
-      "team_1": "Queens Park Rangers F.C.",
-      "team_2": "Oxford United",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Queens Park Rangers F.C. vs Oxford United",
-      "startTime": "12:30:00 AM 02-10-2025"
     },
     {
       "id": 136130,
@@ -386,25 +372,25 @@
     {
       "id": 136810,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ICC Men's T20 WC Africa Regional Final, 2025)",
+      "title": "Nigeria vs Botswana (ICC Men's T20 WC Africa Regional Final, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Nigeria",
+      "team_2": "Botswana",
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Nigeria vs Botswana",
       "startTime": "01:00:00 PM 02-10-2025"
     },
     {
       "id": 136809,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ICC Men's T20 WC Africa Regional Final, 2025)",
+      "title": "Namibia vs Tanzania (ICC Men's T20 WC Africa Regional Final, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Namibia",
+      "team_2": "Tanzania",
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Namibia vs Tanzania",
       "startTime": "01:00:00 PM 02-10-2025"
     },
     {
@@ -453,6 +439,18 @@
       "status": "UPCOMING",
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Tampines Rovers FC vs BG Pathum United",
+      "startTime": "03:30:00 PM 02-10-2025"
+    },
+    {
+      "id": 136177,
+      "event_category": "Football",
+      "title": "Pohang Steelers vs Kaya (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136177_5648_PHG_KAYA_fc-Web_1758118382714.jpg",
+      "team_1": "Pohang Steelers",
+      "team_2": "Kaya",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Pohang Steelers vs Kaya",
       "startTime": "03:30:00 PM 02-10-2025"
     }
   ]
