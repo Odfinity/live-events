@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:26 AM 01-10-2025",
+  "last update time": "02:52 AM 01-10-2025",
   "matches": [
-    {
-      "id": 136943,
-      "event_category": "Football",
-      "title": "Derby County Football Club vs Charlton Athletic F.C (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136943_5489_DER_CHL_fc-web.jpg",
-      "team_1": "Derby County Football Club",
-      "team_2": "Charlton Athletic F.C",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Derby County Football Club vs Charlton Athletic F.C",
-      "startTime": "12:30:00 AM 01-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iaBbndioTemEdC6UJWSbsg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136943_english_hls_f42d15e75e72130ta-di_h264/index.m3u8"
-    },
     {
       "id": 137331,
       "event_category": "Baseball",
@@ -116,6 +102,18 @@
       "startTime": "03:30:00 PM 01-10-2025"
     },
     {
+      "id": 137333,
+      "event_category": "Baseball",
+      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v2/137333_CASACARDS_APP.png",
+      "team_1": "Boston Red Sox",
+      "team_2": "New York Yankees",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Boston Red Sox vs New York Yankees",
+      "startTime": "03:38:00 AM 01-10-2025"
+    },
+    {
       "id": 136166,
       "event_category": "Football",
       "title": "Bangkok United vs Persib Bandung (AFC Champions League Two 2025-26)",
@@ -210,18 +208,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Khaldiya vs Arkadag",
       "startTime": "11:45:00 PM 01-10-2025"
-    },
-    {
-      "id": 137333,
-      "event_category": "Baseball",
-      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v2/137333_CASACARDS_APP.png",
-      "team_1": "Boston Red Sox",
-      "team_2": "New York Yankees",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Boston Red Sox vs New York Yankees",
-      "startTime": "03:38:00 AM 01-10-2025"
     },
     {
       "id": 137334,
@@ -344,18 +330,6 @@
       "startTime": "03:00:00 PM 02-10-2025"
     },
     {
-      "id": 137375,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137375_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Cincinnati Reds",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
-      "startTime": "06:38:00 AM 02-10-2025"
-    },
-    {
       "id": 136178,
       "event_category": "Football",
       "title": "Tampines Rovers FC vs BG Pathum United (AFC Champions League Two 2025-26)",
@@ -390,6 +364,18 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Eastern SC vs Nam Dinh",
       "startTime": "03:30:00 PM 02-10-2025"
+    },
+    {
+      "id": 137375,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137375_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "06:38:00 AM 02-10-2025"
     },
     {
       "id": 136812,
@@ -450,6 +436,18 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Cong An Ha Noi vs Wofoo Tai Po",
       "startTime": "05:45:00 PM 02-10-2025"
+    },
+    {
+      "id": 137094,
+      "event_category": "Cricket",
+      "title": "Dehradun Warriors vs Tehri Titans (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137094_5686_DHD_TET_fc-web.jpg",
+      "team_1": "Dehradun Warriors",
+      "team_2": "Tehri Titans",
+      "status": "UPCOMING",
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Dehradun Warriors vs Tehri Titans",
+      "startTime": "07:30:00 PM 02-10-2025"
     }
   ]
 }
