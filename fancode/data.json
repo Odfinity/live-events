@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:05 PM 30-09-2025",
+  "last update time": "02:23 PM 30-09-2025",
   "matches": [
     {
       "id": 137156,
@@ -14,20 +14,6 @@
       "event_name": "Nepal and West Indies tour of UAE, 2025",
       "match_name": "Nepal vs West Indies",
       "startTime": "08:00:00 PM 30-09-2025"
-    },
-    {
-      "id": 137086,
-      "event_category": "Cricket",
-      "title": "Pithoragarh Hurricanes vs Dehradun Warriors (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137086_5686_DHD_PIC_fc-web.jpg",
-      "team_1": "Pithoragarh Hurricanes",
-      "team_2": "Dehradun Warriors",
-      "status": "LIVE",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Pithoragarh Hurricanes vs Dehradun Warriors",
-      "startTime": "11:00:00 AM 30-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/xEUVEhgAQjmlmhsX65SSCg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137086_english_hls_ed76b5527992440ta-di_h264/index.m3u8"
     },
     {
       "id": 136806,
@@ -94,6 +80,18 @@
       "startTime": "05:20:00 PM 30-09-2025"
     },
     {
+      "id": 136875,
+      "event_category": "Cricket",
+      "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-.png",
+      "team_1": "New Zealand",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "Australia tour of New Zealand, 2025",
+      "match_name": "New Zealand vs Australia",
+      "startTime": "11:45:00 AM 01-10-2025"
+    },
+    {
       "id": 137088,
       "event_category": "Cricket",
       "title": "USN Indians vs Rishikesh Falcons (Uttarakhand Premier League, 2025)",
@@ -128,18 +126,6 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Sanfrecce Hiroshima vs Shanghai Port",
       "startTime": "03:30:00 PM 30-09-2025"
-    },
-    {
-      "id": 136875,
-      "event_category": "Cricket",
-      "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-.png",
-      "team_1": "New Zealand",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "Australia tour of New Zealand, 2025",
-      "match_name": "New Zealand vs Australia",
-      "startTime": "11:45:00 AM 01-10-2025"
     },
     {
       "id": 136004,
@@ -452,6 +438,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Detroit Tigers vs Cleveland Guardians",
       "startTime": "10:38:00 PM 01-10-2025"
+    },
+    {
+      "id": 137336,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Chicago Cubs (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "San Diego Padres",
+      "team_2": "Chicago Cubs",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Chicago Cubs",
+      "startTime": "12:38:00 AM 02-10-2025"
     }
   ]
 }
