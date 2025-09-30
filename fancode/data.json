@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:11 PM 30-09-2025",
+  "last update time": "03:58 PM 30-09-2025",
   "matches": [
     {
       "id": 137156,
@@ -14,20 +14,6 @@
       "event_name": "Nepal and West Indies tour of UAE, 2025",
       "match_name": "Nepal vs West Indies",
       "startTime": "08:00:00 PM 30-09-2025"
-    },
-    {
-      "id": 136806,
-      "event_category": "Cricket",
-      "title": "Botswana vs Uganda (ICC Men's T20 WC Africa Regional Final, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136806_5668_UGA_BOT_fc-Web.png",
-      "team_1": "Botswana",
-      "team_2": "Uganda",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-      "match_name": "Botswana vs Uganda",
-      "startTime": "01:00:00 PM 30-09-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/c-R2D-XDSAmBNVcnLA2gFw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136806_english_hls_bcc7bdff5017000ta-di_h264/index.m3u8"
     },
     {
       "id": 136805,
@@ -64,10 +50,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136002_5647_SE_BU_fc-Web.jpg",
       "team_1": "Seoul",
       "team_2": "Buriram United",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Seoul vs Buriram United",
-      "startTime": "03:30:00 PM 30-09-2025"
+      "startTime": "03:30:00 PM 30-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KtUfrdLiRQKsOBw7BVfZAg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136002_english_hls_49c643200158041ta-di_h264/index.m3u8"
     },
     {
       "id": 136001,
@@ -76,10 +64,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136001_5647_HIR_SHG_fc-Web.jpg",
       "team_1": "Sanfrecce Hiroshima",
       "team_2": "Shanghai Port",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Sanfrecce Hiroshima vs Shanghai Port",
-      "startTime": "03:30:00 PM 30-09-2025"
+      "startTime": "03:30:00 PM 30-09-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HPV4SoryTrqBAiCyIDNgDA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136001_english_hls_060e77879d73659ta-di_h264/index.m3u8"
     },
     {
       "id": 136875,
@@ -202,18 +192,6 @@
       "startTime": "12:30:00 AM 01-10-2025"
     },
     {
-      "id": 136117,
-      "event_category": "Football",
-      "title": "Ahal vs Al Hussein (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136117_5648_AH_HUS_fc-Web_1758118382782.jpg",
-      "team_1": "Ahal",
-      "team_2": "Al Hussein",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Ahal vs Al Hussein",
-      "startTime": "07:15:00 PM 30-09-2025"
-    },
-    {
       "id": 137089,
       "event_category": "Cricket",
       "title": "Tehri Titans vs Pithoragarh Hurricanes (Uttarakhand Premier League, 2025)",
@@ -224,6 +202,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Tehri Titans vs Pithoragarh Hurricanes",
       "startTime": "11:00:00 AM 01-10-2025"
+    },
+    {
+      "id": 136117,
+      "event_category": "Football",
+      "title": "Ahal vs Al Hussein (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136117_5648_AH_HUS_fc-Web_1758118382782.jpg",
+      "team_1": "Ahal",
+      "team_2": "Al Hussein",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Ahal vs Al Hussein",
+      "startTime": "07:15:00 PM 30-09-2025"
     },
     {
       "id": 137090,
@@ -262,18 +252,6 @@
       "startTime": "05:45:00 PM 01-10-2025"
     },
     {
-      "id": 137330,
-      "event_category": "Baseball",
-      "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "team_1": "Detroit Tigers",
-      "team_2": "Cleveland Guardians",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Detroit Tigers vs Cleveland Guardians",
-      "startTime": "10:38:00 PM 30-09-2025"
-    },
-    {
       "id": 136165,
       "event_category": "Football",
       "title": "Lion City Sailors vs Selangor (AFC Champions League Two 2025-26)",
@@ -284,6 +262,18 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Lion City Sailors vs Selangor",
       "startTime": "03:30:00 PM 01-10-2025"
+    },
+    {
+      "id": 137330,
+      "event_category": "Baseball",
+      "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "Detroit Tigers",
+      "team_2": "Cleveland Guardians",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Detroit Tigers vs Cleveland Guardians",
+      "startTime": "10:38:00 PM 30-09-2025"
     },
     {
       "id": 137331,
@@ -310,18 +300,6 @@
       "startTime": "03:38:00 AM 01-10-2025"
     },
     {
-      "id": 137334,
-      "event_category": "Baseball",
-      "title": "Cincinnati Reds vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137334_CASACARDS_APP.png",
-      "team_1": "Cincinnati Reds",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cincinnati Reds vs Los Angeles Dodgers",
-      "startTime": "06:38:00 AM 01-10-2025"
-    },
-    {
       "id": 137091,
       "event_category": "Cricket",
       "title": "Dehradun Warriors vs Nainital Tigers (Uttarakhand Premier League, 2025)",
@@ -332,6 +310,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Dehradun Warriors vs Nainital Tigers",
       "startTime": "07:30:00 PM 01-10-2025"
+    },
+    {
+      "id": 137334,
+      "event_category": "Baseball",
+      "title": "Cincinnati Reds vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137334_CASACARDS_APP.png",
+      "team_1": "Cincinnati Reds",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cincinnati Reds vs Los Angeles Dodgers",
+      "startTime": "06:38:00 AM 01-10-2025"
     },
     {
       "id": 136166,
@@ -452,6 +442,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "San Diego Padres vs Chicago Cubs",
       "startTime": "12:38:00 AM 02-10-2025"
+    },
+    {
+      "id": 137337,
+      "event_category": "Baseball",
+      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "Boston Red Sox",
+      "team_2": "New York Yankees",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Boston Red Sox vs New York Yankees",
+      "startTime": "03:38:00 AM 02-10-2025"
     }
   ]
 }
