@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:20 AM 02-10-2025",
+  "last update time": "03:49 AM 02-10-2025",
   "matches": [
     {
-      "id": 137336,
+      "id": 137337,
       "event_category": "Baseball",
-      "title": "San Diego Padres vs Chicago Cubs (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137336_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "Chicago Cubs",
+      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137337_CASACARDS_APP.png",
+      "team_1": "Boston Red Sox",
+      "team_2": "New York Yankees",
       "status": "LIVE",
       "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Chicago Cubs",
-      "startTime": "12:38:00 AM 02-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137336_english_hls_fb2082052b2732ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137336_english_hls_fb2082052b2732ta-di_h264/index.m3u8"
+      "match_name": "Boston Red Sox vs New York Yankees",
+      "startTime": "03:38:00 AM 02-10-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136878,
@@ -172,18 +172,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Eastern SC vs Nam Dinh",
       "startTime": "03:30:00 PM 02-10-2025"
-    },
-    {
-      "id": 137337,
-      "event_category": "Baseball",
-      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137337_CASACARDS_APP.png",
-      "team_1": "Boston Red Sox",
-      "team_2": "New York Yankees",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Boston Red Sox vs New York Yankees",
-      "startTime": "03:38:00 AM 02-10-2025"
     },
     {
       "id": 136154,
@@ -436,6 +424,18 @@
       "event_name": "Porsche Mobil 1 Super Cup",
       "match_name": "Porsche Mobil 1 Super Cup",
       "startTime": "11:30:00 AM 03-10-2025"
+    },
+    {
+      "id": 119133,
+      "event_category": "Motorsports",
+      "title": "Qualifying vs Singapore (F1 ACADEMY SINGAPORE 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "Qualifying",
+      "team_2": "Singapore",
+      "status": "UPCOMING",
+      "event_name": "F1 ACADEMY SINGAPORE 2025",
+      "match_name": "Qualifying",
+      "startTime": "04:30:00 PM 03-10-2025"
     }
   ]
 }
