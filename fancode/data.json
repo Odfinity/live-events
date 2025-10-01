@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:22 PM 01-10-2025",
+  "last update time": "02:54 PM 01-10-2025",
   "matches": [
     {
       "id": 136875,
@@ -38,22 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137090_5686_HAH_UI_fc-web.jpg",
       "team_1": "Haridwar Elmas",
       "team_2": "USN Indians",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Haridwar Elmas vs USN Indians",
-      "startTime": "03:00:00 PM 01-10-2025"
-    },
-    {
-      "id": 137091,
-      "event_category": "Cricket",
-      "title": "Dehradun Warriors vs Nainital Tigers (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137091_5686_DHD_NLT_fc-web.jpg",
-      "team_1": "Dehradun Warriors",
-      "team_2": "Nainital Tigers",
-      "status": "UPCOMING",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Dehradun Warriors vs Nainital Tigers",
-      "startTime": "07:30:00 PM 01-10-2025"
+      "startTime": "03:00:00 PM 01-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/65-dbsGXTKehxOmZlrR__g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137090_english_hls_472bc3a52129399ta-di_h264/index.m3u8"
     },
     {
       "id": 136005,
@@ -66,6 +56,30 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Vissel Kobe vs Melbourne City",
       "startTime": "03:30:00 PM 01-10-2025"
+    },
+    {
+      "id": 136165,
+      "event_category": "Football",
+      "title": "Lion City Sailors vs Selangor (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136165_5648_LIO_SEL_fc-Web_1758118382779.jpg",
+      "team_1": "Lion City Sailors",
+      "team_2": "Selangor",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Lion City Sailors vs Selangor",
+      "startTime": "03:30:00 PM 01-10-2025"
+    },
+    {
+      "id": 137091,
+      "event_category": "Cricket",
+      "title": "Dehradun Warriors vs Nainital Tigers (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137091_5686_DHD_NLT_fc-web.jpg",
+      "team_1": "Dehradun Warriors",
+      "team_2": "Nainital Tigers",
+      "status": "UPCOMING",
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Dehradun Warriors vs Nainital Tigers",
+      "startTime": "07:30:00 PM 01-10-2025"
     },
     {
       "id": 136006,
@@ -90,18 +104,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Queens Park Rangers F.C. vs Oxford United",
       "startTime": "12:30:00 AM 02-10-2025"
-    },
-    {
-      "id": 136165,
-      "event_category": "Football",
-      "title": "Lion City Sailors vs Selangor (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136165_5648_LIO_SEL_fc-Web_1758118382779.jpg",
-      "team_1": "Lion City Sailors",
-      "team_2": "Selangor",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Lion City Sailors vs Selangor",
-      "startTime": "03:30:00 PM 01-10-2025"
     },
     {
       "id": 136166,
@@ -260,18 +262,6 @@
       "startTime": "01:15:00 PM 02-10-2025"
     },
     {
-      "id": 137335,
-      "event_category": "Baseball",
-      "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137335_CASACARDS_APP.png",
-      "team_1": "Detroit Tigers",
-      "team_2": "Cleveland Guardians",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Detroit Tigers vs Cleveland Guardians",
-      "startTime": "10:38:00 PM 01-10-2025"
-    },
-    {
       "id": 136812,
       "event_category": "Cricket",
       "title": "Uganda vs Malawi (ICC Men's T20 WC Africa Regional Final, 2025)",
@@ -296,18 +286,6 @@
       "startTime": "05:20:00 PM 02-10-2025"
     },
     {
-      "id": 137336,
-      "event_category": "Baseball",
-      "title": "San Diego Padres vs Chicago Cubs (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137336_CASACARDS_APP.png",
-      "team_1": "San Diego Padres",
-      "team_2": "Chicago Cubs",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "San Diego Padres vs Chicago Cubs",
-      "startTime": "12:38:00 AM 02-10-2025"
-    },
-    {
       "id": 136878,
       "event_category": "Cricket",
       "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
@@ -320,16 +298,28 @@
       "startTime": "08:30:00 PM 02-10-2025"
     },
     {
-      "id": 137337,
+      "id": 137335,
       "event_category": "Baseball",
-      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137337_CASACARDS_APP.png",
-      "team_1": "Boston Red Sox",
-      "team_2": "New York Yankees",
+      "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137335_CASACARDS_APP.png",
+      "team_1": "Detroit Tigers",
+      "team_2": "Cleveland Guardians",
       "status": "UPCOMING",
       "event_name": "Major League Baseball, 2025",
-      "match_name": "Boston Red Sox vs New York Yankees",
-      "startTime": "03:38:00 AM 02-10-2025"
+      "match_name": "Detroit Tigers vs Cleveland Guardians",
+      "startTime": "10:38:00 PM 01-10-2025"
+    },
+    {
+      "id": 137336,
+      "event_category": "Baseball",
+      "title": "San Diego Padres vs Chicago Cubs (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137336_CASACARDS_APP.png",
+      "team_1": "San Diego Padres",
+      "team_2": "Chicago Cubs",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "San Diego Padres vs Chicago Cubs",
+      "startTime": "12:38:00 AM 02-10-2025"
     },
     {
       "id": 136178,
@@ -366,6 +356,18 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Eastern SC vs Nam Dinh",
       "startTime": "03:30:00 PM 02-10-2025"
+    },
+    {
+      "id": 137337,
+      "event_category": "Baseball",
+      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137337_CASACARDS_APP.png",
+      "team_1": "Boston Red Sox",
+      "team_2": "New York Yankees",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Boston Red Sox vs New York Yankees",
+      "startTime": "03:38:00 AM 02-10-2025"
     },
     {
       "id": 137094,
