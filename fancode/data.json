@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:11 PM 02-10-2025",
+  "last update time": "03:27 PM 02-10-2025",
   "matches": [
     {
       "id": 136878,
@@ -78,10 +78,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136178_5648_TAM_PNU_fc-Web_1758118382772.jpg",
       "team_1": "Tampines Rovers FC",
       "team_2": "BG Pathum United",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Tampines Rovers FC vs BG Pathum United",
-      "startTime": "03:30:00 PM 02-10-2025"
+      "startTime": "03:30:00 PM 02-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ntoHJvM7QGyAiBOQ7T5CnQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136178_english_hls_f84daa1f8a76531ta-di_h264/index.m3u8"
     },
     {
       "id": 136177,
@@ -90,10 +92,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136177_5648_PHG_KAYA_fc-Web_1758118382714.jpg",
       "team_1": "Pohang Steelers",
       "team_2": "Kaya",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Pohang Steelers vs Kaya",
-      "startTime": "03:30:00 PM 02-10-2025"
+      "startTime": "03:30:00 PM 02-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/kwYNVvgUREGAgiZKsvBytw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136177_english_hls_4077cce93184979ta-di_h264/index.m3u8"
     },
     {
       "id": 136153,
@@ -102,10 +106,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136153_5648_ESC_ND_fc-Web_1758118383204.jpg",
       "team_1": "Eastern SC",
       "team_2": "Nam Dinh",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Eastern SC vs Nam Dinh",
-      "startTime": "03:30:00 PM 02-10-2025"
+      "startTime": "03:30:00 PM 02-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/MmdJd55WRx6Om9S3j_3-ag/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136153_english_hls_cad017d79b25205ta-di_h264/index.m3u8"
     },
     {
       "id": 136876,
@@ -180,18 +186,6 @@
       "startTime": "05:45:00 PM 02-10-2025"
     },
     {
-      "id": 135960,
-      "event_category": "Football",
-      "title": "Rotherham United vs Bradford City (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/135960_CASACARDS_APP.png",
-      "team_1": "Rotherham United",
-      "team_2": "Bradford City",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Rotherham United vs Bradford City",
-      "startTime": "12:30:00 AM 03-10-2025"
-    },
-    {
       "id": 137095,
       "event_category": "Cricket",
       "title": "Haridwar Elmas vs Tehri Titans (Uttarakhand Premier League, 2025)",
@@ -202,6 +196,18 @@
       "event_name": "Uttarakhand Premier League, 2025",
       "match_name": "Haridwar Elmas vs Tehri Titans",
       "startTime": "11:00:00 AM 03-10-2025"
+    },
+    {
+      "id": 135960,
+      "event_category": "Football",
+      "title": "Rotherham United vs Bradford City (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135960_CASACARDS_APP.png",
+      "team_1": "Rotherham United",
+      "team_2": "Bradford City",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Rotherham United vs Bradford City",
+      "startTime": "12:30:00 AM 03-10-2025"
     },
     {
       "id": 137096,
@@ -348,18 +354,6 @@
       "startTime": "04:30:00 PM 03-10-2025"
     },
     {
-      "id": 137376,
-      "event_category": "Baseball",
-      "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
-      "team_1": "Cleveland Guardians",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cleveland Guardians vs Detroit Tigers",
-      "startTime": "10:30:00 PM 02-10-2025"
-    },
-    {
       "id": 137260,
       "event_category": "Golf",
       "title": "Featured Group - Day 2 vs The Country Club of Jackson (Sanderson Farms Championship)",
@@ -370,6 +364,18 @@
       "event_name": "Sanderson Farms Championship",
       "match_name": "Featured Group - Day 2",
       "startTime": "05:30:00 PM 03-10-2025"
+    },
+    {
+      "id": 137376,
+      "event_category": "Baseball",
+      "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
+      "team_1": "Cleveland Guardians",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cleveland Guardians vs Detroit Tigers",
+      "startTime": "10:30:00 PM 02-10-2025"
     },
     {
       "id": 137377,
@@ -396,18 +402,6 @@
       "startTime": "03:38:00 AM 03-10-2025"
     },
     {
-      "id": 137379,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137379_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Cincinnati Reds",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
-      "startTime": "06:38:00 AM 03-10-2025"
-    },
-    {
       "id": 118467,
       "event_category": "Formula 1",
       "title": "Practice 2 vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
@@ -418,6 +412,18 @@
       "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025",
       "match_name": "Practice 2",
       "startTime": "06:30:00 PM 03-10-2025"
+    },
+    {
+      "id": 137379,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137379_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "06:38:00 AM 03-10-2025"
     },
     {
       "id": 130907,
