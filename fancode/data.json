@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 AM 02-10-2025",
+  "last update time": "07:12 AM 02-10-2025",
   "matches": [
     {
-      "id": 137337,
+      "id": 137375,
       "event_category": "Baseball",
-      "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137337_CASACARDS_APP.png",
-      "team_1": "Boston Red Sox",
-      "team_2": "New York Yankees",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137375_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
       "status": "LIVE",
       "event_name": "Major League Baseball, 2025",
-      "match_name": "Boston Red Sox vs New York Yankees",
-      "startTime": "03:38:00 AM 02-10-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "06:38:00 AM 02-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137375_english_hls_5c1022a22c16653ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137375_english_hls_5c1022a22c16653ta-di_h264/index.m3u8"
     },
     {
       "id": 136878,
@@ -210,6 +210,18 @@
       "startTime": "12:30:00 AM 03-10-2025"
     },
     {
+      "id": 136876,
+      "event_category": "Cricket",
+      "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-New-.png",
+      "team_1": "New Zealand",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "Australia tour of New Zealand, 2025",
+      "match_name": "New Zealand vs Australia",
+      "startTime": "11:45:00 AM 03-10-2025"
+    },
+    {
       "id": 136855,
       "event_category": "Golf",
       "title": "Day 1 vs Old Course St Andrews (Alfred Dunhill Links Championship)",
@@ -234,16 +246,16 @@
       "startTime": "05:30:00 PM 02-10-2025"
     },
     {
-      "id": 136876,
+      "id": 137095,
       "event_category": "Cricket",
-      "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-New-.png",
-      "team_1": "New Zealand",
-      "team_2": "Australia",
+      "title": "Haridwar Elmas vs Tehri Titans (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137095_5686_HAH_TET_fc-web.jpg",
+      "team_1": "Haridwar Elmas",
+      "team_2": "Tehri Titans",
       "status": "UPCOMING",
-      "event_name": "Australia tour of New Zealand, 2025",
-      "match_name": "New Zealand vs Australia",
-      "startTime": "11:45:00 AM 03-10-2025"
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Haridwar Elmas vs Tehri Titans",
+      "startTime": "11:00:00 AM 03-10-2025"
     },
     {
       "id": 137257,
@@ -258,28 +270,16 @@
       "startTime": "01:30:00 AM 03-10-2025"
     },
     {
-      "id": 137095,
+      "id": 137096,
       "event_category": "Cricket",
-      "title": "Haridwar Elmas vs Tehri Titans (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137095_5686_HAH_TET_fc-web.jpg",
-      "team_1": "Haridwar Elmas",
-      "team_2": "Tehri Titans",
+      "title": "Dehradun Warriors vs Rishikesh Falcons (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137096_5686_DHD_RIF_fc-web.jpg",
+      "team_1": "Dehradun Warriors",
+      "team_2": "Rishikesh Falcons",
       "status": "UPCOMING",
       "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Haridwar Elmas vs Tehri Titans",
-      "startTime": "11:00:00 AM 03-10-2025"
-    },
-    {
-      "id": 137375,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137375_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Cincinnati Reds",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
-      "startTime": "06:38:00 AM 02-10-2025"
+      "match_name": "Dehradun Warriors vs Rishikesh Falcons",
+      "startTime": "03:00:00 PM 03-10-2025"
     },
     {
       "id": 137376,
@@ -292,18 +292,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Cleveland Guardians vs Detroit Tigers",
       "startTime": "10:30:00 PM 02-10-2025"
-    },
-    {
-      "id": 137096,
-      "event_category": "Cricket",
-      "title": "Dehradun Warriors vs Rishikesh Falcons (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137096_5686_DHD_RIF_fc-web.jpg",
-      "team_1": "Dehradun Warriors",
-      "team_2": "Rishikesh Falcons",
-      "status": "UPCOMING",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Dehradun Warriors vs Rishikesh Falcons",
-      "startTime": "03:00:00 PM 03-10-2025"
     },
     {
       "id": 137377,
@@ -354,18 +342,6 @@
       "startTime": "12:40:00 PM 03-10-2025"
     },
     {
-      "id": 137379,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137379_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Cincinnati Reds",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
-      "startTime": "06:38:00 AM 03-10-2025"
-    },
-    {
       "id": 136879,
       "event_category": "Cricket",
       "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
@@ -378,16 +354,16 @@
       "startTime": "08:30:00 PM 03-10-2025"
     },
     {
-      "id": 136633,
-      "event_category": "Motorsports",
-      "title": "DTM Hockenheimring vs Germany (DTM Hockenheimring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "DTM Hockenheimring",
-      "team_2": "Germany",
+      "id": 137379,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Cincinnati Reds (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137379_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Cincinnati Reds",
       "status": "UPCOMING",
-      "event_name": "DTM Hockenheimring",
-      "match_name": "DTM Hockenheimring",
-      "startTime": "02:35:00 PM 03-10-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
+      "startTime": "06:38:00 AM 03-10-2025"
     },
     {
       "id": 137097,
@@ -402,6 +378,18 @@
       "startTime": "07:30:00 PM 03-10-2025"
     },
     {
+      "id": 136633,
+      "event_category": "Motorsports",
+      "title": "DTM Hockenheimring vs Germany (DTM Hockenheimring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "DTM Hockenheimring",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "DTM Hockenheimring",
+      "match_name": "DTM Hockenheimring",
+      "startTime": "02:35:00 PM 03-10-2025"
+    },
+    {
       "id": 118466,
       "event_category": "Formula 1",
       "title": "Practice 1 vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
@@ -414,18 +402,6 @@
       "startTime": "03:00:00 PM 03-10-2025"
     },
     {
-      "id": 137321,
-      "event_category": "Motorsports",
-      "title": "Porsche Mobil 1 Super Cup vs Singapore (Porsche Mobil 1 Super Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-      "team_1": "Porsche Mobil 1 Super Cup",
-      "team_2": "Singapore",
-      "status": "UPCOMING",
-      "event_name": "Porsche Mobil 1 Super Cup",
-      "match_name": "Porsche Mobil 1 Super Cup",
-      "startTime": "11:30:00 AM 03-10-2025"
-    },
-    {
       "id": 119133,
       "event_category": "Motorsports",
       "title": "Qualifying vs Singapore (F1 ACADEMY SINGAPORE 2025)",
@@ -436,6 +412,30 @@
       "event_name": "F1 ACADEMY SINGAPORE 2025",
       "match_name": "Qualifying",
       "startTime": "04:30:00 PM 03-10-2025"
+    },
+    {
+      "id": 136856,
+      "event_category": "Golf",
+      "title": "Day 2 vs Old Course St Andrews (Alfred Dunhill Links Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Old Course St Andrews",
+      "status": "UPCOMING",
+      "event_name": "Alfred Dunhill Links Championship",
+      "match_name": "Day 2",
+      "startTime": "04:30:00 PM 03-10-2025"
+    },
+    {
+      "id": 137321,
+      "event_category": "Motorsports",
+      "title": "Porsche Mobil 1 Super Cup vs Singapore (Porsche Mobil 1 Super Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "team_1": "Porsche Mobil 1 Super Cup",
+      "team_2": "Singapore",
+      "status": "UPCOMING",
+      "event_name": "Porsche Mobil 1 Super Cup",
+      "match_name": "Porsche Mobil 1 Super Cup",
+      "startTime": "11:30:00 AM 03-10-2025"
     }
   ]
 }
