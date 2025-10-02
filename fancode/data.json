@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 PM 02-10-2025",
+  "last update time": "10:01 PM 02-10-2025",
   "matches": [
     {
       "id": 136878,
@@ -32,20 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137094_english_hls_f4e93dd14a98797ta-di_h264/index.m3u8"
     },
     {
-      "id": 136855,
-      "event_category": "Golf",
-      "title": "Day 1 vs Old Course St Andrews (Alfred Dunhill Links Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Old Course St Andrews",
-      "status": "LIVE",
-      "event_name": "Alfred Dunhill Links Championship",
-      "match_name": "Day 1",
-      "startTime": "04:30:00 PM 02-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Ob53GuHZT3OFiTeITYSUyQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136855_english_hls_535ae3410b48812ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137258,
       "event_category": "Golf",
       "title": "Featured Group - Day 1 vs The Country Club of Jackson (Sanderson Farms Championship)",
@@ -72,18 +58,6 @@
       "startTime": "11:45:00 AM 03-10-2025"
     },
     {
-      "id": 137095,
-      "event_category": "Cricket",
-      "title": "Haridwar Elmas vs Tehri Titans (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137095_5686_HAH_TET_fc-web.jpg",
-      "team_1": "Haridwar Elmas",
-      "team_2": "Tehri Titans",
-      "status": "UPCOMING",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Haridwar Elmas vs Tehri Titans",
-      "startTime": "11:00:00 AM 03-10-2025"
-    },
-    {
       "id": 136879,
       "event_category": "Cricket",
       "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
@@ -94,6 +68,18 @@
       "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
       "match_name": "Afghanistan vs Bangladesh",
       "startTime": "08:00:00 PM 03-10-2025"
+    },
+    {
+      "id": 137095,
+      "event_category": "Cricket",
+      "title": "Haridwar Elmas vs Tehri Titans (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137095_5686_HAH_TET_fc-web.jpg",
+      "team_1": "Haridwar Elmas",
+      "team_2": "Tehri Titans",
+      "status": "UPCOMING",
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Haridwar Elmas vs Tehri Titans",
+      "startTime": "11:00:00 AM 03-10-2025"
     },
     {
       "id": 137096,
@@ -132,28 +118,16 @@
       "startTime": "07:30:00 PM 03-10-2025"
     },
     {
-      "id": 137257,
-      "event_category": "Golf",
-      "title": "World Feed - Day 1 vs The Country Club of Jackson (Sanderson Farms Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
-      "team_1": "World Feed - Day 1",
-      "team_2": "The Country Club of Jackson",
+      "id": 137376,
+      "event_category": "Baseball",
+      "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
+      "team_1": "Cleveland Guardians",
+      "team_2": "Detroit Tigers",
       "status": "UPCOMING",
-      "event_name": "Sanderson Farms Championship",
-      "match_name": "World Feed - Day 1",
-      "startTime": "01:30:00 AM 03-10-2025"
-    },
-    {
-      "id": 119228,
-      "event_category": "MotoGP",
-      "title": "Day 1 vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Pertamina Mandalika Circuit",
-      "status": "UPCOMING",
-      "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
-      "match_name": "Indonesia GP",
-      "startTime": "06:30:00 AM 03-10-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cleveland Guardians vs Detroit Tigers",
+      "startTime": "10:30:00 PM 02-10-2025"
     },
     {
       "id": 130907,
@@ -178,6 +152,30 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Wrexham A.F.C. vs Birmingham City F.C.",
       "startTime": "12:30:00 AM 04-10-2025"
+    },
+    {
+      "id": 137257,
+      "event_category": "Golf",
+      "title": "World Feed - Day 1 vs The Country Club of Jackson (Sanderson Farms Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
+      "team_1": "World Feed - Day 1",
+      "team_2": "The Country Club of Jackson",
+      "status": "UPCOMING",
+      "event_name": "Sanderson Farms Championship",
+      "match_name": "World Feed - Day 1",
+      "startTime": "01:30:00 AM 03-10-2025"
+    },
+    {
+      "id": 119228,
+      "event_category": "MotoGP",
+      "title": "Day 1 vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Pertamina Mandalika Circuit",
+      "status": "UPCOMING",
+      "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
+      "match_name": "Indonesia GP",
+      "startTime": "06:30:00 AM 03-10-2025"
     },
     {
       "id": 119132,
@@ -324,18 +322,6 @@
       "startTime": "05:30:00 AM 04-10-2025"
     },
     {
-      "id": 137376,
-      "event_category": "Baseball",
-      "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
-      "team_1": "Cleveland Guardians",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cleveland Guardians vs Detroit Tigers",
-      "startTime": "10:30:00 PM 02-10-2025"
-    },
-    {
       "id": 137377,
       "event_category": "Baseball",
       "title": "Chicago Cubs vs San Diego Padres (Major League Baseball, 2025)",
@@ -454,6 +440,18 @@
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "01:00:00 PM 04-10-2025"
+    },
+    {
+      "id": 137007,
+      "event_category": "Football",
+      "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_2": "Machida Zelvia",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
+      "startTime": "12:30:00 PM 04-10-2025"
     }
   ]
 }
