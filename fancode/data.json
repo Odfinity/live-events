@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:21 PM 02-10-2025",
+  "last update time": "10:47 PM 02-10-2025",
   "matches": [
     {
       "id": 136878,
@@ -44,6 +44,20 @@
       "startTime": "05:30:00 PM 02-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ykzq4dKnTGWJlTcYjILCzQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137258_english_hls_37732a49f974510ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137376,
+      "event_category": "Baseball",
+      "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
+      "team_1": "Cleveland Guardians",
+      "team_2": "Detroit Tigers",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Cleveland Guardians vs Detroit Tigers",
+      "startTime": "10:30:00 PM 02-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137376_english_hls_36b27ef0ef35619ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137376_english_hls_36b27ef0ef35619ta-di_h264/index.m3u8"
     },
     {
       "id": 136876,
@@ -118,18 +132,6 @@
       "startTime": "07:30:00 PM 03-10-2025"
     },
     {
-      "id": 137376,
-      "event_category": "Baseball",
-      "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
-      "team_1": "Cleveland Guardians",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Cleveland Guardians vs Detroit Tigers",
-      "startTime": "10:30:00 PM 02-10-2025"
-    },
-    {
       "id": 130907,
       "event_category": "Football",
       "title": "CA Osasuna vs Getafe CF (LALIGA 2025-26)",
@@ -190,18 +192,6 @@
       "startTime": "12:40:00 PM 03-10-2025"
     },
     {
-      "id": 136633,
-      "event_category": "Motorsports",
-      "title": "Free Practice 1 vs Germany (DTM Hockenheimring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Free Practice 1",
-      "team_2": "Germany",
-      "status": "UPCOMING",
-      "event_name": "DTM Hockenheimring",
-      "match_name": "Free Practice 1",
-      "startTime": "02:35:00 PM 03-10-2025"
-    },
-    {
       "id": 137112,
       "event_category": "Football",
       "title": "Ceuta vs Eibar (LALIGA Hypermotion 2025-26)",
@@ -212,6 +202,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Ceuta vs Eibar",
       "startTime": "12:00:00 AM 04-10-2025"
+    },
+    {
+      "id": 136633,
+      "event_category": "Motorsports",
+      "title": "Free Practice 1 vs Germany (DTM Hockenheimring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Free Practice 1",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "DTM Hockenheimring",
+      "match_name": "Free Practice 1",
+      "startTime": "02:35:00 PM 03-10-2025"
     },
     {
       "id": 118466,
@@ -358,18 +360,6 @@
       "startTime": "06:38:00 AM 03-10-2025"
     },
     {
-      "id": 137259,
-      "event_category": "Golf",
-      "title": "World Feed - Day 2 vs The Country Club of Jackson (Sanderson Farms Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
-      "team_1": "World Feed - Day 2",
-      "team_2": "The Country Club of Jackson",
-      "status": "UPCOMING",
-      "event_name": "Sanderson Farms Championship",
-      "match_name": "World Feed - Day 2",
-      "startTime": "01:30:00 AM 04-10-2025"
-    },
-    {
       "id": 137339,
       "event_category": "Cricket",
       "title": "Malaysia Women vs Nepal Women (Nepal Women tour of Malaysia, 2025)",
@@ -380,6 +370,18 @@
       "event_name": "Nepal Women tour of Malaysia, 2025",
       "match_name": "Malaysia Women vs Nepal Women",
       "startTime": "07:30:00 AM 04-10-2025"
+    },
+    {
+      "id": 137259,
+      "event_category": "Golf",
+      "title": "World Feed - Day 2 vs The Country Club of Jackson (Sanderson Farms Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
+      "team_1": "World Feed - Day 2",
+      "team_2": "The Country Club of Jackson",
+      "status": "UPCOMING",
+      "event_name": "Sanderson Farms Championship",
+      "match_name": "World Feed - Day 2",
+      "startTime": "01:30:00 AM 04-10-2025"
     },
     {
       "id": 134016,
@@ -420,25 +422,25 @@
     {
       "id": 136814,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ICC Men's T20 WC Africa Regional Final, 2025)",
+      "title": "Botswana vs Malawi (ICC Men's T20 WC Africa Regional Final, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Botswana",
+      "team_2": "Malawi",
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Botswana vs Malawi",
       "startTime": "01:00:00 PM 04-10-2025"
     },
     {
       "id": 136813,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (ICC Men's T20 WC Africa Regional Final, 2025)",
+      "title": "Tanzania vs Kenya (ICC Men's T20 WC Africa Regional Final, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Tanzania",
+      "team_2": "Kenya",
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Tanzania vs Kenya",
       "startTime": "01:00:00 PM 04-10-2025"
     },
     {
