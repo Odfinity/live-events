@@ -1,8 +1,25 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:13 AM 03-10-2025",
+  "last update time": "11:24 AM 03-10-2025",
   "matches": [
+    {
+      "id": "sl1090491559",
+      "isLive": true,
+      "event": "Australia Tour of New Zealand 2025",
+      "match": "2nd T20I - 3 Oct 2025",
+      "Provider": "New Zealand Cricket",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009662/1759259508976151_AUSvsNZ_2t20i_30sep_live_rev_landscape_thumb.jpg",
+      "genre": "Cricket",
+      "language": "en",
+      "venue": "Bay Oval, Mount Maunganui",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "Australia vs New Zealand cricket news,Australia vs New Zealand match updates,Australia vs New Zealand highlights,Australia vs New Zealand results,Australia vs New Zealand fixtures,Australia vs New Zealand squads,Australia vs New Zealand live streaming,Australia vs New Zealand schedule,Test cricket series 2025,pat cummins,mitchell starc,steve smith,travis head,david warner,cameron green,alex carey,marnus labuschagne,josh hazlewood,glenn maxwell,New Zealand cricket team 2025,Australia cricket team 2025,New Zealand vs Australia Test Series,NZ vs AUS 2025,Australia Tour of New Zealand 2025,australia vs new zealand 2025,all blacks vs australia 2025,new zealand,australia tour of new zealand 2025 series schedule,australia tour of new zealand 2025 schedule time,australia tour of new zealand 2025 schedule,new zealand vs australia test series 2025 schedule,new zealand vs australia,new zealand vs australia series schedule 2025,australia,australia vs new zealand,sports_adsupported,nopreroll_livectv,AUS_tour_of_NZ_2025_LIVE,AustraliaTourofNewZealand2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090491559.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090491559.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090491559.m3u8",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090491574",
       "isLive": true,
@@ -53,20 +70,6 @@
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090491572.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090491572.m3u8",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090491245",
-      "isLive": false,
-      "event": "Australia Tour of New Zealand 2025",
-      "match": "Upcoming: Australia Tour of New Zealand 2025",
-      "Provider": "N/A",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009733/1759333973550297_AUSvsNZ_3t20i_1oct_dated_landscape_thumb.jpg",
-      "genre": "Cricket",
-      "language": "ENG",
-      "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "Australia vs New Zealand cricket news,Australia vs New Zealand match updates,Australia vs New Zealand highlights,Australia vs New Zealand results,Australia vs New Zealand fixtures,Australia vs New Zealand squads,Australia vs New Zealand live streaming,Australia vs New Zealand schedule,Test cricket series 2025,pat cummins,mitchell starc,steve smith,travis head,david warner,cameron green,alex carey,marnus labuschagne,josh hazlewood,glenn maxwell,New Zealand cricket team 2025,Australia cricket team 2025,New Zealand vs Australia Test Series,NZ vs AUS 2025,Australia Tour of New Zealand 2025,australia vs new zealand 2025,all blacks vs australia 2025,new zealand,australia tour of new zealand 2025 series schedule,australia tour of new zealand 2025 schedule time,australia tour of new zealand 2025 schedule,new zealand vs australia test series 2025 schedule,new zealand vs australia,new zealand vs australia series schedule 2025,australia,australia vs new zealand",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/761e7188bbe64d91877de36bbf5b43ae/1759214648/baseline-std-v4/PROMO_NZ_VS_AUS_T20I_20SEC_HOR_APP_eng_baseline-800300010.mpd"
     },
     {
       "id": "sl1090491462",
