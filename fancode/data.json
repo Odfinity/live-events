@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 03-10-2025",
+  "last update time": "06:14 PM 03-10-2025",
   "matches": [
     {
       "id": 136879,
@@ -30,20 +30,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137096_english_hls_cae75d381776703ta-di_h264/index.m3u8"
     },
     {
-      "id": 119133,
-      "event_category": "Motorsports",
-      "title": "Qualifying vs Singapore (F1 ACADEMY SINGAPORE 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-      "team_1": "Qualifying",
-      "team_2": "Singapore",
-      "status": "LIVE",
-      "event_name": "F1 ACADEMY SINGAPORE 2025",
-      "match_name": "Qualifying",
-      "startTime": "04:30:00 PM 03-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119133_english_hls_fafba8f4b641012adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119133_english_hls_fafba8f4b641012adfreeta-di_h264/index.m3u8"
-    },
-    {
       "id": 136856,
       "event_category": "Golf",
       "title": "Day 2 vs Old Course St Andrews (Alfred Dunhill Links Championship)",
@@ -56,6 +42,34 @@
       "startTime": "04:30:00 PM 03-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ivU_DFudQlm9arp3JqGwzA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136856_english_hls_057f478e0087571ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137260,
+      "event_category": "Golf",
+      "title": "Featured Group - Day 2 vs The Country Club of Jackson (Sanderson Farms Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
+      "team_1": "Featured Group - Day 2",
+      "team_2": "The Country Club of Jackson",
+      "status": "LIVE",
+      "event_name": "Sanderson Farms Championship",
+      "match_name": "Featured Group - Day 2",
+      "startTime": "05:30:00 PM 03-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gMTF13qxQE2kxQx81uO7DQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137260_english_hls_c93e9eef7e11778ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 118467,
+      "event_category": "Formula 1",
+      "title": "Practice 2 vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Singapore_Old_match-card.jpg",
+      "team_1": "Practice 2",
+      "team_2": "Singapore",
+      "status": "LIVE",
+      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025",
+      "match_name": "Practice 2",
+      "startTime": "06:30:00 PM 03-10-2025",
+      "dai_url": "https://d34gqyb2nk066a.cloudfront.net/out/v1/e9775fbc25324c8f901670693c4aa855/index.m3u8",
+      "adfree_url": "https://d34gqyb2nk066a.cloudfront.net/out/v1/e9775fbc25324c8f901670693c4aa855/index.m3u8"
     },
     {
       "id": 134014,
@@ -178,18 +192,6 @@
       "startTime": "11:00:00 AM 04-10-2025"
     },
     {
-      "id": 137112,
-      "event_category": "Football",
-      "title": "Ceuta vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137112_5572_CEU_EIB_fc-Web.jpg",
-      "team_1": "Ceuta",
-      "team_2": "Eibar",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Ceuta vs Eibar",
-      "startTime": "12:00:00 AM 04-10-2025"
-    },
-    {
       "id": 136814,
       "event_category": "Cricket",
       "title": "Botswana vs Malawi (ICC Men's T20 WC Africa Regional Final, 2025)",
@@ -214,16 +216,28 @@
       "startTime": "01:00:00 PM 04-10-2025"
     },
     {
-      "id": 137260,
-      "event_category": "Golf",
-      "title": "Featured Group - Day 2 vs The Country Club of Jackson (Sanderson Farms Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
-      "team_1": "Featured Group - Day 2",
-      "team_2": "The Country Club of Jackson",
+      "id": 137112,
+      "event_category": "Football",
+      "title": "Ceuta vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137112_5572_CEU_EIB_fc-Web.jpg",
+      "team_1": "Ceuta",
+      "team_2": "Eibar",
       "status": "UPCOMING",
-      "event_name": "Sanderson Farms Championship",
-      "match_name": "Featured Group - Day 2",
-      "startTime": "05:30:00 PM 03-10-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Ceuta vs Eibar",
+      "startTime": "12:00:00 AM 04-10-2025"
+    },
+    {
+      "id": 136634,
+      "event_category": "Motorsports",
+      "title": "Free Practice 2 vs Germany (DTM Hockenheimring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Free Practice 2",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "DTM Hockenheimring",
+      "match_name": "Free Practice 2",
+      "startTime": "07:00:00 PM 03-10-2025"
     },
     {
       "id": 137007,
@@ -236,18 +250,6 @@
       "event_name": "J League 2025",
       "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
       "startTime": "12:30:00 PM 04-10-2025"
-    },
-    {
-      "id": 137005,
-      "event_category": "Football",
-      "title": "Urawa Red Diamonds vs Vissel Kobe (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137005_CASACARDS_APP.png",
-      "team_1": "Urawa Red Diamonds",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Urawa Red Diamonds vs Vissel Kobe",
-      "startTime": "01:30:00 PM 04-10-2025"
     },
     {
       "id": 136945,
@@ -284,6 +286,18 @@
       "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
       "match_name": "Zimbabwe vs Namibia",
       "startTime": "05:20:00 PM 04-10-2025"
+    },
+    {
+      "id": 137005,
+      "event_category": "Football",
+      "title": "Urawa Red Diamonds vs Vissel Kobe (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137005_CASACARDS_APP.png",
+      "team_1": "Urawa Red Diamonds",
+      "team_2": "Vissel Kobe",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Urawa Red Diamonds vs Vissel Kobe",
+      "startTime": "01:30:00 PM 04-10-2025"
     },
     {
       "id": 130908,
@@ -334,30 +348,6 @@
       "startTime": "07:30:00 PM 04-10-2025"
     },
     {
-      "id": 118467,
-      "event_category": "Formula 1",
-      "title": "Practice 2 vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Singapore_Old_match-card.jpg",
-      "team_1": "Practice 2",
-      "team_2": "Singapore",
-      "status": "UPCOMING",
-      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025",
-      "match_name": "Practice 2",
-      "startTime": "06:30:00 PM 03-10-2025"
-    },
-    {
-      "id": 136634,
-      "event_category": "Motorsports",
-      "title": "Free Practice 2 vs Germany (DTM Hockenheimring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Free Practice 2",
-      "team_2": "Germany",
-      "status": "UPCOMING",
-      "event_name": "DTM Hockenheimring",
-      "match_name": "Free Practice 2",
-      "startTime": "07:00:00 PM 03-10-2025"
-    },
-    {
       "id": 130902,
       "event_category": "Football",
       "title": "Girona FC vs Valencia CF (LALIGA 2025-26)",
@@ -394,6 +384,18 @@
       "startTime": "06:30:00 AM 04-10-2025"
     },
     {
+      "id": 137111,
+      "event_category": "Football",
+      "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137111_5572_DEP_ALM_fc-web.jpg",
+      "team_1": "Deportivo de La Coruña",
+      "team_2": "Almería",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo de La Coruña vs Almería",
+      "startTime": "07:45:00 PM 04-10-2025"
+    },
+    {
       "id": 137411,
       "event_category": "Live events",
       "title": "Para Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -406,16 +408,16 @@
       "startTime": "10:30:00 AM 04-10-2025"
     },
     {
-      "id": 137111,
+      "id": 130901,
       "event_category": "Football",
-      "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137111_5572_DEP_ALM_fc-web.jpg",
-      "team_1": "Deportivo de La Coruña",
-      "team_2": "Almería",
+      "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
+      "team_1": "Athletic Club",
+      "team_2": "RCD Mallorca",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo de La Coruña vs Almería",
-      "startTime": "07:45:00 PM 04-10-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs RCD Mallorca",
+      "startTime": "10:00:00 PM 04-10-2025"
     },
     {
       "id": 119134,
@@ -430,16 +432,16 @@
       "startTime": "12:30:00 PM 04-10-2025"
     },
     {
-      "id": 130901,
-      "event_category": "Football",
-      "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
-      "team_1": "Athletic Club",
-      "team_2": "RCD Mallorca",
+      "id": 136635,
+      "event_category": "Motorsports",
+      "title": "Qualifying 1 vs Germany (DTM Hockenheimring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Qualifying 1",
+      "team_2": "Germany",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs RCD Mallorca",
-      "startTime": "10:00:00 PM 04-10-2025"
+      "event_name": "DTM Hockenheimring",
+      "match_name": "Qualifying 1",
+      "startTime": "01:05:00 PM 04-10-2025"
     }
   ]
 }
