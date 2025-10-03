@@ -1,25 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:47 PM 03-10-2025",
+  "last update time": "10:09 PM 03-10-2025",
   "matches": [
-    {
-      "id": "sl1090491594",
-      "isLive": true,
-      "event": "Archery Premier League 2025",
-      "match": "Day 2 - 3 Oct 2025",
-      "Provider": "Archery Premier League Private Limited",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009775/175940952620782_ATP25_Day2_Landscape_thumb_2oct.jpg",
-      "genre": "Archery",
-      "language": "en",
-      "venue": "",
-      "TVchannel": "LIV",
-      "SeoTags": "Archery Premier League,APL,archery league,professional archery,archery tournament,recurve archery,compound archery,archery competition,archery sports,Indian archery,archery news,archery scores,archery rankings,archery athletes,archery teams.,APL Season 1,APL 2024,top archers,archery champions,archery world rankings,archery Olympics,archery equipment,archery techniques.,archery teams,ArcheryPremierLeague_2025_Live,sports_adsupported,nopreroll_livectv,Archery_PLLive25,ArcheryPremierLeague2025",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090491594.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090491594.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090491594.m3u8",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
     {
       "id": "sl1090491245",
       "isLive": false,
@@ -33,6 +16,34 @@
       "TVchannel": "Sony Sports Ten 5",
       "SeoTags": "Australia vs New Zealand cricket news,Australia vs New Zealand match updates,Australia vs New Zealand highlights,Australia vs New Zealand results,Australia vs New Zealand fixtures,Australia vs New Zealand squads,Australia vs New Zealand live streaming,Australia vs New Zealand schedule,Test cricket series 2025,pat cummins,mitchell starc,steve smith,travis head,david warner,cameron green,alex carey,marnus labuschagne,josh hazlewood,glenn maxwell,New Zealand cricket team 2025,Australia cricket team 2025,New Zealand vs Australia Test Series,NZ vs AUS 2025,Australia Tour of New Zealand 2025,australia vs new zealand 2025,all blacks vs australia 2025,new zealand,australia tour of new zealand 2025 series schedule,australia tour of new zealand 2025 schedule time,australia tour of new zealand 2025 schedule,new zealand vs australia test series 2025 schedule,new zealand vs australia,new zealand vs australia series schedule 2025,australia,australia vs new zealand",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/761e7188bbe64d91877de36bbf5b43ae/1759214648/baseline-std-v4/PROMO_NZ_VS_AUS_T20I_20SEC_HOR_APP_eng_baseline-800300010.mpd"
+    },
+    {
+      "id": "sl1090491659",
+      "isLive": false,
+      "event": "Borussia Dortmund vs RB Leipzig",
+      "match": "Upcoming: Borussia Dortmund vs RB Leipzig",
+      "Provider": "N/A",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009830/1759500448904198_Bundesliga_Promo_Thumbs_DORTMUND_vs_LEIPZIG_landscape.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "N/A",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "",
+      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/d0cff81ebdda4f52a431b58d600dd22d/1759500378/baseline-std-v4/1090491659_03102025_eng_baseline-800300010.mpd"
+    },
+    {
+      "id": "sl1090491660",
+      "isLive": false,
+      "event": "Eintracht Frankfurt vs Bayern Munich",
+      "match": "Upcoming: Eintracht Frankfurt vs Bayern Munich",
+      "Provider": "N/A",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009827/1759499752057524_Bundesliga_Promo_Thumbs_landscape.jpg",
+      "genre": "Football",
+      "language": "ENG",
+      "venue": "N/A",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "",
+      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/72feab3724a54c0688ec58714d273e70/1759500765/baseline-std-v4/1090491660_03102025_eng_baseline-800300010.mpd"
     },
     {
       "id": "sl1090491462",
