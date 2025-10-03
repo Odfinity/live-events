@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:45 PM 03-10-2025",
+  "last update time": "07:08 PM 03-10-2025",
   "matches": [
     {
       "id": 118467,
@@ -30,20 +30,6 @@
       "startTime": "08:00:00 PM 03-10-2025"
     },
     {
-      "id": 137096,
-      "event_category": "Cricket",
-      "title": "Dehradun Warriors vs Rishikesh Falcons (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137096_5686_DHD_RIF_fc-web.jpg",
-      "team_1": "Dehradun Warriors",
-      "team_2": "Rishikesh Falcons",
-      "status": "LIVE",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Dehradun Warriors vs Rishikesh Falcons",
-      "startTime": "03:00:00 PM 03-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/W4Y9AaqTTFS-Y7eSGsiM2A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137096_english_hls_cae75d381776703ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136856,
       "event_category": "Golf",
       "title": "Day 2 vs Old Course St Andrews (Alfred Dunhill Links Championship)",
@@ -70,6 +56,20 @@
       "startTime": "05:30:00 PM 03-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/gMTF13qxQE2kxQx81uO7DQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137260_english_hls_c93e9eef7e11778ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136634,
+      "event_category": "Motorsports",
+      "title": "Free Practice 2 vs Germany (DTM Hockenheimring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Free Practice 2",
+      "team_2": "Germany",
+      "status": "LIVE",
+      "event_name": "DTM Hockenheimring",
+      "match_name": "Free Practice 2",
+      "startTime": "07:00:00 PM 03-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/b5sjv4EKR9SEzbdYYtGu3g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136634_english_hls_8cd229693456891ta-di_h264/index.m3u8"
     },
     {
       "id": 134014,
@@ -228,30 +228,6 @@
       "startTime": "12:00:00 AM 04-10-2025"
     },
     {
-      "id": 136634,
-      "event_category": "Motorsports",
-      "title": "Free Practice 2 vs Germany (DTM Hockenheimring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Free Practice 2",
-      "team_2": "Germany",
-      "status": "UPCOMING",
-      "event_name": "DTM Hockenheimring",
-      "match_name": "Free Practice 2",
-      "startTime": "07:00:00 PM 03-10-2025"
-    },
-    {
-      "id": 137007,
-      "event_category": "Football",
-      "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137007_CASACARDS_APP.png",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_2": "Machida Zelvia",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
-      "startTime": "12:30:00 PM 04-10-2025"
-    },
-    {
       "id": 136945,
       "event_category": "Football",
       "title": "Hull City vs Sheffield United F.C. (EFL Championship 2025-26)",
@@ -288,16 +264,16 @@
       "startTime": "05:20:00 PM 04-10-2025"
     },
     {
-      "id": 137005,
+      "id": 137007,
       "event_category": "Football",
-      "title": "Urawa Red Diamonds vs Vissel Kobe (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137005_CASACARDS_APP.png",
-      "team_1": "Urawa Red Diamonds",
-      "team_2": "Vissel Kobe",
+      "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137007_CASACARDS_APP.png",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_2": "Machida Zelvia",
       "status": "UPCOMING",
       "event_name": "J League 2025",
-      "match_name": "Urawa Red Diamonds vs Vissel Kobe",
-      "startTime": "01:30:00 PM 04-10-2025"
+      "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
+      "startTime": "12:30:00 PM 04-10-2025"
     },
     {
       "id": 130908,
@@ -310,6 +286,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs Levante",
       "startTime": "05:30:00 PM 04-10-2025"
+    },
+    {
+      "id": 137005,
+      "event_category": "Football",
+      "title": "Urawa Red Diamonds vs Vissel Kobe (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137005_CASACARDS_APP.png",
+      "team_1": "Urawa Red Diamonds",
+      "team_2": "Vissel Kobe",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Urawa Red Diamonds vs Vissel Kobe",
+      "startTime": "01:30:00 PM 04-10-2025"
     },
     {
       "id": 137006,
@@ -372,18 +360,6 @@
       "startTime": "01:30:00 AM 04-10-2025"
     },
     {
-      "id": 137410,
-      "event_category": "Live events",
-      "title": "Athletics vs District Sports Complex, Madurai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
-      "team_1": "Athletics",
-      "team_2": "District Sports Complex, Madurai",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Athletics",
-      "startTime": "06:30:00 AM 04-10-2025"
-    },
-    {
       "id": 137111,
       "event_category": "Football",
       "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
@@ -406,6 +382,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs RCD Mallorca",
       "startTime": "10:00:00 PM 04-10-2025"
+    },
+    {
+      "id": 137410,
+      "event_category": "Live events",
+      "title": "Athletics vs District Sports Complex, Madurai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+      "team_1": "Athletics",
+      "team_2": "District Sports Complex, Madurai",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Athletics",
+      "startTime": "06:30:00 AM 04-10-2025"
     },
     {
       "id": 137411,
