@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:05 AM 04-10-2025",
+  "last update time": "12:21 AM 04-10-2025",
   "matches": [
     {
-      "id": 136879,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-T20_Old-(1).jpg",
-      "team_1": "Afghanistan",
-      "team_2": "Bangladesh",
+      "id": 130907,
+      "event_category": "Football",
+      "title": "CA Osasuna vs Getafe CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130907_5427_OSN_GEF_fc-Web.jpg",
+      "team_1": "CA Osasuna",
+      "team_2": "Getafe CF",
       "status": "LIVE",
-      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
-      "match_name": "Afghanistan vs Bangladesh",
-      "startTime": "08:00:00 PM 03-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/SxPumDhNQgmhS6ggi8IqBg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136879_english_hls_e604dbb0ac62362ta-di_h264/index.m3u8"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Getafe CF",
+      "startTime": "12:30:00 AM 04-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130907_english_hls_49769ea5f314523adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130907_english_hls_49769ea5f314523adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136948,
+      "event_category": "Football",
+      "title": "Wrexham A.F.C. vs Birmingham City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136948_5489_WRX_BIR_fc-web.jpg",
+      "team_1": "Wrexham A.F.C.",
+      "team_2": "Birmingham City F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Wrexham A.F.C. vs Birmingham City F.C.",
+      "startTime": "12:30:00 AM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lMge1NBMTyGJu7ahdRdh7g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136948_english_hls_d620f2331843897ta-di_h264/index.m3u8"
     },
     {
       "id": 137112,
@@ -56,30 +70,6 @@
       "event_name": "Australia tour of New Zealand, 2025",
       "match_name": "New Zealand vs Australia",
       "startTime": "11:45:00 AM 04-10-2025"
-    },
-    {
-      "id": 130907,
-      "event_category": "Football",
-      "title": "CA Osasuna vs Getafe CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130907_5427_OSN_GEF_fc-Web.jpg",
-      "team_1": "CA Osasuna",
-      "team_2": "Getafe CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Getafe CF",
-      "startTime": "12:30:00 AM 04-10-2025"
-    },
-    {
-      "id": 136948,
-      "event_category": "Football",
-      "title": "Wrexham A.F.C. vs Birmingham City F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136948_5489_WRX_BIR_fc-web.jpg",
-      "team_1": "Wrexham A.F.C.",
-      "team_2": "Birmingham City F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Wrexham A.F.C. vs Birmingham City F.C.",
-      "startTime": "12:30:00 AM 04-10-2025"
     },
     {
       "id": 134014,
@@ -346,6 +336,42 @@
       "startTime": "01:30:00 AM 04-10-2025"
     },
     {
+      "id": 137468,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137468_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "New York Yankees",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs New York Yankees",
+      "startTime": "01:38:00 AM 04-10-2025"
+    },
+    {
+      "id": 137469,
+      "event_category": "Baseball",
+      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137469_CASACARDS_APP.png",
+      "team_1": "Philadelphia Phillies",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "startTime": "04:08:00 AM 04-10-2025"
+    },
+    {
+      "id": 137470,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137470_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "06:08:00 AM 04-10-2025"
+    },
+    {
       "id": 137410,
       "event_category": "Live events",
       "title": "Athletics vs District Sports Complex, Madurai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -428,30 +454,6 @@
       "event_name": "DTM Hockenheimring",
       "match_name": "Race 1",
       "startTime": "05:00:00 PM 04-10-2025"
-    },
-    {
-      "id": 119231,
-      "event_category": "MotoGP",
-      "title": "Day 2 vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Pertamina Mandalika Circuit",
-      "status": "UPCOMING",
-      "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
-      "match_name": "Indonesia GP",
-      "startTime": "06:10:00 PM 04-10-2025"
-    },
-    {
-      "id": 137293,
-      "event_category": "Cricket",
-      "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137293_5711_CHI_HGC_fc-Web.jpg",
-      "team_1": "Chicago CC",
-      "team_2": "Houston Generals CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Chicago CC vs Houston Generals CC",
-      "startTime": "04:30:00 AM 05-10-2025"
     }
   ]
 }
