@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:20 PM 04-10-2025",
+  "last update time": "01:42 PM 04-10-2025",
   "matches": [
     {
       "id": 136877,
@@ -30,20 +30,6 @@
       "startTime": "06:10:00 AM 04-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/NAanZ_uYTOe0R74mJfpgCg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119231_english_hls_114632ab807493ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 134015,
-      "event_category": "Cricket",
-      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
-      "team_1": "South Australia",
-      "team_2": "Victoria",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Victoria",
-      "startTime": "06:00:00 AM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/SKgMaTQ8ThiTIG_Y1Ru3bw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f55572ta-di_h264/index.m3u8"
     },
     {
       "id": 134016,
@@ -116,6 +102,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137007_english_hls_df4cd87e9055021ta-di_h264/index.m3u8"
     },
     {
+      "id": 137005,
+      "event_category": "Football",
+      "title": "Urawa Red Diamonds vs Vissel Kobe (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137005_CASACARDS_APP.png",
+      "team_1": "Urawa Red Diamonds",
+      "team_2": "Vissel Kobe",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Urawa Red Diamonds vs Vissel Kobe",
+      "startTime": "01:30:00 PM 04-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137005_english_hls_4a9683097049805ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137005_english_hls_4a9683097049805ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137411,
       "event_category": "Live events",
       "title": "Para Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -144,20 +144,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119134_english_hls_bc097454c680630adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 136635,
-      "event_category": "Motorsports",
-      "title": "Qualifying 1 vs Germany (DTM Hockenheimring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Qualifying 1",
-      "team_2": "Germany",
-      "status": "LIVE",
-      "event_name": "DTM Hockenheimring",
-      "match_name": "Qualifying 1",
-      "startTime": "01:05:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/-3tNdsMxRh-3iviMfzqQHA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136635_english_hls_1e143bb01f63830ta-di_h264/index.m3u8"
-    },
-    {
       "id": 134014,
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -170,16 +156,16 @@
       "startTime": "05:30:00 AM 04-10-2025"
     },
     {
-      "id": 137005,
-      "event_category": "Football",
-      "title": "Urawa Red Diamonds vs Vissel Kobe (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137005_CASACARDS_APP.png",
-      "team_1": "Urawa Red Diamonds",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Urawa Red Diamonds vs Vissel Kobe",
-      "startTime": "01:30:00 PM 04-10-2025"
+      "id": 134015,
+      "event_category": "Cricket",
+      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
+      "team_1": "South Australia",
+      "team_2": "Victoria",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Victoria",
+      "startTime": "06:00:00 AM 04-10-2025"
     },
     {
       "id": 136816,
@@ -444,6 +430,18 @@
       "event_name": "E1 Lagos GP",
       "match_name": "Session 2 - Qualifying Races",
       "startTime": "09:35:00 PM 04-10-2025"
+    },
+    {
+      "id": 136946,
+      "event_category": "Football",
+      "title": "Ipswich Town F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136946_5489_IPT_NOR_fc-web.jpg",
+      "team_1": "Ipswich Town F.C.",
+      "team_2": "Norwich City F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Ipswich Town F.C. vs Norwich City F.C.",
+      "startTime": "04:30:00 PM 05-10-2025"
     },
     {
       "id": 137475,
