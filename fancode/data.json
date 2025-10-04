@@ -1,8 +1,34 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 AM 04-10-2025",
+  "last update time": "07:09 AM 04-10-2025",
   "matches": [
+    {
+      "id": 119231,
+      "event_category": "MotoGP",
+      "title": "Day 2 vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Pertamina Mandalika Circuit",
+      "status": "LIVE",
+      "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
+      "match_name": "Day 2",
+      "startTime": "06:10:00 AM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/NAanZ_uYTOe0R74mJfpgCg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119231_english_hls_114632ab807493ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136877,
+      "event_category": "Cricket",
+      "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-New-.png",
+      "team_1": "New Zealand",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "Australia tour of New Zealand, 2025",
+      "match_name": "New Zealand vs Australia",
+      "startTime": "11:45:00 AM 04-10-2025"
+    },
     {
       "id": 134014,
       "event_category": "Cricket",
@@ -18,40 +44,46 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134014_english_hls_e37346407d36692ta-di_h264/index.m3u8"
     },
     {
-      "id": 136877,
-      "event_category": "Cricket",
-      "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-New-.png",
-      "team_1": "New Zealand",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "Australia tour of New Zealand, 2025",
-      "match_name": "New Zealand vs Australia",
-      "startTime": "11:45:00 AM 04-10-2025"
-    },
-    {
-      "id": 137292,
-      "event_category": "Cricket",
-      "title": "Dallas Lonestars CC vs Atlanta Kings CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137292_5711_DL_ATL_fc-Web.jpg",
-      "team_1": "Dallas Lonestars CC",
-      "team_2": "Atlanta Kings CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Dallas Lonestars CC vs Atlanta Kings CC",
-      "startTime": "05:30:00 AM 04-10-2025"
-    },
-    {
       "id": 134015,
       "event_category": "Cricket",
       "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
       "team_1": "South Australia",
       "team_2": "Victoria",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "South Australia vs Victoria",
-      "startTime": "06:00:00 AM 04-10-2025"
+      "startTime": "06:00:00 AM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/SKgMaTQ8ThiTIG_Y1Ru3bw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f55572ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137410,
+      "event_category": "Live events",
+      "title": "Athletics vs District Sports Complex, Madurai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_2.jpg",
+      "team_1": "Athletics",
+      "team_2": "District Sports Complex, Madurai",
+      "status": "LIVE",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Athletics",
+      "startTime": "06:30:00 AM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/dn5lx-7XTnG93R6Yt9vLWA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137410_english_hls_09fc73948423598ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137292,
+      "event_category": "Cricket",
+      "title": "Atlanta Kings CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137292_5711_DL_ATL_fc-Web.jpg",
+      "team_1": "Atlanta Kings CC",
+      "team_2": "Dallas Lonestars CC",
+      "status": "LIVE",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Atlanta Kings CC vs Dallas Lonestars CC",
+      "startTime": "05:30:00 AM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9OpqVuo9RJCE6Q8THi2TLw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137292_english_hls_3a8883e99189686ta-di_h264/index.m3u8"
     },
     {
       "id": 137339,
@@ -210,6 +242,18 @@
       "startTime": "10:00:00 PM 04-10-2025"
     },
     {
+      "id": 130903,
+      "event_category": "Football",
+      "title": "Real Madrid vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130903_5427_RM_VIL_fc-Web.jpg",
+      "team_1": "Real Madrid",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Villarreal CF",
+      "startTime": "12:30:00 AM 05-10-2025"
+    },
+    {
       "id": 137007,
       "event_category": "Football",
       "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
@@ -232,18 +276,6 @@
       "event_name": "J League 2025",
       "match_name": "Urawa Red Diamonds vs Vissel Kobe",
       "startTime": "01:30:00 PM 04-10-2025"
-    },
-    {
-      "id": 130903,
-      "event_category": "Football",
-      "title": "Real Madrid vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130903_5427_RM_VIL_fc-Web.jpg",
-      "team_1": "Real Madrid",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Villarreal CF",
-      "startTime": "12:30:00 AM 05-10-2025"
     },
     {
       "id": 137006,
@@ -306,22 +338,10 @@
       "startTime": "07:30:00 AM 05-10-2025"
     },
     {
-      "id": 137410,
-      "event_category": "Live events",
-      "title": "Athletics vs District Sports Complex, Madurai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
-      "team_1": "Athletics",
-      "team_2": "District Sports Complex, Madurai",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Athletics",
-      "startTime": "06:30:00 AM 04-10-2025"
-    },
-    {
       "id": 137411,
       "event_category": "Live events",
       "title": "Para Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_2.jpg",
       "team_1": "Para Badminton",
       "team_2": "TNPESU , Chengalpattu",
       "status": "UPCOMING",
@@ -390,18 +410,6 @@
       "startTime": "05:00:00 PM 04-10-2025"
     },
     {
-      "id": 119231,
-      "event_category": "MotoGP",
-      "title": "Day 2 vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Pertamina Mandalika Circuit",
-      "status": "UPCOMING",
-      "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
-      "match_name": "Indonesia GP",
-      "startTime": "06:10:00 PM 04-10-2025"
-    },
-    {
       "id": 118469,
       "event_category": "Formula 1",
       "title": "Qualifying vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
@@ -436,6 +444,18 @@
       "event_name": "E1 Lagos GP",
       "match_name": "Session 2 - Qualifying Races",
       "startTime": "09:35:00 PM 04-10-2025"
+    },
+    {
+      "id": 137475,
+      "event_category": "Baseball",
+      "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "Milwaukee Brewers",
+      "team_2": "Chicago Cubs",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Milwaukee Brewers vs Chicago Cubs",
+      "startTime": "11:38:00 PM 04-10-2025"
     }
   ]
 }
