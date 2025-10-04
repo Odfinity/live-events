@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:28 PM 04-10-2025",
+  "last update time": "07:52 PM 04-10-2025",
   "matches": [
-    {
-      "id": 130908,
-      "event_category": "Football",
-      "title": "Real Oviedo vs Levante (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130908_5427_RO_LE_fc-Web.jpg",
-      "team_1": "Real Oviedo",
-      "team_2": "Levante",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Oviedo vs Levante",
-      "startTime": "05:30:00 PM 04-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130908_english_hls_703288ce4f53545adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130908_english_hls_703288ce4f53545adfreeta-di_h264/index.m3u8"
-    },
     {
       "id": 118469,
       "event_category": "Formula 1",
@@ -60,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136815_english_hls_6f2b974eef71317ta-di_h264/index.m3u8"
     },
     {
-      "id": 137099,
-      "event_category": "Cricket",
-      "title": "Nainital Tigers vs Dehradun Warriors (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137091_5686_DHD_NLT_fc-web.jpg",
-      "team_1": "Nainital Tigers",
-      "team_2": "Dehradun Warriors",
-      "status": "LIVE",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "Nainital Tigers vs Dehradun Warriors",
-      "startTime": "07:30:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/X45C4SgsRCaG3Iptc7v8WA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137099_english_hls_4910ea76d431814ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136947,
       "event_category": "Football",
       "title": "Watford F.C. vs Oxford United (EFL Championship 2025-26)",
@@ -84,8 +56,8 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Watford F.C. vs Oxford United",
       "startTime": "07:30:00 PM 04-10-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/o4oaAA9TRTii7TNOSUaV3g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136947_english_hls_bc256ac1e594668ta-di_h264/index.m3u8"
     },
     {
       "id": 130902,
@@ -102,18 +74,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130902_english_hls_8584b6027760554adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 136857,
-      "event_category": "Golf",
-      "title": "Day 3 vs Old Course St Andrews (Alfred Dunhill Links Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Links-Championship_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Old Course St Andrews",
+      "id": 137099,
+      "event_category": "Cricket",
+      "title": "Nainital Tigers vs Dehradun Warriors (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137091_5686_DHD_NLT_fc-web.jpg",
+      "team_1": "Nainital Tigers",
+      "team_2": "Dehradun Warriors",
       "status": "LIVE",
-      "event_name": "Alfred Dunhill Links Championship",
-      "match_name": "Day 3",
-      "startTime": "04:30:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/IZEhSNc_St-Hyb8rY_pocg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136857_english_hls_2a8674b6dd22827ta-di_h264/index.m3u8"
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "Nainital Tigers vs Dehradun Warriors",
+      "startTime": "07:30:00 PM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/X45C4SgsRCaG3Iptc7v8WA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137099_english_hls_4910ea76d431814ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137111,
+      "event_category": "Football",
+      "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137111_5572_DEP_ALM_fc-web.jpg",
+      "team_1": "Deportivo de La Coruña",
+      "team_2": "Almería",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo de La Coruña vs Almería",
+      "startTime": "07:45:00 PM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Vjrr-YPzQ32Qqi_zrhLIRg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137111_english_hls_ef30425edd219ta-di_h264/index.m3u8"
     },
     {
       "id": 137199,
@@ -164,18 +150,6 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "New South Wales vs Western Australia",
       "startTime": "07:30:00 AM 04-10-2025"
-    },
-    {
-      "id": 137111,
-      "event_category": "Football",
-      "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137111_5572_DEP_ALM_fc-web.jpg",
-      "team_1": "Deportivo de La Coruña",
-      "team_2": "Almería",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo de La Coruña vs Almería",
-      "startTime": "07:45:00 PM 04-10-2025"
     },
     {
       "id": 130901,
@@ -310,6 +284,30 @@
       "startTime": "07:45:00 PM 05-10-2025"
     },
     {
+      "id": 130909,
+      "event_category": "Football",
+      "title": "Real Sociedad vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130909_5427_RS_RVL_fc-Web.jpg",
+      "team_1": "Real Sociedad",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs Rayo Vallecano",
+      "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 130906,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Real Betis (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130906_5427_ESL_RB_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Real Betis",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Real Betis",
+      "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
       "id": 137200,
       "event_category": "Motorsports",
       "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
@@ -356,30 +354,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs New York Yankees",
       "startTime": "01:38:00 AM 05-10-2025"
-    },
-    {
-      "id": 130909,
-      "event_category": "Football",
-      "title": "Real Sociedad vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130909_5427_RS_RVL_fc-Web.jpg",
-      "team_1": "Real Sociedad",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Sociedad vs Rayo Vallecano",
-      "startTime": "10:00:00 PM 05-10-2025"
-    },
-    {
-      "id": 130906,
-      "event_category": "Football",
-      "title": "RCD Espanyol vs Real Betis (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130906_5427_ESL_RB_fc-Web.jpg",
-      "team_1": "RCD Espanyol",
-      "team_2": "Real Betis",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Real Betis",
-      "startTime": "10:00:00 PM 05-10-2025"
     },
     {
       "id": 137469,
@@ -452,6 +426,30 @@
       "event_name": "DTM Hockenheimring",
       "match_name": "Qualifying 2",
       "startTime": "01:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 137110,
+      "event_category": "Football",
+      "title": "Racing de Santander vs Málaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137110_5572_RAC_MAG_fc-Web.jpg",
+      "team_1": "Racing de Santander",
+      "team_2": "Málaga",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Racing de Santander vs Málaga",
+      "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 130904,
+      "event_category": "Football",
+      "title": "RC Celta vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "RC Celta",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs Atletico de Madrid",
+      "startTime": "12:30:00 AM 06-10-2025"
     }
   ]
 }
