@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:00 PM 04-10-2025",
+  "last update time": "07:17 PM 04-10-2025",
   "matches": [
     {
       "id": 130908,
@@ -86,20 +86,6 @@
       "startTime": "06:55:00 PM 04-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/DEyjPZ5oTSuVXQ1J6iyssQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137199_english_hls_d87ad3756b61011ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136945,
-      "event_category": "Football",
-      "title": "Hull City vs Sheffield United F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136945_5489_HUL_SHF_fc-web.jpg",
-      "team_1": "Hull City",
-      "team_2": "Sheffield United F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Hull City vs Sheffield United F.C.",
-      "startTime": "05:00:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/OugApWUBQGq983MEO9PaPQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136945_english_hls_7b4ff00beb24898ta-di_h264/index.m3u8"
     },
     {
       "id": 137099,
@@ -198,18 +184,6 @@
       "startTime": "10:00:00 PM 04-10-2025"
     },
     {
-      "id": 130903,
-      "event_category": "Football",
-      "title": "Real Madrid vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130903_5427_RM_VIL_fc-Web.jpg",
-      "team_1": "Real Madrid",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Villarreal CF",
-      "startTime": "12:30:00 AM 05-10-2025"
-    },
-    {
       "id": 137293,
       "event_category": "Cricket",
       "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
@@ -220,6 +194,18 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Chicago CC vs Houston Generals CC",
       "startTime": "04:30:00 AM 05-10-2025"
+    },
+    {
+      "id": 130903,
+      "event_category": "Football",
+      "title": "Real Madrid vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130903_5427_RM_VIL_fc-Web.jpg",
+      "team_1": "Real Madrid",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Villarreal CF",
+      "startTime": "12:30:00 AM 05-10-2025"
     },
     {
       "id": 137294,
@@ -378,18 +364,6 @@
       "startTime": "04:08:00 AM 05-10-2025"
     },
     {
-      "id": 137470,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137470_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Detroit Tigers",
-      "startTime": "06:08:00 AM 05-10-2025"
-    },
-    {
       "id": 130909,
       "event_category": "Football",
       "title": "Real Sociedad vs Rayo Vallecano (LALIGA 2025-26)",
@@ -412,6 +386,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Espanyol vs Real Betis",
       "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 137470,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137470_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "06:08:00 AM 05-10-2025"
     },
     {
       "id": 119232,
@@ -448,6 +434,18 @@
       "event_name": "F1 ACADEMY SINGAPORE 2025",
       "match_name": "Feature Race",
       "startTime": "12:55:00 PM 05-10-2025"
+    },
+    {
+      "id": 136637,
+      "event_category": "Motorsports",
+      "title": "Qualifying 2 vs Germany (DTM Hockenheimring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Qualifying 2",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "DTM Hockenheimring",
+      "match_name": "Qualifying 2",
+      "startTime": "01:00:00 PM 05-10-2025"
     }
   ]
 }
