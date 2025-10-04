@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 PM 04-10-2025",
+  "last update time": "06:17 PM 04-10-2025",
   "matches": [
     {
       "id": 130908,
@@ -72,20 +72,6 @@
       "startTime": "05:00:00 PM 04-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/OugApWUBQGq983MEO9PaPQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136945_english_hls_7b4ff00beb24898ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137006,
-      "event_category": "Football",
-      "title": "Kyoto Sanga vs Kawasaki Frontale (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137006_CASACARDS_APP.png",
-      "team_1": "Kyoto Sanga",
-      "team_2": "Kawasaki Frontale",
-      "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Kyoto Sanga vs Kawasaki Frontale",
-      "startTime": "03:30:00 PM 04-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137006_english_hls_bd606507aa23548ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137006_english_hls_bd606507aa23548ta-di_h264/index.m3u8"
     },
     {
       "id": 136857,
@@ -260,16 +246,16 @@
       "startTime": "07:45:00 PM 04-10-2025"
     },
     {
-      "id": 137100,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Uttarakhand Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "id": 137199,
+      "event_category": "Motorsports",
+      "title": "Session 1 - Qualifying Time Trials vs Nigeria (E1 Lagos GP)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
+      "team_1": "Session 1 - Qualifying Time Trials",
+      "team_2": "Nigeria",
       "status": "UPCOMING",
-      "event_name": "Uttarakhand Premier League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "03:30:00 PM 05-10-2025"
+      "event_name": "E1 Lagos GP",
+      "match_name": "Session 1 - Qualifying Time Trials",
+      "startTime": "06:55:00 PM 04-10-2025"
     },
     {
       "id": 136880,
@@ -282,6 +268,18 @@
       "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
       "match_name": "Afghanistan vs Bangladesh",
       "startTime": "08:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 137100,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Uttarakhand Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Uttarakhand Premier League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "03:30:00 PM 05-10-2025"
     },
     {
       "id": 137004,
@@ -330,18 +328,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Sevilla FC vs FC Barcelona",
       "startTime": "07:45:00 PM 05-10-2025"
-    },
-    {
-      "id": 137199,
-      "event_category": "Motorsports",
-      "title": "Session 1 - Qualifying Time Trials vs Nigeria (E1 Lagos GP)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
-      "team_1": "Session 1 - Qualifying Time Trials",
-      "team_2": "Nigeria",
-      "status": "UPCOMING",
-      "event_name": "E1 Lagos GP",
-      "match_name": "Session 1 - Qualifying Time Trials",
-      "startTime": "06:55:00 PM 04-10-2025"
     },
     {
       "id": 137200,
@@ -428,18 +414,6 @@
       "startTime": "09:30:00 AM 05-10-2025"
     },
     {
-      "id": 137412,
-      "event_category": "Live events",
-      "title": "Football - Day 1 vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-      "team_1": "Football - Day 1",
-      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Football - Day 1",
-      "startTime": "10:30:00 AM 05-10-2025"
-    },
-    {
       "id": 130909,
       "event_category": "Football",
       "title": "Real Sociedad vs Rayo Vallecano (LALIGA 2025-26)",
@@ -450,6 +424,30 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Sociedad vs Rayo Vallecano",
       "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 130906,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Real Betis (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130906_5427_ESL_RB_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Real Betis",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Real Betis",
+      "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 137412,
+      "event_category": "Live events",
+      "title": "Football - Day 1 vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Football - Day 1",
+      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Football - Day 1",
+      "startTime": "10:30:00 AM 05-10-2025"
     }
   ]
 }
