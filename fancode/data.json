@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:56 PM 04-10-2025",
+  "last update time": "09:09 PM 04-10-2025",
   "matches": [
-    {
-      "id": 136815,
-      "event_category": "Cricket",
-      "title": "Namibia vs Zimbabwe (ICC Men's T20 WC Africa Regional Final, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/136815_CASACARDS_APP.png",
-      "team_1": "Namibia",
-      "team_2": "Zimbabwe",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-      "match_name": "Namibia vs Zimbabwe",
-      "startTime": "05:20:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/gEIqvTJxR82shmxurYHSqw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136815_english_hls_6f2b974eef71317ta-di_h264/index.m3u8"
-    },
     {
       "id": 137099,
       "event_category": "Cricket",
@@ -102,6 +88,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137199_english_hls_d87ad3756b61011ta-di_h264/index.m3u8"
     },
     {
+      "id": 130901,
+      "event_category": "Football",
+      "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
+      "team_1": "Athletic Club",
+      "team_2": "RCD Mallorca",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs RCD Mallorca",
+      "startTime": "10:00:00 PM 04-10-2025"
+    },
+    {
       "id": 134014,
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -148,18 +146,6 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Chicago CC vs Houston Generals CC",
       "startTime": "04:30:00 AM 05-10-2025"
-    },
-    {
-      "id": 130901,
-      "event_category": "Football",
-      "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
-      "team_1": "Athletic Club",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs RCD Mallorca",
-      "startTime": "10:00:00 PM 04-10-2025"
     },
     {
       "id": 130903,
@@ -234,18 +220,6 @@
       "startTime": "04:30:00 PM 05-10-2025"
     },
     {
-      "id": 137200,
-      "event_category": "Motorsports",
-      "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
-      "team_1": "Session 2 - Qualifying Races",
-      "team_2": "Nigeria",
-      "status": "UPCOMING",
-      "event_name": "E1 Lagos GP",
-      "match_name": "Session 2 - Qualifying Races",
-      "startTime": "09:35:00 PM 04-10-2025"
-    },
-    {
       "id": 130900,
       "event_category": "Football",
       "title": "Deportivo Alaves vs Elche CF (LALIGA 2025-26)",
@@ -256,6 +230,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Deportivo Alaves vs Elche CF",
       "startTime": "05:30:00 PM 05-10-2025"
+    },
+    {
+      "id": 137200,
+      "event_category": "Motorsports",
+      "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
+      "team_1": "Session 2 - Qualifying Races",
+      "team_2": "Nigeria",
+      "status": "UPCOMING",
+      "event_name": "E1 Lagos GP",
+      "match_name": "Session 2 - Qualifying Races",
+      "startTime": "09:35:00 PM 04-10-2025"
     },
     {
       "id": 137004,
@@ -378,18 +364,6 @@
       "startTime": "09:30:00 AM 05-10-2025"
     },
     {
-      "id": 137412,
-      "event_category": "Live events",
-      "title": "Football - Day 1 vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-      "team_1": "Football - Day 1",
-      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Football - Day 1",
-      "startTime": "10:30:00 AM 05-10-2025"
-    },
-    {
       "id": 137110,
       "event_category": "Football",
       "title": "Racing de Santander vs Málaga (LALIGA Hypermotion 2025-26)",
@@ -400,6 +374,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Racing de Santander vs Málaga",
       "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 137412,
+      "event_category": "Live events",
+      "title": "Football - Day 1 vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Football - Day 1",
+      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Football - Day 1",
+      "startTime": "10:30:00 AM 05-10-2025"
     },
     {
       "id": 130904,
@@ -448,6 +434,18 @@
       "event_name": "Alfred Dunhill Links Championship",
       "match_name": "Day 4",
       "startTime": "04:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 137201,
+      "event_category": "Motorsports",
+      "title": "Session 3 - Group Races vs Nigeria (E1 Lagos GP)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
+      "team_1": "Session 3 - Group Races",
+      "team_2": "Nigeria",
+      "status": "UPCOMING",
+      "event_name": "E1 Lagos GP",
+      "match_name": "Session 3 - Group Races",
+      "startTime": "04:20:00 PM 05-10-2025"
     }
   ]
 }
