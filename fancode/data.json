@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:21 AM 04-10-2025",
+  "last update time": "12:00 PM 04-10-2025",
   "matches": [
     {
       "id": 119231,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-New-.png",
       "team_1": "New Zealand",
       "team_2": "Australia",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Australia tour of New Zealand, 2025",
       "match_name": "New Zealand vs Australia",
-      "startTime": "11:45:00 AM 04-10-2025"
+      "startTime": "11:45:00 AM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-V33/master.m3u8?hdnea=exp=1759602024~acl=/*~id=93789066267537834908790394515783~hmac=ae4ffe1b21c7a08bbaeffbffacf33032a3682ca4d7e573b17d465f55eedb7ee6"
     },
     {
       "id": 134014,
@@ -112,6 +114,18 @@
       "startTime": "10:30:00 AM 04-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/YnnIAMfGT22CQpTkH-k6nQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137411_english_hls_d6e71a76ea44891ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137007,
+      "event_category": "Football",
+      "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137007_CASACARDS_APP.png",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_2": "Machida Zelvia",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
+      "startTime": "12:30:00 PM 04-10-2025"
     },
     {
       "id": 136814,
@@ -270,18 +284,6 @@
       "startTime": "06:30:00 AM 05-10-2025"
     },
     {
-      "id": 137007,
-      "event_category": "Football",
-      "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137007_CASACARDS_APP.png",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_2": "Machida Zelvia",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
-      "startTime": "12:30:00 PM 04-10-2025"
-    },
-    {
       "id": 137005,
       "event_category": "Football",
       "title": "Urawa Red Diamonds vs Vissel Kobe (J League 2025)",
@@ -306,18 +308,6 @@
       "startTime": "03:30:00 PM 04-10-2025"
     },
     {
-      "id": 137111,
-      "event_category": "Football",
-      "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137111_5572_DEP_ALM_fc-web.jpg",
-      "team_1": "Deportivo de La Coruña",
-      "team_2": "Almería",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo de La Coruña vs Almería",
-      "startTime": "07:45:00 PM 04-10-2025"
-    },
-    {
       "id": 137340,
       "event_category": "Cricket",
       "title": "Malaysia Women vs Nepal Women (Nepal Women tour of Malaysia, 2025)",
@@ -330,16 +320,16 @@
       "startTime": "07:30:00 AM 05-10-2025"
     },
     {
-      "id": 137004,
+      "id": 137111,
       "event_category": "Football",
-      "title": "Kashima Antlers vs Gamba Osaka (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137004_CASACARDS_APP.png",
-      "team_1": "Kashima Antlers",
-      "team_2": "Gamba Osaka",
+      "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137111_5572_DEP_ALM_fc-web.jpg",
+      "team_1": "Deportivo de La Coruña",
+      "team_2": "Almería",
       "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kashima Antlers vs Gamba Osaka",
-      "startTime": "11:30:00 AM 05-10-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo de La Coruña vs Almería",
+      "startTime": "07:45:00 PM 04-10-2025"
     },
     {
       "id": 119134,
@@ -352,6 +342,18 @@
       "event_name": "F1 ACADEMY SINGAPORE 2025",
       "match_name": "Sprint Race",
       "startTime": "12:30:00 PM 04-10-2025"
+    },
+    {
+      "id": 137004,
+      "event_category": "Football",
+      "title": "Kashima Antlers vs Gamba Osaka (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137004_CASACARDS_APP.png",
+      "team_1": "Kashima Antlers",
+      "team_2": "Gamba Osaka",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashima Antlers vs Gamba Osaka",
+      "startTime": "11:30:00 AM 05-10-2025"
     },
     {
       "id": 136635,
