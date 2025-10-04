@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:26 PM 04-10-2025",
+  "last update time": "10:49 PM 04-10-2025",
   "matches": [
     {
       "id": 130903,
@@ -44,20 +44,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130901_english_hls_0a159a5fc337141adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 137200,
-      "event_category": "Motorsports",
-      "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
-      "team_1": "Session 2 - Qualifying Races",
-      "team_2": "Nigeria",
-      "status": "LIVE",
-      "event_name": "E1 Lagos GP",
-      "match_name": "Session 2 - Qualifying Races",
-      "startTime": "09:35:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DrEBrEuPTFaQcjoThC7kUg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137200_english_hls_bfc68293ee50864ta-di_h264/index.m3u8"
-    },
-    {
       "id": 134014,
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -94,18 +80,6 @@
       "startTime": "07:30:00 AM 04-10-2025"
     },
     {
-      "id": 137293,
-      "event_category": "Cricket",
-      "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137293_5711_CHI_HGC_fc-Web.jpg",
-      "team_1": "Chicago CC",
-      "team_2": "Houston Generals CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Chicago CC vs Houston Generals CC",
-      "startTime": "04:30:00 AM 05-10-2025"
-    },
-    {
       "id": 136880,
       "event_category": "Cricket",
       "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
@@ -116,6 +90,18 @@
       "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
       "match_name": "Afghanistan vs Bangladesh",
       "startTime": "08:00:00 PM 05-10-2025"
+    },
+    {
+      "id": 137293,
+      "event_category": "Cricket",
+      "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137293_5711_CHI_HGC_fc-Web.jpg",
+      "team_1": "Chicago CC",
+      "team_2": "Houston Generals CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Chicago CC vs Houston Generals CC",
+      "startTime": "04:30:00 AM 05-10-2025"
     },
     {
       "id": 137294,
@@ -190,6 +176,18 @@
       "startTime": "11:30:00 AM 05-10-2025"
     },
     {
+      "id": 137475,
+      "event_category": "Baseball",
+      "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137475_CASACARDS_APP.png",
+      "team_1": "Milwaukee Brewers",
+      "team_2": "Chicago Cubs",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Milwaukee Brewers vs Chicago Cubs",
+      "startTime": "11:38:00 PM 04-10-2025"
+    },
+    {
       "id": 130905,
       "event_category": "Football",
       "title": "Sevilla FC vs FC Barcelona (LALIGA 2025-26)",
@@ -226,18 +224,6 @@
       "startTime": "10:00:00 PM 05-10-2025"
     },
     {
-      "id": 137110,
-      "event_category": "Football",
-      "title": "Racing de Santander vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137110_5572_RAC_MAG_fc-Web.jpg",
-      "team_1": "Racing de Santander",
-      "team_2": "Málaga",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing de Santander vs Málaga",
-      "startTime": "10:00:00 PM 05-10-2025"
-    },
-    {
       "id": 130904,
       "event_category": "Football",
       "title": "RC Celta vs Atletico de Madrid (LALIGA 2025-26)",
@@ -250,16 +236,16 @@
       "startTime": "12:30:00 AM 06-10-2025"
     },
     {
-      "id": 137475,
-      "event_category": "Baseball",
-      "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137475_CASACARDS_APP.png",
-      "team_1": "Milwaukee Brewers",
-      "team_2": "Chicago Cubs",
+      "id": 137110,
+      "event_category": "Football",
+      "title": "Racing de Santander vs Málaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137110_5572_RAC_MAG_fc-Web.jpg",
+      "team_1": "Racing de Santander",
+      "team_2": "Málaga",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Milwaukee Brewers vs Chicago Cubs",
-      "startTime": "11:38:00 PM 04-10-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Racing de Santander vs Málaga",
+      "startTime": "10:00:00 PM 05-10-2025"
     },
     {
       "id": 137261,
@@ -428,6 +414,18 @@
       "event_name": "E1 Lagos GP",
       "match_name": "Session 4 - Race Off",
       "startTime": "07:10:00 PM 05-10-2025"
+    },
+    {
+      "id": 137295,
+      "event_category": "Cricket",
+      "title": "Atlanta Kings CC vs New York Lions CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137295_5711_ATL_NYL_fc-Web.jpg",
+      "team_1": "Atlanta Kings CC",
+      "team_2": "New York Lions CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Atlanta Kings CC vs New York Lions CC",
+      "startTime": "04:30:00 AM 06-10-2025"
     },
     {
       "id": 137203,
