@@ -1,8 +1,20 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:21 PM 04-10-2025",
+  "last update time": "09:54 PM 04-10-2025",
   "matches": [
+    {
+      "id": 130903,
+      "event_category": "Football",
+      "title": "Real Madrid vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130903_5427_RM_VIL_fc-Web.jpg",
+      "team_1": "Real Madrid",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Villarreal CF",
+      "startTime": "12:30:00 AM 05-10-2025"
+    },
     {
       "id": 137099,
       "event_category": "Cricket",
@@ -16,20 +28,6 @@
       "startTime": "07:30:00 PM 04-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/X45C4SgsRCaG3Iptc7v8WA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137099_english_hls_4910ea76d431814ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136947,
-      "event_category": "Football",
-      "title": "Watford F.C. vs Oxford United (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136947_5489_WAT_OU_fc-web.jpg",
-      "team_1": "Watford F.C.",
-      "team_2": "Oxford United",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Watford F.C. vs Oxford United",
-      "startTime": "07:30:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/o4oaAA9TRTii7TNOSUaV3g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136947_english_hls_bc256ac1e594668ta-di_h264/index.m3u8"
     },
     {
       "id": 130902,
@@ -46,6 +44,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130902_english_hls_8584b6027760554adfreeta-di_h264/index.m3u8"
     },
     {
+      "id": 130901,
+      "event_category": "Football",
+      "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
+      "team_1": "Athletic Club",
+      "team_2": "RCD Mallorca",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs RCD Mallorca",
+      "startTime": "10:00:00 PM 04-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130901_english_hls_0a159a5fc337141adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130901_english_hls_0a159a5fc337141adfreeta-di_h264/index.m3u8"
+    },
+    {
       "id": 137111,
       "event_category": "Football",
       "title": "Deportivo de La Coruña vs Almería (LALIGA Hypermotion 2025-26)",
@@ -60,44 +72,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137111_english_hls_ef30425edd219ta-di_h264/index.m3u8"
     },
     {
-      "id": 118469,
-      "event_category": "Formula 1",
-      "title": "Qualifying vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Singapore_Old_match-card.jpg",
-      "team_1": "Qualifying",
-      "team_2": "Singapore",
-      "status": "LIVE",
-      "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025",
-      "match_name": "Qualifying",
-      "startTime": "06:30:00 PM 04-10-2025",
-      "dai_url": "https://dqdhwy7dt44bu.cloudfront.net/out/v1/6de63f8fad0740ff8841de4ea6e8bf05/index.m3u8",
-      "adfree_url": "https://dqdhwy7dt44bu.cloudfront.net/out/v1/6de63f8fad0740ff8841de4ea6e8bf05/index.m3u8"
-    },
-    {
-      "id": 137199,
+      "id": 137200,
       "event_category": "Motorsports",
-      "title": "Session 1 - Qualifying Time Trials vs Nigeria (E1 Lagos GP)",
+      "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
-      "team_1": "Session 1 - Qualifying Time Trials",
+      "team_1": "Session 2 - Qualifying Races",
       "team_2": "Nigeria",
       "status": "LIVE",
       "event_name": "E1 Lagos GP",
-      "match_name": "Session 1 - Qualifying Time Trials",
-      "startTime": "06:55:00 PM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DEyjPZ5oTSuVXQ1J6iyssQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137199_english_hls_d87ad3756b61011ta-di_h264/index.m3u8"
+      "match_name": "Session 2 - Qualifying Races",
+      "startTime": "09:35:00 PM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/DrEBrEuPTFaQcjoThC7kUg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137200_english_hls_bfc68293ee50864ta-di_h264/index.m3u8"
     },
     {
-      "id": 130901,
+      "id": 136947,
       "event_category": "Football",
-      "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
-      "team_1": "Athletic Club",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs RCD Mallorca",
-      "startTime": "10:00:00 PM 04-10-2025"
+      "title": "Watford F.C. vs Oxford United (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136947_5489_WAT_OU_fc-web.jpg",
+      "team_1": "Watford F.C.",
+      "team_2": "Oxford United",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Watford F.C. vs Oxford United",
+      "startTime": "07:30:00 PM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/o4oaAA9TRTii7TNOSUaV3g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136947_english_hls_bc256ac1e594668ta-di_h264/index.m3u8"
     },
     {
       "id": 134014,
@@ -146,18 +146,6 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Chicago CC vs Houston Generals CC",
       "startTime": "04:30:00 AM 05-10-2025"
-    },
-    {
-      "id": 130903,
-      "event_category": "Football",
-      "title": "Real Madrid vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130903_5427_RM_VIL_fc-Web.jpg",
-      "team_1": "Real Madrid",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Villarreal CF",
-      "startTime": "12:30:00 AM 05-10-2025"
     },
     {
       "id": 137294,
@@ -232,18 +220,6 @@
       "startTime": "05:30:00 PM 05-10-2025"
     },
     {
-      "id": 137200,
-      "event_category": "Motorsports",
-      "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
-      "team_1": "Session 2 - Qualifying Races",
-      "team_2": "Nigeria",
-      "status": "UPCOMING",
-      "event_name": "E1 Lagos GP",
-      "match_name": "Session 2 - Qualifying Races",
-      "startTime": "09:35:00 PM 04-10-2025"
-    },
-    {
       "id": 137004,
       "event_category": "Football",
       "title": "Kashima Antlers vs Gamba Osaka (J League 2025)",
@@ -292,6 +268,18 @@
       "startTime": "10:00:00 PM 05-10-2025"
     },
     {
+      "id": 137110,
+      "event_category": "Football",
+      "title": "Racing de Santander vs Málaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137110_5572_RAC_MAG_fc-Web.jpg",
+      "team_1": "Racing de Santander",
+      "team_2": "Málaga",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Racing de Santander vs Málaga",
+      "startTime": "10:00:00 PM 05-10-2025"
+    },
+    {
       "id": 137475,
       "event_category": "Baseball",
       "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
@@ -326,6 +314,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs New York Yankees",
       "startTime": "01:38:00 AM 05-10-2025"
+    },
+    {
+      "id": 130904,
+      "event_category": "Football",
+      "title": "RC Celta vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "RC Celta",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs Atletico de Madrid",
+      "startTime": "12:30:00 AM 06-10-2025"
     },
     {
       "id": 137469,
@@ -364,18 +364,6 @@
       "startTime": "06:30:00 AM 05-10-2025"
     },
     {
-      "id": 137110,
-      "event_category": "Football",
-      "title": "Racing de Santander vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137110_5572_RAC_MAG_fc-Web.jpg",
-      "team_1": "Racing de Santander",
-      "team_2": "Málaga",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing de Santander vs Málaga",
-      "startTime": "10:00:00 PM 05-10-2025"
-    },
-    {
       "id": 119232,
       "event_category": "MotoGP",
       "title": "Race Day vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
@@ -386,18 +374,6 @@
       "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
       "match_name": "Indonesia GP",
       "startTime": "09:30:00 AM 05-10-2025"
-    },
-    {
-      "id": 130904,
-      "event_category": "Football",
-      "title": "RC Celta vs Atletico de Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "RC Celta",
-      "team_2": "Atletico de Madrid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs Atletico de Madrid",
-      "startTime": "12:30:00 AM 06-10-2025"
     },
     {
       "id": 119135,
@@ -424,6 +400,18 @@
       "startTime": "01:00:00 PM 05-10-2025"
     },
     {
+      "id": 137518,
+      "event_category": "Live events",
+      "title": "Football vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Football",
+      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Football",
+      "startTime": "03:00:00 PM 05-10-2025"
+    },
+    {
       "id": 136858,
       "event_category": "Golf",
       "title": "Day 4 vs Old Course St Andrews (Alfred Dunhill Links Championship)",
@@ -446,6 +434,18 @@
       "event_name": "E1 Lagos GP",
       "match_name": "Session 3 - Group Races",
       "startTime": "04:20:00 PM 05-10-2025"
+    },
+    {
+      "id": 136638,
+      "event_category": "Motorsports",
+      "title": "Race 2 vs Germany (DTM Hockenheimring)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+      "team_1": "Race 2",
+      "team_2": "Germany",
+      "status": "UPCOMING",
+      "event_name": "DTM Hockenheimring",
+      "match_name": "Race 2",
+      "startTime": "05:00:00 PM 05-10-2025"
     }
   ]
 }
