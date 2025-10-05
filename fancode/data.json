@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:20 PM 05-10-2025",
+  "last update time": "01:42 PM 05-10-2025",
   "matches": [
     {
       "id": 119232,
@@ -94,20 +94,6 @@
       "startTime": "12:55:00 PM 05-10-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119135_english_hls_db588a35e499126adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119135_english_hls_db588a35e499126adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136637,
-      "event_category": "Motorsports",
-      "title": "Qualifying 2 vs Germany (DTM Hockenheimring)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-      "team_1": "Qualifying 2",
-      "team_2": "Germany",
-      "status": "LIVE",
-      "event_name": "DTM Hockenheimring",
-      "match_name": "Qualifying 2",
-      "startTime": "01:00:00 PM 05-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/stl9QiW_QUS-Mi-QV175Zw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136637_english_hls_0419c399c281253ta-di_h264/index.m3u8"
     },
     {
       "id": 134014,
@@ -353,7 +339,7 @@
       "id": 137280,
       "event_category": "Horse Racing",
       "title": "Qatar Prix de l’Arc de Triomphe vs Paris Longchamp Racecourse (Qatar Prix de l’Arc de Triomphe)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Horse-Racing-1440-x-360.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-Prix-de-IArc-de-Triomphe_Old_match-card.jpg",
       "team_1": "Qatar Prix de l’Arc de Triomphe",
       "team_2": "Paris Longchamp Racecourse",
       "status": "UPCOMING",
@@ -456,6 +442,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Milwaukee Brewers vs Chicago Cubs",
       "startTime": "06:38:00 AM 07-10-2025"
+    },
+    {
+      "id": 137417,
+      "event_category": "Live events",
+      "title": "Para Athletics (Intellectual Disability) vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Para Athletics (Intellectual Disability)",
+      "team_2": "TNPESU , Chengalpattu",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Para Athletics (Intellectual Disability)",
+      "startTime": "10:30:00 AM 07-10-2025"
     }
   ]
 }
