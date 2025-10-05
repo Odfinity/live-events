@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:36 AM 05-10-2025",
+  "last update time": "08:43 AM 05-10-2025",
   "matches": [
+    {
+      "id": 119232,
+      "event_category": "MotoGP",
+      "title": "Race Day vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
+      "team_1": "Race Day",
+      "team_2": "Pertamina Mandalika Circuit",
+      "status": "LIVE",
+      "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
+      "match_name": "Race Day",
+      "startTime": "09:30:00 AM 05-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9H2fAKshT4mMSvozk6CD8w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119232_english_hls_7894f0f16030146ta-di_h264/index.m3u8"
+    },
     {
       "id": 134014,
       "event_category": "Cricket",
@@ -32,18 +46,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f48747ta-di_h264/index.m3u8"
     },
     {
-      "id": 137294,
+      "id": 134016,
       "event_category": "Cricket",
-      "title": "New York Lions CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137294_5711_NYL_LAW_fc-Web.jpg",
-      "team_1": "New York Lions CC",
-      "team_2": "Los Angeles Waves CC",
+      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
+      "team_1": "New South Wales",
+      "team_2": "Western Australia",
       "status": "LIVE",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "New York Lions CC vs Los Angeles Waves CC",
-      "startTime": "06:30:00 AM 05-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yp8w3VYAT-m08KPEmB7tog/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137294_english_hls_53f425f70e70166ta-di_h264/index.m3u8"
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Western Australia",
+      "startTime": "07:30:00 AM 04-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/3G950IswTPew-EtDQ688tw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb70852ta-di_h264/index.m3u8"
     },
     {
       "id": 137340,
@@ -58,20 +72,6 @@
       "startTime": "07:30:00 AM 05-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/3sdPvm1XQQ6y5cN9q_dAtg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137340_english_hls_2a7d22d64547666ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 134016,
-      "event_category": "Cricket",
-      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Western Australia",
-      "startTime": "07:30:00 AM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/3G950IswTPew-EtDQ688tw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb70852ta-di_h264/index.m3u8"
     },
     {
       "id": 137470,
@@ -100,20 +100,6 @@
       "startTime": "06:30:00 AM 05-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Y8_9oxugRf6uPrTDBxFJmQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137412_english_hls_61ef07ec2981153ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 119232,
-      "event_category": "MotoGP",
-      "title": "Race Day vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
-      "team_1": "Race Day",
-      "team_2": "Pertamina Mandalika Circuit",
-      "status": "LIVE",
-      "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
-      "match_name": "Indonesia GP",
-      "startTime": "09:30:00 AM 05-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9H2fAKshT4mMSvozk6CD8w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119232_english_hls_7894f0f16030146ta-di_h264/index.m3u8"
     },
     {
       "id": 136880,
@@ -392,6 +378,18 @@
       "startTime": "03:38:00 AM 06-10-2025"
     },
     {
+      "id": 137413,
+      "event_category": "Live events",
+      "title": "Football vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Football",
+      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Football",
+      "startTime": "10:30:00 AM 06-10-2025"
+    },
+    {
       "id": 137325,
       "event_category": "Motorsports",
       "title": "F1 Kids vs Singapore (F1 Kids)",
@@ -416,18 +414,6 @@
       "startTime": "07:00:00 PM 05-10-2025"
     },
     {
-      "id": 137413,
-      "event_category": "Live events",
-      "title": "Football vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-      "team_1": "Football",
-      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Football",
-      "startTime": "10:30:00 AM 06-10-2025"
-    },
-    {
       "id": 137109,
       "event_category": "Football",
       "title": "Cultural Leonesa vs Albacete (LALIGA Hypermotion 2025-26)",
@@ -450,6 +436,30 @@
       "event_name": "League Two 2025-26",
       "match_name": "Harrogate Town vs Crewe Alexandra",
       "startTime": "12:30:00 AM 07-10-2025"
+    },
+    {
+      "id": 137297,
+      "event_category": "Cricket",
+      "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137297_5711_CHI_HGC_fc-Web.jpg",
+      "team_1": "Chicago CC",
+      "team_2": "Houston Generals CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Chicago CC vs Houston Generals CC",
+      "startTime": "04:30:00 AM 07-10-2025"
+    },
+    {
+      "id": 137298,
+      "event_category": "Cricket",
+      "title": "Los Angeles Waves CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137298_5711_LAW_DL_fc-Web.jpg",
+      "team_1": "Los Angeles Waves CC",
+      "team_2": "Dallas Lonestars CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Los Angeles Waves CC vs Dallas Lonestars CC",
+      "startTime": "06:30:00 AM 07-10-2025"
     }
   ]
 }
