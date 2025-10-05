@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:04 AM 06-10-2025",
+  "last update time": "04:17 AM 06-10-2025",
   "matches": [
     {
       "id": 137471,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137295_5711_ATL_NYL_fc-Web.jpg",
       "team_1": "Atlanta Kings CC",
       "team_2": "New York Lions CC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Atlanta Kings CC vs New York Lions CC",
-      "startTime": "04:30:00 AM 06-10-2025"
+      "startTime": "04:30:00 AM 06-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/-Nbpd9ouSHaXj0wIwhBpLA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137295_english_hls_3bc0f8fad543220ta-di_h264/index.m3u8"
     },
     {
       "id": 134014,
@@ -126,6 +128,18 @@
       "startTime": "06:30:00 AM 07-10-2025"
     },
     {
+      "id": 137472,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "05:33:00 AM 06-10-2025"
+    },
+    {
       "id": 137413,
       "event_category": "Live events",
       "title": "Football vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -136,18 +150,6 @@
       "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
       "match_name": "Football",
       "startTime": "06:30:00 AM 06-10-2025"
-    },
-    {
-      "id": 137472,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Detroit Tigers",
-      "startTime": "05:33:00 PM 06-10-2025"
     },
     {
       "id": 137341,
