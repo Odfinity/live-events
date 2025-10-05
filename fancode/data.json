@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:26 PM 05-10-2025",
+  "last update time": "10:49 PM 05-10-2025",
   "matches": [
     {
       "id": 136880,
@@ -60,20 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137110_english_hls_bc6a6cf0b959837ta-di_h264/index.m3u8"
     },
     {
-      "id": 130905,
-      "event_category": "Football",
-      "title": "Sevilla FC vs FC Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130905_5427_SEV_BAR_fc-Web.jpg",
-      "team_1": "Sevilla FC",
-      "team_2": "FC Barcelona",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs FC Barcelona",
-      "startTime": "07:45:00 PM 05-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130905_english_hls_a7aba932ac66270adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130905_english_hls_a7aba932ac66270adfreeta-di_h264/index.m3u8"
-    },
-    {
       "id": 134014,
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -122,18 +108,6 @@
       "startTime": "04:30:00 AM 06-10-2025"
     },
     {
-      "id": 130904,
-      "event_category": "Football",
-      "title": "RC Celta vs Atletico de Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Getafe-VS-Real-Oviedo_Old_match-card.jpg",
-      "team_1": "RC Celta",
-      "team_2": "Atletico de Madrid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs Atletico de Madrid",
-      "startTime": "12:30:00 AM 06-10-2025"
-    },
-    {
       "id": 137296,
       "event_category": "Cricket",
       "title": "Chicago CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
@@ -144,6 +118,18 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Chicago CC vs Los Angeles Waves CC",
       "startTime": "06:30:00 AM 06-10-2025"
+    },
+    {
+      "id": 130904,
+      "event_category": "Football",
+      "title": "RC Celta vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Getafe-VS-Real-Oviedo_Old_match-card.jpg",
+      "team_1": "RC Celta",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs Atletico de Madrid",
+      "startTime": "12:30:00 AM 06-10-2025"
     },
     {
       "id": 137471,
@@ -467,6 +453,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "Nepal vs Kuwait",
+      "startTime": "08:30:00 PM 08-10-2025"
+    },
+    {
+      "id": 137124,
+      "event_category": "Football",
+      "title": "Oman vs Qatar (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Oman",
+      "team_2": "Qatar",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Oman vs Qatar",
       "startTime": "08:30:00 PM 08-10-2025"
     }
   ]
