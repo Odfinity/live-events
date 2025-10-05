@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:51 AM 06-10-2025",
+  "last update time": "03:08 AM 06-10-2025",
   "matches": [
-    {
-      "id": 130904,
-      "event_category": "Football",
-      "title": "RC Celta vs Atletico de Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Getafe-VS-Real-Oviedo_Old_match-card.jpg",
-      "team_1": "RC Celta",
-      "team_2": "Atletico de Madrid",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs Atletico de Madrid",
-      "startTime": "12:30:00 AM 06-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130904_english_hls_28732ae6dc33080adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130904_english_hls_28732ae6dc33080adfreeta-di_h264/index.m3u8"
-    },
     {
       "id": 137471,
       "event_category": "Baseball",
@@ -140,18 +126,6 @@
       "startTime": "06:30:00 AM 06-10-2025"
     },
     {
-      "id": 137472,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Detroit Tigers",
-      "startTime": "05:33:00 PM 06-10-2025"
-    },
-    {
       "id": 137298,
       "event_category": "Cricket",
       "title": "Los Angeles Waves CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
@@ -162,6 +136,18 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Los Angeles Waves CC vs Dallas Lonestars CC",
       "startTime": "06:30:00 AM 07-10-2025"
+    },
+    {
+      "id": 137472,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "05:33:00 PM 06-10-2025"
     },
     {
       "id": 137341,
@@ -449,6 +435,18 @@
       "status": "UPCOMING",
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Mauritius vs Cameroon",
+      "startTime": "06:30:00 PM 08-10-2025"
+    },
+    {
+      "id": 137346,
+      "event_category": "Football",
+      "title": "Ethiopia vs Guinea-Bissau (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Ethiopia",
+      "team_2": "Guinea-Bissau",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Ethiopia vs Guinea-Bissau",
       "startTime": "06:30:00 PM 08-10-2025"
     }
   ]
