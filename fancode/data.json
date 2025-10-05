@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:20 PM 05-10-2025",
+  "last update time": "08:48 PM 05-10-2025",
   "matches": [
     {
       "id": 136880,
@@ -88,20 +88,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137203_english_hls_fb619f92aa46922ta-di_h264/index.m3u8"
     },
     {
-      "id": 137280,
-      "event_category": "Horse Racing",
-      "title": "Qatar Prix de l’Arc de Triomphe vs Paris Longchamp Racecourse (Qatar Prix de l’Arc de Triomphe)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-Prix-de-IArc-de-Triomphe_Old_match-card.jpg",
-      "team_1": "Qatar Prix de l’Arc de Triomphe",
-      "team_2": "Paris Longchamp Racecourse",
-      "status": "LIVE",
-      "event_name": "Qatar Prix de l’Arc de Triomphe",
-      "match_name": "Qatar Prix de l’Arc de Triomphe",
-      "startTime": "07:00:00 PM 05-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/egKxi6cvT4mkrqKirbQbxg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137280_english_hls_0b8941cdbc84363ta-di_h264/index.m3u8"
-    },
-    {
       "id": 134014,
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -138,6 +124,18 @@
       "startTime": "07:30:00 AM 04-10-2025"
     },
     {
+      "id": 137295,
+      "event_category": "Cricket",
+      "title": "Atlanta Kings CC vs New York Lions CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137295_5711_ATL_NYL_fc-Web.jpg",
+      "team_1": "Atlanta Kings CC",
+      "team_2": "New York Lions CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Atlanta Kings CC vs New York Lions CC",
+      "startTime": "04:30:00 AM 06-10-2025"
+    },
+    {
       "id": 130909,
       "event_category": "Football",
       "title": "Real Sociedad vs Rayo Vallecano (LALIGA 2025-26)",
@@ -160,18 +158,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Espanyol vs Real Betis",
       "startTime": "10:00:00 PM 05-10-2025"
-    },
-    {
-      "id": 137295,
-      "event_category": "Cricket",
-      "title": "Atlanta Kings CC vs New York Lions CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137295_5711_ATL_NYL_fc-Web.jpg",
-      "team_1": "Atlanta Kings CC",
-      "team_2": "New York Lions CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Atlanta Kings CC vs New York Lions CC",
-      "startTime": "04:30:00 AM 06-10-2025"
     },
     {
       "id": 130904,
@@ -234,18 +220,6 @@
       "startTime": "06:30:00 AM 06-10-2025"
     },
     {
-      "id": 137472,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Detroit Tigers",
-      "startTime": "05:33:00 PM 06-10-2025"
-    },
-    {
       "id": 137109,
       "event_category": "Football",
       "title": "Cultural Leonesa vs Albacete (LALIGA Hypermotion 2025-26)",
@@ -256,6 +230,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Cultural Leonesa vs Albacete",
       "startTime": "12:00:00 AM 07-10-2025"
+    },
+    {
+      "id": 137472,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "05:33:00 PM 06-10-2025"
     },
     {
       "id": 136998,
@@ -472,6 +458,18 @@
       "event_name": "Nepal Women tour of Malaysia, 2025",
       "match_name": "Malaysia Women vs Nepal Women",
       "startTime": "07:30:00 AM 08-10-2025"
+    },
+    {
+      "id": 137174,
+      "event_category": "Cricket",
+      "title": "Oman vs Samoa (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Oman",
+      "team_2": "Samoa",
+      "status": "UPCOMING",
+      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "match_name": "Oman vs Samoa",
+      "startTime": "11:30:00 AM 08-10-2025"
     }
   ]
 }
