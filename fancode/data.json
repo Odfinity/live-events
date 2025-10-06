@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:22 AM 06-10-2025",
+  "last update time": "09:56 AM 06-10-2025",
   "matches": [
     {
       "id": 134014,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb79240ta-di_h264/index.m3u8"
     },
     {
-      "id": 137413,
-      "event_category": "Live events",
-      "title": "Football vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-      "team_1": "Football",
-      "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
-      "status": "LIVE",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Football",
-      "startTime": "06:30:00 AM 06-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/-rXbvYadSMK6ssYnTFdpuQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137413_english_hls_ac3a6a620b3768ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137297,
       "event_category": "Cricket",
       "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
@@ -72,18 +58,6 @@
       "startTime": "04:30:00 AM 07-10-2025"
     },
     {
-      "id": 137109,
-      "event_category": "Football",
-      "title": "Cultural Leonesa vs Albacete (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137109_5572_CL_ALB_fc-Web.jpg",
-      "team_1": "Cultural Leonesa",
-      "team_2": "Albacete",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Cultural Leonesa vs Albacete",
-      "startTime": "12:00:00 AM 07-10-2025"
-    },
-    {
       "id": 137298,
       "event_category": "Cricket",
       "title": "Los Angeles Waves CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
@@ -94,6 +68,18 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Los Angeles Waves CC vs Dallas Lonestars CC",
       "startTime": "06:30:00 AM 07-10-2025"
+    },
+    {
+      "id": 137109,
+      "event_category": "Football",
+      "title": "Cultural Leonesa vs Albacete (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137109_5572_CL_ALB_fc-Web.jpg",
+      "team_1": "Cultural Leonesa",
+      "team_2": "Albacete",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Cultural Leonesa vs Albacete",
+      "startTime": "12:00:00 AM 07-10-2025"
     },
     {
       "id": 136998,
@@ -454,6 +440,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Dubai vs Fujairah",
       "startTime": "11:00:00 PM 08-10-2025"
+    },
+    {
+      "id": 137456,
+      "event_category": "Football",
+      "title": "St. Pölten Women vs Atlético de Madrid Femenino (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "St. Pölten Women",
+      "team_2": "Atlético de Madrid Femenino",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "St. Pölten Women vs Atlético de Madrid Femenino",
+      "startTime": "12:30:00 AM 09-10-2025"
     }
   ]
 }
