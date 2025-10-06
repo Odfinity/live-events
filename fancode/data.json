@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 06-10-2025",
+  "last update time": "02:03 PM 06-10-2025",
   "matches": [
-    {
-      "id": 134015,
-      "event_category": "Cricket",
-      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
-      "team_1": "South Australia",
-      "team_2": "Victoria",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Victoria",
-      "startTime": "06:00:00 AM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/T32D_YccQYWyU0ihm99QjA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f36568ta-di_h264/index.m3u8"
-    },
     {
       "id": 134016,
       "event_category": "Cricket",
@@ -42,6 +28,18 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "Tasmania vs Queensland",
       "startTime": "05:30:00 AM 04-10-2025"
+    },
+    {
+      "id": 134015,
+      "event_category": "Cricket",
+      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
+      "team_1": "South Australia",
+      "team_2": "Victoria",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Victoria",
+      "startTime": "06:00:00 AM 04-10-2025"
     },
     {
       "id": 137297,
@@ -128,6 +126,18 @@
       "startTime": "06:38:00 AM 07-10-2025"
     },
     {
+      "id": 137479,
+      "event_category": "Cricket",
+      "title": "Sharjah vs Fujairah (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137479_5722_SHA_FUJ_fc-web.jpg",
+      "team_1": "Sharjah",
+      "team_2": "Fujairah",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Sharjah vs Fujairah",
+      "startTime": "07:00:00 PM 07-10-2025"
+    },
+    {
       "id": 137417,
       "event_category": "Live events",
       "title": "Para Athletics (Intellectual Disability) vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -150,18 +160,6 @@
       "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
       "match_name": "Beach Volleyball",
       "startTime": "10:30:00 AM 07-10-2025"
-    },
-    {
-      "id": 137479,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Fujairah (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137479_5722_SHA_FUJ_fc-web.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Fujairah",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Sharjah vs Fujairah",
-      "startTime": "07:00:00 PM 07-10-2025"
     },
     {
       "id": 137443,
