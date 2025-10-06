@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:27 AM 07-10-2025",
+  "last update time": "02:52 AM 07-10-2025",
   "matches": [
-    {
-      "id": 136998,
-      "event_category": "Football",
-      "title": "Harrogate Town vs Crewe Alexandra (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Harrogate Town",
-      "team_2": "Crewe Alexandra",
-      "status": "LIVE",
-      "event_name": "League Two 2025-26",
-      "match_name": "Harrogate Town vs Crewe Alexandra",
-      "startTime": "12:30:00 AM 07-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/B0oDHa7-TnS2s_xz_1C06g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136998_english_hls_808642b15c6526ta-di_h264/index.m3u8"
-    },
     {
       "id": 134014,
       "event_category": "Cricket",
@@ -126,6 +112,18 @@
       "startTime": "11:00:00 PM 07-10-2025"
     },
     {
+      "id": 137473,
+      "event_category": "Baseball",
+      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137473_CASACARDS_APP.png",
+      "team_1": "Philadelphia Phillies",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "startTime": "03:38:00 AM 07-10-2025"
+    },
+    {
       "id": 137445,
       "event_category": "Football",
       "title": "Arsenal Women vs OL Lyonnes Women (UEFA Women's Champions League 2025-26)",
@@ -184,18 +182,6 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Atlanta Kings CC vs Houston Generals CC",
       "startTime": "04:30:00 AM 08-10-2025"
-    },
-    {
-      "id": 137473,
-      "event_category": "Baseball",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137473_CASACARDS_APP.png",
-      "team_1": "Philadelphia Phillies",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "startTime": "03:38:00 AM 07-10-2025"
     },
     {
       "id": 137474,
@@ -460,6 +446,18 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Manchester United Women vs Vålerenga Women",
       "startTime": "12:30:00 AM 09-10-2025"
+    },
+    {
+      "id": 137358,
+      "event_category": "Football",
+      "title": "Sierra Leone vs Burkina Faso (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Sierra Leone",
+      "team_2": "Burkina Faso",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Sierra Leone vs Burkina Faso",
+      "startTime": "09:30:00 PM 08-10-2025"
     }
   ]
 }
