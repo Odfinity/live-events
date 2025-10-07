@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:27 AM 08-10-2025",
+  "last update time": "04:52 AM 08-10-2025",
   "matches": [
+    {
+      "id": 133956,
+      "event_category": "Cricket",
+      "title": "Victoria Women vs Tasmania Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "team_1": "Victoria Women",
+      "team_2": "Tasmania Women",
+      "status": "LIVE",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Victoria Women vs Tasmania Women",
+      "startTime": "04:30:00 AM 08-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/7ZAZj3duQFiRVeAlmp3rhg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133956_english_hls_b273a6325b91748ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137299,
+      "event_category": "Cricket",
+      "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137299_5711_ATL_HGC_fc-Web.jpg",
+      "team_1": "Chicago CC",
+      "team_2": "Houston Generals CC",
+      "status": "LIVE",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Chicago CC vs Houston Generals CC",
+      "startTime": "04:30:00 AM 08-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ABfZgfSIQmm41w7j2-Qdew/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137299_english_hls_1a7e376b0460218ta-di_h264/index.m3u8"
+    },
     {
       "id": 137570,
       "event_category": "Baseball",
@@ -28,30 +56,6 @@
       "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
       "match_name": "Afghanistan vs Bangladesh",
       "startTime": "05:30:00 PM 08-10-2025"
-    },
-    {
-      "id": 133956,
-      "event_category": "Cricket",
-      "title": "Victoria Women vs Tasmania Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
-      "team_1": "Victoria Women",
-      "team_2": "Tasmania Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Victoria Women vs Tasmania Women",
-      "startTime": "04:30:00 AM 08-10-2025"
-    },
-    {
-      "id": 137299,
-      "event_category": "Cricket",
-      "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137299_5711_ATL_HGC_fc-Web.jpg",
-      "team_1": "Chicago CC",
-      "team_2": "Houston Generals CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Chicago CC vs Houston Generals CC",
-      "startTime": "04:30:00 AM 08-10-2025"
     },
     {
       "id": 137300,
@@ -282,6 +286,18 @@
       "startTime": "06:30:00 PM 08-10-2025"
     },
     {
+      "id": 137571,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137571_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "New York Yankees",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs New York Yankees",
+      "startTime": "05:38:00 AM 08-10-2025"
+    },
+    {
       "id": 137358,
       "event_category": "Football",
       "title": "Sierra Leone vs Burkina Faso (CAF World Cup Qualifiers)",
@@ -342,6 +358,18 @@
       "startTime": "09:30:00 PM 08-10-2025"
     },
     {
+      "id": 137423,
+      "event_category": "Cricket",
+      "title": "Montreal Royal Tigers vs Mississauga Masters (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137423_5719_MRT_MGM_fc-Web.jpg",
+      "team_1": "Montreal Royal Tigers",
+      "team_2": "Mississauga Masters",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Montreal Royal Tigers vs Mississauga Masters",
+      "startTime": "08:00:00 AM 09-10-2025"
+    },
+    {
       "id": 137365,
       "event_category": "Football",
       "title": "Niger vs Congo (CAF World Cup Qualifiers)",
@@ -378,18 +406,6 @@
       "startTime": "04:30:00 AM 09-10-2025"
     },
     {
-      "id": 137423,
-      "event_category": "Cricket",
-      "title": "Montreal Royal Tigers vs Mississauga Masters (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137423_5719_MRT_MGM_fc-Web.jpg",
-      "team_1": "Montreal Royal Tigers",
-      "team_2": "Mississauga Masters",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Montreal Royal Tigers vs Mississauga Masters",
-      "startTime": "08:00:00 AM 09-10-2025"
-    },
-    {
       "id": 133934,
       "event_category": "Cricket",
       "title": "South Australia vs Victoria (One Day Cup, 2025-26)",
@@ -424,18 +440,6 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "New York Lions CC vs Los Angeles Waves CC",
       "startTime": "06:30:00 AM 09-10-2025"
-    },
-    {
-      "id": 137571,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137571_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "New York Yankees",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs New York Yankees",
-      "startTime": "05:38:00 AM 08-10-2025"
     },
     {
       "id": 137569,
