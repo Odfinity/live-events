@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:15 PM 07-10-2025",
+  "last update time": "09:27 PM 07-10-2025",
   "matches": [
     {
       "id": 137443,
@@ -18,13 +18,13 @@
     {
       "id": 137479,
       "event_category": "Cricket",
-      "title": "Sharjah vs Fujairah (Emirates D20 Tournament, 2025)",
+      "title": "Fujairah vs Sharjah (Emirates D20 Tournament, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137479_5722_SHA_FUJ_fc-web.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Fujairah",
+      "team_1": "Fujairah",
+      "team_2": "Sharjah",
       "status": "LIVE",
       "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Sharjah vs Fujairah",
+      "match_name": "Fujairah vs Sharjah",
       "startTime": "07:00:00 PM 07-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/n52xk_ZURaOBOOPUlxHPEQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137479_english_hls_9e93f8161648795ta-di_h264/index.m3u8"
@@ -294,18 +294,6 @@
       "startTime": "11:00:00 PM 08-10-2025"
     },
     {
-      "id": 137570,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Detroit Tigers",
-      "startTime": "01:38:00 AM 08-10-2025"
-    },
-    {
       "id": 137358,
       "event_category": "Football",
       "title": "Sierra Leone vs Burkina Faso (CAF World Cup Qualifiers)",
@@ -364,6 +352,18 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Djibouti vs Egypt",
       "startTime": "09:30:00 PM 08-10-2025"
+    },
+    {
+      "id": 137570,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "01:38:00 AM 08-10-2025"
     },
     {
       "id": 137571,
