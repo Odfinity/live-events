@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:44 PM 07-10-2025",
+  "last update time": "12:14 AM 08-10-2025",
   "matches": [
     {
       "id": 137443,
@@ -18,18 +18,16 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137443_english_hls_4d8854a0de92436ta-di_h264/index.m3u8"
     },
     {
-      "id": 137480,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Emirates Blues (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137480_5722_EMB_ABD_fc-web.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Emirates Blues",
-      "status": "LIVE",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Abu Dhabi vs Emirates Blues",
-      "startTime": "11:00:00 PM 07-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/tv8UpdFkSpWL29c9oIKZJg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137480_english_hls_79d0e2e79595815ta-di_h264/index.m3u8"
+      "id": 137444,
+      "event_category": "Football",
+      "title": "Barcelona Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137444_5720_BAR-W_BAY-W_fc-web.jpg",
+      "team_1": "Barcelona Women",
+      "team_2": "Bayern Munich Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Barcelona Women vs Bayern Munich Women",
+      "startTime": "12:30:00 AM 08-10-2025"
     },
     {
       "id": 137445,
@@ -44,18 +42,6 @@
       "startTime": "12:30:00 AM 08-10-2025"
     },
     {
-      "id": 137444,
-      "event_category": "Football",
-      "title": "Barcelona Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137444_5720_BAR-W_BAY-W_fc-web.jpg",
-      "team_1": "Barcelona Women",
-      "team_2": "Bayern Munich Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Barcelona Women vs Bayern Munich Women",
-      "startTime": "12:30:00 AM 08-10-2025"
-    },
-    {
       "id": 137452,
       "event_category": "Football",
       "title": "Paris FC Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
@@ -66,6 +52,20 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Paris FC Women vs Oud-Heverlee Leuven Women",
       "startTime": "12:30:00 AM 08-10-2025"
+    },
+    {
+      "id": 137480,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi vs Emirates Blues (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137480_5722_EMB_ABD_fc-web.jpg",
+      "team_1": "Abu Dhabi",
+      "team_2": "Emirates Blues",
+      "status": "LIVE",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Abu Dhabi vs Emirates Blues",
+      "startTime": "11:00:00 PM 07-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/tv8UpdFkSpWL29c9oIKZJg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137480_english_hls_79d0e2e79595815ta-di_h264/index.m3u8"
     },
     {
       "id": 136881,
@@ -284,6 +284,42 @@
       "startTime": "10:45:00 PM 08-10-2025"
     },
     {
+      "id": 137456,
+      "event_category": "Football",
+      "title": "SKN St. Polten Women vs Club Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "SKN St. Polten Women",
+      "team_2": "Club Atletico de Madrid Femenino",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "SKN St. Polten Women vs Club Atletico de Madrid Femenino",
+      "startTime": "12:30:00 AM 09-10-2025"
+    },
+    {
+      "id": 137458,
+      "event_category": "Football",
+      "title": "VfL Wolfsburg Women vs Paris Saint-Germain Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "VfL Wolfsburg Women",
+      "team_2": "Paris Saint-Germain Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "VfL Wolfsburg Women vs Paris Saint-Germain Women",
+      "startTime": "12:30:00 AM 09-10-2025"
+    },
+    {
+      "id": 137457,
+      "event_category": "Football",
+      "title": "Manchester United Women vs Valerenga Fotball Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Manchester United Women",
+      "team_2": "Valerenga Fotball Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Manchester United Women vs Valerenga Fotball Women",
+      "startTime": "12:30:00 AM 09-10-2025"
+    },
+    {
       "id": 137358,
       "event_category": "Football",
       "title": "Sierra Leone vs Burkina Faso (CAF World Cup Qualifiers)",
@@ -344,40 +380,16 @@
       "startTime": "09:30:00 PM 08-10-2025"
     },
     {
-      "id": 137456,
-      "event_category": "Football",
-      "title": "SKN St. Polten Women vs Club Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "SKN St. Polten Women",
-      "team_2": "Club Atletico de Madrid Femenino",
+      "id": 137422,
+      "event_category": "Cricket",
+      "title": "Brampton Blitz vs Toronto Sixers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137422_5719_BBZ_TTS_fc-Web.jpg",
+      "team_1": "Brampton Blitz",
+      "team_2": "Toronto Sixers",
       "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "SKN St. Polten Women vs Club Atletico de Madrid Femenino",
-      "startTime": "12:30:00 AM 09-10-2025"
-    },
-    {
-      "id": 137458,
-      "event_category": "Football",
-      "title": "VfL Wolfsburg Women vs Paris Saint-Germain Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "VfL Wolfsburg Women",
-      "team_2": "Paris Saint-Germain Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "VfL Wolfsburg Women vs Paris Saint-Germain Women",
-      "startTime": "12:30:00 AM 09-10-2025"
-    },
-    {
-      "id": 137457,
-      "event_category": "Football",
-      "title": "Manchester United Women vs Valerenga Fotball Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Manchester United Women",
-      "team_2": "Valerenga Fotball Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Manchester United Women vs Valerenga Fotball Women",
-      "startTime": "12:30:00 AM 09-10-2025"
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Brampton Blitz vs Toronto Sixers",
+      "startTime": "05:30:00 AM 09-10-2025"
     },
     {
       "id": 137570,
@@ -404,30 +416,6 @@
       "startTime": "05:38:00 AM 08-10-2025"
     },
     {
-      "id": 137569,
-      "event_category": "Live events",
-      "title": "Para Throwball (Intellectual Disability) vs TNPESU Indoor Stadium, Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-      "team_1": "Para Throwball (Intellectual Disability)",
-      "team_2": "TNPESU Indoor Stadium, Chengalpattu",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Para Throwball (Intellectual Disability)",
-      "startTime": "09:00:00 AM 08-10-2025"
-    },
-    {
-      "id": 137422,
-      "event_category": "Cricket",
-      "title": "Brampton Blitz vs Toronto Sixers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137422_5719_BBZ_TTS_fc-Web.jpg",
-      "team_1": "Brampton Blitz",
-      "team_2": "Toronto Sixers",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Brampton Blitz vs Toronto Sixers",
-      "startTime": "05:30:00 AM 09-10-2025"
-    },
-    {
       "id": 137365,
       "event_category": "Football",
       "title": "Niger vs Congo (CAF World Cup Qualifiers)",
@@ -450,6 +438,18 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Tanzania vs Zambia",
       "startTime": "12:30:00 AM 09-10-2025"
+    },
+    {
+      "id": 137569,
+      "event_category": "Live events",
+      "title": "Para Throwball (Intellectual Disability) vs TNPESU Indoor Stadium, Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Para Throwball (Intellectual Disability)",
+      "team_2": "TNPESU Indoor Stadium, Chengalpattu",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Para Throwball (Intellectual Disability)",
+      "startTime": "09:00:00 AM 08-10-2025"
     },
     {
       "id": 137301,
