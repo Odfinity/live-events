@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:21 PM 07-10-2025",
+  "last update time": "10:50 PM 07-10-2025",
   "matches": [
     {
       "id": 137443,
@@ -38,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137480_5722_EMB_ABD_fc-web.jpg",
       "team_1": "Emirates Blues",
       "team_2": "Abu Dhabi",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Emirates Blues vs Abu Dhabi",
-      "startTime": "11:00:00 PM 07-10-2025"
+      "startTime": "11:00:00 PM 07-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/tv8UpdFkSpWL29c9oIKZJg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137480_english_hls_79d0e2e79595815ta-di_h264/index.m3u8"
     },
     {
       "id": 136881,
@@ -80,6 +82,18 @@
       "startTime": "04:30:00 AM 08-10-2025"
     },
     {
+      "id": 137300,
+      "event_category": "Cricket",
+      "title": "New York Lions CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137300_5711_NYL_DL_fc-Web.jpg",
+      "team_1": "New York Lions CC",
+      "team_2": "Dallas Lonestars CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "New York Lions CC vs Dallas Lonestars CC",
+      "startTime": "06:30:00 AM 08-10-2025"
+    },
+    {
       "id": 137445,
       "event_category": "Football",
       "title": "Arsenal Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)",
@@ -114,18 +128,6 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Paris FC Women vs Oud-Heverlee Leuven Women",
       "startTime": "12:30:00 AM 08-10-2025"
-    },
-    {
-      "id": 137300,
-      "event_category": "Cricket",
-      "title": "New York Lions CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137300_5711_NYL_DL_fc-Web.jpg",
-      "team_1": "New York Lions CC",
-      "team_2": "Dallas Lonestars CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "New York Lions CC vs Dallas Lonestars CC",
-      "startTime": "06:30:00 AM 08-10-2025"
     },
     {
       "id": 137342,
@@ -272,18 +274,6 @@
       "startTime": "10:15:00 PM 08-10-2025"
     },
     {
-      "id": 137264,
-      "event_category": "Football",
-      "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
-      "team_1": "Indonesia",
-      "team_2": "Saudi Arabia",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Indonesia vs Saudi Arabia",
-      "startTime": "10:45:00 PM 08-10-2025"
-    },
-    {
       "id": 137482,
       "event_category": "Cricket",
       "title": "Dubai vs Fujairah (Emirates D20 Tournament, 2025)",
@@ -294,6 +284,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Dubai vs Fujairah",
       "startTime": "11:00:00 PM 08-10-2025"
+    },
+    {
+      "id": 137264,
+      "event_category": "Football",
+      "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
+      "team_1": "Indonesia",
+      "team_2": "Saudi Arabia",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Indonesia vs Saudi Arabia",
+      "startTime": "10:45:00 PM 08-10-2025"
     },
     {
       "id": 137358,
