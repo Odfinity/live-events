@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 AM 07-10-2025",
+  "last update time": "12:07 PM 07-10-2025",
   "matches": [
     {
       "id": 134014,
@@ -30,20 +30,6 @@
       "startTime": "06:00:00 AM 04-10-2025",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 134016,
-      "event_category": "Cricket",
-      "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Western Australia",
-      "startTime": "07:30:00 AM 04-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/p24anuwlR3qtj5GnvX9iGw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb72716ta-di_h264/index.m3u8"
     },
     {
       "id": 137479,
@@ -178,6 +164,18 @@
       "startTime": "11:30:00 AM 08-10-2025"
     },
     {
+      "id": 136881,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
+      "match_name": "Afghanistan vs Bangladesh",
+      "startTime": "05:30:00 PM 08-10-2025"
+    },
+    {
       "id": 137416,
       "event_category": "Live events",
       "title": "Beach Volleyball vs Nagapattinam Beach (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -200,18 +198,6 @@
       "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
       "match_name": "Para Throwball (Intellectual Disability)",
       "startTime": "04:30:00 PM 07-10-2025"
-    },
-    {
-      "id": 136881,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
-      "match_name": "Afghanistan vs Bangladesh",
-      "startTime": "05:30:00 PM 08-10-2025"
     },
     {
       "id": 137175,
@@ -464,6 +450,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Brampton Blitz vs Toronto Sixers",
       "startTime": "05:30:00 AM 09-10-2025"
+    },
+    {
+      "id": 137365,
+      "event_category": "Football",
+      "title": "Niger vs Congo (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Niger",
+      "team_2": "Congo",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Niger vs Congo",
+      "startTime": "12:30:00 AM 09-10-2025"
     }
   ]
 }
