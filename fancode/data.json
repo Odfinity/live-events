@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:02 PM 07-10-2025",
+  "last update time": "10:21 PM 07-10-2025",
   "matches": [
     {
       "id": 137443,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137443_5720_JUV-W_BEN-W_fc-web.jpg",
       "team_1": "Juventus Women",
       "team_2": "Benfica Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Juventus Women vs Benfica Women",
-      "startTime": "10:15:00 PM 07-10-2025"
+      "startTime": "10:15:00 PM 07-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/jfrEt8OvR2GadabohlajGg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137443_english_hls_4d8854a0de92436ta-di_h264/index.m3u8"
     },
     {
       "id": 137479,
@@ -30,18 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137479_english_hls_9e93f8161648795ta-di_h264/index.m3u8"
     },
     {
-      "id": 136881,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
-      "match_name": "Afghanistan vs Bangladesh",
-      "startTime": "05:30:00 PM 08-10-2025"
-    },
-    {
       "id": 137480,
       "event_category": "Cricket",
       "title": "Emirates Blues vs Abu Dhabi (Emirates D20 Tournament, 2025)",
@@ -52,6 +42,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Emirates Blues vs Abu Dhabi",
       "startTime": "11:00:00 PM 07-10-2025"
+    },
+    {
+      "id": 136881,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
+      "match_name": "Afghanistan vs Bangladesh",
+      "startTime": "05:30:00 PM 08-10-2025"
     },
     {
       "id": 133956,
@@ -354,18 +356,6 @@
       "startTime": "09:30:00 PM 08-10-2025"
     },
     {
-      "id": 137570,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Detroit Tigers",
-      "startTime": "01:38:00 AM 08-10-2025"
-    },
-    {
       "id": 137456,
       "event_category": "Football",
       "title": "SKN St. Polten Women vs Club Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
@@ -400,6 +390,18 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Manchester United Women vs Valerenga Fotball Women",
       "startTime": "12:30:00 AM 09-10-2025"
+    },
+    {
+      "id": 137570,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "01:38:00 AM 08-10-2025"
     },
     {
       "id": 137571,
