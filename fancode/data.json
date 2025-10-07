@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:26 AM 08-10-2025",
+  "last update time": "12:50 AM 08-10-2025",
   "matches": [
-    {
-      "id": 137443,
-      "event_category": "Football",
-      "title": "Juventus Women vs Benfica Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137443_5720_JUV-W_BEN-W_fc-web.jpg",
-      "team_1": "Juventus Women",
-      "team_2": "Benfica Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Juventus Women vs Benfica Women",
-      "startTime": "10:15:00 PM 07-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jfrEt8OvR2GadabohlajGg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137443_english_hls_4d8854a0de92436ta-di_h264/index.m3u8"
-    },
     {
       "id": 137444,
       "event_category": "Football",
@@ -194,6 +180,18 @@
       "startTime": "08:30:00 PM 08-10-2025"
     },
     {
+      "id": 137570,
+      "event_category": "Baseball",
+      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_APP.png",
+      "team_1": "Seattle Mariners",
+      "team_2": "Detroit Tigers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Seattle Mariners vs Detroit Tigers",
+      "startTime": "01:38:00 AM 08-10-2025"
+    },
+    {
       "id": 137455,
       "event_category": "Football",
       "title": "Real Madrid Women vs Roma Women (UEFA Women's Champions League 2025-26)",
@@ -228,6 +226,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Dubai vs Fujairah",
       "startTime": "11:00:00 PM 08-10-2025"
+    },
+    {
+      "id": 137264,
+      "event_category": "Football",
+      "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
+      "team_1": "Indonesia",
+      "team_2": "Saudi Arabia",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Indonesia vs Saudi Arabia",
+      "startTime": "10:45:00 PM 08-10-2025"
     },
     {
       "id": 137352,
@@ -276,18 +286,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Ethiopia vs Guinea-Bissau",
       "startTime": "06:30:00 PM 08-10-2025"
-    },
-    {
-      "id": 137264,
-      "event_category": "Football",
-      "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
-      "team_1": "Indonesia",
-      "team_2": "Saudi Arabia",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Indonesia vs Saudi Arabia",
-      "startTime": "10:45:00 PM 08-10-2025"
     },
     {
       "id": 137456,
@@ -398,18 +396,6 @@
       "startTime": "05:30:00 AM 09-10-2025"
     },
     {
-      "id": 137570,
-      "event_category": "Baseball",
-      "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_APP.png",
-      "team_1": "Seattle Mariners",
-      "team_2": "Detroit Tigers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Seattle Mariners vs Detroit Tigers",
-      "startTime": "01:38:00 AM 08-10-2025"
-    },
-    {
       "id": 137365,
       "event_category": "Football",
       "title": "Niger vs Congo (CAF World Cup Qualifiers)",
@@ -468,6 +454,18 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Atlanta Kings CC vs Chicago CC",
       "startTime": "04:30:00 AM 09-10-2025"
+    },
+    {
+      "id": 133934,
+      "event_category": "Cricket",
+      "title": "South Australia vs Victoria (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133934_5606_SAU_VCT_fc-web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Victoria",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "South Australia vs Victoria",
+      "startTime": "05:00:00 AM 09-10-2025"
     }
   ]
 }
