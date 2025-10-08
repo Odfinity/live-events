@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:02 PM 08-10-2025",
+  "last update time": "10:21 PM 08-10-2025",
   "matches": [
+    {
+      "id": 137455,
+      "event_category": "Football",
+      "title": "Real Madrid Women vs Roma Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-Women-VS-Roma-Women_old.jpg",
+      "team_1": "Real Madrid Women",
+      "team_2": "Roma Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Real Madrid Women vs Roma Women",
+      "startTime": "10:15:00 PM 08-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/DCrDT8s0SJmQy3d-X99Cbw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137455_english_hls_d754bbfeb729190ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137453,
+      "event_category": "Football",
+      "title": "FC Twente Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137453_5720_TWE-W_CHE-W_fc-web.jpg",
+      "team_1": "FC Twente Women",
+      "team_2": "Chelsea F.C. Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "FC Twente Women vs Chelsea F.C. Women",
+      "startTime": "10:15:00 PM 08-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/hHKvsQg-StWAFgTE3xVoVQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137453_english_hls_32f6a6b32e34ta-di_h264/index.m3u8"
+    },
     {
       "id": 136881,
       "event_category": "Cricket",
@@ -16,30 +44,6 @@
       "startTime": "05:30:00 PM 08-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Xz0_sh2lT9-ryVTTJHbuXg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136881_english_hls_0e7ac7546f24991ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137455,
-      "event_category": "Football",
-      "title": "Real Madrid Women vs Roma Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-Women-VS-Roma-Women_old.jpg",
-      "team_1": "Real Madrid Women",
-      "team_2": "Roma Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Real Madrid Women vs Roma Women",
-      "startTime": "10:15:00 PM 08-10-2025"
-    },
-    {
-      "id": 137453,
-      "event_category": "Football",
-      "title": "FC Twente Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137453_5720_TWE-W_CHE-W_fc-web.jpg",
-      "team_1": "FC Twente Women",
-      "team_2": "Chelsea F.C. Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "FC Twente Women vs Chelsea F.C. Women",
-      "startTime": "10:15:00 PM 08-10-2025"
     },
     {
       "id": 137176,
@@ -140,20 +144,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137360_english_hls_11b81839b741898ta-di_h264/index.m3u8"
     },
     {
-      "id": 137481,
-      "event_category": "Cricket",
-      "title": "Ajman vs Sharjah (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137481_5722_SHA_AJM_fc-web.jpg",
-      "team_1": "Ajman",
-      "team_2": "Sharjah",
-      "status": "LIVE",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Ajman vs Sharjah",
-      "startTime": "07:00:00 PM 08-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/x2tsrIIIRl-X9dkd_TeLag/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137481_english_hls_5e19920a1a21548ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137422,
       "event_category": "Cricket",
       "title": "Brampton Blitz vs Toronto Sixers (Canada Super 60, 2025)",
@@ -190,18 +180,6 @@
       "startTime": "11:00:00 AM 09-10-2025"
     },
     {
-      "id": 137264,
-      "event_category": "Football",
-      "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
-      "team_1": "Indonesia",
-      "team_2": "Saudi Arabia",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Indonesia vs Saudi Arabia",
-      "startTime": "10:45:00 PM 08-10-2025"
-    },
-    {
       "id": 137482,
       "event_category": "Cricket",
       "title": "Dubai vs Fujairah (Emirates D20 Tournament, 2025)",
@@ -212,6 +190,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Dubai vs Fujairah",
       "startTime": "11:00:00 PM 08-10-2025"
+    },
+    {
+      "id": 137264,
+      "event_category": "Football",
+      "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
+      "team_1": "Indonesia",
+      "team_2": "Saudi Arabia",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Indonesia vs Saudi Arabia",
+      "startTime": "10:45:00 PM 08-10-2025"
     },
     {
       "id": 137301,
@@ -476,6 +466,18 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Mozambique vs Guinea",
       "startTime": "09:30:00 PM 09-10-2025"
+    },
+    {
+      "id": 137425,
+      "event_category": "Cricket",
+      "title": "Mississauga Masters vs Brampton Blitz (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-Web.jpg",
+      "team_1": "Mississauga Masters",
+      "team_2": "Brampton Blitz",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Mississauga Masters vs Brampton Blitz",
+      "startTime": "03:30:00 AM 10-10-2025"
     }
   ]
 }
