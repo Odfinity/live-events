@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:18 PM 08-10-2025",
+  "last update time": "06:51 PM 08-10-2025",
   "matches": [
     {
       "id": 136881,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136881_english_hls_0e7ac7546f24991ta-di_h264/index.m3u8"
     },
     {
+      "id": 137349,
+      "event_category": "Football",
+      "title": "Mauritius vs Cameroon (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mauritius-vs-Cameroon_old.jpg",
+      "team_1": "Mauritius",
+      "team_2": "Cameroon",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Mauritius vs Cameroon",
+      "startTime": "06:30:00 PM 08-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KxNQ8xTWQwi1ghn1_whSTQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137349_english_hls_f357ad90c670743ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137175,
       "event_category": "Cricket",
       "title": "Qatar vs United Arab Emirates (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -32,10 +46,24 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137175_english_hls_d5ac14eb3587385ta-di_h264/index.m3u8"
     },
     {
+      "id": 137481,
+      "event_category": "Cricket",
+      "title": "Sharjah vs Ajman (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137481_5722_SHA_AJM_fc-web.jpg",
+      "team_1": "Sharjah",
+      "team_2": "Ajman",
+      "status": "LIVE",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Sharjah vs Ajman",
+      "startTime": "07:00:00 PM 08-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/x2tsrIIIRl-X9dkd_TeLag/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137481_english_hls_5e19920a1a21548ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137352,
       "event_category": "Football",
       "title": "Libya vs Cabo Verde (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/137352_CASACARDS_APP.png",
       "team_1": "Libya",
       "team_2": "Cabo Verde",
       "status": "LIVE",
@@ -49,29 +77,15 @@
       "id": 137351,
       "event_category": "Football",
       "title": "Eswatini vs Angola (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/137351_CASACARDS_APP.png",
       "team_1": "Eswatini",
       "team_2": "Angola",
       "status": "LIVE",
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Eswatini vs Angola",
       "startTime": "06:30:00 PM 08-10-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 137349,
-      "event_category": "Football",
-      "title": "Mauritius vs Cameroon (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mauritius-vs-Cameroon_old.jpg",
-      "team_1": "Mauritius",
-      "team_2": "Cameroon",
-      "status": "LIVE",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Mauritius vs Cameroon",
-      "startTime": "06:30:00 PM 08-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/KxNQ8xTWQwi1ghn1_whSTQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137349_english_hls_f357ad90c670743ta-di_h264/index.m3u8"
+      "dai_url": "https://dai.google.com/linear/hls/event/jrsYtqk9TgqhwLPkMJ8dbg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137351_english_hls_c348ac208323209ta-di_h264/index.m3u8"
     },
     {
       "id": 137346,
@@ -110,18 +124,6 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Montreal Royal Tigers vs Mississauga Masters",
       "startTime": "08:00:00 AM 09-10-2025"
-    },
-    {
-      "id": 137481,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Ajman (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137481_5722_SHA_AJM_fc-web.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Ajman",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Sharjah vs Ajman",
-      "startTime": "07:00:00 PM 08-10-2025"
     },
     {
       "id": 137424,
