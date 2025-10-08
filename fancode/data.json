@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:10 AM 09-10-2025",
+  "last update time": "04:27 AM 09-10-2025",
   "matches": [
+    {
+      "id": 133958,
+      "event_category": "Cricket",
+      "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "New South Wales Breakers",
+      "team_2": "Western Australia Women",
+      "status": "LIVE",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "New South Wales Breakers vs Western Australia Women",
+      "startTime": "04:30:00 AM 09-10-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 137301,
+      "event_category": "Cricket",
+      "title": "Atlanta Kings CC vs Chicago CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137301_5711_ATL_CHI_fc-Web_1759932203321.jpg",
+      "team_1": "Atlanta Kings CC",
+      "team_2": "Chicago CC",
+      "status": "LIVE",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Atlanta Kings CC vs Chicago CC",
+      "startTime": "04:30:00 AM 09-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RzGdz2huRUGHjzGB7iQsDQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137301_english_hls_95810715dd44047ta-di_h264/index.m3u8"
+    },
     {
       "id": 137573,
       "event_category": "Baseball",
@@ -16,6 +44,20 @@
       "startTime": "02:38:00 AM 09-10-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137573_english_hls_3e48242ff739395ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137573_english_hls_3e48242ff739395ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137574,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137574_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "New York Yankees",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs New York Yankees",
+      "startTime": "04:38:00 AM 09-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137574_english_hls_2e17bb30523862ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137574_english_hls_2e17bb30523862ta-di_h264/index.m3u8"
     },
     {
       "id": 137422,
@@ -52,30 +94,6 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Vancouver Kings vs White Rock Warriors",
       "startTime": "11:00:00 AM 09-10-2025"
-    },
-    {
-      "id": 133958,
-      "event_category": "Cricket",
-      "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "New South Wales Breakers",
-      "team_2": "Western Australia Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "New South Wales Breakers vs Western Australia Women",
-      "startTime": "04:30:00 AM 09-10-2025"
-    },
-    {
-      "id": 137301,
-      "event_category": "Cricket",
-      "title": "Atlanta Kings CC vs Chicago CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137301_5711_ATL_CHI_fc-Web_1759932203321.jpg",
-      "team_1": "Atlanta Kings CC",
-      "team_2": "Chicago CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Atlanta Kings CC vs Chicago CC",
-      "startTime": "04:30:00 AM 09-10-2025"
     },
     {
       "id": 133935,
@@ -162,18 +180,6 @@
       "startTime": "05:00:00 PM 09-10-2025"
     },
     {
-      "id": 137179,
-      "event_category": "Cricket",
-      "title": "Papua New Guinea vs Samoa (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137179_5697_PNG_SAM_fc-Web.jpg",
-      "team_1": "Papua New Guinea",
-      "team_2": "Samoa",
-      "status": "UPCOMING",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "Papua New Guinea vs Samoa",
-      "startTime": "08:30:00 PM 09-10-2025"
-    },
-    {
       "id": 137425,
       "event_category": "Cricket",
       "title": "Mississauga Masters vs Brampton Blitz (Canada Super 60, 2025)",
@@ -184,6 +190,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Mississauga Masters vs Brampton Blitz",
       "startTime": "03:30:00 AM 10-10-2025"
+    },
+    {
+      "id": 137179,
+      "event_category": "Cricket",
+      "title": "Papua New Guinea vs Samoa (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137179_5697_PNG_SAM_fc-Web.jpg",
+      "team_1": "Papua New Guinea",
+      "team_2": "Samoa",
+      "status": "UPCOMING",
+      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "match_name": "Papua New Guinea vs Samoa",
+      "startTime": "08:30:00 PM 09-10-2025"
     },
     {
       "id": 137484,
@@ -220,18 +238,6 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Montreal Royal Tigers vs Vancouver Kings",
       "startTime": "05:30:00 AM 10-10-2025"
-    },
-    {
-      "id": 137574,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137574_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "New York Yankees",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs New York Yankees",
-      "startTime": "04:38:00 AM 09-10-2025"
     },
     {
       "id": 137519,
@@ -306,6 +312,18 @@
       "startTime": "09:30:00 PM 09-10-2025"
     },
     {
+      "id": 137427,
+      "event_category": "Cricket",
+      "title": "White Rock Warriors vs Toronto Sixers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137427_5719_WRW_TTS_fc-Web.jpg",
+      "team_1": "White Rock Warriors",
+      "team_2": "Toronto Sixers",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "White Rock Warriors vs Toronto Sixers",
+      "startTime": "08:00:00 AM 10-10-2025"
+    },
+    {
       "id": 133957,
       "event_category": "Cricket",
       "title": "Victoria Women vs Tasmania Women (Women's National Cricket League, 2025-26)",
@@ -328,18 +346,6 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Dallas Lonestars CC vs Chicago CC",
       "startTime": "04:30:00 AM 10-10-2025"
-    },
-    {
-      "id": 137427,
-      "event_category": "Cricket",
-      "title": "White Rock Warriors vs Toronto Sixers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137427_5719_WRW_TTS_fc-Web.jpg",
-      "team_1": "White Rock Warriors",
-      "team_2": "Toronto Sixers",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "White Rock Warriors vs Toronto Sixers",
-      "startTime": "08:00:00 AM 10-10-2025"
     },
     {
       "id": 137304,
@@ -390,18 +396,6 @@
       "startTime": "05:30:00 PM 09-10-2025"
     },
     {
-      "id": 137576,
-      "event_category": "Baseball",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_APP.png",
-      "team_1": "Philadelphia Phillies",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "startTime": "03:38:00 AM 10-10-2025"
-    },
-    {
       "id": 137459,
       "event_category": "Cricket",
       "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
@@ -412,6 +406,18 @@
       "event_name": "Canada Women Super 60, 2025",
       "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
       "startTime": "11:00:00 AM 10-10-2025"
+    },
+    {
+      "id": 137576,
+      "event_category": "Baseball",
+      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_APP.png",
+      "team_1": "Philadelphia Phillies",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "startTime": "03:38:00 AM 10-10-2025"
     },
     {
       "id": 137180,
