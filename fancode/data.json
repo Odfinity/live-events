@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:50 PM 09-10-2025",
+  "last update time": "11:11 PM 09-10-2025",
   "matches": [
     {
       "id": 137179,
@@ -16,6 +16,20 @@
       "startTime": "08:30:00 PM 09-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/s5wwSSfsQMGcyr0W5Iwpxg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137179_english_hls_0a49b1739717944ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137484,
+      "event_category": "Cricket",
+      "title": "Dubai vs Emirates Blues (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137484_5722_DUB_EMB_fc-web.jpg",
+      "team_1": "Dubai",
+      "team_2": "Emirates Blues",
+      "status": "LIVE",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Dubai vs Emirates Blues",
+      "startTime": "11:00:00 PM 09-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ExYk0ZkrRz222ODYz9WUJw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137484_english_hls_0fc1956fd152451ta-di_h264/index.m3u8"
     },
     {
       "id": 137524,
@@ -108,18 +122,6 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "White Rock Warriors vs Toronto Sixers",
       "startTime": "08:00:00 AM 10-10-2025"
-    },
-    {
-      "id": 137484,
-      "event_category": "Cricket",
-      "title": "Dubai vs Emirates Blues (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137484_5722_DUB_EMB_fc-web.jpg",
-      "team_1": "Dubai",
-      "team_2": "Emirates Blues",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Dubai vs Emirates Blues",
-      "startTime": "11:00:00 PM 09-10-2025"
     },
     {
       "id": 133957,
@@ -410,18 +412,6 @@
       "startTime": "12:00:00 AM 11-10-2025"
     },
     {
-      "id": 137421,
-      "event_category": "Live events",
-      "title": "Basketball vs District Sports Complex, Coimbatore (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_04.jpg",
-      "team_1": "Basketball",
-      "team_2": "District Sports Complex, Coimbatore",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Basketball",
-      "startTime": "03:00:00 PM 10-10-2025"
-    },
-    {
       "id": 137428,
       "event_category": "Cricket",
       "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
@@ -432,6 +422,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Vancouver Kings vs Mississauga Masters",
       "startTime": "05:30:00 AM 11-10-2025"
+    },
+    {
+      "id": 137421,
+      "event_category": "Live events",
+      "title": "Basketball vs District Sports Complex, Coimbatore (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_04.jpg",
+      "team_1": "Basketball",
+      "team_2": "District Sports Complex, Coimbatore",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Basketball",
+      "startTime": "03:00:00 PM 10-10-2025"
     }
   ]
 }
