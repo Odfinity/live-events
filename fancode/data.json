@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:20 AM 10-10-2025",
+  "last update time": "03:50 AM 10-10-2025",
   "matches": [
     {
       "id": 137425,
@@ -14,8 +14,22 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Mississauga Masters vs Brampton Blitz",
       "startTime": "03:30:00 AM 10-10-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/UIknhWDwTJqvZebA1tX6DA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137425_english_hls_2db88edc9f70419ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137576,
+      "event_category": "Baseball",
+      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_APP.png",
+      "team_1": "Philadelphia Phillies",
+      "team_2": "Los Angeles Dodgers",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "startTime": "03:38:00 AM 10-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137576_english_hls_08fa4c5f2242469ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137576_english_hls_08fa4c5f2242469ta-di_h264/index.m3u8"
     },
     {
       "id": 137426,
@@ -162,16 +176,16 @@
       "startTime": "11:00:00 PM 10-10-2025"
     },
     {
-      "id": 137576,
-      "event_category": "Baseball",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_APP.png",
-      "team_1": "Philadelphia Phillies",
-      "team_2": "Los Angeles Dodgers",
+      "id": 137428,
+      "event_category": "Cricket",
+      "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137428_5719_VCK_MGM_fc-Web.jpg",
+      "team_1": "Vancouver Kings",
+      "team_2": "Mississauga Masters",
       "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "startTime": "03:38:00 AM 10-10-2025"
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Vancouver Kings vs Mississauga Masters",
+      "startTime": "05:30:00 AM 11-10-2025"
     },
     {
       "id": 137528,
@@ -232,18 +246,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Gambia vs Gabon",
       "startTime": "06:30:00 PM 10-10-2025"
-    },
-    {
-      "id": 137428,
-      "event_category": "Cricket",
-      "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137428_5719_VCK_MGM_fc-Web.jpg",
-      "team_1": "Vancouver Kings",
-      "team_2": "Mississauga Masters",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Vancouver Kings vs Mississauga Masters",
-      "startTime": "05:30:00 AM 11-10-2025"
     },
     {
       "id": 137533,
@@ -354,6 +356,18 @@
       "startTime": "08:00:00 AM 11-10-2025"
     },
     {
+      "id": 137306,
+      "event_category": "Cricket",
+      "title": "Dallas Lonestars CC vs Houston Generals CC (National Cricket T10 League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
+      "team_1": "Dallas Lonestars CC",
+      "team_2": "Houston Generals CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Dallas Lonestars CC vs Houston Generals CC",
+      "startTime": "06:30:00 AM 11-10-2025"
+    },
+    {
       "id": 137577,
       "event_category": "Baseball",
       "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
@@ -388,18 +402,6 @@
       "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
       "match_name": "Badminton",
       "startTime": "09:00:00 AM 10-10-2025"
-    },
-    {
-      "id": 137306,
-      "event_category": "Cricket",
-      "title": "Dallas Lonestars CC vs Houston Generals CC (National Cricket T10 League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
-      "team_1": "Dallas Lonestars CC",
-      "team_2": "Houston Generals CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Dallas Lonestars CC vs Houston Generals CC",
-      "startTime": "06:30:00 AM 11-10-2025"
     },
     {
       "id": 137421,
