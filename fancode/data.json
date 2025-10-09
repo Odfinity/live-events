@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:00 PM 09-10-2025",
+  "last update time": "10:24 PM 09-10-2025",
   "matches": [
-    {
-      "id": 137483,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Ajman (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137483_5722_ABD_AJM_fc-web.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Ajman",
-      "status": "LIVE",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Abu Dhabi vs Ajman",
-      "startTime": "07:00:00 PM 09-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/6SGKFHpLSrWqGz8DFzJvLw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137483_english_hls_29d08772bc10627ta-di_h264/index.m3u8"
-    },
     {
       "id": 137179,
       "event_category": "Cricket",
@@ -424,6 +410,30 @@
       "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
       "match_name": "Badminton",
       "startTime": "09:00:00 AM 10-10-2025"
+    },
+    {
+      "id": 137211,
+      "event_category": "Football",
+      "title": "Granada vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137211_5572_GRD_LAP_fc-Web.jpg",
+      "team_1": "Granada",
+      "team_2": "Las Palmas",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Granada vs Las Palmas",
+      "startTime": "12:00:00 AM 11-10-2025"
+    },
+    {
+      "id": 137421,
+      "event_category": "Live events",
+      "title": "Basketball vs District Sports Complex, Coimbatore (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_04.jpg",
+      "team_1": "Basketball",
+      "team_2": "District Sports Complex, Coimbatore",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Basketball",
+      "startTime": "03:00:00 PM 10-10-2025"
     }
   ]
 }
