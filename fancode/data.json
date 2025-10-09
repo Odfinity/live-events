@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 AM 09-10-2025",
+  "last update time": "07:15 AM 09-10-2025",
   "matches": [
+    {
+      "id": 137422,
+      "event_category": "Cricket",
+      "title": "Brampton Blitz vs Toronto Sixers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137422_5719_BBZ_TTS_fc-Web.jpg",
+      "team_1": "Brampton Blitz",
+      "team_2": "Toronto Sixers",
+      "status": "LIVE",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Brampton Blitz vs Toronto Sixers",
+      "startTime": "05:30:00 AM 09-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/5ia02AWkR2S0UVUXviNrXg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137422_english_hls_48fbdac28f84481ta-di_h264/index.m3u8"
+    },
     {
       "id": 133958,
       "event_category": "Cricket",
@@ -18,32 +32,46 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133958_english_hls_e5bbcd81288455ta-di_h264/index.m3u8"
     },
     {
-      "id": 137301,
+      "id": 133935,
       "event_category": "Cricket",
-      "title": "Atlanta Kings CC vs Chicago CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137301_5711_ATL_CHI_fc-Web_1759932203321.jpg",
-      "team_1": "Atlanta Kings CC",
-      "team_2": "Chicago CC",
+      "title": "Queensland vs Tasmania (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133935_5606_QUN_TAS_fc-web.jpg",
+      "team_1": "Queensland",
+      "team_2": "Tasmania",
       "status": "LIVE",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Atlanta Kings CC vs Chicago CC",
-      "startTime": "04:30:00 AM 09-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/RzGdz2huRUGHjzGB7iQsDQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137301_english_hls_95810715dd44047ta-di_h264/index.m3u8"
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Queensland vs Tasmania",
+      "startTime": "05:30:00 AM 09-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/aOBpXZOUSW-X9NIVNnJ-xQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133935_english_hls_348224e72912499ta-di_h264/index.m3u8"
     },
     {
-      "id": 137573,
-      "event_category": "Baseball",
-      "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137573_CASACARDS_APP.png",
-      "team_1": "Milwaukee Brewers",
-      "team_2": "Chicago Cubs",
+      "id": 133934,
+      "event_category": "Cricket",
+      "title": "South Australia vs Victoria (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133934_5606_SAU_VCT_fc-web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Victoria",
       "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Milwaukee Brewers vs Chicago Cubs",
-      "startTime": "02:38:00 AM 09-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137573_english_hls_3e48242ff739395ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137573_english_hls_3e48242ff739395ta-di_h264/index.m3u8"
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "South Australia vs Victoria",
+      "startTime": "06:00:00 AM 09-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HS5AecHhQiS4_AbPmrve8Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133934_english_hls_984f5721c221253ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137302,
+      "event_category": "Cricket",
+      "title": "Los Angeles Waves CC vs New York Lions CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
+      "team_1": "Los Angeles Waves CC",
+      "team_2": "New York Lions CC",
+      "status": "LIVE",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Los Angeles Waves CC vs New York Lions CC",
+      "startTime": "06:30:00 AM 09-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/_Qe4d2-YRFC3h7HjWKfGhg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8"
     },
     {
       "id": 137574,
@@ -60,16 +88,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137574_english_hls_2e17bb30523862ta-di_h264/index.m3u8"
     },
     {
-      "id": 137422,
-      "event_category": "Cricket",
-      "title": "Brampton Blitz vs Toronto Sixers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137422_5719_BBZ_TTS_fc-Web.jpg",
-      "team_1": "Brampton Blitz",
-      "team_2": "Toronto Sixers",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Brampton Blitz vs Toronto Sixers",
-      "startTime": "05:30:00 AM 09-10-2025"
+      "id": 137311,
+      "event_category": "Golf",
+      "title": "Day 1 vs Yokohama Country Club (Baycurrent Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+      "team_1": "Day 1",
+      "team_2": "Yokohama Country Club",
+      "status": "LIVE",
+      "event_name": "Baycurrent Classic",
+      "match_name": "Day 1",
+      "startTime": "06:30:00 AM 09-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/wHT213ghRiajZA4VlGY39Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137575,
+      "event_category": "Baseball",
+      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137575_CASACARDS_APP.png",
+      "team_1": "Philadelphia Phillies",
+      "team_2": "Los Angeles Dodgers",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "startTime": "06:38:00 AM 09-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137575_english_hls_9a8b402ce269815ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137575_english_hls_9a8b402ce269815ta-di_h264/index.m3u8"
     },
     {
       "id": 137423,
@@ -96,40 +140,16 @@
       "startTime": "11:00:00 AM 09-10-2025"
     },
     {
-      "id": 133935,
+      "id": 137425,
       "event_category": "Cricket",
-      "title": "Queensland vs Tasmania (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133935_5606_QUN_TAS_fc-web.jpg",
-      "team_1": "Queensland",
-      "team_2": "Tasmania",
+      "title": "Mississauga Masters vs Brampton Blitz (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-Web.jpg",
+      "team_1": "Mississauga Masters",
+      "team_2": "Brampton Blitz",
       "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Queensland vs Tasmania",
-      "startTime": "05:30:00 AM 09-10-2025"
-    },
-    {
-      "id": 133934,
-      "event_category": "Cricket",
-      "title": "South Australia vs Victoria (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133934_5606_SAU_VCT_fc-web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Victoria",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "South Australia vs Victoria",
-      "startTime": "06:00:00 AM 09-10-2025"
-    },
-    {
-      "id": 137302,
-      "event_category": "Cricket",
-      "title": "New York Lions CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
-      "team_1": "New York Lions CC",
-      "team_2": "Los Angeles Waves CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "New York Lions CC vs Los Angeles Waves CC",
-      "startTime": "06:30:00 AM 09-10-2025"
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Mississauga Masters vs Brampton Blitz",
+      "startTime": "03:30:00 AM 10-10-2025"
     },
     {
       "id": 133936,
@@ -168,18 +188,6 @@
       "startTime": "04:00:00 PM 09-10-2025"
     },
     {
-      "id": 137425,
-      "event_category": "Cricket",
-      "title": "Mississauga Masters vs Brampton Blitz (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-Web.jpg",
-      "team_1": "Mississauga Masters",
-      "team_2": "Brampton Blitz",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Mississauga Masters vs Brampton Blitz",
-      "startTime": "03:30:00 AM 10-10-2025"
-    },
-    {
       "id": 137359,
       "event_category": "Football",
       "title": "Singapore vs India (AFC Asia Cup Qualifiers)",
@@ -190,6 +198,18 @@
       "event_name": "AFC Asia Cup Qualifiers",
       "match_name": "Singapore vs India",
       "startTime": "05:00:00 PM 09-10-2025"
+    },
+    {
+      "id": 137426,
+      "event_category": "Cricket",
+      "title": "Montreal Royal Tigers vs Vancouver Kings (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137426_5719_MRT_VCK_fc-Web.jpg",
+      "team_1": "Montreal Royal Tigers",
+      "team_2": "Vancouver Kings",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Montreal Royal Tigers vs Vancouver Kings",
+      "startTime": "05:30:00 AM 10-10-2025"
     },
     {
       "id": 137179,
@@ -228,16 +248,16 @@
       "startTime": "11:00:00 PM 09-10-2025"
     },
     {
-      "id": 137426,
+      "id": 137427,
       "event_category": "Cricket",
-      "title": "Montreal Royal Tigers vs Vancouver Kings (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137426_5719_MRT_VCK_fc-Web.jpg",
-      "team_1": "Montreal Royal Tigers",
-      "team_2": "Vancouver Kings",
+      "title": "White Rock Warriors vs Toronto Sixers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137427_5719_WRW_TTS_fc-Web.jpg",
+      "team_1": "White Rock Warriors",
+      "team_2": "Toronto Sixers",
       "status": "UPCOMING",
       "event_name": "Canada Super 60, 2025",
-      "match_name": "Montreal Royal Tigers vs Vancouver Kings",
-      "startTime": "05:30:00 AM 10-10-2025"
+      "match_name": "White Rock Warriors vs Toronto Sixers",
+      "startTime": "08:00:00 AM 10-10-2025"
     },
     {
       "id": 137519,
@@ -312,18 +332,6 @@
       "startTime": "09:30:00 PM 09-10-2025"
     },
     {
-      "id": 137427,
-      "event_category": "Cricket",
-      "title": "White Rock Warriors vs Toronto Sixers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137427_5719_WRW_TTS_fc-Web.jpg",
-      "team_1": "White Rock Warriors",
-      "team_2": "Toronto Sixers",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "White Rock Warriors vs Toronto Sixers",
-      "startTime": "08:00:00 AM 10-10-2025"
-    },
-    {
       "id": 133957,
       "event_category": "Cricket",
       "title": "Victoria Women vs Tasmania Women (Women's National Cricket League, 2025-26)",
@@ -360,30 +368,6 @@
       "startTime": "06:30:00 AM 10-10-2025"
     },
     {
-      "id": 137311,
-      "event_category": "Golf",
-      "title": "Day 1 vs Yokohama Country Club (Baycurrent Classic)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-      "team_1": "Day 1",
-      "team_2": "Yokohama Country Club",
-      "status": "UPCOMING",
-      "event_name": "Baycurrent Classic",
-      "match_name": "Day 1",
-      "startTime": "06:30:00 AM 09-10-2025"
-    },
-    {
-      "id": 137575,
-      "event_category": "Baseball",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137575_CASACARDS_APP.png",
-      "team_1": "Philadelphia Phillies",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "startTime": "06:38:00 AM 09-10-2025"
-    },
-    {
       "id": 136859,
       "event_category": "Golf",
       "title": "Day 1 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
@@ -408,18 +392,6 @@
       "startTime": "11:00:00 AM 10-10-2025"
     },
     {
-      "id": 137576,
-      "event_category": "Baseball",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_APP.png",
-      "team_1": "Philadelphia Phillies",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "startTime": "03:38:00 AM 10-10-2025"
-    },
-    {
       "id": 137180,
       "event_category": "Cricket",
       "title": "United Arab Emirates vs Malaysia (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -430,6 +402,18 @@
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "United Arab Emirates vs Malaysia",
       "startTime": "11:30:00 AM 10-10-2025"
+    },
+    {
+      "id": 137576,
+      "event_category": "Baseball",
+      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_APP.png",
+      "team_1": "Philadelphia Phillies",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "startTime": "03:38:00 AM 10-10-2025"
     },
     {
       "id": 137577,
@@ -454,6 +438,30 @@
       "event_name": "Baycurrent Classic",
       "match_name": "Day 2",
       "startTime": "08:30:00 AM 10-10-2025"
+    },
+    {
+      "id": 137181,
+      "event_category": "Cricket",
+      "title": "Nepal vs Japan (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137181_5697_NEP_JPN_fc-Web.jpg",
+      "team_1": "Nepal",
+      "team_2": "Japan",
+      "status": "UPCOMING",
+      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "match_name": "Nepal vs Japan",
+      "startTime": "04:00:00 PM 10-10-2025"
+    },
+    {
+      "id": 137419,
+      "event_category": "Live events",
+      "title": "Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_05.jpg",
+      "team_1": "Badminton",
+      "team_2": "TNPESU , Chengalpattu",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Badminton",
+      "startTime": "10:30:00 AM 10-10-2025"
     }
   ]
 }
