@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:13 AM 10-10-2025",
+  "last update time": "02:26 AM 10-10-2025",
   "matches": [
-    {
-      "id": 137484,
-      "event_category": "Cricket",
-      "title": "Emirates Blues vs Dubai (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137484_5722_DUB_EMB_fc-web.jpg",
-      "team_1": "Emirates Blues",
-      "team_2": "Dubai",
-      "status": "LIVE",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Emirates Blues vs Dubai",
-      "startTime": "11:00:00 PM 09-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ExYk0ZkrRz222ODYz9WUJw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137484_english_hls_0fc1956fd152451ta-di_h264/index.m3u8"
-    },
     {
       "id": 137425,
       "event_category": "Cricket",
@@ -366,6 +352,18 @@
       "startTime": "06:38:00 AM 10-10-2025"
     },
     {
+      "id": 137429,
+      "event_category": "Cricket",
+      "title": "Brampton Blitz vs White Rock Warriors (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137429_5719_BBZ_WRW_fc-Web.jpg",
+      "team_1": "Brampton Blitz",
+      "team_2": "White Rock Warriors",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Brampton Blitz vs White Rock Warriors",
+      "startTime": "08:00:00 AM 11-10-2025"
+    },
+    {
       "id": 137312,
       "event_category": "Golf",
       "title": "Day 2 vs Yokohama Country Club (Baycurrent Classic)",
@@ -390,18 +388,6 @@
       "startTime": "09:00:00 AM 10-10-2025"
     },
     {
-      "id": 137429,
-      "event_category": "Cricket",
-      "title": "Brampton Blitz vs White Rock Warriors (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137429_5719_BBZ_WRW_fc-Web.jpg",
-      "team_1": "Brampton Blitz",
-      "team_2": "White Rock Warriors",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Brampton Blitz vs White Rock Warriors",
-      "startTime": "08:00:00 AM 11-10-2025"
-    },
-    {
       "id": 137421,
       "event_category": "Live events",
       "title": "Basketball vs District Sports Complex, Coimbatore (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -424,6 +410,18 @@
       "event_name": "Acciona Spanish Open presented by Madrid",
       "match_name": "Day 2",
       "startTime": "05:30:00 PM 10-10-2025"
+    },
+    {
+      "id": 137306,
+      "event_category": "Cricket",
+      "title": "Dallas Lonestars CC vs Houston Generals CC (National Cricket T10 League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
+      "team_1": "Dallas Lonestars CC",
+      "team_2": "Houston Generals CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Dallas Lonestars CC vs Houston Generals CC",
+      "startTime": "06:30:00 AM 11-10-2025"
     }
   ]
 }
