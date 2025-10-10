@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:23 AM 10-10-2025",
+  "last update time": "09:04 AM 10-10-2025",
   "matches": [
     {
       "id": 137427,
@@ -32,20 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133957_english_hls_5def3890143213ta-di_h264/index.m3u8"
     },
     {
-      "id": 137304,
-      "event_category": "Cricket",
-      "title": "New York Lions CC vs Houston Generals CC (National Cricket T10 League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137304_CASACARDS_APP.png",
-      "team_1": "New York Lions CC",
-      "team_2": "Houston Generals CC",
-      "status": "LIVE",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "New York Lions CC vs Houston Generals CC",
-      "startTime": "06:30:00 AM 10-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZbjC7FE9THOacSaRu78UUA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137304_english_hls_fed31b602d66901ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137577,
       "event_category": "Baseball",
       "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
@@ -72,6 +58,20 @@
       "startTime": "08:30:00 AM 10-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/dEnEkTb8SHmSa5dqnMUgGA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137312_english_hls_31bce0e3f497328ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137419,
+      "event_category": "Live events",
+      "title": "Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_05.jpg",
+      "team_1": "Badminton",
+      "team_2": "TNPESU , Chengalpattu",
+      "status": "LIVE",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Badminton",
+      "startTime": "09:00:00 AM 10-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/vmts7JF2R6GmGkmhcDaW_w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137419_english_hls_3f9645089367383ta-di_h264/index.m3u8"
     },
     {
       "id": 137428,
@@ -134,18 +134,6 @@
       "startTime": "07:00:00 PM 10-10-2025"
     },
     {
-      "id": 137619,
-      "event_category": "Football",
-      "title": "Indonesia U23 vs India U23 (International Friendlies)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/U-23_Friendlies_2025_Sporty_match-card_Old_match-card.jpg",
-      "team_1": "Indonesia U23",
-      "team_2": "India U23",
-      "status": "UPCOMING",
-      "event_name": "International Friendlies",
-      "match_name": "Indonesia U23 vs India U23",
-      "startTime": "06:30:00 PM 10-10-2025"
-    },
-    {
       "id": 137182,
       "event_category": "Cricket",
       "title": "Oman vs Papua New Guinea (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -156,6 +144,18 @@
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "Oman vs Papua New Guinea",
       "startTime": "08:30:00 PM 10-10-2025"
+    },
+    {
+      "id": 137619,
+      "event_category": "Football",
+      "title": "Indonesia U23 vs India U23 (International Friendlies)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/U-23_Friendlies_2025_Sporty_match-card_Old_match-card.jpg",
+      "team_1": "Indonesia U23",
+      "team_2": "India U23",
+      "status": "UPCOMING",
+      "event_name": "International Friendlies",
+      "match_name": "Indonesia U23 vs India U23",
+      "startTime": "06:30:00 PM 10-10-2025"
     },
     {
       "id": 137486,
@@ -192,6 +192,30 @@
       "event_name": "Canada Women Super 60, 2025",
       "match_name": "Toronto Sixers Women vs Vancouver Thunderbirds Women",
       "startTime": "03:30:00 AM 11-10-2025"
+    },
+    {
+      "id": 133959,
+      "event_category": "Cricket",
+      "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "team_1": "New South Wales Breakers",
+      "team_2": "Western Australia Women",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "New South Wales Breakers vs Western Australia Women",
+      "startTime": "04:30:00 AM 11-10-2025"
+    },
+    {
+      "id": 137305,
+      "event_category": "Cricket",
+      "title": "Atlanta Kings CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_APP.png",
+      "team_1": "Atlanta Kings CC",
+      "team_2": "Los Angeles Waves CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Atlanta Kings CC vs Los Angeles Waves CC",
+      "startTime": "04:30:00 AM 11-10-2025"
     },
     {
       "id": 137528,
@@ -254,30 +278,6 @@
       "startTime": "06:30:00 PM 10-10-2025"
     },
     {
-      "id": 133959,
-      "event_category": "Cricket",
-      "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
-      "team_1": "New South Wales Breakers",
-      "team_2": "Western Australia Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "New South Wales Breakers vs Western Australia Women",
-      "startTime": "04:30:00 AM 11-10-2025"
-    },
-    {
-      "id": 137305,
-      "event_category": "Cricket",
-      "title": "Atlanta Kings CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_APP.png",
-      "team_1": "Atlanta Kings CC",
-      "team_2": "Los Angeles Waves CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Atlanta Kings CC vs Los Angeles Waves CC",
-      "startTime": "04:30:00 AM 11-10-2025"
-    },
-    {
       "id": 137533,
       "event_category": "Football",
       "title": "São Tomé e Príncipe vs Tunisia (CAF World Cup Qualifiers)",
@@ -324,18 +324,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Lesotho vs Nigeria",
       "startTime": "09:30:00 PM 10-10-2025"
-    },
-    {
-      "id": 137419,
-      "event_category": "Live events",
-      "title": "Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_05.jpg",
-      "team_1": "Badminton",
-      "team_2": "TNPESU , Chengalpattu",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Badminton",
-      "startTime": "09:00:00 AM 10-10-2025"
     },
     {
       "id": 137211,
@@ -407,7 +395,7 @@
       "status": "UPCOMING",
       "event_name": "Major League Baseball, 2025",
       "match_name": "Detroit Tigers vs Seattle Mariners",
-      "startTime": "02:10:00 AM 11-10-2025"
+      "startTime": "05:38:00 AM 11-10-2025"
     },
     {
       "id": 136882,
@@ -419,6 +407,18 @@
       "status": "UPCOMING",
       "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
       "match_name": "Afghanistan vs Bangladesh",
+      "startTime": "05:30:00 PM 11-10-2025"
+    },
+    {
+      "id": 137263,
+      "event_category": "Cricket",
+      "title": "Namibia vs South Africa (South Africa tour of Namibia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa--old-match-card_1760067056062.png",
+      "team_1": "Namibia",
+      "team_2": "South Africa",
+      "status": "UPCOMING",
+      "event_name": "South Africa tour of Namibia, 2025",
+      "match_name": "Namibia vs South Africa",
       "startTime": "05:30:00 PM 11-10-2025"
     }
   ]
