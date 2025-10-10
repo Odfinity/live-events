@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:15 AM 10-10-2025",
+  "last update time": "08:23 AM 10-10-2025",
   "matches": [
     {
-      "id": 137426,
+      "id": 137427,
       "event_category": "Cricket",
-      "title": "Vancouver Kings vs Montreal Royal Tigers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137426_5719_MRT_VCK_fc-Web.jpg",
-      "team_1": "Vancouver Kings",
-      "team_2": "Montreal Royal Tigers",
+      "title": "White Rock Warriors vs Toronto Sixers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137427_5719_WRW_TTS_fc-Web.jpg",
+      "team_1": "White Rock Warriors",
+      "team_2": "Toronto Sixers",
       "status": "LIVE",
       "event_name": "Canada Super 60, 2025",
-      "match_name": "Vancouver Kings vs Montreal Royal Tigers",
-      "startTime": "05:30:00 AM 10-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ipGdLhEvS5yCqfz1gIoeAw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137426_english_hls_1783e3951747655ta-di_h264/index.m3u8"
+      "match_name": "White Rock Warriors vs Toronto Sixers",
+      "startTime": "08:00:00 AM 10-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Q4kF_CeUR72zUkNLp9zpaQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137427_english_hls_552035c5aa9561ta-di_h264/index.m3u8"
     },
     {
       "id": 133957,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137304_english_hls_fed31b602d66901ta-di_h264/index.m3u8"
     },
     {
-      "id": 137576,
-      "event_category": "Baseball",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_APP.png",
-      "team_1": "Philadelphia Phillies",
-      "team_2": "Los Angeles Dodgers",
-      "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "startTime": "03:38:00 AM 10-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137576_english_hls_08fa4c5f2242469ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137576_english_hls_08fa4c5f2242469ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137577,
       "event_category": "Baseball",
       "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
@@ -74,16 +60,30 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137577_english_hls_0913c4494766477ta-di_h264/index.m3u8"
     },
     {
-      "id": 137427,
+      "id": 137312,
+      "event_category": "Golf",
+      "title": "Day 2 vs Yokohama Country Club (Baycurrent Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+      "team_1": "Day 2",
+      "team_2": "Yokohama Country Club",
+      "status": "LIVE",
+      "event_name": "Baycurrent Classic",
+      "match_name": "Day 2",
+      "startTime": "08:30:00 AM 10-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/dEnEkTb8SHmSa5dqnMUgGA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137312_english_hls_31bce0e3f497328ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137428,
       "event_category": "Cricket",
-      "title": "White Rock Warriors vs Toronto Sixers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137427_5719_WRW_TTS_fc-Web.jpg",
-      "team_1": "White Rock Warriors",
-      "team_2": "Toronto Sixers",
+      "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137428_5719_VCK_MGM_fc-Web.jpg",
+      "team_1": "Vancouver Kings",
+      "team_2": "Mississauga Masters",
       "status": "UPCOMING",
       "event_name": "Canada Super 60, 2025",
-      "match_name": "White Rock Warriors vs Toronto Sixers",
-      "startTime": "08:00:00 AM 10-10-2025"
+      "match_name": "Vancouver Kings vs Mississauga Masters",
+      "startTime": "05:30:00 AM 11-10-2025"
     },
     {
       "id": 137459,
@@ -134,18 +134,6 @@
       "startTime": "07:00:00 PM 10-10-2025"
     },
     {
-      "id": 137428,
-      "event_category": "Cricket",
-      "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137428_5719_VCK_MGM_fc-Web.jpg",
-      "team_1": "Vancouver Kings",
-      "team_2": "Mississauga Masters",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Vancouver Kings vs Mississauga Masters",
-      "startTime": "05:30:00 AM 11-10-2025"
-    },
-    {
       "id": 137619,
       "event_category": "Football",
       "title": "Indonesia U23 vs India U23 (International Friendlies)",
@@ -192,6 +180,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Brampton Blitz vs White Rock Warriors",
       "startTime": "08:00:00 AM 11-10-2025"
+    },
+    {
+      "id": 137460,
+      "event_category": "Cricket",
+      "title": "Toronto Sixers Women vs Vancouver Thunderbirds Women (Canada Women Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png",
+      "team_1": "Toronto Sixers Women",
+      "team_2": "Vancouver Thunderbirds Women",
+      "status": "UPCOMING",
+      "event_name": "Canada Women Super 60, 2025",
+      "match_name": "Toronto Sixers Women vs Vancouver Thunderbirds Women",
+      "startTime": "03:30:00 AM 11-10-2025"
     },
     {
       "id": 137528,
@@ -254,16 +254,28 @@
       "startTime": "06:30:00 PM 10-10-2025"
     },
     {
-      "id": 137460,
+      "id": 133959,
       "event_category": "Cricket",
-      "title": "Toronto Sixers Women vs Vancouver Thunderbirds Women (Canada Women Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png",
-      "team_1": "Toronto Sixers Women",
-      "team_2": "Vancouver Thunderbirds Women",
+      "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "team_1": "New South Wales Breakers",
+      "team_2": "Western Australia Women",
       "status": "UPCOMING",
-      "event_name": "Canada Women Super 60, 2025",
-      "match_name": "Toronto Sixers Women vs Vancouver Thunderbirds Women",
-      "startTime": "03:30:00 AM 11-10-2025"
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "New South Wales Breakers vs Western Australia Women",
+      "startTime": "04:30:00 AM 11-10-2025"
+    },
+    {
+      "id": 137305,
+      "event_category": "Cricket",
+      "title": "Atlanta Kings CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_APP.png",
+      "team_1": "Atlanta Kings CC",
+      "team_2": "Los Angeles Waves CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Atlanta Kings CC vs Los Angeles Waves CC",
+      "startTime": "04:30:00 AM 11-10-2025"
     },
     {
       "id": 137533,
@@ -314,28 +326,16 @@
       "startTime": "09:30:00 PM 10-10-2025"
     },
     {
-      "id": 133959,
-      "event_category": "Cricket",
-      "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
-      "team_1": "New South Wales Breakers",
-      "team_2": "Western Australia Women",
+      "id": 137419,
+      "event_category": "Live events",
+      "title": "Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_05.jpg",
+      "team_1": "Badminton",
+      "team_2": "TNPESU , Chengalpattu",
       "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "New South Wales Breakers vs Western Australia Women",
-      "startTime": "04:30:00 AM 11-10-2025"
-    },
-    {
-      "id": 137305,
-      "event_category": "Cricket",
-      "title": "Atlanta Kings CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_APP.png",
-      "team_1": "Atlanta Kings CC",
-      "team_2": "Los Angeles Waves CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Atlanta Kings CC vs Los Angeles Waves CC",
-      "startTime": "04:30:00 AM 11-10-2025"
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Badminton",
+      "startTime": "09:00:00 AM 10-10-2025"
     },
     {
       "id": 137211,
@@ -374,30 +374,6 @@
       "startTime": "11:00:00 AM 11-10-2025"
     },
     {
-      "id": 137312,
-      "event_category": "Golf",
-      "title": "Day 2 vs Yokohama Country Club (Baycurrent Classic)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-      "team_1": "Day 2",
-      "team_2": "Yokohama Country Club",
-      "status": "UPCOMING",
-      "event_name": "Baycurrent Classic",
-      "match_name": "Day 2",
-      "startTime": "08:30:00 AM 10-10-2025"
-    },
-    {
-      "id": 137419,
-      "event_category": "Live events",
-      "title": "Badminton vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_05.jpg",
-      "team_1": "Badminton",
-      "team_2": "TNPESU , Chengalpattu",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Badminton",
-      "startTime": "09:00:00 AM 10-10-2025"
-    },
-    {
       "id": 137421,
       "event_category": "Live events",
       "title": "Basketball vs District Sports Complex, Coimbatore (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -432,6 +408,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Detroit Tigers vs Seattle Mariners",
       "startTime": "02:10:00 AM 11-10-2025"
+    },
+    {
+      "id": 136882,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
+      "match_name": "Afghanistan vs Bangladesh",
+      "startTime": "05:30:00 PM 11-10-2025"
     }
   ]
 }
