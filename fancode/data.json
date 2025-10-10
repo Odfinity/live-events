@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 10-10-2025",
+  "last update time": "06:17 PM 10-10-2025",
   "matches": [
     {
       "id": 137619,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/U-23_Friendlies_2025_Sporty_match-card_Old_match-card.jpg",
       "team_1": "Indonesia U23",
       "team_2": "India U23",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "International Friendlies",
       "match_name": "Indonesia U23 vs India U23",
-      "startTime": "06:30:00 PM 10-10-2025"
+      "startTime": "06:30:00 PM 10-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/aG5mc2TYScGi6Op3G5R-cA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137619_english_hls_4525cab9db30574ta-di_h264/index.m3u8"
     },
     {
       "id": 137181,
@@ -44,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137421_english_hls_81497be99823255ta-di_h264/index.m3u8"
     },
     {
+      "id": 136860,
+      "event_category": "Golf",
+      "title": "Day 2 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Club de Campo Villa de Madrid",
+      "status": "LIVE",
+      "event_name": "Acciona Spanish Open presented by Madrid",
+      "match_name": "Day 2",
+      "startTime": "05:30:00 PM 10-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/r1gr8ALPQfONBmm1vintxA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136860_english_hls_e6153f70321861ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137428,
       "event_category": "Cricket",
       "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
@@ -68,6 +84,18 @@
       "startTime": "08:00:00 AM 11-10-2025"
     },
     {
+      "id": 137485,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi vs Dubai (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137485_5722_ABD_DUB_fc-web.jpg",
+      "team_1": "Abu Dhabi",
+      "team_2": "Dubai",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Abu Dhabi vs Dubai",
+      "startTime": "07:00:00 PM 10-10-2025"
+    },
+    {
       "id": 137430,
       "event_category": "Cricket",
       "title": "Toronto Sixers vs Montreal Royal Tigers (Canada Super 60, 2025)",
@@ -80,16 +108,64 @@
       "startTime": "11:00:00 AM 11-10-2025"
     },
     {
-      "id": 137485,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Dubai (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137485_5722_ABD_DUB_fc-web.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Dubai",
+      "id": 137528,
+      "event_category": "Football",
+      "title": "Seychelles vs Côte d'Ivoire (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137528_3741_SEY_IVC_FC-Web.jpg",
+      "team_1": "Seychelles",
+      "team_2": "Côte d'Ivoire",
       "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Abu Dhabi vs Dubai",
-      "startTime": "07:00:00 PM 10-10-2025"
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Seychelles vs Côte d'Ivoire",
+      "startTime": "06:30:00 PM 10-10-2025"
+    },
+    {
+      "id": 137527,
+      "event_category": "Football",
+      "title": "Sudan vs Mauritania (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137527_3741_SUD_MAU_FC-Web.jpg",
+      "team_1": "Sudan",
+      "team_2": "Mauritania",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Sudan vs Mauritania",
+      "startTime": "06:30:00 PM 10-10-2025"
+    },
+    {
+      "id": 137526,
+      "event_category": "Football",
+      "title": "Togo vs Congo DR (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137526_3741_TGO_DCG_FC-Web.jpg",
+      "team_1": "Togo",
+      "team_2": "Congo DR",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Togo vs Congo DR",
+      "startTime": "06:30:00 PM 10-10-2025"
+    },
+    {
+      "id": 137525,
+      "event_category": "Football",
+      "title": "South Sudan vs Senegal (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137525_3741_SS_SEN_FC-Web.jpg",
+      "team_1": "South Sudan",
+      "team_2": "Senegal",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "South Sudan vs Senegal",
+      "startTime": "06:30:00 PM 10-10-2025"
+    },
+    {
+      "id": 137529,
+      "event_category": "Football",
+      "title": "Gambia vs Gabon (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137529_3741_GAM_GAB_FC-Web.jpg",
+      "team_1": "Gambia",
+      "team_2": "Gabon",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Gambia vs Gabon",
+      "startTime": "06:30:00 PM 10-10-2025"
     },
     {
       "id": 137182,
@@ -188,66 +264,6 @@
       "startTime": "05:30:00 PM 11-10-2025"
     },
     {
-      "id": 137528,
-      "event_category": "Football",
-      "title": "Seychelles vs Côte d'Ivoire (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137528_3741_SEY_IVC_FC-Web.jpg",
-      "team_1": "Seychelles",
-      "team_2": "Côte d'Ivoire",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Seychelles vs Côte d'Ivoire",
-      "startTime": "06:30:00 PM 10-10-2025"
-    },
-    {
-      "id": 137527,
-      "event_category": "Football",
-      "title": "Sudan vs Mauritania (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137527_3741_SUD_MAU_FC-Web.jpg",
-      "team_1": "Sudan",
-      "team_2": "Mauritania",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Sudan vs Mauritania",
-      "startTime": "06:30:00 PM 10-10-2025"
-    },
-    {
-      "id": 137526,
-      "event_category": "Football",
-      "title": "Togo vs Congo DR (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137526_3741_TGO_DCG_FC-Web.jpg",
-      "team_1": "Togo",
-      "team_2": "Congo DR",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Togo vs Congo DR",
-      "startTime": "06:30:00 PM 10-10-2025"
-    },
-    {
-      "id": 137525,
-      "event_category": "Football",
-      "title": "South Sudan vs Senegal (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137525_3741_SS_SEN_FC-Web.jpg",
-      "team_1": "South Sudan",
-      "team_2": "Senegal",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "South Sudan vs Senegal",
-      "startTime": "06:30:00 PM 10-10-2025"
-    },
-    {
-      "id": 137529,
-      "event_category": "Football",
-      "title": "Gambia vs Gabon (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137529_3741_GAM_GAB_FC-Web.jpg",
-      "team_1": "Gambia",
-      "team_2": "Gabon",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Gambia vs Gabon",
-      "startTime": "06:30:00 PM 10-10-2025"
-    },
-    {
       "id": 137533,
       "event_category": "Football",
       "title": "São Tomé e Príncipe vs Tunisia (CAF World Cup Qualifiers)",
@@ -306,18 +322,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Granada vs Las Palmas",
       "startTime": "12:00:00 AM 11-10-2025"
-    },
-    {
-      "id": 136860,
-      "event_category": "Golf",
-      "title": "Day 2 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Club de Campo Villa de Madrid",
-      "status": "UPCOMING",
-      "event_name": "Acciona Spanish Open presented by Madrid",
-      "match_name": "Day 2",
-      "startTime": "05:30:00 PM 10-10-2025"
     },
     {
       "id": 137487,
