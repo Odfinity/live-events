@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:20 AM 11-10-2025",
+  "last update time": "03:49 AM 11-10-2025",
   "matches": [
+    {
+      "id": 137460,
+      "event_category": "Cricket",
+      "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png",
+      "team_1": "Vancouver Thunderbirds Women",
+      "team_2": "Toronto Sixers Women",
+      "status": "LIVE",
+      "event_name": "Canada Women Super 60, 2025",
+      "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
+      "startTime": "03:30:00 AM 11-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/iZ-FYemHRhacmlZvoUf4Zg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137460_english_hls_f8ef6b436992874ta-di_h264/index.m3u8"
+    },
     {
       "id": 137428,
       "event_category": "Cricket",
@@ -62,18 +76,6 @@
       "event_name": "South Africa tour of Namibia, 2025",
       "match_name": "Namibia vs South Africa",
       "startTime": "05:30:00 PM 11-10-2025"
-    },
-    {
-      "id": 137460,
-      "event_category": "Cricket",
-      "title": "Toronto Sixers Women vs Vancouver Thunderbirds Women (Canada Women Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137460_5721_TSW_VTW_fc-Web.png",
-      "team_1": "Toronto Sixers Women",
-      "team_2": "Vancouver Thunderbirds Women",
-      "status": "UPCOMING",
-      "event_name": "Canada Women Super 60, 2025",
-      "match_name": "Toronto Sixers Women vs Vancouver Thunderbirds Women",
-      "startTime": "03:30:00 AM 11-10-2025"
     },
     {
       "id": 133959,
@@ -148,18 +150,6 @@
       "startTime": "10:45:00 PM 11-10-2025"
     },
     {
-      "id": 137266,
-      "event_category": "Football",
-      "title": "Iraq vs Indonesia (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137266_3740_IRQ_INA_fc-Web.jpg",
-      "team_1": "Iraq",
-      "team_2": "Indonesia",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Iraq vs Indonesia",
-      "startTime": "01:00:00 AM 12-10-2025"
-    },
-    {
       "id": 137431,
       "event_category": "Cricket",
       "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2025)",
@@ -170,6 +160,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Mississauga Masters vs Toronto Sixers",
       "startTime": "05:30:00 AM 12-10-2025"
+    },
+    {
+      "id": 137266,
+      "event_category": "Football",
+      "title": "Iraq vs Indonesia (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137266_3740_IRQ_INA_fc-Web.jpg",
+      "team_1": "Iraq",
+      "team_2": "Indonesia",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Iraq vs Indonesia",
+      "startTime": "01:00:00 AM 12-10-2025"
     },
     {
       "id": 136999,
