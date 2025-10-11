@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:21 AM 12-10-2025",
+  "last update time": "02:47 AM 12-10-2025",
   "matches": [
     {
       "id": 137266,
@@ -16,6 +16,20 @@
       "startTime": "01:00:00 AM 12-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/XR5OvNWORSuLNIPtvhXUPA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137266_english_hls_7f222a51ba38053ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137461,
+      "event_category": "Cricket",
+      "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137461_5721_VTW_TSW_fc-Web.png",
+      "team_1": "Vancouver Thunderbirds Women",
+      "team_2": "Toronto Sixers Women",
+      "status": "LIVE",
+      "event_name": "Canada Women Super 60, 2025",
+      "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
+      "startTime": "03:00:00 AM 12-10-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 137431,
@@ -52,18 +66,6 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Vancouver Kings vs Brampton Blitz",
       "startTime": "11:00:00 AM 12-10-2025"
-    },
-    {
-      "id": 137461,
-      "event_category": "Cricket",
-      "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137461_5721_VTW_TSW_fc-Web.png",
-      "team_1": "Vancouver Thunderbirds Women",
-      "team_2": "Toronto Sixers Women",
-      "status": "UPCOMING",
-      "event_name": "Canada Women Super 60, 2025",
-      "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
-      "startTime": "03:00:00 AM 12-10-2025"
     },
     {
       "id": 137307,
@@ -186,18 +188,6 @@
       "startTime": "07:45:00 PM 12-10-2025"
     },
     {
-      "id": 137535,
-      "event_category": "Football",
-      "title": "Chad vs Central African Republic (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137535_3741_CHA_CAF_FC-Web.jpg",
-      "team_1": "Chad",
-      "team_2": "Central African Republic",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Chad vs Central African Republic",
-      "startTime": "09:30:00 PM 12-10-2025"
-    },
-    {
       "id": 137434,
       "event_category": "Cricket",
       "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2025)",
@@ -208,6 +198,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Brampton Blitz vs Montreal Royal Tigers",
       "startTime": "05:30:00 AM 13-10-2025"
+    },
+    {
+      "id": 137535,
+      "event_category": "Football",
+      "title": "Chad vs Central African Republic (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137535_3741_CHA_CAF_FC-Web.jpg",
+      "team_1": "Chad",
+      "team_2": "Central African Republic",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Chad vs Central African Republic",
+      "startTime": "09:30:00 PM 12-10-2025"
     },
     {
       "id": 137540,
@@ -270,30 +272,6 @@
       "startTime": "12:30:00 AM 13-10-2025"
     },
     {
-      "id": 137580,
-      "event_category": "Baseball",
-      "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137580_CASACARDS_APP.png",
-      "team_1": "Chicago Cubs",
-      "team_2": "Milwaukee Brewers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Chicago Cubs vs Milwaukee Brewers",
-      "startTime": "05:38:00 AM 12-10-2025"
-    },
-    {
-      "id": 137314,
-      "event_category": "Golf",
-      "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-      "team_1": "Day 4",
-      "team_2": "Yokohama Country Club",
-      "status": "UPCOMING",
-      "event_name": "Baycurrent Classic",
-      "match_name": "Day 4",
-      "startTime": "08:30:00 AM 12-10-2025"
-    },
-    {
       "id": 137435,
       "event_category": "Cricket",
       "title": "Toronto Sixers vs Vancouver Kings (Canada Super 60, 2025)",
@@ -306,6 +284,18 @@
       "startTime": "08:00:00 AM 13-10-2025"
     },
     {
+      "id": 137580,
+      "event_category": "Baseball",
+      "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137580_CASACARDS_APP.png",
+      "team_1": "Chicago Cubs",
+      "team_2": "Milwaukee Brewers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Chicago Cubs vs Milwaukee Brewers",
+      "startTime": "05:38:00 AM 12-10-2025"
+    },
+    {
       "id": 137309,
       "event_category": "Cricket",
       "title": "TBC vs TBC (National Cricket T10 League, 2025)",
@@ -316,6 +306,18 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "05:30:00 AM 13-10-2025"
+    },
+    {
+      "id": 137314,
+      "event_category": "Golf",
+      "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+      "team_1": "Day 4",
+      "team_2": "Yokohama Country Club",
+      "status": "UPCOMING",
+      "event_name": "Baycurrent Classic",
+      "match_name": "Day 4",
+      "startTime": "08:30:00 AM 12-10-2025"
     },
     {
       "id": 136862,
