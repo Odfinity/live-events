@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:17 AM 12-10-2025",
+  "last update time": "05:28 AM 12-10-2025",
   "matches": [
     {
-      "id": 137461,
+      "id": 137431,
       "event_category": "Cricket",
-      "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137461_5721_VTW_TSW_fc-Web.png",
-      "team_1": "Vancouver Thunderbirds Women",
-      "team_2": "Toronto Sixers Women",
+      "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137431_5719_MGM_TTS_fc-Web.jpg",
+      "team_1": "Mississauga Masters",
+      "team_2": "Toronto Sixers",
       "status": "LIVE",
-      "event_name": "Canada Women Super 60, 2025",
-      "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
-      "startTime": "03:00:00 AM 12-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ljuWVwr5QmyBPCMPjYfybA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137461_english_hls_9317bf3604662ta-di_h264/index.m3u8"
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Mississauga Masters vs Toronto Sixers",
+      "startTime": "05:30:00 AM 12-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/JOfN_IyjQ0C5r5cdT2uKFQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137431_english_hls_cbf2fecfbc48860ta-di_h264/index.m3u8"
     },
     {
       "id": 137307,
@@ -46,16 +46,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133960_english_hls_f882096df795117ta-di_h264/index.m3u8"
     },
     {
-      "id": 137431,
-      "event_category": "Cricket",
-      "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137431_5719_MGM_TTS_fc-Web.jpg",
-      "team_1": "Mississauga Masters",
-      "team_2": "Toronto Sixers",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Mississauga Masters vs Toronto Sixers",
-      "startTime": "05:30:00 AM 12-10-2025"
+      "id": 137580,
+      "event_category": "Baseball",
+      "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137580_CASACARDS_APP.png",
+      "team_1": "Chicago Cubs",
+      "team_2": "Milwaukee Brewers",
+      "status": "LIVE",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Chicago Cubs vs Milwaukee Brewers",
+      "startTime": "05:38:00 AM 12-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137580_english_hls_d43ea87e7268658ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137580_english_hls_d43ea87e7268658ta-di_h264/index.m3u8"
     },
     {
       "id": 137432,
@@ -178,18 +180,6 @@
       "startTime": "06:30:00 PM 12-10-2025"
     },
     {
-      "id": 137580,
-      "event_category": "Baseball",
-      "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137580_CASACARDS_APP.png",
-      "team_1": "Chicago Cubs",
-      "team_2": "Milwaukee Brewers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Chicago Cubs vs Milwaukee Brewers",
-      "startTime": "05:38:00 AM 12-10-2025"
-    },
-    {
       "id": 137212,
       "event_category": "Football",
       "title": "Sporting de Gijón vs Racing de Santander (LALIGA Hypermotion 2025-26)",
@@ -298,18 +288,6 @@
       "startTime": "05:30:00 AM 13-10-2025"
     },
     {
-      "id": 137314,
-      "event_category": "Golf",
-      "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-      "team_1": "Day 4",
-      "team_2": "Yokohama Country Club",
-      "status": "UPCOMING",
-      "event_name": "Baycurrent Classic",
-      "match_name": "Day 4",
-      "startTime": "08:30:00 AM 12-10-2025"
-    },
-    {
       "id": 137436,
       "event_category": "Cricket",
       "title": "Mississauga Masters vs White Rock Warriors (Canada Super 60, 2025)",
@@ -320,6 +298,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Mississauga Masters vs White Rock Warriors",
       "startTime": "11:00:00 AM 13-10-2025"
+    },
+    {
+      "id": 137314,
+      "event_category": "Golf",
+      "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+      "team_1": "Day 4",
+      "team_2": "Yokohama Country Club",
+      "status": "UPCOMING",
+      "event_name": "Baycurrent Classic",
+      "match_name": "Day 4",
+      "startTime": "08:30:00 AM 12-10-2025"
     },
     {
       "id": 136862,
@@ -334,18 +324,6 @@
       "startTime": "04:00:00 PM 12-10-2025"
     },
     {
-      "id": 137420,
-      "event_category": "Live events",
-      "title": "Kabaddi vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-      "team_1": "Kabaddi",
-      "team_2": "TNPESU , Chengalpattu",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Kabaddi",
-      "startTime": "10:30:00 AM 13-10-2025"
-    },
-    {
       "id": 137186,
       "event_category": "Cricket",
       "title": "Oman vs United Arab Emirates (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -356,6 +334,18 @@
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "Oman vs United Arab Emirates",
       "startTime": "04:00:00 PM 13-10-2025"
+    },
+    {
+      "id": 137420,
+      "event_category": "Live events",
+      "title": "Kabaddi vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Kabaddi",
+      "team_2": "TNPESU , Chengalpattu",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Kabaddi",
+      "startTime": "10:30:00 AM 13-10-2025"
     },
     {
       "id": 137620,
@@ -403,6 +393,18 @@
       "status": "UPCOMING",
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Equatorial Guinea vs Liberia",
+      "startTime": "06:30:00 PM 13-10-2025"
+    },
+    {
+      "id": 137543,
+      "event_category": "Football",
+      "title": "São Tomé e Príncipe vs Malawi (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137543_3741_STP_MAL_FC-Web.jpg",
+      "team_1": "São Tomé e Príncipe",
+      "team_2": "Malawi",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "São Tomé e Príncipe vs Malawi",
       "startTime": "06:30:00 PM 13-10-2025"
     }
   ]
