@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:49 PM 11-10-2025",
+  "last update time": "11:02 PM 11-10-2025",
   "matches": [
     {
       "id": 136882,
@@ -16,6 +16,20 @@
       "startTime": "05:30:00 PM 11-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/PFDsJW1yQcGBWOxssGpKqg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136882_english_hls_76b1e59f7338382ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137488,
+      "event_category": "Cricket",
+      "title": "Fujairah vs Ajman (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137488_5722_AJM_FUJ_fc-web.jpg",
+      "team_1": "Fujairah",
+      "team_2": "Ajman",
+      "status": "LIVE",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Fujairah vs Ajman",
+      "startTime": "11:00:00 PM 11-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gzG3eA9nRPez1u3xNwLwRg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137488_english_hls_587b0b804380402ta-di_h264/index.m3u8"
     },
     {
       "id": 137265,
@@ -94,18 +108,6 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Vancouver Kings vs Brampton Blitz",
       "startTime": "11:00:00 AM 12-10-2025"
-    },
-    {
-      "id": 137488,
-      "event_category": "Cricket",
-      "title": "Ajman vs Fujairah (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137488_5722_AJM_FUJ_fc-web.jpg",
-      "team_1": "Ajman",
-      "team_2": "Fujairah",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Ajman vs Fujairah",
-      "startTime": "11:00:00 PM 11-10-2025"
     },
     {
       "id": 137461,
@@ -288,6 +290,18 @@
       "startTime": "08:30:00 AM 12-10-2025"
     },
     {
+      "id": 137434,
+      "event_category": "Cricket",
+      "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137434_5719_BBZ_MRT_fc-Web.jpg",
+      "team_1": "Brampton Blitz",
+      "team_2": "Montreal Royal Tigers",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Brampton Blitz vs Montreal Royal Tigers",
+      "startTime": "05:30:00 AM 13-10-2025"
+    },
+    {
       "id": 137540,
       "event_category": "Football",
       "title": "Ghana vs Comoros (CAF World Cup Qualifiers)",
@@ -348,18 +362,6 @@
       "startTime": "12:30:00 AM 13-10-2025"
     },
     {
-      "id": 137434,
-      "event_category": "Cricket",
-      "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137434_5719_BBZ_MRT_fc-Web.jpg",
-      "team_1": "Brampton Blitz",
-      "team_2": "Montreal Royal Tigers",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Brampton Blitz vs Montreal Royal Tigers",
-      "startTime": "05:30:00 AM 13-10-2025"
-    },
-    {
       "id": 136862,
       "event_category": "Golf",
       "title": "Day 4 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
@@ -406,6 +408,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Mississauga Masters vs White Rock Warriors",
       "startTime": "11:00:00 AM 13-10-2025"
+    },
+    {
+      "id": 137420,
+      "event_category": "Live events",
+      "title": "Kabaddi vs TNPESU , Chengalpattu (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Kabaddi",
+      "team_2": "TNPESU , Chengalpattu",
+      "status": "UPCOMING",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Kabaddi",
+      "startTime": "10:30:00 AM 13-10-2025"
     }
   ]
 }
