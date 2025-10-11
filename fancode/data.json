@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:13 AM 11-10-2025",
+  "last update time": "08:47 AM 11-10-2025",
   "matches": [
-    {
-      "id": 137428,
-      "event_category": "Cricket",
-      "title": "Vancouver Kings vs Mississauga Masters (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137428_5719_VCK_MGM_fc-Web.jpg",
-      "team_1": "Vancouver Kings",
-      "team_2": "Mississauga Masters",
-      "status": "LIVE",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Vancouver Kings vs Mississauga Masters",
-      "startTime": "05:30:00 AM 11-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/v26klIheT2q0v-KLYCBI3Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137428_english_hls_3e322aa86c67719ta-di_h264/index.m3u8"
-    },
     {
       "id": 137429,
       "event_category": "Cricket",
@@ -46,20 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133959_english_hls_2164e8939718633ta-di_h264/index.m3u8"
     },
     {
-      "id": 137306,
-      "event_category": "Cricket",
-      "title": "Houston Generals CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
-      "team_1": "Houston Generals CC",
-      "team_2": "Dallas Lonestars CC",
-      "status": "LIVE",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Houston Generals CC vs Dallas Lonestars CC",
-      "startTime": "06:30:00 AM 11-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/qsmir9GzRFmhyF-A2xnn9g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137306_english_hls_8171759cbe36072ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137578,
       "event_category": "Baseball",
       "title": "Detroit Tigers vs Seattle Mariners (Major League Baseball, 2025)",
@@ -86,6 +58,20 @@
       "startTime": "06:30:00 AM 11-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/_YYznJfcSy6SipLTr_d0uQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137621_english_hls_b783c91d1c56442ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137313,
+      "event_category": "Golf",
+      "title": "Day 3 vs Yokohama Country Club (Baycurrent Classic)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+      "team_1": "Day 3",
+      "team_2": "Yokohama Country Club",
+      "status": "LIVE",
+      "event_name": "Baycurrent Classic",
+      "match_name": "Day 3",
+      "startTime": "08:30:00 AM 11-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RfTQJfAfQdK5MvAOYfpazw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137313_english_hls_b062645a7074444ta-di_h264/index.m3u8"
     },
     {
       "id": 137430,
@@ -172,18 +158,6 @@
       "startTime": "10:45:00 PM 11-10-2025"
     },
     {
-      "id": 137266,
-      "event_category": "Football",
-      "title": "Iraq vs Indonesia (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137266_3740_IRQ_INA_fc-Web.jpg",
-      "team_1": "Iraq",
-      "team_2": "Indonesia",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "Iraq vs Indonesia",
-      "startTime": "01:00:00 AM 12-10-2025"
-    },
-    {
       "id": 137432,
       "event_category": "Cricket",
       "title": "White Rock Warriors vs Montreal Royal Tigers (Canada Super 60, 2025)",
@@ -194,6 +168,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "White Rock Warriors vs Montreal Royal Tigers",
       "startTime": "08:00:00 AM 12-10-2025"
+    },
+    {
+      "id": 137266,
+      "event_category": "Football",
+      "title": "Iraq vs Indonesia (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137266_3740_IRQ_INA_fc-Web.jpg",
+      "team_1": "Iraq",
+      "team_2": "Indonesia",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Iraq vs Indonesia",
+      "startTime": "01:00:00 AM 12-10-2025"
     },
     {
       "id": 137461,
@@ -230,18 +216,6 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Queensland Fire vs ACT Meteors",
       "startTime": "05:00:00 AM 12-10-2025"
-    },
-    {
-      "id": 137313,
-      "event_category": "Golf",
-      "title": "Day 3 vs Yokohama Country Club (Baycurrent Classic)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-      "team_1": "Day 3",
-      "team_2": "Yokohama Country Club",
-      "status": "UPCOMING",
-      "event_name": "Baycurrent Classic",
-      "match_name": "Day 3",
-      "startTime": "08:30:00 AM 11-10-2025"
     },
     {
       "id": 136999,
@@ -292,18 +266,6 @@
       "startTime": "11:00:00 AM 12-10-2025"
     },
     {
-      "id": 136861,
-      "event_category": "Golf",
-      "title": "Day 3 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Club de Campo Villa de Madrid",
-      "status": "UPCOMING",
-      "event_name": "Acciona Spanish Open presented by Madrid",
-      "match_name": "Day 3",
-      "startTime": "05:00:00 PM 11-10-2025"
-    },
-    {
       "id": 137183,
       "event_category": "Cricket",
       "title": "Oman vs Qatar (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -314,6 +276,18 @@
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "Oman vs Qatar",
       "startTime": "11:30:00 AM 12-10-2025"
+    },
+    {
+      "id": 136861,
+      "event_category": "Golf",
+      "title": "Day 3 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Club de Campo Villa de Madrid",
+      "status": "UPCOMING",
+      "event_name": "Acciona Spanish Open presented by Madrid",
+      "match_name": "Day 3",
+      "startTime": "05:00:00 PM 11-10-2025"
     },
     {
       "id": 137580,
@@ -458,6 +432,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Emirates Blues vs Ajman",
       "startTime": "11:00:00 PM 12-10-2025"
+    },
+    {
+      "id": 137540,
+      "event_category": "Football",
+      "title": "Ghana vs Comoros (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137540_3741_GHA_COM_FC-Web.jpg",
+      "team_1": "Ghana",
+      "team_2": "Comoros",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Ghana vs Comoros",
+      "startTime": "12:30:00 AM 13-10-2025"
     }
   ]
 }
