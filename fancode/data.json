@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:20 PM 11-10-2025",
+  "last update time": "09:53 PM 11-10-2025",
   "matches": [
     {
       "id": 136882,
@@ -18,20 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136882_english_hls_76b1e59f7338382ta-di_h264/index.m3u8"
     },
     {
-      "id": 137263,
-      "event_category": "Cricket",
-      "title": "South Africa vs Namibia (South Africa tour of Namibia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa--old-match-card_1760067056062.png",
-      "team_1": "South Africa",
-      "team_2": "Namibia",
-      "status": "LIVE",
-      "event_name": "South Africa tour of Namibia, 2025",
-      "match_name": "South Africa vs Namibia",
-      "startTime": "05:30:00 PM 11-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/dAHlm-k5Qx6Bas_-p5JzBA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137263_english_hls_8679ec6bc653565ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137487,
       "event_category": "Cricket",
       "title": "Sharjah vs Abu Dhabi (Emirates D20 Tournament, 2025)",
@@ -46,18 +32,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137487_english_hls_98e391e8cc27315ta-di_h264/index.m3u8"
     },
     {
-      "id": 136861,
-      "event_category": "Golf",
-      "title": "Day 3 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Club de Campo Villa de Madrid",
+      "id": 136999,
+      "event_category": "Football",
+      "title": "Oldham Athletic vs Barrow (League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Oldham Athletic",
+      "team_2": "Barrow",
       "status": "LIVE",
-      "event_name": "Acciona Spanish Open presented by Madrid",
-      "match_name": "Day 3",
-      "startTime": "05:00:00 PM 11-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/wrdHfEVZTPSnLB8NqEp3EA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136861_english_hls_2ad647d5bd50752ta-di_h264/index.m3u8"
+      "event_name": "League Two 2025-26",
+      "match_name": "Oldham Athletic vs Barrow",
+      "startTime": "10:00:00 PM 11-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/nz07KXU7QeWSHZrENllYcw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136999_english_hls_8eff3e83388190ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137209,
+      "event_category": "Football",
+      "title": "Almería vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137209_5572_ALM_RZ_fc-Web.jpg",
+      "team_1": "Almería",
+      "team_2": "Real Zaragoza",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Almería vs Real Zaragoza",
+      "startTime": "10:00:00 PM 11-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Hsuhg3oZTZms2EBh9Dh3_Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137209_english_hls_20ae4c28513272ta-di_h264/index.m3u8"
     },
     {
       "id": 137431,
@@ -96,28 +96,16 @@
       "startTime": "11:00:00 AM 12-10-2025"
     },
     {
-      "id": 136999,
+      "id": 137265,
       "event_category": "Football",
-      "title": "Oldham Athletic vs Barrow (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Oldham Athletic",
-      "team_2": "Barrow",
+      "title": "United Arab Emirates vs Oman (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137265_3740_UAE_OMN_fc-Web.jpg",
+      "team_1": "United Arab Emirates",
+      "team_2": "Oman",
       "status": "UPCOMING",
-      "event_name": "League Two 2025-26",
-      "match_name": "Oldham Athletic vs Barrow",
-      "startTime": "10:00:00 PM 11-10-2025"
-    },
-    {
-      "id": 137209,
-      "event_category": "Football",
-      "title": "Almería vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137209_5572_ALM_RZ_fc-Web.jpg",
-      "team_1": "Almería",
-      "team_2": "Real Zaragoza",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Almería vs Real Zaragoza",
-      "startTime": "10:00:00 PM 11-10-2025"
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "United Arab Emirates vs Oman",
+      "startTime": "10:45:00 PM 11-10-2025"
     },
     {
       "id": 137488,
@@ -166,18 +154,6 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Queensland Fire vs ACT Meteors",
       "startTime": "05:00:00 AM 12-10-2025"
-    },
-    {
-      "id": 137265,
-      "event_category": "Football",
-      "title": "United Arab Emirates vs Oman (FIFA World Cup Asian Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137265_3740_UAE_OMN_fc-Web.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Oman",
-      "status": "UPCOMING",
-      "event_name": "FIFA World Cup Asian Qualifiers",
-      "match_name": "United Arab Emirates vs Oman",
-      "startTime": "10:45:00 PM 11-10-2025"
     },
     {
       "id": 137266,
@@ -430,6 +406,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Toronto Sixers vs Vancouver Kings",
       "startTime": "08:00:00 AM 13-10-2025"
+    },
+    {
+      "id": 137436,
+      "event_category": "Cricket",
+      "title": "Mississauga Masters vs White Rock Warriors (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137436_5719_MGM_WRW_fc-Web.jpg",
+      "team_1": "Mississauga Masters",
+      "team_2": "White Rock Warriors",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Mississauga Masters vs White Rock Warriors",
+      "startTime": "11:00:00 AM 13-10-2025"
     }
   ]
 }
