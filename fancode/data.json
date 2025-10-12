@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:03 AM 13-10-2025",
+  "last update time": "12:18 AM 13-10-2025",
   "matches": [
     {
       "id": 137490,
@@ -18,18 +18,74 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137490_english_hls_95695f8b5e81716ta-di_h264/index.m3u8"
     },
     {
-      "id": 137185,
-      "event_category": "Cricket",
-      "title": "Japan vs Samoa (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137185_CASACARDS_APP.png",
-      "team_1": "Japan",
-      "team_2": "Samoa",
+      "id": 137540,
+      "event_category": "Football",
+      "title": "Ghana vs Comoros (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ghana-VS-Comoros_old.jpg",
+      "team_1": "Ghana",
+      "team_2": "Comoros",
       "status": "LIVE",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "Japan vs Samoa",
-      "startTime": "08:30:00 PM 12-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eY0FBFDWRdy11oNXq6zg0w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137185_english_hls_2e928ad4b313487ta-di_h264/index.m3u8"
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Ghana vs Comoros",
+      "startTime": "12:30:00 AM 13-10-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 137539,
+      "event_category": "Football",
+      "title": "Mali vs Madagascar (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137539_3741_ML_MDG_FC-Web.jpg",
+      "team_1": "Mali",
+      "team_2": "Madagascar",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Mali vs Madagascar",
+      "startTime": "12:30:00 AM 13-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/hmJCSZvLS1OYuD7wiR3YMQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137539_english_hls_2bcb35f59a87378ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137538,
+      "event_category": "Football",
+      "title": "Burkina Faso vs Ethiopia (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137538_3741_BRK_ETH_FC-Web.jpg",
+      "team_1": "Burkina Faso",
+      "team_2": "Ethiopia",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Burkina Faso vs Ethiopia",
+      "startTime": "12:30:00 AM 13-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/10Hkw1zuQUa1nSV4cEJ0aw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137538_english_hls_10f08a487a72508ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137537,
+      "event_category": "Football",
+      "title": "Djibouti vs Sierra Leone (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137537_3741_DJI_SIL_FC-Web.jpg",
+      "team_1": "Djibouti",
+      "team_2": "Sierra Leone",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Djibouti vs Sierra Leone",
+      "startTime": "12:30:00 AM 13-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Wo7ZGveGSGuRcoNK1YTCXg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137537_english_hls_17c4fe458163090ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137536,
+      "event_category": "Football",
+      "title": "Egypt vs Guinea-Bissau (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Guinea-Bissau_old.jpg",
+      "team_1": "Egypt",
+      "team_2": "Guinea-Bissau",
+      "status": "LIVE",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Egypt vs Guinea-Bissau",
+      "startTime": "12:30:00 AM 13-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/AtFrJJLKTrGFTEjd0ZORRA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137536_english_hls_438546d9119787ta-di_h264/index.m3u8"
     },
     {
       "id": 137434,
@@ -66,66 +122,6 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "Mississauga Masters vs White Rock Warriors",
       "startTime": "11:00:00 AM 13-10-2025"
-    },
-    {
-      "id": 137540,
-      "event_category": "Football",
-      "title": "Ghana vs Comoros (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ghana-VS-Comoros_old.jpg",
-      "team_1": "Ghana",
-      "team_2": "Comoros",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Ghana vs Comoros",
-      "startTime": "12:30:00 AM 13-10-2025"
-    },
-    {
-      "id": 137539,
-      "event_category": "Football",
-      "title": "Mali vs Madagascar (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137539_3741_ML_MDG_FC-Web.jpg",
-      "team_1": "Mali",
-      "team_2": "Madagascar",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Mali vs Madagascar",
-      "startTime": "12:30:00 AM 13-10-2025"
-    },
-    {
-      "id": 137538,
-      "event_category": "Football",
-      "title": "Burkina Faso vs Ethiopia (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137538_3741_BRK_ETH_FC-Web.jpg",
-      "team_1": "Burkina Faso",
-      "team_2": "Ethiopia",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Burkina Faso vs Ethiopia",
-      "startTime": "12:30:00 AM 13-10-2025"
-    },
-    {
-      "id": 137537,
-      "event_category": "Football",
-      "title": "Djibouti vs Sierra Leone (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137537_3741_DJI_SIL_FC-Web.jpg",
-      "team_1": "Djibouti",
-      "team_2": "Sierra Leone",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Djibouti vs Sierra Leone",
-      "startTime": "12:30:00 AM 13-10-2025"
-    },
-    {
-      "id": 137536,
-      "event_category": "Football",
-      "title": "Egypt vs Guinea-Bissau (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Guinea-Bissau_old.jpg",
-      "team_1": "Egypt",
-      "team_2": "Guinea-Bissau",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Egypt vs Guinea-Bissau",
-      "startTime": "12:30:00 AM 13-10-2025"
     },
     {
       "id": 137309,
@@ -200,6 +196,18 @@
       "startTime": "02:30:00 AM 14-10-2025"
     },
     {
+      "id": 137492,
+      "event_category": "Cricket",
+      "title": "Dubai vs Ajman (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137492_5722_DUB_AJM_fc-web.jpg",
+      "team_1": "Dubai",
+      "team_2": "Ajman",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Dubai vs Ajman",
+      "startTime": "11:00:00 PM 13-10-2025"
+    },
+    {
       "id": 137544,
       "event_category": "Football",
       "title": "Equatorial Guinea vs Liberia (CAF World Cup Qualifiers)",
@@ -246,18 +254,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "South Sudan vs Togo",
       "startTime": "06:30:00 PM 13-10-2025"
-    },
-    {
-      "id": 137492,
-      "event_category": "Cricket",
-      "title": "Dubai vs Ajman (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137492_5722_DUB_AJM_fc-web.jpg",
-      "team_1": "Dubai",
-      "team_2": "Ajman",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Dubai vs Ajman",
-      "startTime": "11:00:00 PM 13-10-2025"
     },
     {
       "id": 137546,
@@ -414,6 +410,18 @@
       "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
       "match_name": "Road Cycling",
       "startTime": "10:00:00 AM 14-10-2025"
+    },
+    {
+      "id": 136883,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
+      "match_name": "Afghanistan vs Bangladesh",
+      "startTime": "05:30:00 PM 14-10-2025"
     },
     {
       "id": 137686,
