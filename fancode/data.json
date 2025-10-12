@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 PM 12-10-2025",
+  "last update time": "10:50 PM 12-10-2025",
   "matches": [
-    {
-      "id": 137489,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Dubai (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137489_5722_DUB_SHA_fc-web.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Dubai",
-      "status": "LIVE",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Sharjah vs Dubai",
-      "startTime": "07:00:00 PM 12-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/CvIjq_RETji_XglrqomoAQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137489_english_hls_e02bb8246697238ta-di_h264/index.m3u8"
-    },
     {
       "id": 137185,
       "event_category": "Cricket",
@@ -346,18 +332,6 @@
       "startTime": "09:00:00 AM 13-10-2025"
     },
     {
-      "id": 137210,
-      "event_category": "Football",
-      "title": "Córdoba vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137210_5572_CDB_CL_fc-Web.jpg",
-      "team_1": "Córdoba",
-      "team_2": "Cultural Leonesa",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Córdoba vs Cultural Leonesa",
-      "startTime": "12:00:00 AM 14-10-2025"
-    },
-    {
       "id": 137438,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Canada Super 60, 2025)",
@@ -368,6 +342,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "05:00:00 AM 14-10-2025"
+    },
+    {
+      "id": 137210,
+      "event_category": "Football",
+      "title": "Córdoba vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137210_5572_CDB_CL_fc-Web.jpg",
+      "team_1": "Córdoba",
+      "team_2": "Cultural Leonesa",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Córdoba vs Cultural Leonesa",
+      "startTime": "12:00:00 AM 14-10-2025"
     },
     {
       "id": 133961,
@@ -416,6 +402,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs Seattle Mariners",
       "startTime": "05:33:00 AM 13-10-2025"
+    },
+    {
+      "id": 137685,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137685_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Seattle Mariners",
+      "startTime": "02:33:00 AM 14-10-2025"
     }
   ]
 }
