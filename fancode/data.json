@@ -1,35 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:28 AM 12-10-2025",
+  "last update time": "07:31 AM 12-10-2025",
   "matches": [
     {
       "id": 137431,
       "event_category": "Cricket",
-      "title": "Mississauga Masters vs Toronto Sixers (Canada Super 60, 2025)",
+      "title": "Toronto Sixers vs Mississauga Masters (Canada Super 60, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137431_5719_MGM_TTS_fc-Web.jpg",
-      "team_1": "Mississauga Masters",
-      "team_2": "Toronto Sixers",
+      "team_1": "Toronto Sixers",
+      "team_2": "Mississauga Masters",
       "status": "LIVE",
       "event_name": "Canada Super 60, 2025",
-      "match_name": "Mississauga Masters vs Toronto Sixers",
+      "match_name": "Toronto Sixers vs Mississauga Masters",
       "startTime": "05:30:00 AM 12-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/JOfN_IyjQ0C5r5cdT2uKFQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137431_english_hls_cbf2fecfbc48860ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137307,
-      "event_category": "Cricket",
-      "title": "Houston Generals CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
-      "team_1": "Houston Generals CC",
-      "team_2": "Dallas Lonestars CC",
-      "status": "LIVE",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Houston Generals CC vs Dallas Lonestars CC",
-      "startTime": "04:30:00 AM 12-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/4rGUjsebTdeFM29wHAejdQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137307_english_hls_59cff0cb5b75871ta-di_h264/index.m3u8"
     },
     {
       "id": 133960,
@@ -44,6 +30,20 @@
       "startTime": "05:00:00 AM 12-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/TPXd3HizR7mzt8YiEaBiSQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133960_english_hls_f882096df795117ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137308,
+      "event_category": "Cricket",
+      "title": "Los Angeles Waves CC vs Atlanta Kings CC (National Cricket T10 League, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_APP.png",
+      "team_1": "Los Angeles Waves CC",
+      "team_2": "Atlanta Kings CC",
+      "status": "LIVE",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Los Angeles Waves CC vs Atlanta Kings CC",
+      "startTime": "06:30:00 AM 12-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/pWNCiyLKQRGiP2auYtv6pQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137308_english_hls_04fe64b9a362232ta-di_h264/index.m3u8"
     },
     {
       "id": 137580,
@@ -84,18 +84,6 @@
       "startTime": "11:00:00 AM 12-10-2025"
     },
     {
-      "id": 137308,
-      "event_category": "Cricket",
-      "title": "Atlanta Kings CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_APP.png",
-      "team_1": "Atlanta Kings CC",
-      "team_2": "Los Angeles Waves CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Atlanta Kings CC vs Los Angeles Waves CC",
-      "startTime": "06:30:00 AM 12-10-2025"
-    },
-    {
       "id": 137183,
       "event_category": "Cricket",
       "title": "Oman vs Qatar (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -118,6 +106,18 @@
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "United Arab Emirates vs Nepal",
       "startTime": "04:00:00 PM 12-10-2025"
+    },
+    {
+      "id": 137434,
+      "event_category": "Cricket",
+      "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137434_5719_BBZ_MRT_fc-Web.jpg",
+      "team_1": "Brampton Blitz",
+      "team_2": "Montreal Royal Tigers",
+      "status": "UPCOMING",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Brampton Blitz vs Montreal Royal Tigers",
+      "startTime": "05:30:00 AM 13-10-2025"
     },
     {
       "id": 137489,
@@ -156,16 +156,16 @@
       "startTime": "11:00:00 PM 12-10-2025"
     },
     {
-      "id": 137434,
+      "id": 137435,
       "event_category": "Cricket",
-      "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137434_5719_BBZ_MRT_fc-Web.jpg",
-      "team_1": "Brampton Blitz",
-      "team_2": "Montreal Royal Tigers",
+      "title": "Toronto Sixers vs Vancouver Kings (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137435_5719_TTS_VCK_fc-Web.jpg",
+      "team_1": "Toronto Sixers",
+      "team_2": "Vancouver Kings",
       "status": "UPCOMING",
       "event_name": "Canada Super 60, 2025",
-      "match_name": "Brampton Blitz vs Montreal Royal Tigers",
-      "startTime": "05:30:00 AM 13-10-2025"
+      "match_name": "Toronto Sixers vs Vancouver Kings",
+      "startTime": "08:00:00 AM 13-10-2025"
     },
     {
       "id": 137534,
@@ -204,22 +204,22 @@
       "startTime": "09:30:00 PM 12-10-2025"
     },
     {
-      "id": 137435,
+      "id": 137309,
       "event_category": "Cricket",
-      "title": "Toronto Sixers vs Vancouver Kings (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137435_5719_TTS_VCK_fc-Web.jpg",
-      "team_1": "Toronto Sixers",
-      "team_2": "Vancouver Kings",
+      "title": "TBC vs TBC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Toronto Sixers vs Vancouver Kings",
-      "startTime": "08:00:00 AM 13-10-2025"
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "05:30:00 AM 13-10-2025"
     },
     {
       "id": 137540,
       "event_category": "Football",
       "title": "Ghana vs Comoros (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137540_3741_GHA_COM_FC-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ghana-VS-Comoros_old.jpg",
       "team_1": "Ghana",
       "team_2": "Comoros",
       "status": "UPCOMING",
@@ -267,25 +267,13 @@
       "id": 137536,
       "event_category": "Football",
       "title": "Egypt vs Guinea-Bissau (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137536_3741_EGY_GIB_FC-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Guinea-Bissau_old.jpg",
       "team_1": "Egypt",
       "team_2": "Guinea-Bissau",
       "status": "UPCOMING",
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Egypt vs Guinea-Bissau",
       "startTime": "12:30:00 AM 13-10-2025"
-    },
-    {
-      "id": 137309,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "05:30:00 AM 13-10-2025"
     },
     {
       "id": 137436,
@@ -360,18 +348,6 @@
       "startTime": "06:30:00 PM 13-10-2025"
     },
     {
-      "id": 137541,
-      "event_category": "Football",
-      "title": "South Sudan vs Togo (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137541_3741_SS_TGO_FC-Web.jpg",
-      "team_1": "South Sudan",
-      "team_2": "Togo",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "South Sudan vs Togo",
-      "startTime": "05:30:00 PM 13-10-2025"
-    },
-    {
       "id": 137491,
       "event_category": "Cricket",
       "title": "Emirates Blues vs Fujairah (Emirates D20 Tournament, 2025)",
@@ -382,6 +358,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Emirates Blues vs Fujairah",
       "startTime": "07:00:00 PM 13-10-2025"
+    },
+    {
+      "id": 137541,
+      "event_category": "Football",
+      "title": "South Sudan vs Togo (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137541_3741_SS_TGO_FC-Web.jpg",
+      "team_1": "South Sudan",
+      "team_2": "Togo",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "South Sudan vs Togo",
+      "startTime": "05:30:00 PM 13-10-2025"
     },
     {
       "id": 137544,
@@ -405,6 +393,18 @@
       "status": "UPCOMING",
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "São Tomé e Príncipe vs Malawi",
+      "startTime": "06:30:00 PM 13-10-2025"
+    },
+    {
+      "id": 137542,
+      "event_category": "Football",
+      "title": "Tunisia vs Namibia (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137542_3741_TUN_NAM_FC-Web.jpg",
+      "team_1": "Tunisia",
+      "team_2": "Namibia",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Tunisia vs Namibia",
       "startTime": "06:30:00 PM 13-10-2025"
     }
   ]
