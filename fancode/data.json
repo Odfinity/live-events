@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 PM 13-10-2025",
+  "last update time": "10:02 PM 13-10-2025",
   "matches": [
     {
       "id": 137491,
@@ -56,8 +56,8 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Lesotho vs Zimbabwe",
       "startTime": "09:30:00 PM 13-10-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/fUQxBTv1SESwPyQjgM9JJg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137545_english_hls_8873d04cd278714ta-di_h264/index.m3u8"
     },
     {
       "id": 137548,
@@ -84,8 +84,8 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Cameroon vs Angola",
       "startTime": "09:30:00 PM 13-10-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/WIeUKtFLTKSTVch9lfd-LA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137547_english_hls_0e51863cbe27324ta-di_h264/index.m3u8"
     },
     {
       "id": 137437,
@@ -376,6 +376,18 @@
       "startTime": "05:00:00 AM 15-10-2025"
     },
     {
+      "id": 134019,
+      "event_category": "Cricket",
+      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Queensland",
+      "status": "UPCOMING",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Queensland",
+      "startTime": "06:00:00 AM 15-10-2025"
+    },
+    {
       "id": 137685,
       "event_category": "Baseball",
       "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
@@ -400,16 +412,16 @@
       "startTime": "05:38:00 AM 14-10-2025"
     },
     {
-      "id": 134019,
+      "id": 137188,
       "event_category": "Cricket",
-      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Queensland",
+      "title": "Japan vs Qatar (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Japan-Vs-Qatar_1760331002739.jpg",
+      "team_1": "Japan",
+      "team_2": "Qatar",
       "status": "UPCOMING",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Queensland",
-      "startTime": "06:00:00 AM 15-10-2025"
+      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "match_name": "Japan vs Qatar",
+      "startTime": "11:30:00 AM 15-10-2025"
     }
   ]
 }
