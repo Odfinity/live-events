@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:21 PM 13-10-2025",
+  "last update time": "07:53 PM 13-10-2025",
   "matches": [
     {
       "id": 137620,
@@ -16,20 +16,6 @@
       "startTime": "06:30:00 PM 13-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/THel9VMcQpaxCq4ors3jMg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137620_english_hls_821802fd7b9236ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137186,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Oman (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Oman-Vs-UAE_1760330873998.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Oman",
-      "status": "LIVE",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "United Arab Emirates vs Oman",
-      "startTime": "04:00:00 PM 13-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/pa4XIYk8Rm6TPx5u6R8_rw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137186_english_hls_6f11f39a7e86772ta-di_h264/index.m3u8"
     },
     {
       "id": 137491,
@@ -162,6 +148,18 @@
       "startTime": "11:00:00 PM 13-10-2025"
     },
     {
+      "id": 136883,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Bangladesh",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
+      "match_name": "Afghanistan vs Bangladesh",
+      "startTime": "05:30:00 PM 14-10-2025"
+    },
+    {
       "id": 133961,
       "event_category": "Cricket",
       "title": "Queensland Fire vs ACT Meteors (Women's National Cricket League, 2025-26)",
@@ -184,18 +182,6 @@
       "event_name": "National Cricket T10 League, 2025",
       "match_name": "Dallas Lonestars CC vs Los Angeles Waves CC",
       "startTime": "05:30:00 AM 14-10-2025"
-    },
-    {
-      "id": 136883,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "Bangladesh",
-      "status": "UPCOMING",
-      "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
-      "match_name": "Afghanistan vs Bangladesh",
-      "startTime": "05:30:00 PM 14-10-2025"
     },
     {
       "id": 137546,
@@ -436,6 +422,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs Seattle Mariners",
       "startTime": "02:33:00 AM 14-10-2025"
+    },
+    {
+      "id": 137686,
+      "event_category": "Baseball",
+      "title": "Milwaukee Brewers vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137686_CASACARDS_APP.png",
+      "team_1": "Milwaukee Brewers",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "startTime": "05:38:00 AM 14-10-2025"
     }
   ]
 }
