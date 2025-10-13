@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:20 AM 13-10-2025",
+  "last update time": "09:57 AM 13-10-2025",
   "matches": [
-    {
-      "id": 137435,
-      "event_category": "Cricket",
-      "title": "Toronto Sixers vs Vancouver Kings (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137435_5719_TTS_VCK_fc-Web.jpg",
-      "team_1": "Toronto Sixers",
-      "team_2": "Vancouver Kings",
-      "status": "LIVE",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Toronto Sixers vs Vancouver Kings",
-      "startTime": "08:00:00 AM 13-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ER_Yd4hkS6C99_lF2SoiJA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137435_english_hls_d99045a8e950343ta-di_h264/index.m3u8"
-    },
     {
       "id": 137420,
       "event_category": "Live events",
@@ -152,6 +138,18 @@
       "startTime": "05:00:00 AM 14-10-2025"
     },
     {
+      "id": 137310,
+      "event_category": "Cricket",
+      "title": "Dallas Lonestars CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Dallas Lonestars CC",
+      "team_2": "Los Angeles Waves CC",
+      "status": "UPCOMING",
+      "event_name": "National Cricket T10 League, 2025",
+      "match_name": "Dallas Lonestars CC vs Los Angeles Waves CC",
+      "startTime": "05:30:00 AM 14-10-2025"
+    },
+    {
       "id": 137544,
       "event_category": "Football",
       "title": "Equatorial Guinea vs Liberia (CAF World Cup Qualifiers)",
@@ -198,18 +196,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "South Sudan vs Togo",
       "startTime": "06:30:00 PM 13-10-2025"
-    },
-    {
-      "id": 137310,
-      "event_category": "Cricket",
-      "title": "Dallas Lonestars CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Dallas Lonestars CC",
-      "team_2": "Los Angeles Waves CC",
-      "status": "UPCOMING",
-      "event_name": "National Cricket T10 League, 2025",
-      "match_name": "Dallas Lonestars CC vs Los Angeles Waves CC",
-      "startTime": "05:30:00 AM 14-10-2025"
     },
     {
       "id": 137546,
@@ -296,18 +282,6 @@
       "startTime": "10:00:00 AM 14-10-2025"
     },
     {
-      "id": 137685,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137685_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "Seattle Mariners",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs Seattle Mariners",
-      "startTime": "02:33:00 AM 14-10-2025"
-    },
-    {
       "id": 137549,
       "event_category": "Football",
       "title": "Seychelles vs Gambia (CAF World Cup Qualifiers)",
@@ -318,6 +292,18 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Seychelles vs Gambia",
       "startTime": "05:30:00 PM 14-10-2025"
+    },
+    {
+      "id": 137685,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137685_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Seattle Mariners",
+      "startTime": "02:33:00 AM 14-10-2025"
     },
     {
       "id": 137686,
@@ -425,6 +411,18 @@
       "status": "UPCOMING",
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Gabon vs Burundi",
+      "startTime": "12:30:00 AM 15-10-2025"
+    },
+    {
+      "id": 137558,
+      "event_category": "Football",
+      "title": "Côte d'Ivoire vs Kenya (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137558_3741_IVC_KEN_FC-Web.jpg",
+      "team_1": "Côte d'Ivoire",
+      "team_2": "Kenya",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Côte d'Ivoire vs Kenya",
       "startTime": "12:30:00 AM 15-10-2025"
     }
   ]
