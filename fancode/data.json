@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 AM 13-10-2025",
+  "last update time": "10:57 AM 13-10-2025",
   "matches": [
+    {
+      "id": 137436,
+      "event_category": "Cricket",
+      "title": "Mississauga Masters vs White Rock Warriors (Canada Super 60, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137436_5719_MGM_WRW_fc-Web.jpg",
+      "team_1": "Mississauga Masters",
+      "team_2": "White Rock Warriors",
+      "status": "LIVE",
+      "event_name": "Canada Super 60, 2025",
+      "match_name": "Mississauga Masters vs White Rock Warriors",
+      "startTime": "11:00:00 AM 13-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9QtixD7BSdWgaRth1xje4Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137436_english_hls_cc1239f7e07077ta-di_h264/index.m3u8"
+    },
     {
       "id": 137420,
       "event_category": "Live events",
@@ -16,18 +30,6 @@
       "startTime": "09:00:00 AM 13-10-2025",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 137436,
-      "event_category": "Cricket",
-      "title": "Mississauga Masters vs White Rock Warriors (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137436_5719_MGM_WRW_fc-Web.jpg",
-      "team_1": "Mississauga Masters",
-      "team_2": "White Rock Warriors",
-      "status": "UPCOMING",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Mississauga Masters vs White Rock Warriors",
-      "startTime": "11:00:00 AM 13-10-2025"
     },
     {
       "id": 137437,
@@ -102,18 +104,6 @@
       "startTime": "06:30:00 PM 13-10-2025"
     },
     {
-      "id": 137492,
-      "event_category": "Cricket",
-      "title": "Dubai vs Ajman (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137492_5722_DUB_AJM_fc-web.jpg",
-      "team_1": "Dubai",
-      "team_2": "Ajman",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Dubai vs Ajman",
-      "startTime": "11:00:00 PM 13-10-2025"
-    },
-    {
       "id": 137439,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Canada Super 60, 2025)",
@@ -124,6 +114,18 @@
       "event_name": "Canada Super 60, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "09:00:00 AM 14-10-2025"
+    },
+    {
+      "id": 137492,
+      "event_category": "Cricket",
+      "title": "Dubai vs Ajman (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137492_5722_DUB_AJM_fc-web.jpg",
+      "team_1": "Dubai",
+      "team_2": "Ajman",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Dubai vs Ajman",
+      "startTime": "11:00:00 PM 13-10-2025"
     },
     {
       "id": 133961,
