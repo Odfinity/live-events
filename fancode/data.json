@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:06 AM 14-10-2025",
+  "last update time": "12:22 AM 14-10-2025",
   "matches": [
-    {
-      "id": 137187,
-      "event_category": "Cricket",
-      "title": "Nepal vs Qatar (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Nepal-Vs-Qatar.jpg",
-      "team_1": "Nepal",
-      "team_2": "Qatar",
-      "status": "LIVE",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "Nepal vs Qatar",
-      "startTime": "08:30:00 PM 13-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iMAQINSuTYiY_yjQGmvH0g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137187_english_hls_85bb6be8d341853ta-di_h264/index.m3u8"
-    },
     {
       "id": 137492,
       "event_category": "Cricket",
@@ -416,6 +402,18 @@
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "Oman vs Nepal",
       "startTime": "08:30:00 PM 15-10-2025"
+    },
+    {
+      "id": 137463,
+      "event_category": "Football",
+      "title": "Valerenga Fotball Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valerenga-Fotball-Women-VS-VfL-Wolfsburg-Women_old.jpg",
+      "team_1": "Valerenga Fotball Women",
+      "team_2": "VfL Wolfsburg Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Valerenga Fotball Women vs VfL Wolfsburg Women",
+      "startTime": "10:15:00 PM 15-10-2025"
     }
   ]
 }
