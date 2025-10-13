@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:28 AM 14-10-2025",
+  "last update time": "04:53 AM 14-10-2025",
   "matches": [
-    {
-      "id": 137437,
-      "event_category": "Cricket",
-      "title": "Vancouver Kings vs Montreal Tigers (Canada Super 60, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Web_final_4.png",
-      "team_1": "Vancouver Kings",
-      "team_2": "Montreal Tigers",
-      "status": "LIVE",
-      "event_name": "Canada Super 60, 2025",
-      "match_name": "Vancouver Kings vs Montreal Tigers",
-      "startTime": "02:30:00 AM 14-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/olbO8eOtSfa0VpWgOZMj5A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137437_english_hls_2702ecba3f92800ta-di_h264/index.m3u8"
-    },
     {
       "id": 137685,
       "event_category": "Baseball",
@@ -38,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Web_final_5.png",
       "team_1": "Mississauga Masters",
       "team_2": "Brampton Blitz",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Canada Super 60, 2025",
       "match_name": "Mississauga Masters vs Brampton Blitz",
-      "startTime": "05:00:00 AM 14-10-2025"
+      "startTime": "05:00:00 AM 14-10-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 137439,
@@ -74,10 +62,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
       "team_1": "Queensland Fire",
       "team_2": "ACT Meteors",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Queensland Fire vs ACT Meteors",
-      "startTime": "05:00:00 AM 14-10-2025"
+      "startTime": "05:00:00 AM 14-10-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 137310,
@@ -284,6 +274,18 @@
       "startTime": "06:00:00 AM 15-10-2025"
     },
     {
+      "id": 137686,
+      "event_category": "Baseball",
+      "title": "Milwaukee Brewers vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137686_CASACARDS_APP.png",
+      "team_1": "Milwaukee Brewers",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "startTime": "05:38:00 AM 14-10-2025"
+    },
+    {
       "id": 137415,
       "event_category": "Live events",
       "title": "Road Cycling vs Chennai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
@@ -306,18 +308,6 @@
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
       "match_name": "Japan vs Qatar",
       "startTime": "11:30:00 AM 15-10-2025"
-    },
-    {
-      "id": 137686,
-      "event_category": "Baseball",
-      "title": "Milwaukee Brewers vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137686_CASACARDS_APP.png",
-      "team_1": "Milwaukee Brewers",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Milwaukee Brewers vs Los Angeles Dodgers",
-      "startTime": "05:38:00 AM 14-10-2025"
     },
     {
       "id": 137189,
