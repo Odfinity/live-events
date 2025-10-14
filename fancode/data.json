@@ -1,18 +1,18 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:22 AM 14-10-2025",
+  "last update time": "09:56 AM 14-10-2025",
   "matches": [
     {
       "id": 137439,
       "event_category": "Cricket",
-      "title": "Montreal Tigers vs Brampton Blitz (Canada Super 60, 2025)",
+      "title": "Montreal Royal Tigers vs Brampton Blitz (Canada Super 60, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Web_final_6.png",
-      "team_1": "Montreal Tigers",
+      "team_1": "Montreal Royal Tigers",
       "team_2": "Brampton Blitz",
       "status": "LIVE",
       "event_name": "Canada Super 60, 2025",
-      "match_name": "Montreal Tigers vs Brampton Blitz",
+      "match_name": "Montreal Royal Tigers vs Brampton Blitz",
       "startTime": "09:00:00 AM 14-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/lWaS_dRRQQ29HSqbpwspbQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137439_english_hls_11f71e03c487744ta-di_h264/index.m3u8"
@@ -30,6 +30,20 @@
       "startTime": "05:00:00 AM 14-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Zk73RkZuQv2zH3EE6o25sA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133961_english_hls_fa6d76c10f28499ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137415,
+      "event_category": "Live events",
+      "title": "Road Cycling vs Chennai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+      "team_1": "Road Cycling",
+      "team_2": "Chennai",
+      "status": "LIVE",
+      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
+      "match_name": "Road Cycling",
+      "startTime": "10:00:00 AM 14-10-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136883,
@@ -104,6 +118,18 @@
       "startTime": "06:30:00 PM 14-10-2025"
     },
     {
+      "id": 134019,
+      "event_category": "Cricket",
+      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Queensland",
+      "status": "UPCOMING",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Queensland",
+      "startTime": "06:00:00 AM 15-10-2025"
+    },
+    {
       "id": 137554,
       "event_category": "Football",
       "title": "Somalia vs Mozambique (CAF World Cup Qualifiers)",
@@ -162,30 +188,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "South Africa vs Rwanda",
       "startTime": "09:30:00 PM 14-10-2025"
-    },
-    {
-      "id": 134019,
-      "event_category": "Cricket",
-      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Queensland",
-      "status": "UPCOMING",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Queensland",
-      "startTime": "06:00:00 AM 15-10-2025"
-    },
-    {
-      "id": 137415,
-      "event_category": "Live events",
-      "title": "Road Cycling vs Chennai (Tamil Nadu Chief Minister’s Trophy Games 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-      "team_1": "Road Cycling",
-      "team_2": "Chennai",
-      "status": "UPCOMING",
-      "event_name": "Tamil Nadu Chief Minister’s Trophy Games 2025",
-      "match_name": "Road Cycling",
-      "startTime": "10:00:00 AM 14-10-2025"
     },
     {
       "id": 137559,
@@ -414,6 +416,18 @@
       "event_name": "DP World India Championship",
       "match_name": "Day 1",
       "startTime": "12:00:00 PM 16-10-2025"
+    },
+    {
+      "id": 137495,
+      "event_category": "Cricket",
+      "title": "Ajman vs Emirates Blues (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137495_5722_AJM_EMB_fc-web.jpg",
+      "team_1": "Ajman",
+      "team_2": "Emirates Blues",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Ajman vs Emirates Blues",
+      "startTime": "07:00:00 PM 16-10-2025"
     }
   ]
 }
