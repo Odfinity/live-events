@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:27 PM 14-10-2025",
+  "last update time": "08:58 PM 14-10-2025",
   "matches": [
     {
       "id": 136883,
@@ -18,18 +18,64 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136883_english_hls_92ccb5a6ba85580ta-di_h264/index.m3u8"
     },
     {
-      "id": 137549,
+      "id": 137554,
       "event_category": "Football",
-      "title": "Seychelles vs Gambia (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137549_3741_SEY_GAM_FC-Web.jpg",
-      "team_1": "Seychelles",
-      "team_2": "Gambia",
-      "status": "LIVE",
+      "title": "Somalia vs Mozambique (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137554_3741_SOM_MOZ_FC-Web.jpg",
+      "team_1": "Somalia",
+      "team_2": "Mozambique",
+      "status": "UPCOMING",
       "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Seychelles vs Gambia",
-      "startTime": "06:30:00 PM 14-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZW72355yQYOpiznkgmPhKQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137549_english_hls_3f08d9b88423991ta-di_h264/index.m3u8"
+      "match_name": "Somalia vs Mozambique",
+      "startTime": "09:30:00 PM 14-10-2025"
+    },
+    {
+      "id": 137553,
+      "event_category": "Football",
+      "title": "Guinea vs Botswana (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137553_3741_GNA_BOT_FC-Web.jpg",
+      "team_1": "Guinea",
+      "team_2": "Botswana",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Guinea vs Botswana",
+      "startTime": "09:30:00 PM 14-10-2025"
+    },
+    {
+      "id": 137552,
+      "event_category": "Football",
+      "title": "Algeria vs Uganda (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-Uganda_old.jpg",
+      "team_1": "Algeria",
+      "team_2": "Uganda",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Algeria vs Uganda",
+      "startTime": "09:30:00 PM 14-10-2025"
+    },
+    {
+      "id": 137551,
+      "event_category": "Football",
+      "title": "Nigeria vs Benin (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137551_3741_NGA_BNI_FC-Web.jpg",
+      "team_1": "Nigeria",
+      "team_2": "Benin",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Nigeria vs Benin",
+      "startTime": "09:30:00 PM 14-10-2025"
+    },
+    {
+      "id": 137550,
+      "event_category": "Football",
+      "title": "South Africa vs Rwanda (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137550_3741_SA_RWN_FC-Web.jpg",
+      "team_1": "South Africa",
+      "team_2": "Rwanda",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "South Africa vs Rwanda",
+      "startTime": "09:30:00 PM 14-10-2025"
     },
     {
       "id": 137267,
@@ -104,64 +150,16 @@
       "startTime": "11:30:00 AM 15-10-2025"
     },
     {
-      "id": 137554,
-      "event_category": "Football",
-      "title": "Somalia vs Mozambique (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137554_3741_SOM_MOZ_FC-Web.jpg",
-      "team_1": "Somalia",
-      "team_2": "Mozambique",
+      "id": 137189,
+      "event_category": "Cricket",
+      "title": "Samoa vs United Arab Emirates (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-UAE_1760331078444.jpg",
+      "team_1": "Samoa",
+      "team_2": "United Arab Emirates",
       "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Somalia vs Mozambique",
-      "startTime": "09:30:00 PM 14-10-2025"
-    },
-    {
-      "id": 137553,
-      "event_category": "Football",
-      "title": "Guinea vs Botswana (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137553_3741_GNA_BOT_FC-Web.jpg",
-      "team_1": "Guinea",
-      "team_2": "Botswana",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Guinea vs Botswana",
-      "startTime": "09:30:00 PM 14-10-2025"
-    },
-    {
-      "id": 137552,
-      "event_category": "Football",
-      "title": "Algeria vs Uganda (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-Uganda_old.jpg",
-      "team_1": "Algeria",
-      "team_2": "Uganda",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Algeria vs Uganda",
-      "startTime": "09:30:00 PM 14-10-2025"
-    },
-    {
-      "id": 137551,
-      "event_category": "Football",
-      "title": "Nigeria vs Benin (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137551_3741_NGA_BNI_FC-Web.jpg",
-      "team_1": "Nigeria",
-      "team_2": "Benin",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Nigeria vs Benin",
-      "startTime": "09:30:00 PM 14-10-2025"
-    },
-    {
-      "id": 137550,
-      "event_category": "Football",
-      "title": "South Africa vs Rwanda (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137550_3741_SA_RWN_FC-Web.jpg",
-      "team_1": "South Africa",
-      "team_2": "Rwanda",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "South Africa vs Rwanda",
-      "startTime": "09:30:00 PM 14-10-2025"
+      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "match_name": "Samoa vs United Arab Emirates",
+      "startTime": "04:00:00 PM 15-10-2025"
     },
     {
       "id": 137559,
@@ -222,18 +220,6 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Senegal vs Mauritania",
       "startTime": "12:30:00 AM 15-10-2025"
-    },
-    {
-      "id": 137189,
-      "event_category": "Cricket",
-      "title": "Samoa vs United Arab Emirates (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-UAE_1760331078444.jpg",
-      "team_1": "Samoa",
-      "team_2": "United Arab Emirates",
-      "status": "UPCOMING",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "Samoa vs United Arab Emirates",
-      "startTime": "04:00:00 PM 15-10-2025"
     },
     {
       "id": 137493,
@@ -426,6 +412,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Fujairah vs Sharjah",
       "startTime": "11:00:00 PM 16-10-2025"
+    },
+    {
+      "id": 137478,
+      "event_category": "Football",
+      "title": "Benfica Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Benfica Women",
+      "team_2": "Arsenal Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Benfica Women vs Arsenal Women",
+      "startTime": "12:30:00 AM 17-10-2025"
     }
   ]
 }
