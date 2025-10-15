@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:30 PM 15-10-2025",
+  "last update time": "10:58 PM 15-10-2025",
   "matches": [
-    {
-      "id": 137493,
-      "event_category": "Cricket",
-      "title": "Fujairah vs Abu Dhabi (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137493_5722_FUJ_ABD_fc-web.jpg",
-      "team_1": "Fujairah",
-      "team_2": "Abu Dhabi",
-      "status": "LIVE",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Fujairah vs Abu Dhabi",
-      "startTime": "07:00:00 PM 15-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/vArBxuOPSDWCBogOAch-Sw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137493_english_hls_308bef7cf82172ta-di_h264/index.m3u8"
-    },
     {
       "id": 137190,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "08:30:00 PM 15-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/JPOPkIOIR-yNwAMSLXhuyg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137190_english_hls_6e01712c0b70309ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137494,
+      "event_category": "Cricket",
+      "title": "Sharjah vs Dubai (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137494_5722_SHA_DUB_fc-web.jpg",
+      "team_1": "Sharjah",
+      "team_2": "Dubai",
+      "status": "LIVE",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Sharjah vs Dubai",
+      "startTime": "11:00:00 PM 15-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ioKzFmOrQ8uST7xQrDHLDA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137494_english_hls_477a12c79b3102ta-di_h264/index.m3u8"
     },
     {
       "id": 137463,
@@ -58,18 +58,6 @@
       "startTime": "10:15:00 PM 15-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/NWRzpUu7TjuQXbDTC3wGlQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137462_english_hls_1e38b3f13122520ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137494,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Dubai (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137494_5722_SHA_DUB_fc-web.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Dubai",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Sharjah vs Dubai",
-      "startTime": "11:00:00 PM 15-10-2025"
     },
     {
       "id": 134018,
@@ -454,6 +442,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "FC Andorra vs Granada",
       "startTime": "12:00:00 AM 18-10-2025"
+    },
+    {
+      "id": 118471,
+      "event_category": "Formula 1",
+      "title": "Practice 1 vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd-(1).png",
+      "team_1": "Practice 1",
+      "team_2": "United States of America",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
+      "match_name": "Practice 1",
+      "startTime": "11:00:00 PM 17-10-2025"
     }
   ]
 }
