@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 PM 15-10-2025",
+  "last update time": "12:07 AM 16-10-2025",
   "matches": [
-    {
-      "id": 137190,
-      "event_category": "Cricket",
-      "title": "Nepal vs Oman (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Oman-Vs-Nepal.jpg",
-      "team_1": "Nepal",
-      "team_2": "Oman",
-      "status": "LIVE",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "Nepal vs Oman",
-      "startTime": "08:30:00 PM 15-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JPOPkIOIR-yNwAMSLXhuyg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137190_english_hls_6e01712c0b70309ta-di_h264/index.m3u8"
-    },
     {
       "id": 137494,
       "event_category": "Cricket",
@@ -60,42 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137462_english_hls_1e38b3f13122520ta-di_h264/index.m3u8"
     },
     {
-      "id": 134018,
-      "event_category": "Cricket",
-      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Western Australia",
-      "startTime": "05:00:00 AM 15-10-2025"
-    },
-    {
-      "id": 134017,
-      "event_category": "Cricket",
-      "title": "Victoria vs New South Wales (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134017_5609_VCT_NSW_fc-Web.jpg",
-      "team_1": "Victoria",
-      "team_2": "New South Wales",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Victoria vs New South Wales",
-      "startTime": "05:00:00 AM 15-10-2025"
-    },
-    {
-      "id": 134019,
-      "event_category": "Cricket",
-      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Queensland",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Queensland",
-      "startTime": "06:00:00 AM 15-10-2025"
-    },
-    {
       "id": 137466,
       "event_category": "Football",
       "title": "Oud-Heverlee Leuven Women vs FC Twente Women (UEFA Women's Champions League 2025-26)",
@@ -130,6 +80,42 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Roma Women vs Barcelona Women",
       "startTime": "12:30:00 AM 16-10-2025"
+    },
+    {
+      "id": 134018,
+      "event_category": "Cricket",
+      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "Western Australia",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Western Australia",
+      "startTime": "05:00:00 AM 15-10-2025"
+    },
+    {
+      "id": 134017,
+      "event_category": "Cricket",
+      "title": "Victoria vs New South Wales (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134017_5609_VCT_NSW_fc-Web.jpg",
+      "team_1": "Victoria",
+      "team_2": "New South Wales",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Victoria vs New South Wales",
+      "startTime": "05:00:00 AM 15-10-2025"
+    },
+    {
+      "id": 134019,
+      "event_category": "Cricket",
+      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Queensland",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Queensland",
+      "startTime": "06:00:00 AM 15-10-2025"
     },
     {
       "id": 137191,
@@ -228,18 +214,6 @@
       "startTime": "12:30:00 AM 17-10-2025"
     },
     {
-      "id": 136863,
-      "event_category": "Golf",
-      "title": "Day 1 vs Delhi Golf Club, New Delhi (DP World India Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Delhi Golf Club, New Delhi",
-      "status": "UPCOMING",
-      "event_name": "DP World India Championship",
-      "match_name": "Day 1",
-      "startTime": "11:00:00 AM 16-10-2025"
-    },
-    {
       "id": 135961,
       "event_category": "Football",
       "title": "Huddersfield Town A.F.C. vs Bolton Wanderers (League One 2025-26)",
@@ -250,6 +224,18 @@
       "event_name": "League One 2025-26",
       "match_name": "Huddersfield Town A.F.C. vs Bolton Wanderers",
       "startTime": "12:30:00 AM 17-10-2025"
+    },
+    {
+      "id": 136863,
+      "event_category": "Golf",
+      "title": "Day 1 vs Delhi Golf Club, New Delhi (DP World India Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Delhi Golf Club, New Delhi",
+      "status": "UPCOMING",
+      "event_name": "DP World India Championship",
+      "match_name": "Day 1",
+      "startTime": "11:00:00 AM 16-10-2025"
     },
     {
       "id": 137738,
@@ -454,6 +440,30 @@
       "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
       "match_name": "Practice 1",
       "startTime": "11:00:00 PM 17-10-2025"
+    },
+    {
+      "id": 118472,
+      "event_category": "Formula 1",
+      "title": "Sprint Qualifying vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd.png",
+      "team_1": "Sprint Qualifying",
+      "team_2": "United States of America",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
+      "match_name": "Sprint Qualifying",
+      "startTime": "03:00:00 AM 18-10-2025"
+    },
+    {
+      "id": 119247,
+      "event_category": "MotoGP",
+      "title": "Day 2 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Phillip Island",
+      "status": "UPCOMING",
+      "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
+      "match_name": "Australia GP",
+      "startTime": "03:10:00 AM 18-10-2025"
     }
   ]
 }
