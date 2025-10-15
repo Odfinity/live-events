@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:27 PM 15-10-2025",
+  "last update time": "07:07 PM 15-10-2025",
   "matches": [
     {
       "id": 137189,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137493_5722_FUJ_ABD_fc-web.jpg",
       "team_1": "Fujairah",
       "team_2": "Abu Dhabi",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Fujairah vs Abu Dhabi",
-      "startTime": "07:00:00 PM 15-10-2025"
+      "startTime": "07:00:00 PM 15-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/vArBxuOPSDWCBogOAch-Sw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137493_english_hls_308bef7cf82172ta-di_h264/index.m3u8"
     },
     {
       "id": 134018,
@@ -186,18 +188,6 @@
       "startTime": "08:30:00 PM 16-10-2025"
     },
     {
-      "id": 136863,
-      "event_category": "Golf",
-      "title": "Day 1 vs Delhi Golf Club, New Delhi (DP World India Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Delhi Golf Club, New Delhi",
-      "status": "UPCOMING",
-      "event_name": "DP World India Championship",
-      "match_name": "Day 1",
-      "startTime": "11:00:00 AM 16-10-2025"
-    },
-    {
       "id": 137467,
       "event_category": "Football",
       "title": "Club Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
@@ -208,6 +198,18 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Club Atletico de Madrid Femenino vs Manchester United Women",
       "startTime": "10:15:00 PM 16-10-2025"
+    },
+    {
+      "id": 136863,
+      "event_category": "Golf",
+      "title": "Day 1 vs Delhi Golf Club, New Delhi (DP World India Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Delhi Golf Club, New Delhi",
+      "status": "UPCOMING",
+      "event_name": "DP World India Championship",
+      "match_name": "Day 1",
+      "startTime": "11:00:00 AM 16-10-2025"
     },
     {
       "id": 137496,
