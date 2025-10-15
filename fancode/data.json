@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:22 PM 15-10-2025",
+  "last update time": "07:54 PM 15-10-2025",
   "matches": [
-    {
-      "id": 137189,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Samoa (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-UAE_1760331078444.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Samoa",
-      "status": "LIVE",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "United Arab Emirates vs Samoa",
-      "startTime": "04:00:00 PM 15-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ffpDJyXKQ4CSyHyzy2tkWQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137189_english_hls_e1df88ce0453625ta-di_h264/index.m3u8"
-    },
     {
       "id": 137493,
       "event_category": "Cricket",
@@ -30,6 +16,18 @@
       "startTime": "07:00:00 PM 15-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/vArBxuOPSDWCBogOAch-Sw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137493_english_hls_308bef7cf82172ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137190,
+      "event_category": "Cricket",
+      "title": "Nepal vs Oman (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Oman-Vs-Nepal.jpg",
+      "team_1": "Nepal",
+      "team_2": "Oman",
+      "status": "UPCOMING",
+      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
+      "match_name": "Nepal vs Oman",
+      "startTime": "08:30:00 PM 15-10-2025"
     },
     {
       "id": 134018,
@@ -66,18 +64,6 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "South Australia vs Queensland",
       "startTime": "06:00:00 AM 15-10-2025"
-    },
-    {
-      "id": 137190,
-      "event_category": "Cricket",
-      "title": "Oman vs Nepal (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Oman-Vs-Nepal.jpg",
-      "team_1": "Oman",
-      "team_2": "Nepal",
-      "status": "UPCOMING",
-      "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "Oman vs Nepal",
-      "startTime": "08:30:00 PM 15-10-2025"
     },
     {
       "id": 137494,
@@ -450,6 +436,18 @@
       "event_name": "Boland T10, 2025",
       "match_name": "Paarl Rocks vs Paarl Rapids",
       "startTime": "11:30:00 PM 17-10-2025"
+    },
+    {
+      "id": 137213,
+      "event_category": "Football",
+      "title": "FC Andorra vs Granada (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137213_5572_AND_GRD_fc-Web.jpg",
+      "team_1": "FC Andorra",
+      "team_2": "Granada",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "FC Andorra vs Granada",
+      "startTime": "12:00:00 AM 18-10-2025"
     }
   ]
 }
