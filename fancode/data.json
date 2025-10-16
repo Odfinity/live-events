@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:53 PM 16-10-2025",
+  "last update time": "08:15 PM 16-10-2025",
   "matches": [
     {
       "id": 137495,
@@ -20,13 +20,13 @@
     {
       "id": 137192,
       "event_category": "Cricket",
-      "title": "Qatar vs Samoa (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
+      "title": "Samoa vs Qatar (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Qatar-Vs-Samoa_1760331295159.jpg",
-      "team_1": "Qatar",
-      "team_2": "Samoa",
+      "team_1": "Samoa",
+      "team_2": "Qatar",
       "status": "UPCOMING",
       "event_name": "ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025",
-      "match_name": "Qatar vs Samoa",
+      "match_name": "Samoa vs Qatar",
       "startTime": "08:30:00 PM 16-10-2025"
     },
     {
@@ -210,18 +210,6 @@
       "startTime": "09:00:00 PM 17-10-2025"
     },
     {
-      "id": 119244,
-      "event_category": "MotoGP",
-      "title": "Day 1 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Phillip Island",
-      "status": "UPCOMING",
-      "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
-      "match_name": "Australia GP",
-      "startTime": "03:30:00 AM 17-10-2025"
-    },
-    {
       "id": 137498,
       "event_category": "Cricket",
       "title": "Emirates Blues vs Dubai (Emirates D20 Tournament, 2025)",
@@ -232,6 +220,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Emirates Blues vs Dubai",
       "startTime": "11:00:00 PM 17-10-2025"
+    },
+    {
+      "id": 119244,
+      "event_category": "MotoGP",
+      "title": "Day 1 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Phillip Island",
+      "status": "UPCOMING",
+      "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
+      "match_name": "Australia GP",
+      "startTime": "03:30:00 AM 17-10-2025"
     },
     {
       "id": 137709,
@@ -426,18 +426,6 @@
       "startTime": "06:08:00 AM 18-10-2025"
     },
     {
-      "id": 136865,
-      "event_category": "Golf",
-      "title": "Day 3 vs Delhi Golf Club, New Delhi (DP World India Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Delhi Golf Club, New Delhi",
-      "status": "UPCOMING",
-      "event_name": "DP World India Championship",
-      "match_name": "Day 3",
-      "startTime": "12:00:00 PM 18-10-2025"
-    },
-    {
       "id": 137711,
       "event_category": "Cricket",
       "title": "Overberg Indwe vs Stellenbosch Kings (Boland T10, 2025)",
@@ -448,6 +436,18 @@
       "event_name": "Boland T10, 2025",
       "match_name": "Overberg Indwe vs Stellenbosch Kings",
       "startTime": "04:30:00 PM 18-10-2025"
+    },
+    {
+      "id": 136865,
+      "event_category": "Golf",
+      "title": "Day 3 vs Delhi Golf Club, New Delhi (DP World India Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Delhi Golf Club, New Delhi",
+      "status": "UPCOMING",
+      "event_name": "DP World India Championship",
+      "match_name": "Day 3",
+      "startTime": "12:00:00 PM 18-10-2025"
     }
   ]
 }
