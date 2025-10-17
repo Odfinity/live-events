@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:29 PM 17-10-2025",
+  "last update time": "12:04 AM 18-10-2025",
   "matches": [
     {
       "id": 137498,
@@ -20,16 +20,30 @@
     {
       "id": 137709,
       "event_category": "Cricket",
-      "title": "Paarl Rocks vs Paarl Rapids (Boland T10, 2025)",
+      "title": "Paarl Rapids vs Paarl Rocks (Boland T10, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137709_5728_PR_PR_fc-web.jpg",
-      "team_1": "Paarl Rocks",
-      "team_2": "Paarl Rapids",
+      "team_1": "Paarl Rapids",
+      "team_2": "Paarl Rocks",
       "status": "LIVE",
       "event_name": "Boland T10, 2025",
-      "match_name": "Paarl Rocks vs Paarl Rapids",
+      "match_name": "Paarl Rapids vs Paarl Rocks",
       "startTime": "11:30:00 PM 17-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/woqD5dnLR5G9vwD0JbGlBA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137709_english_hls_5a0d4be3c656205ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137213,
+      "event_category": "Football",
+      "title": "FC Andorra vs Granada (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137213_5572_AND_GRD_fc-Web.jpg",
+      "team_1": "FC Andorra",
+      "team_2": "Granada",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "FC Andorra vs Granada",
+      "startTime": "12:00:00 AM 18-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/1RGjSjkESa66f8Hjwn1y3g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137213_english_hls_f3834a1b5f9563ta-di_h264/index.m3u8"
     },
     {
       "id": 118471,
@@ -70,42 +84,6 @@
       "startTime": "01:00:00 PM 18-10-2025"
     },
     {
-      "id": 134018,
-      "event_category": "Cricket",
-      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Western Australia",
-      "startTime": "04:42:00 AM 15-10-2025"
-    },
-    {
-      "id": 134019,
-      "event_category": "Cricket",
-      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Queensland",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Queensland",
-      "startTime": "05:30:00 AM 15-10-2025"
-    },
-    {
-      "id": 137213,
-      "event_category": "Football",
-      "title": "FC Andorra vs Granada (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137213_5572_AND_GRD_fc-Web.jpg",
-      "team_1": "FC Andorra",
-      "team_2": "Granada",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "FC Andorra vs Granada",
-      "startTime": "12:00:00 AM 18-10-2025"
-    },
-    {
       "id": 130918,
       "event_category": "Football",
       "title": "Real Oviedo vs RCD Espanyol (LALIGA 2025-26)",
@@ -128,6 +106,30 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Middlesbrough F.C. vs Ipswich Town F.C.",
       "startTime": "12:30:00 AM 18-10-2025"
+    },
+    {
+      "id": 134018,
+      "event_category": "Cricket",
+      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "Western Australia",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Western Australia",
+      "startTime": "04:42:00 AM 15-10-2025"
+    },
+    {
+      "id": 134019,
+      "event_category": "Cricket",
+      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Queensland",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Queensland",
+      "startTime": "05:30:00 AM 15-10-2025"
     },
     {
       "id": 137710,
@@ -202,18 +204,6 @@
       "startTime": "07:00:00 PM 18-10-2025"
     },
     {
-      "id": 137009,
-      "event_category": "Football",
-      "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-      "team_1": "Gamba Osaka",
-      "team_2": "Kashiwa Reysol",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Gamba Osaka vs Kashiwa Reysol",
-      "startTime": "10:30:00 AM 18-10-2025"
-    },
-    {
       "id": 136949,
       "event_category": "Football",
       "title": "Charlton Athletic F.C vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
@@ -224,6 +214,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Charlton Athletic F.C vs Sheffield Wednesday F.C.",
       "startTime": "07:30:00 PM 18-10-2025"
+    },
+    {
+      "id": 137009,
+      "event_category": "Football",
+      "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+      "team_1": "Gamba Osaka",
+      "team_2": "Kashiwa Reysol",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Gamba Osaka vs Kashiwa Reysol",
+      "startTime": "10:30:00 AM 18-10-2025"
     },
     {
       "id": 130912,
