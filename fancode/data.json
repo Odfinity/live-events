@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:21 PM 17-10-2025",
+  "last update time": "02:00 PM 17-10-2025",
   "matches": [
     {
       "id": 136864,
@@ -18,34 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136864_english_hls_2ea955393e18753ta-di_h264/index.m3u8"
     },
     {
-      "id": 134018,
-      "event_category": "Cricket",
-      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Western Australia",
-      "startTime": "04:42:00 AM 15-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8"
-    },
-    {
-      "id": 134019,
-      "event_category": "Cricket",
-      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Queensland",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Queensland",
-      "startTime": "05:30:00 AM 15-10-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
       "id": 137193,
       "event_category": "Cricket",
       "title": "Japan vs Oman (ICC Men’s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -58,6 +30,30 @@
       "startTime": "11:30:00 AM 17-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/8CINTZlzQ26VlMOPBlHyxA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137193_english_hls_a16543e8ea61651ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 134019,
+      "event_category": "Cricket",
+      "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Queensland",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Queensland",
+      "startTime": "05:30:00 AM 15-10-2025"
+    },
+    {
+      "id": 134018,
+      "event_category": "Cricket",
+      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "Western Australia",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Western Australia",
+      "startTime": "04:42:00 AM 15-10-2025"
     },
     {
       "id": 137194,
@@ -108,6 +104,18 @@
       "startTime": "11:00:00 PM 17-10-2025"
     },
     {
+      "id": 137157,
+      "event_category": "Cricket",
+      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
+      "team_1": "New Zealand",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of New Zealand, 2025",
+      "match_name": "New Zealand vs England",
+      "startTime": "11:45:00 AM 18-10-2025"
+    },
+    {
       "id": 137709,
       "event_category": "Cricket",
       "title": "Paarl Rocks vs Paarl Rapids (Boland T10, 2025)",
@@ -142,18 +150,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Middlesbrough F.C. vs Ipswich Town F.C.",
       "startTime": "12:30:00 AM 18-10-2025"
-    },
-    {
-      "id": 137157,
-      "event_category": "Cricket",
-      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
-      "team_1": "New Zealand",
-      "team_2": "England",
-      "status": "UPCOMING",
-      "event_name": "England tour of New Zealand, 2025",
-      "match_name": "New Zealand vs England",
-      "startTime": "11:45:00 AM 18-10-2025"
     },
     {
       "id": 137700,
@@ -204,6 +200,18 @@
       "startTime": "12:00:00 AM 18-10-2025"
     },
     {
+      "id": 137710,
+      "event_category": "Cricket",
+      "title": "West Coast Blues vs Northern Raiders (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137710_5728_WCB_NTR_fc-web.jpg",
+      "team_1": "West Coast Blues",
+      "team_2": "Northern Raiders",
+      "status": "UPCOMING",
+      "event_name": "Boland T10, 2025",
+      "match_name": "West Coast Blues vs Northern Raiders",
+      "startTime": "02:00:00 PM 18-10-2025"
+    },
+    {
       "id": 137009,
       "event_category": "Football",
       "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
@@ -216,16 +224,16 @@
       "startTime": "10:30:00 AM 18-10-2025"
     },
     {
-      "id": 137710,
+      "id": 137711,
       "event_category": "Cricket",
-      "title": "West Coast Blues vs Northern Raiders (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137710_5728_WCB_NTR_fc-web.jpg",
-      "team_1": "West Coast Blues",
-      "team_2": "Northern Raiders",
+      "title": "Overberg Indwe vs Stellenbosch Kings (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137711_5728_OBI_SK_fc-web.jpg",
+      "team_1": "Overberg Indwe",
+      "team_2": "Stellenbosch Kings",
       "status": "UPCOMING",
       "event_name": "Boland T10, 2025",
-      "match_name": "West Coast Blues vs Northern Raiders",
-      "startTime": "02:00:00 PM 18-10-2025"
+      "match_name": "Overberg Indwe vs Stellenbosch Kings",
+      "startTime": "04:30:00 PM 18-10-2025"
     },
     {
       "id": 118471,
@@ -240,16 +248,16 @@
       "startTime": "11:00:00 PM 17-10-2025"
     },
     {
-      "id": 137711,
-      "event_category": "Cricket",
-      "title": "Overberg Indwe vs Stellenbosch Kings (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137711_5728_OBI_SK_fc-web.jpg",
-      "team_1": "Overberg Indwe",
-      "team_2": "Stellenbosch Kings",
+      "id": 136951,
+      "event_category": "Football",
+      "title": "Queens Park Rangers F.C. vs Millwall F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136951_5489_QPR_MLW_fc-web.jpg",
+      "team_1": "Queens Park Rangers F.C.",
+      "team_2": "Millwall F.C.",
       "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Overberg Indwe vs Stellenbosch Kings",
-      "startTime": "04:30:00 PM 18-10-2025"
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Queens Park Rangers F.C. vs Millwall F.C.",
+      "startTime": "05:00:00 PM 18-10-2025"
     },
     {
       "id": 118472,
@@ -288,16 +296,16 @@
       "startTime": "03:38:00 AM 18-10-2025"
     },
     {
-      "id": 136951,
+      "id": 130919,
       "event_category": "Football",
-      "title": "Queens Park Rangers F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136951_5489_QPR_MLW_fc-web.jpg",
-      "team_1": "Queens Park Rangers F.C.",
-      "team_2": "Millwall F.C.",
+      "title": "Sevilla FC vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130919_5427_SEV_MRC_fc-Web.jpg",
+      "team_1": "Sevilla FC",
+      "team_2": "RCD Mallorca",
       "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Queens Park Rangers F.C. vs Millwall F.C.",
-      "startTime": "05:00:00 PM 18-10-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Sevilla FC vs RCD Mallorca",
+      "startTime": "05:30:00 PM 18-10-2025"
     },
     {
       "id": 137742,
@@ -310,18 +318,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Los Angeles Dodgers vs Milwaukee Brewers",
       "startTime": "06:08:00 AM 18-10-2025"
-    },
-    {
-      "id": 130919,
-      "event_category": "Football",
-      "title": "Sevilla FC vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130919_5427_SEV_MRC_fc-Web.jpg",
-      "team_1": "Sevilla FC",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs RCD Mallorca",
-      "startTime": "05:30:00 PM 18-10-2025"
     },
     {
       "id": 137499,
@@ -348,18 +344,6 @@
       "startTime": "07:00:00 PM 18-10-2025"
     },
     {
-      "id": 136865,
-      "event_category": "Golf",
-      "title": "Day 3 vs Delhi Golf Club, New Delhi (DP World India Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Delhi Golf Club, New Delhi",
-      "status": "UPCOMING",
-      "event_name": "DP World India Championship",
-      "match_name": "Day 3",
-      "startTime": "12:00:00 PM 18-10-2025"
-    },
-    {
       "id": 136949,
       "event_category": "Football",
       "title": "Charlton Athletic F.C vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
@@ -382,6 +366,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "FC Barcelona vs Girona FC",
       "startTime": "07:45:00 PM 18-10-2025"
+    },
+    {
+      "id": 136865,
+      "event_category": "Golf",
+      "title": "Day 3 vs Delhi Golf Club, New Delhi (DP World India Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Delhi Golf Club, New Delhi",
+      "status": "UPCOMING",
+      "event_name": "DP World India Championship",
+      "match_name": "Day 3",
+      "startTime": "12:00:00 PM 18-10-2025"
     },
     {
       "id": 136605,
