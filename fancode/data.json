@@ -1,21 +1,19 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 AM 17-10-2025",
+  "last update time": "10:55 AM 17-10-2025",
   "matches": [
     {
-      "id": 119244,
-      "event_category": "MotoGP",
-      "title": "Day 1 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Phillip Island",
-      "status": "LIVE",
-      "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
-      "match_name": "Day 1",
-      "startTime": "03:30:00 AM 17-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/GpjbLTthQDW16dHL_tSAjA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119244_english_hls_a3e33e3cc163583ta-di_h264/index.m3u8"
+      "id": 136864,
+      "event_category": "Golf",
+      "title": "Day 2 vs Delhi Golf Club, New Delhi (DP World India Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Delhi Golf Club, New Delhi",
+      "status": "UPCOMING",
+      "event_name": "DP World India Championship",
+      "match_name": "Day 2",
+      "startTime": "12:00:00 PM 17-10-2025"
     },
     {
       "id": 134017,
@@ -228,16 +226,16 @@
       "startTime": "10:30:00 AM 18-10-2025"
     },
     {
-      "id": 136864,
-      "event_category": "Golf",
-      "title": "Day 2 vs Delhi Golf Club, New Delhi (DP World India Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Delhi Golf Club, New Delhi",
+      "id": 137710,
+      "event_category": "Cricket",
+      "title": "West Coast Blues vs Northern Raiders (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137710_5728_WCB_NTR_fc-web.jpg",
+      "team_1": "West Coast Blues",
+      "team_2": "Northern Raiders",
       "status": "UPCOMING",
-      "event_name": "DP World India Championship",
-      "match_name": "Day 2",
-      "startTime": "12:00:00 PM 17-10-2025"
+      "event_name": "Boland T10, 2025",
+      "match_name": "West Coast Blues vs Northern Raiders",
+      "startTime": "02:00:00 PM 18-10-2025"
     },
     {
       "id": 118471,
@@ -250,18 +248,6 @@
       "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
       "match_name": "Practice 1",
       "startTime": "11:00:00 PM 17-10-2025"
-    },
-    {
-      "id": 137710,
-      "event_category": "Cricket",
-      "title": "West Coast Blues vs Northern Raiders (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137710_5728_WCB_NTR_fc-web.jpg",
-      "team_1": "West Coast Blues",
-      "team_2": "Northern Raiders",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "West Coast Blues vs Northern Raiders",
-      "startTime": "02:00:00 PM 18-10-2025"
     },
     {
       "id": 118472,
@@ -466,6 +452,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Zaragoza vs Cultural Leonesa",
       "startTime": "10:00:00 PM 18-10-2025"
+    },
+    {
+      "id": 136606,
+      "event_category": "Football",
+      "title": "Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136606_5655_ANF_AFF_fc-web.jpg",
+      "team_1": "Al-Nassr FC",
+      "team_2": "Al-Fateh SC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Nassr FC vs Al-Fateh SC",
+      "startTime": "11:30:00 PM 18-10-2025"
     }
   ]
 }
