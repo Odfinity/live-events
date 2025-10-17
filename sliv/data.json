@@ -1,8 +1,25 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:51 AM 17-10-2025",
+  "last update time": "10:11 AM 17-10-2025",
   "matches": [
+    {
+      "id": "sl1090492352",
+      "isLive": true,
+      "event": "Asian Tour 2025",
+      "match": "SJM Macao Open - Day 2 - 17 Oct 2025",
+      "Provider": "ASIAN TOUR MEDIA PTE LTD",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009911/175972039722233_AsianTour25_SJM_Macao_Open_Day2_5oct_landscape_thumb.jpg",
+      "genre": "Golf",
+      "language": "en",
+      "venue": "Macau Golf & Country Club, Macao",
+      "TVchannel": "LIV",
+      "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090492352.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090492352.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090492352.m3u8",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090491779",
       "isLive": false,
