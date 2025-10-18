@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 PM 18-10-2025",
+  "last update time": "06:19 PM 18-10-2025",
   "matches": [
     {
       "id": 137700,
@@ -16,20 +16,6 @@
       "startTime": "01:00:00 PM 18-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/kxmcvTwXTC2v36KgUgQXkg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137700_english_hls_625c392f2934863ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137711,
-      "event_category": "Cricket",
-      "title": "Overberg Indwe vs Stellenbosch Kings (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137711_5728_OBI_SK_fc-web.jpg",
-      "team_1": "Overberg Indwe",
-      "team_2": "Stellenbosch Kings",
-      "status": "LIVE",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Overberg Indwe vs Stellenbosch Kings",
-      "startTime": "04:30:00 PM 18-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/UZfE9rqnTDWSU_qIH74MtQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137711_english_hls_cfe594b0fe86479ta-di_h264/index.m3u8"
     },
     {
       "id": 136951,
@@ -204,18 +190,6 @@
       "startTime": "02:00:00 PM 19-10-2025"
     },
     {
-      "id": 137008,
-      "event_category": "Football",
-      "title": "Shonan Bellmare vs Kyoto Sanga (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137008_CASACARDS_APP.png",
-      "team_1": "Shonan Bellmare",
-      "team_2": "Kyoto Sanga",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Shonan Bellmare vs Kyoto Sanga",
-      "startTime": "11:30:00 AM 19-10-2025"
-    },
-    {
       "id": 137715,
       "event_category": "Cricket",
       "title": "Northern Raiders vs Paarl Rocks (Boland T10, 2025)",
@@ -226,6 +200,18 @@
       "event_name": "Boland T10, 2025",
       "match_name": "Northern Raiders vs Paarl Rocks",
       "startTime": "04:30:00 PM 19-10-2025"
+    },
+    {
+      "id": 137008,
+      "event_category": "Football",
+      "title": "Shonan Bellmare vs Kyoto Sanga (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137008_CASACARDS_APP.png",
+      "team_1": "Shonan Bellmare",
+      "team_2": "Kyoto Sanga",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Shonan Bellmare vs Kyoto Sanga",
+      "startTime": "11:30:00 AM 19-10-2025"
     },
     {
       "id": 130916,
@@ -348,18 +334,6 @@
       "startTime": "09:30:00 PM 19-10-2025"
     },
     {
-      "id": 136866,
-      "event_category": "Golf",
-      "title": "Day 4 vs Delhi Golf Club, New Delhi (DP World India Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
-      "team_1": "Day 4",
-      "team_2": "Delhi Golf Club, New Delhi",
-      "status": "UPCOMING",
-      "event_name": "DP World India Championship",
-      "match_name": "Day 4",
-      "startTime": "11:30:00 AM 19-10-2025"
-    },
-    {
       "id": 130915,
       "event_category": "Football",
       "title": "Levante vs Rayo Vallecano (LALIGA 2025-26)",
@@ -370,6 +344,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Levante vs Rayo Vallecano",
       "startTime": "10:00:00 PM 19-10-2025"
+    },
+    {
+      "id": 136866,
+      "event_category": "Golf",
+      "title": "Day 4 vs Delhi Golf Club, New Delhi (DP World India Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
+      "team_1": "Day 4",
+      "team_2": "Delhi Golf Club, New Delhi",
+      "status": "UPCOMING",
+      "event_name": "DP World India Championship",
+      "match_name": "Day 4",
+      "startTime": "11:30:00 AM 19-10-2025"
     },
     {
       "id": 137502,
@@ -454,6 +440,18 @@
       "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
       "match_name": "Race",
       "startTime": "12:30:00 AM 20-10-2025"
+    },
+    {
+      "id": 133939,
+      "event_category": "Cricket",
+      "title": "South Australia vs Queensland (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133939_5606_SAU_QUN_fc-web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Queensland",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "South Australia vs Queensland",
+      "startTime": "06:00:00 AM 20-10-2025"
     }
   ]
 }
