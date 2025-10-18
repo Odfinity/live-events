@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:02 PM 18-10-2025",
+  "last update time": "09:17 PM 18-10-2025",
   "matches": [
+    {
+      "id": 130912,
+      "event_category": "Football",
+      "title": "FC Barcelona vs Girona FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130912_5427_BAR_GIR_fc-Web.jpg",
+      "team_1": "FC Barcelona",
+      "team_2": "Girona FC",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "FC Barcelona vs Girona FC",
+      "startTime": "07:45:00 PM 18-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8"
+    },
     {
       "id": 137499,
       "event_category": "Cricket",
@@ -32,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136949_english_hls_b789f25f757047ta-di_h264/index.m3u8"
     },
     {
-      "id": 130912,
-      "event_category": "Football",
-      "title": "FC Barcelona vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130912_5427_BAR_GIR_fc-Web.jpg",
-      "team_1": "FC Barcelona",
-      "team_2": "Girona FC",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "FC Barcelona vs Girona FC",
-      "startTime": "07:45:00 PM 18-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8"
-    },
-    {
       "id": 136605,
       "event_category": "Football",
       "title": "Al-Ettifaq vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
@@ -60,20 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136605_english_hls_3781d8114a69999ta-di_h264/index.m3u8"
     },
     {
-      "id": 137281,
-      "event_category": "Horse Racing",
-      "title": "British Champions' Stakes vs Ascot Racecourse (British Champions' Stakes)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/British-Champions-Stakes_old.jpg",
-      "team_1": "British Champions' Stakes",
-      "team_2": "Ascot Racecourse",
-      "status": "LIVE",
-      "event_name": "British Champions' Stakes",
-      "match_name": "British Champions' Stakes",
-      "startTime": "07:30:00 PM 18-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/evYd4zgtQ82x9P8J__zYMQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137281_english_hls_958078664a43687ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137713,
       "event_category": "Cricket",
       "title": "Overberg Indwe vs Northern Raiders (Boland T10, 2025)",
@@ -86,18 +72,6 @@
       "startTime": "09:30:00 PM 18-10-2025"
     },
     {
-      "id": 137500,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Abu Dhabi (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137500_5722_SHA_ABD_fc-web.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Abu Dhabi",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Sharjah vs Abu Dhabi",
-      "startTime": "11:00:00 PM 18-10-2025"
-    },
-    {
       "id": 130917,
       "event_category": "Football",
       "title": "Villarreal CF vs Real Betis (LALIGA 2025-26)",
@@ -108,6 +82,30 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Villarreal CF vs Real Betis",
       "startTime": "10:00:00 PM 18-10-2025"
+    },
+    {
+      "id": 137214,
+      "event_category": "Football",
+      "title": "Real Zaragoza vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137214_5572_RZ_CL_fc-Web.jpg",
+      "team_1": "Real Zaragoza",
+      "team_2": "Cultural Leonesa",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Zaragoza vs Cultural Leonesa",
+      "startTime": "10:00:00 PM 18-10-2025"
+    },
+    {
+      "id": 137500,
+      "event_category": "Cricket",
+      "title": "Sharjah vs Abu Dhabi (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137500_5722_SHA_ABD_fc-web.jpg",
+      "team_1": "Sharjah",
+      "team_2": "Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Sharjah vs Abu Dhabi",
+      "startTime": "11:00:00 PM 18-10-2025"
     },
     {
       "id": 136606,
@@ -144,18 +142,6 @@
       "event_name": "Boland T10, 2025",
       "match_name": "Overberg Indwe vs West Coast Blues",
       "startTime": "02:00:00 PM 19-10-2025"
-    },
-    {
-      "id": 137214,
-      "event_category": "Football",
-      "title": "Real Zaragoza vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137214_5572_RZ_CL_fc-Web.jpg",
-      "team_1": "Real Zaragoza",
-      "team_2": "Cultural Leonesa",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza vs Cultural Leonesa",
-      "startTime": "10:00:00 PM 18-10-2025"
     },
     {
       "id": 137715,
@@ -266,18 +252,6 @@
       "startTime": "11:00:00 PM 19-10-2025"
     },
     {
-      "id": 118473,
-      "event_category": "Formula 1",
-      "title": "Sprint vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd-(1).png",
-      "team_1": "Sprint",
-      "team_2": "United States of America",
-      "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
-      "match_name": "Sprint",
-      "startTime": "10:30:00 PM 18-10-2025"
-    },
-    {
       "id": 136607,
       "event_category": "Football",
       "title": "Neom SC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
@@ -288,6 +262,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Neom SC vs Al-Qadsiah FC",
       "startTime": "11:30:00 PM 19-10-2025"
+    },
+    {
+      "id": 118473,
+      "event_category": "Formula 1",
+      "title": "Sprint vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd-(1).png",
+      "team_1": "Sprint",
+      "team_2": "United States of America",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
+      "match_name": "Sprint",
+      "startTime": "10:30:00 PM 18-10-2025"
     },
     {
       "id": 118474,
@@ -444,6 +430,18 @@
       "event_name": "Afghanistan tour of Zimbabwe, 2025",
       "match_name": "Zimbabwe vs Afghanistan",
       "startTime": "01:30:00 PM 20-10-2025"
+    },
+    {
+      "id": 137503,
+      "event_category": "Cricket",
+      "title": "Dubai vs Abu Dhabi (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137503_5722_DUB_ABD_fc-web.jpg",
+      "team_1": "Dubai",
+      "team_2": "Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Dubai vs Abu Dhabi",
+      "startTime": "07:00:00 PM 20-10-2025"
     }
   ]
 }
