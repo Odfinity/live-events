@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:53 PM 18-10-2025",
+  "last update time": "08:09 PM 18-10-2025",
   "matches": [
     {
       "id": 137700,
@@ -74,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8"
     },
     {
+      "id": 136605,
+      "event_category": "Football",
+      "title": "Al-Ettifaq vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136605_5655_ETT_AHS_fc-web.jpg",
+      "team_1": "Al-Ettifaq",
+      "team_2": "Al Hilal SFC",
+      "status": "LIVE",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ettifaq vs Al Hilal SFC",
+      "startTime": "08:15:00 PM 18-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/IqcL5AQ6S--caMlSlcXl1w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136605_english_hls_3781d8114a69999ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137281,
       "event_category": "Horse Racing",
       "title": "British Champions' Stakes vs Ascot Racecourse (British Champions' Stakes)",
@@ -86,32 +100,6 @@
       "startTime": "07:30:00 PM 18-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/evYd4zgtQ82x9P8J__zYMQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137281_english_hls_958078664a43687ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130919,
-      "event_category": "Football",
-      "title": "Sevilla FC vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130919_5427_SEV_MRC_fc-Web.jpg",
-      "team_1": "Sevilla FC",
-      "team_2": "RCD Mallorca",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs RCD Mallorca",
-      "startTime": "05:30:00 PM 18-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130919_english_hls_fba857eba91703adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130919_english_hls_fba857eba91703adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136605,
-      "event_category": "Football",
-      "title": "Al-Ettifaq vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136605_5655_ETT_AHS_fc-web.jpg",
-      "team_1": "Al-Ettifaq",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Ettifaq vs Al Hilal SFC",
-      "startTime": "08:15:00 PM 18-10-2025"
     },
     {
       "id": 137713,
@@ -318,6 +306,18 @@
       "startTime": "02:30:00 AM 19-10-2025"
     },
     {
+      "id": 137502,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Abu Dhabi (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137502_5722_EMB_ABD_fc-web.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Emirates Blues vs Abu Dhabi",
+      "startTime": "11:00:00 PM 19-10-2025"
+    },
+    {
       "id": 137743,
       "event_category": "Baseball",
       "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
@@ -342,16 +342,16 @@
       "startTime": "06:30:00 AM 19-10-2025"
     },
     {
-      "id": 137502,
-      "event_category": "Cricket",
-      "title": "Emirates Blues vs Abu Dhabi (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137502_5722_EMB_ABD_fc-web.jpg",
-      "team_1": "Emirates Blues",
-      "team_2": "Abu Dhabi",
+      "id": 136607,
+      "event_category": "Football",
+      "title": "Neom SC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136607_5655_NEOM_ALQ_fc-web.jpg",
+      "team_1": "Neom SC",
+      "team_2": "Al-Qadsiah FC",
       "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Emirates Blues vs Abu Dhabi",
-      "startTime": "11:00:00 PM 19-10-2025"
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Neom SC vs Al-Qadsiah FC",
+      "startTime": "11:30:00 PM 19-10-2025"
     },
     {
       "id": 136866,
@@ -364,18 +364,6 @@
       "event_name": "DP World India Championship",
       "match_name": "Day 4",
       "startTime": "11:30:00 AM 19-10-2025"
-    },
-    {
-      "id": 136607,
-      "event_category": "Football",
-      "title": "Neom SC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136607_5655_NEOM_ALQ_fc-web.jpg",
-      "team_1": "Neom SC",
-      "team_2": "Al-Qadsiah FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Neom SC vs Al-Qadsiah FC",
-      "startTime": "11:30:00 PM 19-10-2025"
     },
     {
       "id": 137215,
@@ -460,6 +448,18 @@
       "event_name": "England tour of New Zealand, 2025",
       "match_name": "New Zealand vs England",
       "startTime": "11:45:00 AM 20-10-2025"
+    },
+    {
+      "id": 137744,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Seattle Mariners",
+      "startTime": "05:33:00 AM 20-10-2025"
     }
   ]
 }
