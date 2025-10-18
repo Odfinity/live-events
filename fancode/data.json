@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:04 PM 18-10-2025",
+  "last update time": "07:17 PM 18-10-2025",
   "matches": [
     {
       "id": 137700,
@@ -16,20 +16,6 @@
       "startTime": "01:00:00 PM 18-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/kxmcvTwXTC2v36KgUgQXkg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137700_english_hls_625c392f2934863ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136951,
-      "event_category": "Football",
-      "title": "Queens Park Rangers F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136951_5489_QPR_MLW_fc-web.jpg",
-      "team_1": "Queens Park Rangers F.C.",
-      "team_2": "Millwall F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Queens Park Rangers F.C. vs Millwall F.C.",
-      "startTime": "05:00:00 PM 18-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/dcVk3KC7Q6mUczVP9m4pWw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136951_english_hls_1b5469b89033225ta-di_h264/index.m3u8"
     },
     {
       "id": 130919,
@@ -52,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137499_5722_FUJ_DUB_fc-web.jpg",
       "team_1": "Fujairah",
       "team_2": "Dubai",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Fujairah vs Dubai",
-      "startTime": "07:00:00 PM 18-10-2025"
+      "startTime": "07:00:00 PM 18-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/mBqtxOfNTe6lh7EWcB4gBA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137499_english_hls_1a4a33290619246ta-di_h264/index.m3u8"
     },
     {
       "id": 137712,
@@ -64,10 +52,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137712_5728_WCB_WEW_fc-web.jpg",
       "team_1": "West Coast Blues",
       "team_2": "Wellington Wolves",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Boland T10, 2025",
       "match_name": "West Coast Blues vs Wellington Wolves",
-      "startTime": "07:00:00 PM 18-10-2025"
+      "startTime": "07:00:00 PM 18-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/XF7BpNmXTIiTE09kRYkEmw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137712_english_hls_ebc44e13bb80804ta-di_h264/index.m3u8"
     },
     {
       "id": 136949,
@@ -76,10 +66,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136949_5489_CHL_SHFF_fc-web.jpg",
       "team_1": "Charlton Athletic F.C",
       "team_2": "Sheffield Wednesday F.C.",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EFL Championship 2025-26",
       "match_name": "Charlton Athletic F.C vs Sheffield Wednesday F.C.",
-      "startTime": "07:30:00 PM 18-10-2025"
+      "startTime": "07:30:00 PM 18-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fPFVuJQeSBWUp_VWLfREvA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136949_english_hls_b789f25f757047ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130912,
+      "event_category": "Football",
+      "title": "FC Barcelona vs Girona FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130912_5427_BAR_GIR_fc-Web.jpg",
+      "team_1": "FC Barcelona",
+      "team_2": "Girona FC",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "FC Barcelona vs Girona FC",
+      "startTime": "07:45:00 PM 18-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137713,
@@ -104,18 +110,6 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Sharjah vs Abu Dhabi",
       "startTime": "11:00:00 PM 18-10-2025"
-    },
-    {
-      "id": 130912,
-      "event_category": "Football",
-      "title": "FC Barcelona vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130912_5427_BAR_GIR_fc-Web.jpg",
-      "team_1": "FC Barcelona",
-      "team_2": "Girona FC",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "FC Barcelona vs Girona FC",
-      "startTime": "07:45:00 PM 18-10-2025"
     },
     {
       "id": 136605,
@@ -274,18 +268,6 @@
       "startTime": "07:45:00 PM 19-10-2025"
     },
     {
-      "id": 118473,
-      "event_category": "Formula 1",
-      "title": "Sprint vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd-(1).png",
-      "team_1": "Sprint",
-      "team_2": "United States of America",
-      "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
-      "match_name": "Sprint",
-      "startTime": "10:30:00 PM 18-10-2025"
-    },
-    {
       "id": 137717,
       "event_category": "Cricket",
       "title": "West Coast Blues vs Stellenbosch Kings (Boland T10, 2025)",
@@ -298,6 +280,18 @@
       "startTime": "09:30:00 PM 19-10-2025"
     },
     {
+      "id": 118473,
+      "event_category": "Formula 1",
+      "title": "Sprint vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd-(1).png",
+      "team_1": "Sprint",
+      "team_2": "United States of America",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
+      "match_name": "Sprint",
+      "startTime": "10:30:00 PM 18-10-2025"
+    },
+    {
       "id": 118474,
       "event_category": "Formula 1",
       "title": "Qualifying vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
@@ -308,6 +302,18 @@
       "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
       "match_name": "Qualifying",
       "startTime": "02:30:00 AM 19-10-2025"
+    },
+    {
+      "id": 130915,
+      "event_category": "Football",
+      "title": "Levante vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130915_5427_LE_RVL_fc-Web.jpg",
+      "team_1": "Levante",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Rayo Vallecano",
+      "startTime": "10:00:00 PM 19-10-2025"
     },
     {
       "id": 137743,
@@ -334,16 +340,16 @@
       "startTime": "06:30:00 AM 19-10-2025"
     },
     {
-      "id": 130915,
-      "event_category": "Football",
-      "title": "Levante vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130915_5427_LE_RVL_fc-Web.jpg",
-      "team_1": "Levante",
-      "team_2": "Rayo Vallecano",
+      "id": 137502,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Abu Dhabi (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137502_5722_EMB_ABD_fc-web.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Abu Dhabi",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Rayo Vallecano",
-      "startTime": "10:00:00 PM 19-10-2025"
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Emirates Blues vs Abu Dhabi",
+      "startTime": "11:00:00 PM 19-10-2025"
     },
     {
       "id": 136866,
@@ -356,18 +362,6 @@
       "event_name": "DP World India Championship",
       "match_name": "Day 4",
       "startTime": "11:30:00 AM 19-10-2025"
-    },
-    {
-      "id": 137502,
-      "event_category": "Cricket",
-      "title": "Emirates Blues vs Abu Dhabi (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137502_5722_EMB_ABD_fc-web.jpg",
-      "team_1": "Emirates Blues",
-      "team_2": "Abu Dhabi",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Emirates Blues vs Abu Dhabi",
-      "startTime": "11:00:00 PM 19-10-2025"
     },
     {
       "id": 136607,
@@ -452,6 +446,18 @@
       "event_name": "One Day Cup, 2025-26",
       "match_name": "South Australia vs Queensland",
       "startTime": "06:00:00 AM 20-10-2025"
+    },
+    {
+      "id": 137158,
+      "event_category": "Cricket",
+      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
+      "team_1": "New Zealand",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of New Zealand, 2025",
+      "match_name": "New Zealand vs England",
+      "startTime": "11:45:00 AM 20-10-2025"
     }
   ]
 }
