@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:28 PM 18-10-2025",
+  "last update time": "09:59 PM 18-10-2025",
   "matches": [
     {
       "id": 130912,
@@ -34,30 +34,16 @@
     {
       "id": 137713,
       "event_category": "Cricket",
-      "title": "Overberg Indwe vs Northern Raiders (Boland T10, 2025)",
+      "title": "Northern Raiders vs Overberg Indwe (Boland T10, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137713_5728_OBI_NTR_fc-web.jpg",
-      "team_1": "Overberg Indwe",
-      "team_2": "Northern Raiders",
+      "team_1": "Northern Raiders",
+      "team_2": "Overberg Indwe",
       "status": "LIVE",
       "event_name": "Boland T10, 2025",
-      "match_name": "Overberg Indwe vs Northern Raiders",
+      "match_name": "Northern Raiders vs Overberg Indwe",
       "startTime": "09:30:00 PM 18-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/qsFEUKkVRG--gyoK-g6Sfw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137713_english_hls_4720eb48ba53467ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136949,
-      "event_category": "Football",
-      "title": "Charlton Athletic F.C vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136949_5489_CHL_SHFF_fc-web.jpg",
-      "team_1": "Charlton Athletic F.C",
-      "team_2": "Sheffield Wednesday F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Charlton Athletic F.C vs Sheffield Wednesday F.C.",
-      "startTime": "07:30:00 PM 18-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/fPFVuJQeSBWUp_VWLfREvA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136949_english_hls_b789f25f757047ta-di_h264/index.m3u8"
     },
     {
       "id": 136605,
@@ -74,6 +60,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136605_english_hls_3781d8114a69999ta-di_h264/index.m3u8"
     },
     {
+      "id": 130917,
+      "event_category": "Football",
+      "title": "Villarreal CF vs Real Betis (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130917_5427_VIL_RB_fc-Web.jpg",
+      "team_1": "Villarreal CF",
+      "team_2": "Real Betis",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Villarreal CF vs Real Betis",
+      "startTime": "10:00:00 PM 18-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130917_english_hls_527cfedcb137253adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130917_english_hls_527cfedcb137253adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137214,
+      "event_category": "Football",
+      "title": "Real Zaragoza vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137214_5572_RZ_CL_fc-Web.jpg",
+      "team_1": "Real Zaragoza",
+      "team_2": "Cultural Leonesa",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Zaragoza vs Cultural Leonesa",
+      "startTime": "10:00:00 PM 18-10-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 118473,
       "event_category": "Formula 1",
       "title": "Sprint vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
@@ -86,30 +100,6 @@
       "startTime": "10:30:00 PM 18-10-2025",
       "dai_url": "https://d36y0iqkaks3ob.cloudfront.net/out/v1/eaf7320faf59490a8cc47454976ca98f/index.m3u8",
       "adfree_url": "https://d36y0iqkaks3ob.cloudfront.net/out/v1/eaf7320faf59490a8cc47454976ca98f/index.m3u8"
-    },
-    {
-      "id": 130917,
-      "event_category": "Football",
-      "title": "Villarreal CF vs Real Betis (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130917_5427_VIL_RB_fc-Web.jpg",
-      "team_1": "Villarreal CF",
-      "team_2": "Real Betis",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Villarreal CF vs Real Betis",
-      "startTime": "10:00:00 PM 18-10-2025"
-    },
-    {
-      "id": 137214,
-      "event_category": "Football",
-      "title": "Real Zaragoza vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137214_5572_RZ_CL_fc-Web.jpg",
-      "team_1": "Real Zaragoza",
-      "team_2": "Cultural Leonesa",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza vs Cultural Leonesa",
-      "startTime": "10:00:00 PM 18-10-2025"
     },
     {
       "id": 137500,
@@ -280,6 +270,30 @@
       "startTime": "11:30:00 PM 19-10-2025"
     },
     {
+      "id": 137215,
+      "event_category": "Football",
+      "title": "Racing de Santander vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137215_5572_RAC_DEP_fc-Web.jpg",
+      "team_1": "Racing de Santander",
+      "team_2": "Deportivo de La Coruña",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Racing de Santander vs Deportivo de La Coruña",
+      "startTime": "10:00:00 PM 19-10-2025"
+    },
+    {
+      "id": 130914,
+      "event_category": "Football",
+      "title": "Getafe CF vs Real Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130914_5427_GEF_RM_fc-Web.jpg",
+      "team_1": "Getafe CF",
+      "team_2": "Real Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Getafe CF vs Real Madrid",
+      "startTime": "12:30:00 AM 20-10-2025"
+    },
+    {
       "id": 118474,
       "event_category": "Formula 1",
       "title": "Qualifying vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
@@ -314,30 +328,6 @@
       "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
       "match_name": "Australia GP",
       "startTime": "06:30:00 AM 19-10-2025"
-    },
-    {
-      "id": 137215,
-      "event_category": "Football",
-      "title": "Racing de Santander vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137215_5572_RAC_DEP_fc-Web.jpg",
-      "team_1": "Racing de Santander",
-      "team_2": "Deportivo de La Coruña",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing de Santander vs Deportivo de La Coruña",
-      "startTime": "10:00:00 PM 19-10-2025"
-    },
-    {
-      "id": 130914,
-      "event_category": "Football",
-      "title": "Getafe CF vs Real Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130914_5427_GEF_RM_fc-Web.jpg",
-      "team_1": "Getafe CF",
-      "team_2": "Real Madrid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs Real Madrid",
-      "startTime": "12:30:00 AM 20-10-2025"
     },
     {
       "id": 136866,
@@ -446,6 +436,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Dubai vs Abu Dhabi",
       "startTime": "07:00:00 PM 20-10-2025"
+    },
+    {
+      "id": 136055,
+      "event_category": "Football",
+      "title": "Al Wahda vs Al Duhail (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136055_5647_ALW_ADH_fc-Web.jpg",
+      "team_1": "Al Wahda",
+      "team_2": "Al Duhail",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Wahda vs Al Duhail",
+      "startTime": "07:15:00 PM 20-10-2025"
     }
   ]
 }
