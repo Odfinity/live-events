@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:29 PM 19-10-2025",
+  "last update time": "02:54 PM 19-10-2025",
   "matches": [
     {
       "id": 137714,
@@ -32,18 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136866_english_hls_c32ff0af0d3961ta-di_h264/index.m3u8"
     },
     {
-      "id": 137715,
-      "event_category": "Cricket",
-      "title": "Northern Raiders vs Paarl Rocks (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137715_5728_NTR_PR_fc-web.jpg",
-      "team_1": "Northern Raiders",
-      "team_2": "Paarl Rocks",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Northern Raiders vs Paarl Rocks",
-      "startTime": "04:30:00 PM 19-10-2025"
-    },
-    {
       "id": 137158,
       "event_category": "Cricket",
       "title": "New Zealand vs England (England tour of New Zealand, 2025)",
@@ -54,6 +42,18 @@
       "event_name": "England tour of New Zealand, 2025",
       "match_name": "New Zealand vs England",
       "startTime": "11:45:00 AM 20-10-2025"
+    },
+    {
+      "id": 137715,
+      "event_category": "Cricket",
+      "title": "Northern Raiders vs Paarl Rocks (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137715_5728_NTR_PR_fc-web.jpg",
+      "team_1": "Northern Raiders",
+      "team_2": "Paarl Rocks",
+      "status": "UPCOMING",
+      "event_name": "Boland T10, 2025",
+      "match_name": "Northern Raiders vs Paarl Rocks",
+      "startTime": "04:30:00 PM 19-10-2025"
     },
     {
       "id": 137501,
@@ -92,18 +92,6 @@
       "startTime": "09:30:00 PM 19-10-2025"
     },
     {
-      "id": 130916,
-      "event_category": "Football",
-      "title": "Elche CF vs Athletic Club (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130916_5427_ELC_ATH_fc-Web.jpg",
-      "team_1": "Elche CF",
-      "team_2": "Athletic Club",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs Athletic Club",
-      "startTime": "05:30:00 PM 19-10-2025"
-    },
-    {
       "id": 137502,
       "event_category": "Cricket",
       "title": "Emirates Blues vs Abu Dhabi (Emirates D20 Tournament, 2025)",
@@ -114,6 +102,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Emirates Blues vs Abu Dhabi",
       "startTime": "11:00:00 PM 19-10-2025"
+    },
+    {
+      "id": 130916,
+      "event_category": "Football",
+      "title": "Elche CF vs Athletic Club (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130916_5427_ELC_ATH_fc-Web.jpg",
+      "team_1": "Elche CF",
+      "team_2": "Athletic Club",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs Athletic Club",
+      "startTime": "05:30:00 PM 19-10-2025"
     },
     {
       "id": 130913,
@@ -176,18 +176,6 @@
       "startTime": "04:30:00 AM 20-10-2025"
     },
     {
-      "id": 133938,
-      "event_category": "Cricket",
-      "title": "Tasmania vs Western Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133938_5606_TAS_WAU_fc-web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Tasmania vs Western Australia",
-      "startTime": "05:00:00 AM 20-10-2025"
-    },
-    {
       "id": 137371,
       "event_category": "Cricket",
       "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2025)",
@@ -198,6 +186,18 @@
       "event_name": "Afghanistan tour of Zimbabwe, 2025",
       "match_name": "Zimbabwe vs Afghanistan",
       "startTime": "01:30:00 PM 20-10-2025"
+    },
+    {
+      "id": 133938,
+      "event_category": "Cricket",
+      "title": "Tasmania vs Western Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133938_5606_TAS_WAU_fc-web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "Western Australia",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Tasmania vs Western Australia",
+      "startTime": "05:00:00 AM 20-10-2025"
     },
     {
       "id": 133939,
@@ -438,6 +438,18 @@
       "event_name": "West Indies tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs West Indies",
       "startTime": "01:00:00 PM 21-10-2025"
+    },
+    {
+      "id": 136007,
+      "event_category": "Football",
+      "title": "Melbourne City vs Buriram United (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136007_5647_MLC_BU_fc-Web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Buriram United",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Melbourne City vs Buriram United",
+      "startTime": "01:15:00 PM 21-10-2025"
     }
   ]
 }
