@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:53 PM 19-10-2025",
+  "last update time": "08:09 PM 19-10-2025",
   "matches": [
-    {
-      "id": 130916,
-      "event_category": "Football",
-      "title": "Elche CF vs Athletic Club (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130916_5427_ELC_ATH_fc-Web.jpg",
-      "team_1": "Elche CF",
-      "team_2": "Athletic Club",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs Athletic Club",
-      "startTime": "05:30:00 PM 19-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130916_english_hls_becb1dedf110593adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130916_english_hls_becb1dedf110593adfreeta-di_h264/index.m3u8"
-    },
     {
       "id": 130913,
       "event_category": "Football",
@@ -120,18 +106,6 @@
       "startTime": "10:00:00 PM 19-10-2025"
     },
     {
-      "id": 136607,
-      "event_category": "Football",
-      "title": "Neom SC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136607_5655_NEOM_ALQ_fc-web.jpg",
-      "team_1": "Neom SC",
-      "team_2": "Al-Qadsiah FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Neom SC vs Al-Qadsiah FC",
-      "startTime": "11:30:00 PM 19-10-2025"
-    },
-    {
       "id": 133937,
       "event_category": "Cricket",
       "title": "Victoria vs New South Wales (One Day Cup, 2025-26)",
@@ -142,6 +116,18 @@
       "event_name": "One Day Cup, 2025-26",
       "match_name": "Victoria vs New South Wales",
       "startTime": "04:30:00 AM 20-10-2025"
+    },
+    {
+      "id": 136607,
+      "event_category": "Football",
+      "title": "Neom SC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136607_5655_NEOM_ALQ_fc-web.jpg",
+      "team_1": "Neom SC",
+      "team_2": "Al-Qadsiah FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Neom SC vs Al-Qadsiah FC",
+      "startTime": "11:30:00 PM 19-10-2025"
     },
     {
       "id": 130914,
@@ -264,18 +250,6 @@
       "startTime": "12:30:00 AM 20-10-2025"
     },
     {
-      "id": 137744,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137744_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "Seattle Mariners",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs Seattle Mariners",
-      "startTime": "05:33:00 AM 20-10-2025"
-    },
-    {
       "id": 137504,
       "event_category": "Cricket",
       "title": "Fujairah vs Ajman (Emirates D20 Tournament, 2025)",
@@ -286,6 +260,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Fujairah vs Ajman",
       "startTime": "11:00:00 PM 20-10-2025"
+    },
+    {
+      "id": 137744,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137744_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Seattle Mariners",
+      "startTime": "05:33:00 AM 20-10-2025"
     },
     {
       "id": 136058,
@@ -454,6 +440,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Shanghai Port vs Machida Zelvia",
       "startTime": "05:45:00 PM 21-10-2025"
+    },
+    {
+      "id": 137505,
+      "event_category": "Cricket",
+      "title": "Fujairah vs Emirates Blues (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137505_5722_FUJ_EMB_fc-web.jpg",
+      "team_1": "Fujairah",
+      "team_2": "Emirates Blues",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Fujairah vs Emirates Blues",
+      "startTime": "07:00:00 PM 21-10-2025"
     }
   ]
 }
