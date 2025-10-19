@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:28 AM 20-10-2025",
+  "last update time": "01:57 AM 20-10-2025",
   "matches": [
     {
       "id": 118475,
@@ -30,20 +30,6 @@
       "startTime": "12:30:00 AM 20-10-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130914_english_hls_6c67202a6635684adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130914_english_hls_6c67202a6635684adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136607,
-      "event_category": "Football",
-      "title": "Neom SC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136607_5655_NEOM_ALQ_fc-web.jpg",
-      "team_1": "Neom SC",
-      "team_2": "Al-Qadsiah FC",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Neom SC vs Al-Qadsiah FC",
-      "startTime": "11:30:00 PM 19-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/dwKbgV_sRrmyjuo7JC4WbA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136607_english_hls_0e43f962ad65462ta-di_h264/index.m3u8"
     },
     {
       "id": 137502,
@@ -228,18 +214,6 @@
       "startTime": "12:00:00 AM 21-10-2025"
     },
     {
-      "id": 137744,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137744_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "Seattle Mariners",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs Seattle Mariners",
-      "startTime": "05:33:00 AM 20-10-2025"
-    },
-    {
       "id": 133994,
       "event_category": "Cricket",
       "title": "Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)",
@@ -262,6 +236,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Sydney Sixers Women vs Hobart Hurricanes Women",
       "startTime": "04:30:00 AM 21-10-2025"
+    },
+    {
+      "id": 137744,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137744_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Seattle Mariners",
+      "startTime": "05:33:00 AM 20-10-2025"
     },
     {
       "id": 133996,
@@ -466,6 +452,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Perth Scorchers Women vs Sydney Sixers Women",
       "startTime": "04:30:00 AM 22-10-2025"
+    },
+    {
+      "id": 133998,
+      "event_category": "Cricket",
+      "title": "Hobart Hurricanes Women vs Sydney Thunder Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133998_5608_HB-W_ST-W_FC-Web.jpg",
+      "team_1": "Hobart Hurricanes Women",
+      "team_2": "Sydney Thunder Women",
+      "status": "UPCOMING",
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "Hobart Hurricanes Women vs Sydney Thunder Women",
+      "startTime": "09:00:00 AM 22-10-2025"
     }
   ]
 }
