@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:10 PM 19-10-2025",
+  "last update time": "04:27 PM 19-10-2025",
   "matches": [
+    {
+      "id": 137715,
+      "event_category": "Cricket",
+      "title": "Northern Raiders vs Paarl Rocks (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137715_5728_NTR_PR_fc-web.jpg",
+      "team_1": "Northern Raiders",
+      "team_2": "Paarl Rocks",
+      "status": "LIVE",
+      "event_name": "Boland T10, 2025",
+      "match_name": "Northern Raiders vs Paarl Rocks",
+      "startTime": "04:30:00 PM 19-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/lykhntGOR6W1RMVg8L4n6A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137715_english_hls_124a20c88916558ta-di_h264/index.m3u8"
+    },
     {
       "id": 136866,
       "event_category": "Golf",
@@ -18,18 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136866_english_hls_c32ff0af0d3961ta-di_h264/index.m3u8"
     },
     {
-      "id": 137715,
-      "event_category": "Cricket",
-      "title": "Northern Raiders vs Paarl Rocks (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137715_5728_NTR_PR_fc-web.jpg",
-      "team_1": "Northern Raiders",
-      "team_2": "Paarl Rocks",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Northern Raiders vs Paarl Rocks",
-      "startTime": "04:30:00 PM 19-10-2025"
-    },
-    {
       "id": 137158,
       "event_category": "Cricket",
       "title": "New Zealand vs England (England tour of New Zealand, 2025)",
@@ -40,6 +42,18 @@
       "event_name": "England tour of New Zealand, 2025",
       "match_name": "New Zealand vs England",
       "startTime": "11:45:00 AM 20-10-2025"
+    },
+    {
+      "id": 137371,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "Afghanistan",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan tour of Zimbabwe, 2025",
+      "match_name": "Zimbabwe vs Afghanistan",
+      "startTime": "01:30:00 PM 20-10-2025"
     },
     {
       "id": 137501,
@@ -64,18 +78,6 @@
       "event_name": "Boland T10, 2025",
       "match_name": "Overberg Indwe vs Paarl Rapids",
       "startTime": "07:00:00 PM 19-10-2025"
-    },
-    {
-      "id": 137371,
-      "event_category": "Cricket",
-      "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "Afghanistan tour of Zimbabwe, 2025",
-      "match_name": "Zimbabwe vs Afghanistan",
-      "startTime": "01:30:00 PM 20-10-2025"
     },
     {
       "id": 137717,
