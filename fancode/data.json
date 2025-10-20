@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:28 PM 20-10-2025",
+  "last update time": "08:57 PM 20-10-2025",
   "matches": [
     {
       "id": 137371,
@@ -10,12 +10,10 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg",
       "team_1": "Afghanistan",
       "team_2": "Zimbabwe",
-      "status": "LIVE",
+      "status": "PAUSED",
       "event_name": "Afghanistan tour of Zimbabwe, 2025",
       "match_name": "Afghanistan vs Zimbabwe",
-      "startTime": "01:30:00 PM 20-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/8iVRAI9XQGu-WnPTuxqrSg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137371_english_hls_981046261520795ta-di_h264/index.m3u8"
+      "startTime": "01:30:00 PM 20-10-2025"
     },
     {
       "id": 137503,
@@ -46,18 +44,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136055_english_hls_ad1f6b859e47408ta-di_h264/index.m3u8"
     },
     {
-      "id": 137701,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh_2025_Old_match-card.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "event_name": "West Indies tour of Bangladesh, 2025",
-      "match_name": "Bangladesh vs West Indies",
-      "startTime": "01:00:00 PM 21-10-2025"
-    },
-    {
       "id": 137718,
       "event_category": "Cricket",
       "title": "Wellington Wolves vs Paarl Rapids (Boland T10, 2025)",
@@ -70,16 +56,16 @@
       "startTime": "09:30:00 PM 20-10-2025"
     },
     {
-      "id": 137504,
+      "id": 137701,
       "event_category": "Cricket",
-      "title": "Fujairah vs Ajman (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137504_5722_FUJ_AJM_fc-web.jpg",
-      "team_1": "Fujairah",
-      "team_2": "Ajman",
+      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh_2025_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "West Indies",
       "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Fujairah vs Ajman",
-      "startTime": "11:00:00 PM 20-10-2025"
+      "event_name": "West Indies tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs West Indies",
+      "startTime": "01:00:00 PM 21-10-2025"
     },
     {
       "id": 136057,
@@ -104,6 +90,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Sharjah vs Tractor",
       "startTime": "09:30:00 PM 20-10-2025"
+    },
+    {
+      "id": 137504,
+      "event_category": "Cricket",
+      "title": "Fujairah vs Ajman (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137504_5722_FUJ_AJM_fc-web.jpg",
+      "team_1": "Fujairah",
+      "team_2": "Ajman",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Fujairah vs Ajman",
+      "startTime": "11:00:00 PM 20-10-2025"
     },
     {
       "id": 133994,
@@ -190,18 +188,6 @@
       "startTime": "01:15:00 PM 21-10-2025"
     },
     {
-      "id": 137216,
-      "event_category": "Football",
-      "title": "Cádiz vs Burgos (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137216_5572_CDZ_BUR_fc-Web.jpg",
-      "team_1": "Cádiz",
-      "team_2": "Burgos",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Cádiz vs Burgos",
-      "startTime": "12:00:00 AM 21-10-2025"
-    },
-    {
       "id": 136009,
       "event_category": "Football",
       "title": "Chengdu Rongcheng vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
@@ -224,6 +210,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Ulsan HD vs Sanfrecce Hiroshima",
       "startTime": "03:30:00 PM 21-10-2025"
+    },
+    {
+      "id": 137216,
+      "event_category": "Football",
+      "title": "Cádiz vs Burgos (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137216_5572_CDZ_BUR_fc-Web.jpg",
+      "team_1": "Cádiz",
+      "team_2": "Burgos",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Cádiz vs Burgos",
+      "startTime": "12:00:00 AM 21-10-2025"
     },
     {
       "id": 136010,
