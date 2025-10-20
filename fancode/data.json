@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:27 AM 21-10-2025",
+  "last update time": "04:52 AM 21-10-2025",
   "matches": [
+    {
+      "id": 133994,
+      "event_category": "Cricket",
+      "title": "Melbourne Renegades Women vs Brisbane Heat Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133994_5608_BH-W_MR-W_FC-Web.jpg",
+      "team_1": "Melbourne Renegades Women",
+      "team_2": "Brisbane Heat Women",
+      "status": "LIVE",
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "Melbourne Renegades Women vs Brisbane Heat Women",
+      "startTime": "04:30:00 AM 21-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Tr8l72ocS_yMUUizaM9LOA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133994_english_hls_d67e2e89e08308ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133993,
+      "event_category": "Cricket",
+      "title": "Hobart Hurricanes Women vs Sydney Sixers Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133993_5608_SS-W_HB-W_FC-Web.jpg",
+      "team_1": "Hobart Hurricanes Women",
+      "team_2": "Sydney Sixers Women",
+      "status": "LIVE",
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "Hobart Hurricanes Women vs Sydney Sixers Women",
+      "startTime": "04:30:00 AM 21-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/W6ebhJ9cQxWWW3jtjapoNQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133993_english_hls_1f6716412478146ta-di_h264/index.m3u8"
+    },
     {
       "id": 137371,
       "event_category": "Cricket",
@@ -26,30 +54,6 @@
       "event_name": "West Indies tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs West Indies",
       "startTime": "01:00:00 PM 21-10-2025"
-    },
-    {
-      "id": 133994,
-      "event_category": "Cricket",
-      "title": "Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133994_5608_BH-W_MR-W_FC-Web.jpg",
-      "team_1": "Brisbane Heat Women",
-      "team_2": "Melbourne Renegades Women",
-      "status": "UPCOMING",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Brisbane Heat Women vs Melbourne Renegades Women",
-      "startTime": "04:30:00 AM 21-10-2025"
-    },
-    {
-      "id": 133993,
-      "event_category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Sydney Sixers Women (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133993_5608_SS-W_HB-W_FC-Web.jpg",
-      "team_1": "Hobart Hurricanes Women",
-      "team_2": "Sydney Sixers Women",
-      "status": "UPCOMING",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Hobart Hurricanes Women vs Sydney Sixers Women",
-      "startTime": "04:30:00 AM 21-10-2025"
     },
     {
       "id": 133996,
@@ -112,18 +116,6 @@
       "startTime": "03:30:00 PM 21-10-2025"
     },
     {
-      "id": 136010,
-      "event_category": "Football",
-      "title": "Shanghai Port vs Machida Zelvia (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136010_5647_SHG_MZ_fc-Web.jpg",
-      "team_1": "Shanghai Port",
-      "team_2": "Machida Zelvia",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shanghai Port vs Machida Zelvia",
-      "startTime": "05:45:00 PM 21-10-2025"
-    },
-    {
       "id": 137505,
       "event_category": "Cricket",
       "title": "Fujairah vs Emirates Blues (Emirates D20 Tournament, 2025)",
@@ -134,6 +126,18 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Fujairah vs Emirates Blues",
       "startTime": "07:00:00 PM 21-10-2025"
+    },
+    {
+      "id": 136010,
+      "event_category": "Football",
+      "title": "Shanghai Port vs Machida Zelvia (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136010_5647_SHG_MZ_fc-Web.jpg",
+      "team_1": "Shanghai Port",
+      "team_2": "Machida Zelvia",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Shanghai Port vs Machida Zelvia",
+      "startTime": "05:45:00 PM 21-10-2025"
     },
     {
       "id": 137719,
@@ -196,6 +200,18 @@
       "startTime": "12:30:00 AM 22-10-2025"
     },
     {
+      "id": 137746,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137746_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Seattle Mariners",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Seattle Mariners",
+      "startTime": "05:38:00 AM 21-10-2025"
+    },
+    {
       "id": 136119,
       "event_category": "Football",
       "title": "Ahal vs Sepahan (AFC Champions League Two 2025-26)",
@@ -218,18 +234,6 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Perth Scorchers Women vs Sydney Sixers Women",
       "startTime": "04:30:00 AM 22-10-2025"
-    },
-    {
-      "id": 137746,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137746_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "Seattle Mariners",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs Seattle Mariners",
-      "startTime": "05:38:00 AM 21-10-2025"
     },
     {
       "id": 133998,
