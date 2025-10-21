@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:50 PM 21-10-2025",
+  "last update time": "11:11 PM 21-10-2025",
   "matches": [
     {
       "id": 137371,
@@ -18,16 +18,16 @@
     {
       "id": 137506,
       "event_category": "Cricket",
-      "title": "Ajman vs Dubai (Emirates D20 Tournament, 2025)",
+      "title": "Dubai vs Ajman (Emirates D20 Tournament, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137506_5722_AJM_DUB_fc-web.jpg",
-      "team_1": "Ajman",
-      "team_2": "Dubai",
+      "team_1": "Dubai",
+      "team_2": "Ajman",
       "status": "LIVE",
       "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Ajman vs Dubai",
+      "match_name": "Dubai vs Ajman",
       "startTime": "11:00:00 PM 21-10-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/AEszgAWGTAGG0LIQo0TMCg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137506_english_hls_a1913e3d4928493ta-di_h264/index.m3u8"
     },
     {
       "id": 136059,
@@ -438,6 +438,18 @@
       "event_name": "Boland T10, 2025",
       "match_name": "Paarl Rocks vs Wellington Wolves",
       "startTime": "09:30:00 PM 23-10-2025"
+    },
+    {
+      "id": 137316,
+      "event_category": "Golf",
+      "title": "Day 1 - Main Feed vs Black Desert Resort (Bank of Utah Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+      "team_1": "Day 1 - Main Feed",
+      "team_2": "Black Desert Resort",
+      "status": "UPCOMING",
+      "event_name": "Bank of Utah Championship",
+      "match_name": "Day 1 - Main Feed",
+      "startTime": "06:30:00 PM 23-10-2025"
     }
   ]
 }
