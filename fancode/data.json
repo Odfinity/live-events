@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:29 AM 21-10-2025",
+  "last update time": "09:11 AM 21-10-2025",
   "matches": [
     {
-      "id": 137746,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137746_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "Seattle Mariners",
+      "id": 133996,
+      "event_category": "Cricket",
+      "title": "Melbourne Stars Women vs Adelaide Strikers Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133996_5608_AS-W_MS-W_FC-Web.jpg",
+      "team_1": "Melbourne Stars Women",
+      "team_2": "Adelaide Strikers Women",
       "status": "LIVE",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs Seattle Mariners",
-      "startTime": "05:38:00 AM 21-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137746_english_hls_2fee68bae281296ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137746_english_hls_2fee68bae281296ta-di_h264/index.m3u8"
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "Melbourne Stars Women vs Adelaide Strikers Women",
+      "startTime": "09:00:00 AM 21-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/pa7NKhowTLSkLsuK9-TWcw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133996_english_hls_f6cccc328b70471ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133995,
+      "event_category": "Cricket",
+      "title": "ACT Meteors vs Sydney Thunder Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133995_5608_ST-W_ACTM_FC-Web.jpg",
+      "team_1": "ACT Meteors",
+      "team_2": "Sydney Thunder Women",
+      "status": "LIVE",
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "ACT Meteors vs Sydney Thunder Women",
+      "startTime": "09:00:00 AM 21-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/14ZjKCjzQyqmfs5fabNt7g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133995_english_hls_7681b5a89a39790ta-di_h264/index.m3u8"
     },
     {
       "id": 137371,
@@ -40,30 +54,6 @@
       "event_name": "West Indies tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs West Indies",
       "startTime": "01:00:00 PM 21-10-2025"
-    },
-    {
-      "id": 133996,
-      "event_category": "Cricket",
-      "title": "Adelaide Strikers Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133996_5608_AS-W_MS-W_FC-Web.jpg",
-      "team_1": "Adelaide Strikers Women",
-      "team_2": "Melbourne Stars Women",
-      "status": "UPCOMING",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Adelaide Strikers Women vs Melbourne Stars Women",
-      "startTime": "09:00:00 AM 21-10-2025"
-    },
-    {
-      "id": 133995,
-      "event_category": "Cricket",
-      "title": "Sydney Thunder Women vs ACT Meteors (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133995_5608_ST-W_ACTM_FC-Web.jpg",
-      "team_1": "Sydney Thunder Women",
-      "team_2": "ACT Meteors",
-      "status": "UPCOMING",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Sydney Thunder Women vs ACT Meteors",
-      "startTime": "09:00:00 AM 21-10-2025"
     },
     {
       "id": 136007,
@@ -448,6 +438,18 @@
       "event_name": "West Indies tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs West Indies",
       "startTime": "01:00:00 PM 23-10-2025"
+    },
+    {
+      "id": 136867,
+      "event_category": "Golf",
+      "title": "Day 1 vs Jack Nicklaus Golf Club (Genesis Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Jack Nicklaus Golf Club",
+      "status": "UPCOMING",
+      "event_name": "Genesis Championship",
+      "match_name": "Day 1",
+      "startTime": "08:30:00 AM 23-10-2025"
     }
   ]
 }
