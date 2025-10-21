@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:19 AM 21-10-2025",
+  "last update time": "08:29 AM 21-10-2025",
   "matches": [
-    {
-      "id": 133994,
-      "event_category": "Cricket",
-      "title": "Melbourne Renegades Women vs Brisbane Heat Women (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133994_5608_BH-W_MR-W_FC-Web.jpg",
-      "team_1": "Melbourne Renegades Women",
-      "team_2": "Brisbane Heat Women",
-      "status": "LIVE",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Melbourne Renegades Women vs Brisbane Heat Women",
-      "startTime": "04:30:00 AM 21-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Tr8l72ocS_yMUUizaM9LOA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133994_english_hls_d67e2e89e08308ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133993,
-      "event_category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Sydney Sixers Women (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133993_5608_SS-W_HB-W_FC-Web.jpg",
-      "team_1": "Hobart Hurricanes Women",
-      "team_2": "Sydney Sixers Women",
-      "status": "LIVE",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Hobart Hurricanes Women vs Sydney Sixers Women",
-      "startTime": "04:30:00 AM 21-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/W6ebhJ9cQxWWW3jtjapoNQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133993_english_hls_1f6716412478146ta-di_h264/index.m3u8"
-    },
     {
       "id": 137746,
       "event_category": "Baseball",
@@ -214,18 +186,6 @@
       "startTime": "12:30:00 AM 22-10-2025"
     },
     {
-      "id": 136119,
-      "event_category": "Football",
-      "title": "Ahal vs Sepahan (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136119_5648_AH_SEP_fc-Web_1758118382869.jpg",
-      "team_1": "Ahal",
-      "team_2": "Sepahan",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Ahal vs Sepahan",
-      "startTime": "07:15:00 PM 21-10-2025"
-    },
-    {
       "id": 133997,
       "event_category": "Cricket",
       "title": "Perth Scorchers Women vs Sydney Sixers Women (T20 Spring Challenge, 2025)",
@@ -236,6 +196,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Perth Scorchers Women vs Sydney Sixers Women",
       "startTime": "04:30:00 AM 22-10-2025"
+    },
+    {
+      "id": 136119,
+      "event_category": "Football",
+      "title": "Ahal vs Sepahan (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136119_5648_AH_SEP_fc-Web_1758118382869.jpg",
+      "team_1": "Ahal",
+      "team_2": "Sepahan",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Ahal vs Sepahan",
+      "startTime": "07:15:00 PM 21-10-2025"
     },
     {
       "id": 133998,
@@ -452,6 +424,30 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Perth Scorchers Women vs Brisbane Heat Women",
       "startTime": "09:00:00 AM 23-10-2025"
+    },
+    {
+      "id": 137159,
+      "event_category": "Cricket",
+      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
+      "team_1": "New Zealand",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of New Zealand, 2025",
+      "match_name": "New Zealand vs England",
+      "startTime": "11:45:00 AM 23-10-2025"
+    },
+    {
+      "id": 137702,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh_2025_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "West Indies",
+      "status": "UPCOMING",
+      "event_name": "West Indies tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs West Indies",
+      "startTime": "01:00:00 PM 23-10-2025"
     }
   ]
 }
