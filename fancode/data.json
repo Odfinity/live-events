@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 PM 21-10-2025",
+  "last update time": "12:07 AM 22-10-2025",
   "matches": [
     {
       "id": 137371,
@@ -30,42 +30,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137506_english_hls_a1913e3d4928493ta-di_h264/index.m3u8"
     },
     {
-      "id": 136059,
-      "event_category": "Football",
-      "title": "Shabab Al Ahli vs Nasaf (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136059_5647_SAA_NQ_fc-Web.jpg",
-      "team_1": "Shabab Al Ahli",
-      "team_2": "Nasaf",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shabab Al Ahli vs Nasaf",
-      "startTime": "09:30:00 PM 21-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/e5lLERvqQEKoF8sa8dQ1kw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136059_english_hls_459015e9c721574ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136060,
       "event_category": "Football",
       "title": "Al Hilal SFC vs Al Sadd (AFC Champions League Elite 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/136060_5647_AHS_SDD_fc-Web.jpg",
       "team_1": "Al Hilal SFC",
       "team_2": "Al Sadd",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Hilal SFC vs Al Sadd",
-      "startTime": "11:45:00 PM 21-10-2025"
-    },
-    {
-      "id": 133997,
-      "event_category": "Cricket",
-      "title": "Perth Scorchers Women vs Sydney Sixers Women (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133997_5608_PS-W_SS-W_FC-Web.jpg",
-      "team_1": "Perth Scorchers Women",
-      "team_2": "Sydney Sixers Women",
-      "status": "UPCOMING",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Perth Scorchers Women vs Sydney Sixers Women",
-      "startTime": "04:30:00 AM 22-10-2025"
+      "startTime": "11:45:00 PM 21-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/v2sEjxJxS6uNUs69EYze5A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136060_english_hls_f222acdcab59753ta-di_h264/index.m3u8"
     },
     {
       "id": 136952,
@@ -78,6 +54,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Bristol City F.C. vs Southampton F.C.",
       "startTime": "12:30:00 AM 22-10-2025"
+    },
+    {
+      "id": 133997,
+      "event_category": "Cricket",
+      "title": "Perth Scorchers Women vs Sydney Sixers Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133997_5608_PS-W_SS-W_FC-Web.jpg",
+      "team_1": "Perth Scorchers Women",
+      "team_2": "Sydney Sixers Women",
+      "status": "UPCOMING",
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "Perth Scorchers Women vs Sydney Sixers Women",
+      "startTime": "04:30:00 AM 22-10-2025"
     },
     {
       "id": 133998,
@@ -128,18 +116,6 @@
       "startTime": "07:00:00 PM 22-10-2025"
     },
     {
-      "id": 136155,
-      "event_category": "Football",
-      "title": "Gamba Osaka vs Nam Dinh (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136155_5648_OSK_ND_fc-Web_1758118383926.jpg",
-      "team_1": "Gamba Osaka",
-      "team_2": "Nam Dinh",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Gamba Osaka vs Nam Dinh",
-      "startTime": "03:30:00 PM 22-10-2025"
-    },
-    {
       "id": 137720,
       "event_category": "Cricket",
       "title": "Paarl Rapids vs Stellenbosch Kings (Boland T10, 2025)",
@@ -150,6 +126,18 @@
       "event_name": "Boland T10, 2025",
       "match_name": "Paarl Rapids vs Stellenbosch Kings",
       "startTime": "09:30:00 PM 22-10-2025"
+    },
+    {
+      "id": 136155,
+      "event_category": "Football",
+      "title": "Gamba Osaka vs Nam Dinh (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136155_5648_OSK_ND_fc-Web_1758118383926.jpg",
+      "team_1": "Gamba Osaka",
+      "team_2": "Nam Dinh",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Gamba Osaka vs Nam Dinh",
+      "startTime": "03:30:00 PM 22-10-2025"
     },
     {
       "id": 136156,
@@ -449,6 +437,18 @@
       "status": "UPCOMING",
       "event_name": "Bank of Utah Championship",
       "match_name": "Day 1 - Main Feed",
+      "startTime": "06:30:00 PM 23-10-2025"
+    },
+    {
+      "id": 137315,
+      "event_category": "Golf",
+      "title": "Day 1 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+      "team_1": "Day 1 - Featured Groups",
+      "team_2": "Black Desert Resort",
+      "status": "UPCOMING",
+      "event_name": "Bank of Utah Championship",
+      "match_name": "Day 1 - Featured Groups",
       "startTime": "06:30:00 PM 23-10-2025"
     }
   ]
