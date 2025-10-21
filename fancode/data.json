@@ -1,20 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:00 AM 22-10-2025",
+  "last update time": "02:18 AM 22-10-2025",
   "matches": [
-    {
-      "id": 137371,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "Zimbabwe",
-      "status": "PAUSED",
-      "event_name": "Afghanistan tour of Zimbabwe, 2025",
-      "match_name": "Afghanistan vs Zimbabwe",
-      "startTime": "01:30:00 PM 20-10-2025"
-    },
     {
       "id": 137506,
       "event_category": "Cricket",
@@ -30,20 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137506_english_hls_a1913e3d4928493ta-di_h264/index.m3u8"
     },
     {
-      "id": 136060,
-      "event_category": "Football",
-      "title": "Al Hilal SFC vs Al Sadd (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136060_5647_AHS_SDD_fc-Web.jpg",
-      "team_1": "Al Hilal SFC",
-      "team_2": "Al Sadd",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al Hilal SFC vs Al Sadd",
-      "startTime": "11:45:00 PM 21-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/v2sEjxJxS6uNUs69EYze5A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136060_english_hls_f222acdcab59753ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136952,
       "event_category": "Football",
       "title": "Bristol City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
@@ -56,6 +30,18 @@
       "startTime": "12:30:00 AM 22-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/mxb1DNHAQqKJeUe5X4Fo6g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136952_english_hls_da991f1dfe47561ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137371,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "Zimbabwe",
+      "status": "PAUSED",
+      "event_name": "Afghanistan tour of Zimbabwe, 2025",
+      "match_name": "Afghanistan vs Zimbabwe",
+      "startTime": "01:30:00 PM 20-10-2025"
     },
     {
       "id": 133997,
@@ -452,6 +438,18 @@
       "event_name": "Bank of Utah Championship",
       "match_name": "Day 1 - Featured Groups",
       "startTime": "06:30:00 PM 23-10-2025"
+    },
+    {
+      "id": 137510,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "11:00:00 PM 23-10-2025"
     }
   ]
 }
