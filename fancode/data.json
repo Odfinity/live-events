@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 22-10-2025",
+  "last update time": "02:07 PM 22-10-2025",
   "matches": [
     {
       "id": 137371,
@@ -14,8 +14,8 @@
       "event_name": "Afghanistan tour of Zimbabwe, 2025",
       "match_name": "Afghanistan vs Zimbabwe",
       "startTime": "01:30:00 PM 20-10-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/wn8DDTgtTVieyUmeueHemw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137371_english_hls_981046261586448ta-di_h264/index.m3u8"
     },
     {
       "id": 136132,
@@ -66,6 +66,18 @@
       "startTime": "03:30:00 PM 22-10-2025"
     },
     {
+      "id": 137159,
+      "event_category": "Cricket",
+      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
+      "team_1": "New Zealand",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of New Zealand, 2025",
+      "match_name": "New Zealand vs England",
+      "startTime": "11:45:00 AM 23-10-2025"
+    },
+    {
       "id": 136012,
       "event_category": "Football",
       "title": "Shanghai Shenhua vs Seoul (AFC Champions League Elite 2025-26)",
@@ -88,18 +100,6 @@
       "event_name": "Emirates D20 Tournament, 2025",
       "match_name": "Emirates Blues vs Sharjah",
       "startTime": "11:00:00 PM 22-10-2025"
-    },
-    {
-      "id": 137159,
-      "event_category": "Cricket",
-      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
-      "team_1": "New Zealand",
-      "team_2": "England",
-      "status": "UPCOMING",
-      "event_name": "England tour of New Zealand, 2025",
-      "match_name": "New Zealand vs England",
-      "startTime": "11:45:00 AM 23-10-2025"
     },
     {
       "id": 136953,
@@ -136,6 +136,18 @@
       "event_name": "West Indies tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs West Indies",
       "startTime": "01:00:00 PM 23-10-2025"
+    },
+    {
+      "id": 134000,
+      "event_category": "Cricket",
+      "title": "Perth Scorchers Women vs Brisbane Heat Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134000_5608_PS-W_BH-W_FC-Web.jpg",
+      "team_1": "Perth Scorchers Women",
+      "team_2": "Brisbane Heat Women",
+      "status": "UPCOMING",
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "Perth Scorchers Women vs Brisbane Heat Women",
+      "startTime": "09:00:00 AM 23-10-2025"
     },
     {
       "id": 136155,
@@ -184,18 +196,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Andijan vs Khaldiya",
       "startTime": "07:15:00 PM 22-10-2025"
-    },
-    {
-      "id": 134000,
-      "event_category": "Cricket",
-      "title": "Perth Scorchers Women vs Brisbane Heat Women (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134000_5608_PS-W_BH-W_FC-Web.jpg",
-      "team_1": "Perth Scorchers Women",
-      "team_2": "Brisbane Heat Women",
-      "status": "UPCOMING",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Perth Scorchers Women vs Brisbane Heat Women",
-      "startTime": "09:00:00 AM 23-10-2025"
     },
     {
       "id": 136108,
@@ -306,18 +306,6 @@
       "startTime": "07:00:00 PM 23-10-2025"
     },
     {
-      "id": 137366,
-      "event_category": "Golf",
-      "title": "Day 1 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Sunrise Golf and Country Club",
-      "status": "UPCOMING",
-      "event_name": "Wistron Ladies Open",
-      "match_name": "Day 1",
-      "startTime": "11:30:00 AM 23-10-2025"
-    },
-    {
       "id": 136168,
       "event_category": "Football",
       "title": "Persib Bandung vs Selangor (AFC Champions League Two 2025-26)",
@@ -352,6 +340,18 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Cong An Ha Noi vs Macarthur",
       "startTime": "05:45:00 PM 23-10-2025"
+    },
+    {
+      "id": 137366,
+      "event_category": "Golf",
+      "title": "Day 1 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Sunrise Golf and Country Club",
+      "status": "UPCOMING",
+      "event_name": "Wistron Ladies Open",
+      "match_name": "Day 1",
+      "startTime": "11:30:00 AM 23-10-2025"
     },
     {
       "id": 137721,
