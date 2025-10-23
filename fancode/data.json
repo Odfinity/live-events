@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:25 PM 23-10-2025",
+  "last update time": "12:53 PM 23-10-2025",
   "matches": [
     {
       "id": 137159,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh_2025_Old_match-card.jpg",
       "team_1": "Bangladesh",
       "team_2": "West Indies",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "West Indies tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs West Indies",
-      "startTime": "01:00:00 PM 23-10-2025"
+      "startTime": "01:00:00 PM 23-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/OEaP_KR-SAm9DPv5mIPtUg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137702_english_hls_a99a194daf68548ta-di_h264/index.m3u8"
     },
     {
       "id": 136867,
@@ -47,7 +49,7 @@
       "id": 137509,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137494_5722_SHA_DUB_fc-web.jpg",
       "team_1": "TBC",
       "team_2": "TBC",
       "status": "UPCOMING",
@@ -70,13 +72,13 @@
     {
       "id": 137510,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "title": "Emirates Blues vs Ajman (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137490_5722_EMB_AJM_fc-web.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Ajman",
       "status": "UPCOMING",
       "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Emirates Blues vs Ajman",
       "startTime": "11:00:00 PM 23-10-2025"
     },
     {
@@ -176,18 +178,6 @@
       "startTime": "05:45:00 PM 23-10-2025"
     },
     {
-      "id": 135962,
-      "event_category": "Football",
-      "title": "Exeter City vs Plymouth Argyle (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/135962_CASACARDS_APP.png",
-      "team_1": "Exeter City",
-      "team_2": "Plymouth Argyle",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Exeter City vs Plymouth Argyle",
-      "startTime": "12:30:00 AM 24-10-2025"
-    },
-    {
       "id": 134002,
       "event_category": "Cricket",
       "title": "Melbourne Renegades Women vs Adelaide Strikers Women (T20 Spring Challenge, 2025)",
@@ -198,6 +188,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Melbourne Renegades Women vs Adelaide Strikers Women",
       "startTime": "09:00:00 AM 24-10-2025"
+    },
+    {
+      "id": 135962,
+      "event_category": "Football",
+      "title": "Exeter City vs Plymouth Argyle (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135962_CASACARDS_APP.png",
+      "team_1": "Exeter City",
+      "team_2": "Plymouth Argyle",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Exeter City vs Plymouth Argyle",
+      "startTime": "12:30:00 AM 24-10-2025"
     },
     {
       "id": 137315,
