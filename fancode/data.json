@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 PM 23-10-2025",
+  "last update time": "12:07 AM 24-10-2025",
   "matches": [
-    {
-      "id": 137721,
-      "event_category": "Cricket",
-      "title": "Paarl Rocks vs Wellington Wolves (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137721_5728_PR_WEW_fc-web.jpg",
-      "team_1": "Paarl Rocks",
-      "team_2": "Wellington Wolves",
-      "status": "LIVE",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Paarl Rocks vs Wellington Wolves",
-      "startTime": "09:30:00 PM 23-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/UJXdvpygTj2ewZVTQzIVAw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137721_english_hls_3bdd15f70a87792ta-di_h264/index.m3u8"
-    },
     {
       "id": 137510,
       "event_category": "Cricket",
@@ -60,6 +46,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137315_english_hls_d88bf815f681988ta-di_h264/index.m3u8"
     },
     {
+      "id": 135962,
+      "event_category": "Football",
+      "title": "Exeter City vs Plymouth Argyle (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135962_CASACARDS_APP.png",
+      "team_1": "Exeter City",
+      "team_2": "Plymouth Argyle",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Exeter City vs Plymouth Argyle",
+      "startTime": "12:30:00 AM 24-10-2025"
+    },
+    {
       "id": 134001,
       "event_category": "Cricket",
       "title": "Melbourne Stars Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2025)",
@@ -82,18 +80,6 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Melbourne Renegades Women vs Adelaide Strikers Women",
       "startTime": "09:00:00 AM 24-10-2025"
-    },
-    {
-      "id": 135962,
-      "event_category": "Football",
-      "title": "Exeter City vs Plymouth Argyle (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/135962_CASACARDS_APP.png",
-      "team_1": "Exeter City",
-      "team_2": "Plymouth Argyle",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Exeter City vs Plymouth Argyle",
-      "startTime": "12:30:00 AM 24-10-2025"
     },
     {
       "id": 137511,
@@ -156,6 +142,18 @@
       "startTime": "12:30:00 AM 25-10-2025"
     },
     {
+      "id": 137610,
+      "event_category": "Football",
+      "title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
+      "team_1": "Huesca",
+      "team_2": "Las Palmas",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Huesca vs Las Palmas",
+      "startTime": "12:00:00 AM 25-10-2025"
+    },
+    {
       "id": 137316,
       "event_category": "Golf",
       "title": "Day 1 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
@@ -192,18 +190,6 @@
       "startTime": "08:30:00 AM 24-10-2025"
     },
     {
-      "id": 137610,
-      "event_category": "Football",
-      "title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
-      "team_1": "Huesca",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Huesca vs Las Palmas",
-      "startTime": "12:00:00 AM 25-10-2025"
-    },
-    {
       "id": 137367,
       "event_category": "Golf",
       "title": "Day 1 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
@@ -216,18 +202,6 @@
       "startTime": "11:30:00 AM 24-10-2025"
     },
     {
-      "id": 137318,
-      "event_category": "Golf",
-      "title": "Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-      "team_1": "Day 2 - Featured Groups",
-      "team_2": "Black Desert Resort",
-      "status": "UPCOMING",
-      "event_name": "Bank of Utah Championship",
-      "match_name": "Day 2 - Featured Groups",
-      "startTime": "07:15:00 PM 24-10-2025"
-    },
-    {
       "id": 134003,
       "event_category": "Cricket",
       "title": "Brisbane Heat Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
@@ -238,6 +212,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Brisbane Heat Women vs Melbourne Stars Women",
       "startTime": "04:30:00 AM 25-10-2025"
+    },
+    {
+      "id": 137318,
+      "event_category": "Golf",
+      "title": "Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
+      "team_1": "Day 2 - Featured Groups",
+      "team_2": "Black Desert Resort",
+      "status": "UPCOMING",
+      "event_name": "Bank of Utah Championship",
+      "match_name": "Day 2 - Featured Groups",
+      "startTime": "07:15:00 PM 24-10-2025"
     },
     {
       "id": 118476,
@@ -430,6 +416,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Blackburn Rovers F.C. vs Southampton F.C.",
       "startTime": "07:30:00 PM 25-10-2025"
+    },
+    {
+      "id": 130927,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Elche CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130927_5427_ESL_ELC_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Elche CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Elche CF",
+      "startTime": "07:45:00 PM 25-10-2025"
     }
   ]
 }
