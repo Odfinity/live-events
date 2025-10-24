@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:51 AM 25-10-2025",
+  "last update time": "01:09 AM 25-10-2025",
   "matches": [
     {
       "id": 118476,
@@ -32,18 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136609_english_hls_ab1456905c17101ta-di_h264/index.m3u8"
     },
     {
-      "id": 137511,
-      "event_category": "Cricket",
-      "title": "Emirates Blues vs Sharjah (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137486_5722_SHA_EMB_fc-web.jpg",
-      "team_1": "Emirates Blues",
-      "team_2": "Sharjah",
+      "id": 130921,
+      "event_category": "Football",
+      "title": "Real Sociedad vs Sevilla FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130921_5427_RS_SEV_fc-Web.jpg",
+      "team_1": "Real Sociedad",
+      "team_2": "Sevilla FC",
       "status": "LIVE",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Emirates Blues vs Sharjah",
-      "startTime": "09:00:00 PM 24-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iLkIzOi3SKu0t0UbsdV4QQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_h264/index.m3u8"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs Sevilla FC",
+      "startTime": "12:30:00 AM 25-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130921_english_hls_c6da498b48865adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130921_english_hls_c6da498b48865adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 136955,
@@ -58,20 +58,6 @@
       "startTime": "12:30:00 AM 25-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Jh9U2bM4SAyCPS5-OqCT8w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136955_english_hls_9d2acf98eb21809ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130921,
-      "event_category": "Football",
-      "title": "Real Sociedad vs Sevilla FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130921_5427_RS_SEV_fc-Web.jpg",
-      "team_1": "Real Sociedad",
-      "team_2": "Sevilla FC",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Sociedad vs Sevilla FC",
-      "startTime": "12:30:00 AM 25-10-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130921_english_hls_c6da498b48865adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130921_english_hls_c6da498b48865adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137610,
@@ -306,6 +292,18 @@
       "startTime": "10:00:00 PM 25-10-2025"
     },
     {
+      "id": 137160,
+      "event_category": "Cricket",
+      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg",
+      "team_1": "New Zealand",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of New Zealand, 2025",
+      "match_name": "New Zealand vs England",
+      "startTime": "06:30:00 AM 26-10-2025"
+    },
+    {
       "id": 137317,
       "event_category": "Golf",
       "title": "Day 2 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
@@ -340,18 +338,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
       "startTime": "05:30:00 AM 25-10-2025"
-    },
-    {
-      "id": 137160,
-      "event_category": "Cricket",
-      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg",
-      "team_1": "New Zealand",
-      "team_2": "England",
-      "status": "UPCOMING",
-      "event_name": "England tour of New Zealand, 2025",
-      "match_name": "New Zealand vs England",
-      "startTime": "06:30:00 AM 26-10-2025"
     },
     {
       "id": 119264,
@@ -426,18 +412,6 @@
       "startTime": "11:00:00 PM 25-10-2025"
     },
     {
-      "id": 137319,
-      "event_category": "Golf",
-      "title": "Day 3 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-      "team_1": "Day 3 - World Feed",
-      "team_2": "Black Desert Resort",
-      "status": "UPCOMING",
-      "event_name": "Bank of Utah Championship",
-      "match_name": "Day 3 - World Feed",
-      "startTime": "02:00:00 AM 26-10-2025"
-    },
-    {
       "id": 137251,
       "event_category": "Cricket",
       "title": "Nepal vs USA (ICC CWC League 2, 2023-27)",
@@ -450,16 +424,16 @@
       "startTime": "11:00:00 AM 26-10-2025"
     },
     {
-      "id": 118479,
-      "event_category": "Formula 1",
-      "title": "Qualifying vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
-      "team_1": "Qualifying",
-      "team_2": "Mexico",
+      "id": 137319,
+      "event_category": "Golf",
+      "title": "Day 3 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
+      "team_1": "Day 3 - World Feed",
+      "team_2": "Black Desert Resort",
       "status": "UPCOMING",
-      "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
-      "match_name": "Qualifying",
-      "startTime": "02:30:00 AM 26-10-2025"
+      "event_name": "Bank of Utah Championship",
+      "match_name": "Day 3 - World Feed",
+      "startTime": "02:00:00 AM 26-10-2025"
     },
     {
       "id": 134008,
@@ -471,6 +445,18 @@
       "status": "UPCOMING",
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Sydney Sixers Women vs Melbourne Renegades Women",
+      "startTime": "09:00:00 AM 26-10-2025"
+    },
+    {
+      "id": 134007,
+      "event_category": "Cricket",
+      "title": "Sydney Thunder Women vs Adelaide Strikers Women (T20 Spring Challenge, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134007_5608_ST-W_AS-W_FC-Web.jpg",
+      "team_1": "Sydney Thunder Women",
+      "team_2": "Adelaide Strikers Women",
+      "status": "UPCOMING",
+      "event_name": "T20 Spring Challenge, 2025",
+      "match_name": "Sydney Thunder Women vs Adelaide Strikers Women",
       "startTime": "09:00:00 AM 26-10-2025"
     }
   ]
