@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:54 PM 24-10-2025",
+  "last update time": "09:12 PM 24-10-2025",
   "matches": [
+    {
+      "id": 137511,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Sharjah (Emirates D20 Tournament, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137486_5722_SHA_EMB_fc-web.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Sharjah",
+      "status": "LIVE",
+      "event_name": "Emirates D20 Tournament, 2025",
+      "match_name": "Emirates Blues vs Sharjah",
+      "startTime": "09:00:00 PM 24-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/iLkIzOi3SKu0t0UbsdV4QQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_h264/index.m3u8"
+    },
     {
       "id": 137318,
       "event_category": "Golf",
@@ -16,18 +30,6 @@
       "startTime": "07:30:00 PM 24-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/VIKN6rLPQNyyZRgMs7UmQQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137511,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Emirates Blues (Emirates D20 Tournament, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137486_5722_SHA_EMB_fc-web.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Emirates Blues",
-      "status": "UPCOMING",
-      "event_name": "Emirates D20 Tournament, 2025",
-      "match_name": "Sharjah vs Emirates Blues",
-      "startTime": "09:00:00 PM 24-10-2025"
     },
     {
       "id": 137722,
@@ -114,18 +116,6 @@
       "startTime": "02:00:00 PM 25-10-2025"
     },
     {
-      "id": 137610,
-      "event_category": "Football",
-      "title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
-      "team_1": "Huesca",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Huesca vs Las Palmas",
-      "startTime": "12:00:00 AM 25-10-2025"
-    },
-    {
       "id": 137858,
       "event_category": "Cricket",
       "title": "Uri Panthers vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
@@ -136,6 +126,18 @@
       "event_name": "Indian Heaven Premier League, 2025",
       "match_name": "Uri Panthers vs Gulmarg Royal",
       "startTime": "04:00:00 PM 25-10-2025"
+    },
+    {
+      "id": 137610,
+      "event_category": "Football",
+      "title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
+      "team_1": "Huesca",
+      "team_2": "Las Palmas",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Huesca vs Las Palmas",
+      "startTime": "12:00:00 AM 25-10-2025"
     },
     {
       "id": 137724,
@@ -258,6 +260,18 @@
       "startTime": "10:00:00 PM 25-10-2025"
     },
     {
+      "id": 136610,
+      "event_category": "Football",
+      "title": "Al-Hazem FC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136610_5655_HAZ_ANF_fc-web.jpg",
+      "team_1": "Al-Hazem FC",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Hazem FC vs Al-Nassr FC",
+      "startTime": "11:30:00 PM 25-10-2025"
+    },
+    {
       "id": 118476,
       "event_category": "Formula 1",
       "title": "Practice 1 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
@@ -304,18 +318,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
       "startTime": "05:30:00 AM 25-10-2025"
-    },
-    {
-      "id": 136610,
-      "event_category": "Football",
-      "title": "Al-Hazem FC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136610_5655_HAZ_ANF_fc-web.jpg",
-      "team_1": "Al-Hazem FC",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Hazem FC vs Al-Nassr FC",
-      "startTime": "11:30:00 PM 25-10-2025"
     },
     {
       "id": 119264,
