@@ -1,8 +1,20 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:26 PM 25-10-2025",
+  "last update time": "04:49 PM 25-10-2025",
   "matches": [
+    {
+      "id": 130920,
+      "event_category": "Football",
+      "title": "Girona FC vs Real Oviedo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130920_5427_GIR_RO_fc-Web.jpg",
+      "team_1": "Girona FC",
+      "team_2": "Real Oviedo",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona FC vs Real Oviedo",
+      "startTime": "05:30:00 PM 25-10-2025"
+    },
     {
       "id": 137858,
       "event_category": "Cricket",
@@ -18,6 +30,20 @@
       "adfree_url": null
     },
     {
+      "id": 137724,
+      "event_category": "Cricket",
+      "title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
+      "team_1": "West Coast Blues",
+      "team_2": "Paarl Rapids",
+      "status": "LIVE",
+      "event_name": "Boland T10, 2025",
+      "match_name": "West Coast Blues vs Paarl Rapids",
+      "startTime": "04:30:00 PM 25-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LZiNoPysRg2ZRICHDecpyg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137724_english_hls_7c50516da912436ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137160,
       "event_category": "Cricket",
       "title": "New Zealand vs England (England tour of New Zealand, 2025)",
@@ -30,28 +56,18 @@
       "startTime": "06:30:00 AM 26-10-2025"
     },
     {
-      "id": 137724,
-      "event_category": "Cricket",
-      "title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
-      "team_1": "West Coast Blues",
-      "team_2": "Paarl Rapids",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "West Coast Blues vs Paarl Rapids",
-      "startTime": "04:30:00 PM 25-10-2025"
-    },
-    {
       "id": 137900,
       "event_category": "Football",
       "title": "Ipswich Town F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
       "src": "https://images.fancode.com/aig/match/v1/137900_CASACARDS_APP.png",
       "team_1": "Ipswich Town F.C.",
       "team_2": "West Bromwich Albion F.C.",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EFL Championship 2025-26",
       "match_name": "Ipswich Town F.C. vs West Bromwich Albion F.C.",
-      "startTime": "05:00:00 PM 25-10-2025"
+      "startTime": "05:00:00 PM 25-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/s3/6eb3eeaf-3f8b-4428-938e-6978f9d693d7/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/s3/6eb3eeaf-3f8b-4428-938e-6978f9d693d7/index.m3u8"
     },
     {
       "id": 137251,
@@ -88,18 +104,6 @@
       "event_name": "Boland T10, 2025",
       "match_name": "West Coast Blues vs Paarl Rocks",
       "startTime": "09:30:00 PM 25-10-2025"
-    },
-    {
-      "id": 130920,
-      "event_category": "Football",
-      "title": "Girona FC vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130920_5427_GIR_RO_fc-Web.jpg",
-      "team_1": "Girona FC",
-      "team_2": "Real Oviedo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona FC vs Real Oviedo",
-      "startTime": "05:30:00 PM 25-10-2025"
     },
     {
       "id": 136954,
