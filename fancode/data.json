@@ -1,35 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 25-10-2025",
+  "last update time": "03:55 PM 25-10-2025",
   "matches": [
     {
-      "id": 137723,
+      "id": 137858,
       "event_category": "Cricket",
-      "title": "Paarl Rocks vs Overberg Indwe (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137723_5728_PR_OBI_fc-web.jpg",
-      "team_1": "Paarl Rocks",
-      "team_2": "Overberg Indwe",
+      "title": "Uri Panthers vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137858_5740_URP_GUR_FC-Web.jpg",
+      "team_1": "Uri Panthers",
+      "team_2": "Gulmarg Royal",
       "status": "LIVE",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Paarl Rocks vs Overberg Indwe",
-      "startTime": "02:00:00 PM 25-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/hE8NRRrLT5ehUWa6VN5m5w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137723_english_hls_610f1c957291633ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137368,
-      "event_category": "Golf",
-      "title": "Day 2 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Sunrise Golf and Country Club",
-      "status": "LIVE",
-      "event_name": "Wistron Ladies Open",
-      "match_name": "Day 2",
-      "startTime": "09:00:00 AM 25-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/plwfLZMTQ9iRooo07BytvQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137368_english_hls_9fd3b782a765337ta-di_h264/index.m3u8"
+      "event_name": "Indian Heaven Premier League, 2025",
+      "match_name": "Uri Panthers vs Gulmarg Royal",
+      "startTime": "04:00:00 PM 25-10-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 137160,
@@ -44,16 +30,16 @@
       "startTime": "06:30:00 AM 26-10-2025"
     },
     {
-      "id": 137858,
+      "id": 137724,
       "event_category": "Cricket",
-      "title": "Uri Panthers vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137858_5740_URP_GUR_FC-Web.jpg",
-      "team_1": "Uri Panthers",
-      "team_2": "Gulmarg Royal",
+      "title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
+      "team_1": "West Coast Blues",
+      "team_2": "Paarl Rapids",
       "status": "UPCOMING",
-      "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "Uri Panthers vs Gulmarg Royal",
-      "startTime": "04:00:00 PM 25-10-2025"
+      "event_name": "Boland T10, 2025",
+      "match_name": "West Coast Blues vs Paarl Rapids",
+      "startTime": "04:30:00 PM 25-10-2025"
     },
     {
       "id": 137251,
@@ -66,18 +52,6 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Nepal vs USA",
       "startTime": "11:00:00 AM 26-10-2025"
-    },
-    {
-      "id": 137724,
-      "event_category": "Cricket",
-      "title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
-      "team_1": "West Coast Blues",
-      "team_2": "Paarl Rapids",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "West Coast Blues vs Paarl Rapids",
-      "startTime": "04:30:00 PM 25-10-2025"
     },
     {
       "id": 137725,
@@ -296,6 +270,18 @@
       "startTime": "04:30:00 PM 26-10-2025"
     },
     {
+      "id": 130928,
+      "event_category": "Football",
+      "title": "RCD Mallorca vs Levante (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130928_5427_MRC_LE_fc-Web.jpg",
+      "team_1": "RCD Mallorca",
+      "team_2": "Levante",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Mallorca vs Levante",
+      "startTime": "06:30:00 PM 26-10-2025"
+    },
+    {
       "id": 118478,
       "event_category": "Formula 1",
       "title": "Practice 3 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
@@ -332,16 +318,16 @@
       "startTime": "02:30:00 AM 26-10-2025"
     },
     {
-      "id": 130928,
-      "event_category": "Football",
-      "title": "RCD Mallorca vs Levante (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130928_5427_MRC_LE_fc-Web.jpg",
-      "team_1": "RCD Mallorca",
-      "team_2": "Levante",
+      "id": 137729,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Mallorca vs Levante",
-      "startTime": "06:30:00 PM 26-10-2025"
+      "event_name": "Boland T10, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:00:00 PM 26-10-2025"
     },
     {
       "id": 137808,
@@ -354,18 +340,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
       "startTime": "05:30:00 AM 26-10-2025"
-    },
-    {
-      "id": 137729,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:00:00 PM 26-10-2025"
     },
     {
       "id": 136870,
@@ -462,6 +436,30 @@
       "event_name": "Indian Supercross Racing League",
       "match_name": "Race",
       "startTime": "07:00:00 PM 26-10-2025"
+    },
+    {
+      "id": 130923,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130923_5427_RVL_ALA_fc-Web.jpg",
+      "team_1": "Rayo Vallecano",
+      "team_2": "Deportivo Alaves",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs Deportivo Alaves",
+      "startTime": "01:30:00 AM 27-10-2025"
+    },
+    {
+      "id": 137614,
+      "event_category": "Football",
+      "title": "Deportivo de La Coruña vs Real Valladolid (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137614_CASACARDS_APP.png",
+      "team_1": "Deportivo de La Coruña",
+      "team_2": "Real Valladolid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo de La Coruña vs Real Valladolid",
+      "startTime": "01:30:00 AM 27-10-2025"
     }
   ]
 }
