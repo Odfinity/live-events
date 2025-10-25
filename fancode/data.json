@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:37 PM 25-10-2025",
+  "last update time": "10:57 PM 25-10-2025",
   "matches": [
-    {
-      "id": 137726,
-      "event_category": "Cricket",
-      "title": "West Coast Blues vs Paarl Rocks (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137726_5728_WCB_PR_fc-web.jpg",
-      "team_1": "West Coast Blues",
-      "team_2": "Paarl Rocks",
-      "status": "LIVE",
-      "event_name": "Boland T10, 2025",
-      "match_name": "West Coast Blues vs Paarl Rocks",
-      "startTime": "09:30:00 PM 25-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/OG2X7H_YT1SCSdtmietWmA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137726_english_hls_582afcf82c67486ta-di_h264/index.m3u8"
-    },
     {
       "id": 130929,
       "event_category": "Football",
@@ -44,6 +30,20 @@
       "startTime": "10:00:00 PM 25-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/04WnWr2WQUOoR7KFqD4jvg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137611_english_hls_4676ec988f80885ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 118478,
+      "event_category": "Formula 1",
+      "title": "Practice 3 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
+      "team_1": "Practice 3",
+      "team_2": "Mexico",
+      "status": "LIVE",
+      "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
+      "match_name": "Practice 3",
+      "startTime": "11:00:00 PM 25-10-2025",
+      "dai_url": "https://dre63cd2n1um1.cloudfront.net/out/v1/e03795af48254d2a8cca485124998039/index.m3u8",
+      "adfree_url": "https://dre63cd2n1um1.cloudfront.net/out/v1/e03795af48254d2a8cca485124998039/index.m3u8"
     },
     {
       "id": 137160,
@@ -202,18 +202,6 @@
       "startTime": "06:30:00 PM 26-10-2025"
     },
     {
-      "id": 137013,
-      "event_category": "Football",
-      "title": "Albirex Niigata vs Vissel Kobe (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137013_CASACARDS_APP.png",
-      "team_1": "Albirex Niigata",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Albirex Niigata vs Vissel Kobe",
-      "startTime": "10:30:00 AM 26-10-2025"
-    },
-    {
       "id": 137729,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Boland T10, 2025)",
@@ -226,16 +214,16 @@
       "startTime": "07:00:00 PM 26-10-2025"
     },
     {
-      "id": 118478,
-      "event_category": "Formula 1",
-      "title": "Practice 3 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
-      "team_1": "Practice 3",
-      "team_2": "Mexico",
+      "id": 137013,
+      "event_category": "Football",
+      "title": "Albirex Niigata vs Vissel Kobe (J League 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137013_CASACARDS_APP.png",
+      "team_1": "Albirex Niigata",
+      "team_2": "Vissel Kobe",
       "status": "UPCOMING",
-      "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
-      "match_name": "Practice 3",
-      "startTime": "11:00:00 PM 25-10-2025"
+      "event_name": "J League 2025",
+      "match_name": "Albirex Niigata vs Vissel Kobe",
+      "startTime": "10:30:00 AM 26-10-2025"
     },
     {
       "id": 130925,
@@ -274,6 +262,18 @@
       "startTime": "11:00:00 PM 26-10-2025"
     },
     {
+      "id": 137613,
+      "event_category": "Football",
+      "title": "Sporting de Gijón vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137613_CASACARDS_APP.png",
+      "team_1": "Sporting de Gijón",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Sporting de Gijón vs Real Zaragoza",
+      "startTime": "11:00:00 PM 26-10-2025"
+    },
+    {
       "id": 137319,
       "event_category": "Golf",
       "title": "Day 3 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
@@ -298,6 +298,18 @@
       "startTime": "02:30:00 AM 26-10-2025"
     },
     {
+      "id": 130923,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130923_5427_RVL_ALA_fc-Web.jpg",
+      "team_1": "Rayo Vallecano",
+      "team_2": "Deportivo Alaves",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs Deportivo Alaves",
+      "startTime": "01:30:00 AM 27-10-2025"
+    },
+    {
       "id": 137808,
       "event_category": "Baseball",
       "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
@@ -308,18 +320,6 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
       "startTime": "05:30:00 AM 26-10-2025"
-    },
-    {
-      "id": 137613,
-      "event_category": "Football",
-      "title": "Sporting de Gijón vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/137613_CASACARDS_APP.png",
-      "team_1": "Sporting de Gijón",
-      "team_2": "Real Zaragoza",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Sporting de Gijón vs Real Zaragoza",
-      "startTime": "11:00:00 PM 26-10-2025"
     },
     {
       "id": 136870,
@@ -344,18 +344,6 @@
       "event_name": "PETRONAS GRAND PRIX OF MALAYSIA",
       "match_name": "Day 3",
       "startTime": "09:30:00 AM 26-10-2025"
-    },
-    {
-      "id": 130923,
-      "event_category": "Football",
-      "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130923_5427_RVL_ALA_fc-Web.jpg",
-      "team_1": "Rayo Vallecano",
-      "team_2": "Deportivo Alaves",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Rayo Vallecano vs Deportivo Alaves",
-      "startTime": "01:30:00 AM 27-10-2025"
     },
     {
       "id": 137369,
@@ -452,6 +440,18 @@
       "event_name": "Indian Heaven Premier League, 2025",
       "match_name": "Jammu Lions vs Sri Nagar Sultan",
       "startTime": "10:30:00 AM 27-10-2025"
+    },
+    {
+      "id": 137703,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
+      "team_1": "Bangladesh",
+      "team_2": "West Indies",
+      "status": "UPCOMING",
+      "event_name": "West Indies tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs West Indies",
+      "startTime": "05:30:00 PM 27-10-2025"
     }
   ]
 }
