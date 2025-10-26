@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:58 AM 27-10-2025",
+  "last update time": "01:11 AM 27-10-2025",
   "matches": [
     {
       "id": 118480,
@@ -38,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130923_5427_RVL_ALA_fc-Web.jpg",
       "team_1": "Rayo Vallecano",
       "team_2": "Deportivo Alaves",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Rayo Vallecano vs Deportivo Alaves",
-      "startTime": "01:30:00 AM 27-10-2025"
+      "startTime": "01:30:00 AM 27-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130923_english_hls_e099af86ae56164ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130923_english_hls_e099af86ae56164ta-di_h264/index.m3u8"
     },
     {
       "id": 137613,
@@ -142,6 +144,18 @@
       "startTime": "09:00:00 PM 27-10-2025"
     },
     {
+      "id": 137320,
+      "event_category": "Golf",
+      "title": "Day 4 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
+      "team_1": "Day 4 - World Feed",
+      "team_2": "Black Desert Resort",
+      "status": "UPCOMING",
+      "event_name": "Bank of Utah Championship",
+      "match_name": "Day 4 - World Feed",
+      "startTime": "02:00:00 AM 27-10-2025"
+    },
+    {
       "id": 137732,
       "event_category": "Cricket",
       "title": "Stellenbosch Kings vs Paarl Rapids (Boland T10, 2025)",
@@ -164,18 +178,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Betis vs Atletico de Madrid",
       "startTime": "01:30:00 AM 28-10-2025"
-    },
-    {
-      "id": 137320,
-      "event_category": "Golf",
-      "title": "Day 4 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-      "team_1": "Day 4 - World Feed",
-      "team_2": "Black Desert Resort",
-      "status": "UPCOMING",
-      "event_name": "Bank of Utah Championship",
-      "match_name": "Day 4 - World Feed",
-      "startTime": "02:00:00 AM 27-10-2025"
     },
     {
       "id": 135963,
