@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:10 PM 26-10-2025",
+  "last update time": "08:21 PM 26-10-2025",
   "matches": [
     {
       "id": 130925,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130925_5427_RM_BAR_fc-Web_1760681342618.jpg",
       "team_1": "Real Madrid",
       "team_2": "FC Barcelona",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Madrid vs FC Barcelona",
-      "startTime": "08:45:00 PM 26-10-2025"
+      "startTime": "08:45:00 PM 26-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 130928,
@@ -44,6 +46,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137766_english_hls_a7826368c126266ta-di_h264/index.m3u8"
     },
     {
+      "id": 118480,
+      "event_category": "Formula 1",
+      "title": "Race vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
+      "team_1": "Race",
+      "team_2": "Mexico",
+      "status": "UPCOMING",
+      "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
+      "match_name": "Race",
+      "startTime": "01:30:00 AM 27-10-2025"
+    },
+    {
       "id": 137729,
       "event_category": "Cricket",
       "title": "Overberg Indwe vs Stellenbosch Kings (Boland T10, 2025)",
@@ -58,18 +72,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137729_english_hls_753684e8ed94503ta-di_h264/index.m3u8"
     },
     {
-      "id": 137730,
-      "event_category": "Cricket",
-      "title": "Paarl Rapids vs Paarl Rocks (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137709_5728_PR_PR_fc-web.jpg",
-      "team_1": "Paarl Rapids",
-      "team_2": "Paarl Rocks",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Paarl Rapids vs Paarl Rocks",
-      "startTime": "09:30:00 PM 26-10-2025"
-    },
-    {
       "id": 137703,
       "event_category": "Cricket",
       "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
@@ -82,16 +84,16 @@
       "startTime": "05:30:00 PM 27-10-2025"
     },
     {
-      "id": 130926,
-      "event_category": "Football",
-      "title": "CA Osasuna vs RC Celta (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130926_5427_OSN_CEV_fc-Web.jpg",
-      "team_1": "CA Osasuna",
-      "team_2": "RC Celta",
+      "id": 137730,
+      "event_category": "Cricket",
+      "title": "Paarl Rapids vs Paarl Rocks (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137709_5728_PR_PR_fc-web.jpg",
+      "team_1": "Paarl Rapids",
+      "team_2": "Paarl Rocks",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs RC Celta",
-      "startTime": "11:00:00 PM 26-10-2025"
+      "event_name": "Boland T10, 2025",
+      "match_name": "Paarl Rapids vs Paarl Rocks",
+      "startTime": "09:30:00 PM 26-10-2025"
     },
     {
       "id": 134009,
@@ -104,6 +106,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Perth Scorchers Women vs Melbourne Stars Women",
       "startTime": "04:30:00 AM 27-10-2025"
+    },
+    {
+      "id": 130926,
+      "event_category": "Football",
+      "title": "CA Osasuna vs RC Celta (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130926_5427_OSN_CEV_fc-Web.jpg",
+      "team_1": "CA Osasuna",
+      "team_2": "RC Celta",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs RC Celta",
+      "startTime": "11:00:00 PM 26-10-2025"
     },
     {
       "id": 130923,
@@ -188,18 +202,6 @@
       "event_name": "Boland T10, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "09:00:00 PM 27-10-2025"
-    },
-    {
-      "id": 118480,
-      "event_category": "Formula 1",
-      "title": "Race vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
-      "team_1": "Race",
-      "team_2": "Mexico",
-      "status": "UPCOMING",
-      "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
-      "match_name": "Race",
-      "startTime": "01:30:00 AM 27-10-2025"
     },
     {
       "id": 137320,
