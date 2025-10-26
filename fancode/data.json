@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 PM 26-10-2025",
+  "last update time": "06:20 PM 26-10-2025",
   "matches": [
-    {
-      "id": 137251,
-      "event_category": "Cricket",
-      "title": "USA vs Nepal (ICC CWC League 2, 2023-27)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA_1761462417407.jpg",
-      "team_1": "USA",
-      "team_2": "Nepal",
-      "status": "LIVE",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_name": "USA vs Nepal",
-      "startTime": "11:00:00 AM 26-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/xJ_N6qT5SsGn5cuW-9pdeA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8"
-    },
     {
       "id": 130925,
       "event_category": "Football",
@@ -36,10 +22,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130928_5427_MRC_LE_fc-Web.jpg",
       "team_1": "RCD Mallorca",
       "team_2": "Levante",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Mallorca vs Levante",
-      "startTime": "06:30:00 PM 26-10-2025"
+      "startTime": "06:30:00 PM 26-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130928_english_hls_c157ad36d079770adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130928_english_hls_c157ad36d079770adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137860,
@@ -68,6 +56,20 @@
       "startTime": "04:30:00 PM 26-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/plODrOdQQPi7vi1CFA_HQg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137728_english_hls_42bc20be4537461ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137251,
+      "event_category": "Cricket",
+      "title": "USA vs Nepal (ICC CWC League 2, 2023-27)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA_1761462417407.jpg",
+      "team_1": "USA",
+      "team_2": "Nepal",
+      "status": "LIVE",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_name": "USA vs Nepal",
+      "startTime": "11:00:00 AM 26-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/xJ_N6qT5SsGn5cuW-9pdeA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8"
     },
     {
       "id": 137729,
@@ -106,18 +108,6 @@
       "startTime": "11:00:00 PM 26-10-2025"
     },
     {
-      "id": 130923,
-      "event_category": "Football",
-      "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130923_5427_RVL_ALA_fc-Web.jpg",
-      "team_1": "Rayo Vallecano",
-      "team_2": "Deportivo Alaves",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Rayo Vallecano vs Deportivo Alaves",
-      "startTime": "01:30:00 AM 27-10-2025"
-    },
-    {
       "id": 134009,
       "event_category": "Cricket",
       "title": "Perth Scorchers Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
@@ -128,6 +118,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "Perth Scorchers Women vs Melbourne Stars Women",
       "startTime": "04:30:00 AM 27-10-2025"
+    },
+    {
+      "id": 130923,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130923_5427_RVL_ALA_fc-Web.jpg",
+      "team_1": "Rayo Vallecano",
+      "team_2": "Deportivo Alaves",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs Deportivo Alaves",
+      "startTime": "01:30:00 AM 27-10-2025"
     },
     {
       "id": 134010,
@@ -142,18 +144,6 @@
       "startTime": "09:00:00 AM 27-10-2025"
     },
     {
-      "id": 137861,
-      "event_category": "Cricket",
-      "title": "Jammu Lions vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137861_5740_JAL_SNS_FC-Web.jpg",
-      "team_1": "Jammu Lions",
-      "team_2": "Sri Nagar Sultan",
-      "status": "UPCOMING",
-      "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "Jammu Lions vs Sri Nagar Sultan",
-      "startTime": "10:30:00 AM 27-10-2025"
-    },
-    {
       "id": 137703,
       "event_category": "Cricket",
       "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
@@ -164,6 +154,18 @@
       "event_name": "West Indies tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs West Indies",
       "startTime": "05:30:00 PM 27-10-2025"
+    },
+    {
+      "id": 137861,
+      "event_category": "Cricket",
+      "title": "Jammu Lions vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137861_5740_JAL_SNS_FC-Web.jpg",
+      "team_1": "Jammu Lions",
+      "team_2": "Sri Nagar Sultan",
+      "status": "UPCOMING",
+      "event_name": "Indian Heaven Premier League, 2025",
+      "match_name": "Jammu Lions vs Sri Nagar Sultan",
+      "startTime": "10:30:00 AM 27-10-2025"
     },
     {
       "id": 137613,
@@ -190,6 +192,18 @@
       "startTime": "01:30:00 AM 27-10-2025"
     },
     {
+      "id": 137766,
+      "event_category": "Motorsports",
+      "title": "Race vs Pune (Indian Supercross Racing League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ISRL_Old_match-card_2.jpg",
+      "team_1": "Race",
+      "team_2": "Pune",
+      "status": "UPCOMING",
+      "event_name": "Indian Supercross Racing League",
+      "match_name": "Race",
+      "startTime": "07:00:00 PM 26-10-2025"
+    },
+    {
       "id": 137862,
       "event_category": "Cricket",
       "title": "The Pulwama Titans vs Patnitop Warriors (Indian Heaven Premier League, 2025)",
@@ -202,16 +216,16 @@
       "startTime": "04:00:00 PM 27-10-2025"
     },
     {
-      "id": 137766,
-      "event_category": "Motorsports",
-      "title": "Race vs Pune (Indian Supercross Racing League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ISRL_Old_match-card_2.jpg",
-      "team_1": "Race",
-      "team_2": "Pune",
+      "id": 137731,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "Indian Supercross Racing League",
-      "match_name": "Race",
-      "startTime": "07:00:00 PM 26-10-2025"
+      "event_name": "Boland T10, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:00:00 PM 27-10-2025"
     },
     {
       "id": 118480,
@@ -236,18 +250,6 @@
       "event_name": "Bank of Utah Championship",
       "match_name": "Day 4 - World Feed",
       "startTime": "02:00:00 AM 27-10-2025"
-    },
-    {
-      "id": 137731,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "09:00:00 PM 27-10-2025"
     },
     {
       "id": 137732,
