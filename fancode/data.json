@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:24 AM 26-10-2025",
+  "last update time": "08:43 AM 26-10-2025",
   "matches": [
     {
       "id": 137160,
@@ -18,20 +18,6 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1761483003~acl=/*~id=28264035651505171905319149685918~hmac=fadfd3e5aaaa2f4d2a99a741dfa73cd1aecf0c38f6aff26c8eda8f0ad29c7443"
     },
     {
-      "id": 134005,
-      "event_category": "Cricket",
-      "title": "Perth Scorchers Women vs ACT Meteors (T20 Spring Challenge, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134005_5608_PS-W_ACTM_FC-Web.jpg",
-      "team_1": "Perth Scorchers Women",
-      "team_2": "ACT Meteors",
-      "status": "LIVE",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Perth Scorchers Women vs ACT Meteors",
-      "startTime": "04:30:00 AM 26-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JTA1r9uDT02WvUqYfG0fqQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134005_english_hls_fd2ae1122997884ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137808,
       "event_category": "Baseball",
       "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
@@ -44,6 +30,20 @@
       "startTime": "05:30:00 AM 26-10-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137808_english_hls_197d6000b193021ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137808_english_hls_197d6000b193021ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136870,
+      "event_category": "Golf",
+      "title": "Day 4 vs Jack Nicklaus Golf Club (Genesis Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg",
+      "team_1": "Day 4",
+      "team_2": "Jack Nicklaus Golf Club",
+      "status": "LIVE",
+      "event_name": "Genesis Championship",
+      "match_name": "Day 4",
+      "startTime": "08:00:00 AM 26-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/vScw3Yj6TU-A3sBHV-IALA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136870_english_hls_9ebef1a41458483ta-di_h264/index.m3u8"
     },
     {
       "id": 119265,
@@ -228,18 +228,6 @@
       "startTime": "10:30:00 AM 26-10-2025"
     },
     {
-      "id": 136870,
-      "event_category": "Golf",
-      "title": "Day 4 vs Jack Nicklaus Golf Club (Genesis Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg",
-      "team_1": "Day 4",
-      "team_2": "Jack Nicklaus Golf Club",
-      "status": "UPCOMING",
-      "event_name": "Genesis Championship",
-      "match_name": "Day 4",
-      "startTime": "08:00:00 AM 26-10-2025"
-    },
-    {
       "id": 134009,
       "event_category": "Cricket",
       "title": "Perth Scorchers Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
@@ -288,6 +276,18 @@
       "startTime": "09:00:00 AM 27-10-2025"
     },
     {
+      "id": 137861,
+      "event_category": "Cricket",
+      "title": "Jammu Lions vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137861_5740_JAL_SNS_FC-Web.jpg",
+      "team_1": "Jammu Lions",
+      "team_2": "Sri Nagar Sultan",
+      "status": "UPCOMING",
+      "event_name": "Indian Heaven Premier League, 2025",
+      "match_name": "Jammu Lions vs Sri Nagar Sultan",
+      "startTime": "10:30:00 AM 27-10-2025"
+    },
+    {
       "id": 137369,
       "event_category": "Golf",
       "title": "Day 3 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
@@ -310,18 +310,6 @@
       "event_name": "Indian Supercross Racing League",
       "match_name": "Race",
       "startTime": "07:00:00 PM 26-10-2025"
-    },
-    {
-      "id": 137861,
-      "event_category": "Cricket",
-      "title": "Jammu Lions vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137861_5740_JAL_SNS_FC-Web.jpg",
-      "team_1": "Jammu Lions",
-      "team_2": "Sri Nagar Sultan",
-      "status": "UPCOMING",
-      "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "Jammu Lions vs Sri Nagar Sultan",
-      "startTime": "10:30:00 AM 27-10-2025"
     },
     {
       "id": 118480,
@@ -442,6 +430,30 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "Queensland vs New South Wales",
       "startTime": "05:30:00 AM 28-10-2025"
+    },
+    {
+      "id": 134022,
+      "event_category": "Cricket",
+      "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
+      "team_1": "Western Australia",
+      "team_2": "South Australia",
+      "status": "UPCOMING",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Western Australia vs South Australia",
+      "startTime": "08:00:00 AM 28-10-2025"
+    },
+    {
+      "id": 137252,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates vs USA (ICC CWC League 2, 2023-27)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "United Arab Emirates",
+      "team_2": "USA",
+      "status": "UPCOMING",
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_name": "United Arab Emirates vs USA",
+      "startTime": "11:00:00 AM 28-10-2025"
     }
   ]
 }
