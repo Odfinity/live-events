@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:09 PM 26-10-2025",
+  "last update time": "09:21 PM 26-10-2025",
   "matches": [
     {
       "id": 130925,
@@ -36,10 +36,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137709_5728_PR_PR_fc-web.jpg",
       "team_1": "Paarl Rapids",
       "team_2": "Paarl Rocks",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Boland T10, 2025",
       "match_name": "Paarl Rapids vs Paarl Rocks",
-      "startTime": "09:30:00 PM 26-10-2025"
+      "startTime": "09:30:00 PM 26-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/AeINBxQLQvqUIq484CmOew/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137730_english_hls_20a10139d775404ta-di_h264/index.m3u8"
     },
     {
       "id": 137703,
@@ -258,18 +260,6 @@
       "startTime": "11:00:00 AM 28-10-2025"
     },
     {
-      "id": 137809,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137809_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Toronto Blue Jays",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
-      "startTime": "05:30:00 AM 28-10-2025"
-    },
-    {
       "id": 137863,
       "event_category": "Cricket",
       "title": "Uri Panthers vs Jammu Lions (Indian Heaven Premier League, 2025)",
@@ -280,6 +270,18 @@
       "event_name": "Indian Heaven Premier League, 2025",
       "match_name": "Uri Panthers vs Jammu Lions",
       "startTime": "10:30:00 AM 28-10-2025"
+    },
+    {
+      "id": 137809,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137809_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Toronto Blue Jays",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
+      "startTime": "05:30:00 AM 28-10-2025"
     },
     {
       "id": 137864,
