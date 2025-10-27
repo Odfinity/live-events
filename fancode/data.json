@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:08 AM 28-10-2025",
+  "last update time": "01:21 AM 28-10-2025",
   "matches": [
     {
       "id": 130924,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130924_5427_RB_ATL_fc-Web.jpg",
       "team_1": "Real Betis",
       "team_2": "Atletico de Madrid",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Betis vs Atletico de Madrid",
-      "startTime": "01:30:00 AM 28-10-2025"
+      "startTime": "01:30:00 AM 28-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130924_english_hls_999c9ba1dd6382ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130924_english_hls_999c9ba1dd6382ta-di_h264/index.m3u8"
     },
     {
       "id": 137732,
@@ -30,6 +32,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137732_english_hls_06cf3b376d53355ta-di_h264/index.m3u8"
     },
     {
+      "id": 135963,
+      "event_category": "Football",
+      "title": "Port Vale F.C. vs Stockport County (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135963_CASACARDS_APP.png",
+      "team_1": "Port Vale F.C.",
+      "team_2": "Stockport County",
+      "status": "LIVE",
+      "event_name": "League One 2025-26",
+      "match_name": "Port Vale F.C. vs Stockport County",
+      "startTime": "01:30:00 AM 28-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KdhTgpzlTkuXOFFLU5FmHw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135963_english_hls_e315bbdaf326258ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137252,
       "event_category": "Cricket",
       "title": "United Arab Emirates vs USA (ICC CWC League 2, 2023-27)",
@@ -40,18 +56,6 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "United Arab Emirates vs USA",
       "startTime": "11:00:00 AM 28-10-2025"
-    },
-    {
-      "id": 135963,
-      "event_category": "Football",
-      "title": "Port Vale F.C. vs Stockport County (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/135963_CASACARDS_APP.png",
-      "team_1": "Port Vale F.C.",
-      "team_2": "Stockport County",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Port Vale F.C. vs Stockport County",
-      "startTime": "01:30:00 AM 28-10-2025"
     },
     {
       "id": 134021,
