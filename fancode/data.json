@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:27 PM 27-10-2025",
+  "last update time": "08:57 PM 27-10-2025",
   "matches": [
     {
       "id": 137703,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137703_english_hls_522cde4f9877496ta-di_h264/index.m3u8"
     },
     {
+      "id": 137731,
+      "event_category": "Cricket",
+      "title": "Paarl Rocks vs Overberg Indwe (Boland T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/OIvs-PR_old.jpg",
+      "team_1": "Paarl Rocks",
+      "team_2": "Overberg Indwe",
+      "status": "LIVE",
+      "event_name": "Boland T10, 2025",
+      "match_name": "Paarl Rocks vs Overberg Indwe",
+      "startTime": "09:00:00 PM 27-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/xMnDy9c6TvWE5hx39CHIpw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137731_english_hls_67f89842d388990ta-di_h264/index.m3u8"
+    },
+    {
       "id": 137252,
       "event_category": "Cricket",
       "title": "United Arab Emirates vs USA (ICC CWC League 2, 2023-27)",
@@ -28,18 +42,6 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "United Arab Emirates vs USA",
       "startTime": "11:00:00 AM 28-10-2025"
-    },
-    {
-      "id": 137731,
-      "event_category": "Cricket",
-      "title": "Overberg Indwe vs Paarl Rocks (Boland T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/OIvs-PR_old.jpg",
-      "team_1": "Overberg Indwe",
-      "team_2": "Paarl Rocks",
-      "status": "UPCOMING",
-      "event_name": "Boland T10, 2025",
-      "match_name": "Overberg Indwe vs Paarl Rocks",
-      "startTime": "09:00:00 PM 27-10-2025"
     },
     {
       "id": 137732,
@@ -114,18 +116,6 @@
       "startTime": "10:30:00 AM 28-10-2025"
     },
     {
-      "id": 135963,
-      "event_category": "Football",
-      "title": "Port Vale F.C. vs Stockport County (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/135963_CASACARDS_APP.png",
-      "team_1": "Port Vale F.C.",
-      "team_2": "Stockport County",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Port Vale F.C. vs Stockport County",
-      "startTime": "01:30:00 AM 28-10-2025"
-    },
-    {
       "id": 137864,
       "event_category": "Cricket",
       "title": "Ladakh Heros vs The Pulwama Titans (Indian Heaven Premier League, 2025)",
@@ -136,6 +126,18 @@
       "event_name": "Indian Heaven Premier League, 2025",
       "match_name": "Ladakh Heros vs The Pulwama Titans",
       "startTime": "04:00:00 PM 28-10-2025"
+    },
+    {
+      "id": 135963,
+      "event_category": "Football",
+      "title": "Port Vale F.C. vs Stockport County (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135963_CASACARDS_APP.png",
+      "team_1": "Port Vale F.C.",
+      "team_2": "Stockport County",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Port Vale F.C. vs Stockport County",
+      "startTime": "01:30:00 AM 28-10-2025"
     },
     {
       "id": 136937,
@@ -150,18 +152,6 @@
       "startTime": "11:00:00 PM 28-10-2025"
     },
     {
-      "id": 137809,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137809_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Toronto Blue Jays",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
-      "startTime": "05:30:00 AM 28-10-2025"
-    },
-    {
       "id": 137857,
       "event_category": "Football",
       "title": "Al-Nassr FC vs Al-Ittihad (Saudi Kings Cup 2025-2026)",
@@ -172,6 +162,18 @@
       "event_name": "Saudi Kings Cup 2025-2026",
       "match_name": "Al-Nassr FC vs Al-Ittihad",
       "startTime": "11:30:00 PM 28-10-2025"
+    },
+    {
+      "id": 137809,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137809_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Toronto Blue Jays",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
+      "startTime": "05:30:00 AM 28-10-2025"
     },
     {
       "id": 136938,
