@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:22 AM 29-10-2025",
+  "last update time": "07:25 AM 29-10-2025",
   "matches": [
+    {
+      "id": 137161,
+      "event_category": "Cricket",
+      "title": "England vs New Zealand (England tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg",
+      "team_1": "England",
+      "team_2": "New Zealand",
+      "status": "LIVE",
+      "event_name": "England tour of New Zealand, 2025",
+      "match_name": "England vs New Zealand",
+      "startTime": "06:30:00 AM 29-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1761741115~acl=/*~id=17642644127661702981991194729298~hmac=5e05797633e2dc7bee6cdc422aec540762784f729b4a1210855ff19e3a972915"
+    },
     {
       "id": 134021,
       "event_category": "Cricket",
@@ -32,30 +46,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 134011,
-      "event_category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Perth Scorchers Women (T20 Spring Challenge, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/134011_CASACARDS_APP.png",
-      "team_1": "Hobart Hurricanes Women",
-      "team_2": "Perth Scorchers Women",
+      "id": 137810,
+      "event_category": "Baseball",
+      "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137810_CASACARDS_APP.png",
+      "team_1": "Los Angeles Dodgers",
+      "team_2": "Toronto Blue Jays",
       "status": "LIVE",
-      "event_name": "T20 Spring Challenge, 2025",
-      "match_name": "Hobart Hurricanes Women vs Perth Scorchers Women",
-      "startTime": "04:30:00 AM 29-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eCWGbtTVQMScIGw0SLalbQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134011_english_hls_94d5cc23095990_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137161,
-      "event_category": "Cricket",
-      "title": "New Zealand vs England (England tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg",
-      "team_1": "New Zealand",
-      "team_2": "England",
-      "status": "UPCOMING",
-      "event_name": "England tour of New Zealand, 2025",
-      "match_name": "New Zealand vs England",
-      "startTime": "06:30:00 AM 29-10-2025"
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
+      "startTime": "05:30:00 AM 29-10-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137810_english_hls_e5537c778050696_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137810_english_hls_e5537c778050696_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137372,
@@ -214,18 +216,6 @@
       "startTime": "01:30:00 AM 30-10-2025"
     },
     {
-      "id": 137810,
-      "event_category": "Baseball",
-      "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137810_CASACARDS_APP.png",
-      "team_1": "Los Angeles Dodgers",
-      "team_2": "Toronto Blue Jays",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
-      "startTime": "05:30:00 AM 29-10-2025"
-    },
-    {
       "id": 136111,
       "event_category": "Football",
       "title": "Khaldiya vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
@@ -238,18 +228,6 @@
       "startTime": "09:30:00 PM 29-10-2025"
     },
     {
-      "id": 136099,
-      "event_category": "Football",
-      "title": "Al Wehdat vs Al Muharraq (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136099_5648_ALW_ALM_fc-Web_1758118383536.jpg",
-      "team_1": "Al Wehdat",
-      "team_2": "Al Muharraq",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Al Wehdat vs Al Muharraq",
-      "startTime": "11:45:00 PM 29-10-2025"
-    },
-    {
       "id": 134013,
       "event_category": "Cricket",
       "title": "TBC vs TBC (T20 Spring Challenge, 2025)",
@@ -260,6 +238,18 @@
       "event_name": "T20 Spring Challenge, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "04:30:00 AM 30-10-2025"
+    },
+    {
+      "id": 136099,
+      "event_category": "Football",
+      "title": "Al Wehdat vs Al Muharraq (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136099_5648_ALW_ALM_fc-Web_1758118383536.jpg",
+      "team_1": "Al Wehdat",
+      "team_2": "Al Muharraq",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Al Wehdat vs Al Muharraq",
+      "startTime": "11:45:00 PM 29-10-2025"
     },
     {
       "id": 137253,
