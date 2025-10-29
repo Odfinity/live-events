@@ -1,8 +1,32 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:54 PM 29-10-2025",
+  "last update time": "03:12 PM 29-10-2025",
   "matches": [
+    {
+      "id": 137704,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
+      "team_1": "Bangladesh",
+      "team_2": "West Indies",
+      "status": "UPCOMING",
+      "event_name": "West Indies tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs West Indies",
+      "startTime": "05:30:00 PM 29-10-2025"
+    },
+    {
+      "id": 137372,
+      "event_category": "Cricket",
+      "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg",
+      "team_1": "Zimbabwe",
+      "team_2": "Afghanistan",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan tour of Zimbabwe, 2025",
+      "match_name": "Zimbabwe vs Afghanistan",
+      "startTime": "05:00:00 PM 29-10-2025"
+    },
     {
       "id": 134022,
       "event_category": "Cricket",
@@ -18,42 +42,28 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 137865,
+      "id": 137866,
       "event_category": "Cricket",
-      "title": "Gulmarg Royal vs Srinagar Sultan (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg",
-      "team_1": "Gulmarg Royal",
-      "team_2": "Srinagar Sultan",
-      "status": "LIVE",
+      "title": "Kishtwar Giants vs Patnitop Warriors (Indian Heaven Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137866_5740_KIG_PTW_FC-Web.jpg",
+      "team_1": "Kishtwar Giants",
+      "team_2": "Patnitop Warriors",
+      "status": "UPCOMING",
       "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "Gulmarg Royal vs Srinagar Sultan",
-      "startTime": "10:30:00 AM 29-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/TM-hEjnRQVWTKqMHYISkfw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8"
+      "match_name": "Kishtwar Giants vs Patnitop Warriors",
+      "startTime": "04:00:00 PM 29-10-2025"
     },
     {
-      "id": 137372,
+      "id": 137253,
       "event_category": "Cricket",
-      "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg",
-      "team_1": "Zimbabwe",
-      "team_2": "Afghanistan",
+      "title": "United Arab Emirates vs Nepal (ICC CWC League 2, 2023-27)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
+      "team_1": "United Arab Emirates",
+      "team_2": "Nepal",
       "status": "UPCOMING",
-      "event_name": "Afghanistan tour of Zimbabwe, 2025",
-      "match_name": "Zimbabwe vs Afghanistan",
-      "startTime": "05:00:00 PM 29-10-2025"
-    },
-    {
-      "id": 137704,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
-      "team_1": "Bangladesh",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "event_name": "West Indies tour of Bangladesh, 2025",
-      "match_name": "Bangladesh vs West Indies",
-      "startTime": "05:30:00 PM 29-10-2025"
+      "event_name": "ICC CWC League 2, 2023-27",
+      "match_name": "United Arab Emirates vs Nepal",
+      "startTime": "11:00:00 AM 30-10-2025"
     },
     {
       "id": 134021,
@@ -78,30 +88,6 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "New South Wales vs Queensland",
       "startTime": "05:30:00 AM 28-10-2025"
-    },
-    {
-      "id": 137253,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Nepal (ICC CWC League 2, 2023-27)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Nepal",
-      "status": "UPCOMING",
-      "event_name": "ICC CWC League 2, 2023-27",
-      "match_name": "United Arab Emirates vs Nepal",
-      "startTime": "11:00:00 AM 30-10-2025"
-    },
-    {
-      "id": 137866,
-      "event_category": "Cricket",
-      "title": "Kishtwar Giants vs Patnitop Warriors (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137866_5740_KIG_PTW_FC-Web.jpg",
-      "team_1": "Kishtwar Giants",
-      "team_2": "Patnitop Warriors",
-      "status": "UPCOMING",
-      "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "Kishtwar Giants vs Patnitop Warriors",
-      "startTime": "04:00:00 PM 29-10-2025"
     },
     {
       "id": 136939,
@@ -200,18 +186,6 @@
       "startTime": "08:30:00 AM 30-10-2025"
     },
     {
-      "id": 136111,
-      "event_category": "Football",
-      "title": "Khaldiya vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136111_5648_KHA_ASC_fc-Web_1758118382889.jpg",
-      "team_1": "Khaldiya",
-      "team_2": "Al Ahli (QAT)",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Khaldiya vs Al Ahli (QAT)",
-      "startTime": "09:30:00 PM 29-10-2025"
-    },
-    {
       "id": 137867,
       "event_category": "Cricket",
       "title": "Uri Panthers vs Srinagar Sultan (Indian Heaven Premier League, 2025)",
@@ -222,6 +196,18 @@
       "event_name": "Indian Heaven Premier League, 2025",
       "match_name": "Uri Panthers vs Srinagar Sultan",
       "startTime": "10:30:00 AM 30-10-2025"
+    },
+    {
+      "id": 136111,
+      "event_category": "Football",
+      "title": "Khaldiya vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136111_5648_KHA_ASC_fc-Web_1758118382889.jpg",
+      "team_1": "Khaldiya",
+      "team_2": "Al Ahli (QAT)",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Khaldiya vs Al Ahli (QAT)",
+      "startTime": "09:30:00 PM 29-10-2025"
     },
     {
       "id": 136099,
@@ -414,6 +400,18 @@
       "event_name": "Indian Heaven Premier League, 2025",
       "match_name": "Gulmarg Royal vs Uri Panthers",
       "startTime": "10:30:00 AM 01-11-2025"
+    },
+    {
+      "id": 137872,
+      "event_category": "Cricket",
+      "title": "Kishtwar Giants vs Ladakh Heros (Indian Heaven Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137872_5740_KIG_LHH_FC-Web.jpg",
+      "team_1": "Kishtwar Giants",
+      "team_2": "Ladakh Heros",
+      "status": "UPCOMING",
+      "event_name": "Indian Heaven Premier League, 2025",
+      "match_name": "Kishtwar Giants vs Ladakh Heros",
+      "startTime": "04:00:00 PM 01-11-2025"
     }
   ]
 }
