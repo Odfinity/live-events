@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 31-10-2025",
+  "last update time": "06:19 PM 31-10-2025",
   "matches": [
+    {
+      "id": 137705,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
+      "team_1": "Bangladesh",
+      "team_2": "West Indies",
+      "status": "LIVE",
+      "event_name": "West Indies tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs West Indies",
+      "startTime": "05:30:00 PM 31-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Q_h7UU6lREqZb5h1jtgNfw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137705_english_hls_56e46184e037449_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 137373,
       "event_category": "Cricket",
@@ -30,18 +44,6 @@
       "startTime": "04:00:00 PM 31-10-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/VrvrYRMiRTGqtKCqWFp7MA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137870_english_hls_697e2aadfc56967_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137705,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
-      "team_1": "Bangladesh",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "event_name": "West Indies tour of Bangladesh, 2025",
-      "match_name": "Bangladesh vs West Indies",
-      "startTime": "05:30:00 PM 31-10-2025"
     },
     {
       "id": 137162,
@@ -164,18 +166,6 @@
       "startTime": "06:30:00 PM 01-11-2025"
     },
     {
-      "id": 137812,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137812_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
-      "startTime": "05:30:00 AM 01-11-2025"
-    },
-    {
       "id": 136957,
       "event_category": "Football",
       "title": "Queens Park Rangers F.C. vs Ipswich Town F.C. (EFL Championship 2025-26)",
@@ -198,6 +188,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Atletico de Madrid vs Sevilla FC",
       "startTime": "08:45:00 PM 01-11-2025"
+    },
+    {
+      "id": 137812,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137812_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
+      "startTime": "05:30:00 AM 01-11-2025"
     },
     {
       "id": 130935,
@@ -449,6 +451,18 @@
       "status": "UPCOMING",
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Duhail vs Shabab Al Ahli",
+      "startTime": "09:30:00 PM 03-11-2025"
+    },
+    {
+      "id": 136062,
+      "event_category": "Football",
+      "title": "Tractor vs Al Shorta (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136062_5647_TFC_SHR_fc-Web.jpg",
+      "team_1": "Tractor",
+      "team_2": "Al Shorta",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Tractor vs Al Shorta",
       "startTime": "09:30:00 PM 03-11-2025"
     }
   ]
