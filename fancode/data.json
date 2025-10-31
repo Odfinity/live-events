@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:08 AM 01-11-2025",
+  "last update time": "03:20 AM 01-11-2025",
   "matches": [
     {
       "id": 130933,
@@ -30,20 +30,6 @@
       "startTime": "01:30:00 AM 01-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/6rMccsOtSm6uVbYcG19uSA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136958_english_hls_a806b4bf6535342_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137615,
-      "event_category": "Football",
-      "title": "Racing Club vs Real Sociedad B (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v2/137615_CASACARDS_APP.png",
-      "team_1": "Racing Club",
-      "team_2": "Real Sociedad B",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing Club vs Real Sociedad B",
-      "startTime": "01:00:00 AM 01-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/aEiSxD_zTuSK3Lgnv4F_rg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137615_english_hls_6d414b9ad753565_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137162,
@@ -226,18 +212,6 @@
       "startTime": "10:30:00 AM 02-11-2025"
     },
     {
-      "id": 137282,
-      "event_category": "Horse Racing",
-      "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-      "team_1": "Day 1",
-      "team_2": "Flemington Racecourse",
-      "status": "UPCOMING",
-      "event_name": "Melbourne Cup Carnival 2025",
-      "match_name": "Day 1",
-      "startTime": "06:00:00 AM 01-11-2025"
-    },
-    {
       "id": 137813,
       "event_category": "Baseball",
       "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
@@ -248,6 +222,18 @@
       "event_name": "Major League Baseball, 2025",
       "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
       "startTime": "05:30:00 AM 02-11-2025"
+    },
+    {
+      "id": 137282,
+      "event_category": "Horse Racing",
+      "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+      "team_1": "Day 1",
+      "team_2": "Flemington Racecourse",
+      "status": "UPCOMING",
+      "event_name": "Melbourne Cup Carnival 2025",
+      "match_name": "Day 1",
+      "startTime": "06:00:00 AM 01-11-2025"
     },
     {
       "id": 137374,
@@ -440,6 +426,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs CA Osasuna",
       "startTime": "01:30:00 AM 04-11-2025"
+    },
+    {
+      "id": 137618,
+      "event_category": "Football",
+      "title": "Real Valladolid vs Granada (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137618_CASACARDS_APP.png",
+      "team_1": "Real Valladolid",
+      "team_2": "Granada",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Valladolid vs Granada",
+      "startTime": "12:30:00 AM 04-11-2025"
     }
   ]
 }
