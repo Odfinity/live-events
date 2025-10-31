@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:59 PM 31-10-2025",
+  "last update time": "08:17 PM 31-10-2025",
   "matches": [
     {
       "id": 137705,
@@ -38,24 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Shabab-FC_old.jpg",
       "team_1": "Al Hilal SFC",
       "team_2": "Al-Shabab FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al Hilal SFC vs Al-Shabab FC",
-      "startTime": "08:20:00 PM 31-10-2025"
-    },
-    {
-      "id": 137870,
-      "event_category": "Cricket",
-      "title": "The Pulwama Titans vs Kishtwar Giants (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137870_5740_KIG_TPT_FC-Web.jpg",
-      "team_1": "The Pulwama Titans",
-      "team_2": "Kishtwar Giants",
-      "status": "LIVE",
-      "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "The Pulwama Titans vs Kishtwar Giants",
-      "startTime": "04:00:00 PM 31-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/VrvrYRMiRTGqtKCqWFp7MA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137870_english_hls_697e2aadfc56967_1ta-di_h264/index.m3u8"
+      "startTime": "08:20:00 PM 31-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/rHGtTwS-Q1y38KQ-EKtozw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137890_english_hls_d76ffc379177424_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137162,
@@ -190,18 +178,6 @@
       "startTime": "08:45:00 PM 01-11-2025"
     },
     {
-      "id": 137812,
-      "event_category": "Baseball",
-      "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/137812_CASACARDS_APP.png",
-      "team_1": "Toronto Blue Jays",
-      "team_2": "Los Angeles Dodgers",
-      "status": "UPCOMING",
-      "event_name": "Major League Baseball, 2025",
-      "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
-      "startTime": "05:30:00 AM 01-11-2025"
-    },
-    {
       "id": 130935,
       "event_category": "Football",
       "title": "Real Sociedad vs Athletic Club (LALIGA 2025-26)",
@@ -224,6 +200,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Nassr FC vs Al-Fayha FC",
       "startTime": "11:00:00 PM 01-11-2025"
+    },
+    {
+      "id": 137812,
+      "event_category": "Baseball",
+      "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
+      "src": "https://images.fancode.com/aig/match/v1/137812_CASACARDS_APP.png",
+      "team_1": "Toronto Blue Jays",
+      "team_2": "Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "event_name": "Major League Baseball, 2025",
+      "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
+      "startTime": "05:30:00 AM 01-11-2025"
     },
     {
       "id": 130934,
@@ -464,6 +452,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Tractor vs Al Shorta",
       "startTime": "09:30:00 PM 03-11-2025"
+    },
+    {
+      "id": 136064,
+      "event_category": "Football",
+      "title": "Al Gharafa vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136064_5647_AGH_AHS_fc-Web.jpg",
+      "team_1": "Al Gharafa",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Gharafa vs Al Hilal SFC",
+      "startTime": "11:45:00 PM 03-11-2025"
     }
   ]
 }
