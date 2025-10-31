@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:28 PM 31-10-2025",
+  "last update time": "04:52 PM 31-10-2025",
   "matches": [
-    {
-      "id": 137870,
-      "event_category": "Cricket",
-      "title": "Kishtwar Giants vs The Pulwama Titans (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137870_5740_KIG_TPT_FC-Web.jpg",
-      "team_1": "Kishtwar Giants",
-      "team_2": "The Pulwama Titans",
-      "status": "LIVE",
-      "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "Kishtwar Giants vs The Pulwama Titans",
-      "startTime": "04:00:00 PM 31-10-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/VrvrYRMiRTGqtKCqWFp7MA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137870_english_hls_697e2aadfc56967_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137373,
       "event_category": "Cricket",
@@ -24,10 +10,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg",
       "team_1": "Zimbabwe",
       "team_2": "Afghanistan",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Afghanistan tour of Zimbabwe, 2025",
       "match_name": "Zimbabwe vs Afghanistan",
-      "startTime": "05:00:00 PM 31-10-2025"
+      "startTime": "05:00:00 PM 31-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ca9UaewUT467aIYEkWlN2w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137373_english_hls_83c04e80a093365_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137870,
+      "event_category": "Cricket",
+      "title": "The Pulwama Titans vs Kishtwar Giants (Indian Heaven Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137870_5740_KIG_TPT_FC-Web.jpg",
+      "team_1": "The Pulwama Titans",
+      "team_2": "Kishtwar Giants",
+      "status": "LIVE",
+      "event_name": "Indian Heaven Premier League, 2025",
+      "match_name": "The Pulwama Titans vs Kishtwar Giants",
+      "startTime": "04:00:00 PM 31-10-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/VrvrYRMiRTGqtKCqWFp7MA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137870_english_hls_697e2aadfc56967_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137705,
@@ -222,18 +224,6 @@
       "startTime": "11:00:00 PM 01-11-2025"
     },
     {
-      "id": 137282,
-      "event_category": "Horse Racing",
-      "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-      "team_1": "Day 1",
-      "team_2": "Flemington Racecourse",
-      "status": "UPCOMING",
-      "event_name": "Melbourne Cup Carnival 2025",
-      "match_name": "Day 1",
-      "startTime": "06:00:00 AM 01-11-2025"
-    },
-    {
       "id": 130934,
       "event_category": "Football",
       "title": "Real Madrid vs Valencia CF (LALIGA 2025-26)",
@@ -244,6 +234,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Madrid vs Valencia CF",
       "startTime": "01:30:00 AM 02-11-2025"
+    },
+    {
+      "id": 137282,
+      "event_category": "Horse Racing",
+      "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+      "team_1": "Day 1",
+      "team_2": "Flemington Racecourse",
+      "status": "UPCOMING",
+      "event_name": "Melbourne Cup Carnival 2025",
+      "match_name": "Day 1",
+      "startTime": "06:00:00 AM 01-11-2025"
     },
     {
       "id": 137616,
