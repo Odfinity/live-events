@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:51 PM 02-11-2025",
+  "last update time": "04:10 PM 02-11-2025",
   "matches": [
-    {
-      "id": 137874,
-      "event_category": "Cricket",
-      "title": "Patnitop Warriors vs The Pulwama Titans (Indian Heaven Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137874_5740_PTW_TPT_FC-Web.jpg",
-      "team_1": "Patnitop Warriors",
-      "team_2": "The Pulwama Titans",
-      "status": "LIVE",
-      "event_name": "Indian Heaven Premier League, 2025",
-      "match_name": "Patnitop Warriors vs The Pulwama Titans",
-      "startTime": "04:00:00 PM 02-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/PNpBVTffTGmGSnY3eGC3bQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137874_english_hls_bc08b8c51734973_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137374,
       "event_category": "Cricket",
@@ -423,6 +409,18 @@
       "status": "UPCOMING",
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Nam Dinh vs Gamba Osaka",
+      "startTime": "05:45:00 PM 05-11-2025"
+    },
+    {
+      "id": 136157,
+      "event_category": "Football",
+      "title": "Eastern SC vs Ratchaburi (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136157_5648_ESC_RAT_fc-Web_1758118383339.jpg",
+      "team_1": "Eastern SC",
+      "team_2": "Ratchaburi",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Eastern SC vs Ratchaburi",
       "startTime": "05:45:00 PM 05-11-2025"
     }
   ]
