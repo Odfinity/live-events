@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:12 AM 05-11-2025",
+  "last update time": "04:27 AM 05-11-2025",
   "matches": [
-    {
-      "id": 136959,
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136959_5489_CVC_SHF_fc-web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Sheffield United F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Sheffield United F.C.",
-      "startTime": "01:30:00 AM 05-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yvA-FuipSTOijcdrsIjyAA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136959_english_hls_1842a0557f30494_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137256,
       "event_category": "Cricket",
@@ -460,6 +446,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "England vs Australia",
       "startTime": "02:00:00 PM 07-11-2025"
+    },
+    {
+      "id": 137218,
+      "event_category": "Golf",
+      "title": "Day 2 vs Mission Hills China (Aramco Shenzhen Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Mission Hills China",
+      "status": "UPCOMING",
+      "event_name": "Aramco Shenzhen Championship",
+      "match_name": "Day 2",
+      "startTime": "10:30:00 AM 07-11-2025"
     }
   ]
 }
