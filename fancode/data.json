@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:58 AM 05-11-2025",
+  "last update time": "11:14 AM 05-11-2025",
   "matches": [
     {
       "id": 137256,
@@ -14,8 +14,8 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Nepal vs United Arab Emirates",
       "startTime": "11:00:00 AM 05-11-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/fy50HCZBQu6eQl9fnfIwzg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137688,
@@ -66,6 +66,18 @@
       "startTime": "01:30:00 AM 06-11-2025"
     },
     {
+      "id": 137689,
+      "event_category": "Cricket",
+      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
+      "team_1": "New Zealand",
+      "team_2": "West Indies",
+      "status": "UPCOMING",
+      "event_name": "West Indies tour of New Zealand, 2025",
+      "match_name": "New Zealand vs West Indies",
+      "startTime": "11:45:00 AM 06-11-2025"
+    },
+    {
       "id": 136158,
       "event_category": "Football",
       "title": "Nam Dinh vs Gamba Osaka (AFC Champions League Two 2025-26)",
@@ -114,16 +126,16 @@
       "startTime": "07:15:00 PM 05-11-2025"
     },
     {
-      "id": 137689,
+      "id": 138011,
       "event_category": "Cricket",
-      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "West Indies",
+      "title": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
+      "team_1": "Indonesia",
+      "team_2": "Myanmar",
       "status": "UPCOMING",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "New Zealand vs West Indies",
-      "startTime": "11:45:00 AM 06-11-2025"
+      "event_name": "Rising East Asia Tri-Series, 2025",
+      "match_name": "Indonesia vs Myanmar",
+      "startTime": "07:00:00 AM 06-11-2025"
     },
     {
       "id": 136133,
@@ -148,18 +160,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Khaldiya vs Andijan",
       "startTime": "09:30:00 PM 05-11-2025"
-    },
-    {
-      "id": 138011,
-      "event_category": "Cricket",
-      "title": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
-      "team_1": "Indonesia",
-      "team_2": "Myanmar",
-      "status": "UPCOMING",
-      "event_name": "Rising East Asia Tri-Series, 2025",
-      "match_name": "Indonesia vs Myanmar",
-      "startTime": "07:00:00 AM 06-11-2025"
     },
     {
       "id": 136134,
