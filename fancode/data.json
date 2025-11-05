@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:27 PM 05-11-2025",
+  "last update time": "10:06 PM 05-11-2025",
   "matches": [
     {
       "id": 136134,
@@ -14,34 +14,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Al-Nassr FC vs FC Goa",
       "startTime": "11:45:00 PM 05-11-2025"
-    },
-    {
-      "id": 136109,
-      "event_category": "Football",
-      "title": "Arkadag vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136109_5648_ARK_ASC_fc-Web_1758118382730.jpg",
-      "team_1": "Arkadag",
-      "team_2": "Al Ahli (QAT)",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Arkadag vs Al Ahli (QAT)",
-      "startTime": "07:15:00 PM 05-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/11xQSkSGRPaySisedjTr2g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136109_english_hls_f1654cac848832_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136097,
-      "event_category": "Football",
-      "title": "Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg",
-      "team_1": "Al Wasl",
-      "team_2": "Al Muharraq",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Al Wasl vs Al Muharraq",
-      "startTime": "07:15:00 PM 05-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zCygWsCCQkG9LmzSG7zEug/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136097_english_hls_b409d9844659492_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136133,
@@ -68,8 +40,8 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Khaldiya vs Andijan",
       "startTime": "09:30:00 PM 05-11-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/ZO3uGSnaTk6OMYDekanNsA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136110_english_hls_02d411884338422_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137689,
@@ -252,18 +224,6 @@
       "startTime": "07:35:00 AM 07-11-2025"
     },
     {
-      "id": 137284,
-      "event_category": "Horse Racing",
-      "title": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-      "team_1": "Day 3",
-      "team_2": "Flemington Racecourse",
-      "status": "UPCOMING",
-      "event_name": "Melbourne Cup Carnival 2025",
-      "match_name": "Day 3",
-      "startTime": "07:00:00 AM 06-11-2025"
-    },
-    {
       "id": 137828,
       "event_category": "Cricket",
       "title": "Afghanistan vs Nepal (Hong Kong Sixes, 2025)",
@@ -276,16 +236,16 @@
       "startTime": "08:30:00 AM 07-11-2025"
     },
     {
-      "id": 137163,
-      "event_category": "Golf",
-      "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-      "team_1": "Day 1",
-      "team_2": "Yas Links, Abu Dhabi",
+      "id": 137284,
+      "event_category": "Horse Racing",
+      "title": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+      "team_1": "Day 3",
+      "team_2": "Flemington Racecourse",
       "status": "UPCOMING",
-      "event_name": "Abu Dhabi HSBC Championship",
-      "match_name": "Day 1",
-      "startTime": "12:30:00 PM 06-11-2025"
+      "event_name": "Melbourne Cup Carnival 2025",
+      "match_name": "Day 3",
+      "startTime": "07:00:00 AM 06-11-2025"
     },
     {
       "id": 138013,
@@ -298,6 +258,18 @@
       "event_name": "Rising East Asia Tri-Series, 2025",
       "match_name": "Myanmar vs Timor-Leste",
       "startTime": "07:00:00 AM 07-11-2025"
+    },
+    {
+      "id": 137163,
+      "event_category": "Golf",
+      "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+      "team_1": "Day 1",
+      "team_2": "Yas Links, Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_name": "Day 1",
+      "startTime": "12:30:00 PM 06-11-2025"
     },
     {
       "id": 137829,
@@ -442,6 +414,30 @@
       "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
       "match_name": "Practice 1",
       "startTime": "08:00:00 PM 07-11-2025"
+    },
+    {
+      "id": 130942,
+      "event_category": "Football",
+      "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
+      "team_1": "Elche CF",
+      "team_2": "Real Sociedad",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs Real Sociedad",
+      "startTime": "01:30:00 AM 08-11-2025"
+    },
+    {
+      "id": 136963,
+      "event_category": "Football",
+      "title": "Watford F.C. vs Bristol City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136963_5489_WAT_BRI_fc-web.jpg",
+      "team_1": "Watford F.C.",
+      "team_2": "Bristol City F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Watford F.C. vs Bristol City F.C.",
+      "startTime": "01:30:00 AM 08-11-2025"
     }
   ]
 }
