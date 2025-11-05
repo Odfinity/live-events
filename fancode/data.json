@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:29 AM 06-11-2025",
+  "last update time": "02:01 AM 06-11-2025",
   "matches": [
-    {
-      "id": 136134,
-      "event_category": "Football",
-      "title": "Al-Nassr FC vs FC Goa (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC_league_2_Old_Match_card_2.jpg",
-      "team_1": "Al-Nassr FC",
-      "team_2": "FC Goa",
-      "status": "LIVE",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Al-Nassr FC vs FC Goa",
-      "startTime": "11:45:00 PM 05-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/JvrdYNdDSAS0UCxtlfcwZw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136134_english_hls_cd7e0774a617370_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 136960,
       "event_category": "Football",
@@ -30,6 +16,20 @@
       "startTime": "01:30:00 AM 06-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/nhC8XZLuQqCUKYijVpk0tQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136960_english_hls_1b24f33f8e81297_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136134,
+      "event_category": "Football",
+      "title": "Al-Nassr FC vs FC Goa (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC_league_2_Old_Match_card_2.jpg",
+      "team_1": "Al-Nassr FC",
+      "team_2": "FC Goa",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Al-Nassr FC vs FC Goa",
+      "startTime": "11:45:00 PM 05-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/JvrdYNdDSAS0UCxtlfcwZw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136134_english_hls_cd7e0774a617370_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136098,
@@ -178,18 +178,6 @@
       "startTime": "06:40:00 AM 07-11-2025"
     },
     {
-      "id": 137217,
-      "event_category": "Golf",
-      "title": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Mission Hills China",
-      "status": "UPCOMING",
-      "event_name": "Aramco Shenzhen Championship",
-      "match_name": "Day 1",
-      "startTime": "10:30:00 AM 06-11-2025"
-    },
-    {
       "id": 137827,
       "event_category": "Cricket",
       "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
@@ -200,6 +188,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "Pakistan vs Kuwait",
       "startTime": "07:35:00 AM 07-11-2025"
+    },
+    {
+      "id": 137217,
+      "event_category": "Golf",
+      "title": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Mission Hills China",
+      "status": "UPCOMING",
+      "event_name": "Aramco Shenzhen Championship",
+      "match_name": "Day 1",
+      "startTime": "10:30:00 AM 06-11-2025"
     },
     {
       "id": 137828,
