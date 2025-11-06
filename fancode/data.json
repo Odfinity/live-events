@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:53 AM 06-11-2025",
+  "last update time": "11:13 AM 06-11-2025",
   "matches": [
     {
       "id": 137689,
@@ -18,12 +18,12 @@
     {
       "id": 137217,
       "event_category": "Golf",
-      "title": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
+      "title": "Day 1 vs Mission Hills China (Aramco China Championship)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
       "team_1": "Day 1",
       "team_2": "Mission Hills China",
       "status": "LIVE",
-      "event_name": "Aramco Shenzhen Championship",
+      "event_name": "Aramco China Championship",
       "match_name": "Day 1",
       "startTime": "10:30:00 AM 06-11-2025",
       "dai_url": null,
@@ -286,12 +286,12 @@
     {
       "id": 137218,
       "event_category": "Golf",
-      "title": "Day 2 vs Mission Hills China (Aramco Shenzhen Championship)",
+      "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
       "team_1": "Day 2",
       "team_2": "Mission Hills China",
       "status": "UPCOMING",
-      "event_name": "Aramco Shenzhen Championship",
+      "event_name": "Aramco China Championship",
       "match_name": "Day 2",
       "startTime": "10:30:00 AM 07-11-2025"
     },
@@ -426,6 +426,18 @@
       "event_name": "World Wide Technology Championship",
       "match_name": "Day 2",
       "startTime": "12:30:00 AM 08-11-2025"
+    },
+    {
+      "id": 137837,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:35:00 AM 08-11-2025"
     }
   ]
 }
