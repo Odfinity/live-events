@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:54 AM 07-11-2025",
+  "last update time": "05:09 AM 07-11-2025",
   "matches": [
-    {
-      "id": 137973,
-      "event_category": "Golf",
-      "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-      "team_1": "Day 1",
-      "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-      "status": "LIVE",
-      "event_name": "World Wide Technology Championship",
-      "match_name": "Day 1",
-      "startTime": "01:30:00 AM 07-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zfpiFOBcQwGHtUgYnmwU8A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137825,
       "event_category": "Cricket",
@@ -448,6 +434,18 @@
       "event_name": "J League 2025",
       "match_name": "Kashima Antlers vs Yokohama",
       "startTime": "10:30:00 AM 08-11-2025"
+    },
+    {
+      "id": 137941,
+      "event_category": "Football",
+      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+      "team_1": "Kashiwa Reysol",
+      "team_2": "Nagoya Grampus",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
+      "startTime": "12:30:00 PM 08-11-2025"
     }
   ]
 }
