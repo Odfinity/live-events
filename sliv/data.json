@@ -1,25 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:54 PM 06-11-2025",
+  "last update time": "12:20 AM 07-11-2025",
   "matches": [
-    {
-      "id": "sl1090493852",
-      "isLive": true,
-      "event": "UEFA Conference League 2025-26",
-      "match": "AEK Athens vs Shamrock Rovers - MD 3 - 6 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761867620992347_UECL25_MD3_AEK_Athens_vs_ShamrockRovers_Landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "OPAP Arena",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,AEK Athens vs Shamrock Rovers,UEFAConferenceLeague202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090493852.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090493852.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090493852.m3u8",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
     {
       "id": "sl1090493871",
       "isLive": true,
@@ -103,6 +86,23 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090493861.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090493861.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090493861.m3u8",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090493852",
+      "isLive": true,
+      "event": "UEFA Conference League 2025-26",
+      "match": "AEK Athens vs Shamrock Rovers - MD 3 - 6 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761867620992347_UECL25_MD3_AEK_Athens_vs_ShamrockRovers_Landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "OPAP Arena",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,AEK Athens vs Shamrock Rovers,UEFAConferenceLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090493852.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090493852.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090493852.m3u8",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -205,7 +205,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090493868.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090493868.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090493868.m3u8",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+      "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
       "id": "sl1090493865",
