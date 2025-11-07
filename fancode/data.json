@@ -1,35 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 AM 07-11-2025",
+  "last update time": "10:57 AM 07-11-2025",
   "matches": [
-    {
-      "id": 137829,
-      "event_category": "Cricket",
-      "title": "Sri Lanka vs Hong Kong, China (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137829_5738_SL_HK_fc-web_1762413988164.png",
-      "team_1": "Sri Lanka",
-      "team_2": "Hong Kong, China",
-      "status": "LIVE",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Sri Lanka vs Hong Kong, China",
-      "startTime": "09:25:00 AM 07-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/wyQk2HYeRDy8onC2mTxi0w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137829_english_hls_009d59920058492_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137830,
       "event_category": "Cricket",
-      "title": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
+      "title": "United Arab Emirates vs Australia (Hong Kong Sixes, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web_1762413988168.png",
-      "team_1": "Australia",
-      "team_2": "United Arab Emirates",
+      "team_1": "United Arab Emirates",
+      "team_2": "Australia",
       "status": "LIVE",
       "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Australia vs United Arab Emirates",
+      "match_name": "United Arab Emirates vs Australia",
       "startTime": "10:20:00 AM 07-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/TUZY-q3ITzmSKOLbmb1bvg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137830_english_hls_4d020996e557013_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137218,
+      "event_category": "Golf",
+      "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Mission Hills China",
+      "status": "LIVE",
+      "event_name": "Aramco China Championship",
+      "match_name": "Day 2",
+      "startTime": "10:30:00 AM 07-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/nuQ-lE-1S0mrv0dOWChhhQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137218_english_hls_b38d1192d59447_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137831,
@@ -212,16 +212,16 @@
       "startTime": "07:00:00 AM 08-11-2025"
     },
     {
-      "id": 137218,
-      "event_category": "Golf",
-      "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Mission Hills China",
+      "id": 137842,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "Aramco China Championship",
-      "match_name": "Day 2",
-      "startTime": "10:30:00 AM 07-11-2025"
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:10:00 PM 08-11-2025"
     },
     {
       "id": 137824,
@@ -234,18 +234,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Mirandés vs Sporting de Gijón",
       "startTime": "01:00:00 AM 08-11-2025"
-    },
-    {
-      "id": 137842,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "12:10:00 PM 08-11-2025"
     },
     {
       "id": 137843,
@@ -284,6 +272,18 @@
       "startTime": "11:30:00 AM 08-11-2025"
     },
     {
+      "id": 137940,
+      "event_category": "Football",
+      "title": "Kashima Antlers vs Yokohama (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
+      "team_1": "Kashima Antlers",
+      "team_2": "Yokohama",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashima Antlers vs Yokohama",
+      "startTime": "10:30:00 AM 08-11-2025"
+    },
+    {
       "id": 137164,
       "event_category": "Golf",
       "title": "Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
@@ -306,18 +306,6 @@
       "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
       "match_name": "Portugal GP",
       "startTime": "02:30:00 PM 07-11-2025"
-    },
-    {
-      "id": 137940,
-      "event_category": "Football",
-      "title": "Kashima Antlers vs Yokohama (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
-      "team_1": "Kashima Antlers",
-      "team_2": "Yokohama",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kashima Antlers vs Yokohama",
-      "startTime": "10:30:00 AM 08-11-2025"
     },
     {
       "id": 118481,
