@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:51 AM 08-11-2025",
+  "last update time": "01:08 AM 08-11-2025",
   "matches": [
     {
       "id": 118482,
@@ -30,6 +30,34 @@
       "startTime": "11:00:00 PM 07-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/b4DmB-m-RLq-SXdxPTSCUg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137892_english_hls_a7d45bf7b043742_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130942,
+      "event_category": "Football",
+      "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
+      "team_1": "Elche CF",
+      "team_2": "Real Sociedad",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs Real Sociedad",
+      "startTime": "01:30:00 AM 08-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130942_english_hls_0ab880b4eb69724_1adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130942_english_hls_0ab880b4eb69724_1adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137824,
+      "event_category": "Football",
+      "title": "Mirandés vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137824_CASACARDS_APP.png",
+      "team_1": "Mirandés",
+      "team_2": "Sporting de Gijón",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Mirandés vs Sporting de Gijón",
+      "startTime": "01:00:00 AM 08-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gSti_GKWTCKfJgRxNx20zA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137824_english_hls_f1174740a883342_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137968,
@@ -133,7 +161,7 @@
       "id": 137842,
       "event_category": "Cricket",
       "title": "United Arab Emirates vs Sri Lanka (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_UAE-vs-Sri-Lanka.png",
       "team_1": "United Arab Emirates",
       "team_2": "Sri Lanka",
       "status": "UPCOMING",
@@ -145,7 +173,7 @@
       "id": 137843,
       "event_category": "Cricket",
       "title": "Hong Kong, China vs England (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Hong-Kong-vs-England-(1).png",
       "team_1": "Hong Kong, China",
       "team_2": "England",
       "status": "UPCOMING",
@@ -166,18 +194,6 @@
       "startTime": "02:00:00 PM 08-11-2025"
     },
     {
-      "id": 130942,
-      "event_category": "Football",
-      "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
-      "team_1": "Elche CF",
-      "team_2": "Real Sociedad",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs Real Sociedad",
-      "startTime": "01:30:00 AM 08-11-2025"
-    },
-    {
       "id": 136963,
       "event_category": "Football",
       "title": "Watford F.C. vs Bristol City F.C. (EFL Championship 2025-26)",
@@ -188,18 +204,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Watford F.C. vs Bristol City F.C.",
       "startTime": "01:30:00 AM 08-11-2025"
-    },
-    {
-      "id": 137824,
-      "event_category": "Football",
-      "title": "Mirandés vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/137824_CASACARDS_APP.png",
-      "team_1": "Mirandés",
-      "team_2": "Sporting de Gijón",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Mirandés vs Sporting de Gijón",
-      "startTime": "01:00:00 AM 08-11-2025"
     },
     {
       "id": 138014,
@@ -262,18 +266,6 @@
       "startTime": "07:20:00 PM 08-11-2025"
     },
     {
-      "id": 137940,
-      "event_category": "Football",
-      "title": "Kashima Antlers vs Yokohama (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
-      "team_1": "Kashima Antlers",
-      "team_2": "Yokohama",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kashima Antlers vs Yokohama",
-      "startTime": "10:30:00 AM 08-11-2025"
-    },
-    {
       "id": 136962,
       "event_category": "Football",
       "title": "Stoke City F.C. vs Coventry City Football Club (EFL Championship 2025-26)",
@@ -286,16 +278,16 @@
       "startTime": "08:30:00 PM 08-11-2025"
     },
     {
-      "id": 137941,
+      "id": 137940,
       "event_category": "Football",
-      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-      "team_1": "Kashiwa Reysol",
-      "team_2": "Nagoya Grampus",
+      "title": "Kashima Antlers vs Yokohama (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
+      "team_1": "Kashima Antlers",
+      "team_2": "Yokohama",
       "status": "UPCOMING",
       "event_name": "J League 2025",
-      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
-      "startTime": "12:30:00 PM 08-11-2025"
+      "match_name": "Kashima Antlers vs Yokohama",
+      "startTime": "10:30:00 AM 08-11-2025"
     },
     {
       "id": 130949,
@@ -308,6 +300,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Sevilla FC vs CA Osasuna",
       "startTime": "08:45:00 PM 08-11-2025"
+    },
+    {
+      "id": 137941,
+      "event_category": "Football",
+      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+      "team_1": "Kashiwa Reysol",
+      "team_2": "Nagoya Grampus",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
+      "startTime": "12:30:00 PM 08-11-2025"
     },
     {
       "id": 137969,
@@ -394,18 +398,6 @@
       "startTime": "05:45:00 AM 09-11-2025"
     },
     {
-      "id": 137219,
-      "event_category": "Golf",
-      "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Mission Hills China",
-      "status": "UPCOMING",
-      "event_name": "Aramco China Championship",
-      "match_name": "Day 3",
-      "startTime": "10:30:00 AM 08-11-2025"
-    },
-    {
       "id": 137846,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -428,6 +420,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Málaga vs Córdoba",
       "startTime": "01:30:00 AM 09-11-2025"
+    },
+    {
+      "id": 137219,
+      "event_category": "Golf",
+      "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Mission Hills China",
+      "status": "UPCOMING",
+      "event_name": "Aramco China Championship",
+      "match_name": "Day 3",
+      "startTime": "10:30:00 AM 08-11-2025"
     }
   ]
 }
