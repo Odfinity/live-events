@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:57 AM 07-11-2025",
+  "last update time": "10:15 AM 07-11-2025",
   "matches": [
     {
       "id": 137829,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web_1762413988168.png",
       "team_1": "Australia",
       "team_2": "United Arab Emirates",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "Australia vs United Arab Emirates",
-      "startTime": "10:20:00 AM 07-11-2025"
+      "startTime": "10:20:00 AM 07-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/TUZY-q3ITzmSKOLbmb1bvg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137830_english_hls_4d020996e557013_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137831,
@@ -138,6 +140,18 @@
       "startTime": "11:00:00 PM 07-11-2025"
     },
     {
+      "id": 137839,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:25:00 AM 08-11-2025"
+    },
+    {
       "id": 130942,
       "event_category": "Football",
       "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
@@ -160,18 +174,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Watford F.C. vs Bristol City F.C.",
       "startTime": "01:30:00 AM 08-11-2025"
-    },
-    {
-      "id": 137839,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "09:25:00 AM 08-11-2025"
     },
     {
       "id": 137840,
@@ -198,18 +200,6 @@
       "startTime": "11:15:00 AM 08-11-2025"
     },
     {
-      "id": 137218,
-      "event_category": "Golf",
-      "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Mission Hills China",
-      "status": "UPCOMING",
-      "event_name": "Aramco China Championship",
-      "match_name": "Day 2",
-      "startTime": "10:30:00 AM 07-11-2025"
-    },
-    {
       "id": 138014,
       "event_category": "Cricket",
       "title": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
@@ -220,6 +210,18 @@
       "event_name": "Rising East Asia Tri-Series, 2025",
       "match_name": "Timor-Leste vs Indonesia",
       "startTime": "07:00:00 AM 08-11-2025"
+    },
+    {
+      "id": 137218,
+      "event_category": "Golf",
+      "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Mission Hills China",
+      "status": "UPCOMING",
+      "event_name": "Aramco China Championship",
+      "match_name": "Day 2",
+      "startTime": "10:30:00 AM 07-11-2025"
     },
     {
       "id": 137824,
@@ -306,18 +308,6 @@
       "startTime": "02:30:00 PM 07-11-2025"
     },
     {
-      "id": 118481,
-      "event_category": "Formula 1",
-      "title": "Practice 1 vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
-      "team_1": "Practice 1",
-      "team_2": "Brazil",
-      "status": "UPCOMING",
-      "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
-      "match_name": "Practice 1",
-      "startTime": "08:00:00 PM 07-11-2025"
-    },
-    {
       "id": 137940,
       "event_category": "Football",
       "title": "Kashima Antlers vs Yokohama (J League 2025)",
@@ -328,6 +318,18 @@
       "event_name": "J League 2025",
       "match_name": "Kashima Antlers vs Yokohama",
       "startTime": "10:30:00 AM 08-11-2025"
+    },
+    {
+      "id": 118481,
+      "event_category": "Formula 1",
+      "title": "Practice 1 vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
+      "team_1": "Practice 1",
+      "team_2": "Brazil",
+      "status": "UPCOMING",
+      "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
+      "match_name": "Practice 1",
+      "startTime": "08:00:00 PM 07-11-2025"
     },
     {
       "id": 137968,
