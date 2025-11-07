@@ -1,32 +1,30 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:09 PM 07-11-2025",
+  "last update time": "12:26 PM 07-11-2025",
   "matches": [
     {
-      "id": 137831,
+      "id": 137833,
       "event_category": "Cricket",
-      "title": "Afghanistan vs South Africa (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web_1762413988194.png",
-      "team_1": "Afghanistan",
-      "team_2": "South Africa",
-      "status": "LIVE",
+      "title": "India vs Pakistan (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137833_5738_IND_PAK_fc-web.png",
+      "team_1": "India",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
       "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Afghanistan vs South Africa",
-      "startTime": "11:15:00 AM 07-11-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "match_name": "India vs Pakistan",
+      "startTime": "01:05:00 PM 07-11-2025"
     },
     {
       "id": 137832,
       "event_category": "Cricket",
-      "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2025)",
+      "title": "Bangladesh vs Sri Lanka (Hong Kong Sixes, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137832_5738_SL_BAN_fc-web.png",
-      "team_1": "Sri Lanka",
-      "team_2": "Bangladesh",
+      "team_1": "Bangladesh",
+      "team_2": "Sri Lanka",
       "status": "LIVE",
       "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Sri Lanka vs Bangladesh",
+      "match_name": "Bangladesh vs Sri Lanka",
       "startTime": "12:10:00 PM 07-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/-EVVLnG8T0aO3U492C0-uA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137832_english_hls_c1ff42755a16729_1ta-di_h264/index.m3u8"
@@ -46,16 +44,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137218_english_hls_b38d1192d59447_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 137833,
-      "event_category": "Cricket",
-      "title": "India vs Pakistan (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137833_5738_IND_PAK_fc-web.png",
-      "team_1": "India",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "India vs Pakistan",
-      "startTime": "01:05:00 PM 07-11-2025"
+      "id": 137164,
+      "event_category": "Golf",
+      "title": "Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+      "team_1": "Day 2",
+      "team_2": "Yas Links, Abu Dhabi",
+      "status": "LIVE",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_name": "Day 2",
+      "startTime": "12:30:00 PM 07-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Ck9C7VSxRLStdaohG6Y8CA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137164_english_hls_21dabe9c8f77195_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137834,
@@ -238,18 +238,6 @@
       "startTime": "01:00:00 AM 08-11-2025"
     },
     {
-      "id": 137164,
-      "event_category": "Golf",
-      "title": "Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-      "team_1": "Day 2",
-      "team_2": "Yas Links, Abu Dhabi",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi HSBC Championship",
-      "match_name": "Day 2",
-      "startTime": "12:30:00 PM 07-11-2025"
-    },
-    {
       "id": 137844,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -286,6 +274,18 @@
       "startTime": "10:30:00 AM 08-11-2025"
     },
     {
+      "id": 137941,
+      "event_category": "Football",
+      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+      "team_1": "Kashiwa Reysol",
+      "team_2": "Nagoya Grampus",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
+      "startTime": "12:30:00 PM 08-11-2025"
+    },
+    {
       "id": 119277,
       "event_category": "MotoGP",
       "title": "Day 1 vs Autódromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
@@ -308,18 +308,6 @@
       "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
       "match_name": "Practice 1",
       "startTime": "08:00:00 PM 07-11-2025"
-    },
-    {
-      "id": 137941,
-      "event_category": "Football",
-      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-      "team_1": "Kashiwa Reysol",
-      "team_2": "Nagoya Grampus",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
-      "startTime": "12:30:00 PM 08-11-2025"
     },
     {
       "id": 137968,
