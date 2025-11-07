@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:21 AM 08-11-2025",
+  "last update time": "03:51 AM 08-11-2025",
   "matches": [
-    {
-      "id": 130942,
-      "event_category": "Football",
-      "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
-      "team_1": "Elche CF",
-      "team_2": "Real Sociedad",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs Real Sociedad",
-      "startTime": "01:30:00 AM 08-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130942_english_hls_0ab880b4eb69724_1adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130942_english_hls_0ab880b4eb69724_1adfreeta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136963,
-      "event_category": "Football",
-      "title": "Watford F.C. vs Bristol City F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136963_5489_WAT_BRI_fc-web.jpg",
-      "team_1": "Watford F.C.",
-      "team_2": "Bristol City F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Watford F.C. vs Bristol City F.C.",
-      "startTime": "01:30:00 AM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Nr3ojYccQeyl--dt8orWkg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136963_english_hls_9a9a26591470080_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137974,
       "event_category": "Golf",
@@ -262,18 +234,6 @@
       "startTime": "10:30:00 AM 08-11-2025"
     },
     {
-      "id": 137941,
-      "event_category": "Football",
-      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-      "team_1": "Kashiwa Reysol",
-      "team_2": "Nagoya Grampus",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
-      "startTime": "12:30:00 PM 08-11-2025"
-    },
-    {
       "id": 130941,
       "event_category": "Football",
       "title": "Atletico de Madrid vs Levante (LALIGA 2025-26)",
@@ -296,6 +256,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Ahli Saudi FC",
       "startTime": "11:00:00 PM 08-11-2025"
+    },
+    {
+      "id": 137941,
+      "event_category": "Football",
+      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+      "team_1": "Kashiwa Reysol",
+      "team_2": "Nagoya Grampus",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
+      "startTime": "12:30:00 PM 08-11-2025"
     },
     {
       "id": 137690,
@@ -382,6 +354,18 @@
       "startTime": "08:30:00 AM 09-11-2025"
     },
     {
+      "id": 137849,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:25:00 AM 09-11-2025"
+    },
+    {
       "id": 137219,
       "event_category": "Golf",
       "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
@@ -418,7 +402,19 @@
       "startTime": "02:10:00 PM 08-11-2025"
     },
     {
-      "id": 137849,
+      "id": 138016,
+      "event_category": "Cricket",
+      "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
+      "team_1": "Timor-Leste",
+      "team_2": "Myanmar",
+      "status": "UPCOMING",
+      "event_name": "Rising East Asia Tri-Series, 2025",
+      "match_name": "Timor-Leste vs Myanmar",
+      "startTime": "07:00:00 AM 09-11-2025"
+    },
+    {
+      "id": 137850,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -427,7 +423,7 @@
       "status": "UPCOMING",
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "TBC vs TBC",
-      "startTime": "09:25:00 AM 09-11-2025"
+      "startTime": "10:20:00 AM 09-11-2025"
     }
   ]
 }
