@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:27 PM 07-11-2025",
+  "last update time": "07:57 PM 07-11-2025",
   "matches": [
     {
       "id": 119277,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
       "team_1": "Practice 1",
       "team_2": "Brazil",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
       "match_name": "Practice 1",
-      "startTime": "08:00:00 PM 07-11-2025"
+      "startTime": "08:00:00 PM 07-11-2025",
+      "dai_url": "https://dgg3rithgf2kb.cloudfront.net/out/v1/5d627d0113d84431aa6b9e98f2c5c2ac/index.m3u8",
+      "adfree_url": "https://dgg3rithgf2kb.cloudfront.net/out/v1/5d627d0113d84431aa6b9e98f2c5c2ac/index.m3u8"
     },
     {
       "id": 137835,
@@ -354,18 +356,6 @@
       "startTime": "01:30:00 AM 08-11-2025"
     },
     {
-      "id": 137219,
-      "event_category": "Golf",
-      "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Mission Hills China",
-      "status": "UPCOMING",
-      "event_name": "Aramco China Championship",
-      "match_name": "Day 3",
-      "startTime": "10:30:00 AM 08-11-2025"
-    },
-    {
       "id": 130941,
       "event_category": "Football",
       "title": "Atletico de Madrid vs Levante (LALIGA 2025-26)",
@@ -388,6 +378,30 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Ahli Saudi FC",
       "startTime": "11:00:00 PM 08-11-2025"
+    },
+    {
+      "id": 137219,
+      "event_category": "Golf",
+      "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Mission Hills China",
+      "status": "UPCOMING",
+      "event_name": "Aramco China Championship",
+      "match_name": "Day 3",
+      "startTime": "10:30:00 AM 08-11-2025"
+    },
+    {
+      "id": 137165,
+      "event_category": "Golf",
+      "title": "Day 3 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+      "team_1": "Day 3",
+      "team_2": "Yas Links, Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_name": "Day 3",
+      "startTime": "12:30:00 PM 08-11-2025"
     }
   ]
 }
