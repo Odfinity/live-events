@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:09 AM 08-11-2025",
+  "last update time": "03:21 AM 08-11-2025",
   "matches": [
     {
       "id": 130942,
@@ -30,20 +30,6 @@
       "startTime": "01:30:00 AM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Nr3ojYccQeyl--dt8orWkg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136963_english_hls_9a9a26591470080_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137824,
-      "event_category": "Football",
-      "title": "Mirandés vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/137824_CASACARDS_APP.png",
-      "team_1": "Mirandés",
-      "team_2": "Sporting de Gijón",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Mirandés vs Sporting de Gijón",
-      "startTime": "01:00:00 AM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/gSti_GKWTCKfJgRxNx20zA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137824_english_hls_f1174740a883342_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137974,
@@ -312,18 +298,6 @@
       "startTime": "11:00:00 PM 08-11-2025"
     },
     {
-      "id": 130943,
-      "event_category": "Football",
-      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
-      "team_1": "RCD Espanyol",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Villarreal CF",
-      "startTime": "01:30:00 AM 09-11-2025"
-    },
-    {
       "id": 137690,
       "event_category": "Cricket",
       "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -346,6 +320,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "05:45:00 AM 09-11-2025"
+    },
+    {
+      "id": 130943,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Villarreal CF",
+      "startTime": "01:30:00 AM 09-11-2025"
     },
     {
       "id": 137846,
@@ -430,6 +416,18 @@
       "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
       "match_name": "Portugal GP",
       "startTime": "02:10:00 PM 08-11-2025"
+    },
+    {
+      "id": 137849,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:25:00 AM 09-11-2025"
     }
   ]
 }
