@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:57 AM 07-11-2025",
+  "last update time": "11:14 AM 07-11-2025",
   "matches": [
     {
-      "id": 137830,
+      "id": 137831,
       "event_category": "Cricket",
-      "title": "United Arab Emirates vs Australia (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web_1762413988168.png",
-      "team_1": "United Arab Emirates",
-      "team_2": "Australia",
+      "title": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web_1762413988194.png",
+      "team_1": "South Africa",
+      "team_2": "Afghanistan",
       "status": "LIVE",
       "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "United Arab Emirates vs Australia",
-      "startTime": "10:20:00 AM 07-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/TUZY-q3ITzmSKOLbmb1bvg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137830_english_hls_4d020996e557013_1ta-di_h264/index.m3u8"
+      "match_name": "South Africa vs Afghanistan",
+      "startTime": "11:15:00 AM 07-11-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 137218,
@@ -30,18 +30,6 @@
       "startTime": "10:30:00 AM 07-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/nuQ-lE-1S0mrv0dOWChhhQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137218_english_hls_b38d1192d59447_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137831,
-      "event_category": "Cricket",
-      "title": "South Africa vs Afghanistan (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137831_5738_SA_AFG_fc-web_1762413988194.png",
-      "team_1": "South Africa",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "South Africa vs Afghanistan",
-      "startTime": "11:15:00 AM 07-11-2025"
     },
     {
       "id": 137832,
@@ -128,18 +116,6 @@
       "startTime": "08:30:00 AM 08-11-2025"
     },
     {
-      "id": 137892,
-      "event_category": "Football",
-      "title": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
-      "team_1": "Al-Najmah SC",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Najmah SC vs Al Hilal SFC",
-      "startTime": "11:00:00 PM 07-11-2025"
-    },
-    {
       "id": 137839,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -150,6 +126,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "09:25:00 AM 08-11-2025"
+    },
+    {
+      "id": 137892,
+      "event_category": "Football",
+      "title": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
+      "team_1": "Al-Najmah SC",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Najmah SC vs Al Hilal SFC",
+      "startTime": "11:00:00 PM 07-11-2025"
     },
     {
       "id": 130942,
