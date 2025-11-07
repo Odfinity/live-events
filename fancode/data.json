@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:21 AM 07-11-2025",
+  "last update time": "09:57 AM 07-11-2025",
   "matches": [
-    {
-      "id": 137828,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Nepal (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137828_5738_AFG_NEP_fc-web_1762413988139.png",
-      "team_1": "Afghanistan",
-      "team_2": "Nepal",
-      "status": "LIVE",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Afghanistan vs Nepal",
-      "startTime": "08:30:00 AM 07-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/LWkIOOF8SvSJySdWUX6BoA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137828_english_hls_eb8f41d9c083729_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137829,
       "event_category": "Cricket",
@@ -128,18 +114,6 @@
       "startTime": "07:35:00 AM 08-11-2025"
     },
     {
-      "id": 137892,
-      "event_category": "Football",
-      "title": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
-      "team_1": "Al-Najmah SC",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Najmah SC vs Al Hilal SFC",
-      "startTime": "11:00:00 PM 07-11-2025"
-    },
-    {
       "id": 137838,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -150,6 +124,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "08:30:00 AM 08-11-2025"
+    },
+    {
+      "id": 137892,
+      "event_category": "Football",
+      "title": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Najmah-SC-vs-Al-Hilal-SFC_old.jpg",
+      "team_1": "Al-Najmah SC",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Najmah SC vs Al Hilal SFC",
+      "startTime": "11:00:00 PM 07-11-2025"
     },
     {
       "id": 130942,
@@ -200,18 +186,6 @@
       "startTime": "10:20:00 AM 08-11-2025"
     },
     {
-      "id": 137824,
-      "event_category": "Football",
-      "title": "Mirandés vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Mirandés",
-      "team_2": "Sporting de Gijón",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Mirandés vs Sporting de Gijón",
-      "startTime": "01:00:00 AM 08-11-2025"
-    },
-    {
       "id": 137841,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -224,6 +198,18 @@
       "startTime": "11:15:00 AM 08-11-2025"
     },
     {
+      "id": 137218,
+      "event_category": "Golf",
+      "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Mission Hills China",
+      "status": "UPCOMING",
+      "event_name": "Aramco China Championship",
+      "match_name": "Day 2",
+      "startTime": "10:30:00 AM 07-11-2025"
+    },
+    {
       "id": 138014,
       "event_category": "Cricket",
       "title": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
@@ -234,6 +220,18 @@
       "event_name": "Rising East Asia Tri-Series, 2025",
       "match_name": "Timor-Leste vs Indonesia",
       "startTime": "07:00:00 AM 08-11-2025"
+    },
+    {
+      "id": 137824,
+      "event_category": "Football",
+      "title": "Mirandés vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Mirandés",
+      "team_2": "Sporting de Gijón",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Mirandés vs Sporting de Gijón",
+      "startTime": "01:00:00 AM 08-11-2025"
     },
     {
       "id": 137842,
@@ -284,18 +282,6 @@
       "startTime": "11:30:00 AM 08-11-2025"
     },
     {
-      "id": 137218,
-      "event_category": "Golf",
-      "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Mission Hills China",
-      "status": "UPCOMING",
-      "event_name": "Aramco China Championship",
-      "match_name": "Day 2",
-      "startTime": "10:30:00 AM 07-11-2025"
-    },
-    {
       "id": 137164,
       "event_category": "Golf",
       "title": "Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
@@ -332,18 +318,6 @@
       "startTime": "08:00:00 PM 07-11-2025"
     },
     {
-      "id": 137968,
-      "event_category": "Motorsports",
-      "title": "Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
-      "team_1": "Session 1 - Qualifying Time Trials",
-      "team_2": "Miami",
-      "status": "UPCOMING",
-      "event_name": "E1 Miami GP",
-      "match_name": "Session 1 - Qualifying Time Trials",
-      "startTime": "09:05:00 PM 07-11-2025"
-    },
-    {
       "id": 137940,
       "event_category": "Football",
       "title": "Kashima Antlers vs Yokohama (J League 2025)",
@@ -354,6 +328,18 @@
       "event_name": "J League 2025",
       "match_name": "Kashima Antlers vs Yokohama",
       "startTime": "10:30:00 AM 08-11-2025"
+    },
+    {
+      "id": 137968,
+      "event_category": "Motorsports",
+      "title": "Session 1 - Qualifying Time Trials vs Miami (E1 Miami GP)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
+      "team_1": "Session 1 - Qualifying Time Trials",
+      "team_2": "Miami",
+      "status": "UPCOMING",
+      "event_name": "E1 Miami GP",
+      "match_name": "Session 1 - Qualifying Time Trials",
+      "startTime": "09:05:00 PM 07-11-2025"
     },
     {
       "id": 118482,
