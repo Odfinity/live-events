@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:29 AM 09-11-2025",
+  "last update time": "03:54 AM 09-11-2025",
   "matches": [
-    {
-      "id": 130943,
-      "event_category": "Football",
-      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
-      "team_1": "RCD Espanyol",
-      "team_2": "Villarreal CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Villarreal CF",
-      "startTime": "01:30:00 AM 09-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8"
-    },
     {
       "id": 137823,
       "event_category": "Football",
@@ -44,6 +30,20 @@
       "startTime": "01:30:00 AM 09-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/SMn6EHcRSIK1aV6OwiUQ-A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137975_english_hls_04dea496a85951_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130943,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Villarreal CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Villarreal CF",
+      "startTime": "01:30:00 AM 09-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130943_english_hls_d755111e1633040_1adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137690,
@@ -214,18 +214,6 @@
       "startTime": "10:30:00 AM 09-11-2025"
     },
     {
-      "id": 137943,
-      "event_category": "Football",
-      "title": "Gamba Osaka vs Vissel Kobe (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
-      "team_1": "Gamba Osaka",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Gamba Osaka vs Vissel Kobe",
-      "startTime": "11:30:00 AM 09-11-2025"
-    },
-    {
       "id": 130948,
       "event_category": "Football",
       "title": "RCD Mallorca vs Getafe CF (LALIGA 2025-26)",
@@ -248,6 +236,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia CF vs Real Betis",
       "startTime": "11:00:00 PM 09-11-2025"
+    },
+    {
+      "id": 137943,
+      "event_category": "Football",
+      "title": "Gamba Osaka vs Vissel Kobe (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
+      "team_1": "Gamba Osaka",
+      "team_2": "Vissel Kobe",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Gamba Osaka vs Vissel Kobe",
+      "startTime": "11:30:00 AM 09-11-2025"
     },
     {
       "id": 137944,
