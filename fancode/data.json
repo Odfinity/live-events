@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:50 PM 08-11-2025",
+  "last update time": "01:02 PM 08-11-2025",
   "matches": [
     {
       "id": 137842,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137842_english_hls_00befda1b635925_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 137843,
+      "event_category": "Cricket",
+      "title": "Hong Kong, China vs England (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Hong-Kong-vs-England-(1).png",
+      "team_1": "Hong Kong, China",
+      "team_2": "England",
+      "status": "LIVE",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "Hong Kong, China vs England",
+      "startTime": "01:05:00 PM 08-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/aFQvXaENRLWm_nu4qoi0Xg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137843_english_hls_d8d027e95f96086_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138015,
       "event_category": "Cricket",
       "title": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
@@ -30,20 +44,6 @@
       "startTime": "11:30:00 AM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/oAxFleWMRS-8VVGzCMGEvg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138015_english_hls_f7ae03cd3689571_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137940,
-      "event_category": "Football",
-      "title": "Kashima Antlers vs Yokohama (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
-      "team_1": "Kashima Antlers",
-      "team_2": "Yokohama",
-      "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Kashima Antlers vs Yokohama",
-      "startTime": "10:30:00 AM 08-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137940_english_hls_17b3aea5934024_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137940_english_hls_17b3aea5934024_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137941,
@@ -86,32 +86,6 @@
       "startTime": "12:30:00 PM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ZbPlSMhpQXiTDyYUBV9lmw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137285,
-      "event_category": "Horse Racing",
-      "title": "Day 4 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-      "team_1": "Day 4",
-      "team_2": "Flemington Racecourse",
-      "status": "LIVE",
-      "event_name": "Melbourne Cup Carnival 2025",
-      "match_name": "Day 4",
-      "startTime": "06:30:00 AM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eE09s5ENTk66TGEirITqzg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137285_english_hls_56d34759da22421_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137843,
-      "event_category": "Cricket",
-      "title": "Hong Kong, China vs England (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Hong-Kong-vs-England-(1).png",
-      "team_1": "Hong Kong, China",
-      "team_2": "England",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Hong Kong, China vs England",
-      "startTime": "01:05:00 PM 08-11-2025"
     },
     {
       "id": 137844,
@@ -460,6 +434,30 @@
       "event_name": "E1 Miami GP",
       "match_name": "Session 5 - Finals",
       "startTime": "11:30:00 PM 08-11-2025"
+    },
+    {
+      "id": 137975,
+      "event_category": "Golf",
+      "title": "Day 3 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+      "team_1": "Day 3",
+      "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+      "status": "UPCOMING",
+      "event_name": "World Wide Technology Championship",
+      "match_name": "Day 3",
+      "startTime": "01:30:00 AM 09-11-2025"
+    },
+    {
+      "id": 137944,
+      "event_category": "Football",
+      "title": "Tokyo Verdy Beleza vs Naegohyang Women's FC (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg",
+      "team_1": "Tokyo Verdy Beleza",
+      "team_2": "Naegohyang Women's FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
+      "startTime": "02:00:00 PM 09-11-2025"
     }
   ]
 }
