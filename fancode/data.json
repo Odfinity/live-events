@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:53 PM 08-11-2025",
+  "last update time": "09:09 PM 08-11-2025",
   "matches": [
     {
       "id": 118483,
@@ -86,20 +86,6 @@
       "startTime": "07:50:00 PM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/sgsT9xEaQNKGUcGgTchKrw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137970_english_hls_921e6fcd6968975_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130945,
-      "event_category": "Football",
-      "title": "Girona FC vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130945_5427_GIR_ALA_fc-Web.jpg",
-      "team_1": "Girona FC",
-      "team_2": "Deportivo Alaves",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Girona FC vs Deportivo Alaves",
-      "startTime": "06:30:00 PM 08-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130945_english_hls_aa1b5809ca8175_1adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130945_english_hls_aa1b5809ca8175_1adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137690,
@@ -436,6 +422,18 @@
       "event_name": "Abu Dhabi HSBC Championship",
       "match_name": "Day 4",
       "startTime": "12:00:00 PM 09-11-2025"
+    },
+    {
+      "id": 137822,
+      "event_category": "Football",
+      "title": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Granada",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Granada vs Real Zaragoza",
+      "startTime": "11:00:00 PM 09-11-2025"
     }
   ]
 }
