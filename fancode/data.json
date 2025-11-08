@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:51 PM 08-11-2025",
+  "last update time": "03:09 PM 08-11-2025",
   "matches": [
     {
       "id": 119280,
@@ -16,20 +16,6 @@
       "startTime": "02:10:00 PM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/9eaD4xshSQ2jj7TjPbVR6Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119280_english_hls_eb1458a17583042_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137844,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Kuwait (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Kuwait-vs-Afghanistan.png",
-      "team_1": "Afghanistan",
-      "team_2": "Kuwait",
-      "status": "LIVE",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Afghanistan vs Kuwait",
-      "startTime": "02:00:00 PM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Q0SaSTowTCOdA0PIEEPXyw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137844_english_hls_cfb7d74c2e86147_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138015,
@@ -58,6 +44,20 @@
       "startTime": "12:30:00 PM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ZbPlSMhpQXiTDyYUBV9lmw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137844,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs Kuwait (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Kuwait-vs-Afghanistan.png",
+      "team_1": "Afghanistan",
+      "team_2": "Kuwait",
+      "status": "LIVE",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "Afghanistan vs Kuwait",
+      "startTime": "02:00:00 PM 08-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Q0SaSTowTCOdA0PIEEPXyw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137844_english_hls_cfb7d74c2e86147_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137690,
@@ -252,18 +252,6 @@
       "startTime": "11:00:00 PM 08-11-2025"
     },
     {
-      "id": 130943,
-      "event_category": "Football",
-      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
-      "team_1": "RCD Espanyol",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Villarreal CF",
-      "startTime": "01:30:00 AM 09-11-2025"
-    },
-    {
       "id": 137853,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -274,6 +262,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "01:05:00 PM 09-11-2025"
+    },
+    {
+      "id": 130943,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Villarreal CF",
+      "startTime": "01:30:00 AM 09-11-2025"
     },
     {
       "id": 138016,
