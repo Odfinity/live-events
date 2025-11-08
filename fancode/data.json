@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:29 PM 08-11-2025",
+  "last update time": "02:02 PM 08-11-2025",
   "matches": [
     {
-      "id": 137843,
+      "id": 137844,
       "event_category": "Cricket",
-      "title": "England vs Hong Kong, China (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Hong-Kong-vs-England-(1).png",
-      "team_1": "England",
-      "team_2": "Hong Kong, China",
+      "title": "Kuwait vs Afghanistan (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Kuwait-vs-Afghanistan.png",
+      "team_1": "Kuwait",
+      "team_2": "Afghanistan",
       "status": "LIVE",
       "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "England vs Hong Kong, China",
-      "startTime": "01:05:00 PM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/aFQvXaENRLWm_nu4qoi0Xg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137843_english_hls_d8d027e95f96086_1ta-di_h264/index.m3u8"
+      "match_name": "Kuwait vs Afghanistan",
+      "startTime": "02:00:00 PM 08-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Q0SaSTowTCOdA0PIEEPXyw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137844_english_hls_cfb7d74c2e86147_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138015,
@@ -72,18 +72,6 @@
       "startTime": "12:30:00 PM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ZbPlSMhpQXiTDyYUBV9lmw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137844,
-      "event_category": "Cricket",
-      "title": "Kuwait vs Afghanistan (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Kuwait-vs-Afghanistan.png",
-      "team_1": "Kuwait",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Kuwait vs Afghanistan",
-      "startTime": "02:00:00 PM 08-11-2025"
     },
     {
       "id": 137690,
@@ -170,18 +158,6 @@
       "startTime": "10:20:00 AM 09-11-2025"
     },
     {
-      "id": 136961,
-      "event_category": "Football",
-      "title": "Blackburn Rovers F.C. vs Derby County Football Club (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136961_5489_BLK_DER_fc-web.jpg",
-      "team_1": "Blackburn Rovers F.C.",
-      "team_2": "Derby County Football Club",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Blackburn Rovers F.C. vs Derby County Football Club",
-      "startTime": "06:00:00 PM 08-11-2025"
-    },
-    {
       "id": 137851,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -192,6 +168,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "11:15:00 AM 09-11-2025"
+    },
+    {
+      "id": 136961,
+      "event_category": "Football",
+      "title": "Blackburn Rovers F.C. vs Derby County Football Club (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136961_5489_BLK_DER_fc-web.jpg",
+      "team_1": "Blackburn Rovers F.C.",
+      "team_2": "Derby County Football Club",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Blackburn Rovers F.C. vs Derby County Football Club",
+      "startTime": "06:00:00 PM 08-11-2025"
     },
     {
       "id": 130945,
@@ -266,18 +254,6 @@
       "startTime": "11:00:00 PM 08-11-2025"
     },
     {
-      "id": 130943,
-      "event_category": "Football",
-      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
-      "team_1": "RCD Espanyol",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Villarreal CF",
-      "startTime": "01:30:00 AM 09-11-2025"
-    },
-    {
       "id": 137852,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
@@ -288,6 +264,18 @@
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "12:10:00 PM 09-11-2025"
+    },
+    {
+      "id": 130943,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Villarreal CF",
+      "startTime": "01:30:00 AM 09-11-2025"
     },
     {
       "id": 137853,
@@ -332,10 +320,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
       "team_1": "Day 2",
       "team_2": "Autódromo Internacional do Algarve",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
       "match_name": "Portugal GP",
-      "startTime": "02:10:00 PM 08-11-2025"
+      "startTime": "02:10:00 PM 08-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9eaD4xshSQ2jj7TjPbVR6Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119280_english_hls_eb1458a17583042_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137942,
@@ -360,6 +350,18 @@
       "event_name": "J League 2025",
       "match_name": "Gamba Osaka vs Vissel Kobe",
       "startTime": "11:30:00 AM 09-11-2025"
+    },
+    {
+      "id": 137944,
+      "event_category": "Football",
+      "title": "Tokyo Verdy Beleza vs Naegohyang Women's FC (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg",
+      "team_1": "Tokyo Verdy Beleza",
+      "team_2": "Naegohyang Women's FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
+      "startTime": "02:00:00 PM 09-11-2025"
     },
     {
       "id": 118483,
@@ -396,18 +398,6 @@
       "event_name": "E1 Miami GP",
       "match_name": "Session 4 - Race Off",
       "startTime": "10:10:00 PM 08-11-2025"
-    },
-    {
-      "id": 137944,
-      "event_category": "Football",
-      "title": "Tokyo Verdy Beleza vs Naegohyang Women's FC (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg",
-      "team_1": "Tokyo Verdy Beleza",
-      "team_2": "Naegohyang Women's FC",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
-      "startTime": "02:00:00 PM 09-11-2025"
     },
     {
       "id": 118484,
