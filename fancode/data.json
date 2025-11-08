@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:09 PM 08-11-2025",
+  "last update time": "03:21 PM 08-11-2025",
   "matches": [
     {
       "id": 119280,
@@ -44,20 +44,6 @@
       "startTime": "12:30:00 PM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ZbPlSMhpQXiTDyYUBV9lmw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137844,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs Kuwait (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Kuwait-vs-Afghanistan.png",
-      "team_1": "Afghanistan",
-      "team_2": "Kuwait",
-      "status": "LIVE",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Afghanistan vs Kuwait",
-      "startTime": "02:00:00 PM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Q0SaSTowTCOdA0PIEEPXyw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137844_english_hls_cfb7d74c2e86147_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137690,
@@ -192,6 +178,18 @@
       "startTime": "06:30:00 PM 08-11-2025"
     },
     {
+      "id": 137853,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "01:05:00 PM 09-11-2025"
+    },
+    {
       "id": 137893,
       "event_category": "Football",
       "title": "Neom SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
@@ -250,18 +248,6 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Ahli Saudi FC",
       "startTime": "11:00:00 PM 08-11-2025"
-    },
-    {
-      "id": 137853,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "01:05:00 PM 09-11-2025"
     },
     {
       "id": 130943,
