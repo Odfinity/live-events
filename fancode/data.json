@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:20 PM 08-11-2025",
+  "last update time": "02:51 PM 08-11-2025",
   "matches": [
+    {
+      "id": 119280,
+      "event_category": "MotoGP",
+      "title": "Day 2 vs Autódromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Autódromo Internacional do Algarve",
+      "status": "LIVE",
+      "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
+      "match_name": "Day 2",
+      "startTime": "02:10:00 PM 08-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/9eaD4xshSQ2jj7TjPbVR6Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119280_english_hls_eb1458a17583042_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 137844,
       "event_category": "Cricket",
@@ -32,34 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138015_english_hls_f7ae03cd3689571_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 137941,
-      "event_category": "Football",
-      "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-      "team_1": "Kashiwa Reysol",
-      "team_2": "Nagoya Grampus",
-      "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Kashiwa Reysol vs Nagoya Grampus",
-      "startTime": "12:30:00 PM 08-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137941_english_hls_f4014d762836025_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137941_english_hls_f4014d762836025_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137219,
-      "event_category": "Golf",
-      "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Mission Hills China",
-      "status": "LIVE",
-      "event_name": "Aramco China Championship",
-      "match_name": "Day 3",
-      "startTime": "10:30:00 AM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XNyww1R_QD2ip0Sr6DcSPw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137219_english_hls_2aa6a53ec694618_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137165,
       "event_category": "Golf",
       "title": "Day 3 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
@@ -72,20 +58,6 @@
       "startTime": "12:30:00 PM 08-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/ZbPlSMhpQXiTDyYUBV9lmw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 119280,
-      "event_category": "MotoGP",
-      "title": "Day 2 vs Autódromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Autódromo Internacional do Algarve",
-      "status": "LIVE",
-      "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
-      "match_name": "Portugal GP",
-      "startTime": "02:10:00 PM 08-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9eaD4xshSQ2jj7TjPbVR6Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119280_english_hls_eb1458a17583042_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137690,
@@ -184,6 +156,18 @@
       "startTime": "11:15:00 AM 09-11-2025"
     },
     {
+      "id": 137852,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:10:00 PM 09-11-2025"
+    },
+    {
       "id": 136961,
       "event_category": "Football",
       "title": "Blackburn Rovers F.C. vs Derby County Football Club (EFL Championship 2025-26)",
@@ -218,18 +202,6 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Neom SC vs Al-Nassr FC",
       "startTime": "07:20:00 PM 08-11-2025"
-    },
-    {
-      "id": 137852,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "12:10:00 PM 09-11-2025"
     },
     {
       "id": 136962,
@@ -434,6 +406,18 @@
       "event_name": "World Wide Technology Championship",
       "match_name": "Day 3",
       "startTime": "01:30:00 AM 09-11-2025"
+    },
+    {
+      "id": 130940,
+      "event_category": "Football",
+      "title": "Athletic Club vs Real Oviedo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130940_5427_ATH_RO_fc-Web.jpg",
+      "team_1": "Athletic Club",
+      "team_2": "Real Oviedo",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs Real Oviedo",
+      "startTime": "06:30:00 PM 09-11-2025"
     }
   ]
 }
