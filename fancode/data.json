@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:14 PM 08-11-2025",
+  "last update time": "10:27 PM 08-11-2025",
   "matches": [
     {
       "id": 136962,
@@ -56,8 +56,8 @@
       "event_name": "E1 Miami GP",
       "match_name": "Session 4 - Race Off",
       "startTime": "10:10:00 PM 08-11-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/gDBSEvpORfGpX3HhTeDmxA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137971_english_hls_c987144e5822256_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137690,
@@ -252,18 +252,6 @@
       "startTime": "10:30:00 AM 09-11-2025"
     },
     {
-      "id": 137943,
-      "event_category": "Football",
-      "title": "Gamba Osaka vs Vissel Kobe (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
-      "team_1": "Gamba Osaka",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Gamba Osaka vs Vissel Kobe",
-      "startTime": "11:30:00 AM 09-11-2025"
-    },
-    {
       "id": 130940,
       "event_category": "Football",
       "title": "Athletic Club vs Real Oviedo (LALIGA 2025-26)",
@@ -274,6 +262,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Real Oviedo",
       "startTime": "06:30:00 PM 09-11-2025"
+    },
+    {
+      "id": 137943,
+      "event_category": "Football",
+      "title": "Gamba Osaka vs Vissel Kobe (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137943_4795_OSK_VIS_fc-web.jpg",
+      "team_1": "Gamba Osaka",
+      "team_2": "Vissel Kobe",
+      "status": "UPCOMING",
+      "event_name": "J League 2025",
+      "match_name": "Gamba Osaka vs Vissel Kobe",
+      "startTime": "11:30:00 AM 09-11-2025"
     },
     {
       "id": 137944,
@@ -384,18 +384,6 @@
       "startTime": "11:00:00 PM 09-11-2025"
     },
     {
-      "id": 137166,
-      "event_category": "Golf",
-      "title": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-      "team_1": "Day 4",
-      "team_2": "Yas Links, Abu Dhabi",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi HSBC Championship",
-      "match_name": "Day 4",
-      "startTime": "12:00:00 PM 09-11-2025"
-    },
-    {
       "id": 130946,
       "event_category": "Football",
       "title": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
@@ -406,6 +394,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RC Celta vs FC Barcelona",
       "startTime": "01:30:00 AM 10-11-2025"
+    },
+    {
+      "id": 137166,
+      "event_category": "Golf",
+      "title": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+      "team_1": "Day 4",
+      "team_2": "Yas Links, Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_name": "Day 4",
+      "startTime": "12:00:00 PM 09-11-2025"
     }
   ]
 }
