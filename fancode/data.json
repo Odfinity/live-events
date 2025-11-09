@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 AM 09-11-2025",
+  "last update time": "12:06 PM 09-11-2025",
   "matches": [
-    {
-      "id": 137850,
-      "event_category": "Cricket",
-      "title": "Kuwait vs England (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
-      "team_1": "Kuwait",
-      "team_2": "England",
-      "status": "LIVE",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Kuwait vs England",
-      "startTime": "10:20:00 AM 09-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0CSoP_ACTOisXNfWZEhBMg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137850_english_hls_1a0db4cd6579918_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137851,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "11:15:00 AM 09-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/R4Pa8WMGQZ-wXhfwBY7dYA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137851_english_hls_c0533a6d5c81966_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137852,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png",
+      "team_1": "Bangladesh",
+      "team_2": "Hong Kong, China",
+      "status": "LIVE",
+      "event_name": "Hong Kong Sixes, 2025",
+      "match_name": "Bangladesh vs Hong Kong, China",
+      "startTime": "12:10:00 PM 09-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/8YtCHXw1ST6CLDCrvfCgvg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137852_english_hls_1467bb374653945_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138016,
@@ -74,27 +74,29 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 137852,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Hong-Kong-China_Old.png",
-      "team_1": "Bangladesh",
-      "team_2": "Hong Kong, China",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Bangladesh vs Hong Kong, China",
-      "startTime": "12:10:00 PM 09-11-2025"
+      "id": 137166,
+      "event_category": "Golf",
+      "title": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+      "team_1": "Day 4",
+      "team_2": "Yas Links, Abu Dhabi",
+      "status": "LIVE",
+      "event_name": "Abu Dhabi HSBC Championship",
+      "match_name": "Day 4",
+      "startTime": "12:00:00 PM 09-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/KtgcevrJRyG9hocHUVIldw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137853,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg",
+      "team_1": "Pakistan",
+      "team_2": "Kuwait",
       "status": "UPCOMING",
       "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Pakistan vs Kuwait",
       "startTime": "01:05:00 PM 09-11-2025"
     },
     {
@@ -230,18 +232,6 @@
       "startTime": "11:00:00 PM 09-11-2025"
     },
     {
-      "id": 137166,
-      "event_category": "Golf",
-      "title": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-      "team_1": "Day 4",
-      "team_2": "Yas Links, Abu Dhabi",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi HSBC Championship",
-      "match_name": "Day 4",
-      "startTime": "12:00:00 PM 09-11-2025"
-    },
-    {
       "id": 119281,
       "event_category": "MotoGP",
       "title": "Race Day vs Autódromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
@@ -269,7 +259,7 @@
       "id": 138023,
       "event_category": "Motorsports",
       "title": "F1 Kids vs Brazil (F1 Kids)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Default_sporty_Practice_Old_match-card.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Kids_Brazil_GP_F1_Old_match-card.jpg",
       "team_1": "F1 Kids",
       "team_2": "Brazil",
       "status": "UPCOMING",
