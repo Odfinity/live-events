@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 AM 09-11-2025",
+  "last update time": "07:40 AM 09-11-2025",
   "matches": [
     {
       "id": 137690,
@@ -10,22 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
       "team_1": "New Zealand",
       "team_2": "West Indies",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "West Indies tour of New Zealand, 2025",
       "match_name": "New Zealand vs West Indies",
-      "startTime": "05:45:00 AM 09-11-2025"
-    },
-    {
-      "id": 137845,
-      "event_category": "Cricket",
-      "title": "Nepal vs United Arab Emirates (Hong Kong Sixes, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-UAE-(1).png",
-      "team_1": "Nepal",
-      "team_2": "United Arab Emirates",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong Sixes, 2025",
-      "match_name": "Nepal vs United Arab Emirates",
-      "startTime": "05:45:00 AM 09-11-2025"
+      "startTime": "05:45:00 AM 09-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762689822~acl=/*~id=74124220586698651959711980888968~hmac=18153b1b0205e635e5af7dba7b7d90e27ee331dbc89e65f96f68bb79c502b46d"
     },
     {
       "id": 137846,
@@ -34,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Bangladesh-vs-South-Africa-(1).png",
       "team_1": "Bangladesh",
       "team_2": "South Africa",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "Bangladesh vs South Africa",
-      "startTime": "06:40:00 AM 09-11-2025"
+      "startTime": "06:40:00 AM 09-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/8psmBRqsTRinvLtRd8qukg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137846_english_hls_bb4f08bf2271892_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137847,
@@ -46,10 +38,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Hong-Kong-vs-Afghanistan-(1).png",
       "team_1": "Hong Kong, China",
       "team_2": "Afghanistan",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Hong Kong Sixes, 2025",
       "match_name": "Hong Kong, China vs Afghanistan",
-      "startTime": "07:35:00 AM 09-11-2025"
+      "startTime": "07:35:00 AM 09-11-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 138016,
+      "event_category": "Cricket",
+      "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
+      "team_1": "Timor-Leste",
+      "team_2": "Myanmar",
+      "status": "LIVE",
+      "event_name": "Rising East Asia Tri-Series, 2025",
+      "match_name": "Timor-Leste vs Myanmar",
+      "startTime": "07:00:00 AM 09-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137848,
@@ -124,16 +132,16 @@
       "startTime": "01:05:00 PM 09-11-2025"
     },
     {
-      "id": 138016,
+      "id": 137691,
       "event_category": "Cricket",
-      "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
-      "team_1": "Timor-Leste",
-      "team_2": "Myanmar",
+      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
+      "team_1": "New Zealand",
+      "team_2": "West Indies",
       "status": "UPCOMING",
-      "event_name": "Rising East Asia Tri-Series, 2025",
-      "match_name": "Timor-Leste vs Myanmar",
-      "startTime": "07:00:00 AM 09-11-2025"
+      "event_name": "West Indies tour of New Zealand, 2025",
+      "match_name": "New Zealand vs West Indies",
+      "startTime": "05:45:00 AM 10-11-2025"
     },
     {
       "id": 130940,
@@ -184,16 +192,16 @@
       "startTime": "11:00:00 PM 09-11-2025"
     },
     {
-      "id": 137691,
-      "event_category": "Cricket",
-      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "West Indies",
+      "id": 130946,
+      "event_category": "Football",
+      "title": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130946_5427_CEV_BAR_fc-Web.jpg",
+      "team_1": "RC Celta",
+      "team_2": "FC Barcelona",
       "status": "UPCOMING",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "New Zealand vs West Indies",
-      "startTime": "05:45:00 AM 10-11-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs FC Barcelona",
+      "startTime": "01:30:00 AM 10-11-2025"
     },
     {
       "id": 137942,
@@ -230,18 +238,6 @@
       "event_name": "AFC Women's Champions League 2025-26",
       "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
       "startTime": "02:00:00 PM 09-11-2025"
-    },
-    {
-      "id": 130946,
-      "event_category": "Football",
-      "title": "RC Celta vs FC Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130946_5427_CEV_BAR_fc-Web.jpg",
-      "team_1": "RC Celta",
-      "team_2": "FC Barcelona",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs FC Barcelona",
-      "startTime": "01:30:00 AM 10-11-2025"
     },
     {
       "id": 137945,
@@ -338,6 +334,18 @@
       "event_name": "F1 Kids",
       "match_name": "F1 Kids",
       "startTime": "10:30:00 PM 09-11-2025"
+    },
+    {
+      "id": 137976,
+      "event_category": "Golf",
+      "title": "Day 4 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+      "team_1": "Day 4",
+      "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+      "status": "UPCOMING",
+      "event_name": "World Wide Technology Championship",
+      "match_name": "Day 4",
+      "startTime": "01:30:00 AM 10-11-2025"
     }
   ]
 }
