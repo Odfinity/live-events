@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:21 AM 10-11-2025",
+  "last update time": "07:27 AM 10-11-2025",
   "matches": [
+    {
+      "id": 137691,
+      "event_category": "Cricket",
+      "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
+      "team_1": "West Indies",
+      "team_2": "New Zealand",
+      "status": "LIVE",
+      "event_name": "West Indies tour of New Zealand, 2025",
+      "match_name": "West Indies vs New Zealand",
+      "startTime": "05:45:00 AM 10-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762776569~acl=/*~id=58506297254209636073054333618263~hmac=00ff1b635e63c2318c9cc03faf73993816397f181315b64cd64b98c3bfa1121d"
+    },
     {
       "id": 134024,
       "event_category": "Cricket",
@@ -30,18 +44,6 @@
       "startTime": "05:00:00 AM 10-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/4Bcxv67bRH-pczUV1z5B-A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134023_english_hls_999dad716762735_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137691,
-      "event_category": "Cricket",
-      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "New Zealand vs West Indies",
-      "startTime": "05:45:00 AM 10-11-2025"
     },
     {
       "id": 137821,
@@ -342,6 +344,18 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Nigeria vs Gabon",
       "startTime": "09:30:00 PM 13-11-2025"
+    },
+    {
+      "id": 138151,
+      "event_category": "Football",
+      "title": "Cameroon vs Congo DR (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Cameroon",
+      "team_2": "Congo DR",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Cameroon vs Congo DR",
+      "startTime": "12:30:00 AM 14-11-2025"
     }
   ]
 }
