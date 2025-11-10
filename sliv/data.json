@@ -1,15 +1,15 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:03 PM 10-11-2025",
+  "last update time": "06:47 PM 10-11-2025",
   "matches": [
     {
       "id": "sl1090494392",
       "isLive": true,
       "event": "Nitto ATP Finals 2025",
-      "match": "Arevalo-Gonzalez / Pavic vs Salisbury / Skupski - Group Stage - 10 Nov 2025",
+      "match": "Musetti vs Fritz - Group Stage - 10 Nov 2025",
       "Provider": "ATP Media Operations Ltd",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011021/1762614626137248_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011076/1762758427982530_ATP_FINALS_Musetti-vs-Fritz_landscape_thumb.jpg",
       "genre": "Tennis",
       "language": "en",
       "venue": "Inalpi Arena",
@@ -19,20 +19,6 @@
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494392.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494392.m3u8",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090494247",
-      "isLive": false,
-      "event": "Nitto ATP Finals 2025",
-      "match": "Upcoming: Nitto ATP Finals 2025",
-      "Provider": "N/A",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011074/1762754400266180_ATP_Musetti_vs_Fritz_today_10nov_landscape_thumb.jpg",
-      "genre": "Tennis",
-      "language": "ENG",
-      "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
       "id": "sl1090493795",
