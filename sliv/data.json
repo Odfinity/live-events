@@ -1,15 +1,15 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:18 AM 12-11-2025",
+  "last update time": "12:27 AM 12-11-2025",
   "matches": [
     {
       "id": "sl1090494413",
       "isLive": true,
       "event": "Nitto ATP Finals 2025",
-      "match": "Cash/Glasspool vs Krawietz/Puetz - Group Stage - 11 Nov 2025",
+      "match": "Lorenzo Musetti vs Alex De Minaur - Group Stage - 12 Nov 2025",
       "Provider": "ATP Media Operations Ltd",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762769185302255_ATP_FINALS_Musetti-vs-De-Minaur_landscape_thumb.jpg",
       "genre": "Tennis",
       "language": "en",
       "venue": "Inalpi Arena",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494413.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494413.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494413.m3u8",
-      "sus": "hdntl=exp=1762973057~acl=%2f*~id=34334243878083326528119405857892~data=hdntl,2037139,DAI19ME-V3,none~hmac=7eb229d7a2c70e2fd523020c1d4c68fd0da319ee9fe828f3c2753fcf92a2249f",
+      "sus": "hdntl=exp=1762973659~acl=%2f*~id=44900893351614627739635567258911~data=hdntl,2037139,DAI19ME-V3,none~hmac=1868e165e1585b8edcad1a5a0c789cde2efdbcb70800922f1572b5f42870c973",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
