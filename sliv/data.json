@@ -1,13 +1,13 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:19 PM 11-11-2025",
+  "last update time": "10:29 PM 11-11-2025",
   "matches": [
     {
       "id": "sl1090494413",
       "isLive": true,
       "event": "Nitto ATP Finals 2025",
-      "match": "Cash/Glasspool vs Putz/Krawietz - Group Stage - 11 Nov 2025",
+      "match": "Cash/Glasspool vs Krawietz/Puetz - Group Stage - 11 Nov 2025",
       "Provider": "ATP Media Operations Ltd",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
       "genre": "Tennis",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494413.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494413.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494413.m3u8",
-      "sus": "hdntl=exp=1762965847~acl=%2f*~id=12724815916555510546146299721541~data=hdntl,2037139,DAI19ME-V3,none~hmac=174513c6b2a8c1b72dc855ee839ac2c9d69a2e6cefb015591df1e16d1f107dfc",
+      "sus": "hdntl=exp=1762966683~acl=%2f*~id=20688861275272807418734547317084~data=hdntl,2037139,DAI19ME-V3,none~hmac=f823ddb416757261b46022f197f7efbb7960a233c550c47a8d155dc514d158cd",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
