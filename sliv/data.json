@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:17 AM 13-11-2025",
+  "last update time": "02:26 AM 13-11-2025",
   "matches": [
+    {
+      "id": "sl1090494424",
+      "isLive": true,
+      "event": "Nitto ATP Finals 2025",
+      "match": "Jannik Sinner vs Alexander Zverev - Group Stage - 13 Nov 2025",
+      "Provider": "ATP Media Operations Ltd",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011155/1762963257301914_nitto_ATP25_group_stage_sinner_vs_zverev_12nov_landscape_thumb.jpg",
+      "genre": "Tennis",
+      "language": "en",
+      "venue": "Inalpi Arena",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494424.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494424.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494424.m3u8",
+      "sus": "hdntl=exp=1763067197~acl=%2f*~id=84782934702875426814090135224574~data=hdntl,2037139,DAI19ME-V3,none~hmac=328a499932f6adf6bff2312b142f86a0d7a649c11bb0c44564ca7f24d8b87140",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090493795",
       "isLive": false,
