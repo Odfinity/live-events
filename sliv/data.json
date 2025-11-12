@@ -1,15 +1,15 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:04 PM 12-11-2025",
+  "last update time": "06:48 PM 12-11-2025",
   "matches": [
     {
       "id": "sl1090494423",
       "isLive": true,
       "event": "Nitto ATP Finals 2025",
-      "match": "Heliovaara/Patten vs Skupski/Salisbury  - 12 Nov 2025",
+      "match": "Shelton vs Auger-Aliassime  - 12 Nov 2025",
       "Provider": "ATP Media Operations Ltd",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762775167840255_ATP_FINALS_Shelton-vs-Auger-Aliassime_landscape_thumb.jpg",
       "genre": "Tennis",
       "language": "en",
       "venue": "Inalpi Arena",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494423.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494423.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494423.m3u8",
-      "sus": "hdntl=exp=1763037010~acl=%2f*~id=38850494589848174277201957231999~data=hdntl,2037139,DAI19ME-V3,none~hmac=91df9de1e91bdce61bcc9283efad6f05e77b6a5c6022987aea636b6fd205b816",
+      "sus": "hdntl=exp=1763039522~acl=%2f*~id=86153945125268244358622064826599~data=hdntl,2037139,DAI19ME-V3,none~hmac=bcca0644daa5a0f1fa7329951ba14aae12e9b7741e5a139897cc08159d306076",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
