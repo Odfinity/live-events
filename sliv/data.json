@@ -1,13 +1,13 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:46 AM 13-11-2025",
+  "last update time": "12:59 AM 13-11-2025",
   "matches": [
     {
       "id": "sl1090494424",
       "isLive": true,
       "event": "Nitto ATP Finals 2025",
-      "match": "Jannik Sinner vs Alexander Zverev  - 13 Nov 2025",
+      "match": "Jannik Sinner vs Alexander Zverev - Group Stage - 13 Nov 2025",
       "Provider": "ATP Media Operations Ltd",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011155/1762963257301914_nitto_ATP25_group_stage_sinner_vs_zverev_12nov_landscape_thumb.jpg",
       "genre": "Tennis",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494424.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494424.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494424.m3u8",
-      "sus": "hdntl=exp=1763061242~acl=%2f*~id=58727543247744677918050757985342~data=hdntl,2037139,DAI19ME-V3,none~hmac=5f3c1225884fabc6d5fd0ebc2a2be269171ca5e5d9fe05f7bf4c1d99c29942c1",
+      "sus": "hdntl=exp=1763061507~acl=%2f*~id=20764052167560724406307102239695~data=hdntl,2037139,DAI19ME-V3,none~hmac=83976a36b48d8c00160296d0444dfb2ff31f4be84efa9bd05220ef49501b9743",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
