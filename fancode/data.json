@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:17 AM 13-11-2025",
+  "last update time": "01:29 AM 13-11-2025",
   "matches": [
     {
       "id": 137567,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137567_5720_MUN-W_PSG-W_fc-web.jpg",
       "team_1": "Manchester United Women",
       "team_2": "Paris Saint-Germain Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Manchester United Women vs Paris Saint-Germain Women",
-      "startTime": "01:30:00 AM 13-11-2025"
+      "startTime": "01:30:00 AM 13-11-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 137566,
@@ -22,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137566_5720_ATL-W_JUV-W_fc-web.jpg",
       "team_1": "Club Atletico de Madrid Femenino",
       "team_2": "Juventus Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Club Atletico de Madrid Femenino vs Juventus Women",
-      "startTime": "01:30:00 AM 13-11-2025"
+      "startTime": "01:30:00 AM 13-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/qTsHJgQ3RoSSFDOlVQK9Ag/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137566_english_hls_04a04c349746552_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137568,
@@ -34,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/137568_5720_BEN-W_TWE-W_fc-web.jpg",
       "team_1": "Benfica Women",
       "team_2": "FC Twente Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Benfica Women vs FC Twente Women",
-      "startTime": "01:30:00 AM 13-11-2025"
+      "startTime": "01:30:00 AM 13-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/z16yabklQBO2NxDJCtQAzA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137568_english_hls_c119c6243614568_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137565,
