@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:31 AM 13-11-2025",
+  "last update time": "10:06 AM 13-11-2025",
   "matches": [
     {
       "id": 138237,
@@ -30,34 +30,6 @@
       "startTime": "08:00:00 AM 11-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/hAM465abR_6XQqth1aQ8Sw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133764617_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138020,
-      "event_category": "Cricket",
-      "title": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138020_5753_TLS_INA_FC-Web.jpg",
-      "team_1": "Timor-Leste",
-      "team_2": "Indonesia",
-      "status": "LIVE",
-      "event_name": "Rising East Asia Tri-Series, 2025",
-      "match_name": "Timor-Leste vs Indonesia",
-      "startTime": "07:00:00 AM 13-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/sARugjVkRnm9wI52KOM0aA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138020_english_hls_5ed97ccc8e51261_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137692,
-      "event_category": "Cricket",
-      "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-      "team_1": "West Indies",
-      "team_2": "New Zealand",
-      "status": "LIVE",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "West Indies vs New Zealand",
-      "startTime": "05:45:00 AM 13-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763035089~acl=/*~id=70664846388003671612105735218710~hmac=a2ff76148432db274ebc1769dcf74b94a19bce478b026603a3979c6a0b7f9e72"
     },
     {
       "id": 138021,
@@ -120,18 +92,6 @@
       "startTime": "09:30:00 PM 13-11-2025"
     },
     {
-      "id": 138151,
-      "event_category": "Football",
-      "title": "Cameroon vs DR Congo (CAF World Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cameroon_vs_Congo-DR_FC-Web.jpg",
-      "team_1": "Cameroon",
-      "team_2": "DR Congo",
-      "status": "UPCOMING",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Cameroon vs DR Congo",
-      "startTime": "12:30:00 AM 14-11-2025"
-    },
-    {
       "id": 138022,
       "event_category": "Cricket",
       "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
@@ -142,6 +102,18 @@
       "event_name": "Rising East Asia Tri-Series, 2025",
       "match_name": "Timor-Leste vs Myanmar",
       "startTime": "07:00:00 AM 14-11-2025"
+    },
+    {
+      "id": 138151,
+      "event_category": "Football",
+      "title": "Cameroon vs DR Congo (CAF World Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cameroon_vs_Congo-DR_FC-Web.jpg",
+      "team_1": "Cameroon",
+      "team_2": "DR Congo",
+      "status": "UPCOMING",
+      "event_name": "CAF World Cup Qualifiers",
+      "match_name": "Cameroon vs DR Congo",
+      "startTime": "12:30:00 AM 14-11-2025"
     },
     {
       "id": 137167,
@@ -466,6 +438,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Cultural Leonesa vs Málaga",
       "startTime": "01:00:00 AM 18-11-2025"
+    },
+    {
+      "id": 138008,
+      "event_category": "Cricket",
+      "title": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Indonesia",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Bahrain tour of Indonesia, 2025",
+      "match_name": "Indonesia vs Bahrain",
+      "startTime": "07:00:00 AM 18-11-2025"
     }
   ]
 }
