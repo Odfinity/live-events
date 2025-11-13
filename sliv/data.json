@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:50 AM 14-11-2025",
+  "last update time": "02:11 AM 14-11-2025",
   "matches": [
     {
       "id": "sl1090494518",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494518.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494518.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494518.m3u8",
-      "sus": "hdntl=exp=1763150889~acl=%2f*~id=89184108558349907448753381794685~data=hdntl,2018457,DAI09ME-V3,none~hmac=4eb45884f72c9d86ae8cc48a6defac4de7cb88f894cf9c1a8ad0e1342d224d94",
+      "sus": "hdntl=exp=1763152451~acl=%2f*~id=38269573493517748260158113500226~data=hdntl,2018457,DAI09ME-V3,none~hmac=7d3f627044374213e15e6f5c222b246ca7fabb134971d07fc9c345ad21ba972e",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,7 +36,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494520.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494520.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494520.m3u8",
-      "sus": "hdntl=exp=1763150900~acl=%2f*~id=89184108558349907448753381794685~data=hdntl,2022317,DAI13ME-V3,none~hmac=3e4b306a6343afb3ed209ef0e9b24d9d49331d10c8b8d715d2e9d14f31428e1e",
+      "sus": false,
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090494515",
+      "isLive": true,
+      "event": "European Qualifiers For 2026 FIFA World Cup",
+      "match": "Andorra vs Albania - MD 9 - 14 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762349757498408_EQFs_MD9_Andorra_vs_Albania_3nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Estadi FAF",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Andorra vs Albania,EuropeanQualifiersFor2026FIFAWorldCup",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494515.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494515.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494515.m3u8",
+      "sus": "hdntl=exp=1763152489~acl=%2f*~id=38269573493517748260158113500226~data=hdntl,2022319,DAI15ME-V3,none~hmac=2dbf1213ec8fa4b02e89ecfaa1480003c503e33dc9b39a6065f8d1abddaf6526",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -58,24 +76,6 @@
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
-      "id": "sl1090494515",
-      "isLive": true,
-      "event": "European Qualifiers For 2026 FIFA World Cup",
-      "match": "Andorra vs Albania - MD 9 - 14 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762349757498408_EQFs_MD9_Andorra_vs_Albania_3nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Estadi FAF",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Andorra vs Albania,EuropeanQualifiersFor2026FIFAWorldCup",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494515.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494515.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494515.m3u8",
-      "sus": "hdntl=exp=1763150939~acl=%2f*~id=89184108558349907448753381794685~data=hdntl,2022319,DAI15ME-V3,none~hmac=d6ae40df22aa93fa62a8e43b5f5cdc6b117e00c4dcc3f6cd40570b89cf0922bb",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
       "id": "sl1090494519",
       "isLive": true,
       "event": "European Qualifiers For 2026 FIFA World Cup",
@@ -90,7 +90,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494519.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494519.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494519.m3u8",
-      "sus": "hdntl=exp=1763150948~acl=%2f*~id=89184108558349907448753381794685~data=hdntl,2005445,DAI06ME-V3,none~hmac=638f29f515495223aa09940e5ca55ab682aa71a2667e1ef12638d2a24e89c876",
+      "sus": "hdntl=exp=1763152521~acl=%2f*~id=38269573493517748260158113500226~data=hdntl,2005445,DAI06ME-V3,none~hmac=57e634def2e3be7c41008503165706d4d5fe5bd6c571f36a728f07d04ea5205c",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -108,7 +108,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494496.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494496.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494496.m3u8",
-      "sus": "hdntl=exp=1763150958~acl=%2f*~id=89184108558349907448753381794685~data=hdntl,2037139,DAI19ME-V3,none~hmac=0d2184caca070ee2f850aa1e33bed3ec477fe925f307dcc23b1f04f419065cc8",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
