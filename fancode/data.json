@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:22 PM 13-11-2025",
+  "last update time": "04:51 PM 13-11-2025",
   "matches": [
-    {
-      "id": 138237,
-      "event_category": "Cricket",
-      "title": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-      "team_1": "Ireland",
-      "team_2": "Bangladesh",
-      "status": "LIVE",
-      "event_name": "Ireland tour of Bangladesh, 2025",
-      "match_name": "Ireland vs Bangladesh",
-      "startTime": "09:00:00 AM 11-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/7fm4pds-Q5m-lkicBlZbhQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011457026_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137167,
       "event_category": "Golf",
@@ -30,6 +16,18 @@
       "startTime": "12:30:00 PM 13-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/QlYRSb4tRBap6FgIuQL5Jg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137167_english_hls_11108ed49784558_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138237,
+      "event_category": "Cricket",
+      "title": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+      "team_1": "Ireland",
+      "team_2": "Bangladesh",
+      "status": "PAUSED",
+      "event_name": "Ireland tour of Bangladesh, 2025",
+      "match_name": "Ireland vs Bangladesh",
+      "startTime": "09:00:00 AM 11-11-2025"
     },
     {
       "id": 138242,
@@ -56,6 +54,18 @@
       "startTime": "08:00:00 AM 11-11-2025"
     },
     {
+      "id": 137947,
+      "event_category": "Football",
+      "title": "Ho Chi Minh City Women’s FC vs Stallion Laguna (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137947_5744_HCMC_SL_fc-web.jpg",
+      "team_1": "Ho Chi Minh City Women’s FC",
+      "team_2": "Stallion Laguna",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "Ho Chi Minh City Women’s FC vs Stallion Laguna",
+      "startTime": "05:30:00 PM 13-11-2025"
+    },
+    {
       "id": 138101,
       "event_category": "Football",
       "title": "United Arab Emirates vs Iraq (FIFA World Cup Asian Qualifiers)",
@@ -78,18 +88,6 @@
       "event_name": "Rising East Asia Tri-Series, 2025",
       "match_name": "Timor-Leste vs Myanmar",
       "startTime": "07:00:00 AM 14-11-2025"
-    },
-    {
-      "id": 137947,
-      "event_category": "Football",
-      "title": "Ho Chi Minh City Women’s FC vs Stallion Laguna (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137947_5744_HCMC_SL_fc-web.jpg",
-      "team_1": "Ho Chi Minh City Women’s FC",
-      "team_2": "Stallion Laguna",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "Ho Chi Minh City Women’s FC vs Stallion Laguna",
-      "startTime": "05:30:00 PM 13-11-2025"
     },
     {
       "id": 138243,
