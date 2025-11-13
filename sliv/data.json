@@ -1,15 +1,15 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:05 PM 13-11-2025",
+  "last update time": "06:48 PM 13-11-2025",
   "matches": [
     {
       "id": "sl1090494495",
       "isLive": true,
       "event": "Nitto ATP Finals 2025",
-      "match": "Puetz/Krawietz vs Vavassori/Bolelli - Group Stage - 13 Nov 2025",
+      "match": "Taylor Fritz vs Alex de Minaur - Group Stage - 13 Nov 2025",
       "Provider": "ATP Media Operations Ltd",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762770373997255_ATP_FINALS_Fritz-vs-De-Minaur_landscape_thumb.jpg",
       "genre": "Tennis",
       "language": "en",
       "venue": "Inalpi Arena",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494495.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494495.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494495.m3u8",
-      "sus": "hdntl=exp=1763123176~acl=%2f*~id=96619300533488850123450525008795~data=hdntl,2037139,DAI19ME-V3,none~hmac=df1ce8fc0f490fafbaa06804201e0f99eb69ed0e6cc705bfaf43e29881d586a9",
+      "sus": "hdntl=exp=1763126066~acl=%2f*~id=76597483935308756352558109188491~data=hdntl,2037139,DAI19ME-V3,none~hmac=c5860bcda571842ad7e2383ca5fd015f0c7ce6263487a80e33075908d2e12442",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -76,20 +76,6 @@
       "TVchannel": "Sony Sports Ten 2",
       "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8a0aad86135f4aedaba234377746d072/1762600148/baseline-std-v4/PROMO_FRANCE_VS_UKRAINE_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
-    },
-    {
-      "id": "sl1090494247",
-      "isLive": false,
-      "event": "Nitto ATP Finals 2025",
-      "match": "Upcoming: Nitto ATP Finals 2025",
-      "Provider": "N/A",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011135/1762936819716234_ATP_Nitto_Fritz_vs_DeMinaur_Today_Landscape_thumb.jpg",
-      "genre": "Tennis",
-      "language": "ENG",
-      "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
       "id": "sl1090494550",
