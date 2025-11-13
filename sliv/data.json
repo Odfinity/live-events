@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:10 PM 13-11-2025",
+  "last update time": "11:23 PM 13-11-2025",
   "matches": [
     {
       "id": "sl1090494504",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494504.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494504.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494504.m3u8",
-      "sus": "hdntl=exp=1763141657~acl=%2f*~id=36377790609849886810803746704109~data=hdntl,2094588,DAI04ME-V3,none~hmac=89254914093de3368985e907a583bd714eb36d8019cdf44678d451da05f2748d",
+      "sus": "hdntl=exp=1763142557~acl=%2f*~id=43913592611813633216499735177330~data=hdntl,2094588,DAI04ME-V3,none~hmac=7368f7855fc8450fe7066ef20c44b03466dab57cf9befe310e27ac0680f13d45",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,25 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494502.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494502.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494502.m3u8",
-      "sus": false,
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090494503",
-      "isLive": true,
-      "event": "European Qualifiers For 2026 FIFA World Cup",
-      "match": "Azerbaijan vs Iceland - MD 9 - 13 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762349386944408_EQFs_MD9_Azerbaijan_vs_Iceland_3nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Neftci Arena",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Azerbaijan vs Iceland,EuropeanQualifiersFor2026FIFAWorldCup",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494503.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494503.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494503.m3u8",
-      "sus": "hdntl=exp=1763141696~acl=%2f*~id=36377790609849886810803746704109~data=hdntl,2105079,DAI08ME-V3,none~hmac=15f78a6cd39bb54862fec4eaeae1033c1d4022e5040607bf4836edb0390f32bd",
+      "sus": "hdntl=exp=1763142582~acl=%2f*~id=43913592611813633216499735177330~data=hdntl,2105080,DAI24ME-V3,none~hmac=431bdaeb5b83f71266ded922dc8b089dd15b5ac92c61d0ce303b2b693b0c8b8f",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494462.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494462.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494462.m3u8",
-      "sus": "hdntl=exp=1763141706~acl=%2f*~id=36377790609849886810803746704109~data=hdntl,2018458,DAI10ME-V3,none~hmac=93ab4ffe2048f0692c2fd27f8b5a9bcce647b6cccc852aa62d7330f1f6c62eca",
+      "sus": "hdntl=exp=1763142591~acl=%2f*~id=43913592611813633216499735177330~data=hdntl,2018458,DAI10ME-V3,none~hmac=40238fb72c53c373ce9c634f745013533f2ba07aa24c3a4fd42366c56303b252",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -94,6 +76,24 @@
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
+      "id": "sl1090494503",
+      "isLive": true,
+      "event": "European Qualifiers For 2026 FIFA World Cup",
+      "match": "Azerbaijan vs Iceland - MD 9 - 13 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762349386944408_EQFs_MD9_Azerbaijan_vs_Iceland_3nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Neftci Arena",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Azerbaijan vs Iceland,EuropeanQualifiersFor2026FIFAWorldCup",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494503.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494503.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494503.m3u8",
+      "sus": "hdntl=exp=1763142616~acl=%2f*~id=43913592611813633216499735177330~data=hdntl,2105079,DAI08ME-V3,none~hmac=b7ef3a7c9902b05b463a53f3958466b9c38902bd80231c8385cded640a9b1d70",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
       "id": "sl1090494500",
       "isLive": true,
       "event": "UEFA International Friendlies",
@@ -108,7 +108,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494500.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494500.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494500.m3u8",
-      "sus": "hdntl=exp=1763141739~acl=%2f*~id=36377790609849886810803746704109~data=hdntl,2037140,DAI20ME-V3,none~hmac=13f10788fffeb6e117039fe87a632c707ade8f63135fb8ed03b67732a6b15f7a",
+      "sus": "hdntl=exp=1763142625~acl=%2f*~id=43913592611813633216499735177330~data=hdntl,2037140,DAI20ME-V3,none~hmac=ff4a3aff03b066f6b311d5d550566f243a123df4de69f913acd7bc1d6a6f5d30",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -126,7 +126,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494496.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494496.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494496.m3u8",
-      "sus": "hdntl=exp=1763141749~acl=%2f*~id=36377790609849886810803746704109~data=hdntl,2037139,DAI19ME-V3,none~hmac=be18f1de1262376c95a5fd6f6ecdc030e43a03a5512bd3c440e2ac92cdf78744",
+      "sus": "hdntl=exp=1763142634~acl=%2f*~id=43913592611813633216499735177330~data=hdntl,2037139,DAI19ME-V3,none~hmac=f1218d92d9e7bba1f332b52dca1036b0cdcc8da08e9b2ee97ddd19015b3c7b6f",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
