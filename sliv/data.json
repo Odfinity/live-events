@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:29 PM 13-11-2025",
+  "last update time": "10:55 PM 13-11-2025",
   "matches": [
+    {
+      "id": "sl1090494500",
+      "isLive": true,
+      "event": "UEFA International Friendlies",
+      "match": "Czechia vs San Marino - 13 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762147682338734_UEFA_INT_Friendlies_Czechia_vs_San_Marino_3nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Mestsky Stadion",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Czechia vs San Mario,UEFAInternationalFriendlies",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494500.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494500.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494500.m3u8",
+      "sus": "hdntl=exp=1763140965~acl=%2f*~id=08188167767857487845998170636084~data=hdntl,2037140,DAI20ME-V3,none~hmac=f21cd1c9d7db2c29f71a6727e7e74d95a120ea5087c9419aed3ee25fccca8f76",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090494503",
       "isLive": true,
@@ -18,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494503.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494503.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494503.m3u8",
-      "sus": "hdntl=exp=1763139034~acl=%2f*~id=65598675882881880450777144561885~data=hdntl,2105079,DAI08ME-V3,none~hmac=1e86b41f3a3e5d9a8476ab2b9d4dd586181ae731e029d6b056df3d4022e58140",
+      "sus": "hdntl=exp=1763140967~acl=%2f*~id=08188167767857487845998170636084~data=hdntl,2105079,DAI08ME-V3,none~hmac=7bf1b886364e25a9bc6caeb49b8e5a67891b2c054749e613dda1f7ebe65d6360",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,43 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494462.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494462.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494462.m3u8",
-      "sus": "hdntl=exp=1763139035~acl=%2f*~id=65598675882881880450777144561885~data=hdntl,2018458,DAI10ME-V3,none~hmac=bb279aded9ddd67c323f55d30ab41df8d316abca02b3eca1f931fd5afbee0658",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090494501",
-      "isLive": true,
-      "event": "UEFA International Friendlies",
-      "match": "Lithunia vs Israel - 13 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762147904582734_UEFA_INT_Friendlies_Lithuania_vs_Israel_3nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Darius and Girėnas Stadium",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Lithunia vs Israel,UEFAInternationalFriendlies",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494501.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494501.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494501.m3u8",
-      "sus": "hdntl=exp=1763139037~acl=%2f*~id=65598675882881880450777144561885~data=hdntl,2037143,DAI23ME-V3,none~hmac=e42491cfa1d3abf25fec0c3053cbc72ca22e251c6c5fd465f311358a3a891c19",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090494500",
-      "isLive": true,
-      "event": "UEFA International Friendlies",
-      "match": "Czechia vs San Marino - 13 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762147682338734_UEFA_INT_Friendlies_Czechia_vs_San_Marino_3nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Mestsky Stadion",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Czechia vs San Mario,UEFAInternationalFriendlies",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494500.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494500.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494500.m3u8",
-      "sus": "hdntl=exp=1763139038~acl=%2f*~id=65598675882881880450777144561885~data=hdntl,2037140,DAI20ME-V3,none~hmac=9ac690219c0dbc73ae2bfdf9f97f034a7267ea7b78c86f9123a7974a0059da96",
+      "sus": "hdntl=exp=1763140968~acl=%2f*~id=08188167767857487845998170636084~data=hdntl,2018458,DAI10ME-V3,none~hmac=0e95106345e0f80bca039700bb279f2ae841346812499d92d7e2b75d4aea8bf2",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494504.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494504.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494504.m3u8",
-      "sus": "hdntl=exp=1763139040~acl=%2f*~id=65598675882881880450777144561885~data=hdntl,2094588,DAI04ME-V3,none~hmac=f0d80ddd40ea5d4cd91178613506c38fa20811fedae1e7b8924498a8423c9b63",
+      "sus": "hdntl=exp=1763140969~acl=%2f*~id=08188167767857487845998170636084~data=hdntl,2094588,DAI04ME-V3,none~hmac=24ec0adffd6dbc7a83f2f13e368dc16e70528b1fe87444184fecfe47c4a284f0",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -108,7 +90,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494502.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494502.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494502.m3u8",
-      "sus": "hdntl=exp=1763139041~acl=%2f*~id=65598675882881880450777144561885~data=hdntl,2105080,DAI24ME-V3,none~hmac=b58f5c2df83848c553aa318dcc12c2551997dfa5485c8f863848c1a8567c0c4a",
+      "sus": "hdntl=exp=1763140970~acl=%2f*~id=08188167767857487845998170636084~data=hdntl,2105080,DAI24ME-V3,none~hmac=79dae4bcbb40efb9ff81464ee659847e6c9446b6bbde3ef312652fc9d3e0aa5f",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090494501",
+      "isLive": true,
+      "event": "UEFA International Friendlies",
+      "match": "Lithunia vs Israel - 13 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762147904582734_UEFA_INT_Friendlies_Lithuania_vs_Israel_3nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Darius and Girėnas Stadium",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Lithunia vs Israel,UEFAInternationalFriendlies",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494501.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494501.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494501.m3u8",
+      "sus": "hdntl=exp=1763140971~acl=%2f*~id=08188167767857487845998170636084~data=hdntl,2037143,DAI23ME-V3,none~hmac=18fe2937c8a7c4abc728f7399149c8176c6d199afc95313ab15ec0c14fcbd7a5",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -126,7 +126,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494496.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494496.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494496.m3u8",
-      "sus": "hdntl=exp=1763139043~acl=%2f*~id=65598675882881880450777144561885~data=hdntl,2037139,DAI19ME-V3,none~hmac=567ab8b11fb598aa7a1de7fe6669f0026d3ab999dc4c78679d79861c162eb1aa",
+      "sus": "hdntl=exp=1763140972~acl=%2f*~id=08188167767857487845998170636084~data=hdntl,2037139,DAI19ME-V3,none~hmac=7e3a02bdd36efdabf7fc4d737efafaa97fa848953e29791ec98457143c84c994",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
