@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:12 PM 14-11-2025",
+  "last update time": "12:08 AM 15-11-2025",
   "matches": [
+    {
+      "id": 137978,
+      "event_category": "Golf",
+      "title": "Day 2 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+      "status": "LIVE",
+      "event_name": "Butterfield Bermuda Championship",
+      "match_name": "Day 2",
+      "startTime": "11:30:00 PM 14-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/f7IslqbKRLOIAijRrVv3xw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137978_english_hls_c0f2f2c28e47805_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138244,
       "event_category": "Cricket",
@@ -50,18 +64,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Valladolid vs Las Palmas",
       "startTime": "01:00:00 AM 15-11-2025"
-    },
-    {
-      "id": 137978,
-      "event_category": "Golf",
-      "title": "Day 2 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Port Royal Golf Course - Southampton, Bermuda",
-      "status": "UPCOMING",
-      "event_name": "Butterfield Bermuda Championship",
-      "match_name": "Day 2",
-      "startTime": "11:30:00 PM 14-11-2025"
     },
     {
       "id": 137956,
