@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:20 PM 14-11-2025",
+  "last update time": "07:45 PM 14-11-2025",
   "matches": [
     {
       "id": "sl1090494666",
@@ -36,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494659.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494659.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494659.m3u8",
-      "sus": "hdntl=exp=1763214217~acl=%2f*~id=95226336849124943931159537540923~data=hdntl,2037141,DAI21-criclive,none~hmac=4f1e05da51c074185b349b338b00bd95e9fa8cc6f711a93d3b14bb4f47157221",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494567.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494567.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494567.m3u8",
-      "sus": "hdntl=exp=1763214226~acl=%2f*~id=95226336849124943931159537540923~data=hdntl,2037139,DAI19ME-V3,none~hmac=a6c862806b6d50b5f554c225cdb875e6602a149785fab27e821256682ba54e4a",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
