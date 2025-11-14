@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:43 PM 14-11-2025",
+  "last update time": "04:59 PM 14-11-2025",
   "matches": [
+    {
+      "id": "sl1090494666",
+      "isLive": true,
+      "event": "DP World Asia Cup Rising Stars Men's 2025",
+      "match": "India A vs UAE - 14 Nov 2025 - Audio Feed",
+      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011196/1763029384461238_AsiaCup_India_vs_UAE_12nov_AudioFeed_Landscape_thumb.jpg",
+      "genre": "Cricket",
+      "language": "en",
+      "venue": "Asian Town Cricket Stadium",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Pakistan A vs Oman,Asia_CupRising_DPLIVE25,India A vs UAE - 14 Nov 2025,DPWorldAsiaCupRisingStarsMens2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494666.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494666.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494666.m3u8",
+      "sus": false,
+      "debug": "||"
+    },
     {
       "id": "sl1090494659",
       "isLive": true,
@@ -18,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494659.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494659.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494659.m3u8",
-      "sus": "hdntl=exp=1763204176~acl=%2f*~id=86131693854333317648278886616382~data=hdntl,2037141,DAI21-criclive,none~hmac=c96219974b9ae54d2ba7004895551c70555df8790a1397546fa27d2d7456455a",
+      "sus": "hdntl=exp=1763205979~acl=%2f*~id=80393640670318544751021673789968~data=hdntl,2037141,DAI21-criclive,none~hmac=91b1243b1c4f97ed64692a2709d818f4a62d5b6caaaf6289d759fbb65474d8da",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494567.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494567.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494567.m3u8",
-      "sus": false,
+      "sus": "hdntl=exp=1763206020~acl=%2f*~id=80393640670318544751021673789968~data=hdntl,2037139,DAI19ME-V3,none~hmac=695955adcfd67f4d80a5ba8f6a6bbaf348320fa5aff773ed925192c917f06e7a",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
