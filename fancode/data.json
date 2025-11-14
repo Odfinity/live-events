@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:26 AM 14-11-2025",
+  "last update time": "07:36 AM 14-11-2025",
   "matches": [
+    {
+      "id": 138022,
+      "event_category": "Cricket",
+      "title": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138022_5753_TLS_MYN_FC-Web.jpg",
+      "team_1": "Myanmar",
+      "team_2": "Timor-Leste",
+      "status": "LIVE",
+      "event_name": "Rising East Asia Tri-Series, 2025",
+      "match_name": "Myanmar vs Timor-Leste",
+      "startTime": "07:00:00 AM 14-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/uZUNk7fJTDCpW1qniDWo9w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138022_english_hls_51d7ece6da35437_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138237,
       "event_category": "Cricket",
@@ -52,18 +66,6 @@
       "startTime": "08:00:00 AM 11-11-2025"
     },
     {
-      "id": 138022,
-      "event_category": "Cricket",
-      "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138022_5753_TLS_MYN_FC-Web.jpg",
-      "team_1": "Timor-Leste",
-      "team_2": "Myanmar",
-      "status": "UPCOMING",
-      "event_name": "Rising East Asia Tri-Series, 2025",
-      "match_name": "Timor-Leste vs Myanmar",
-      "startTime": "07:00:00 AM 14-11-2025"
-    },
-    {
       "id": 133941,
       "event_category": "Cricket",
       "title": "Tasmania vs South Australia (One Day Cup, 2025-26)",
@@ -74,6 +76,30 @@
       "event_name": "One Day Cup, 2025-26",
       "match_name": "Tasmania vs South Australia",
       "startTime": "05:00:00 AM 15-11-2025"
+    },
+    {
+      "id": 138244,
+      "event_category": "Cricket",
+      "title": "Bangladesh A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg",
+      "team_1": "Bangladesh A",
+      "team_2": "Hong Kong, China",
+      "status": "UPCOMING",
+      "event_name": "ACC Asia Cup Rising Stars 2025",
+      "match_name": "Bangladesh A vs Hong Kong, China",
+      "startTime": "12:00:00 PM 15-11-2025"
+    },
+    {
+      "id": 138060,
+      "event_category": "Football",
+      "title": "Real Valladolid vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138060_CASACARDS_APP.png",
+      "team_1": "Real Valladolid",
+      "team_2": "Las Palmas",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Valladolid vs Las Palmas",
+      "startTime": "01:00:00 AM 15-11-2025"
     },
     {
       "id": 137168,
@@ -98,30 +124,6 @@
       "event_name": "MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
       "match_name": "Valencia GP",
       "startTime": "01:30:00 PM 14-11-2025"
-    },
-    {
-      "id": 138060,
-      "event_category": "Football",
-      "title": "Real Valladolid vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138060_CASACARDS_APP.png",
-      "team_1": "Real Valladolid",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Valladolid vs Las Palmas",
-      "startTime": "01:00:00 AM 15-11-2025"
-    },
-    {
-      "id": 138244,
-      "event_category": "Cricket",
-      "title": "Bangladesh A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg",
-      "team_1": "Bangladesh A",
-      "team_2": "Hong Kong, China",
-      "status": "UPCOMING",
-      "event_name": "ACC Asia Cup Rising Stars 2025",
-      "match_name": "Bangladesh A vs Hong Kong, China",
-      "startTime": "12:00:00 PM 15-11-2025"
     },
     {
       "id": 137978,
