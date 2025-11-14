@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:28 PM 14-11-2025",
+  "last update time": "12:57 PM 14-11-2025",
   "matches": [
     {
       "id": 138242,
@@ -16,20 +16,6 @@
       "startTime": "12:00:00 PM 14-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763144412~acl=/*~id=06646373310536344000332719277713~hmac=78fef2ad92b7406bbbc4757d4bb5ef93af5965d5c97fd4aa2b23f779d430e561"
-    },
-    {
-      "id": 138237,
-      "event_category": "Cricket",
-      "title": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-      "team_1": "Ireland",
-      "team_2": "Bangladesh",
-      "status": "LIVE",
-      "event_name": "Ireland tour of Bangladesh, 2025",
-      "match_name": "Ireland vs Bangladesh",
-      "startTime": "09:00:00 AM 11-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/5DSEinQnRp6qtDoM9xJZuQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011428485_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138243,
@@ -72,18 +58,6 @@
       "adfree_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/137168_english_137168/hls-h264/index.m3u8"
     },
     {
-      "id": 133941,
-      "event_category": "Cricket",
-      "title": "Tasmania vs South Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133941_5606_TAS_SAU_fc-web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "South Australia",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Tasmania vs South Australia",
-      "startTime": "05:00:00 AM 15-11-2025"
-    },
-    {
       "id": 138244,
       "event_category": "Cricket",
       "title": "Bangladesh A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
@@ -96,16 +70,28 @@
       "startTime": "12:00:00 PM 15-11-2025"
     },
     {
-      "id": 138060,
-      "event_category": "Football",
-      "title": "Real Valladolid vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138060_CASACARDS_APP.png",
-      "team_1": "Real Valladolid",
-      "team_2": "Las Palmas",
+      "id": 133941,
+      "event_category": "Cricket",
+      "title": "Tasmania vs South Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133941_5606_TAS_SAU_fc-web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "South Australia",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Valladolid vs Las Palmas",
-      "startTime": "01:00:00 AM 15-11-2025"
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Tasmania vs South Australia",
+      "startTime": "05:00:00 AM 15-11-2025"
+    },
+    {
+      "id": 119293,
+      "event_category": "MotoGP",
+      "title": "Day 1 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
+      "team_1": "Day 1",
+      "team_2": "Circuit Ricardo Tormo",
+      "status": "UPCOMING",
+      "event_name": "MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
+      "match_name": "Valencia GP",
+      "startTime": "01:30:00 PM 14-11-2025"
     },
     {
       "id": 138245,
@@ -120,16 +106,16 @@
       "startTime": "05:00:00 PM 15-11-2025"
     },
     {
-      "id": 119293,
-      "event_category": "MotoGP",
-      "title": "Day 1 vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
-      "team_1": "Day 1",
-      "team_2": "Circuit Ricardo Tormo",
+      "id": 138060,
+      "event_category": "Football",
+      "title": "Real Valladolid vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138060_CASACARDS_APP.png",
+      "team_1": "Real Valladolid",
+      "team_2": "Las Palmas",
       "status": "UPCOMING",
-      "event_name": "MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
-      "match_name": "Valencia GP",
-      "startTime": "01:30:00 PM 14-11-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Valladolid vs Las Palmas",
+      "startTime": "01:00:00 AM 15-11-2025"
     },
     {
       "id": 137978,
