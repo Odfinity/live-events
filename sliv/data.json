@@ -1,26 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:24 PM 15-11-2025",
+  "last update time": "08:44 PM 15-11-2025",
   "matches": [
-    {
-      "id": "sl1090494836",
-      "isLive": true,
-      "event": "DP World Asia Cup Rising Stars Men's 2025",
-      "match": " Sri Lanka A vs Afghanistan A - 15 Nov 2025  - Audio Feed",
-      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011275/1763135424900626_ACC25_SLA_vs_AFGA_Audio_Commentary_Stream_Landscapet_thumb.jpg",
-      "genre": "Cricket",
-      "language": "en",
-      "venue": "West End Park International Cricket Stadium, Doha",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Sri Lanka A vs Afghanistan A,DPWorldAsiaCupRisingStarsMens2025",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494836.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494836.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494836.m3u8",
-      "sus": false,
-      "debug": "||"
-    },
     {
       "id": "sl1090494834",
       "isLive": true,
@@ -36,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494834.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494834.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494834.m3u8",
-      "sus": "hdntl=exp=1763304504~acl=%2f*~id=71518471594793629660747800789352~data=hdntl,2037141,DAI21-criclive,none~hmac=021325eceb1236a607c1b6a8b52a75c4461da443dd4e5a06b022043622072059",
+      "sus": "hdntl=exp=1763305999~acl=%2f*~id=34527857593147348674801235913699~data=hdntl,2037141,DAI21-criclive,none~hmac=b91e670730eb798f14b1f303311546352d63e7b0951729c27f773eb1da499502",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494702.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494702.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494702.m3u8",
-      "sus": "hdntl=exp=1763304506~acl=%2f*~id=71518471594793629660747800789352~data=hdntl,2022315,DAI11ME-V3,none~hmac=53f695259da78945d7c1dd4b3515e6ab08d9fc95f5cd33ffe5422351ff8065b4",
+      "sus": "hdntl=exp=1763306000~acl=%2f*~id=34527857593147348674801235913699~data=hdntl,2022315,DAI11ME-V3,none~hmac=ce49c38cfab16f7b45264a264f2b908a165c9dd1378fd7e217941a2badfaf383",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090494756.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090494756.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090494756.m3u8",
-      "sus": "hdntl=exp=1763304508~acl=%2f*~id=71518471594793629660747800789352~data=hdntl,2037139,DAI19ME-V3,none~hmac=c596f783e73633dfe0cc57bd6860c4734eebb46f14fdd14d02d4fb2931e47c50",
+      "sus": "hdntl=exp=1763306001~acl=%2f*~id=34527857593147348674801235913699~data=hdntl,2037139,DAI19ME-V3,none~hmac=f462438e0340311f0953200dccff70bcaaca782bb6d3864e89dfc4640d4925b3",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
