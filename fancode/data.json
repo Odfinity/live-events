@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:29 AM 15-11-2025",
+  "last update time": "12:07 PM 15-11-2025",
   "matches": [
     {
       "id": 138244,
       "event_category": "Cricket",
-      "title": "Bangladesh A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
+      "title": "Hong Kong, China vs Bangladesh A (ACC Asia Cup Rising Stars 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138244_5765_BN-A_HK_fc-web_1763068128414.jpg",
-      "team_1": "Bangladesh A",
-      "team_2": "Hong Kong, China",
-      "status": "UPCOMING",
+      "team_1": "Hong Kong, China",
+      "team_2": "Bangladesh A",
+      "status": "LIVE",
       "event_name": "ACC Asia Cup Rising Stars 2025",
-      "match_name": "Bangladesh A vs Hong Kong, China",
-      "startTime": "12:00:00 PM 15-11-2025"
+      "match_name": "Hong Kong, China vs Bangladesh A",
+      "startTime": "12:00:00 PM 15-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763231115~acl=/*~id=45871726592580759643017348842107~hmac=e4e2fdbb60526e0cfe5bb3651fb3f92597dc06786ea6b584860ddb2356b4165d"
     },
     {
       "id": 133941,
@@ -102,18 +104,6 @@
       "startTime": "01:30:00 AM 16-11-2025"
     },
     {
-      "id": 138246,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Oman",
-      "status": "UPCOMING",
-      "event_name": "ACC Asia Cup Rising Stars 2025",
-      "match_name": "United Arab Emirates vs Oman",
-      "startTime": "03:00:00 PM 16-11-2025"
-    },
-    {
       "id": 137169,
       "event_category": "Golf",
       "title": "Day 3 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
@@ -124,6 +114,18 @@
       "event_name": "DP World Tour Championship, Dubai",
       "match_name": "Day 3",
       "startTime": "12:30:00 PM 15-11-2025"
+    },
+    {
+      "id": 138246,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
+      "team_1": "United Arab Emirates",
+      "team_2": "Oman",
+      "status": "UPCOMING",
+      "event_name": "ACC Asia Cup Rising Stars 2025",
+      "match_name": "United Arab Emirates vs Oman",
+      "startTime": "03:00:00 PM 16-11-2025"
     },
     {
       "id": 119296,
@@ -424,6 +426,18 @@
       "event_name": "AFC Asia Cup Qualifiers",
       "match_name": "Bangladesh vs India",
       "startTime": "07:30:00 PM 18-11-2025"
+    },
+    {
+      "id": 138102,
+      "event_category": "Football",
+      "title": "Iraq vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-Iraq_Old-match-card.jpg",
+      "team_1": "Iraq",
+      "team_2": "United Arab Emirates",
+      "status": "UPCOMING",
+      "event_name": "FIFA World Cup Asian Qualifiers",
+      "match_name": "Iraq vs United Arab Emirates",
+      "startTime": "09:30:00 PM 18-11-2025"
     }
   ]
 }
