@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 PM 15-11-2025",
+  "last update time": "10:50 PM 15-11-2025",
   "matches": [
+    {
+      "id": 137001,
+      "event_category": "Football",
+      "title": "Gillingham vs Crawley Town FC (League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Gillingham",
+      "team_2": "Crawley Town FC",
+      "status": "LIVE",
+      "event_name": "League Two 2025-26",
+      "match_name": "Gillingham vs Crawley Town FC",
+      "startTime": "11:00:00 PM 15-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ogCTsBMxTRWL6bIj1Or_6Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137001_english_hls_170928622b74880_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 137979,
       "event_category": "Golf",
@@ -54,18 +68,6 @@
       "event_name": "ACC Asia Cup Rising Stars 2025",
       "match_name": "United Arab Emirates vs Oman",
       "startTime": "03:00:00 PM 16-11-2025"
-    },
-    {
-      "id": 137001,
-      "event_category": "Football",
-      "title": "Gillingham vs Crawley Town FC (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Gillingham",
-      "team_2": "Crawley Town FC",
-      "status": "UPCOMING",
-      "event_name": "League Two 2025-26",
-      "match_name": "Gillingham vs Crawley Town FC",
-      "startTime": "11:00:00 PM 15-11-2025"
     },
     {
       "id": 138247,
@@ -140,18 +142,6 @@
       "startTime": "12:00:00 PM 16-11-2025"
     },
     {
-      "id": 119297,
-      "event_category": "MotoGP",
-      "title": "Race Day vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
-      "team_1": "Race Day",
-      "team_2": "Circuit Ricardo Tormo",
-      "status": "UPCOMING",
-      "event_name": "MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
-      "match_name": "Valencia GP",
-      "startTime": "03:30:00 PM 16-11-2025"
-    },
-    {
       "id": 138152,
       "event_category": "Football",
       "title": "Nigeria vs DR Congo (CAF World Cup Qualifiers)",
@@ -162,6 +152,18 @@
       "event_name": "CAF World Cup Qualifiers",
       "match_name": "Nigeria vs DR Congo",
       "startTime": "12:30:00 AM 17-11-2025"
+    },
+    {
+      "id": 119297,
+      "event_category": "MotoGP",
+      "title": "Race Day vs Circuit Ricardo Tormo (MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Motul-Grand-Prix-of-the-Valencian-Community-old-match-card-.png",
+      "team_1": "Race Day",
+      "team_2": "Circuit Ricardo Tormo",
+      "status": "UPCOMING",
+      "event_name": "MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
+      "match_name": "Valencia GP",
+      "startTime": "03:30:00 PM 16-11-2025"
     },
     {
       "id": 138063,
