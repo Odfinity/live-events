@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:56 PM 16-11-2025",
+  "last update time": "03:11 PM 16-11-2025",
   "matches": [
     {
       "id": 137693,
@@ -28,6 +28,20 @@
       "event_name": "ACC Asia Cup Rising Stars 2025",
       "match_name": "India A vs Pakistan Shaheens",
       "startTime": "08:00:00 PM 16-11-2025"
+    },
+    {
+      "id": 138246,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
+      "team_1": "United Arab Emirates",
+      "team_2": "Oman",
+      "status": "LIVE",
+      "event_name": "ACC Asia Cup Rising Stars 2025",
+      "match_name": "United Arab Emirates vs Oman",
+      "startTime": "03:00:00 PM 16-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763328189~acl=/*~id=47766277644196315817084840961631~hmac=138c807e4f13856a80904b68e9bc7d949e81aa6b9c5df6eddc2c4fc85aa05479"
     },
     {
       "id": 137952,
@@ -70,18 +84,6 @@
       "startTime": "03:30:00 PM 16-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/of-Dhb2WTxuRYQyf3RJbiw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119297_english_hls_e0153a808d44379_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138246,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Oman (ACC Asia Cup Rising Stars 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138246_5765_UAE_OMN_fc-web_1763068129254.jpg",
-      "team_1": "United Arab Emirates",
-      "team_2": "Oman",
-      "status": "UPCOMING",
-      "event_name": "ACC Asia Cup Rising Stars 2025",
-      "match_name": "United Arab Emirates vs Oman",
-      "startTime": "03:00:00 PM 16-11-2025"
     },
     {
       "id": 138037,
@@ -144,18 +146,6 @@
       "startTime": "01:30:00 AM 17-11-2025"
     },
     {
-      "id": 137948,
-      "event_category": "Football",
-      "title": "Bam Khatoon FC vs East Bengal (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137948_5744_BKFC_EBFC_fc-web_1763103330908.jpg",
-      "team_1": "Bam Khatoon FC",
-      "team_2": "East Bengal",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "Bam Khatoon FC vs East Bengal",
-      "startTime": "12:30:00 PM 17-11-2025"
-    },
-    {
       "id": 138293,
       "event_category": "Cricket",
       "title": "Janakpur Bolts vs Kathmandu Gurkhas (Nepal Premier League, 2025)",
@@ -166,6 +156,18 @@
       "event_name": "Nepal Premier League, 2025",
       "match_name": "Janakpur Bolts vs Kathmandu Gurkhas",
       "startTime": "03:45:00 PM 17-11-2025"
+    },
+    {
+      "id": 137948,
+      "event_category": "Football",
+      "title": "Bam Khatoon FC vs East Bengal (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137948_5744_BKFC_EBFC_fc-web_1763103330908.jpg",
+      "team_1": "Bam Khatoon FC",
+      "team_2": "East Bengal",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "Bam Khatoon FC vs East Bengal",
+      "startTime": "12:30:00 PM 17-11-2025"
     },
     {
       "id": 138249,
