@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:20 AM 17-11-2025",
+  "last update time": "03:51 AM 17-11-2025",
   "matches": [
-    {
-      "id": 138152,
-      "event_category": "Football",
-      "title": "Nigeria vs DR Congo (CAF World Cup Qualifiers)",
-      "src": "https://images.fancode.com/aig/match/v1/138152_CASACARDS_APP.png",
-      "team_1": "Nigeria",
-      "team_2": "DR Congo",
-      "status": "LIVE",
-      "event_name": "CAF World Cup Qualifiers",
-      "match_name": "Nigeria vs DR Congo",
-      "startTime": "12:30:00 AM 17-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0P_zbICqSxai9NrC9sc3aw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138152_english_hls_9d1f489bc949759_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138063,
-      "event_category": "Football",
-      "title": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
-      "team_1": "Real Zaragoza",
-      "team_2": "Huesca",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza vs Huesca",
-      "startTime": "01:30:00 AM 17-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/tLBuw5D4Si27w5d8y-F0dw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138063_english_hls_38f195a62968715_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138248,
       "event_category": "Cricket",
@@ -425,6 +397,30 @@
       "status": "UPCOMING",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "FC Twente Women vs Club Atletico de Madrid Femenino",
+      "startTime": "01:30:00 AM 20-11-2025"
+    },
+    {
+      "id": 137587,
+      "event_category": "Football",
+      "title": "Paris FC Women vs Benfica Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137587_5720_PFC-W_BEN-W_fc-web.jpg",
+      "team_1": "Paris FC Women",
+      "team_2": "Benfica Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Paris FC Women vs Benfica Women",
+      "startTime": "01:30:00 AM 20-11-2025"
+    },
+    {
+      "id": 137586,
+      "event_category": "Football",
+      "title": "Arsenal Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137586_5720_ARS-W_RM-W_fc-web.jpg",
+      "team_1": "Arsenal Women",
+      "team_2": "Real Madrid Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Arsenal Women vs Real Madrid Women",
       "startTime": "01:30:00 AM 20-11-2025"
     }
   ]
