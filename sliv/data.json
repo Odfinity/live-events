@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:51 PM 17-11-2025",
+  "last update time": "10:19 PM 17-11-2025",
   "matches": [
     {
       "id": "sl1090495078",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495078.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495078.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495078.m3u8",
-      "sus": "hdntl=exp=1763482808~acl=%2f*~id=64960089570196149856975203860888~data=hdntl,2037141,DAI21-criclive,none~hmac=d153bad13edad107b06cefb27fd7e5bcfb292453cd86edfeb508a3d047e58e41",
+      "sus": "hdntl=exp=1763483882~acl=%2f*~id=70304599263990661161003427493962~data=hdntl,2037141,DAI21-criclive,none~hmac=88625a88eae9f3bd3b5cc593f0714b1e1452b3aff0cca4c87eb51d98a8e968f2",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -38,6 +38,24 @@
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495083.m3u8",
       "sus": false,
       "debug": "||"
+    },
+    {
+      "id": "sl1090495076",
+      "isLive": true,
+      "event": "UEFA International Friendlies",
+      "match": "Finland vs Andorra - 17 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011386/1763297649314524_UEFA_INT_Friendlies_Finland_vs_Andorra_16nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Helsinki Olympic Stadium",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Finland vs Andorra,UEFAInternationalFriendlies",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495076.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495076.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495076.m3u8",
+      "sus": "hdntl=exp=1763483885~acl=%2f*~id=70304599263990661161003427493962~data=hdntl,2018457,DAI09ME-V3,none~hmac=c7afa3a9636f2fde1224c9614b78f7c237548b8c047aede34d591dace2f6b502",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
       "id": "sl1090495191",
