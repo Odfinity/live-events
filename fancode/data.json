@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 17-11-2025",
+  "last update time": "06:27 PM 17-11-2025",
   "matches": [
     {
       "id": 138293,
@@ -16,20 +16,6 @@
       "startTime": "03:45:00 PM 17-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/lcz7ptK4QRyuHOYLhpit6w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138293_english_hls_fd44d488d616019_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138248,
-      "event_category": "Cricket",
-      "title": "Hong Kong, China vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138248_5765_SL-A_HK_fc-web_1763068128435.jpg",
-      "team_1": "Hong Kong, China",
-      "team_2": "Sri Lanka A",
-      "status": "LIVE",
-      "event_name": "ACC Asia Cup Rising Stars 2025",
-      "match_name": "Hong Kong, China vs Sri Lanka A",
-      "startTime": "03:00:00 PM 17-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763414809~acl=/*~id=54688182147175635238135803520556~hmac=3efedef36c06c4bbc9413782911f2f192035098ac8f9f237c67e4a965c00b813"
     },
     {
       "id": 137949,
@@ -118,18 +104,6 @@
       "startTime": "07:15:00 PM 18-11-2025"
     },
     {
-      "id": 138295,
-      "event_category": "Cricket",
-      "title": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
-      "team_1": "Biratnagar Kings",
-      "team_2": "Pokhara Avengers",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Biratnagar Kings vs Pokhara Avengers",
-      "startTime": "03:45:00 PM 18-11-2025"
-    },
-    {
       "id": 138251,
       "event_category": "Cricket",
       "title": "India A vs Oman (ACC Asia Cup Rising Stars 2025)",
@@ -140,6 +114,18 @@
       "event_name": "ACC Asia Cup Rising Stars 2025",
       "match_name": "India A vs Oman",
       "startTime": "08:00:00 PM 18-11-2025"
+    },
+    {
+      "id": 138295,
+      "event_category": "Cricket",
+      "title": "Biratnagar Kings vs Pokhara Avengers (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
+      "team_1": "Biratnagar Kings",
+      "team_2": "Pokhara Avengers",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Biratnagar Kings vs Pokhara Avengers",
+      "startTime": "03:45:00 PM 18-11-2025"
     },
     {
       "id": 138204,
@@ -439,6 +425,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Women's Emerging Nations Trophy, 2025",
       "match_name": "Papua New Guinea Women vs United Arab Emirates Women",
+      "startTime": "08:00:00 AM 20-11-2025"
+    },
+    {
+      "id": 138073,
+      "event_category": "Cricket",
+      "title": "Thailand Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Thailand Women",
+      "team_2": "Netherlands Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "Thailand Women vs Netherlands Women",
       "startTime": "08:00:00 AM 20-11-2025"
     }
   ]
