@@ -1,26 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:54 PM 18-11-2025",
+  "last update time": "10:20 PM 18-11-2025",
   "matches": [
-    {
-      "id": "sl1090495229",
-      "isLive": true,
-      "event": "DP World Asia Cup Rising Stars Men's 2025",
-      "match": "India A vs Oman - 18 Nov 2025 ",
-      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011453/1763378476540524_ACC25_INDA_vs_OMA_live_Landscape_thumb.jpg",
-      "genre": "Cricket",
-      "language": "en",
-      "venue": "Asian Town Cricket Stadium",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,China,India A vs Oman,DPWorldAsiaCupRisingStarsMens2025",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495229.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495229.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495229.m3u8",
-      "sus": "hdntl=exp=1763569323~acl=%2f*~id=62002782394574668161239110077330~data=hdntl,2037141,DAI21-criclive,none~hmac=d2349b070583c0abc66efc386dea6e82804417002db30f9bffb0263c94d38f1d",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
     {
       "id": "sl1090495243",
       "isLive": true,
@@ -40,6 +22,24 @@
       "debug": "||"
     },
     {
+      "id": "sl1090495229",
+      "isLive": true,
+      "event": "DP World Asia Cup Rising Stars Men's 2025",
+      "match": "India A vs Oman - 18 Nov 2025 ",
+      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011453/1763378476540524_ACC25_INDA_vs_OMA_live_Landscape_thumb.jpg",
+      "genre": "Cricket",
+      "language": "en",
+      "venue": "Asian Town Cricket Stadium",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,China,India A vs Oman,DPWorldAsiaCupRisingStarsMens2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495229.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495229.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495229.m3u8",
+      "sus": "hdntl=exp=1763570897~acl=%2f*~id=28388111232822617206742138825094~data=hdntl,2037141,DAI21-criclive,none~hmac=014ff1862f66b1c4553e05a841ac6c05522649eecf12afd38da5e68aa8404cdf",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
       "id": "sl1090495247",
       "isLive": true,
       "event": "UEFA International Friendlies",
@@ -54,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495247.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495247.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495247.m3u8",
-      "sus": "hdntl=exp=1763569326~acl=%2f*~id=62002782394574668161239110077330~data=hdntl,2022320,DAI16ME-V3,none~hmac=64881a8e0e452423acfbf96ff3c66480f0b12ad5f2b1a35bbc898efe10308796",
+      "sus": "hdntl=exp=1763570910~acl=%2f*~id=28388111232822617206742138825094~data=hdntl,2022320,DAI16ME-V3,none~hmac=85078ed4ba11f63312422a1c0099ee1ae64d9d5d5d042dc25cc14909871c8552",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495245.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495245.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495245.m3u8",
-      "sus": "hdntl=exp=1763569328~acl=%2f*~id=62002782394574668161239110077330~data=hdntl,2022316,DAI12ME-V3,none~hmac=045e6344ce709307868b90bbd55661ba36a1ec4a54d77cfb5e50b266f23de7ba",
+      "sus": "hdntl=exp=1763570921~acl=%2f*~id=28388111232822617206742138825094~data=hdntl,2022316,DAI12ME-V3,none~hmac=8655f2a138c303037a65f2ed07c094c4daef1387bba3d537b1ed215ab64b238d",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
