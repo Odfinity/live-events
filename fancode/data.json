@@ -1,21 +1,19 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:59 AM 18-11-2025",
+  "last update time": "11:15 AM 18-11-2025",
   "matches": [
     {
-      "id": 138008,
+      "id": 138294,
       "event_category": "Cricket",
-      "title": "Bahrain vs Indonesia (Bahrain tour of Indonesia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
-      "team_1": "Bahrain",
-      "team_2": "Indonesia",
-      "status": "LIVE",
-      "event_name": "Bahrain tour of Indonesia, 2025",
-      "match_name": "Bahrain vs Indonesia",
-      "startTime": "07:00:00 AM 18-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/3Ghi_auqTC6N5RGxYWOQVw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138008_english_hls_7b5e27ba2380418_1ta-di_h264/index.m3u8"
+      "title": "Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg",
+      "team_1": "Chitwan Rhinos",
+      "team_2": "Karnali Yaks",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Chitwan Rhinos vs Karnali Yaks",
+      "startTime": "11:30:00 AM 18-11-2025"
     },
     {
       "id": 138250,
@@ -66,18 +64,6 @@
       "startTime": "09:30:00 PM 18-11-2025"
     },
     {
-      "id": 138294,
-      "event_category": "Cricket",
-      "title": "Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg",
-      "team_1": "Chitwan Rhinos",
-      "team_2": "Karnali Yaks",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Chitwan Rhinos vs Karnali Yaks",
-      "startTime": "11:30:00 AM 18-11-2025"
-    },
-    {
       "id": 137694,
       "event_category": "Cricket",
       "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -102,18 +88,6 @@
       "startTime": "03:45:00 PM 18-11-2025"
     },
     {
-      "id": 137370,
-      "event_category": "Football",
-      "title": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
-      "team_1": "Bangladesh",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "AFC Asia Cup Qualifiers",
-      "match_name": "Bangladesh vs India",
-      "startTime": "07:30:00 PM 18-11-2025"
-    },
-    {
       "id": 138238,
       "event_category": "Cricket",
       "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
@@ -124,6 +98,18 @@
       "event_name": "Ireland tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs Ireland",
       "startTime": "09:00:00 AM 19-11-2025"
+    },
+    {
+      "id": 137370,
+      "event_category": "Football",
+      "title": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
+      "team_1": "Bangladesh",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "AFC Asia Cup Qualifiers",
+      "match_name": "Bangladesh vs India",
+      "startTime": "07:30:00 PM 18-11-2025"
     },
     {
       "id": 138102,
@@ -436,6 +422,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Royal Champs vs Deccan Gladiators",
       "startTime": "05:00:00 PM 20-11-2025"
+    },
+    {
+      "id": 138297,
+      "event_category": "Cricket",
+      "title": "Lumbini Lions vs Chitwan Rhinos (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg",
+      "team_1": "Lumbini Lions",
+      "team_2": "Chitwan Rhinos",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Lumbini Lions vs Chitwan Rhinos",
+      "startTime": "03:45:00 PM 20-11-2025"
     }
   ]
 }
