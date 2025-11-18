@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:15 PM 18-11-2025",
+  "last update time": "03:23 PM 18-11-2025",
   "matches": [
     {
       "id": "sl1090495241",
@@ -36,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495227.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495227.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495227.m3u8",
-      "sus": "hdntl=exp=1763545100~acl=%2f*~id=50136094699602884147524995653353~data=hdntl,2037140,DAI20-criclive,none~hmac=def33a5ce978e9958864f45a78094b06e254e98714a0c17ca85f40c88c955bd1",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
