@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:54 PM 18-11-2025",
+  "last update time": "08:16 PM 18-11-2025",
   "matches": [
     {
       "id": 138203,
@@ -14,8 +14,8 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Quetta Qavalry vs Northern Warriors",
       "startTime": "07:15:00 PM 18-11-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/Zr7VpMv8RxOH8077WsM3vA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138203_english_hls_d109d4e23367626_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137370,
@@ -28,8 +28,8 @@
       "event_name": "AFC Asia Cup Qualifiers",
       "match_name": "Bangladesh vs India",
       "startTime": "07:30:00 PM 18-11-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/xNOL8YulROeZfjOcM7ZQlQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137370_english_hls_f48e2ecbcb52142_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138251,
@@ -38,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138251_5765_IN-A_OMN_fc-web_1763068128430.jpg",
       "team_1": "Oman",
       "team_2": "India A",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ACC Asia Cup Rising Stars 2025",
       "match_name": "Oman vs India A",
-      "startTime": "08:00:00 PM 18-11-2025"
+      "startTime": "08:00:00 PM 18-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763519876~acl=/*~id=02467504661615490349260862895020~hmac=a1b125f4db61c415e58d324f9fdaca1ab55a6146c47a83b96ffcc13b8d397fa3"
     },
     {
       "id": 138204,
