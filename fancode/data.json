@@ -1,20 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:07 PM 18-11-2025",
+  "last update time": "07:22 PM 18-11-2025",
   "matches": [
-    {
-      "id": 137370,
-      "event_category": "Football",
-      "title": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers_Old_match-card.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "AFC Asia Cup Qualifiers",
-      "match_name": "Bangladesh vs India",
-      "startTime": "07:30:00 PM 18-11-2025"
-    },
     {
       "id": 138203,
       "event_category": "Cricket",
@@ -22,10 +10,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138203_5763_QQY_NW_fc-web.png",
       "team_1": "Quetta Qavalry",
       "team_2": "Northern Warriors",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Quetta Qavalry vs Northern Warriors",
-      "startTime": "07:15:00 PM 18-11-2025"
+      "startTime": "07:15:00 PM 18-11-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 137370,
+      "event_category": "Football",
+      "title": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "India",
+      "status": "LIVE",
+      "event_name": "AFC Asia Cup Qualifiers",
+      "match_name": "Bangladesh vs India",
+      "startTime": "07:30:00 PM 18-11-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 138295,
