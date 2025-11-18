@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:15 AM 18-11-2025",
+  "last update time": "11:27 AM 18-11-2025",
   "matches": [
     {
       "id": 138294,
       "event_category": "Cricket",
-      "title": "Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2025)",
+      "title": "Karnali Yaks vs Chitwan Rhinos (Nepal Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg",
-      "team_1": "Chitwan Rhinos",
-      "team_2": "Karnali Yaks",
-      "status": "UPCOMING",
+      "team_1": "Karnali Yaks",
+      "team_2": "Chitwan Rhinos",
+      "status": "LIVE",
       "event_name": "Nepal Premier League, 2025",
-      "match_name": "Chitwan Rhinos vs Karnali Yaks",
-      "startTime": "11:30:00 AM 18-11-2025"
+      "match_name": "Karnali Yaks vs Chitwan Rhinos",
+      "startTime": "11:30:00 AM 18-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138294_english_hls_6ae83aca8751323_1adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138294_english_hls_6ae83aca8751323_1adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 138250,
@@ -244,18 +246,6 @@
       "startTime": "06:30:00 PM 19-11-2025"
     },
     {
-      "id": 137959,
-      "event_category": "Football",
-      "title": "Melbourne City Women vs Ho Chi Minh City Women’s FC (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137959_5744_MLC-W_HCMC_fc-web_1763103330287.jpg",
-      "team_1": "Melbourne City Women",
-      "team_2": "Ho Chi Minh City Women’s FC",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "Melbourne City Women vs Ho Chi Minh City Women’s FC",
-      "startTime": "05:30:00 PM 19-11-2025"
-    },
-    {
       "id": 138207,
       "event_category": "Cricket",
       "title": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
@@ -266,6 +256,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Ajman Titans vs Quetta Qavalry",
       "startTime": "09:30:00 PM 19-11-2025"
+    },
+    {
+      "id": 137959,
+      "event_category": "Football",
+      "title": "Melbourne City Women vs Ho Chi Minh City Women’s FC (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137959_5744_MLC-W_HCMC_fc-web_1763103330287.jpg",
+      "team_1": "Melbourne City Women",
+      "team_2": "Ho Chi Minh City Women’s FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "Melbourne City Women vs Ho Chi Minh City Women’s FC",
+      "startTime": "05:30:00 PM 19-11-2025"
     },
     {
       "id": 137584,
