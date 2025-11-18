@@ -1,8 +1,32 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:27 PM 18-11-2025",
+  "last update time": "07:07 PM 18-11-2025",
   "matches": [
+    {
+      "id": 137370,
+      "event_category": "Football",
+      "title": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers_Old_match-card.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "AFC Asia Cup Qualifiers",
+      "match_name": "Bangladesh vs India",
+      "startTime": "07:30:00 PM 18-11-2025"
+    },
+    {
+      "id": 138203,
+      "event_category": "Cricket",
+      "title": "Quetta Qavalry vs Northern Warriors (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138203_5763_QQY_NW_fc-web.png",
+      "team_1": "Quetta Qavalry",
+      "team_2": "Northern Warriors",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Quetta Qavalry vs Northern Warriors",
+      "startTime": "07:15:00 PM 18-11-2025"
+    },
     {
       "id": 138295,
       "event_category": "Cricket",
@@ -18,18 +42,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138295_english_hls_35bd7ab90585502_1adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 137370,
-      "event_category": "Football",
-      "title": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers_Old_match-card.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "AFC Asia Cup Qualifiers",
-      "match_name": "Bangladesh vs India",
-      "startTime": "07:30:00 PM 18-11-2025"
-    },
-    {
       "id": 138251,
       "event_category": "Cricket",
       "title": "India A vs Oman (ACC Asia Cup Rising Stars 2025)",
@@ -40,18 +52,6 @@
       "event_name": "ACC Asia Cup Rising Stars 2025",
       "match_name": "India A vs Oman",
       "startTime": "08:00:00 PM 18-11-2025"
-    },
-    {
-      "id": 138203,
-      "event_category": "Cricket",
-      "title": "Quetta Qavalry vs Northern Warriors (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138203_5763_QQY_NW_fc-web.png",
-      "team_1": "Quetta Qavalry",
-      "team_2": "Northern Warriors",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Quetta Qavalry vs Northern Warriors",
-      "startTime": "07:15:00 PM 18-11-2025"
     },
     {
       "id": 138204,
@@ -114,18 +114,6 @@
       "startTime": "09:30:00 PM 18-11-2025"
     },
     {
-      "id": 138009,
-      "event_category": "Cricket",
-      "title": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
-      "team_1": "Indonesia",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Bahrain tour of Indonesia, 2025",
-      "match_name": "Indonesia vs Bahrain",
-      "startTime": "07:00:00 AM 19-11-2025"
-    },
-    {
       "id": 138205,
       "event_category": "Cricket",
       "title": "Aspin Stallions vs Northern Warriors (Abu Dhabi T10, 2025)",
@@ -136,6 +124,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Aspin Stallions vs Northern Warriors",
       "startTime": "05:00:00 PM 19-11-2025"
+    },
+    {
+      "id": 138009,
+      "event_category": "Cricket",
+      "title": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
+      "team_1": "Indonesia",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Bahrain tour of Indonesia, 2025",
+      "match_name": "Indonesia vs Bahrain",
+      "startTime": "07:00:00 AM 19-11-2025"
     },
     {
       "id": 138206,
@@ -174,18 +174,6 @@
       "startTime": "03:45:00 PM 19-11-2025"
     },
     {
-      "id": 137958,
-      "event_category": "Football",
-      "title": "Stallion Laguna vs Lion City Sailors (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137958_5744_SL_LIO_fc-web_1763103330940.jpg",
-      "team_1": "Stallion Laguna",
-      "team_2": "Lion City Sailors",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "Stallion Laguna vs Lion City Sailors",
-      "startTime": "01:30:00 PM 19-11-2025"
-    },
-    {
       "id": 138207,
       "event_category": "Cricket",
       "title": "Ajman Titans vs Quetta Qavalry (Abu Dhabi T10, 2025)",
@@ -196,6 +184,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Ajman Titans vs Quetta Qavalry",
       "startTime": "09:30:00 PM 19-11-2025"
+    },
+    {
+      "id": 137958,
+      "event_category": "Football",
+      "title": "Stallion Laguna vs Lion City Sailors (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137958_5744_SL_LIO_fc-web_1763103330940.jpg",
+      "team_1": "Stallion Laguna",
+      "team_2": "Lion City Sailors",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "Stallion Laguna vs Lion City Sailors",
+      "startTime": "01:30:00 PM 19-11-2025"
     },
     {
       "id": 138045,
@@ -424,6 +424,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "UAE Bulls vs Vista Riders",
       "startTime": "07:15:00 PM 20-11-2025"
+    },
+    {
+      "id": 137955,
+      "event_category": "Football",
+      "title": "PFC Nasaf vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137955_5744_NAS-W_BKFC_fc-web_1763103330257.jpg",
+      "team_1": "PFC Nasaf",
+      "team_2": "Bam Khatoon FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "PFC Nasaf vs Bam Khatoon FC",
+      "startTime": "04:30:00 PM 20-11-2025"
     }
   ]
 }
