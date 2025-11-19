@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:44 AM 19-11-2025",
+  "last update time": "09:22 AM 19-11-2025",
   "matches": [
     {
       "id": 138238,
@@ -10,21 +10,23 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
       "team_1": "Bangladesh",
       "team_2": "Ireland",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Ireland tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs Ireland",
-      "startTime": "09:00:00 AM 19-11-2025"
+      "startTime": "09:00:00 AM 19-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ubI70thYRY-RacdGcyWydQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c90019_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137694,
       "event_category": "Cricket",
-      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+      "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "West Indies",
+      "team_1": "West Indies",
+      "team_2": "New Zealand",
       "status": "LIVE",
       "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "New Zealand vs West Indies",
+      "match_name": "West Indies vs New Zealand",
       "startTime": "06:30:00 AM 19-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763555820~acl=/*~id=88150410257229574719079704536705~hmac=8ec02aa90e1206b0b97150d3eb86266d6858b76c525b55cd91b101eca5dbe227"
@@ -296,18 +298,6 @@
       "startTime": "12:15:00 PM 20-11-2025"
     },
     {
-      "id": 137954,
-      "event_category": "Football",
-      "title": "East Bengal vs Wuhan Jiangda Women (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137954_5744_EBFC_WJ-W_fc-web_1763103330300.jpg",
-      "team_1": "East Bengal",
-      "team_2": "Wuhan Jiangda Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "East Bengal vs Wuhan Jiangda Women",
-      "startTime": "12:30:00 PM 20-11-2025"
-    },
-    {
       "id": 138208,
       "event_category": "Cricket",
       "title": "Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)",
@@ -318,6 +308,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Royal Champs vs Deccan Gladiators",
       "startTime": "05:00:00 PM 20-11-2025"
+    },
+    {
+      "id": 137954,
+      "event_category": "Football",
+      "title": "East Bengal vs Wuhan Jiangda Women (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137954_5744_EBFC_WJ-W_fc-web_1763103330300.jpg",
+      "team_1": "East Bengal",
+      "team_2": "Wuhan Jiangda Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "East Bengal vs Wuhan Jiangda Women",
+      "startTime": "12:30:00 PM 20-11-2025"
     },
     {
       "id": 138297,
