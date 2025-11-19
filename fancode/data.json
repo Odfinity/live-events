@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 19-11-2025",
+  "last update time": "04:01 PM 19-11-2025",
   "matches": [
     {
       "id": 138296,
       "event_category": "Cricket",
-      "title": "Kathmandu Gorkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
+      "title": "Sudurpaschim Royals vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
-      "team_1": "Kathmandu Gorkhas",
-      "team_2": "Sudurpaschim Royals",
-      "status": "UPCOMING",
+      "team_1": "Sudurpaschim Royals",
+      "team_2": "Kathmandu Gorkhas",
+      "status": "LIVE",
       "event_name": "Nepal Premier League, 2025",
-      "match_name": "Kathmandu Gorkhas vs Sudurpaschim Royals",
-      "startTime": "03:45:00 PM 19-11-2025"
+      "match_name": "Sudurpaschim Royals vs Kathmandu Gorkhas",
+      "startTime": "03:45:00 PM 19-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138296_english_hls_4099c76e8233550_1adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138296_english_hls_4099c76e8233550_1adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 138238,
@@ -30,20 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c90019_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 137694,
-      "event_category": "Cricket",
-      "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-      "team_1": "West Indies",
-      "team_2": "New Zealand",
-      "status": "LIVE",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "West Indies vs New Zealand",
-      "startTime": "06:30:00 AM 19-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763585148~acl=/*~id=22828516963776451581638365653246~hmac=49118d0d78ba3bc904d9e714e5c576c39a5a6c72add945276f56cef60f5ff6ee"
-    },
-    {
       "id": 138252,
       "event_category": "Cricket",
       "title": "Afghanistan A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
@@ -56,20 +44,6 @@
       "startTime": "03:00:00 PM 19-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763586985~acl=/*~id=93236291781331326409952213506621~hmac=1d400d32f052bb7ea9996ab2e69745feccb416b4d1a66a2dd64e11a3279056f7"
-    },
-    {
-      "id": 137958,
-      "event_category": "Football",
-      "title": "Stallion Laguna vs Lion City Sailors (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137958_5744_SL_LIO_fc-web_1763103330940.jpg",
-      "team_1": "Stallion Laguna",
-      "team_2": "Lion City Sailors",
-      "status": "LIVE",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "Stallion Laguna vs Lion City Sailors",
-      "startTime": "01:30:00 PM 19-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/O0pse3gGSuOZmCI4fXjrlQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137958_english_hls_6e0575adc449777_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138205,
@@ -264,6 +238,18 @@
       "startTime": "05:30:00 PM 19-11-2025"
     },
     {
+      "id": 138208,
+      "event_category": "Cricket",
+      "title": "Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138208_5763_ROC_DG_fc-web.png",
+      "team_1": "Royal Champs",
+      "team_2": "Deccan Gladiators",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Royal Champs vs Deccan Gladiators",
+      "startTime": "05:00:00 PM 20-11-2025"
+    },
+    {
       "id": 138087,
       "event_category": "Cricket",
       "title": "Scotland Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -288,16 +274,16 @@
       "startTime": "12:15:00 PM 20-11-2025"
     },
     {
-      "id": 138208,
+      "id": 138209,
       "event_category": "Cricket",
-      "title": "Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138208_5763_ROC_DG_fc-web.png",
-      "team_1": "Royal Champs",
-      "team_2": "Deccan Gladiators",
+      "title": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
+      "team_1": "UAE Bulls",
+      "team_2": "Vista Riders",
       "status": "UPCOMING",
       "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Royal Champs vs Deccan Gladiators",
-      "startTime": "05:00:00 PM 20-11-2025"
+      "match_name": "UAE Bulls vs Vista Riders",
+      "startTime": "07:15:00 PM 20-11-2025"
     },
     {
       "id": 138297,
@@ -322,18 +308,6 @@
       "event_name": "AFC Women's Champions League 2025-26",
       "match_name": "East Bengal vs Wuhan Jiangda Women",
       "startTime": "12:30:00 PM 20-11-2025"
-    },
-    {
-      "id": 138209,
-      "event_category": "Cricket",
-      "title": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
-      "team_1": "UAE Bulls",
-      "team_2": "Vista Riders",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "UAE Bulls vs Vista Riders",
-      "startTime": "07:15:00 PM 20-11-2025"
     },
     {
       "id": 138210,
@@ -417,6 +391,18 @@
       "status": "UPCOMING",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Paris Saint-Germain Women vs Bayern Munich Women",
+      "startTime": "01:30:00 AM 21-11-2025"
+    },
+    {
+      "id": 135965,
+      "event_category": "Football",
+      "title": "Peterborough United vs Stockport County (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135965_CASACARDS_APP.png",
+      "team_1": "Peterborough United",
+      "team_2": "Stockport County",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Peterborough United vs Stockport County",
       "startTime": "01:30:00 AM 21-11-2025"
     }
   ]
