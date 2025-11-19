@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:26 PM 19-11-2025",
+  "last update time": "01:55 PM 19-11-2025",
   "matches": [
     {
       "id": "sl1090495305",
@@ -18,7 +18,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495305.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495305.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495305.m3u8",
-      "sus": "hdntl=exp=1763624917~acl=%2f*~id=44484459423404589258129583317290~data=hdntl,2018457,wivsnz,ENG~hmac=1ccd986da66525d6822938fb9a36aad0defdd07661b87c7c6e7be7abc2479939",
+      "sus": "hdntl=exp=1763626561~acl=%2f*~id=05115682021381018877461934445103~data=hdntl,2018457,wivsnz,ENG~hmac=c258d3e3bc457e02efa608b8c6bc6ac1f0ea3ed820d095751164ce54f90a746a",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090495306",
+      "isLive": true,
+      "event": "Asian Tour 2025",
+      "match": "PIF Saudi International - Day 1 - 19 Nov 2025",
+      "Provider": "ASIAN TOUR MEDIA PTE LTD",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763442979064963_asiantour2024_PIF_Saudi_International_day1_18nov_Landscape_thumb.jpg",
+      "genre": "Golf",
+      "language": "en",
+      "venue": "Riyadh Golf Club",
+      "TVchannel": "LIV",
+      "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495306.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495306.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495306.m3u8",
+      "sus": "hdntl=exp=1763626563~acl=%2f*~id=05115682021381018877461934445103~data=hdntl,2022320,DAI16ME-V3,none~hmac=d3ec7529b0a6e747a2a438e27c556e6d1a7ef5cda59a79fecd98738be7198d6a",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
