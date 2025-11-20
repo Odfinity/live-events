@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:13 PM 20-11-2025",
+  "last update time": "03:27 PM 20-11-2025",
   "matches": [
     {
       "id": 138297,
@@ -54,8 +54,8 @@
       "event_name": "ICC Women's Emerging Nations Trophy, 2025",
       "match_name": "Namibia Women vs Tanzania Women",
       "startTime": "11:15:00 AM 20-11-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/Mr8Xtnk5TNe4K2iEBYpcpQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138208,
@@ -322,18 +322,6 @@
       "startTime": "06:30:00 PM 21-11-2025"
     },
     {
-      "id": 118486,
-      "event_category": "Formula 1",
-      "title": "Practice 1 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
-      "team_1": "Practice 1",
-      "team_2": "United States of America",
-      "status": "UPCOMING",
-      "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
-      "match_name": "Practice 1",
-      "startTime": "06:00:00 AM 21-11-2025"
-    },
-    {
       "id": 138213,
       "event_category": "Cricket",
       "title": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
@@ -344,6 +332,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "UAE Bulls vs Royal Champs",
       "startTime": "09:30:00 PM 21-11-2025"
+    },
+    {
+      "id": 118486,
+      "event_category": "Formula 1",
+      "title": "Practice 1 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+      "team_1": "Practice 1",
+      "team_2": "United States of America",
+      "status": "UPCOMING",
+      "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
+      "match_name": "Practice 1",
+      "startTime": "06:00:00 AM 21-11-2025"
     },
     {
       "id": 119136,
@@ -380,6 +380,30 @@
       "event_name": "F1 ACADEMY LAS VEGAS 2025",
       "match_name": "Qualifying Session",
       "startTime": "11:00:00 AM 21-11-2025"
+    },
+    {
+      "id": 138048,
+      "event_category": "Cricket",
+      "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+      "team_1": "Windward Islands Volcanoes",
+      "team_2": "Guyana Harpy Eagles",
+      "status": "UPCOMING",
+      "event_name": "CG United Super50 Cup, 2025",
+      "match_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
+      "startTime": "06:30:00 PM 21-11-2025"
+    },
+    {
+      "id": 138047,
+      "event_category": "Cricket",
+      "title": "Leeward Islands Hurricanes vs Barbados Pride (CG United Super50 Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+      "team_1": "Leeward Islands Hurricanes",
+      "team_2": "Barbados Pride",
+      "status": "UPCOMING",
+      "event_name": "CG United Super50 Cup, 2025",
+      "match_name": "Leeward Islands Hurricanes vs Barbados Pride",
+      "startTime": "06:30:00 PM 21-11-2025"
     }
   ]
 }
