@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:42 AM 20-11-2025",
+  "last update time": "09:21 AM 20-11-2025",
   "matches": [
+    {
+      "id": 138238,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+      "team_1": "Bangladesh",
+      "team_2": "Ireland",
+      "status": "LIVE",
+      "event_name": "Ireland tour of Bangladesh, 2025",
+      "match_name": "Bangladesh vs Ireland",
+      "startTime": "09:00:00 AM 19-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Pj-I2d3aS_eBBxFXv4rUcA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138086,
       "event_category": "Cricket",
@@ -30,18 +44,6 @@
       "startTime": "07:30:00 AM 20-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/Epz4nU-mRfGPEW8v3r4nYA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138073_english_hls_07d50909df94591_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138238,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-      "team_1": "Bangladesh",
-      "team_2": "Ireland",
-      "status": "PAUSED",
-      "event_name": "Ireland tour of Bangladesh, 2025",
-      "match_name": "Bangladesh vs Ireland",
-      "startTime": "09:00:00 AM 19-11-2025"
     },
     {
       "id": 138208,
@@ -188,18 +190,6 @@
       "startTime": "04:30:00 PM 20-11-2025"
     },
     {
-      "id": 135965,
-      "event_category": "Football",
-      "title": "Peterborough United vs Stockport County (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/135965_CASACARDS_APP.png",
-      "team_1": "Peterborough United",
-      "team_2": "Stockport County",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Peterborough United vs Stockport County",
-      "startTime": "01:30:00 AM 21-11-2025"
-    },
-    {
       "id": 138010,
       "event_category": "Cricket",
       "title": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
@@ -210,6 +200,18 @@
       "event_name": "Bahrain tour of Indonesia, 2025",
       "match_name": "Indonesia vs Bahrain",
       "startTime": "07:00:00 AM 21-11-2025"
+    },
+    {
+      "id": 135965,
+      "event_category": "Football",
+      "title": "Peterborough United vs Stockport County (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135965_CASACARDS_APP.png",
+      "team_1": "Peterborough United",
+      "team_2": "Stockport County",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Peterborough United vs Stockport County",
+      "startTime": "01:30:00 AM 21-11-2025"
     },
     {
       "id": 138088,
@@ -260,6 +262,18 @@
       "startTime": "11:15:00 AM 21-11-2025"
     },
     {
+      "id": 138254,
+      "event_category": "Cricket",
+      "title": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Bangladesh A",
+      "team_2": "India A",
+      "status": "UPCOMING",
+      "event_name": "ACC Asia Cup Rising Stars 2025",
+      "match_name": "Bangladesh A vs India A",
+      "startTime": "03:00:00 PM 21-11-2025"
+    },
+    {
       "id": 138271,
       "event_category": "Golf",
       "title": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
@@ -284,16 +298,16 @@
       "startTime": "10:30:00 PM 20-11-2025"
     },
     {
-      "id": 138254,
+      "id": 138211,
       "event_category": "Cricket",
-      "title": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Bangladesh A",
-      "team_2": "India A",
+      "title": "Deccan Gladiators vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web.png",
+      "team_1": "Deccan Gladiators",
+      "team_2": "Quetta Qavalry",
       "status": "UPCOMING",
-      "event_name": "ACC Asia Cup Rising Stars 2025",
-      "match_name": "Bangladesh A vs India A",
-      "startTime": "03:00:00 PM 21-11-2025"
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Deccan Gladiators vs Quetta Qavalry",
+      "startTime": "05:00:00 PM 21-11-2025"
     },
     {
       "id": 118486,
@@ -306,18 +320,6 @@
       "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
       "match_name": "Practice 1",
       "startTime": "06:00:00 AM 21-11-2025"
-    },
-    {
-      "id": 138211,
-      "event_category": "Cricket",
-      "title": "Deccan Gladiators vs Quetta Qavalry (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web.png",
-      "team_1": "Deccan Gladiators",
-      "team_2": "Quetta Qavalry",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Deccan Gladiators vs Quetta Qavalry",
-      "startTime": "05:00:00 PM 21-11-2025"
     },
     {
       "id": 119136,
