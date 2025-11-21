@@ -1,26 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:24 PM 21-11-2025",
+  "last update time": "11:51 PM 21-11-2025",
   "matches": [
-    {
-      "id": "sl1090495622",
-      "isLive": true,
-      "event": "DP World Asia Cup Rising Stars Men's 2025",
-      "match": "Pakistan Shaheens vs Sri Lanka A - Semi-final - 21 Nov 2025 - Audio Only",
-      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763699162817728_ACC25_SHA_vs_SL-A_audio_commentary_stream_Landscape_thumb_re2.jpg",
-      "genre": "Cricket",
-      "language": "en",
-      "venue": "West End Park International Cricket Stadium",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Pakistan Shaheens vs Sri Lanka A,DPWorldAsiaCupRisingStarsMens2025",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495622.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495622.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495622.m3u8",
-      "sus": false,
-      "debug": "||"
-    },
     {
       "id": "sl1090495620",
       "isLive": true,
@@ -36,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495620.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495620.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495620.m3u8",
-      "sus": "hdntl=exp=1763833964~acl=%2f*~id=75865414112655927518319514703356~data=hdntl,2037141,DAI21-criclive,none~hmac=6e1c37268b1deddccaca91a440ea999b5a84ce89120b203506f2fa8f889110db",
+      "sus": "hdntl=exp=1763835625~acl=%2f*~id=82876570750712662043472262973373~data=hdntl,2037141,DAI21-criclive,none~hmac=812bb89b4017ebbeccdf7bd3ed16d2eb7ed27f5b415f0e4f93968292af88fffb",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
