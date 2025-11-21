@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:28 PM 21-11-2025",
+  "last update time": "02:56 PM 21-11-2025",
   "matches": [
+    {
+      "id": "sl1090495619",
+      "isLive": true,
+      "event": "DP World Asia Cup Rising Stars Men's 2025",
+      "match": " Bangladesh A vs India A - Semi-final - 21 Nov 2025 - Audio Only",
+      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763699858691728_ACC25_BAN-A_vs_IND-A_audio_commentary_stream_Landscape_thumb_re2.jpg",
+      "genre": "Cricket",
+      "language": "en",
+      "venue": "Asian Town Cricket Stadium",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs India A,DPWorldAsiaCupRisingStarsMens2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495619.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495619.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495619.m3u8",
+      "sus": false,
+      "debug": "||"
+    },
     {
       "id": "sl1090495608",
       "isLive": true,
@@ -18,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495608.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495608.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495608.m3u8",
-      "sus": "hdntl=exp=1763801775~acl=%2f*~id=54923601937411102273509782864797~data=hdntl,2037140,DAI20-criclive,none~hmac=9201d7fb122061ab0c9f43c27b5d80cb7b72778e1438b6466996e0bb32508456",
+      "sus": "hdntl=exp=1763803336~acl=%2f*~id=19525264677589729347579367090794~data=hdntl,2037140,DAI20-criclive,none~hmac=e9e8d94137b479bfae4603d45b282ce97f63a05929ed683235c36996b9b49c89",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495539.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495539.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495539.m3u8",
-      "sus": "hdntl=exp=1763801786~acl=%2f*~id=54923601937411102273509782864797~data=hdntl,2022320,DAI16ME-V3,none~hmac=a591a5b2775e92f2aa7a3042feef3cacc1b863aa85949e3ee22de77c95fb5496",
+      "sus": "hdntl=exp=1763803345~acl=%2f*~id=19525264677589729347579367090794~data=hdntl,2022320,DAI16ME-V3,none~hmac=57ce1ba59c4f55fb0b16c1b29e700e99dbc3cb201140a9ebdfe06534728e8a4a",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -71,7 +89,7 @@
       "id": "sl1090495598",
       "isLive": false,
       "event": "UEFA Champions League 2025-26",
-      "match": "Upcoming: Man City vs Leverkusen",
+      "match": "Upcoming: Chelsea vs Barcelona",
       "Provider": "N/A",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726692339_UCL25_Chelsea_vs_Barcelona_ddt_promo_landscape_thumb.jpg",
       "genre": "Football",
