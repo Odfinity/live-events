@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:15 PM 21-11-2025",
+  "last update time": "07:26 PM 21-11-2025",
   "matches": [
-    {
-      "id": 138254,
-      "event_category": "Cricket",
-      "title": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN_A-vs-IND_A_old-(1).jpg",
-      "team_1": "Bangladesh A",
-      "team_2": "India A",
-      "status": "LIVE",
-      "event_name": "ACC Asia Cup Rising Stars 2025",
-      "match_name": "Bangladesh A vs India A",
-      "startTime": "03:00:00 PM 21-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763759850~acl=/*~id=82511365334357025015447612795809~hmac=31fc916bf06f11b65f7bb55725e918f70b1767cd06d51a415536b8fa8c89ab6f"
-    },
-    {
-      "id": 138211,
-      "event_category": "Cricket",
-      "title": "Quetta Qavalry vs Deccan Gladiators (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web_1763728589837.png",
-      "team_1": "Quetta Qavalry",
-      "team_2": "Deccan Gladiators",
-      "status": "LIVE",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Quetta Qavalry vs Deccan Gladiators",
-      "startTime": "05:00:00 PM 21-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/2IiQdKmBR1CvstTjpHYSPg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138211_english_hls_8f1e598c7796532_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138298,
       "event_category": "Cricket",
@@ -116,6 +88,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138273_english_hls_1a2480429095864_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 138254,
+      "event_category": "Cricket",
+      "title": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN_A-vs-IND_A_old-(1).jpg",
+      "team_1": "Bangladesh A",
+      "team_2": "India A",
+      "status": "LIVE",
+      "event_name": "ACC Asia Cup Rising Stars 2025",
+      "match_name": "Bangladesh A vs India A",
+      "startTime": "03:00:00 PM 21-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763759850~acl=/*~id=82511365334357025015447612795809~hmac=31fc916bf06f11b65f7bb55725e918f70b1767cd06d51a415536b8fa8c89ab6f"
+    },
+    {
       "id": 138255,
       "event_category": "Cricket",
       "title": "Pakistan Shaheens vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
@@ -164,6 +150,18 @@
       "startTime": "06:30:00 AM 22-11-2025"
     },
     {
+      "id": 138214,
+      "event_category": "Cricket",
+      "title": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web_1763728589853.png",
+      "team_1": "Aspin Stallions",
+      "team_2": "Vista Riders",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Aspin Stallions vs Vista Riders",
+      "startTime": "05:00:00 PM 22-11-2025"
+    },
+    {
       "id": 138429,
       "event_category": "Football",
       "title": "Al-Ahli Saudi FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
@@ -174,6 +172,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ahli Saudi FC vs Al-Qadsiah FC",
       "startTime": "11:00:00 PM 21-11-2025"
+    },
+    {
+      "id": 134026,
+      "event_category": "Cricket",
+      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "Tasmania",
+      "status": "UPCOMING",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Tasmania",
+      "startTime": "05:00:00 AM 22-11-2025"
     },
     {
       "id": 130957,
@@ -198,30 +208,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Preston North End F.C. vs Blackburn Rovers F.C.",
       "startTime": "01:30:00 AM 22-11-2025"
-    },
-    {
-      "id": 134026,
-      "event_category": "Cricket",
-      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Tasmania",
-      "status": "UPCOMING",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Tasmania",
-      "startTime": "05:00:00 AM 22-11-2025"
-    },
-    {
-      "id": 138214,
-      "event_category": "Cricket",
-      "title": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web_1763728589853.png",
-      "team_1": "Aspin Stallions",
-      "team_2": "Vista Riders",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Aspin Stallions vs Vista Riders",
-      "startTime": "05:00:00 PM 22-11-2025"
     },
     {
       "id": 134028,
@@ -437,6 +423,18 @@
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
       "match_name": "CA Osasuna vs Real Sociedad",
+      "startTime": "11:00:00 PM 22-11-2025"
+    },
+    {
+      "id": 138065,
+      "event_category": "Football",
+      "title": "Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138065_CASACARDS_APP.png",
+      "team_1": "Eibar",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Eibar vs Real Zaragoza",
       "startTime": "11:00:00 PM 22-11-2025"
     }
   ]
