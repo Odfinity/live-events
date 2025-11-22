@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:43 PM 22-11-2025",
+  "last update time": "08:01 PM 22-11-2025",
   "matches": [
+    {
+      "id": "sl1090495569",
+      "isLive": true,
+      "event": "Bundesliga 2025-26",
+      "match": "Heidenheim vs Borussia M'gladbach - MD 11 - 22 Nov 2025",
+      "Provider": "DFL Deutsche Fubball Liga e.V.",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256089196796_Bundesliga_MD11_Heidenheim_vs_BorussiaMgladbach_Landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Voith-Arena",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Heidenheim vs Borussia M'gladbach,Bundesliga202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495569.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495569.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495569.m3u8",
+      "sus": "hdntl=exp=1763908090~acl=%2f*~id=90719239145917902895113172206650~data=hdntl,2094589,DAI05ME-V3,none~hmac=b46a24e8df95c514c135047a5290bf0577ac79afa876bcbfa85ba28fe6a0f570",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090495572",
       "isLive": true,
@@ -18,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495572.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495572.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495572.m3u8",
-      "sus": "hdntl=exp=1763907014~acl=%2f*~id=46986092209382096670548143339536~data=hdntl,2022315,DAI11ME-V3,none~hmac=2c48a31872cb84ad37beb04fa282dc38772935a19ed58b3ba46690e0ea99678b",
+      "sus": "hdntl=exp=1763908098~acl=%2f*~id=90719239145917902895113172206650~data=hdntl,2022315,DAI11ME-V3,none~hmac=075127b37019ee8ddefaaa63b60b33696b69e95b78ab8faf5ed8977518def791",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,43 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495568.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495568.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495568.m3u8",
-      "sus": "hdntl=exp=1763907025~acl=%2f*~id=46986092209382096670548143339536~data=hdntl,2094588,DAI04ME-V3,none~hmac=09c5cc9fa9de158c4a85cad6459e14bac28b9177b58a2fa2665d48c6a5f0ecfa",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090495569",
-      "isLive": true,
-      "event": "Bundesliga 2025-26",
-      "match": "Heidenheim vs Borussia M'gladbach - MD 11 - 22 Nov 2025",
-      "Provider": "DFL Deutsche Fubball Liga e.V.",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256089196796_Bundesliga_MD11_Heidenheim_vs_BorussiaMgladbach_Landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Voith-Arena",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Heidenheim vs Borussia M'gladbach,Bundesliga202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495569.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495569.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495569.m3u8",
-      "sus": "hdntl=exp=1763907034~acl=%2f*~id=46986092209382096670548143339536~data=hdntl,2094589,DAI05ME-V3,none~hmac=fab2dff4e9a1096c72377afd71e1689c282986ea21a4f6744278dc7dcdfbcaee",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090495570",
-      "isLive": true,
-      "event": "Bundesliga 2025-26",
-      "match": "Bayern Munich vs SC Freiburg - MD 11 - 22 Nov 2025",
-      "Provider": "DFL Deutsche Fubball Liga e.V.",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256137196696_Bundesliga_MD11_BayernMunich_vs_SC_Freiburg_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Allianz Arena",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bayern Munich vs SC Freiburg,Bundesliga202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495570.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495570.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495570.m3u8",
-      "sus": "hdntl=exp=1763907049~acl=%2f*~id=46986092209382096670548143339536~data=hdntl,2105079,DAI08ME-V3,none~hmac=1452e21d13e1ea043bdf7d871502e5879eb410f11945cbcf9567f6717d7c358a",
+      "sus": "hdntl=exp=1763908108~acl=%2f*~id=90719239145917902895113172206650~data=hdntl,2094588,DAI04ME-V3,none~hmac=50ef6f5d94b857df9246c367bbe15861ad3cb01f884731345ee3943a88305103",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495571.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495571.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495571.m3u8",
-      "sus": "hdntl=exp=1763907058~acl=%2f*~id=46986092209382096670548143339536~data=hdntl,2018457,DAI09ME-V3,none~hmac=cbdd02a956419842e893024d3d06a53c2dd543384f6289e7b9f20a281c47c195",
+      "sus": "hdntl=exp=1763908117~acl=%2f*~id=90719239145917902895113172206650~data=hdntl,2018457,DAI09ME-V3,none~hmac=21eb5954c1a4c90139a78083e690af4ba1dd6ef9a100ccd41dced08caf3e513f",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -108,7 +90,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495575.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495575.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495575.m3u8",
-      "sus": false,
+      "sus": "hdntl=exp=1763908127~acl=%2f*~id=90719239145917902895113172206650~data=hdntl,2022317,DAI13ME-V3,none~hmac=2b298175e09d4a5754318f8d9d692a57e8422b781dbec7768a19febf57b58d5c",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090495570",
+      "isLive": true,
+      "event": "Bundesliga 2025-26",
+      "match": "Bayern Munich vs SC Freiburg - MD 11 - 22 Nov 2025",
+      "Provider": "DFL Deutsche Fubball Liga e.V.",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256137196696_Bundesliga_MD11_BayernMunich_vs_SC_Freiburg_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Allianz Arena",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bayern Munich vs SC Freiburg,Bundesliga202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495570.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495570.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495570.m3u8",
+      "sus": "hdntl=exp=1763908137~acl=%2f*~id=90719239145917902895113172206650~data=hdntl,2105079,DAI08ME-V3,none~hmac=c41b6d207c3190a571997fe259661707fa279eaa50dbcd81f77df373f34d31d0",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
