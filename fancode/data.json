@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:29 PM 22-11-2025",
+  "last update time": "07:55 PM 22-11-2025",
   "matches": [
     {
       "id": 138215,
@@ -58,20 +58,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130959_english_hls_8be2be9d7b94454_1adfreeta-di_h264/index.m3u8"
     },
     {
-      "id": 138300,
-      "event_category": "Cricket",
-      "title": "Kathmandu Gorkhas vs Biratnagar Kings (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Biratnagar_Kings_left_Old_match-card_02.jpg",
-      "team_1": "Kathmandu Gorkhas",
-      "team_2": "Biratnagar Kings",
-      "status": "LIVE",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Kathmandu Gorkhas vs Biratnagar Kings",
-      "startTime": "03:15:00 PM 22-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138300_english_hls_c2e4781ce661512_1adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138300_english_hls_c2e4781ce661512_1adfreeta-di_h264/index.m3u8"
-    },
-    {
       "id": 138238,
       "event_category": "Cricket",
       "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
@@ -108,18 +94,6 @@
       "startTime": "08:10:00 PM 22-11-2025"
     },
     {
-      "id": 134028,
-      "event_category": "Cricket",
-      "title": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
-      "team_1": "South Australia",
-      "team_2": "Western Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Western Australia",
-      "startTime": "09:30:00 AM 22-11-2025"
-    },
-    {
       "id": 136964,
       "event_category": "Football",
       "title": "Birmingham City F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
@@ -130,6 +104,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Birmingham City F.C. vs Norwich City F.C.",
       "startTime": "08:30:00 PM 22-11-2025"
+    },
+    {
+      "id": 134028,
+      "event_category": "Cricket",
+      "title": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
+      "team_1": "South Australia",
+      "team_2": "Western Australia",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Western Australia",
+      "startTime": "09:30:00 AM 22-11-2025"
     },
     {
       "id": 138217,
@@ -192,30 +178,6 @@
       "startTime": "08:00:00 AM 23-11-2025"
     },
     {
-      "id": 134026,
-      "event_category": "Cricket",
-      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Tasmania",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Tasmania",
-      "startTime": "05:00:00 AM 22-11-2025"
-    },
-    {
-      "id": 134027,
-      "event_category": "Cricket",
-      "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
-      "team_1": "Victoria",
-      "team_2": "Queensland",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Victoria vs Queensland",
-      "startTime": "09:30:00 AM 22-11-2025"
-    },
-    {
       "id": 138091,
       "event_category": "Cricket",
       "title": "Thailand Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -252,16 +214,28 @@
       "startTime": "07:15:00 PM 23-11-2025"
     },
     {
-      "id": 138065,
-      "event_category": "Football",
-      "title": "Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Real-Zaragoza_Old.jpg",
-      "team_1": "Eibar",
-      "team_2": "Real Zaragoza",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Eibar vs Real Zaragoza",
-      "startTime": "11:00:00 PM 22-11-2025"
+      "id": 134026,
+      "event_category": "Cricket",
+      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "Tasmania",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Tasmania",
+      "startTime": "05:00:00 AM 22-11-2025"
+    },
+    {
+      "id": 134027,
+      "event_category": "Cricket",
+      "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
+      "team_1": "Victoria",
+      "team_2": "Queensland",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Victoria vs Queensland",
+      "startTime": "09:30:00 AM 22-11-2025"
     },
     {
       "id": 138256,
@@ -274,6 +248,18 @@
       "event_name": "ACC Asia Cup Rising Stars 2025",
       "match_name": "Bangladesh A vs Pakistan Shaheens",
       "startTime": "08:00:00 PM 23-11-2025"
+    },
+    {
+      "id": 138065,
+      "event_category": "Football",
+      "title": "Eibar vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Real-Zaragoza_Old.jpg",
+      "team_1": "Eibar",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Eibar vs Real Zaragoza",
+      "startTime": "11:00:00 PM 22-11-2025"
     },
     {
       "id": 138411,
@@ -432,18 +418,6 @@
       "startTime": "05:50:00 AM 23-11-2025"
     },
     {
-      "id": 118490,
-      "event_category": "Formula 1",
-      "title": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
-      "team_1": "Race",
-      "team_2": "United States of America",
-      "status": "UPCOMING",
-      "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
-      "match_name": "Race",
-      "startTime": "09:30:00 AM 23-11-2025"
-    },
-    {
       "id": 130956,
       "event_category": "Football",
       "title": "Getafe CF vs Atletico de Madrid (LALIGA 2025-26)",
@@ -454,6 +428,30 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Getafe CF vs Atletico de Madrid",
       "startTime": "11:00:00 PM 23-11-2025"
+    },
+    {
+      "id": 138431,
+      "event_category": "Football",
+      "title": "Al-Nassr FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Al-Nassr FC",
+      "team_2": "Al-Khaleej",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Nassr FC vs Al-Khaleej",
+      "startTime": "11:00:00 PM 23-11-2025"
+    },
+    {
+      "id": 118490,
+      "event_category": "Formula 1",
+      "title": "Race vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+      "team_1": "Race",
+      "team_2": "United States of America",
+      "status": "UPCOMING",
+      "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
+      "match_name": "Race",
+      "startTime": "09:30:00 AM 23-11-2025"
     }
   ]
 }
