@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:29 PM 22-11-2025",
+  "last update time": "06:19 PM 22-11-2025",
   "matches": [
     {
       "id": 138214,
@@ -30,6 +30,34 @@
       "startTime": "03:15:00 PM 22-11-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138300_english_hls_c2e4781ce661512_1adfreeta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138300_english_hls_c2e4781ce661512_1adfreeta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136965,
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136965_5489_CVC_WBA_fc-web.jpg",
+      "team_1": "Coventry City Football Club",
+      "team_2": "West Bromwich Albion F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs West Bromwich Albion F.C.",
+      "startTime": "06:00:00 PM 22-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fibSScr_T5GHHIy0tV7G3w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136965_english_hls_45f234277265374_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130959,
+      "event_category": "Football",
+      "title": "Deportivo Alaves vs RC Celta (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130959_5427_ALA_CEV_fc-web.jpg",
+      "team_1": "Deportivo Alaves",
+      "team_2": "RC Celta",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Deportivo Alaves vs RC Celta",
+      "startTime": "06:30:00 PM 22-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130959_english_hls_8be2be9d7b94454_1adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130959_english_hls_8be2be9d7b94454_1adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 138238,
@@ -68,18 +96,6 @@
       "startTime": "09:30:00 PM 22-11-2025"
     },
     {
-      "id": 136965,
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136965_5489_CVC_WBA_fc-web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "West Bromwich Albion F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs West Bromwich Albion F.C.",
-      "startTime": "06:00:00 PM 22-11-2025"
-    },
-    {
       "id": 134028,
       "event_category": "Cricket",
       "title": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
@@ -90,18 +106,6 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "South Australia vs Western Australia",
       "startTime": "09:30:00 AM 22-11-2025"
-    },
-    {
-      "id": 130959,
-      "event_category": "Football",
-      "title": "Deportivo Alaves vs RC Celta (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130959_5427_ALA_CEV_fc-web.jpg",
-      "team_1": "Deportivo Alaves",
-      "team_2": "RC Celta",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Deportivo Alaves vs RC Celta",
-      "startTime": "06:30:00 PM 22-11-2025"
     },
     {
       "id": 138430,
@@ -188,18 +192,6 @@
       "startTime": "08:00:00 AM 23-11-2025"
     },
     {
-      "id": 134026,
-      "event_category": "Cricket",
-      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Tasmania",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Tasmania",
-      "startTime": "05:00:00 AM 22-11-2025"
-    },
-    {
       "id": 138217,
       "event_category": "Cricket",
       "title": "Ajman Titans vs Royal Champs (Abu Dhabi T10, 2025)",
@@ -210,6 +202,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Ajman Titans vs Royal Champs",
       "startTime": "05:00:00 PM 23-11-2025"
+    },
+    {
+      "id": 134026,
+      "event_category": "Cricket",
+      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "Tasmania",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Tasmania",
+      "startTime": "05:00:00 AM 22-11-2025"
     },
     {
       "id": 134027,
@@ -272,18 +276,6 @@
       "startTime": "07:15:00 PM 23-11-2025"
     },
     {
-      "id": 138411,
-      "event_category": "Hockey",
-      "title": "India vs Korea (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138411_5777_IND_KOR_fc-Web.jpg",
-      "team_1": "India",
-      "team_2": "Korea",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "India vs Korea",
-      "startTime": "01:30:00 PM 23-11-2025"
-    },
-    {
       "id": 138256,
       "event_category": "Cricket",
       "title": "Bangladesh A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)",
@@ -294,6 +286,18 @@
       "event_name": "ACC Asia Cup Rising Stars 2025",
       "match_name": "Bangladesh A vs Pakistan Shaheens",
       "startTime": "08:00:00 PM 23-11-2025"
+    },
+    {
+      "id": 138411,
+      "event_category": "Hockey",
+      "title": "India vs Korea (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138411_5777_IND_KOR_fc-Web.jpg",
+      "team_1": "India",
+      "team_2": "Korea",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "India vs Korea",
+      "startTime": "01:30:00 PM 23-11-2025"
     },
     {
       "id": 137960,
@@ -392,16 +396,16 @@
       "startTime": "11:30:00 PM 22-11-2025"
     },
     {
-      "id": 119139,
-      "event_category": "Motorsports",
-      "title": "Second Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-      "team_1": "Second Race",
-      "team_2": "Las Vegas",
+      "id": 130950,
+      "event_category": "Football",
+      "title": "Real Betis vs Girona FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130950_5427_RB_GIR_fc-Web.jpg",
+      "team_1": "Real Betis",
+      "team_2": "Girona FC",
       "status": "UPCOMING",
-      "event_name": "F1 ACADEMY LAS VEGAS 2025",
-      "match_name": "Second Race",
-      "startTime": "05:50:00 AM 23-11-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Betis vs Girona FC",
+      "startTime": "08:45:00 PM 23-11-2025"
     },
     {
       "id": 138051,
@@ -428,16 +432,16 @@
       "startTime": "06:30:00 PM 23-11-2025"
     },
     {
-      "id": 130950,
-      "event_category": "Football",
-      "title": "Real Betis vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130950_5427_RB_GIR_fc-Web.jpg",
-      "team_1": "Real Betis",
-      "team_2": "Girona FC",
+      "id": 119139,
+      "event_category": "Motorsports",
+      "title": "Second Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+      "team_1": "Second Race",
+      "team_2": "Las Vegas",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Betis vs Girona FC",
-      "startTime": "08:45:00 PM 23-11-2025"
+      "event_name": "F1 ACADEMY LAS VEGAS 2025",
+      "match_name": "Second Race",
+      "startTime": "05:50:00 AM 23-11-2025"
     },
     {
       "id": 118490,
