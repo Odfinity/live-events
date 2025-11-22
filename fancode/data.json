@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:50 PM 22-11-2025",
+  "last update time": "01:08 PM 22-11-2025",
   "matches": [
     {
       "id": 138238,
@@ -18,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c3566_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 134026,
+      "id": 138299,
       "event_category": "Cricket",
-      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Tasmania",
+      "title": "Lumbini Lions vs Karnali Yaks (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
+      "team_1": "Lumbini Lions",
+      "team_2": "Karnali Yaks",
       "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Tasmania",
-      "startTime": "05:00:00 AM 22-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yp96_S0hSuahQ6whNaq2bg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e78939_1ta-di_h264/index.m3u8"
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Lumbini Lions vs Karnali Yaks",
+      "startTime": "11:00:00 AM 22-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 134028,
@@ -58,20 +58,6 @@
       "startTime": "09:30:00 AM 22-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/mWPTKITnRlusb7RJxUvPxQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f224160_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138299,
-      "event_category": "Cricket",
-      "title": "Lumbini Lions vs Karnali Yaks (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
-      "team_1": "Lumbini Lions",
-      "team_2": "Karnali Yaks",
-      "status": "LIVE",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Lumbini Lions vs Karnali Yaks",
-      "startTime": "11:00:00 AM 22-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8"
     },
     {
       "id": 137695,
@@ -122,6 +108,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Quetta Qavalry vs UAE Bulls",
       "startTime": "09:30:00 PM 22-11-2025"
+    },
+    {
+      "id": 134026,
+      "event_category": "Cricket",
+      "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "Tasmania",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Tasmania",
+      "startTime": "05:00:00 AM 22-11-2025"
     },
     {
       "id": 138300,
@@ -328,18 +326,6 @@
       "startTime": "11:30:00 PM 22-11-2025"
     },
     {
-      "id": 138412,
-      "event_category": "Hockey",
-      "title": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Malaysia",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "New Zealand vs Malaysia",
-      "startTime": "03:30:00 PM 23-11-2025"
-    },
-    {
       "id": 138218,
       "event_category": "Cricket",
       "title": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
@@ -350,6 +336,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Quetta Qavalry vs Aspin Stallions",
       "startTime": "07:15:00 PM 23-11-2025"
+    },
+    {
+      "id": 138412,
+      "event_category": "Hockey",
+      "title": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Malaysia",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "New Zealand vs Malaysia",
+      "startTime": "03:30:00 PM 23-11-2025"
     },
     {
       "id": 119139,
