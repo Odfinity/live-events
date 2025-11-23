@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:57 PM 23-11-2025",
+  "last update time": "10:15 PM 23-11-2025",
   "matches": [
     {
       "id": 138256,
@@ -46,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130950_english_hls_984cddd6ad72101_1adfreeta-di_h264/index.m3u8"
     },
     {
+      "id": 130956,
+      "event_category": "Football",
+      "title": "Getafe CF vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130956_5427_GEF_ATL_fc-Web.jpg",
+      "team_1": "Getafe CF",
+      "team_2": "Atletico de Madrid",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Getafe CF vs Atletico de Madrid",
+      "startTime": "11:00:00 PM 23-11-2025",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
       "id": 138051,
       "event_category": "Cricket",
       "title": "Leeward Islands Hurricanes vs Jamaica Scorpions (CG United Super50 Cup, 2025)",
@@ -72,20 +86,6 @@
       "startTime": "06:30:00 PM 23-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/keSgiSSwSfydov4wMwLUdg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138050_english_hls_7faa5a746270788_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 130956,
-      "event_category": "Football",
-      "title": "Getafe CF vs Atletico de Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130956_5427_GEF_ATL_fc-Web.jpg",
-      "team_1": "Getafe CF",
-      "team_2": "Atletico de Madrid",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs Atletico de Madrid",
-      "startTime": "11:00:00 PM 23-11-2025",
-      "dai_url": null,
-      "adfree_url": null
     },
     {
       "id": 138431,
@@ -256,18 +256,6 @@
       "startTime": "12:00:00 PM 24-11-2025"
     },
     {
-      "id": 138416,
-      "event_category": "Hockey",
-      "title": "Malaysia vs Canada (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138416_5777_ML_CAN_fc-Web.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Canada",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Malaysia vs Canada",
-      "startTime": "05:30:00 PM 24-11-2025"
-    },
-    {
       "id": 136067,
       "event_category": "Football",
       "title": "Nasaf vs Tractor (AFC Champions League Elite 2025-26)",
@@ -278,6 +266,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Nasaf vs Tractor",
       "startTime": "07:15:00 PM 24-11-2025"
+    },
+    {
+      "id": 138416,
+      "event_category": "Hockey",
+      "title": "Malaysia vs Canada (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138416_5777_ML_CAN_fc-Web.jpg",
+      "team_1": "Malaysia",
+      "team_2": "Canada",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "Malaysia vs Canada",
+      "startTime": "05:30:00 PM 24-11-2025"
     },
     {
       "id": 136069,
