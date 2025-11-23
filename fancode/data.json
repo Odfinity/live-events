@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:22 AM 23-11-2025",
+  "last update time": "10:53 AM 23-11-2025",
   "matches": [
     {
       "id": 118490,
@@ -58,20 +58,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138078_english_hls_1ee260122020976_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138077,
-      "event_category": "Cricket",
-      "title": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
-      "team_1": "Tanzania Women",
-      "team_2": "Netherlands Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_name": "Tanzania Women vs Netherlands Women",
-      "startTime": "08:00:00 AM 23-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/jJ22QUC-TwiKTJefjKngwA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138077_english_hls_a0bb434d1a35506_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 134026,
       "event_category": "Cricket",
       "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
@@ -112,6 +98,20 @@
       "startTime": "09:30:00 AM 22-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/w7HWTyzRTCObi6B4tGrZIA/master.m3u8",
       "adfree_url": null
+    },
+    {
+      "id": 138077,
+      "event_category": "Cricket",
+      "title": "Tanzania Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138077_5758_TANW_ND-W_FC-Web.jpg",
+      "team_1": "Tanzania Women",
+      "team_2": "Netherlands Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "Tanzania Women vs Netherlands Women",
+      "startTime": "08:00:00 AM 23-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/jJ22QUC-TwiKTJefjKngwA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138077_english_hls_a0bb434d1a35506_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138217,
@@ -258,18 +258,6 @@
       "startTime": "03:30:00 PM 23-11-2025"
     },
     {
-      "id": 138413,
-      "event_category": "Hockey",
-      "title": "Belgium vs Canada (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
-      "team_1": "Belgium",
-      "team_2": "Canada",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Belgium vs Canada",
-      "startTime": "05:30:00 PM 23-11-2025"
-    },
-    {
       "id": 130951,
       "event_category": "Football",
       "title": "Elche CF vs Real Madrid (LALIGA 2025-26)",
@@ -280,6 +268,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Elche CF vs Real Madrid",
       "startTime": "01:30:00 AM 24-11-2025"
+    },
+    {
+      "id": 138413,
+      "event_category": "Hockey",
+      "title": "Belgium vs Canada (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138413_5777_BEL_CAN_fc-Web.jpg",
+      "team_1": "Belgium",
+      "team_2": "Canada",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "Belgium vs Canada",
+      "startTime": "05:30:00 PM 23-11-2025"
     },
     {
       "id": 137960,
