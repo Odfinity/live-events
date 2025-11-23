@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:21 PM 23-11-2025",
+  "last update time": "09:57 PM 23-11-2025",
   "matches": [
-    {
-      "id": 138411,
-      "event_category": "Hockey",
-      "title": "India vs Korea (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138411_5777_IND_KOR_fc-Web.jpg",
-      "team_1": "India",
-      "team_2": "Korea",
-      "status": "LIVE",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "India vs Korea",
-      "startTime": "07:45:00 PM 23-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/blqcc3azSFit3FlqOSVIjg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138411_english_hls_41f600ec1663678_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138218,
-      "event_category": "Cricket",
-      "title": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
-      "team_1": "Quetta Qavalry",
-      "team_2": "Aspin Stallions",
-      "status": "LIVE",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Quetta Qavalry vs Aspin Stallions",
-      "startTime": "07:15:00 PM 23-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/E5lmLY_lTzi5YoXtsbJeRw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138218_english_hls_de7f73c3dd50667_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138256,
       "event_category": "Cricket",
@@ -44,6 +16,20 @@
       "startTime": "08:00:00 PM 23-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763950962~acl=/*~id=79639434398328239420374342691069~hmac=5670fe539df3f73dfee23f41e50269772b6b8dcd9db3897351db765f55c6be68"
+    },
+    {
+      "id": 138219,
+      "event_category": "Cricket",
+      "title": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
+      "team_1": "Northern Warriors",
+      "team_2": "Vista Riders",
+      "status": "LIVE",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Northern Warriors vs Vista Riders",
+      "startTime": "09:30:00 PM 23-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/M_yfIt_MSSmrFpphqM9_OA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138219_english_hls_e2e074d4c631795_1ta-di_h264/index.m3u8"
     },
     {
       "id": 130950,
@@ -100,18 +86,6 @@
       "startTime": "11:00:00 PM 23-11-2025",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 138219,
-      "event_category": "Cricket",
-      "title": "Northern Warriors vs Vista Riders (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138219_5763_NW_VTR_fc-web_1763728589858.png",
-      "team_1": "Northern Warriors",
-      "team_2": "Vista Riders",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Northern Warriors vs Vista Riders",
-      "startTime": "09:30:00 PM 23-11-2025"
     },
     {
       "id": 138431,
@@ -198,6 +172,18 @@
       "startTime": "03:45:00 PM 24-11-2025"
     },
     {
+      "id": 138414,
+      "event_category": "Hockey",
+      "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
+      "team_1": "Korea",
+      "team_2": "New Zealand",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "Korea vs New Zealand",
+      "startTime": "01:30:00 PM 24-11-2025"
+    },
+    {
       "id": 138052,
       "event_category": "Cricket",
       "title": "Trinidad & Tobago Red Force vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
@@ -220,18 +206,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Málaga vs Mirandés",
       "startTime": "01:30:00 AM 24-11-2025"
-    },
-    {
-      "id": 138414,
-      "event_category": "Hockey",
-      "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
-      "team_1": "Korea",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Korea vs New Zealand",
-      "startTime": "01:30:00 PM 24-11-2025"
     },
     {
       "id": 138451,
@@ -258,18 +232,6 @@
       "startTime": "03:30:00 PM 24-11-2025"
     },
     {
-      "id": 138457,
-      "event_category": "Cricket",
-      "title": "Bahrain vs Malaysia A (Mini SEA Games Men's T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138457_5780_BAH_MALA_fc-Web.jpg",
-      "team_1": "Bahrain",
-      "team_2": "Malaysia A",
-      "status": "UPCOMING",
-      "event_name": "Mini SEA Games Men's T20, 2025",
-      "match_name": "Bahrain vs Malaysia A",
-      "startTime": "12:00:00 PM 24-11-2025"
-    },
-    {
       "id": 138039,
       "event_category": "Cricket",
       "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
@@ -280,6 +242,18 @@
       "event_name": "England Under-19 tour of West Indies, 2025",
       "match_name": "West Indies Under-19 vs England Under-19",
       "startTime": "06:30:00 PM 24-11-2025"
+    },
+    {
+      "id": 138457,
+      "event_category": "Cricket",
+      "title": "Bahrain vs Malaysia A (Mini SEA Games Men's T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138457_5780_BAH_MALA_fc-Web.jpg",
+      "team_1": "Bahrain",
+      "team_2": "Malaysia A",
+      "status": "UPCOMING",
+      "event_name": "Mini SEA Games Men's T20, 2025",
+      "match_name": "Bahrain vs Malaysia A",
+      "startTime": "12:00:00 PM 24-11-2025"
     },
     {
       "id": 138416,
