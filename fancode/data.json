@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:51 AM 25-11-2025",
+  "last update time": "01:09 AM 25-11-2025",
   "matches": [
+    {
+      "id": 130952,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Sevilla FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130952_5427_ESL_SEV_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Sevilla FC",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Sevilla FC",
+      "startTime": "01:30:00 AM 25-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130952_english_hls_99ed24276588792_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130952_english_hls_99ed24276588792_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138039,
       "event_category": "Cricket",
@@ -32,16 +46,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136070_english_hls_7d4def0b4728554_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 130952,
+      "id": 138068,
       "event_category": "Football",
-      "title": "RCD Espanyol vs Sevilla FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130952_5427_ESL_SEV_fc-Web.jpg",
-      "team_1": "RCD Espanyol",
-      "team_2": "Sevilla FC",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Sevilla FC",
-      "startTime": "01:30:00 AM 25-11-2025"
+      "title": "Real Sociedad B vs Real Valladolid (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-B_vs_Real-Valladolid_Old.jpg",
+      "team_1": "Real Sociedad B",
+      "team_2": "Real Valladolid",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Sociedad B vs Real Valladolid",
+      "startTime": "01:00:00 AM 25-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/CPFgmfccR0OA7mptIAMlsg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138068_english_hls_f5db01be6165687_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138220,
@@ -54,18 +70,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Vista Riders vs Ajman Titans",
       "startTime": "07:15:00 PM 25-11-2025"
-    },
-    {
-      "id": 138068,
-      "event_category": "Football",
-      "title": "Real Sociedad B vs Real Valladolid (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-B_vs_Real-Valladolid_Old.jpg",
-      "team_1": "Real Sociedad B",
-      "team_2": "Real Valladolid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Sociedad B vs Real Valladolid",
-      "startTime": "01:00:00 AM 25-11-2025"
     },
     {
       "id": 138221,
