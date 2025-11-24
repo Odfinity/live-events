@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:49 AM 24-11-2025",
+  "last update time": "09:12 AM 24-11-2025",
   "matches": [
     {
       "id": 138451,
@@ -32,18 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e49656_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138052,
+      "id": 134028,
       "event_category": "Cricket",
-      "title": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force (CG United Super50 Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-      "team_1": "Guyana Harpy Eagles",
-      "team_2": "Trinidad & Tobago Red Force",
+      "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
+      "team_1": "Western Australia",
+      "team_2": "South Australia",
       "status": "LIVE",
-      "event_name": "CG United Super50 Cup, 2025",
-      "match_name": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force",
-      "startTime": "11:30:00 PM 23-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/yF5lRWVBRdKiCbS04NbL9g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8"
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Western Australia vs South Australia",
+      "startTime": "09:30:00 AM 22-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/YMPX3IHfSjW-qrWFEG2MqQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40634750_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138301,
@@ -142,6 +142,18 @@
       "startTime": "01:30:00 PM 24-11-2025"
     },
     {
+      "id": 136070,
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Sharjah (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136070_5647_AAS_SHJ_fc-Web.jpg",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Sharjah",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al-Ahli Saudi FC vs Sharjah",
+      "startTime": "11:45:00 PM 24-11-2025"
+    },
+    {
       "id": 138415,
       "event_category": "Hockey",
       "title": "Belgium vs India (Sultan Azlan Shah Cup)",
@@ -164,30 +176,6 @@
       "event_name": "Sultan Azlan Shah Cup",
       "match_name": "Malaysia vs Canada",
       "startTime": "05:30:00 PM 24-11-2025"
-    },
-    {
-      "id": 136070,
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Sharjah (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136070_5647_AAS_SHJ_fc-Web.jpg",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al-Ahli Saudi FC vs Sharjah",
-      "startTime": "11:45:00 PM 24-11-2025"
-    },
-    {
-      "id": 134028,
-      "event_category": "Cricket",
-      "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
-      "team_1": "Western Australia",
-      "team_2": "South Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Western Australia vs South Australia",
-      "startTime": "09:30:00 AM 22-11-2025"
     },
     {
       "id": 134027,
@@ -262,18 +250,6 @@
       "startTime": "08:00:00 AM 25-11-2025"
     },
     {
-      "id": 138080,
-      "event_category": "Cricket",
-      "title": "Namibia Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138080_5758_NAM-W_SC-W_FC-Web.jpg",
-      "team_1": "Namibia Women",
-      "team_2": "Scotland Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_name": "Namibia Women vs Scotland Women",
-      "startTime": "11:15:00 AM 25-11-2025"
-    },
-    {
       "id": 138458,
       "event_category": "Cricket",
       "title": "Malaysia A vs Thailand (Mini SEA Games Men's T20, 2025)",
@@ -295,6 +271,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Women's Emerging Nations Trophy, 2025",
       "match_name": "Papua New Guinea Women vs Netherlands Women",
+      "startTime": "12:15:00 PM 25-11-2025"
+    },
+    {
+      "id": 138080,
+      "event_category": "Cricket",
+      "title": "Namibia Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138080_5758_NAM-W_SC-W_FC-Web.jpg",
+      "team_1": "Namibia Women",
+      "team_2": "Scotland Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "Namibia Women vs Scotland Women",
       "startTime": "12:15:00 PM 25-11-2025"
     },
     {
@@ -404,6 +392,18 @@
       "event_name": "CG United Super50 Cup, 2025",
       "match_name": "Leeward Islands Hurricanes vs Guyana Harpy Eagles",
       "startTime": "06:30:00 PM 25-11-2025"
+    },
+    {
+      "id": 136071,
+      "event_category": "Football",
+      "title": "Al Wahda vs Al Sadd (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136071_5647_ALW_SDD_fc-Web.jpg",
+      "team_1": "Al Wahda",
+      "team_2": "Al Sadd",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Wahda vs Al Sadd",
+      "startTime": "09:30:00 PM 25-11-2025"
     }
   ]
 }
