@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:21 AM 25-11-2025",
+  "last update time": "01:57 AM 25-11-2025",
   "matches": [
     {
       "id": 130952,
@@ -16,20 +16,6 @@
       "startTime": "01:30:00 AM 25-11-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130952_english_hls_99ed24276588792_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130952_english_hls_99ed24276588792_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138039,
-      "event_category": "Cricket",
-      "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-      "team_1": "West Indies Under-19",
-      "team_2": "England Under-19",
-      "status": "LIVE",
-      "event_name": "England Under-19 tour of West Indies, 2025",
-      "match_name": "West Indies Under-19 vs England Under-19",
-      "startTime": "06:30:00 PM 24-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/p1XgqC7mSXGI1mj6WDptig/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138039_english_hls_fcb862dcd94142_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136070,
@@ -216,6 +202,18 @@
       "startTime": "07:30:00 AM 25-11-2025"
     },
     {
+      "id": 136022,
+      "event_category": "Football",
+      "title": "Chengdu Rongcheng vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136022_5647_CR_HIR_fc-Web.jpg",
+      "team_1": "Chengdu Rongcheng",
+      "team_2": "Sanfrecce Hiroshima",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Chengdu Rongcheng vs Sanfrecce Hiroshima",
+      "startTime": "05:45:00 PM 25-11-2025"
+    },
+    {
       "id": 134026,
       "event_category": "Cricket",
       "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
@@ -238,18 +236,6 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "Western Australia vs South Australia",
       "startTime": "09:30:00 AM 22-11-2025"
-    },
-    {
-      "id": 136022,
-      "event_category": "Football",
-      "title": "Chengdu Rongcheng vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136022_5647_CR_HIR_fc-Web.jpg",
-      "team_1": "Chengdu Rongcheng",
-      "team_2": "Sanfrecce Hiroshima",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Chengdu Rongcheng vs Sanfrecce Hiroshima",
-      "startTime": "05:45:00 PM 25-11-2025"
     },
     {
       "id": 136071,
@@ -454,6 +440,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Deccan Gladiators vs Ajman Titans",
       "startTime": "07:15:00 PM 26-11-2025"
+    },
+    {
+      "id": 136024,
+      "event_category": "Football",
+      "title": "Shanghai Shenhua vs Vissel Kobe (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136024_5647_SHN_VIS_fc-Web.jpg",
+      "team_1": "Shanghai Shenhua",
+      "team_2": "Vissel Kobe",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Shanghai Shenhua vs Vissel Kobe",
+      "startTime": "05:45:00 PM 26-11-2025"
     }
   ]
 }
