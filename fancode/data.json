@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:52 AM 25-11-2025",
+  "last update time": "09:29 AM 25-11-2025",
   "matches": [
-    {
-      "id": 138415,
-      "event_category": "Hockey",
-      "title": "Belgium vs India (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138415_5777_BEL_IND_fc-Web.jpg",
-      "team_1": "Belgium",
-      "team_2": "India",
-      "status": "LIVE",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Belgium vs India",
-      "startTime": "07:30:00 AM 25-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/XG7KNmuqRQ6u0g-OkrxG8g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138415_english_hls_9fc00b3f8265011_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138453,
       "event_category": "Cricket",
@@ -72,6 +58,20 @@
       "startTime": "05:00:00 AM 22-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/yR2LjWshTXCRb4aumT5DIg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e57501_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 134028,
+      "event_category": "Cricket",
+      "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
+      "team_1": "Western Australia",
+      "team_2": "South Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Western Australia vs South Australia",
+      "startTime": "09:30:00 AM 22-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/zfbBewIvRYKvrH3zqYrhiA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40623957_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138220,
@@ -216,20 +216,6 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Hilal SFC vs Al Shorta",
       "startTime": "11:45:00 PM 25-11-2025"
-    },
-    {
-      "id": 134028,
-      "event_category": "Cricket",
-      "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
-      "team_1": "Western Australia",
-      "team_2": "South Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Western Australia vs South Australia",
-      "startTime": "09:30:00 AM 22-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/zfbBewIvRYKvrH3zqYrhiA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40623957_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136968,
@@ -448,16 +434,16 @@
       "startTime": "06:30:00 PM 26-11-2025"
     },
     {
-      "id": 136172,
-      "event_category": "Football",
-      "title": "Lion City Sailors vs Persib Bandung (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136172_5648_LIO_PER_fc-Web_1758118382709.jpg",
-      "team_1": "Lion City Sailors",
-      "team_2": "Persib Bandung",
+      "id": 138224,
+      "event_category": "Cricket",
+      "title": "Royal Champs vs Aspin Stallions (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138224_5763_ROC_AST_fc-web_1763728589856.png",
+      "team_1": "Royal Champs",
+      "team_2": "Aspin Stallions",
       "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Lion City Sailors vs Persib Bandung",
-      "startTime": "05:45:00 PM 26-11-2025"
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Royal Champs vs Aspin Stallions",
+      "startTime": "09:30:00 PM 26-11-2025"
     }
   ]
 }
