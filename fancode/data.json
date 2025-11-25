@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:01 PM 25-11-2025",
+  "last update time": "09:21 PM 25-11-2025",
   "matches": [
     {
-      "id": 138220,
+      "id": 138221,
       "event_category": "Cricket",
-      "title": "Ajman Titans vs Vista Riders (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138220_5763_VTR_AJT_fc-web_1763728590101.png",
-      "team_1": "Ajman Titans",
-      "team_2": "Vista Riders",
+      "title": "Aspin Stallions vs Deccan Gladiators (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138221_5763_DG_AST_fc-web_1763728589994.png",
+      "team_1": "Aspin Stallions",
+      "team_2": "Deccan Gladiators",
       "status": "LIVE",
       "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Ajman Titans vs Vista Riders",
-      "startTime": "07:15:00 PM 25-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/P7Dq5Z5gSD-Kzop1d0U9KA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138220_english_hls_b54580245232318_1ta-di_h264/index.m3u8"
+      "match_name": "Aspin Stallions vs Deccan Gladiators",
+      "startTime": "09:30:00 PM 25-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/rOZ03ipGQGCEDjkowCVCDg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138221_english_hls_bb744bf30e66235_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136071,
+      "event_category": "Football",
+      "title": "Al Wahda vs Al Sadd (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136071_5647_ALW_SDD_fc-Web.jpg",
+      "team_1": "Al Wahda",
+      "team_2": "Al Sadd",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Wahda vs Al Sadd",
+      "startTime": "09:30:00 PM 25-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/kDO0YvpEQyagmCwTDtuDpw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136071_english_hls_aafcea3fd968463_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138053,
@@ -32,28 +46,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138053_english_hls_0548c220d62142_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138221,
-      "event_category": "Cricket",
-      "title": "Deccan Gladiators vs Aspin Stallions (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138221_5763_DG_AST_fc-web_1763728589994.png",
-      "team_1": "Deccan Gladiators",
-      "team_2": "Aspin Stallions",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Deccan Gladiators vs Aspin Stallions",
-      "startTime": "09:30:00 PM 25-11-2025"
+      "id": 136124,
+      "event_category": "Football",
+      "title": "Sepahan vs Al Hussein (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136124_5648_SEP_HUS_fc-Web_1758118382973.jpg",
+      "team_1": "Sepahan",
+      "team_2": "Al Hussein",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Sepahan vs Al Hussein",
+      "startTime": "09:30:00 PM 25-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Qfm38yxVRTyqVz8jMDM8Tg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136124_english_hls_1270c6cac742673_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 136071,
-      "event_category": "Football",
-      "title": "Al Wahda vs Al Sadd (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136071_5647_ALW_SDD_fc-Web.jpg",
-      "team_1": "Al Wahda",
-      "team_2": "Al Sadd",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al Wahda vs Al Sadd",
-      "startTime": "09:30:00 PM 25-11-2025"
+      "id": 138220,
+      "event_category": "Cricket",
+      "title": "Ajman Titans vs Vista Riders (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138220_5763_VTR_AJT_fc-web_1763728590101.png",
+      "team_1": "Ajman Titans",
+      "team_2": "Vista Riders",
+      "status": "LIVE",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Ajman Titans vs Vista Riders",
+      "startTime": "07:15:00 PM 25-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/P7Dq5Z5gSD-Kzop1d0U9KA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138220_english_hls_b54580245232318_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138222,
@@ -66,18 +84,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "UAE Bulls vs Northern Warriors",
       "startTime": "05:00:00 PM 26-11-2025"
-    },
-    {
-      "id": 136124,
-      "event_category": "Football",
-      "title": "Sepahan vs Al Hussein (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136124_5648_SEP_HUS_fc-Web_1758118382973.jpg",
-      "team_1": "Sepahan",
-      "team_2": "Al Hussein",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Sepahan vs Al Hussein",
-      "startTime": "09:30:00 PM 25-11-2025"
     },
     {
       "id": 136072,
@@ -104,6 +110,18 @@
       "startTime": "01:30:00 AM 26-11-2025"
     },
     {
+      "id": 138223,
+      "event_category": "Cricket",
+      "title": "Deccan Gladiators vs Ajman Titans (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138223_5763_DG_AJT_fc-web_1763728590155.png",
+      "team_1": "Deccan Gladiators",
+      "team_2": "Ajman Titans",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Deccan Gladiators vs Ajman Titans",
+      "startTime": "07:15:00 PM 26-11-2025"
+    },
+    {
       "id": 138095,
       "event_category": "Cricket",
       "title": "Tanzania Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -126,18 +144,6 @@
       "event_name": "ICC Women's Emerging Nations Trophy, 2025",
       "match_name": "Thailand Women vs Uganda Women",
       "startTime": "08:00:00 AM 26-11-2025"
-    },
-    {
-      "id": 138223,
-      "event_category": "Cricket",
-      "title": "Deccan Gladiators vs Ajman Titans (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138223_5763_DG_AJT_fc-web_1763728590155.png",
-      "team_1": "Deccan Gladiators",
-      "team_2": "Ajman Titans",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Deccan Gladiators vs Ajman Titans",
-      "startTime": "07:15:00 PM 26-11-2025"
     },
     {
       "id": 138096,
@@ -176,6 +182,18 @@
       "startTime": "11:30:00 AM 26-11-2025"
     },
     {
+      "id": 138224,
+      "event_category": "Cricket",
+      "title": "Royal Champs vs Aspin Stallions (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138224_5763_ROC_AST_fc-web_1763728589856.png",
+      "team_1": "Royal Champs",
+      "team_2": "Aspin Stallions",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Royal Champs vs Aspin Stallions",
+      "startTime": "09:30:00 PM 26-11-2025"
+    },
+    {
       "id": 138304,
       "event_category": "Cricket",
       "title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League, 2025)",
@@ -198,18 +216,6 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Ulsan HD vs Buriram United",
       "startTime": "03:30:00 PM 26-11-2025"
-    },
-    {
-      "id": 138224,
-      "event_category": "Cricket",
-      "title": "Royal Champs vs Aspin Stallions (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138224_5763_ROC_AST_fc-web_1763728589856.png",
-      "team_1": "Royal Champs",
-      "team_2": "Aspin Stallions",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Royal Champs vs Aspin Stallions",
-      "startTime": "09:30:00 PM 26-11-2025"
     },
     {
       "id": 138055,
