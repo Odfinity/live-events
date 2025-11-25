@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:07 PM 25-11-2025",
+  "last update time": "11:18 PM 25-11-2025",
   "matches": [
     {
       "id": "sl1090495945",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495945.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495945.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495945.m3u8",
-      "sus": false,
+      "sus": "hdntl=exp=1764178960~acl=%2f*~id=78360472668653208540872391178077~data=hdntl,2094588,DAI04ME-V3,none~hmac=611c6d6f33b587d3739b6f9f7d1cc67970d35a1cb035bb28ee8a3f285d1d8c0d",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495944.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495944.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495944.m3u8",
-      "sus": "hdntl=exp=1764178463~acl=%2f*~id=49241465869570518656608991820956~data=hdntl,2037141,DAI21ME-V3,none~hmac=c5ef909898539f4d5de309b6c862bda8da74787c395144b543684eb6585d8a16",
+      "sus": "hdntl=exp=1764178969~acl=%2f*~id=78360472668653208540872391178077~data=hdntl,2037141,DAI21ME-V3,none~hmac=007411ce80184852994d61baf6af53de5107eb895a8ead116332996727888831",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,43 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495848.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495848.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495848.m3u8",
-      "sus": "hdntl=exp=1764178473~acl=%2f*~id=49241465869570518656608991820956~data=hdntl,2094589,DAI05ME-V3,none~hmac=3a6fad3463326620194fe2b188157ef0ff15ad9619b1991dd3752ff9a0979ff6",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090495850",
-      "isLive": true,
-      "event": "UEFA Champions League 2025-26",
-      "match": "Galatasaray vs Union SG - MD 5 - 25 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011308/1763083679840145_UCL2526_MD5_Galatasaray_vs_UnionSG_14nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Rams Park, Istanbul",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Galatasaray vs Union SG,UEFAChampionsLeague202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495850.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495850.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495850.m3u8",
-      "sus": "hdntl=exp=1764178482~acl=%2f*~id=49241465869570518656608991820956~data=hdntl,2018458,DAI10ME-V3,none~hmac=20d4f5a45e752711e8c5ab625e1ec5ee9b836abe64c28ea279308934c0b7572b",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090495846",
-      "isLive": true,
-      "event": "UEFA Champions League 2025-26",
-      "match": "Ajax vs Benfica - MD 5 - 25 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011308/1763084028057145_UCL2526_MD5_Ajax_vs_Benfica_14nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Johan Cruijff ArenA",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Ajax vs Benfica,UEFAChampionsLeague202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495846.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495846.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495846.m3u8",
-      "sus": "hdntl=exp=1764178492~acl=%2f*~id=49241465869570518656608991820956~data=hdntl,2105079,DAI08ME-V3,none~hmac=ea57103a39cd7e294484488a5d2dd7131365c311ca770473fe73b6f6f9863ee3",
+      "sus": "hdntl=exp=1764178979~acl=%2f*~id=78360472668653208540872391178077~data=hdntl,2094589,DAI05ME-V3,none~hmac=df57b7c796db4ad167e154a14536d3e43883855912f5143d7f99ce82b5594beb",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -108,7 +72,43 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495943.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495943.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495943.m3u8",
-      "sus": false,
+      "sus": "hdntl=exp=1764178990~acl=%2f*~id=78360472668653208540872391178077~data=hdntl,2022319,DAI15ME-V3,none~hmac=8c136c5d88aefbfbf4eefda3d3eeaf45611f4ae91e682f0506aa6574326d4fbb",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090495846",
+      "isLive": true,
+      "event": "UEFA Champions League 2025-26",
+      "match": "Ajax vs Benfica - MD 5 - 25 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011308/1763084028057145_UCL2526_MD5_Ajax_vs_Benfica_14nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Johan Cruijff ArenA",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Ajax vs Benfica,UEFAChampionsLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495846.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495846.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495846.m3u8",
+      "sus": "hdntl=exp=1764179001~acl=%2f*~id=78360472668653208540872391178077~data=hdntl,2105079,DAI08ME-V3,none~hmac=5b4b1d465d4ccd3a3575e5f4eae84c943378102f3a7cd1f49e8804c96a9edcda",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090495850",
+      "isLive": true,
+      "event": "UEFA Champions League 2025-26",
+      "match": "Galatasaray vs Union SG - MD 5 - 25 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011308/1763083679840145_UCL2526_MD5_Galatasaray_vs_UnionSG_14nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Rams Park, Istanbul",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Galatasaray vs Union SG,UEFAChampionsLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495850.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495850.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495850.m3u8",
+      "sus": "hdntl=exp=1764179011~acl=%2f*~id=78360472668653208540872391178077~data=hdntl,2018458,DAI10ME-V3,none~hmac=31894301e0d2e98bce820d4d7821cd45a02c1d4abaec45ce701ac2e656cea24a",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
