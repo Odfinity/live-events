@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:24 PM 25-11-2025",
+  "last update time": "06:04 PM 25-11-2025",
   "matches": [
+    {
+      "id": "sl1090495847",
+      "isLive": true,
+      "event": "UEFA Youth League 2025-26",
+      "match": "Chelsea vs Barcelona - MD 5 - 25 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763500723231411_UYL2526_MD5_Chelsea_vs_Barcelona_18nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Chelsea Football Club Training Ground",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Chelsea vs Barcelona,UEFAYouthLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495847.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495847.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495847.m3u8",
+      "sus": "hdntl=exp=1764160160~acl=%2f*~id=64224373783026297789832975744855~data=hdntl,2022316,DAI12ME-V3,none~hmac=76cba67900db2a431bded486840f8cb832fdcf2996eda939592a7b4b5af37880",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090495939",
       "isLive": false,
