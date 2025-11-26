@@ -1,26 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:03 AM 27-11-2025",
+  "last update time": "02:14 AM 27-11-2025",
   "matches": [
-    {
-      "id": "sl1090495984",
-      "isLive": true,
-      "event": "UEFA Champions League 2025-26",
-      "match": "Liverpool vs PSV - MD 5 - 27 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Anfield, Liverpool",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Liverpool vs PSV,UEFAChampionsLeague202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495984.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495984.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495984.m3u8",
-      "sus": false,
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
     {
       "id": "sl1090495983",
       "isLive": true,
@@ -36,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495983.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495983.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495983.m3u8",
-      "sus": "hdntl=exp=1764274904~acl=%2f*~id=42676087049046833778733225538234~data=hdntl,2005445,DAI06ME-V3,none~hmac=b7699e7773185deed73eb572748ce3ebed18e04b0dac7f421052b64aaef354a5",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,7 +36,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495976.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495976.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495976.m3u8",
-      "sus": "hdntl=exp=1764274913~acl=%2f*~id=42676087049046833778733225538234~data=hdntl,2094587,DAI03ME-V3,none~hmac=77b1f7dcf11cb12922238654019a5645db85ab735b0aa615aa7226142dcb8cd6",
+      "sus": "hdntl=exp=1764273517~acl=%2f*~id=02656445129745201723033755681471~data=hdntl,2094587,DAI03ME-V3,none~hmac=d9f3626bf29308be0dc699d5a6186b592905c91be9f8aabea7c709f29db0948a",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090495984",
+      "isLive": false,
+      "event": "",
+      "match": "Liverpool vs PSV - MD 5 - 27 Nov 2025",
+      "Provider": "",
+      "poster": "",
+      "genre": "Football",
+      "language": "en",
+      "venue": "",
+      "TVchannel": "",
+      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Liverpool vs PSV,UEFAChampionsLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495984.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495984.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495984.m3u8",
+      "sus": "hdntl=exp=1764276000~acl=%2f*~id=02656445129745201723033755681471~data=hdntl,2022317,DAI13ME-V3,none~hmac=2183984f050282bfa4019413c51ed470eaaa535cb8f72e9d5a5e45ea863bc340",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495985.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495985.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495985.m3u8",
-      "sus": "hdntl=exp=1764275087~acl=%2f*~id=42676087049046833778733225538234~data=hdntl,2018457,DAI09ME-V3,none~hmac=58aaf7e4d7234beadd25155cd3061aad7a09e936ca365815645fe2c30f7b670a",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,7 +90,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495987.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495987.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495987.m3u8",
-      "sus": false,
+      "sus": "hdntl=exp=1764276166~acl=%2f*~id=02656445129745201723033755681471~data=hdntl,2022318,DAI14ME-V3,none~hmac=8356159243976f15b9a9117c075760e6a2e98530819de17c6a518c15f1dedbcf",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -126,7 +126,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090495986.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090495986.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090495986.m3u8",
-      "sus": "hdntl=exp=1764275217~acl=%2f*~id=42676087049046833778733225538234~data=hdntl,2022315,DAI11ME-V3,none~hmac=1d33fa2ec8c0797067104b24c42803b06dbbec0cd747bb0fb27c82c8db6dd419",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -144,7 +144,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496130.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496130.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496130.m3u8",
-      "sus": false,
+      "sus": "hdntl=exp=1764276261~acl=%2f*~id=02656445129745201723033755681471~data=hdntl,2037140,DAI20ME-V3,none~hmac=078c8368e76e08712dbcdb791993146afa52220a111c83e1cf7109726b60f023",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
