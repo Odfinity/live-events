@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:23 PM 27-11-2025",
+  "last update time": "07:54 PM 27-11-2025",
   "matches": [
-    {
-      "id": 138225,
-      "event_category": "Cricket",
-      "title": "Quetta Qavalry vs Vista Riders (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138225_5763_VTR_QQY_fc-web_1763728590022.png",
-      "team_1": "Quetta Qavalry",
-      "team_2": "Vista Riders",
-      "status": "LIVE",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Quetta Qavalry vs Vista Riders",
-      "startTime": "05:00:00 PM 27-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/G_MmRtXLRFKPJhrCIEmvAA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138225_english_hls_b2d14a4d3586710_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138239,
       "event_category": "Cricket",
@@ -114,20 +100,6 @@
       "startTime": "06:30:00 PM 27-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/_XnZvoV6Smeu16hqhd50vA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137195_english_hls_c8afe5b3f352852_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138306,
-      "event_category": "Cricket",
-      "title": "Pokhara Avengers vs Janakpur Bolts (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138306_5771_JKB_PKA_FC-Web.jpg",
-      "team_1": "Pokhara Avengers",
-      "team_2": "Janakpur Bolts",
-      "status": "LIVE",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Pokhara Avengers vs Janakpur Bolts",
-      "startTime": "03:45:00 PM 27-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138306_english_hls_8ea704283962546_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138306_english_hls_8ea704283962546_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138227,
@@ -416,6 +388,18 @@
       "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
       "match_name": "Sprint Qualifying",
       "startTime": "11:00:00 PM 28-11-2025"
+    },
+    {
+      "id": 138657,
+      "event_category": "Cricket",
+      "title": "Prime Ministers XI vs England (England tour of Australia, Tour Match, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
+      "team_1": "Prime Ministers XI",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of Australia, Tour Match, 2025",
+      "match_name": "Prime Ministers XI vs England",
+      "startTime": "09:10:00 AM 29-11-2025"
     }
   ]
 }
