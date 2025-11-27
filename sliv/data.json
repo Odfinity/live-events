@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:52 PM 27-11-2025",
+  "last update time": "12:17 AM 28-11-2025",
   "matches": [
     {
       "id": "sl1090496197",
@@ -18,7 +18,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496197.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496197.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496197.m3u8",
-      "sus": "hdntl=exp=1764354034~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2022315,DAI11ME-V3,none~hmac=67008e8d9a46e2d43fc8f6fd875188ecc69f1816110f910af1ec6942d77a7cb0",
+      "sus": false,
+      "debug": "dai.google.com||sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090496088",
+      "isLive": true,
+      "event": "UEFA Conference League 2025-26",
+      "match": "Zrinjski Mostar vs BK Hacken - MD 4 - 27 Nov 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763496234722830_UECL2526_MD4_Zrinjski_Mostar_vs_BK_Hacken_18nov_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Bijeli Brijeg Stadium",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Zrinjski Mostar vs BK Hacken,UEFAConferenceLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496088.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496088.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496088.m3u8",
+      "sus": "hdntl=exp=1764355111~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2105080,DAI24ME-V3,none~hmac=1d14a308b97ec8ea30906aefa5103700d78ff3f5d079f51ac2fa059838632e12",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496066.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496066.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496066.m3u8",
-      "sus": "hdntl=exp=1764354035~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2037141,DAI21ME-V3,none~hmac=918ae1874666f009a93c2fb736c729738d231671e4de9691141c60817105c386",
+      "sus": "hdntl=exp=1764355120~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2037141,DAI21ME-V3,none~hmac=c44926199ae0b4c6c20db1c61135716a776cbe29e82449769c07259a49d3363d",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,25 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496064.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496064.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496064.m3u8",
-      "sus": "hdntl=exp=1764354036~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2094588,DAI04ME-V3,none~hmac=db121709d90da7e7007ffa74dfd1810ed0a3698649c71f929c3f102464abde1d",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090496088",
-      "isLive": true,
-      "event": "UEFA Conference League 2025-26",
-      "match": "Zrinjski Mostar vs BK Hacken - MD 4 - 27 Nov 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763496234722830_UECL2526_MD4_Zrinjski_Mostar_vs_BK_Hacken_18nov_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "Bijeli Brijeg Stadium",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Zrinjski Mostar vs BK Hacken,UEFAConferenceLeague202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496088.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496088.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496088.m3u8",
-      "sus": "hdntl=exp=1764354038~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2105080,DAI24ME-V3,none~hmac=cfa8fbe4c95cb7294d0cff0f39ba051db458b5419e681f50cdaf2c19858c00a1",
+      "sus": "hdntl=exp=1764355128~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2094588,DAI04ME-V3,none~hmac=1ed35d70c25590da6d67fa56feade4f56f733e005af82079e90b6c272a089aea",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,7 +90,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496086.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496086.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496086.m3u8",
-      "sus": "hdntl=exp=1764354038~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2037140,DAI20ME-V3,none~hmac=1ebbd0838b841ca63f778c8f1b10abe8d77cdb4c970d82be68e5069945f01d57",
+      "sus": "hdntl=exp=1764355138~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2037140,DAI20ME-V3,none~hmac=b3240cecdc3de46593476bc79e38bc5b66b34387c69866c9b5813b24a3285f31",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -108,7 +108,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496081.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496081.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496081.m3u8",
-      "sus": "hdntl=exp=1764354039~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2022318,DAI14ME-V3,none~hmac=1b711494a9a1741ea6494b58ea6b55f447e788b0320dade78546f078ee0ad525",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -126,7 +126,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496087.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496087.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496087.m3u8",
-      "sus": "hdntl=exp=1764354040~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2037143,DAI23ME-V3,none~hmac=fedcf1e5474b542f17c3c29c2a7e294e361ab4be0b005332785de3923c814a3f",
+      "sus": "hdntl=exp=1764355177~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2037143,DAI23ME-V3,none~hmac=1b3829defbaabe4c19e838072a0140bbd5f54af9022809358753d7b9aabf5023",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -144,7 +144,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496083.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496083.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496083.m3u8",
-      "sus": "hdntl=exp=1764354041~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2022316,DAI12ME-V3,none~hmac=486eeb71e06cba482c48c2f0817337ea3f45e0ef640b0ff3ed7d7dfecec69e6a",
+      "sus": "hdntl=exp=1764355202~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2022316,DAI12ME-V3,none~hmac=e85e9b0410edfd1dea8ca7849f3dea5ce1e5a9657c2732992e81d8228f2d9eb8",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -162,7 +162,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496065.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496065.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496065.m3u8",
-      "sus": "hdntl=exp=1764354042~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2022319,DAI15ME-V3,none~hmac=fe968d4cbed7e73a79deedea98c8ac76dbc2db7407bb24ee1caa50921f42ffd0",
+      "sus": "hdntl=exp=1764355256~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2022319,DAI15ME-V3,none~hmac=1426775c782738e35ba64f95f5f796f2e33725e19e9feebd9a2623df64a61d90",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -180,7 +180,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496062.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496062.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496062.m3u8",
-      "sus": "hdntl=exp=1764354043~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2018458,DAI10ME-V3,none~hmac=e6c3a823548c8ca5afd6b6bc2ca9856a09290e66fff19f930268f42f027a67ae",
+      "sus": "hdntl=exp=1764355265~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2018458,DAI10ME-V3,none~hmac=caf31fbf9f4a11de7aeba171eca2f751ed8aa990ab19df66e1c182913e4b7626",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -198,7 +198,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496070.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496070.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496070.m3u8",
-      "sus": "hdntl=exp=1764354044~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2018457,DAI09ME-V3,none~hmac=fed2dfbfeb4c3a444acd719ea128e613a6ae5df37de100b49d193b318656bf01",
+      "sus": "hdntl=exp=1764355275~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2018457,DAI09ME-V3,none~hmac=d6b64413a0e1c9a4aa8b23566148a9629beec6d8a339f28d4a4d7d329637e068",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -216,7 +216,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496084.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496084.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496084.m3u8",
-      "sus": "hdntl=exp=1764354045~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2094589,DAI05ME-V3,none~hmac=ec7d2cdb67e5ff614b9ba1cbbd00ceb7c9d8c9d10a7b150d7f337ffb5ea3611f",
+      "sus": "hdntl=exp=1764355285~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2094589,DAI05ME-V3,none~hmac=f8012ef17ace583177de8e6ea5be40c68e95867aab3ce9f600b59f3bf7fac474",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -234,7 +234,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496085.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496085.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496085.m3u8",
-      "sus": "hdntl=exp=1764354046~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2005444,DAI07ME-V3,none~hmac=c830e15b2895bff068723e0b16cf2768864607290c8c69f31daeacd3fcb67090",
+      "sus": "hdntl=exp=1764355306~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2005444,DAI07ME-V3,none~hmac=012ea1480f7039f4b57f1ad663cead4e235360674eb3a895f3b4a8220cb73b7b",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -252,7 +252,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496063.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496063.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496063.m3u8",
-      "sus": "hdntl=exp=1764354047~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2105079,DAI08ME-V3,none~hmac=2cb6d091e109968a970727d29f72336630976afaea97182c7f44ad5d0fc53f05",
+      "sus": "hdntl=exp=1764355316~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2105079,DAI08ME-V3,none~hmac=bb20439c327437297a7658612f26f5384e6831e02a02675ce1bd5dca838aa48c",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -270,7 +270,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496067.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496067.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496067.m3u8",
-      "sus": "hdntl=exp=1764354048~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2094587,DAI03ME-V3,none~hmac=cf54899f42c1654a5fc2654b94d660a72c9633317e45cfaa6f9a6fb487c1d347",
+      "sus": "hdntl=exp=1764355324~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2094587,DAI03ME-V3,none~hmac=a8727c47200e0e29d19fb54dc60d2affedd66077eda7f4c4b6cca40ce6d06019",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -288,7 +288,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496068.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496068.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496068.m3u8",
-      "sus": "hdntl=exp=1764354049~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2005445,DAI06ME-V3,none~hmac=994a0b9d41a58f9d4585df918474ad38ba3ec1c262cbac208c788cdcff62a585",
+      "sus": "hdntl=exp=1764355332~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2005445,DAI06ME-V3,none~hmac=afdabdac575e9adfe014cac34629532785b95d3577a1bd29da82e94998654420",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -306,7 +306,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496082.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496082.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496082.m3u8",
-      "sus": "hdntl=exp=1764354050~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2022322,DAI18ME-V3,none~hmac=f44e50f112de757b6c47df6a106bd1bc145fac2613c925e027c0b390f4a401a8",
+      "sus": "hdntl=exp=1764355341~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2022322,DAI18ME-V3,none~hmac=3bd4ac72aded10717de9ab7450f1bbcea3b472ace4a51f49ac25e46d2a105201",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -324,7 +324,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496069.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496069.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496069.m3u8",
-      "sus": "hdntl=exp=1764354058~acl=%2f*~id=16077656336898059407373146354911~data=hdntl,2022317,DAI13ME-V3,none~hmac=b83b76192ff8fa2646b47c0b694a5bd103f27ec4c9f81d619747ba4417dc0819",
+      "sus": "hdntl=exp=1764355350~acl=%2f*~id=95041200199802274324043536822760~data=hdntl,2022317,DAI13ME-V3,none~hmac=363769e1667d120dd5473ef22966e207e1af0a2b0ce0d5460e0c57d11211126b",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
