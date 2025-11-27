@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:19 PM 27-11-2025",
+  "last update time": "11:43 PM 27-11-2025",
   "matches": [
     {
       "id": 138227,
@@ -32,6 +32,20 @@
       "adfree_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138057_english_hls_e169ab4b3489779_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 138058,
+      "event_category": "Cricket",
+      "title": "Jamaica Scorpions vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+      "team_1": "Jamaica Scorpions",
+      "team_2": "Windward Islands Volcanoes",
+      "status": "LIVE",
+      "event_name": "CG United Super50 Cup, 2025",
+      "match_name": "Jamaica Scorpions vs Windward Islands Volcanoes",
+      "startTime": "11:30:00 PM 27-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/j0g-fiROTn-iSZoUuP_lfQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138058_english_hls_0eedb4e3735942_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138228,
       "event_category": "Cricket",
       "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
@@ -54,18 +68,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Quetta Qavalry vs Royal Champs",
       "startTime": "07:15:00 PM 28-11-2025"
-    },
-    {
-      "id": 138058,
-      "event_category": "Cricket",
-      "title": "Jamaica Scorpions vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-      "team_1": "Jamaica Scorpions",
-      "team_2": "Windward Islands Volcanoes",
-      "status": "UPCOMING",
-      "event_name": "CG United Super50 Cup, 2025",
-      "match_name": "Jamaica Scorpions vs Windward Islands Volcanoes",
-      "startTime": "11:30:00 PM 27-11-2025"
     },
     {
       "id": 138454,
@@ -104,18 +106,6 @@
       "startTime": "08:00:00 AM 28-11-2025"
     },
     {
-      "id": 138307,
-      "event_category": "Cricket",
-      "title": "Chitwan Rhinos vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg",
-      "team_1": "Chitwan Rhinos",
-      "team_2": "Kathmandu Gorkhas",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Chitwan Rhinos vs Kathmandu Gorkhas",
-      "startTime": "11:30:00 AM 28-11-2025"
-    },
-    {
       "id": 138230,
       "event_category": "Cricket",
       "title": "Vista Riders vs Deccan Gladiators (Abu Dhabi T10, 2025)",
@@ -126,6 +116,18 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Vista Riders vs Deccan Gladiators",
       "startTime": "09:30:00 PM 28-11-2025"
+    },
+    {
+      "id": 138307,
+      "event_category": "Cricket",
+      "title": "Chitwan Rhinos vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg",
+      "team_1": "Chitwan Rhinos",
+      "team_2": "Kathmandu Gorkhas",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Chitwan Rhinos vs Kathmandu Gorkhas",
+      "startTime": "11:30:00 AM 28-11-2025"
     },
     {
       "id": 138083,
@@ -390,6 +392,18 @@
       "event_name": "Sultan Azlan Shah Cup",
       "match_name": "New Zealand vs Belgium",
       "startTime": "03:30:00 PM 29-11-2025"
+    },
+    {
+      "id": 138231,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:15:00 PM 29-11-2025"
     }
   ]
 }
