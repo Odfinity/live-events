@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:11 PM 27-11-2025",
+  "last update time": "01:27 PM 27-11-2025",
   "matches": [
     {
       "id": 138305,
@@ -44,6 +44,34 @@
       "startTime": "11:30:00 AM 27-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/gIzYCfKQQ4K9DylfRSHqPg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138420_english_hls_de2fddf00127815_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138421,
+      "event_category": "Hockey",
+      "title": "India vs New Zealand (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138421_5777_IND_NZ_fc-Web.jpg",
+      "team_1": "India",
+      "team_2": "New Zealand",
+      "status": "LIVE",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "India vs New Zealand",
+      "startTime": "01:30:00 PM 27-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/pE-k2dM6Q-CzgYRbxJNgTA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138421_english_hls_45b15d3c6933178_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136147,
+      "event_category": "Football",
+      "title": "Macarthur vs Wofoo Tai Po (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136147_5648_MAC_WTP_fc-Web_1758118382695.jpg",
+      "team_1": "Macarthur",
+      "team_2": "Wofoo Tai Po",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Macarthur vs Wofoo Tai Po",
+      "startTime": "01:15:00 PM 27-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/qg_QDoZ3Tk2iMOwzS5bJMA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136147_english_hls_030144a96a58534_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138225,
@@ -92,30 +120,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Northern Warriors vs Royal Champs",
       "startTime": "09:30:00 PM 27-11-2025"
-    },
-    {
-      "id": 138421,
-      "event_category": "Hockey",
-      "title": "India vs New Zealand (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138421_5777_IND_NZ_fc-Web.jpg",
-      "team_1": "India",
-      "team_2": "New Zealand",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "India vs New Zealand",
-      "startTime": "01:30:00 PM 27-11-2025"
-    },
-    {
-      "id": 136147,
-      "event_category": "Football",
-      "title": "Macarthur vs Wofoo Tai Po (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136147_5648_MAC_WTP_fc-Web_1758118382695.jpg",
-      "team_1": "Macarthur",
-      "team_2": "Wofoo Tai Po",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Macarthur vs Wofoo Tai Po",
-      "startTime": "01:15:00 PM 27-11-2025"
     },
     {
       "id": 138306,
