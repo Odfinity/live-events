@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:21 PM 27-11-2025",
+  "last update time": "04:51 PM 27-11-2025",
   "matches": [
     {
       "id": 138306,
@@ -76,14 +76,16 @@
     {
       "id": 138225,
       "event_category": "Cricket",
-      "title": "Vista Riders vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+      "title": "Quetta Qavalry vs Vista Riders (Abu Dhabi T10, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138225_5763_VTR_QQY_fc-web_1763728590022.png",
-      "team_1": "Vista Riders",
-      "team_2": "Quetta Qavalry",
-      "status": "UPCOMING",
+      "team_1": "Quetta Qavalry",
+      "team_2": "Vista Riders",
+      "status": "LIVE",
       "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Vista Riders vs Quetta Qavalry",
-      "startTime": "05:00:00 PM 27-11-2025"
+      "match_name": "Quetta Qavalry vs Vista Riders",
+      "startTime": "05:00:00 PM 27-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/G_MmRtXLRFKPJhrCIEmvAA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138225_english_hls_b2d14a4d3586710_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138239,
@@ -158,6 +160,30 @@
       "startTime": "08:00:00 AM 28-11-2025"
     },
     {
+      "id": 138228,
+      "event_category": "Cricket",
+      "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
+      "team_1": "Ajman Titans",
+      "team_2": "UAE Bulls",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Ajman Titans vs UAE Bulls",
+      "startTime": "05:00:00 PM 28-11-2025"
+    },
+    {
+      "id": 138307,
+      "event_category": "Cricket",
+      "title": "Chitwan Rhinos vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg",
+      "team_1": "Chitwan Rhinos",
+      "team_2": "Kathmandu Gorkhas",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Chitwan Rhinos vs Kathmandu Gorkhas",
+      "startTime": "11:30:00 AM 28-11-2025"
+    },
+    {
       "id": 136184,
       "event_category": "Football",
       "title": "Tampines Rovers FC vs Kaya (AFC Champions League Two 2025-26)",
@@ -206,28 +232,28 @@
       "startTime": "06:30:00 PM 27-11-2025"
     },
     {
-      "id": 138307,
+      "id": 138083,
       "event_category": "Cricket",
-      "title": "Chitwan Rhinos vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg",
-      "team_1": "Chitwan Rhinos",
-      "team_2": "Kathmandu Gorkhas",
+      "title": "Scotland Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138083_5758_SC-W_ND-W_FC-Web.jpg",
+      "team_1": "Scotland Women",
+      "team_2": "Netherlands Women",
       "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Chitwan Rhinos vs Kathmandu Gorkhas",
-      "startTime": "11:30:00 AM 28-11-2025"
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "Scotland Women vs Netherlands Women",
+      "startTime": "12:15:00 PM 28-11-2025"
     },
     {
-      "id": 138228,
+      "id": 138082,
       "event_category": "Cricket",
-      "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
-      "team_1": "Ajman Titans",
-      "team_2": "UAE Bulls",
+      "title": "Namibia Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138082_5758_NAM-W_PN-W_FC-Web.jpg",
+      "team_1": "Namibia Women",
+      "team_2": "Papua New Guinea Women",
       "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Ajman Titans vs UAE Bulls",
-      "startTime": "05:00:00 PM 28-11-2025"
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "Namibia Women vs Papua New Guinea Women",
+      "startTime": "12:15:00 PM 28-11-2025"
     },
     {
       "id": 138058,
@@ -252,30 +278,6 @@
       "event_name": "League Two 2025-26",
       "match_name": "Grimsby Town vs Tranmere Rovers",
       "startTime": "01:30:00 AM 28-11-2025"
-    },
-    {
-      "id": 138083,
-      "event_category": "Cricket",
-      "title": "Scotland Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138083_5758_SC-W_ND-W_FC-Web.jpg",
-      "team_1": "Scotland Women",
-      "team_2": "Netherlands Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_name": "Scotland Women vs Netherlands Women",
-      "startTime": "12:15:00 PM 28-11-2025"
-    },
-    {
-      "id": 138082,
-      "event_category": "Cricket",
-      "title": "Namibia Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138082_5758_NAM-W_PN-W_FC-Web.jpg",
-      "team_1": "Namibia Women",
-      "team_2": "Papua New Guinea Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_name": "Namibia Women vs Papua New Guinea Women",
-      "startTime": "12:15:00 PM 28-11-2025"
     },
     {
       "id": 138229,
