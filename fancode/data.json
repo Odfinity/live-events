@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:20 PM 28-11-2025",
+  "last update time": "04:50 PM 28-11-2025",
   "matches": [
+    {
+      "id": 138228,
+      "event_category": "Cricket",
+      "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
+      "team_1": "Ajman Titans",
+      "team_2": "UAE Bulls",
+      "status": "LIVE",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Ajman Titans vs UAE Bulls",
+      "startTime": "05:00:00 PM 28-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/MxkIe0bITIiz6u1f3kZCNw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138228_english_hls_8aa97e62e933050_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138308,
       "event_category": "Cricket",
@@ -18,16 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138308_english_hls_f8f73adbfb87986_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138228,
-      "event_category": "Cricket",
-      "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
-      "team_1": "Ajman Titans",
-      "team_2": "UAE Bulls",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Ajman Titans vs UAE Bulls",
-      "startTime": "05:00:00 PM 28-11-2025"
+      "id": 119073,
+      "event_category": "Motorsports",
+      "title": "Free Practice vs Lusail (F2 QATAR 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Free Practice",
+      "team_2": "Lusail",
+      "status": "LIVE",
+      "event_name": "F2 QATAR 2025",
+      "match_name": "Free Practice",
+      "startTime": "04:35:00 PM 28-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119073_english_hls_2b3cab088f3113_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119073_english_hls_2b3cab088f3113_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138229,
@@ -126,18 +142,6 @@
       "startTime": "11:00:00 AM 29-11-2025"
     },
     {
-      "id": 138069,
-      "event_category": "Football",
-      "title": "Sporting de Gijón vs FC Andorra (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg",
-      "team_1": "Sporting de Gijón",
-      "team_2": "FC Andorra",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Sporting de Gijón vs FC Andorra",
-      "startTime": "01:00:00 AM 29-11-2025"
-    },
-    {
       "id": 138240,
       "event_category": "Cricket",
       "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
@@ -150,16 +154,16 @@
       "startTime": "05:30:00 PM 29-11-2025"
     },
     {
-      "id": 119073,
-      "event_category": "Motorsports",
-      "title": "Free Practice vs Lusail (F2 QATAR 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Free Practice",
-      "team_2": "Lusail",
+      "id": 138069,
+      "event_category": "Football",
+      "title": "Sporting de Gijón vs FC Andorra (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg",
+      "team_1": "Sporting de Gijón",
+      "team_2": "FC Andorra",
       "status": "UPCOMING",
-      "event_name": "F2 QATAR 2025",
-      "match_name": "Free Practice",
-      "startTime": "04:35:00 PM 28-11-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Sporting de Gijón vs FC Andorra",
+      "startTime": "01:00:00 AM 29-11-2025"
     },
     {
       "id": 138423,
@@ -174,16 +178,16 @@
       "startTime": "11:30:00 AM 29-11-2025"
     },
     {
-      "id": 138424,
-      "event_category": "Hockey",
-      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Belgium",
+      "id": 138231,
+      "event_category": "Cricket",
+      "title": "Quetta Qavalry vs TBC (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Quetta Qavalry",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "New Zealand vs Belgium",
-      "startTime": "01:30:00 PM 29-11-2025"
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Quetta Qavalry vs TBC",
+      "startTime": "07:15:00 PM 29-11-2025"
     },
     {
       "id": 138310,
@@ -198,16 +202,16 @@
       "startTime": "03:15:00 PM 29-11-2025"
     },
     {
-      "id": 138231,
-      "event_category": "Cricket",
-      "title": "Quetta Qavalry vs TBC (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "Quetta Qavalry",
-      "team_2": "TBC",
+      "id": 138424,
+      "event_category": "Hockey",
+      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Belgium",
       "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Quetta Qavalry vs TBC",
-      "startTime": "07:15:00 PM 29-11-2025"
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "New Zealand vs Belgium",
+      "startTime": "01:30:00 PM 29-11-2025"
     },
     {
       "id": 138425,
