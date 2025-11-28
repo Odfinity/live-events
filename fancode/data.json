@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:30 AM 28-11-2025",
+  "last update time": "11:03 AM 28-11-2025",
   "matches": [
-    {
-      "id": 138454,
-      "event_category": "Cricket",
-      "title": "Malaysia vs Thailand (Mini SEA Games Men's T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138454_5780_MAS_TL_fc-Web_1764057419160.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Thailand",
-      "status": "LIVE",
-      "event_name": "Mini SEA Games Men's T20, 2025",
-      "match_name": "Malaysia vs Thailand",
-      "startTime": "07:30:00 AM 28-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9HfWYiuRQ2uXH8mvPCmMNw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138454_english_hls_c90e95f8ec84057_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138098,
-      "event_category": "Cricket",
-      "title": "Tanzania Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138098_5758_UG-W_TANW_FC-Web.jpg",
-      "team_1": "Tanzania Women",
-      "team_2": "Uganda Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_name": "Tanzania Women vs Uganda Women",
-      "startTime": "08:00:00 AM 28-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/FdQYOq7DQIC2H1jIHEffpg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138098_english_hls_f6b2e8c35f94002_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138097,
       "event_category": "Cricket",
@@ -350,13 +322,13 @@
     {
       "id": 138231,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
+      "title": "Quetta Qavalry vs TBC (Abu Dhabi T10, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
+      "team_1": "Quetta Qavalry",
       "team_2": "TBC",
       "status": "UPCOMING",
       "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "TBC vs TBC",
+      "match_name": "Quetta Qavalry vs TBC",
       "startTime": "07:15:00 PM 29-11-2025"
     },
     {
@@ -394,6 +366,30 @@
       "event_name": "England Under-19 tour of West Indies, 2025",
       "match_name": "West Indies Under-19 vs England Under-19",
       "startTime": "06:30:00 PM 29-11-2025"
+    },
+    {
+      "id": 130961,
+      "event_category": "Football",
+      "title": "RCD Mallorca vs CA Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130961_5427_MRC_OSN_fc-Web.jpg",
+      "team_1": "RCD Mallorca",
+      "team_2": "CA Osasuna",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Mallorca vs CA Osasuna",
+      "startTime": "06:30:00 PM 29-11-2025"
+    },
+    {
+      "id": 138232,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:30:00 PM 29-11-2025"
     }
   ]
 }
