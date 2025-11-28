@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:48 AM 29-11-2025",
+  "last update time": "01:01 AM 29-11-2025",
   "matches": [
     {
       "id": 138026,
@@ -24,10 +24,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130967_5427_GEF_ELC_fc-Web.jpg",
       "team_1": "Getafe CF",
       "team_2": "Elche CF",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Getafe CF vs Elche CF",
-      "startTime": "01:30:00 AM 29-11-2025"
+      "startTime": "01:30:00 AM 29-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130967_english_hls_8856b4cfde53986_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130967_english_hls_8856b4cfde53986_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138069,
+      "event_category": "Football",
+      "title": "Sporting de Gijón vs FC Andorra (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg",
+      "team_1": "Sporting de Gijón",
+      "team_2": "FC Andorra",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Sporting de Gijón vs FC Andorra",
+      "startTime": "01:00:00 AM 29-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/p4Zlkb3uRA20Ezyk9thHIQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138069_english_hls_143f28d1c397945_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136972,
@@ -64,18 +80,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "Quetta Qavalry vs Aspin Stallions",
       "startTime": "07:15:00 PM 29-11-2025"
-    },
-    {
-      "id": 138069,
-      "event_category": "Football",
-      "title": "Sporting de Gijón vs FC Andorra (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg",
-      "team_1": "Sporting de Gijón",
-      "team_2": "FC Andorra",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Sporting de Gijón vs FC Andorra",
-      "startTime": "01:00:00 AM 29-11-2025"
     },
     {
       "id": 138232,
@@ -138,18 +142,6 @@
       "startTime": "11:30:00 AM 29-11-2025"
     },
     {
-      "id": 138424,
-      "event_category": "Hockey",
-      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Belgium",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "New Zealand vs Belgium",
-      "startTime": "01:30:00 PM 29-11-2025"
-    },
-    {
       "id": 138041,
       "event_category": "Cricket",
       "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
@@ -160,6 +152,18 @@
       "event_name": "England Under-19 tour of West Indies, 2025",
       "match_name": "West Indies Under-19 vs England Under-19",
       "startTime": "06:30:00 PM 29-11-2025"
+    },
+    {
+      "id": 138424,
+      "event_category": "Hockey",
+      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Belgium",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "New Zealand vs Belgium",
+      "startTime": "01:30:00 PM 29-11-2025"
     },
     {
       "id": 136971,
