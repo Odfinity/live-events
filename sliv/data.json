@@ -1,26 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:28 AM 28-11-2025",
+  "last update time": "09:58 AM 28-11-2025",
   "matches": [
-    {
-      "id": "sl1090496244",
-      "isLive": true,
-      "event": "Australian Open 2026",
-      "match": "Semi-Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025",
-      "Provider": "Tennis Australia Limited",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262620967621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_SF_27nov_landscape_thumb.jpg",
-      "genre": "Tennis",
-      "language": "en",
-      "venue": "Sichuan International Tennis Centre, Chengdu, China",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "Australian Open,Australian Open 2026,AO 2026 Melbourne Park,Australian Open 2026 schedule,Australian Open 2026 tickets,AO 2026 live streaming,AO live streaming,Australian Open live streaming,Australian Open 2026 live streaming,Australian Open 2026 prize money,Australian Open 2026 dates,AO 2026 draws,AO 2026 fixtures,Australian Open 2026 highlights,Australian Open highlights,AO 2026 results,AO 2026 updates,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Daniil Medvedev,Stefanos Tsitsipas,Alex de Minaur,Holger Rune,Taylor Fritz,Iga Swiatek,Aryna Sabalenka,Coco Gauff,Naomi Osaka,Elena Rybakina,Madison Keys,Ajla Tomljanovic,Zheng Qinwen,Emma Raducanu,Mirra Andreeva,Lorenzo Musetti,Maria Sakkari,Ons Jabeur,Caroline Garcia,sports_adsupported,nopreroll_livectv,AO_WCPlayoff_2026LIVE,AustralianOpen2026",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496244.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496244.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496244.m3u8",
-      "sus": "hdntl=exp=1764387972~acl=%2f*~id=57378811609458753905006522111874~data=hdntl,2022320,DAI16ME-V3,none~hmac=ae13666c0f07b7d58cfffe78abab98afba7f4501fa9d352d0b73485e5cae1f40",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
     {
       "id": "sl1090495939",
       "isLive": false,
