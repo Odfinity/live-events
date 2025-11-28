@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:00 AM 29-11-2025",
+  "last update time": "02:17 AM 29-11-2025",
   "matches": [
-    {
-      "id": 138026,
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al-Qadsiah FC (Saudi Kings Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-VS-Al-Qadsiah-FC_old_1764346250168.jpg",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Al-Qadsiah FC",
-      "status": "LIVE",
-      "event_name": "Saudi Kings Cup 2025-2026",
-      "match_name": "Al-Ahli Saudi FC vs Al-Qadsiah FC",
-      "startTime": "11:00:00 PM 28-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iU60UpbYRMOHb6MwcCeQbQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138026_english_hls_07e5414ac061051_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 130967,
       "event_category": "Football",
@@ -132,18 +118,6 @@
       "startTime": "03:15:00 PM 29-11-2025"
     },
     {
-      "id": 138423,
-      "event_category": "Hockey",
-      "title": "Canada vs India (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138423_5777_CAN_IND_fc-Web.jpg",
-      "team_1": "Canada",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Canada vs India",
-      "startTime": "11:30:00 AM 29-11-2025"
-    },
-    {
       "id": 138041,
       "event_category": "Cricket",
       "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
@@ -154,6 +128,18 @@
       "event_name": "England Under-19 tour of West Indies, 2025",
       "match_name": "West Indies Under-19 vs England Under-19",
       "startTime": "06:30:00 PM 29-11-2025"
+    },
+    {
+      "id": 138423,
+      "event_category": "Hockey",
+      "title": "Canada vs India (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138423_5777_CAN_IND_fc-Web.jpg",
+      "team_1": "Canada",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "Canada vs India",
+      "startTime": "11:30:00 AM 29-11-2025"
     },
     {
       "id": 136971,
@@ -168,18 +154,6 @@
       "startTime": "06:00:00 PM 29-11-2025"
     },
     {
-      "id": 138424,
-      "event_category": "Hockey",
-      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Belgium",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "New Zealand vs Belgium",
-      "startTime": "01:30:00 PM 29-11-2025"
-    },
-    {
       "id": 130961,
       "event_category": "Football",
       "title": "RCD Mallorca vs CA Osasuna (LALIGA 2025-26)",
@@ -190,6 +164,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Mallorca vs CA Osasuna",
       "startTime": "06:30:00 PM 29-11-2025"
+    },
+    {
+      "id": 138424,
+      "event_category": "Hockey",
+      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Belgium",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "New Zealand vs Belgium",
+      "startTime": "01:30:00 PM 29-11-2025"
     },
     {
       "id": 138425,
@@ -418,6 +404,18 @@
       "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
       "match_name": "Malaysia Women vs Hong Kong, China Women",
       "startTime": "08:30:00 AM 30-11-2025"
+    },
+    {
+      "id": 138613,
+      "event_category": "Golf",
+      "title": "Day 4 vs Brisbane, Australia (BMW Australian PGA Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Australian-PGA-Championship-old-match-card-(1).png",
+      "team_1": "Day 4",
+      "team_2": "Brisbane, Australia",
+      "status": "UPCOMING",
+      "event_name": "BMW Australian PGA Championship",
+      "match_name": "Day 4",
+      "startTime": "06:30:00 AM 30-11-2025"
     }
   ]
 }
