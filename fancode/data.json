@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 PM 28-11-2025",
+  "last update time": "12:07 AM 29-11-2025",
   "matches": [
-    {
-      "id": 138230,
-      "event_category": "Cricket",
-      "title": "Deccan Gladiators vs Vista Riders (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138230_5763_VTR_DG_fc-web_1763728589875.png",
-      "team_1": "Deccan Gladiators",
-      "team_2": "Vista Riders",
-      "status": "LIVE",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Deccan Gladiators vs Vista Riders",
-      "startTime": "09:30:00 PM 28-11-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
     {
       "id": 138026,
       "event_category": "Football",
@@ -60,14 +46,26 @@
     {
       "id": 138231,
       "event_category": "Cricket",
-      "title": "Quetta Qavalry vs TBC (Abu Dhabi T10, 2025)",
+      "title": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
       "team_1": "Quetta Qavalry",
+      "team_2": "Aspin Stallions",
+      "status": "UPCOMING",
+      "event_name": "Abu Dhabi T10, 2025",
+      "match_name": "Quetta Qavalry vs Aspin Stallions",
+      "startTime": "07:15:00 PM 29-11-2025"
+    },
+    {
+      "id": 138232,
+      "event_category": "Cricket",
+      "title": "Ajman Titans vs TBC (Abu Dhabi T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "team_1": "Ajman Titans",
       "team_2": "TBC",
       "status": "UPCOMING",
       "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "Quetta Qavalry vs TBC",
-      "startTime": "07:15:00 PM 29-11-2025"
+      "match_name": "Ajman Titans vs TBC",
+      "startTime": "09:30:00 PM 29-11-2025"
     },
     {
       "id": 130967,
@@ -118,18 +116,6 @@
       "startTime": "11:00:00 AM 29-11-2025"
     },
     {
-      "id": 138232,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Abu Dhabi T10, 2025",
-      "match_name": "TBC vs TBC",
-      "startTime": "09:30:00 PM 29-11-2025"
-    },
-    {
       "id": 138310,
       "event_category": "Cricket",
       "title": "Sudurpaschim Royals vs Janakpur Bolts (Nepal Premier League, 2025)",
@@ -178,18 +164,6 @@
       "startTime": "06:30:00 PM 29-11-2025"
     },
     {
-      "id": 138069,
-      "event_category": "Football",
-      "title": "Sporting de Gijón vs FC Andorra (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg",
-      "team_1": "Sporting de Gijón",
-      "team_2": "FC Andorra",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Sporting de Gijón vs FC Andorra",
-      "startTime": "01:00:00 AM 29-11-2025"
-    },
-    {
       "id": 136971,
       "event_category": "Football",
       "title": "Leicester City F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
@@ -224,6 +198,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Mallorca vs CA Osasuna",
       "startTime": "06:30:00 PM 29-11-2025"
+    },
+    {
+      "id": 138069,
+      "event_category": "Football",
+      "title": "Sporting de Gijón vs FC Andorra (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg",
+      "team_1": "Sporting de Gijón",
+      "team_2": "FC Andorra",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Sporting de Gijón vs FC Andorra",
+      "startTime": "01:00:00 AM 29-11-2025"
     },
     {
       "id": 138027,
@@ -286,18 +272,6 @@
       "startTime": "11:00:00 PM 29-11-2025"
     },
     {
-      "id": 138070,
-      "event_category": "Football",
-      "title": "Albacete vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138070_CASACARDS_APP.png",
-      "team_1": "Albacete",
-      "team_2": "Deportivo de La Coruña",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Deportivo de La Coruña",
-      "startTime": "11:00:00 PM 29-11-2025"
-    },
-    {
       "id": 130968,
       "event_category": "Football",
       "title": "Atletico de Madrid vs Real Oviedo (LALIGA 2025-26)",
@@ -308,6 +282,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Atletico de Madrid vs Real Oviedo",
       "startTime": "01:30:00 AM 30-11-2025"
+    },
+    {
+      "id": 138070,
+      "event_category": "Football",
+      "title": "Albacete vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138070_CASACARDS_APP.png",
+      "team_1": "Albacete",
+      "team_2": "Deportivo de La Coruña",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Deportivo de La Coruña",
+      "startTime": "11:00:00 PM 29-11-2025"
     },
     {
       "id": 138059,
@@ -416,6 +402,18 @@
       "event_name": "Mini SEA Games Men's T20, 2025",
       "match_name": "Bahrain vs Thailand",
       "startTime": "07:30:00 AM 30-11-2025"
+    },
+    {
+      "id": 138099,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138099_5758_UAE-W_NAM-W_FC-Web.jpg",
+      "team_1": "United Arab Emirates Women",
+      "team_2": "Namibia Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "United Arab Emirates Women vs Namibia Women",
+      "startTime": "08:00:00 AM 30-11-2025"
     }
   ]
 }
