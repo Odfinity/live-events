@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:18 PM 29-11-2025",
+  "last update time": "11:29 PM 29-11-2025",
   "matches": [
     {
       "id": 118494,
@@ -88,18 +88,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138070_english_hls_18127e6ae235352_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 130964,
-      "event_category": "Football",
-      "title": "FC Barcelona vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130964_5427_BAR_ALA_fc-Web.jpg",
-      "team_1": "FC Barcelona",
-      "team_2": "Deportivo Alaves",
+      "id": 138059,
+      "event_category": "Cricket",
+      "title": "Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+      "team_1": "Trinidad & Tobago Red Force",
+      "team_2": "Barbados Pride",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "FC Barcelona vs Deportivo Alaves",
-      "startTime": "08:45:00 PM 29-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130964_english_hls_9d5146c35b25640_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130964_english_hls_9d5146c35b25640_1ta-di_h264/index.m3u8"
+      "event_name": "CG United Super50 Cup, 2025",
+      "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
+      "startTime": "11:30:00 PM 29-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/cmoXh2FLTlCj1KGI2r-KiA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138059_english_hls_38216a413471243_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138233,
@@ -114,18 +114,6 @@
       "startTime": "05:00:00 PM 30-11-2025"
     },
     {
-      "id": 138657,
-      "event_category": "Cricket",
-      "title": "Prime Ministers XI vs England XI (England tour of Australia, Tour Match, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
-      "team_1": "Prime Ministers XI",
-      "team_2": "England XI",
-      "status": "PAUSED",
-      "event_name": "England tour of Australia, Tour Match, 2025",
-      "match_name": "Prime Ministers XI vs England XI",
-      "startTime": "09:10:00 AM 29-11-2025"
-    },
-    {
       "id": 138234,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
@@ -138,28 +126,16 @@
       "startTime": "07:15:00 PM 30-11-2025"
     },
     {
-      "id": 138059,
+      "id": 138657,
       "event_category": "Cricket",
-      "title": "Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-      "team_1": "Trinidad & Tobago Red Force",
-      "team_2": "Barbados Pride",
-      "status": "UPCOMING",
-      "event_name": "CG United Super50 Cup, 2025",
-      "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
-      "startTime": "11:30:00 PM 29-11-2025"
-    },
-    {
-      "id": 130968,
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130968_5427_ATL_RO_Web_1763971793807.jpg",
-      "team_1": "Atletico de Madrid",
-      "team_2": "Real Oviedo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs Real Oviedo",
-      "startTime": "01:30:00 AM 30-11-2025"
+      "title": "Prime Ministers XI vs England XI (England tour of Australia, Tour Match, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
+      "team_1": "Prime Ministers XI",
+      "team_2": "England XI",
+      "status": "PAUSED",
+      "event_name": "England tour of Australia, Tour Match, 2025",
+      "match_name": "Prime Ministers XI vs England XI",
+      "startTime": "09:10:00 AM 29-11-2025"
     },
     {
       "id": 138455,
@@ -172,6 +148,18 @@
       "event_name": "Mini SEA Games Men's T20, 2025",
       "match_name": "Bahrain vs Thailand",
       "startTime": "07:30:00 AM 30-11-2025"
+    },
+    {
+      "id": 130968,
+      "event_category": "Football",
+      "title": "Atletico de Madrid vs Real Oviedo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130968_5427_ATL_RO_Web_1763971793807.jpg",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Real Oviedo",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs Real Oviedo",
+      "startTime": "01:30:00 AM 30-11-2025"
     },
     {
       "id": 138099,
@@ -448,6 +436,18 @@
       "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
       "match_name": "Race",
       "startTime": "09:30:00 PM 30-11-2025"
+    },
+    {
+      "id": 138456,
+      "event_category": "Cricket",
+      "title": "Malaysia vs Bahrain (Mini SEA Games Men's T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138456_5780_MAS_BAH_fc-Web_1764062590005.jpg",
+      "team_1": "Malaysia",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Mini SEA Games Men's T20, 2025",
+      "match_name": "Malaysia vs Bahrain",
+      "startTime": "07:30:00 AM 01-12-2025"
     }
   ]
 }
