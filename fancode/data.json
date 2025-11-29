@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:21 AM 29-11-2025",
+  "last update time": "07:21 AM 29-11-2025",
   "matches": [
+    {
+      "id": 138612,
+      "event_category": "Golf",
+      "title": "Day 3 vs Brisbane, Australia (BMW Australian PGA Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Australian-PGA-Championship-old-match-card-(1).png",
+      "team_1": "Day 3",
+      "team_2": "Brisbane, Australia",
+      "status": "LIVE",
+      "event_name": "BMW Australian PGA Championship",
+      "match_name": "Day 3",
+      "startTime": "06:30:00 AM 29-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/vpUe_JA9TZq8vYicO0JO1Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138612_english_hls_b03bd9df0899278_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138240,
       "event_category": "Cricket",
@@ -112,18 +126,6 @@
       "startTime": "06:30:00 PM 29-11-2025"
     },
     {
-      "id": 138423,
-      "event_category": "Hockey",
-      "title": "Canada vs India (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138423_5777_CAN_IND_fc-Web.jpg",
-      "team_1": "Canada",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Canada vs India",
-      "startTime": "11:30:00 AM 29-11-2025"
-    },
-    {
       "id": 138027,
       "event_category": "Football",
       "title": "Al Hilal SFC vs Al-Fateh SC (Saudi Kings Cup 2025-2026)",
@@ -148,18 +150,6 @@
       "startTime": "08:30:00 PM 29-11-2025"
     },
     {
-      "id": 138424,
-      "event_category": "Hockey",
-      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Belgium",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "New Zealand vs Belgium",
-      "startTime": "01:30:00 PM 29-11-2025"
-    },
-    {
       "id": 130964,
       "event_category": "Football",
       "title": "FC Barcelona vs Deportivo Alaves (LALIGA 2025-26)",
@@ -170,6 +160,30 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "FC Barcelona vs Deportivo Alaves",
       "startTime": "08:45:00 PM 29-11-2025"
+    },
+    {
+      "id": 138423,
+      "event_category": "Hockey",
+      "title": "Canada vs India (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138423_5777_CAN_IND_fc-Web.jpg",
+      "team_1": "Canada",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "Canada vs India",
+      "startTime": "11:30:00 AM 29-11-2025"
+    },
+    {
+      "id": 138424,
+      "event_category": "Hockey",
+      "title": "New Zealand vs Belgium (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138424_5777_NZ_BEL_fc-Web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Belgium",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "New Zealand vs Belgium",
+      "startTime": "01:30:00 PM 29-11-2025"
     },
     {
       "id": 138425,
@@ -278,18 +292,6 @@
       "event_name": "Mini SEA Games Men's T20, 2025",
       "match_name": "Bahrain vs Thailand",
       "startTime": "07:30:00 AM 30-11-2025"
-    },
-    {
-      "id": 138612,
-      "event_category": "Golf",
-      "title": "Day 3 vs Brisbane, Australia (BMW Australian PGA Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Australian-PGA-Championship-old-match-card-(1).png",
-      "team_1": "Day 3",
-      "team_2": "Brisbane, Australia",
-      "status": "UPCOMING",
-      "event_name": "BMW Australian PGA Championship",
-      "match_name": "Day 3",
-      "startTime": "06:30:00 AM 29-11-2025"
     },
     {
       "id": 138099,
