@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:26 PM 30-11-2025",
+  "last update time": "08:55 PM 30-11-2025",
   "matches": [
     {
       "id": 118495,
@@ -16,20 +16,6 @@
       "startTime": "09:30:00 PM 30-11-2025",
       "dai_url": "https://db5zt1c7xktt3.cloudfront.net/out/v1/a621359be29f4747b8c0635e4f6c41f4/index.m3u8",
       "adfree_url": "https://db5zt1c7xktt3.cloudfront.net/out/v1/a621359be29f4747b8c0635e4f6c41f4/index.m3u8"
-    },
-    {
-      "id": 130963,
-      "event_category": "Football",
-      "title": "Real Sociedad vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130963_5427_RS_VIL_fc-Web.jpg",
-      "team_1": "Real Sociedad",
-      "team_2": "Villarreal CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Sociedad vs Villarreal CF",
-      "startTime": "06:30:00 PM 30-11-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138234,
@@ -60,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130966_english_hls_94e0764f5d50366_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138072,
-      "event_category": "Football",
-      "title": "Real Zaragoza vs Leganés (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138072_CASACARDS_APP.png",
-      "team_1": "Real Zaragoza",
-      "team_2": "Leganés",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Zaragoza vs Leganés",
-      "startTime": "06:30:00 PM 30-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/9mRPIC3DTYWMFsSCWR5Amg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138072_english_hls_7fa992dab119799_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137198,
       "event_category": "Golf",
       "title": "Day 4 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
@@ -86,6 +58,20 @@
       "startTime": "06:00:00 PM 30-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/m5-WqJoXQ5-bg_y9vtmsvQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137198_english_hls_48cd739f0748161_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130963,
+      "event_category": "Football",
+      "title": "Real Sociedad vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130963_5427_RS_VIL_fc-Web.jpg",
+      "team_1": "Real Sociedad",
+      "team_2": "Villarreal CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs Villarreal CF",
+      "startTime": "06:30:00 PM 30-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8"
     },
     {
       "id": 130969,
@@ -398,6 +384,30 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "Victoria vs Western Australia",
       "startTime": "05:00:00 AM 04-12-2025"
+    },
+    {
+      "id": 138661,
+      "event_category": "Cricket",
+      "title": "Malaysia Women vs Hong Kong, China Women (Hong Kong, China Women tour of Malaysia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
+      "team_1": "Malaysia Women",
+      "team_2": "Hong Kong, China Women",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
+      "match_name": "Malaysia Women vs Hong Kong, China Women",
+      "startTime": "07:00:00 AM 04-12-2025"
+    },
+    {
+      "id": 138618,
+      "event_category": "Golf",
+      "title": "Day 1 vs Melbourne, Australia (Crown Australian Open 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png",
+      "team_1": "Day 1",
+      "team_2": "Melbourne, Australia",
+      "status": "UPCOMING",
+      "event_name": "Crown Australian Open 2025",
+      "match_name": "Day 1",
+      "startTime": "01:30:00 AM 04-12-2025"
     }
   ]
 }
