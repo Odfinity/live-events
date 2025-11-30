@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:23 AM 30-11-2025",
+  "last update time": "10:54 AM 30-11-2025",
   "matches": [
-    {
-      "id": 138455,
-      "event_category": "Cricket",
-      "title": "Thailand vs Bahrain (Mini SEA Games Men's T20, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138455_5780_BAH_TL_fc-Web_1764057419320.jpg",
-      "team_1": "Thailand",
-      "team_2": "Bahrain",
-      "status": "LIVE",
-      "event_name": "Mini SEA Games Men's T20, 2025",
-      "match_name": "Thailand vs Bahrain",
-      "startTime": "07:30:00 AM 30-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/coElfLK0RACvKs4KE2Le8g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138455_english_hls_08e7eb3de053602_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138099,
       "event_category": "Cricket",
@@ -60,6 +46,62 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1667962_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 138667,
+      "event_category": "Football",
+      "title": "Albirex Niigata vs Kashiwa Reysol (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Albirex Niigata",
+      "team_2": "Kashiwa Reysol",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Albirex Niigata vs Kashiwa Reysol",
+      "startTime": "10:30:00 AM 30-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138667_english_hls_de2cc0efd891270_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138667_english_hls_de2cc0efd891270_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138666,
+      "event_category": "Football",
+      "title": "Yokohama vs Kyoto Sanga (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Yokohama",
+      "team_2": "Kyoto Sanga",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Yokohama vs Kyoto Sanga",
+      "startTime": "10:30:00 AM 30-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138666_english_hls_5c02351cef49688_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138666_english_hls_5c02351cef49688_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138665,
+      "event_category": "Football",
+      "title": "Kawasaki Frontale vs Sanfrecce Hiroshima (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Kawasaki Frontale",
+      "team_2": "Sanfrecce Hiroshima",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Kawasaki Frontale vs Sanfrecce Hiroshima",
+      "startTime": "10:30:00 AM 30-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138665_english_hls_0c0f49473d98547_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138665_english_hls_0c0f49473d98547_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138664,
+      "event_category": "Football",
+      "title": "Tokyo Verdy vs Kashima Antlers (J League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Tokyo Verdy",
+      "team_2": "Kashima Antlers",
+      "status": "LIVE",
+      "event_name": "J League 2025",
+      "match_name": "Tokyo Verdy vs Kashima Antlers",
+      "startTime": "10:30:00 AM 30-11-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138664_english_hls_18152d391b64392_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138664_english_hls_18152d391b64392_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138613,
       "event_category": "Golf",
       "title": "Day 4 vs Brisbane, Australia (BMW Australian PGA Championship)",
@@ -72,6 +114,20 @@
       "startTime": "06:30:00 AM 30-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/XYLPF7dIT9m9s2rn1MzXIA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138613_english_hls_6203f1338999020_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138455,
+      "event_category": "Cricket",
+      "title": "Thailand vs Bahrain (Mini SEA Games Men's T20, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138455_5780_BAH_TL_fc-Web_1764057419320.jpg",
+      "team_1": "Thailand",
+      "team_2": "Bahrain",
+      "status": "LIVE",
+      "event_name": "Mini SEA Games Men's T20, 2025",
+      "match_name": "Thailand vs Bahrain",
+      "startTime": "07:30:00 AM 30-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/coElfLK0RACvKs4KE2Le8g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138455_english_hls_08e7eb3de053602_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138233,
@@ -96,54 +152,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "07:15:00 PM 30-11-2025"
-    },
-    {
-      "id": 138667,
-      "event_category": "Football",
-      "title": "Albirex Niigata vs Kashiwa Reysol (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Albirex Niigata",
-      "team_2": "Kashiwa Reysol",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Albirex Niigata vs Kashiwa Reysol",
-      "startTime": "10:30:00 AM 30-11-2025"
-    },
-    {
-      "id": 138666,
-      "event_category": "Football",
-      "title": "Yokohama vs Kyoto Sanga (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Yokohama",
-      "team_2": "Kyoto Sanga",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Yokohama vs Kyoto Sanga",
-      "startTime": "10:30:00 AM 30-11-2025"
-    },
-    {
-      "id": 138665,
-      "event_category": "Football",
-      "title": "Kawasaki Frontale vs Sanfrecce Hiroshima (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Kawasaki Frontale",
-      "team_2": "Sanfrecce Hiroshima",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Kawasaki Frontale vs Sanfrecce Hiroshima",
-      "startTime": "10:30:00 AM 30-11-2025"
-    },
-    {
-      "id": 138664,
-      "event_category": "Football",
-      "title": "Tokyo Verdy vs Kashima Antlers (J League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-      "team_1": "Tokyo Verdy",
-      "team_2": "Kashima Antlers",
-      "status": "UPCOMING",
-      "event_name": "J League 2025",
-      "match_name": "Tokyo Verdy vs Kashima Antlers",
-      "startTime": "10:30:00 AM 30-11-2025"
     },
     {
       "id": 138658,
@@ -254,18 +262,6 @@
       "startTime": "03:45:00 PM 30-11-2025"
     },
     {
-      "id": 138428,
-      "event_category": "Hockey",
-      "title": "Belgium vs India (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138415_5777_BEL_IND_fc-Web.jpg",
-      "team_1": "Belgium",
-      "team_2": "India",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Belgium vs India",
-      "startTime": "06:00:00 PM 30-11-2025"
-    },
-    {
       "id": 130960,
       "event_category": "Football",
       "title": "Girona FC vs Real Madrid (LALIGA 2025-26)",
@@ -276,6 +272,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Girona FC vs Real Madrid",
       "startTime": "01:30:00 AM 01-12-2025"
+    },
+    {
+      "id": 138428,
+      "event_category": "Hockey",
+      "title": "Belgium vs India (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138415_5777_BEL_IND_fc-Web.jpg",
+      "team_1": "Belgium",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "Sultan Azlan Shah Cup",
+      "match_name": "Belgium vs India",
+      "startTime": "06:00:00 PM 30-11-2025"
     },
     {
       "id": 138072,
