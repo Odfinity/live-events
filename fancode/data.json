@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 30-11-2025",
+  "last update time": "03:57 PM 30-11-2025",
   "matches": [
-    {
-      "id": 138657,
-      "event_category": "Cricket",
-      "title": "Prime Ministers XI vs England XI (England tour of Australia, Tour Match, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
-      "team_1": "Prime Ministers XI",
-      "team_2": "England XI",
-      "status": "LIVE",
-      "event_name": "England tour of Australia, Tour Match, 2025",
-      "match_name": "Prime Ministers XI vs England XI",
-      "startTime": "09:10:00 AM 29-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/15nUy-BOSC2Q-GJxMBJPIQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1667962_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138311,
       "event_category": "Cricket",
@@ -32,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138311_english_hls_61ec21c4158250_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138426,
+      "id": 138427,
       "event_category": "Hockey",
-      "title": "Canada vs Korea (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
-      "team_1": "Canada",
-      "team_2": "Korea",
+      "title": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
+      "team_1": "New Zealand",
+      "team_2": "Malaysia",
       "status": "LIVE",
       "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "Canada vs Korea",
-      "startTime": "01:30:00 PM 30-11-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/BROuNJKhSn-FxWAlilEuhA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138426_english_hls_b25766be9162054_1ta-di_h264/index.m3u8"
+      "match_name": "New Zealand vs Malaysia",
+      "startTime": "03:45:00 PM 30-11-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 138233,
@@ -68,18 +54,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "07:15:00 PM 30-11-2025"
-    },
-    {
-      "id": 138427,
-      "event_category": "Hockey",
-      "title": "New Zealand vs Malaysia (Sultan Azlan Shah Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138412_5777_NZ_ML_fc-Web.jpg",
-      "team_1": "New Zealand",
-      "team_2": "Malaysia",
-      "status": "UPCOMING",
-      "event_name": "Sultan Azlan Shah Cup",
-      "match_name": "New Zealand vs Malaysia",
-      "startTime": "03:45:00 PM 30-11-2025"
     },
     {
       "id": 130963,
@@ -178,6 +152,18 @@
       "startTime": "12:00:00 PM 01-12-2025"
     },
     {
+      "id": 138043,
+      "event_category": "Cricket",
+      "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+      "team_1": "West Indies Under-19",
+      "team_2": "England Under-19",
+      "status": "UPCOMING",
+      "event_name": "England Under-19 tour of West Indies, 2025",
+      "match_name": "West Indies Under-19 vs England Under-19",
+      "startTime": "06:30:00 PM 01-12-2025"
+    },
+    {
       "id": 119076,
       "event_category": "Motorsports",
       "title": "Feature Race vs Lusail (F2 QATAR 2025)",
@@ -212,18 +198,6 @@
       "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
       "match_name": "Race",
       "startTime": "09:30:00 PM 30-11-2025"
-    },
-    {
-      "id": 138043,
-      "event_category": "Cricket",
-      "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-      "team_1": "West Indies Under-19",
-      "team_2": "England Under-19",
-      "status": "UPCOMING",
-      "event_name": "England Under-19 tour of West Indies, 2025",
-      "match_name": "West Indies Under-19 vs England Under-19",
-      "startTime": "06:30:00 PM 01-12-2025"
     },
     {
       "id": 137696,
@@ -404,6 +378,42 @@
       "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
       "match_name": "Malaysia Women vs Hong Kong, China Women",
       "startTime": "07:30:00 AM 03-12-2025"
+    },
+    {
+      "id": 138463,
+      "event_category": "Cricket",
+      "title": "Bahrain vs Malaysia A (Mini SEA Games Men's T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Bahrain-vs-Malaysia-A-(1).png",
+      "team_1": "Bahrain",
+      "team_2": "Malaysia A",
+      "status": "UPCOMING",
+      "event_name": "Mini SEA Games Men's T10, 2025",
+      "match_name": "Bahrain vs Malaysia A",
+      "startTime": "12:00:00 PM 03-12-2025"
+    },
+    {
+      "id": 138314,
+      "event_category": "Cricket",
+      "title": "Biratnagar Kings vs Lumbini Lions (Nepal Premier League, 2025)",
+      "src": "https://uat.fancode.com/skillup-uploads/cms-media/138314_5771_BK_LBL_FC-Web.jpg",
+      "team_1": "Biratnagar Kings",
+      "team_2": "Lumbini Lions",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Biratnagar Kings vs Lumbini Lions",
+      "startTime": "03:45:00 PM 03-12-2025"
+    },
+    {
+      "id": 138624,
+      "event_category": "Cricket",
+      "title": "Sharjah Warriorz vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138624_5786_SWR_ADKR_FC-Web.jpg",
+      "team_1": "Sharjah Warriorz",
+      "team_2": "Abu Dhabi Knight Riders",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Sharjah Warriorz vs Abu Dhabi Knight Riders",
+      "startTime": "08:00:00 PM 03-12-2025"
     }
   ]
 }
