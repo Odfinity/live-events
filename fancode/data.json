@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:54 AM 30-11-2025",
+  "last update time": "09:15 AM 30-11-2025",
   "matches": [
     {
       "id": 138455,
@@ -16,6 +16,48 @@
       "startTime": "07:30:00 AM 30-11-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/coElfLK0RACvKs4KE2Le8g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138455_english_hls_08e7eb3de053602_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138099,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138099_5758_UAE-W_NAM-W_FC-Web.jpg",
+      "team_1": "United Arab Emirates Women",
+      "team_2": "Namibia Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "United Arab Emirates Women vs Namibia Women",
+      "startTime": "08:00:00 AM 30-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/zj9F9tUDSAuVAL_vpzLKyQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138099_english_hls_b00a5c213332422_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138084,
+      "event_category": "Cricket",
+      "title": "Uganda Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138084_5758_ND-W_UG-W_FC-Web.jpg",
+      "team_1": "Uganda Women",
+      "team_2": "Netherlands Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+      "match_name": "Uganda Women vs Netherlands Women",
+      "startTime": "08:00:00 AM 30-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/sdQ8kOiIR8q3K3QBNzbuKA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138084_english_hls_9a7acac1e895672_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138657,
+      "event_category": "Cricket",
+      "title": "Prime Ministers XI vs England XI (England tour of Australia, Tour Match, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
+      "team_1": "Prime Ministers XI",
+      "team_2": "England XI",
+      "status": "LIVE",
+      "event_name": "England tour of Australia, Tour Match, 2025",
+      "match_name": "Prime Ministers XI vs England XI",
+      "startTime": "09:10:00 AM 29-11-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/15nUy-BOSC2Q-GJxMBJPIQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1667962_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138613,
@@ -54,42 +96,6 @@
       "event_name": "Abu Dhabi T10, 2025",
       "match_name": "TBC vs TBC",
       "startTime": "07:15:00 PM 30-11-2025"
-    },
-    {
-      "id": 138099,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138099_5758_UAE-W_NAM-W_FC-Web.jpg",
-      "team_1": "United Arab Emirates Women",
-      "team_2": "Namibia Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_name": "United Arab Emirates Women vs Namibia Women",
-      "startTime": "08:00:00 AM 30-11-2025"
-    },
-    {
-      "id": 138084,
-      "event_category": "Cricket",
-      "title": "Uganda Women vs Netherlands Women (ICC Women's Emerging Nations Trophy, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138084_5758_ND-W_UG-W_FC-Web.jpg",
-      "team_1": "Uganda Women",
-      "team_2": "Netherlands Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_name": "Uganda Women vs Netherlands Women",
-      "startTime": "08:00:00 AM 30-11-2025"
-    },
-    {
-      "id": 138657,
-      "event_category": "Cricket",
-      "title": "Prime Ministers XI vs England XI (England tour of Australia, Tour Match, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
-      "team_1": "Prime Ministers XI",
-      "team_2": "England XI",
-      "status": "PAUSED",
-      "event_name": "England tour of Australia, Tour Match, 2025",
-      "match_name": "Prime Ministers XI vs England XI",
-      "startTime": "09:10:00 AM 29-11-2025"
     },
     {
       "id": 138658,
@@ -164,6 +170,18 @@
       "startTime": "08:45:00 PM 30-11-2025"
     },
     {
+      "id": 130969,
+      "event_category": "Football",
+      "title": "RC Celta vs RCD Espanyol (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130969_5427_CEV_ESL_fc-Web.jpg",
+      "team_1": "RC Celta",
+      "team_2": "RCD Espanyol",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs RCD Espanyol",
+      "startTime": "11:00:00 PM 30-11-2025"
+    },
+    {
       "id": 138426,
       "event_category": "Hockey",
       "title": "Canada vs Korea (Sultan Azlan Shah Cup)",
@@ -186,18 +204,6 @@
       "event_name": "Sultan Azlan Shah Cup",
       "match_name": "New Zealand vs Malaysia",
       "startTime": "03:45:00 PM 30-11-2025"
-    },
-    {
-      "id": 130969,
-      "event_category": "Football",
-      "title": "RC Celta vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130969_5427_CEV_ESL_fc-Web.jpg",
-      "team_1": "RC Celta",
-      "team_2": "RCD Espanyol",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs RCD Espanyol",
-      "startTime": "11:00:00 PM 30-11-2025"
     },
     {
       "id": 138428,
@@ -296,6 +302,18 @@
       "startTime": "07:30:00 AM 01-12-2025"
     },
     {
+      "id": 138659,
+      "event_category": "Cricket",
+      "title": "Malaysia Women vs Hong Kong, China Women (Hong Kong, China Women tour of Malaysia, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
+      "team_1": "Malaysia Women",
+      "team_2": "Hong Kong, China Women",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
+      "match_name": "Malaysia Women vs Hong Kong, China Women",
+      "startTime": "12:00:00 PM 01-12-2025"
+    },
+    {
       "id": 119076,
       "event_category": "Motorsports",
       "title": "Feature Race vs Lusail (F2 QATAR 2025)",
@@ -330,18 +348,6 @@
       "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
       "match_name": "Race",
       "startTime": "09:30:00 PM 30-11-2025"
-    },
-    {
-      "id": 138659,
-      "event_category": "Cricket",
-      "title": "Malaysia Women vs Hong Kong, China Women (Hong Kong, China Women tour of Malaysia, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
-      "team_1": "Malaysia Women",
-      "team_2": "Hong Kong, China Women",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
-      "match_name": "Malaysia Women vs Hong Kong, China Women",
-      "startTime": "12:00:00 PM 01-12-2025"
     },
     {
       "id": 138043,
