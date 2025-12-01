@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 01-12-2025",
+  "last update time": "06:29 PM 01-12-2025",
   "matches": [
+    {
+      "id": 138043,
+      "event_category": "Cricket",
+      "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+      "team_1": "West Indies Under-19",
+      "team_2": "England Under-19",
+      "status": "LIVE",
+      "event_name": "England Under-19 tour of West Indies, 2025",
+      "match_name": "West Indies Under-19 vs England Under-19",
+      "startTime": "06:30:00 PM 01-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ger-8nBwQqaduMuBmNzosg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138043_english_hls_3c6d37626448317_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 137696,
       "event_category": "Cricket",
@@ -16,16 +30,16 @@
       "startTime": "03:30:00 AM 02-12-2025"
     },
     {
-      "id": 138043,
+      "id": 133942,
       "event_category": "Cricket",
-      "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-      "team_1": "West Indies Under-19",
-      "team_2": "England Under-19",
+      "title": "Victoria vs Western Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133942_5606_VCT_WAU_fc-web.jpg",
+      "team_1": "Victoria",
+      "team_2": "Western Australia",
       "status": "UPCOMING",
-      "event_name": "England Under-19 tour of West Indies, 2025",
-      "match_name": "West Indies Under-19 vs England Under-19",
-      "startTime": "06:30:00 PM 01-12-2025"
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Victoria vs Western Australia",
+      "startTime": "04:30:00 AM 02-12-2025"
     },
     {
       "id": 130962,
@@ -52,18 +66,6 @@
       "startTime": "01:30:00 AM 02-12-2025"
     },
     {
-      "id": 133942,
-      "event_category": "Cricket",
-      "title": "Victoria vs Western Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133942_5606_VCT_WAU_fc-web.jpg",
-      "team_1": "Victoria",
-      "team_2": "Western Australia",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Victoria vs Western Australia",
-      "startTime": "04:30:00 AM 02-12-2025"
-    },
-    {
       "id": 138460,
       "event_category": "Cricket",
       "title": "Malaysia vs Malaysia A (Mini SEA Games Men's T10, 2025)",
@@ -76,18 +78,6 @@
       "startTime": "07:00:00 AM 02-12-2025"
     },
     {
-      "id": 138461,
-      "event_category": "Cricket",
-      "title": "Bahrain vs Thailand (Mini SEA Games Men's T10, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Bahrain-vs-Thailand-(1).png",
-      "team_1": "Bahrain",
-      "team_2": "Thailand",
-      "status": "UPCOMING",
-      "event_name": "Mini SEA Games Men's T10, 2025",
-      "match_name": "Bahrain vs Thailand",
-      "startTime": "10:00:00 AM 02-12-2025"
-    },
-    {
       "id": 138241,
       "event_category": "Cricket",
       "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
@@ -98,6 +88,18 @@
       "event_name": "Ireland tour of Bangladesh, 2025",
       "match_name": "Bangladesh vs Ireland",
       "startTime": "05:30:00 PM 02-12-2025"
+    },
+    {
+      "id": 138461,
+      "event_category": "Cricket",
+      "title": "Bahrain vs Thailand (Mini SEA Games Men's T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Bahrain-vs-Thailand-(1).png",
+      "team_1": "Bahrain",
+      "team_2": "Thailand",
+      "status": "UPCOMING",
+      "event_name": "Mini SEA Games Men's T10, 2025",
+      "match_name": "Bahrain vs Thailand",
+      "startTime": "10:00:00 AM 02-12-2025"
     },
     {
       "id": 138312,
@@ -124,18 +126,6 @@
       "startTime": "01:00:00 PM 02-12-2025"
     },
     {
-      "id": 138313,
-      "event_category": "Cricket",
-      "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138313_5771_PKA_KNY_FC-Web_1764576118853.jpg",
-      "team_1": "Pokhara Avengers",
-      "team_2": "Karnali Yaks",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Pokhara Avengers vs Karnali Yaks",
-      "startTime": "03:45:00 PM 02-12-2025"
-    },
-    {
       "id": 138623,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs Desert Vipers (DP World ILT20 2025-26)",
@@ -146,6 +136,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Dubai Capitals vs Desert Vipers",
       "startTime": "08:00:00 PM 02-12-2025"
+    },
+    {
+      "id": 138313,
+      "event_category": "Cricket",
+      "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138313_5771_PKA_KNY_FC-Web_1764576118853.jpg",
+      "team_1": "Pokhara Avengers",
+      "team_2": "Karnali Yaks",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Pokhara Avengers vs Karnali Yaks",
+      "startTime": "03:45:00 PM 02-12-2025"
     },
     {
       "id": 131011,
