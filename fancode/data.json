@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:30 PM 02-12-2025",
+  "last update time": "08:07 PM 02-12-2025",
   "matches": [
     {
       "id": 138623,
@@ -16,20 +16,6 @@
       "startTime": "08:00:00 PM 02-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/aa3RWG1cRfytbPqllHJAMA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138623_english_hls_2d87ea763b91022_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138313,
-      "event_category": "Cricket",
-      "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138313_5771_PKA_KNY_FC-Web_1764576118853.jpg",
-      "team_1": "Pokhara Avengers",
-      "team_2": "Karnali Yaks",
-      "status": "LIVE",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Pokhara Avengers vs Karnali Yaks",
-      "startTime": "03:45:00 PM 02-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138313_english_hls_c269d77b6446709_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138313_english_hls_c269d77b6446709_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137696,
@@ -59,7 +45,7 @@
       "id": 138402,
       "event_category": "Football",
       "title": "RB Leipzig vs 1. FC Magdeburg (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/138402_CASACARDS_APP.png",
       "team_1": "RB Leipzig",
       "team_2": "1. FC Magdeburg",
       "status": "UPCOMING",
@@ -71,7 +57,7 @@
       "id": 138401,
       "event_category": "Football",
       "title": "Borussia Dortmund vs Bayer 04 Leverkusen (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/138401_CASACARDS_APP.png",
       "team_1": "Borussia Dortmund",
       "team_2": "Bayer 04 Leverkusen",
       "status": "UPCOMING",
@@ -450,6 +436,18 @@
       "event_name": "Hero World Challenge",
       "match_name": "Day 2",
       "startTime": "12:00:00 AM 06-12-2025"
+    },
+    {
+      "id": 138616,
+      "event_category": "Golf",
+      "title": "Day 4 vs Melbourne, Australia (Crown Australian Open 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png",
+      "team_1": "Day 4",
+      "team_2": "Melbourne, Australia",
+      "status": "UPCOMING",
+      "event_name": "Crown Australian Open 2025",
+      "match_name": "Day 4",
+      "startTime": "06:30:00 AM 06-12-2025"
     }
   ]
 }
