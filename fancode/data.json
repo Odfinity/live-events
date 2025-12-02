@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:30 PM 02-12-2025",
+  "last update time": "03:08 PM 02-12-2025",
   "matches": [
     {
       "id": 138241,
@@ -13,37 +13,9 @@
       "status": "LIVE",
       "event_name": "Ireland tour of Bangladesh, 2025",
       "match_name": "Ireland vs Bangladesh",
-      "startTime": "05:30:00 PM 02-12-2025",
+      "startTime": "01:30:00 PM 02-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/FXHwZPfGSDWNzolT87uHUg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138241_english_hls_4e52e6bfe264990_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138312,
-      "event_category": "Cricket",
-      "title": "Chitwan Rhinos vs Janakpur Bolts (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138312_5771_JKB_CWR_FC-Web_1764576119656.jpg",
-      "team_1": "Chitwan Rhinos",
-      "team_2": "Janakpur Bolts",
-      "status": "LIVE",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Chitwan Rhinos vs Janakpur Bolts",
-      "startTime": "11:30:00 AM 02-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138312_english_hls_0045c9ba337372_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138312_english_hls_0045c9ba337372_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138462,
-      "event_category": "Cricket",
-      "title": "Bahrain vs Malaysia (Mini SEA Games Men's T10, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/138462_CASACARDS_APP.png",
-      "team_1": "Bahrain",
-      "team_2": "Malaysia",
-      "status": "LIVE",
-      "event_name": "Mini SEA Games Men's T10, 2025",
-      "match_name": "Bahrain vs Malaysia",
-      "startTime": "01:00:00 PM 02-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/_OFgLFmORcGmiPUHVf0YyQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138462_english_hls_5c92f8eac43956_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137696,
@@ -464,6 +436,30 @@
       "event_name": "F2 ABU DHABI 2025",
       "match_name": "Qualifying Session",
       "startTime": "09:40:00 PM 05-12-2025"
+    },
+    {
+      "id": 138265,
+      "event_category": "Football",
+      "title": "Burgos vs Albacete (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Burgos",
+      "team_2": "Albacete",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Burgos vs Albacete",
+      "startTime": "01:00:00 AM 06-12-2025"
+    },
+    {
+      "id": 138277,
+      "event_category": "Golf",
+      "title": "Day 2 vs Albany GC (Hero World Challenge)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Albany GC",
+      "status": "UPCOMING",
+      "event_name": "Hero World Challenge",
+      "match_name": "Day 2",
+      "startTime": "12:00:00 AM 06-12-2025"
     }
   ]
 }
