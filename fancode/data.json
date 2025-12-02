@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:13 PM 02-12-2025",
+  "last update time": "01:27 PM 02-12-2025",
   "matches": [
+    {
+      "id": 138241,
+      "event_category": "Cricket",
+      "title": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg",
+      "team_1": "Ireland",
+      "team_2": "Bangladesh",
+      "status": "LIVE",
+      "event_name": "Ireland tour of Bangladesh, 2025",
+      "match_name": "Ireland vs Bangladesh",
+      "startTime": "01:30:00 PM 02-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/FXHwZPfGSDWNzolT87uHUg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138241_english_hls_4e52e6bfe264990_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138312,
       "event_category": "Cricket",
@@ -30,18 +44,6 @@
       "startTime": "01:00:00 PM 02-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/_OFgLFmORcGmiPUHVf0YyQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138462_english_hls_5c92f8eac43956_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138241,
-      "event_category": "Cricket",
-      "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Ireland",
-      "status": "UPCOMING",
-      "event_name": "Ireland tour of Bangladesh, 2025",
-      "match_name": "Bangladesh vs Ireland",
-      "startTime": "01:30:00 PM 02-12-2025"
     },
     {
       "id": 137696,
