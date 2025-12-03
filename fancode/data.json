@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:43 PM 03-12-2025",
+  "last update time": "11:11 PM 03-12-2025",
   "matches": [
     {
       "id": 138624,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/131017_5427_ATH_RM_fc-Web.jpg",
       "team_1": "Athletic Club",
       "team_2": "Real Madrid",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Real Madrid",
-      "startTime": "11:30:00 PM 03-12-2025"
+      "startTime": "11:30:00 PM 03-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131017_english_hls_16128d97e484789_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131017_english_hls_16128d97e484789_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137696,
@@ -54,18 +56,6 @@
       "startTime": "08:00:00 PM 04-12-2025"
     },
     {
-      "id": 138403,
-      "event_category": "Football",
-      "title": "1. FC Union Berlin vs FC Bayern München (DFB Pokal 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138403_CASACARDS_APP.png",
-      "team_1": "1. FC Union Berlin",
-      "team_2": "FC Bayern München",
-      "status": "UPCOMING",
-      "event_name": "DFB Pokal 2025-26",
-      "match_name": "1. FC Union Berlin vs FC Bayern München",
-      "startTime": "01:15:00 AM 04-12-2025"
-    },
-    {
       "id": 138661,
       "event_category": "Cricket",
       "title": "Malaysia Women vs Hong Kong, China Women (Hong Kong, China Women tour of Malaysia, 2025)",
@@ -76,6 +66,18 @@
       "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
       "match_name": "Malaysia Women vs Hong Kong, China Women",
       "startTime": "07:00:00 AM 04-12-2025"
+    },
+    {
+      "id": 138403,
+      "event_category": "Football",
+      "title": "1. FC Union Berlin vs FC Bayern München (DFB Pokal 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138403_CASACARDS_APP.png",
+      "team_1": "1. FC Union Berlin",
+      "team_2": "FC Bayern München",
+      "status": "UPCOMING",
+      "event_name": "DFB Pokal 2025-26",
+      "match_name": "1. FC Union Berlin vs FC Bayern München",
+      "startTime": "01:15:00 AM 04-12-2025"
     },
     {
       "id": 138464,
