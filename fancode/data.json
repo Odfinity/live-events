@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 AM 03-12-2025",
+  "last update time": "12:13 PM 03-12-2025",
   "matches": [
+    {
+      "id": 138463,
+      "event_category": "Cricket",
+      "title": "Bahrain vs Malaysia A (Mini SEA Games Men's T10, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Bahrain-vs-Malaysia-A_1764743150332.png",
+      "team_1": "Bahrain",
+      "team_2": "Malaysia A",
+      "status": "LIVE",
+      "event_name": "Mini SEA Games Men's T10, 2025",
+      "match_name": "Bahrain vs Malaysia A",
+      "startTime": "12:00:00 PM 03-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/wUmtMktaQmO1MT0CYDwYTA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138463_english_hls_58988269a219492_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 137696,
       "event_category": "Cricket",
@@ -10,12 +24,10 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
       "team_1": "New Zealand",
       "team_2": "West Indies",
-      "status": "LIVE",
+      "status": "PAUSED",
       "event_name": "West Indies tour of New Zealand, 2025",
       "match_name": "New Zealand vs West Indies",
-      "startTime": "03:30:00 AM 02-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764783421~acl=/*~id=81685836825935475497961191738724~hmac=42450af8d4276795805b91cee454b6b78a8baa91e766b4a2a059a816064665ed"
+      "startTime": "03:30:00 AM 02-12-2025"
     },
     {
       "id": 138624,
@@ -28,18 +40,6 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Sharjah Warriorz vs Abu Dhabi Knight Riders",
       "startTime": "08:00:00 PM 03-12-2025"
-    },
-    {
-      "id": 138463,
-      "event_category": "Cricket",
-      "title": "Bahrain vs Malaysia A (Mini SEA Games Men's T10, 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/138463_CASACARDS_APP.png",
-      "team_1": "Bahrain",
-      "team_2": "Malaysia A",
-      "status": "UPCOMING",
-      "event_name": "Mini SEA Games Men's T10, 2025",
-      "match_name": "Bahrain vs Malaysia A",
-      "startTime": "12:00:00 PM 03-12-2025"
     },
     {
       "id": 138314,
@@ -69,7 +69,7 @@
       "id": 138403,
       "event_category": "Football",
       "title": "1. FC Union Berlin vs FC Bayern München (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/138403_CASACARDS_APP.png",
       "team_1": "1. FC Union Berlin",
       "team_2": "FC Bayern München",
       "status": "UPCOMING",
