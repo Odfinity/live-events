@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:20 PM 05-12-2025",
+  "last update time": "12:55 PM 05-12-2025",
   "matches": [
-    {
-      "id": 134029,
-      "event_category": "Cricket",
-      "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
-      "team_1": "Western Australia",
-      "team_2": "Victoria",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Western Australia vs Victoria",
-      "startTime": "05:00:00 AM 04-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/oNlyEVguTg-DTg6mRFEncw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7069711_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 134030,
-      "event_category": "Cricket",
-      "title": "New South Wales vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134030_5609_NSW_QUN_fc-Web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Queensland",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Queensland",
-      "startTime": "05:00:00 AM 05-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/61jvXmNKQgiqUNCTrNKxFA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134030_english_hls_9444508c2d29886_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 134031,
       "event_category": "Cricket",
@@ -44,6 +16,20 @@
       "startTime": "05:30:00 AM 05-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/8qJguisWSSGUYsYYTuqFgw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134031_english_hls_0385f5e48517953_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 121612,
+      "event_category": "Motorsports",
+      "title": "Free Practice  vs Yas Island (F2 ABU DHABI 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Free Practice ",
+      "team_2": "Yas Island",
+      "status": "LIVE",
+      "event_name": "F2 ABU DHABI 2025",
+      "match_name": "Free Practice ",
+      "startTime": "12:35:00 PM 05-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/121612_english_hls_87737adfaf70639_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/121612_english_hls_87737adfaf70639_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137696,
@@ -106,16 +92,28 @@
       "startTime": "01:30:00 AM 06-12-2025"
     },
     {
-      "id": 121612,
-      "event_category": "Motorsports",
-      "title": "Free Practice  vs Yas Island (F2 ABU DHABI 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Free Practice ",
-      "team_2": "Yas Island",
-      "status": "UPCOMING",
-      "event_name": "F2 ABU DHABI 2025",
-      "match_name": "Free Practice ",
-      "startTime": "12:35:00 PM 05-12-2025"
+      "id": 134029,
+      "event_category": "Cricket",
+      "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
+      "team_1": "Western Australia",
+      "team_2": "Victoria",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Western Australia vs Victoria",
+      "startTime": "05:00:00 AM 04-12-2025"
+    },
+    {
+      "id": 134030,
+      "event_category": "Cricket",
+      "title": "New South Wales vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134030_5609_NSW_QUN_fc-Web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "Queensland",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Queensland",
+      "startTime": "05:00:00 AM 05-12-2025"
     },
     {
       "id": 138318,
@@ -178,6 +176,18 @@
       "startTime": "10:30:00 AM 06-12-2025"
     },
     {
+      "id": 138319,
+      "event_category": "Cricket",
+      "title": "Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138319_5771_CWR_PKA_FC-Web_1764576119607.jpg",
+      "team_1": "Chitwan Rhinos",
+      "team_2": "Pokhara Avengers",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Chitwan Rhinos vs Pokhara Avengers",
+      "startTime": "03:15:00 PM 06-12-2025"
+    },
+    {
       "id": 138673,
       "event_category": "Golf",
       "title": "Day 2 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
@@ -236,18 +246,6 @@
       "event_name": "Skechers World Champions Cup",
       "match_name": "Day 2",
       "startTime": "07:00:00 PM 05-12-2025"
-    },
-    {
-      "id": 138319,
-      "event_category": "Cricket",
-      "title": "Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138319_5771_CWR_PKA_FC-Web_1764576119607.jpg",
-      "team_1": "Chitwan Rhinos",
-      "team_2": "Pokhara Avengers",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Chitwan Rhinos vs Pokhara Avengers",
-      "startTime": "03:15:00 PM 06-12-2025"
     },
     {
       "id": 138277,
@@ -322,18 +320,6 @@
       "startTime": "08:30:00 PM 06-12-2025"
     },
     {
-      "id": 138674,
-      "event_category": "Golf",
-      "title": "Day 3 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
-      "team_1": "Day 3",
-      "team_2": "Sun City, South Africa",
-      "status": "UPCOMING",
-      "event_name": "Nedbank Golf Challenge in honour of Gary Player",
-      "match_name": "Day 3",
-      "startTime": "02:30:00 PM 06-12-2025"
-    },
-    {
       "id": 130978,
       "event_category": "Football",
       "title": "Deportivo Alaves vs Real Sociedad (LALIGA 2025-26)",
@@ -344,6 +330,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Deportivo Alaves vs Real Sociedad",
       "startTime": "08:45:00 PM 06-12-2025"
+    },
+    {
+      "id": 138674,
+      "event_category": "Golf",
+      "title": "Day 3 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
+      "team_1": "Day 3",
+      "team_2": "Sun City, South Africa",
+      "status": "UPCOMING",
+      "event_name": "Nedbank Golf Challenge in honour of Gary Player",
+      "match_name": "Day 3",
+      "startTime": "02:30:00 PM 06-12-2025"
     },
     {
       "id": 118498,
