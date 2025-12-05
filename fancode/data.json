@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:27 PM 05-12-2025",
+  "last update time": "07:08 PM 05-12-2025",
   "matches": [
     {
       "id": 118497,
@@ -44,6 +44,20 @@
       "startTime": "02:30:00 PM 05-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/deXaS_z1Se6UtIWlVsOOMA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138673_english_hls_92b776856179702_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138681,
+      "event_category": "Golf",
+      "title": "Day 2 vs United States (Skechers World Champions Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png",
+      "team_1": "Day 2",
+      "team_2": "United States",
+      "status": "LIVE",
+      "event_name": "Skechers World Champions Cup",
+      "match_name": "Day 2",
+      "startTime": "07:00:00 PM 05-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/GuiUTHQbSCWsl1WuqC1L-w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138681_english_hls_b3a6bc363277119_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137696,
@@ -142,30 +156,6 @@
       "startTime": "05:30:00 AM 05-12-2025"
     },
     {
-      "id": 138319,
-      "event_category": "Cricket",
-      "title": "Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138319_5771_CWR_PKA_FC-Web_1764576119607.jpg",
-      "team_1": "Chitwan Rhinos",
-      "team_2": "Pokhara Avengers",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Chitwan Rhinos vs Pokhara Avengers",
-      "startTime": "03:15:00 PM 06-12-2025"
-    },
-    {
-      "id": 138681,
-      "event_category": "Golf",
-      "title": "Day 2 vs United States (Skechers World Champions Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png",
-      "team_1": "Day 2",
-      "team_2": "United States",
-      "status": "UPCOMING",
-      "event_name": "Skechers World Champions Cup",
-      "match_name": "Day 2",
-      "startTime": "07:00:00 PM 05-12-2025"
-    },
-    {
       "id": 138627,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs Gulf Giants (DP World ILT20 2025-26)",
@@ -176,6 +166,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Dubai Capitals vs Gulf Giants",
       "startTime": "08:00:00 PM 06-12-2025"
+    },
+    {
+      "id": 138319,
+      "event_category": "Cricket",
+      "title": "Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138319_5771_CWR_PKA_FC-Web_1764576119607.jpg",
+      "team_1": "Chitwan Rhinos",
+      "team_2": "Pokhara Avengers",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Chitwan Rhinos vs Pokhara Avengers",
+      "startTime": "03:15:00 PM 06-12-2025"
     },
     {
       "id": 138671,
