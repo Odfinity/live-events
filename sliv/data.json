@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:25 PM 06-12-2025",
+  "last update time": "06:04 PM 06-12-2025",
   "matches": [
+    {
+      "id": "sl1090496700",
+      "isLive": true,
+      "event": "ABB FIA Formula E World Championship",
+      "match": "Round 1 - Sao Paulo E-PRIX - Qualifying Race - 6 Dec 2025",
+      "Provider": "FORMULA E OPERATIONS LIMITED",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011993/1764738463989770_ABB_FIA_FormulaE_WC25_Round_1_Sao_Paulo_EPRIX_Qualifying_Race_2dec_landscape_thumb.jpg",
+      "genre": "Racing",
+      "language": "en",
+      "venue": "",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "formula e,abb fia formula e,formula e championship,electric racing,fia electric racing series,e-prix,electric street racing,abb formula e,electric car racing,fia formula e world championship,formula e teams,formula e drivers,electric motorsport,abb formula e schedule,formula e tickets,formula e results,formula e highlights,electric vehicle racing,abb formula e news,formula e technology,ABBFIAFormulaEWorldChampionship",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496700.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496700.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496700.m3u8",
+      "sus": "hdntl=exp=1765110525~acl=%2f*~id=10482015445650583592543439843390~data=hdntl,2037139,DAI19ME-V3,none~hmac=774a0a256f379a01e8964c5a31876114f8bc10a8a64e4d9fac70aa93f6500532",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090495939",
       "isLive": false,
