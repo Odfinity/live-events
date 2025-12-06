@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 AM 06-12-2025",
+  "last update time": "12:08 PM 06-12-2025",
   "matches": [
     {
       "id": 118498,
@@ -126,34 +126,6 @@
       "startTime": "10:30:00 AM 06-12-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138668_english_hls_f7b9192f5d93582_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138668_english_hls_f7b9192f5d93582_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138616,
-      "event_category": "Golf",
-      "title": "Day 3 vs Melbourne, Australia (Crown Australian Open 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png",
-      "team_1": "Day 3",
-      "team_2": "Melbourne, Australia",
-      "status": "LIVE",
-      "event_name": "Crown Australian Open 2025",
-      "match_name": "Day 3",
-      "startTime": "07:00:00 AM 06-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/bLRHHtQeQLeGS2I3SD3Lxg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138616_english_hls_a310dcd84d76035_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137696,
-      "event_category": "Cricket",
-      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "West Indies",
-      "status": "LIVE",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "New Zealand vs West Indies",
-      "startTime": "03:30:00 AM 02-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765042484~acl=/*~id=35496525545581733037183133762951~hmac=3eadd76286a3bdfaa9c2274ba6c944877457dd29fd13debdcd9b3a89f7dc024e"
     },
     {
       "id": 138627,
@@ -336,18 +308,6 @@
       "startTime": "07:30:00 PM 06-12-2025"
     },
     {
-      "id": 138278,
-      "event_category": "Golf",
-      "title": "Day 3 vs Albany GC (Hero World Challenge)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Albany GC",
-      "status": "UPCOMING",
-      "event_name": "Hero World Challenge",
-      "match_name": "Day 3",
-      "startTime": "10:30:00 PM 06-12-2025"
-    },
-    {
       "id": 138710,
       "event_category": "Cricket",
       "title": "Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)",
@@ -358,6 +318,18 @@
       "event_name": "Oman Women's T20I Triangular Series, 2025",
       "match_name": "Oman Women vs Qatar Women",
       "startTime": "03:00:00 PM 07-12-2025"
+    },
+    {
+      "id": 138278,
+      "event_category": "Golf",
+      "title": "Day 3 vs Albany GC (Hero World Challenge)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Albany GC",
+      "status": "UPCOMING",
+      "event_name": "Hero World Challenge",
+      "match_name": "Day 3",
+      "startTime": "10:30:00 PM 06-12-2025"
     },
     {
       "id": 138320,
@@ -465,6 +437,18 @@
       "status": "UPCOMING",
       "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
       "match_name": "Race",
+      "startTime": "06:30:00 PM 07-12-2025"
+    },
+    {
+      "id": 138024,
+      "event_category": "Motorsports",
+      "title": "F1 Kids vs Abu Dhabi (F1 Kids)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu_Dhabi_GP_F1_Old_match-card.jpg",
+      "team_1": "F1 Kids",
+      "team_2": "Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "F1 Kids",
+      "match_name": "F1 Kids",
       "startTime": "06:30:00 PM 07-12-2025"
     }
   ]
