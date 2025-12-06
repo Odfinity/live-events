@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:47 PM 06-12-2025",
+  "last update time": "07:09 PM 06-12-2025",
   "matches": [
     {
       "id": 118499,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
       "team_1": "Qualifying",
       "team_2": "Abu Dhabi",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
       "match_name": "Qualifying",
-      "startTime": "07:30:00 PM 06-12-2025"
+      "startTime": "07:30:00 PM 06-12-2025",
+      "dai_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8",
+      "adfree_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
     },
     {
       "id": 136975,
@@ -82,8 +84,8 @@
       "event_name": "Indian Supercross Racing League",
       "match_name": "Indian Supercross Racing League",
       "startTime": "07:00:00 PM 06-12-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/ximLitgVR2K-j0nAk6ipRQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138319,
@@ -232,18 +234,6 @@
       "startTime": "03:00:00 PM 07-12-2025"
     },
     {
-      "id": 138320,
-      "event_category": "Cricket",
-      "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
-      "team_1": "Karnali Yaks",
-      "team_2": "Janakpur Bolts",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Karnali Yaks vs Janakpur Bolts",
-      "startTime": "03:15:00 PM 07-12-2025"
-    },
-    {
       "id": 138629,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
@@ -254,6 +244,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
       "startTime": "08:00:00 PM 07-12-2025"
+    },
+    {
+      "id": 138320,
+      "event_category": "Cricket",
+      "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
+      "team_1": "Karnali Yaks",
+      "team_2": "Janakpur Bolts",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Karnali Yaks vs Janakpur Bolts",
+      "startTime": "03:15:00 PM 07-12-2025"
     },
     {
       "id": 130970,
@@ -352,6 +354,18 @@
       "startTime": "11:00:00 PM 07-12-2025"
     },
     {
+      "id": 130973,
+      "event_category": "Football",
+      "title": "Real Madrid vs RC Celta (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130973_5427_RM_CEV_fc-Web.jpg",
+      "team_1": "Real Madrid",
+      "team_2": "RC Celta",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs RC Celta",
+      "startTime": "01:30:00 AM 08-12-2025"
+    },
+    {
       "id": 118500,
       "event_category": "Formula 1",
       "title": "Race vs Abu Dhabi (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025)",
@@ -374,18 +388,6 @@
       "event_name": "F1 Kids",
       "match_name": "F1 Kids",
       "startTime": "06:30:00 PM 07-12-2025"
-    },
-    {
-      "id": 130973,
-      "event_category": "Football",
-      "title": "Real Madrid vs RC Celta (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130973_5427_RM_CEV_fc-Web.jpg",
-      "team_1": "Real Madrid",
-      "team_2": "RC Celta",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs RC Celta",
-      "startTime": "01:30:00 AM 08-12-2025"
     },
     {
       "id": 138682,
