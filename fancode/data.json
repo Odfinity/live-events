@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:24 PM 06-12-2025",
+  "last update time": "12:51 PM 06-12-2025",
   "matches": [
     {
       "id": 118498,
@@ -44,20 +44,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7060032_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 134030,
-      "event_category": "Cricket",
-      "title": "New South Wales vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134030_5609_NSW_QUN_fc-Web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "Queensland",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs Queensland",
-      "startTime": "05:00:00 AM 05-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/dtbcyMk7SSyJowqhhaf8MA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134030_english_hls_9444508c2d81893_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 134031,
       "event_category": "Cricket",
       "title": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
@@ -70,48 +56,6 @@
       "startTime": "05:30:00 AM 05-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/OvIElgvURl6iay85SZb-5g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134031_english_hls_0385f5e48575559_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138671,
-      "event_category": "Football",
-      "title": "Cerezo Osaka vs Yokohama (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/138671_CASACARDS_APP.png",
-      "team_1": "Cerezo Osaka",
-      "team_2": "Yokohama",
-      "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Cerezo Osaka vs Yokohama",
-      "startTime": "10:30:00 AM 06-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138671_english_hls_8df042ae9887338_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138671_english_hls_8df042ae9887338_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138670,
-      "event_category": "Football",
-      "title": "Kyoto Sanga vs Vissel Kobe (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/138670_CASACARDS_APP.png",
-      "team_1": "Kyoto Sanga",
-      "team_2": "Vissel Kobe",
-      "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Kyoto Sanga vs Vissel Kobe",
-      "startTime": "10:30:00 AM 06-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138670_english_hls_ea338304c457485_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138670_english_hls_ea338304c457485_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138669,
-      "event_category": "Football",
-      "title": "Kashiwa Reysol vs Machida Zelvia (J League 2025)",
-      "src": "https://images.fancode.com/aig/match/v1/138669_CASACARDS_APP.png",
-      "team_1": "Kashiwa Reysol",
-      "team_2": "Machida Zelvia",
-      "status": "LIVE",
-      "event_name": "J League 2025",
-      "match_name": "Kashiwa Reysol vs Machida Zelvia",
-      "startTime": "10:30:00 AM 06-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138669_english_hls_dea95698bc53872_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138669_english_hls_dea95698bc53872_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138668,
@@ -236,6 +180,18 @@
       "startTime": "01:30:00 AM 07-12-2025"
     },
     {
+      "id": 134030,
+      "event_category": "Cricket",
+      "title": "New South Wales vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134030_5609_NSW_QUN_fc-Web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "Queensland",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs Queensland",
+      "startTime": "05:00:00 AM 05-12-2025"
+    },
+    {
       "id": 138266,
       "event_category": "Football",
       "title": "Huesca vs Real Valladolid (LALIGA Hypermotion 2025-26)",
@@ -270,6 +226,18 @@
       "event_name": "Oman Women's T20I Triangular Series, 2025",
       "match_name": "Oman Women vs Qatar Women",
       "startTime": "03:00:00 PM 07-12-2025"
+    },
+    {
+      "id": 138320,
+      "event_category": "Cricket",
+      "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
+      "team_1": "Karnali Yaks",
+      "team_2": "Janakpur Bolts",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Karnali Yaks vs Janakpur Bolts",
+      "startTime": "03:15:00 PM 07-12-2025"
     },
     {
       "id": 138674,
@@ -320,18 +288,6 @@
       "startTime": "07:30:00 PM 06-12-2025"
     },
     {
-      "id": 138320,
-      "event_category": "Cricket",
-      "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
-      "team_1": "Karnali Yaks",
-      "team_2": "Janakpur Bolts",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Karnali Yaks vs Janakpur Bolts",
-      "startTime": "03:15:00 PM 07-12-2025"
-    },
-    {
       "id": 138278,
       "event_category": "Golf",
       "title": "Day 3 vs Albany GC (Hero World Challenge)",
@@ -380,18 +336,6 @@
       "startTime": "06:30:00 PM 07-12-2025"
     },
     {
-      "id": 138675,
-      "event_category": "Golf",
-      "title": "Day 4 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
-      "team_1": "Day 4",
-      "team_2": "Sun City, South Africa",
-      "status": "UPCOMING",
-      "event_name": "Nedbank Golf Challenge in honour of Gary Player",
-      "match_name": "Day 4",
-      "startTime": "02:30:00 PM 07-12-2025"
-    },
-    {
       "id": 130977,
       "event_category": "Football",
       "title": "Valencia CF vs Sevilla FC (LALIGA 2025-26)",
@@ -402,6 +346,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia CF vs Sevilla FC",
       "startTime": "08:45:00 PM 07-12-2025"
+    },
+    {
+      "id": 138675,
+      "event_category": "Golf",
+      "title": "Day 4 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
+      "team_1": "Day 4",
+      "team_2": "Sun City, South Africa",
+      "status": "UPCOMING",
+      "event_name": "Nedbank Golf Challenge in honour of Gary Player",
+      "match_name": "Day 4",
+      "startTime": "02:30:00 PM 07-12-2025"
     },
     {
       "id": 121615,
@@ -450,6 +406,42 @@
       "event_name": "F1 Kids",
       "match_name": "F1 Kids",
       "startTime": "06:30:00 PM 07-12-2025"
+    },
+    {
+      "id": 138267,
+      "event_category": "Football",
+      "title": "Deportivo de La Coruña vs Castellón (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+      "team_1": "Deportivo de La Coruña",
+      "team_2": "Castellón",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo de La Coruña vs Castellón",
+      "startTime": "11:00:00 PM 07-12-2025"
+    },
+    {
+      "id": 138682,
+      "event_category": "Golf",
+      "title": "Day 3 vs United States (Skechers World Champions Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png",
+      "team_1": "Day 3",
+      "team_2": "United States",
+      "status": "UPCOMING",
+      "event_name": "Skechers World Champions Cup",
+      "match_name": "Day 3",
+      "startTime": "07:30:00 PM 07-12-2025"
+    },
+    {
+      "id": 130973,
+      "event_category": "Football",
+      "title": "Real Madrid vs RC Celta (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130973_5427_RM_CEV_fc-Web.jpg",
+      "team_1": "Real Madrid",
+      "team_2": "RC Celta",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs RC Celta",
+      "startTime": "01:30:00 AM 08-12-2025"
     }
   ]
 }
