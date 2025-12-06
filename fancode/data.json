@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 06-12-2025",
+  "last update time": "06:16 PM 06-12-2025",
   "matches": [
-    {
-      "id": 118498,
-      "event_category": "Formula 1",
-      "title": "Practice 3 vs Abu Dhabi (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
-      "team_1": "Practice 3",
-      "team_2": "Abu Dhabi",
-      "status": "LIVE",
-      "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
-      "match_name": "Practice 3",
-      "startTime": "04:00:00 PM 06-12-2025",
-      "dai_url": "https://d281hjow8ytur3.cloudfront.net/out/v1/d1ed179cac8445349c504764c01d4713/index.m3u8",
-      "adfree_url": "https://d281hjow8ytur3.cloudfront.net/out/v1/d1ed179cac8445349c504764c01d4713/index.m3u8"
-    },
-    {
-      "id": 138708,
-      "event_category": "Cricket",
-      "title": "Bahrain Women vs Oman Women (Oman Women's T20I Triangular Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-bahrain-web.jpg",
-      "team_1": "Bahrain Women",
-      "team_2": "Oman Women",
-      "status": "LIVE",
-      "event_name": "Oman Women's T20I Triangular Series, 2025",
-      "match_name": "Bahrain Women vs Oman Women",
-      "startTime": "03:00:00 PM 06-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/O8LYA1vlT-e7lrjOgOSmAA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138708_english_hls_8b3f861b1837963_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138319,
       "event_category": "Cricket",
@@ -44,6 +16,34 @@
       "startTime": "03:15:00 PM 06-12-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138319_english_hls_2e1306b52559062_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138319_english_hls_2e1306b52559062_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136975,
+      "event_category": "Football",
+      "title": "Derby County Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Derby-County-VS-Leicester-City_old.jpg",
+      "team_1": "Derby County Football Club",
+      "team_2": "Leicester City F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Derby County Football Club vs Leicester City F.C.",
+      "startTime": "06:00:00 PM 06-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/2lrlINaxQtqmLCaPIl7M5g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136975_english_hls_a9eb233ec5601_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130974,
+      "event_category": "Football",
+      "title": "Villarreal CF vs Getafe CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130974_5427_VIL_GEF_fc-Web.jpg",
+      "team_1": "Villarreal CF",
+      "team_2": "Getafe CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Villarreal CF vs Getafe CF",
+      "startTime": "06:30:00 PM 06-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130974_english_hls_c2e76a2f8322730_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130974_english_hls_c2e76a2f8322730_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138674,
@@ -60,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138674_english_hls_7b47ff6fec24460_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 121614,
+      "event_category": "Motorsports",
+      "title": "Sprint Race vs Yas Island (F2 ABU DHABI 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Sprint Race",
+      "team_2": "Yas Island",
+      "status": "LIVE",
+      "event_name": "F2 ABU DHABI 2025",
+      "match_name": "Sprint Race",
+      "startTime": "05:45:00 PM 06-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/121614_english_hls_a5d09f7b6722428_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/121614_english_hls_a5d09f7b6722428_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138627,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs Gulf Giants (DP World ILT20 2025-26)",
@@ -72,28 +86,16 @@
       "startTime": "08:00:00 PM 06-12-2025"
     },
     {
-      "id": 136975,
-      "event_category": "Football",
-      "title": "Derby County Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Derby-County-VS-Leicester-City_old.jpg",
-      "team_1": "Derby County Football Club",
-      "team_2": "Leicester City F.C.",
+      "id": 138628,
+      "event_category": "Cricket",
+      "title": "Sharjah Warriorz vs MI Emirates (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138628_5786_SWR_MIE_FC-Web.jpg",
+      "team_1": "Sharjah Warriorz",
+      "team_2": "MI Emirates",
       "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Derby County Football Club vs Leicester City F.C.",
-      "startTime": "06:00:00 PM 06-12-2025"
-    },
-    {
-      "id": 130974,
-      "event_category": "Football",
-      "title": "Villarreal CF vs Getafe CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130974_5427_VIL_GEF_fc-Web.jpg",
-      "team_1": "Villarreal CF",
-      "team_2": "Getafe CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Villarreal CF vs Getafe CF",
-      "startTime": "06:30:00 PM 06-12-2025"
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Sharjah Warriorz vs MI Emirates",
+      "startTime": "03:30:00 PM 07-12-2025"
     },
     {
       "id": 136974,
@@ -144,18 +146,6 @@
       "startTime": "01:30:00 AM 07-12-2025"
     },
     {
-      "id": 138628,
-      "event_category": "Cricket",
-      "title": "Sharjah Warriorz vs MI Emirates (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138628_5786_SWR_MIE_FC-Web.jpg",
-      "team_1": "Sharjah Warriorz",
-      "team_2": "MI Emirates",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Sharjah Warriorz vs MI Emirates",
-      "startTime": "03:30:00 PM 07-12-2025"
-    },
-    {
       "id": 134029,
       "event_category": "Cricket",
       "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
@@ -204,18 +194,6 @@
       "startTime": "08:45:00 PM 06-12-2025"
     },
     {
-      "id": 121614,
-      "event_category": "Motorsports",
-      "title": "Sprint Race vs Yas Island (F2 ABU DHABI 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Sprint Race",
-      "team_2": "Yas Island",
-      "status": "UPCOMING",
-      "event_name": "F2 ABU DHABI 2025",
-      "match_name": "Sprint Race",
-      "startTime": "05:45:00 PM 06-12-2025"
-    },
-    {
       "id": 138710,
       "event_category": "Cricket",
       "title": "Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)",
@@ -226,6 +204,18 @@
       "event_name": "Oman Women's T20I Triangular Series, 2025",
       "match_name": "Oman Women vs Qatar Women",
       "startTime": "03:00:00 PM 07-12-2025"
+    },
+    {
+      "id": 138662,
+      "event_category": "Motorsports",
+      "title": "Indian Supercross Racing League vs Hyderabad (Indian Supercross Racing League)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ISRL_Old_match-card_2_1764661126526.jpg",
+      "team_1": "Indian Supercross Racing League",
+      "team_2": "Hyderabad",
+      "status": "UPCOMING",
+      "event_name": "Indian Supercross Racing League",
+      "match_name": "Indian Supercross Racing League",
+      "startTime": "07:00:00 PM 06-12-2025"
     },
     {
       "id": 138320,
@@ -264,16 +254,16 @@
       "startTime": "06:30:00 PM 07-12-2025"
     },
     {
-      "id": 138662,
-      "event_category": "Motorsports",
-      "title": "Indian Supercross Racing League vs Hyderabad (Indian Supercross Racing League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ISRL_Old_match-card_2_1764661126526.jpg",
-      "team_1": "Indian Supercross Racing League",
-      "team_2": "Hyderabad",
+      "id": 130977,
+      "event_category": "Football",
+      "title": "Valencia CF vs Sevilla FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130977_5427_VAL_SEV_fc-Web.jpg",
+      "team_1": "Valencia CF",
+      "team_2": "Sevilla FC",
       "status": "UPCOMING",
-      "event_name": "Indian Supercross Racing League",
-      "match_name": "Indian Supercross Racing League",
-      "startTime": "07:00:00 PM 06-12-2025"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Valencia CF vs Sevilla FC",
+      "startTime": "08:45:00 PM 07-12-2025"
     },
     {
       "id": 118499,
@@ -312,16 +302,16 @@
       "startTime": "07:00:00 AM 07-12-2025"
     },
     {
-      "id": 130977,
+      "id": 130971,
       "event_category": "Football",
-      "title": "Valencia CF vs Sevilla FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130977_5427_VAL_SEV_fc-Web.jpg",
-      "team_1": "Valencia CF",
-      "team_2": "Sevilla FC",
+      "title": "RCD Espanyol vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130971_5427_ESL_RVL_fc-Web.jpg",
+      "team_1": "RCD Espanyol",
+      "team_2": "Rayo Vallecano",
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Valencia CF vs Sevilla FC",
-      "startTime": "08:45:00 PM 07-12-2025"
+      "match_name": "RCD Espanyol vs Rayo Vallecano",
+      "startTime": "11:00:00 PM 07-12-2025"
     },
     {
       "id": 138675,
@@ -346,18 +336,6 @@
       "event_name": "F2 ABU DHABI 2025",
       "match_name": "Feature Race",
       "startTime": "02:45:00 PM 07-12-2025"
-    },
-    {
-      "id": 130971,
-      "event_category": "Football",
-      "title": "RCD Espanyol vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130971_5427_ESL_RVL_fc-Web.jpg",
-      "team_1": "RCD Espanyol",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Rayo Vallecano",
-      "startTime": "11:00:00 PM 07-12-2025"
     },
     {
       "id": 138267,
@@ -442,6 +420,30 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Desert Vipers vs Gulf Giants",
       "startTime": "08:00:00 PM 08-12-2025"
+    },
+    {
+      "id": 138265,
+      "event_category": "Football",
+      "title": "Burgos vs Albacete (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138265_CASACARDS_APP.png",
+      "team_1": "Burgos",
+      "team_2": "Albacete",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Burgos vs Albacete",
+      "startTime": "08:45:00 PM 08-12-2025"
+    },
+    {
+      "id": 130975,
+      "event_category": "Football",
+      "title": "CA Osasuna vs Levante (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130975_5427_OSN_LE_fc-Web.jpg",
+      "team_1": "CA Osasuna",
+      "team_2": "Levante",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Levante",
+      "startTime": "01:30:00 AM 09-12-2025"
     }
   ]
 }
