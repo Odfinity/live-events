@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:08 PM 07-12-2025",
+  "last update time": "07:20 PM 07-12-2025",
   "matches": [
     {
       "id": 118500,
@@ -46,20 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130970_english_hls_16110b3d1229105_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138675,
-      "event_category": "Golf",
-      "title": "Day 4 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
-      "team_1": "Day 4",
-      "team_2": "Sun City, South Africa",
-      "status": "LIVE",
-      "event_name": "Nedbank Golf Challenge in honour of Gary Player",
-      "match_name": "Day 4",
-      "startTime": "02:30:00 PM 07-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/b_HzKIVPSfqAehzT-dXkoQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138675_english_hls_bbaab4695792995_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 138024,
       "event_category": "Motorsports",
       "title": "F1 Kids vs Abu Dhabi (F1 Kids)",
@@ -74,18 +60,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138024_english_hls_8cb3ce333b8800_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138320,
-      "event_category": "Cricket",
-      "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
-      "team_1": "Karnali Yaks",
-      "team_2": "Janakpur Bolts",
+      "id": 138682,
+      "event_category": "Golf",
+      "title": "Day 3 vs United States (Skechers World Champions Cup)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png",
+      "team_1": "Day 3",
+      "team_2": "United States",
       "status": "LIVE",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Karnali Yaks vs Janakpur Bolts",
-      "startTime": "03:15:00 PM 07-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138320_english_hls_ec8e70561792251_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138320_english_hls_ec8e70561792251_1ta-di_h264/index.m3u8"
+      "event_name": "Skechers World Champions Cup",
+      "match_name": "Day 3",
+      "startTime": "07:30:00 PM 07-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/kSDaBsd9TvWZ_49P7LUcfg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138682_english_hls_25039cbd9142924_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138629,
@@ -158,18 +144,6 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Desert Vipers vs Gulf Giants",
       "startTime": "08:00:00 PM 08-12-2025"
-    },
-    {
-      "id": 138682,
-      "event_category": "Golf",
-      "title": "Day 3 vs United States (Skechers World Champions Cup)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png",
-      "team_1": "Day 3",
-      "team_2": "United States",
-      "status": "UPCOMING",
-      "event_name": "Skechers World Champions Cup",
-      "match_name": "Day 3",
-      "startTime": "07:30:00 PM 07-12-2025"
     },
     {
       "id": 138279,
@@ -458,6 +432,30 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Sanfrecce Hiroshima vs Shanghai Shenhua",
       "startTime": "03:30:00 PM 10-12-2025"
+    },
+    {
+      "id": 138322,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "TBC vs TBC",
+      "startTime": "03:45:00 PM 10-12-2025"
+    },
+    {
+      "id": 138632,
+      "event_category": "Cricket",
+      "title": "Gulf Giants vs Sharjah Warriorz (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138632_5786_GG_SWR_FC-Web.jpg",
+      "team_1": "Gulf Giants",
+      "team_2": "Sharjah Warriorz",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Gulf Giants vs Sharjah Warriorz",
+      "startTime": "08:00:00 PM 10-12-2025"
     }
   ]
 }
