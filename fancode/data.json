@@ -1,8 +1,46 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:29 PM 07-12-2025",
+  "last update time": "02:56 PM 07-12-2025",
   "matches": [
+    {
+      "id": 138628,
+      "event_category": "Cricket",
+      "title": "Sharjah Warriorz vs MI Emirates (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138628_5786_SWR_MIE_FC-Web.jpg",
+      "team_1": "Sharjah Warriorz",
+      "team_2": "MI Emirates",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Sharjah Warriorz vs MI Emirates",
+      "startTime": "03:30:00 PM 07-12-2025"
+    },
+    {
+      "id": 138320,
+      "event_category": "Cricket",
+      "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
+      "team_1": "Karnali Yaks",
+      "team_2": "Janakpur Bolts",
+      "status": "UPCOMING",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Karnali Yaks vs Janakpur Bolts",
+      "startTime": "03:15:00 PM 07-12-2025"
+    },
+    {
+      "id": 138710,
+      "event_category": "Cricket",
+      "title": "Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-Qatar-web.jpg",
+      "team_1": "Oman Women",
+      "team_2": "Qatar Women",
+      "status": "LIVE",
+      "event_name": "Oman Women's T20I Triangular Series, 2025",
+      "match_name": "Oman Women vs Qatar Women",
+      "startTime": "03:00:00 PM 07-12-2025",
+      "dai_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138710_english_hls_98d37671be33223_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138710_english_hls_98d37671be33223_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138675,
       "event_category": "Golf",
@@ -18,16 +56,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138675_english_hls_bbaab4695792995_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138628,
-      "event_category": "Cricket",
-      "title": "Sharjah Warriorz vs MI Emirates (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138628_5786_SWR_MIE_FC-Web.jpg",
-      "team_1": "Sharjah Warriorz",
-      "team_2": "MI Emirates",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Sharjah Warriorz vs MI Emirates",
-      "startTime": "03:30:00 PM 07-12-2025"
+      "id": 121615,
+      "event_category": "Motorsports",
+      "title": "Feature Race vs Yas Island (F2 ABU DHABI 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+      "team_1": "Feature Race",
+      "team_2": "Yas Island",
+      "status": "LIVE",
+      "event_name": "F2 ABU DHABI 2025",
+      "match_name": "Feature Race",
+      "startTime": "02:45:00 PM 07-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/bfNuV7WRTuiWMnmWfwOUKw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/121615_english_hls_9453cef87777989_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138629,
@@ -40,30 +80,6 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
       "startTime": "08:00:00 PM 07-12-2025"
-    },
-    {
-      "id": 138710,
-      "event_category": "Cricket",
-      "title": "Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-Qatar-web.jpg",
-      "team_1": "Oman Women",
-      "team_2": "Qatar Women",
-      "status": "UPCOMING",
-      "event_name": "Oman Women's T20I Triangular Series, 2025",
-      "match_name": "Oman Women vs Qatar Women",
-      "startTime": "03:00:00 PM 07-12-2025"
-    },
-    {
-      "id": 138320,
-      "event_category": "Cricket",
-      "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
-      "team_1": "Karnali Yaks",
-      "team_2": "Janakpur Bolts",
-      "status": "UPCOMING",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Karnali Yaks vs Janakpur Bolts",
-      "startTime": "03:15:00 PM 07-12-2025"
     },
     {
       "id": 130970,
@@ -124,18 +140,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Deportivo de La Coruña vs Castellón",
       "startTime": "11:00:00 PM 07-12-2025"
-    },
-    {
-      "id": 121615,
-      "event_category": "Motorsports",
-      "title": "Feature Race vs Yas Island (F2 ABU DHABI 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-      "team_1": "Feature Race",
-      "team_2": "Yas Island",
-      "status": "UPCOMING",
-      "event_name": "F2 ABU DHABI 2025",
-      "match_name": "Feature Race",
-      "startTime": "02:45:00 PM 07-12-2025"
     },
     {
       "id": 138630,
