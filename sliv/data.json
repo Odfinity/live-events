@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:06 PM 09-12-2025",
+  "last update time": "06:51 PM 09-12-2025",
   "matches": [
     {
       "id": "sl1090496494",
@@ -18,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496494.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496494.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496494.m3u8",
-      "sus": "hdntl=exp=1765369897~acl=%2f*~id=22287046306304387519652599736400~data=hdntl,2022316,DAI12ME-V3,none~hmac=d7a87272723e3419a39e0251ed417fc93b04a54a5fdbdc103c005252e00dacf6",
+      "sus": "hdntl=exp=1765372834~acl=%2f*~id=79411813385634007686132605668624~data=hdntl,2022316,DAI12ME-V3,none~hmac=a5101d2c8825ee6e3e112543420adc4f7279abcbad0bb293ef753832ad651ad6",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -132,6 +132,20 @@
       "TVchannel": "Sony Sports Ten 2",
       "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd"
+    },
+    {
+      "id": "sl1090496895",
+      "isLive": false,
+      "event": "Australian Open 2026",
+      "match": "Upcoming: Australian Open 2026",
+      "Provider": "N/A",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
+      "genre": "Tennis",
+      "language": "ENG",
+      "venue": "N/A",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "Sinner,Zverev,Alcaraz,Fritz,Medvedev,Ruud,Djokovic,De Minaur,Rublev,Tsitsipas,Rune,Tiafoe,Sabalenka,Swaitek,Gauff,Rybakina,Pegula,Collins,Andreeva,watch Australian Open online,The Australian Open online streaming,Australian Open highlights,Australian Open matches,watch Australian Open games,live Australian Open match score,Australian Open games scores,watch Australian Open match online,watch Australian Open games online,Australian Open match highlights,Australian Open Live Streaming,Australian Open 2025,australian open,aus open,tennis australian open,ao open tennis,aussie tennis open",
+      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ad10631896e34de58e9bdef99860416c/1765211995/baseline-std-v4/PROMO_AO_2026_30_SEC_08Dec2025_eng_baseline-800300010.mpd"
     }
   ]
 }
