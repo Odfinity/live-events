@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:48 PM 09-12-2025",
+  "last update time": "08:13 PM 09-12-2025",
   "matches": [
+    {
+      "id": "sl1090496499",
+      "isLive": true,
+      "event": "UEFA Youth League 2025-26",
+      "match": "Inter vs Liverpool - MD 6 - 9 Dec 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739779693688_UYL2526_MD6_Inter_vs_Liverpool_2dec_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Youth Development Training Center, Milan",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Inter vs Liverpool,UEFAYouthLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496499.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496499.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496499.m3u8",
+      "sus": "hdntl=exp=1765377731~acl=%2f*~id=03293603971756094758218008767197~data=hdntl,2094589,DAI05ME-V3,none~hmac=12aae015f5554588fa79b37740ab25cfa9b6aafc84959a42bd1c4d141b4a4f35",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090496494",
       "isLive": true,
@@ -18,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496494.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496494.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496494.m3u8",
-      "sus": "hdntl=exp=1765375331~acl=%2f*~id=53919830701888110346586799340642~data=hdntl,2022316,DAI12ME-V3,none~hmac=e570bc9dad744ef2aec3808d2cb416c50a88166c0fce62c29defa5d85f993b1f",
+      "sus": "hdntl=exp=1765377741~acl=%2f*~id=03293603971756094758218008767197~data=hdntl,2022316,DAI12ME-V3,none~hmac=5cefe676854d064fda2b513615a054e10c6464ff1f4254ac19c10df6c971790c",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
