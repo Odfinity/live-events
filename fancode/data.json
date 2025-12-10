@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:28 AM 10-12-2025",
+  "last update time": "12:16 PM 10-12-2025",
   "matches": [
-    {
-      "id": 137697,
-      "event_category": "Cricket",
-      "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
-      "team_1": "West Indies",
-      "team_2": "New Zealand",
-      "status": "LIVE",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "West Indies vs New Zealand",
-      "startTime": "03:30:00 AM 10-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765388403~acl=/*~id=24158702408557709873883533191641~hmac=8ada7dca169b32f52a1d2b17596856977559505ab35b7e894824c15ba2dc414a"
-    },
     {
       "id": 138701,
       "event_category": "Cricket",
@@ -30,6 +16,18 @@
       "startTime": "09:30:00 AM 10-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/12jPSBUyS4ac37pMjXgu5g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138701_english_hls_279880d0a015561_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137697,
+      "event_category": "Cricket",
+      "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
+      "team_1": "West Indies",
+      "team_2": "New Zealand",
+      "status": "PAUSED",
+      "event_name": "West Indies tour of New Zealand, 2025",
+      "match_name": "West Indies vs New Zealand",
+      "startTime": "03:30:00 AM 10-12-2025"
     },
     {
       "id": 138632,
@@ -236,6 +234,18 @@
       "startTime": "03:45:00 PM 11-12-2025"
     },
     {
+      "id": 138633,
+      "event_category": "Cricket",
+      "title": "MI Emirates vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138633_5786_MIE_ADKR_FC-Web.jpg",
+      "team_1": "MI Emirates",
+      "team_2": "Abu Dhabi Knight Riders",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "MI Emirates vs Abu Dhabi Knight Riders",
+      "startTime": "08:00:00 PM 11-12-2025"
+    },
+    {
       "id": 136162,
       "event_category": "Football",
       "title": "Nam Dinh vs Eastern SC (AFC Champions League Two 2025-26)",
@@ -258,18 +268,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Gamba Osaka vs Ratchaburi",
       "startTime": "03:30:00 PM 11-12-2025"
-    },
-    {
-      "id": 138633,
-      "event_category": "Cricket",
-      "title": "MI Emirates vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138633_5786_MIE_ADKR_FC-Web.jpg",
-      "team_1": "MI Emirates",
-      "team_2": "Abu Dhabi Knight Riders",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "MI Emirates vs Abu Dhabi Knight Riders",
-      "startTime": "08:00:00 PM 11-12-2025"
     },
     {
       "id": 136186,
