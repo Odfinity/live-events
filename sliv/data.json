@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 10-12-2025",
+  "last update time": "06:20 PM 10-12-2025",
   "matches": [
+    {
+      "id": "sl1090496501",
+      "isLive": true,
+      "event": "UEFA Youth League 2025-26",
+      "match": "Club Brugge vs Arsenal - MD 6 - 10 Dec 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740112914688_UYL2526_MD6_Brugge_vs_Arsenal_2dec_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "The NEST, Roeselare",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Club Brugge vs Arsenal,UEFAYouthLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496501.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496501.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496501.m3u8",
+      "sus": "hdntl=exp=1765457348~acl=%2f*~id=55768810941987541977572502825145~data=hdntl,2022316,DAI12ME-V3,none~hmac=40152dc9bb594173a84335d4ee55750aea3da322516d96129e722e73df0973fa",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090496904",
       "isLive": true,
@@ -18,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496904.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496904.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496904.m3u8",
-      "sus": "hdntl=exp=1765454174~acl=%2f*~id=32364737846885510455889791568646~data=hdntl,2022320,DAI16ME-V3,none~hmac=7bd0f48488220c081c0897e3adbf160e65e57c7bfef1491a33999517a7e8f6b2",
+      "sus": "hdntl=exp=1765457357~acl=%2f*~id=55768810941987541977572502825145~data=hdntl,2022320,DAI16ME-V3,none~hmac=491b367c45af998b8b52483664d159d0bc485ab4db42e88ed2bbe7f5603b96ad",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,20 +108,6 @@
       "TVchannel": "Sony Sports Ten 2",
       "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
       "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd"
-    },
-    {
-      "id": "sl1090496895",
-      "isLive": false,
-      "event": "Australian Open 2026",
-      "match": "Upcoming: Australian Open 2026",
-      "Provider": "N/A",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
-      "genre": "Tennis",
-      "language": "ENG",
-      "venue": "N/A",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "Sinner,Zverev,Alcaraz,Fritz,Medvedev,Ruud,Djokovic,De Minaur,Rublev,Tsitsipas,Rune,Tiafoe,Sabalenka,Swaitek,Gauff,Rybakina,Pegula,Collins,Andreeva,watch Australian Open online,The Australian Open online streaming,Australian Open highlights,Australian Open matches,watch Australian Open games,live Australian Open match score,Australian Open games scores,watch Australian Open match online,watch Australian Open games online,Australian Open match highlights,Australian Open Live Streaming,Australian Open 2025,australian open,aus open,tennis australian open,ao open tennis,aussie tennis open",
-      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ad10631896e34de58e9bdef99860416c/1765211995/baseline-std-v4/PROMO_AO_2026_30_SEC_08Dec2025_eng_baseline-800300010.mpd"
     }
   ]
 }
