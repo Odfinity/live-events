@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:21 PM 10-12-2025",
+  "last update time": "02:04 PM 10-12-2025",
   "matches": [
     {
-      "id": 138701,
+      "id": 138702,
       "event_category": "Cricket",
-      "title": "Hyderabad Hawks vs Mumbai Fighters (Ability Sports League 2025)",
+      "title": "Delhi Dominators vs Lucknow Stallions (Ability Sports League 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Ability-sports-league_old-match-card.jpg",
-      "team_1": "Hyderabad Hawks",
-      "team_2": "Mumbai Fighters",
+      "team_1": "Delhi Dominators",
+      "team_2": "Lucknow Stallions",
       "status": "LIVE",
       "event_name": "Ability Sports League 2025",
-      "match_name": "Hyderabad Hawks vs Mumbai Fighters",
-      "startTime": "09:30:00 AM 10-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/12jPSBUyS4ac37pMjXgu5g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138701_english_hls_279880d0a015561_1ta-di_h264/index.m3u8"
+      "match_name": "Delhi Dominators vs Lucknow Stallions",
+      "startTime": "01:30:00 PM 10-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/zX-oJxAtR-abQM9sICyyiA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138702_english_hls_29eca8ba5533740_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137697,
@@ -40,18 +40,6 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Gulf Giants vs Sharjah Warriorz",
       "startTime": "08:00:00 PM 10-12-2025"
-    },
-    {
-      "id": 138702,
-      "event_category": "Cricket",
-      "title": "Delhi Dominators vs Lucknow Stallions (Ability Sports League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ability-sports-league_old-match-card.jpg",
-      "team_1": "Delhi Dominators",
-      "team_2": "Lucknow Stallions",
-      "status": "UPCOMING",
-      "event_name": "Ability Sports League 2025",
-      "match_name": "Delhi Dominators vs Lucknow Stallions",
-      "startTime": "01:30:00 PM 10-12-2025"
     },
     {
       "id": 138711,
@@ -366,18 +354,6 @@
       "startTime": "01:30:00 PM 12-12-2025"
     },
     {
-      "id": 138713,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates Women vs Oman Women (GCC Women's T20I Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138713_5798_UAE-W_OMN-W_fc-web.jpg",
-      "team_1": "United Arab Emirates Women",
-      "team_2": "Oman Women",
-      "status": "UPCOMING",
-      "event_name": "GCC Women's T20I Championship, 2025",
-      "match_name": "United Arab Emirates Women vs Oman Women",
-      "startTime": "03:30:00 PM 12-12-2025"
-    },
-    {
       "id": 138795,
       "event_category": "Football",
       "title": "Central Coast Mariners vs Auckland (A League 2025-26)",
@@ -388,6 +364,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Central Coast Mariners vs Auckland",
       "startTime": "02:05:00 PM 12-12-2025"
+    },
+    {
+      "id": 138713,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates Women vs Oman Women (GCC Women's T20I Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138713_5798_UAE-W_OMN-W_fc-web.jpg",
+      "team_1": "United Arab Emirates Women",
+      "team_2": "Oman Women",
+      "status": "UPCOMING",
+      "event_name": "GCC Women's T20I Championship, 2025",
+      "match_name": "United Arab Emirates Women vs Oman Women",
+      "startTime": "03:30:00 PM 12-12-2025"
     },
     {
       "id": 138634,
@@ -448,6 +436,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "West Bromwich Albion F.C. vs Sheffield United F.C.",
       "startTime": "01:30:00 AM 13-12-2025"
+    },
+    {
+      "id": 138728,
+      "event_category": "Golf",
+      "title": "Day 1 vs Tiburón Golf Club (Grant Thornton Invitational)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "team_1": "Day 1",
+      "team_2": "Tiburón Golf Club",
+      "status": "UPCOMING",
+      "event_name": "Grant Thornton Invitational",
+      "match_name": "Day 1",
+      "startTime": "11:30:00 PM 12-12-2025"
     }
   ]
 }
