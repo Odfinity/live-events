@@ -1,8 +1,26 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:12 AM 11-12-2025",
+  "last update time": "02:27 AM 11-12-2025",
   "matches": [
+    {
+      "id": "sl1090496508",
+      "isLive": true,
+      "event": "UEFA Champions League 2025-26",
+      "match": "Dortmund vs Bodo/Glimt - MD 6 - 11 Dec 2025",
+      "Provider": "UEFA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011885/1764234203476789_UCL_25_26_MD6_Dortmund-vs-Bodo-Glimt_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "BVB Stadion",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Dortmund vs Bodo/Glimt,UEFAChampionsLeague202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496508.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496508.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496508.m3u8",
+      "sus": "hdntl=exp=1765485970~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2018457,DAI09ME-V3,none~hmac=7c32dda5fc9e789d98396363b69fd52f40ebc8868bef9cd7be1674f81b983da5",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
     {
       "id": "sl1090496509",
       "isLive": true,
@@ -18,7 +36,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496509.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496509.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496509.m3u8",
-      "sus": "hdntl=exp=1765485131~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2022315,DAI11ME-V3,none~hmac=381c6263396fa8a421d58a808d1791b7ed8a21e250f9e08761708dd6bb6a77e1",
+      "sus": "hdntl=exp=1765485979~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2022315,DAI11ME-V3,none~hmac=7c314946777c09bb65c60b4c18fb79bd56ea94b46c44d0e09b33b017be408634",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -36,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496506.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496506.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496506.m3u8",
-      "sus": "hdntl=exp=1765485139~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2005445,DAI06ME-V3,none~hmac=4a66f9541a147b446634c8db8a49dd5c6edefaac7301a4b81e90865d9556e323",
+      "sus": "hdntl=exp=1765485988~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2005445,DAI06ME-V3,none~hmac=ccb5aaf7f7011777eab77cc66f94b71917abbe66c5da73a5934a219d9845c27a",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496511.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496511.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496511.m3u8",
-      "sus": "hdntl=exp=1765485149~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2022322,DAI18ME-V3,none~hmac=03e59f517e87b562484510e5d601886f80954eea6732c5a9799f0223c8642158",
+      "sus": "hdntl=exp=1765485996~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2022322,DAI18ME-V3,none~hmac=6dc1535a9a395c8884371da7541b51cae2f081395f23aa9a13da7a12375da8cb",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +90,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496510.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496510.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496510.m3u8",
-      "sus": "hdntl=exp=1765485157~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2022318,DAI14ME-V3,none~hmac=757444bcd43bec810c5f78db02b8dae9c28656df4664b9ffcb3d1ffd978476e0",
+      "sus": "hdntl=exp=1765486006~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2022318,DAI14ME-V3,none~hmac=a38134812448709b9c55d3c2cf81c0630e786e194bcd24cb64a92ec9bd7f8ee5",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,7 +108,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496984.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496984.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496984.m3u8",
-      "sus": "hdntl=exp=1765485168~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2105080,DAI24ME-V3,none~hmac=cc0214c7a5e79baa48f1059191878aaeeee9bf0c2ed1e39a94e7d3a6e5ac6b3e",
+      "sus": "hdntl=exp=1765486015~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2105080,DAI24ME-V3,none~hmac=eb91f5bee18a52d2c8a57c760a03228254f689d1f47fb02f82efe842a9d77cf6",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -108,25 +126,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496982.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496982.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496982.m3u8",
-      "sus": "hdntl=exp=1765485177~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2037140,DAI20ME-V3,none~hmac=2470366483a48731256574418e2bd1be7a6fccdfb9a5a8557bfda97d3a71b9f8",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090496508",
-      "isLive": true,
-      "event": "UEFA Champions League 2025-26",
-      "match": "Dortmund vs Bodo/Glimt - MD 6 - 11 Dec 2025",
-      "Provider": "UEFA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011885/1764234203476789_UCL_25_26_MD6_Dortmund-vs-Bodo-Glimt_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "BVB Stadion",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Dortmund vs Bodo/Glimt,UEFAChampionsLeague202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496508.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496508.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496508.m3u8",
-      "sus": "hdntl=exp=1765485240~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2018457,DAI09ME-V3,none~hmac=ddd1432ae699e86141d6c3be1a635d24f54c8da7674572b32dc97a3a659e1226",
+      "sus": "hdntl=exp=1765486024~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2037140,DAI20ME-V3,none~hmac=f6f31567d8796938deb67fb0a7d26b5e8c677f5f83fbfd492c4d9db7472f4293",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -144,7 +144,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496505.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496505.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496505.m3u8",
-      "sus": "hdntl=exp=1765485254~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2094587,DAI03ME-V3,none~hmac=9fdd299b5f29d4f6529a4d4baddd193033d342fda4fe485a0c07b0d4181491eb",
+      "sus": "hdntl=exp=1765486034~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2094587,DAI03ME-V3,none~hmac=68a2a91cf3190a0f781ae335967edf2a5bfac37d6848edf04f1b298afeefbe20",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -162,7 +162,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496507.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496507.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496507.m3u8",
-      "sus": "hdntl=exp=1765485263~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2022317,DAI13ME-V3,none~hmac=a5d4bd3065ec85185b2b308253b6c7fdcc32150cfdc1a62b106002bddf67fe18",
+      "sus": "hdntl=exp=1765486043~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2022317,DAI13ME-V3,none~hmac=041d3ae977818892d9516fd08d0cb97a6fd725f68b6cba3f5fa02fbf66e5d7c6",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -180,7 +180,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090496983.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090496983.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090496983.m3u8",
-      "sus": "hdntl=exp=1765485272~acl=%2f*~id=19818002966794322826693282763727~data=hdntl,2037143,DAI23ME-V3,none~hmac=b4a676e5b4e3feb9bb11cbcf28670ef99e738d6ff7cb37228b4599be3cbb0fd2",
+      "sus": "hdntl=exp=1765486050~acl=%2f*~id=52666430239487339027899579856167~data=hdntl,2037143,DAI23ME-V3,none~hmac=c7975527431ebf5e7245aafac6cea7b824eedf732ba22e72b3994830d6513e4e",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
