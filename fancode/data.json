@@ -1,35 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 PM 12-12-2025",
+  "last update time": "12:11 AM 13-12-2025",
   "matches": [
     {
-      "id": 138634,
-      "event_category": "Cricket",
-      "title": "Gulf Giants vs Desert Vipers (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138634_5786_GG_DV_FC-Web.jpg",
-      "team_1": "Gulf Giants",
-      "team_2": "Desert Vipers",
+      "id": 138728,
+      "event_category": "Golf",
+      "title": "Day 1 vs Tiburón Golf Club (Grant Thornton Invitational)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
+      "team_1": "Day 1",
+      "team_2": "Tiburón Golf Club",
       "status": "LIVE",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Gulf Giants vs Desert Vipers",
-      "startTime": "08:00:00 PM 12-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/hTT5ES6oQk-9kfGFeoX6_A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138634_english_hls_5637598c009595_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138714,
-      "event_category": "Cricket",
-      "title": "Bahrain Women vs Saudi Arabia Women (GCC Women's T20I Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138714_5798_KSAW_BRNW_fc-web.jpg",
-      "team_1": "Bahrain Women",
-      "team_2": "Saudi Arabia Women",
-      "status": "LIVE",
-      "event_name": "GCC Women's T20I Championship, 2025",
-      "match_name": "Bahrain Women vs Saudi Arabia Women",
-      "startTime": "08:00:00 PM 12-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/z8WJ2eqAQqybTJt8txl0ZQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138714_english_hls_f17e528e2f80712_1ta-di_h264/index.m3u8"
+      "event_name": "Grant Thornton Invitational",
+      "match_name": "Day 1",
+      "startTime": "11:30:00 PM 12-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/fQaRUDUXTLmiwzrRkpN-8Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138728_english_hls_e8e498860d11924_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138635,
@@ -140,18 +126,6 @@
       "startTime": "06:30:00 PM 13-12-2025"
     },
     {
-      "id": 138796,
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138796_5802_SYW_BRB_fc-web.jpg",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Western Sydney Wanderers vs Brisbane Roar",
-      "startTime": "11:30:00 AM 13-12-2025"
-    },
-    {
       "id": 138717,
       "event_category": "Cricket",
       "title": "Bahrain Women vs Kuwait Women (GCC Women's T20I Championship, 2025)",
@@ -164,28 +138,16 @@
       "startTime": "08:00:00 PM 13-12-2025"
     },
     {
-      "id": 138728,
-      "event_category": "Golf",
-      "title": "Day 1 vs Tiburón Golf Club (Grant Thornton Invitational)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
-      "team_1": "Day 1",
-      "team_2": "Tiburón Golf Club",
-      "status": "UPCOMING",
-      "event_name": "Grant Thornton Invitational",
-      "match_name": "Day 1",
-      "startTime": "11:30:00 PM 12-12-2025"
-    },
-    {
-      "id": 138797,
+      "id": 138796,
       "event_category": "Football",
-      "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138797_5802_MLV_ADL_fc-web.jpg",
-      "team_1": "Melbourne Victory",
-      "team_2": "Adelaide United",
+      "title": "Western Sydney Wanderers vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138796_5802_SYW_BRB_fc-web.jpg",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Brisbane Roar",
       "status": "UPCOMING",
       "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Adelaide United",
-      "startTime": "02:05:00 PM 13-12-2025"
+      "match_name": "Western Sydney Wanderers vs Brisbane Roar",
+      "startTime": "11:30:00 AM 13-12-2025"
     },
     {
       "id": 136982,
@@ -198,6 +160,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Wrexham A.F.C. vs Watford F.C.",
       "startTime": "08:30:00 PM 13-12-2025"
+    },
+    {
+      "id": 138797,
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138797_5802_MLV_ADL_fc-web.jpg",
+      "team_1": "Melbourne Victory",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Adelaide United",
+      "startTime": "02:05:00 PM 13-12-2025"
     },
     {
       "id": 130983,
@@ -450,6 +424,18 @@
       "event_name": "GCC Women's T20I Championship, 2025",
       "match_name": "Qatar Women vs Saudi Arabia Women",
       "startTime": "03:30:00 PM 15-12-2025"
+    },
+    {
+      "id": 138638,
+      "event_category": "Cricket",
+      "title": "Sharjah Warriorz vs Gulf Giants (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138638_5786_SWR_GG_FC-Web.jpg",
+      "team_1": "Sharjah Warriorz",
+      "team_2": "Gulf Giants",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Sharjah Warriorz vs Gulf Giants",
+      "startTime": "08:00:00 PM 15-12-2025"
     }
   ]
 }
