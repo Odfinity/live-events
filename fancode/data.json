@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:21 AM 14-12-2025",
+  "last update time": "03:52 AM 14-12-2025",
   "matches": [
-    {
-      "id": 130984,
-      "event_category": "Football",
-      "title": "Getafe CF vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130984_5427_GEF_ESL_fc-web.jpg",
-      "team_1": "Getafe CF",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs RCD Espanyol",
-      "startTime": "01:30:00 AM 14-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138620,
       "event_category": "Football",
@@ -32,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138620_english_hls_de9c8afe1380585_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138729,
-      "event_category": "Golf",
-      "title": "Day 2 vs Tiburón Golf Club (Grant Thornton Invitational)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Tiburón Golf Club",
+      "id": 130984,
+      "event_category": "Football",
+      "title": "Getafe CF vs RCD Espanyol (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130984_5427_GEF_ESL_fc-web.jpg",
+      "team_1": "Getafe CF",
+      "team_2": "RCD Espanyol",
       "status": "LIVE",
-      "event_name": "Grant Thornton Invitational",
-      "match_name": "Day 2",
-      "startTime": "12:30:00 AM 14-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/TCxMln2lQRyR1PI-M6IKkQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138729_english_hls_509a3b62cb30853_1ta-di_h264/index.m3u8"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Getafe CF vs RCD Espanyol",
+      "startTime": "01:30:00 AM 14-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138636,
@@ -451,6 +437,18 @@
       "status": "UPCOMING",
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Huesca vs CA Osasuna",
+      "startTime": "11:30:00 PM 17-12-2025"
+    },
+    {
+      "id": 138901,
+      "event_category": "Football",
+      "title": "Albacete vs RC Celta (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Albacete",
+      "team_2": "RC Celta",
+      "status": "UPCOMING",
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Albacete vs RC Celta",
       "startTime": "11:30:00 PM 17-12-2025"
     }
   ]
