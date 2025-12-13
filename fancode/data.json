@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 13-12-2025",
+  "last update time": "06:17 PM 13-12-2025",
   "matches": [
-    {
-      "id": 138324,
-      "event_category": "Cricket",
-      "title": "Sudurpaschim Royals vs Lumbini Lions (Nepal Premier League, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138305_5771_LBL_SPR_FC-Web.jpg",
-      "team_1": "Sudurpaschim Royals",
-      "team_2": "Lumbini Lions",
-      "status": "LIVE",
-      "event_name": "Nepal Premier League, 2025",
-      "match_name": "Sudurpaschim Royals vs Lumbini Lions",
-      "startTime": "03:15:00 PM 13-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138324_english_hls_4fe8fc9a0782100_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138324_english_hls_4fe8fc9a0782100_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138716,
       "event_category": "Cricket",
@@ -30,6 +16,34 @@
       "startTime": "03:30:00 PM 13-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/C3N0AeCWRjmDxIUjOuqOHQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138716_english_hls_e513d15d8c44553_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 136979,
+      "event_category": "Football",
+      "title": "Norwich City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136979_5489_NOR_SOU_fc-web.jpg",
+      "team_1": "Norwich City F.C.",
+      "team_2": "Southampton F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Norwich City F.C. vs Southampton F.C.",
+      "startTime": "06:00:00 PM 13-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/hwx-7eW4R3WvHcvRoLvuYA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136979_english_hls_383431b48682544_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130988,
+      "event_category": "Football",
+      "title": "Atletico de Madrid vs Valencia CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130988_5427_ATL_VAL_fc-web.jpg",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Valencia CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs Valencia CF",
+      "startTime": "06:30:00 PM 13-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130988_english_hls_c39fddfedd77886_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130988_english_hls_c39fddfedd77886_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138798,
@@ -60,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138693_english_hls_eff5699e3248845_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 138324,
+      "event_category": "Cricket",
+      "title": "Sudurpaschim Royals vs Lumbini Lions (Nepal Premier League, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138305_5771_LBL_SPR_FC-Web.jpg",
+      "team_1": "Sudurpaschim Royals",
+      "team_2": "Lumbini Lions",
+      "status": "LIVE",
+      "event_name": "Nepal Premier League, 2025",
+      "match_name": "Sudurpaschim Royals vs Lumbini Lions",
+      "startTime": "03:15:00 PM 13-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138324_english_hls_4fe8fc9a0782100_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138324_english_hls_4fe8fc9a0782100_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138635,
       "event_category": "Cricket",
       "title": "Abu Dhabi Knight Riders vs Dubai Capitals (DP World ILT20 2025-26)",
@@ -70,18 +98,6 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Abu Dhabi Knight Riders vs Dubai Capitals",
       "startTime": "08:00:00 PM 13-12-2025"
-    },
-    {
-      "id": 136979,
-      "event_category": "Football",
-      "title": "Norwich City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136979_5489_NOR_SOU_fc-web.jpg",
-      "team_1": "Norwich City F.C.",
-      "team_2": "Southampton F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Norwich City F.C. vs Southampton F.C.",
-      "startTime": "06:00:00 PM 13-12-2025"
     },
     {
       "id": 138717,
@@ -96,16 +112,16 @@
       "startTime": "08:00:00 PM 13-12-2025"
     },
     {
-      "id": 130988,
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs Valencia CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130988_5427_ATL_VAL_fc-web.jpg",
-      "team_1": "Atletico de Madrid",
-      "team_2": "Valencia CF",
+      "id": 138636,
+      "event_category": "Cricket",
+      "title": "MI Emirates vs Sharjah Warriorz (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg",
+      "team_1": "MI Emirates",
+      "team_2": "Sharjah Warriorz",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs Valencia CF",
-      "startTime": "06:30:00 PM 13-12-2025"
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "MI Emirates vs Sharjah Warriorz",
+      "startTime": "03:30:00 PM 14-12-2025"
     },
     {
       "id": 136982,
@@ -154,18 +170,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Getafe CF vs RCD Espanyol",
       "startTime": "01:30:00 AM 14-12-2025"
-    },
-    {
-      "id": 138636,
-      "event_category": "Cricket",
-      "title": "MI Emirates vs Sharjah Warriorz (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg",
-      "team_1": "MI Emirates",
-      "team_2": "Sharjah Warriorz",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "MI Emirates vs Sharjah Warriorz",
-      "startTime": "03:30:00 PM 14-12-2025"
     },
     {
       "id": 138619,
@@ -228,18 +232,6 @@
       "startTime": "06:30:00 PM 14-12-2025"
     },
     {
-      "id": 138729,
-      "event_category": "Golf",
-      "title": "Day 2 vs Tiburón Golf Club (Grant Thornton Invitational)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
-      "team_1": "Day 2",
-      "team_2": "Tiburón Golf Club",
-      "status": "UPCOMING",
-      "event_name": "Grant Thornton Invitational",
-      "match_name": "Day 2",
-      "startTime": "12:30:00 AM 14-12-2025"
-    },
-    {
       "id": 130981,
       "event_category": "Football",
       "title": "RC Celta vs Athletic Club (LALIGA 2025-26)",
@@ -250,6 +242,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RC Celta vs Athletic Club",
       "startTime": "08:45:00 PM 14-12-2025"
+    },
+    {
+      "id": 138729,
+      "event_category": "Golf",
+      "title": "Day 2 vs Tiburón Golf Club (Grant Thornton Invitational)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
+      "team_1": "Day 2",
+      "team_2": "Tiburón Golf Club",
+      "status": "UPCOMING",
+      "event_name": "Grant Thornton Invitational",
+      "match_name": "Day 2",
+      "startTime": "12:30:00 AM 14-12-2025"
     },
     {
       "id": 138690,
@@ -264,18 +268,6 @@
       "startTime": "01:00:00 PM 14-12-2025"
     },
     {
-      "id": 138694,
-      "event_category": "Golf",
-      "title": "Day 4 vs Royal Johannesburg Club, Johannesburg, South Afric (Alfred Dunhill Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png",
-      "team_1": "Day 4",
-      "team_2": "Royal Johannesburg Club, Johannesburg, South Afric",
-      "status": "UPCOMING",
-      "event_name": "Alfred Dunhill Championship",
-      "match_name": "Day 4",
-      "startTime": "03:00:00 PM 14-12-2025"
-    },
-    {
       "id": 130980,
       "event_category": "Football",
       "title": "Levante vs Villarreal CF (LALIGA 2025-26)",
@@ -286,6 +278,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Levante vs Villarreal CF",
       "startTime": "11:00:00 PM 14-12-2025"
+    },
+    {
+      "id": 138694,
+      "event_category": "Golf",
+      "title": "Day 4 vs Royal Johannesburg Club, Johannesburg, South Afric (Alfred Dunhill Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png",
+      "team_1": "Day 4",
+      "team_2": "Royal Johannesburg Club, Johannesburg, South Afric",
+      "status": "UPCOMING",
+      "event_name": "Alfred Dunhill Championship",
+      "match_name": "Day 4",
+      "startTime": "03:00:00 PM 14-12-2025"
     },
     {
       "id": 130987,
