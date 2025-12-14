@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:23 AM 14-12-2025",
+  "last update time": "11:54 AM 14-12-2025",
   "matches": [
     {
       "id": "sl1090497525",
@@ -18,8 +18,8 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497525.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497525.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497525.m3u8",
-      "sus": "hdntl=exp=1765776585~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2037140,DAI20-criclive,none~hmac=875f68c7f6983ad29f1dcb15dda6c51bfa653a67e7b7093210650a79ffc50765",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+      "sus": false,
+      "debug": "dai.google.com||sonydaimenew.akamaized.net"
     },
     {
       "id": "sl1090497526",
@@ -36,25 +36,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497526.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497526.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497526.m3u8",
-      "sus": false,
+      "sus": "hdntl=exp=1765779214~acl=%2f*~id=92548443887276928659450015155967~data=hdntl,2018457,DAI09-criclive,none~hmac=0140dcb337e859ec13219d8220e513a88aba89793521b03d53931478b65452dd",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
       "id": "sl1090497531",
-      "isLive": false,
-      "event": "",
+      "isLive": true,
+      "event": "DP World Men's U19 Asia Cup 2025",
       "match": "India U19 vs Pakistan U19 - 14 Dec 2025",
-      "Provider": "",
-      "poster": "",
+      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012377/1765637836936735_AC25_U19_IND_vs_PAK_13dec_live_Landscape_thumb_tamil.jpg",
       "genre": "Cricket",
       "language": "ta",
-      "venue": "",
-      "TVchannel": "",
+      "venue": "ICC Academy Ground, Dubai",
+      "TVchannel": "Sony Sports Ten 5",
       "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,ICC Academy Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497531.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497531.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497531.m3u8",
-      "sus": "hdntl=exp=1765777295~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2018458,DAI10-criclive,none~hmac=d7be7c739d35e1f1ddc6026322c1a68bffab2d4af9fbc9c13f22283f9d761b37",
+      "sus": "hdntl=exp=1765779222~acl=%2f*~id=92548443887276928659450015155967~data=hdntl,2018458,DAI10-criclive,none~hmac=f76ddc61143bdc89174298e2292a9088c5354619b4cec18fa317309c240d657f",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497528.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497528.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497528.m3u8",
-      "sus": "hdntl=exp=1765777307~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2037141,DAI21-criclive,none~hmac=54ad574a419b3664a4d22118a638c79f52138fb7671ce23293c31638d3902262",
+      "sus": "hdntl=exp=1765779307~acl=%2f*~id=92548443887276928659450015155967~data=hdntl,2037141,DAI21-criclive,none~hmac=d9bda825661d02eed592db9b69ee12b0e218038bf44de859e87c5d71cfa0376f",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,25 +90,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497532.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497532.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497532.m3u8",
-      "sus": "hdntl=exp=1765777319~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2022315,DAI11-criclive,none~hmac=6626a324a563f54ac882210c4887930dcbd36dad78fabf402f6a15c8c78be267",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-      "id": "sl1090497523",
-      "isLive": true,
-      "event": "UFC Fight Night - Royval vs Kape",
-      "match": "UFC Fight Night - Royval vs Kape - 14 Dec 2025",
-      "Provider": "UFC",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012362/1765617755872575_UCL_25_26_Royval-vs-Kape_telugu_landscape_thumb.jpg",
-      "genre": "Fight Sports",
-      "language": "te",
-      "venue": "UFC Apex, Las Vegas",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497523.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497523.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497523.m3u8",
-      "sus": "hdntl=exp=1765777328~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2105079,DAI08ME-V3,none~hmac=87008a88444c1c17106e800182d0fcd06a720c63ba0f7a5eb82b8113572833aa",
+      "sus": "hdntl=exp=1765779316~acl=%2f*~id=92548443887276928659450015155967~data=hdntl,2022315,DAI11-criclive,none~hmac=489ef16410e671926d98b79bdd90131c22a0b8408eb34ff49e3850cc31975102",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -126,7 +108,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497522.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497522.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497522.m3u8",
-      "sus": "hdntl=exp=1765777336~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2094588,DAI04ME-V3,none~hmac=b563579761fb2062f50f38a0aa4050c2a5f2c61393fd92694448820ee8fe7ced",
+      "sus": false,
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -144,7 +126,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497419.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497419.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497419.m3u8",
-      "sus": "hdntl=exp=1765777346~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2022320,DAI16ME-V3,none~hmac=65dddd0b5939fc771cc810c0b21c1abf8a4ff015d4aca16179f85251e291043d",
+      "sus": "hdntl=exp=1765779354~acl=%2f*~id=92548443887276928659450015155967~data=hdntl,2022320,DAI16ME-V3,none~hmac=9c2e08e072766c635e969149096c8e74e022ef517f88efd029943ae51938ba67",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090497523",
+      "isLive": true,
+      "event": "UFC Fight Night - Royval vs Kape",
+      "match": "UFC Fight Night - Royval vs Kape - 14 Dec 2025",
+      "Provider": "UFC",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012362/1765617755872575_UCL_25_26_Royval-vs-Kape_telugu_landscape_thumb.jpg",
+      "genre": "Fight Sports",
+      "language": "te",
+      "venue": "UFC Apex, Las Vegas",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497523.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497523.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497523.m3u8",
+      "sus": "hdntl=exp=1765779366~acl=%2f*~id=92548443887276928659450015155967~data=hdntl,2105079,DAI08ME-V3,none~hmac=a3274f567890d2f561afc1c7b95d1f2dfce9fda54dc8999d38f84d786e05b15a",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -162,7 +162,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090497524.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090497524.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090497524.m3u8",
-      "sus": "hdntl=exp=1765777355~acl=%2f*~id=61133413685829384453728129888934~data=hdntl,2094589,DAI05ME-V3,none~hmac=f1dae2e6a6e4dadebde7f3c9d860c61a3acd295120192e1436e4c16751f9949f",
+      "sus": "hdntl=exp=1765779375~acl=%2f*~id=92548443887276928659450015155967~data=hdntl,2094589,DAI05ME-V3,none~hmac=1541052082ca0e0243e6ecd8038ad62f2c35622ee9b606a06eaa23bd74123faf",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
