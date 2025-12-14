@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:22 PM 14-12-2025",
+  "last update time": "02:54 PM 14-12-2025",
   "matches": [
-    {
-      "id": 138690,
-      "event_category": "Horse Racing",
-      "title": "Longines Hong Kong Cup 2025 vs Sha Tin Racecourse (Longines Hong Kong Cup 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Longines-Hong-Kong-Cup-2025_Old_match-card.jpg",
-      "team_1": "Longines Hong Kong Cup 2025",
-      "team_2": "Sha Tin Racecourse",
-      "status": "LIVE",
-      "event_name": "Longines Hong Kong Cup 2025",
-      "match_name": "Longines Hong Kong Cup 2025",
-      "startTime": "01:00:00 PM 14-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/fSkxNQ1xTVWWSFjysqLTHw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138690_english_hls_c7cb89587537667_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138636,
       "event_category": "Cricket",
@@ -354,18 +340,6 @@
       "startTime": "03:00:00 PM 17-12-2025"
     },
     {
-      "id": 138826,
-      "event_category": "Team Tennis",
-      "title": "AOS Eagles vs Game Changers Falcons (World Tennis League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138826_5803_AOS_GCF_fc-web.jpg",
-      "team_1": "AOS Eagles",
-      "team_2": "Game Changers Falcons",
-      "status": "UPCOMING",
-      "event_name": "World Tennis League 2025",
-      "match_name": "AOS Eagles vs Game Changers Falcons",
-      "startTime": "07:00:00 PM 17-12-2025"
-    },
-    {
       "id": 138899,
       "event_category": "Football",
       "title": "Cultural Leonesa vs Levante (Copa del Rey, 2025-26)",
@@ -376,6 +350,18 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Cultural Leonesa vs Levante",
       "startTime": "10:30:00 PM 17-12-2025"
+    },
+    {
+      "id": 138826,
+      "event_category": "Team Tennis",
+      "title": "AOS Eagles vs Game Changers Falcons (World Tennis League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138826_5803_AOS_GCF_fc-web.jpg",
+      "team_1": "AOS Eagles",
+      "team_2": "Game Changers Falcons",
+      "status": "UPCOMING",
+      "event_name": "World Tennis League 2025",
+      "match_name": "AOS Eagles vs Game Changers Falcons",
+      "startTime": "07:00:00 PM 17-12-2025"
     },
     {
       "id": 138903,
@@ -448,6 +434,18 @@
       "event_name": "West Indies tour of New Zealand, 2025",
       "match_name": "New Zealand vs West Indies",
       "startTime": "03:30:00 AM 18-12-2025"
+    },
+    {
+      "id": 137608,
+      "event_category": "Football",
+      "title": "Bayern Munich Women vs Valerenga Fotball Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/137608_CASACARDS_APP.png",
+      "team_1": "Bayern Munich Women",
+      "team_2": "Valerenga Fotball Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Bayern Munich Women vs Valerenga Fotball Women",
+      "startTime": "01:30:00 AM 18-12-2025"
     }
   ]
 }
