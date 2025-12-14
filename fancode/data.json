@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:26 AM 15-12-2025",
+  "last update time": "03:56 AM 15-12-2025",
   "matches": [
     {
       "id": 130987,
@@ -16,20 +16,6 @@
       "startTime": "01:30:00 AM 15-12-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130987_english_hls_57f73c799a91831_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130987_english_hls_57f73c799a91831_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138621,
-      "event_category": "Football",
-      "title": "Ceuta vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138621_CASACARDS_APP.png",
-      "team_1": "Ceuta",
-      "team_2": "Las Palmas",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Ceuta vs Las Palmas",
-      "startTime": "01:30:00 AM 15-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/WFMUQ6dmQxCO2O4oq4U51A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138621_english_hls_86af27198824462_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138638,
@@ -116,18 +102,6 @@
       "startTime": "01:00:00 AM 16-12-2025"
     },
     {
-      "id": 130980,
-      "event_category": "Football",
-      "title": "Levante vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130980_5427_LE_VIL_fc-web.jpg",
-      "team_1": "Levante",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Villarreal CF",
-      "startTime": "11:00:00 PM 14-12-2025"
-    },
-    {
       "id": 138721,
       "event_category": "Cricket",
       "title": "Bahrain Women vs Qatar Women (GCC Women's T20I Championship, 2025)",
@@ -138,6 +112,18 @@
       "event_name": "GCC Women's T20I Championship, 2025",
       "match_name": "Bahrain Women vs Qatar Women",
       "startTime": "11:00:00 AM 16-12-2025"
+    },
+    {
+      "id": 130980,
+      "event_category": "Football",
+      "title": "Levante vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130980_5427_LE_VIL_fc-web.jpg",
+      "team_1": "Levante",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Villarreal CF",
+      "startTime": "11:00:00 PM 14-12-2025"
     },
     {
       "id": 138722,
@@ -437,6 +423,18 @@
       "status": "UPCOMING",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Benfica Women vs Paris FC Women",
+      "startTime": "01:30:00 AM 18-12-2025"
+    },
+    {
+      "id": 137602,
+      "event_category": "Football",
+      "title": "FC Twente Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "FC Twente Women",
+      "team_2": "Real Madrid Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "FC Twente Women vs Real Madrid Women",
       "startTime": "01:30:00 AM 18-12-2025"
     }
   ]
