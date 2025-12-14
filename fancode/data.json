@@ -1,19 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:54 PM 14-12-2025",
+  "last update time": "03:11 PM 14-12-2025",
   "matches": [
     {
       "id": 138636,
       "event_category": "Cricket",
-      "title": "MI Emirates vs Sharjah Warriorz (DP World ILT20 2025-26)",
+      "title": "Sharjah Warriorz vs MI Emirates (DP World ILT20 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg",
-      "team_1": "MI Emirates",
-      "team_2": "Sharjah Warriorz",
-      "status": "UPCOMING",
+      "team_1": "Sharjah Warriorz",
+      "team_2": "MI Emirates",
+      "status": "LIVE",
       "event_name": "DP World ILT20 2025-26",
-      "match_name": "MI Emirates vs Sharjah Warriorz",
-      "startTime": "03:30:00 PM 14-12-2025"
+      "match_name": "Sharjah Warriorz vs MI Emirates",
+      "startTime": "03:30:00 PM 14-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/t5ZAs4vJShGEd0hcj8ws7A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138636_english_hls_bcbeaeaa7b56276_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138694,
+      "event_category": "Golf",
+      "title": "Day 4 vs Royal Johannesburg Club, Johannesburg, South Afric (Alfred Dunhill Championship)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png",
+      "team_1": "Day 4",
+      "team_2": "Royal Johannesburg Club, Johannesburg, South Afric",
+      "status": "LIVE",
+      "event_name": "Alfred Dunhill Championship",
+      "match_name": "Day 4",
+      "startTime": "03:00:00 PM 14-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/gbnTjHp-QzeMQbVRJa7ktg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138694_english_hls_b1d81083f970356_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138637,
@@ -76,18 +92,6 @@
       "startTime": "01:30:00 AM 15-12-2025"
     },
     {
-      "id": 138621,
-      "event_category": "Football",
-      "title": "Ceuta vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138621_CASACARDS_APP.png",
-      "team_1": "Ceuta",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Ceuta vs Las Palmas",
-      "startTime": "01:30:00 AM 15-12-2025"
-    },
-    {
       "id": 138718,
       "event_category": "Cricket",
       "title": "Bahrain Women vs Oman Women (GCC Women's T20I Championship, 2025)",
@@ -100,16 +104,16 @@
       "startTime": "11:00:00 AM 15-12-2025"
     },
     {
-      "id": 138694,
-      "event_category": "Golf",
-      "title": "Day 4 vs Royal Johannesburg Club, Johannesburg, South Afric (Alfred Dunhill Championship)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png",
-      "team_1": "Day 4",
-      "team_2": "Royal Johannesburg Club, Johannesburg, South Afric",
+      "id": 138621,
+      "event_category": "Football",
+      "title": "Ceuta vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138621_CASACARDS_APP.png",
+      "team_1": "Ceuta",
+      "team_2": "Las Palmas",
       "status": "UPCOMING",
-      "event_name": "Alfred Dunhill Championship",
-      "match_name": "Day 4",
-      "startTime": "03:00:00 PM 14-12-2025"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Ceuta vs Las Palmas",
+      "startTime": "01:30:00 AM 15-12-2025"
     },
     {
       "id": 138719,
