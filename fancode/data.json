@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:17 AM 15-12-2025",
+  "last update time": "01:29 AM 15-12-2025",
   "matches": [
     {
       "id": 130987,
@@ -16,6 +16,20 @@
       "startTime": "01:30:00 AM 15-12-2025",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130987_english_hls_57f73c799a91831_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130987_english_hls_57f73c799a91831_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138621,
+      "event_category": "Football",
+      "title": "Ceuta vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138621_CASACARDS_APP.png",
+      "team_1": "Ceuta",
+      "team_2": "Las Palmas",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Ceuta vs Las Palmas",
+      "startTime": "01:30:00 AM 15-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/WFMUQ6dmQxCO2O4oq4U51A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138621_english_hls_86af27198824462_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138730,
@@ -42,18 +56,6 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Sharjah Warriorz vs Gulf Giants",
       "startTime": "08:00:00 PM 15-12-2025"
-    },
-    {
-      "id": 138621,
-      "event_category": "Football",
-      "title": "Ceuta vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138621_CASACARDS_APP.png",
-      "team_1": "Ceuta",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Ceuta vs Las Palmas",
-      "startTime": "01:30:00 AM 15-12-2025"
     },
     {
       "id": 138718,
