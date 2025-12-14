@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 14-12-2025",
+  "last update time": "07:56 AM 14-12-2025",
   "matches": [
+    {
+      "id": 138799,
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138799_5802_WEL_NJ_fc-web.jpg",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Newcastle Jets",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Newcastle Jets",
+      "startTime": "07:30:00 AM 14-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/O1Gs6ZyZSl-j64Tz_VJ0fg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138799_english_hls_31e805bee668332_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138636,
       "event_category": "Cricket",
@@ -64,18 +78,6 @@
       "startTime": "11:00:00 PM 14-12-2025"
     },
     {
-      "id": 138799,
-      "event_category": "Football",
-      "title": "Wellington Phoenix vs Newcastle Jets (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138799_5802_WEL_NJ_fc-web.jpg",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Newcastle Jets",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Wellington Phoenix vs Newcastle Jets",
-      "startTime": "07:30:00 AM 14-12-2025"
-    },
-    {
       "id": 130987,
       "event_category": "Football",
       "title": "Deportivo Alaves vs Real Madrid (LALIGA 2025-26)",
@@ -124,18 +126,6 @@
       "startTime": "03:00:00 PM 14-12-2025"
     },
     {
-      "id": 138730,
-      "event_category": "Golf",
-      "title": "Day 3 vs Tiburón Golf Club (Grant Thornton Invitational)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
-      "team_1": "Day 3",
-      "team_2": "Tiburón Golf Club",
-      "status": "UPCOMING",
-      "event_name": "Grant Thornton Invitational",
-      "match_name": "Day 3",
-      "startTime": "11:30:00 PM 14-12-2025"
-    },
-    {
       "id": 138718,
       "event_category": "Cricket",
       "title": "Bahrain Women vs Oman Women (GCC Women's T20I Championship, 2025)",
@@ -146,6 +136,18 @@
       "event_name": "GCC Women's T20I Championship, 2025",
       "match_name": "Bahrain Women vs Oman Women",
       "startTime": "11:00:00 AM 15-12-2025"
+    },
+    {
+      "id": 138730,
+      "event_category": "Golf",
+      "title": "Day 3 vs Tiburón Golf Club (Grant Thornton Invitational)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
+      "team_1": "Day 3",
+      "team_2": "Tiburón Golf Club",
+      "status": "UPCOMING",
+      "event_name": "Grant Thornton Invitational",
+      "match_name": "Day 3",
+      "startTime": "11:30:00 PM 14-12-2025"
     },
     {
       "id": 138719,
