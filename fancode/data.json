@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:24 PM 16-12-2025",
+  "last update time": "04:54 PM 16-12-2025",
   "matches": [
-    {
-      "id": 138910,
-      "event_category": "Cricket",
-      "title": "General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
-      "team_1": "General Education Academy",
-      "team_2": "Al Barkat",
-      "status": "LIVE",
-      "event_name": "129th Harris Shield Cricket Tournament",
-      "match_name": "General Education Academy vs Al Barkat",
-      "startTime": "08:30:00 AM 16-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/5A5jLPGKRsW_SggM0xhWkw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e72649_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138911,
-      "event_category": "Cricket",
-      "title": "Anjuman English Allana vs Dyandeep Seva Mandal (129th Harris Shield Cricket Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
-      "team_1": "Anjuman English Allana",
-      "team_2": "Dyandeep Seva Mandal",
-      "status": "LIVE",
-      "event_name": "129th Harris Shield Cricket Tournament",
-      "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
-      "startTime": "08:30:00 AM 16-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/mGAMJlhnTm2dEbSDDiq-DA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138911_english_hls_465e4ec22294901_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138722,
       "event_category": "Cricket",
@@ -56,6 +28,30 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Abu Dhabi Knight Riders vs Desert Vipers",
       "startTime": "08:00:00 PM 16-12-2025"
+    },
+    {
+      "id": 138910,
+      "event_category": "Cricket",
+      "title": "General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
+      "team_1": "General Education Academy",
+      "team_2": "Al Barkat",
+      "status": "PAUSED",
+      "event_name": "129th Harris Shield Cricket Tournament",
+      "match_name": "General Education Academy vs Al Barkat",
+      "startTime": "08:30:00 AM 16-12-2025"
+    },
+    {
+      "id": 138911,
+      "event_category": "Cricket",
+      "title": "Anjuman English Allana vs Dyandeep Seva Mandal (129th Harris Shield Cricket Tournament)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
+      "team_1": "Anjuman English Allana",
+      "team_2": "Dyandeep Seva Mandal",
+      "status": "PAUSED",
+      "event_name": "129th Harris Shield Cricket Tournament",
+      "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
+      "startTime": "08:30:00 AM 16-12-2025"
     },
     {
       "id": 138723,
@@ -154,18 +150,6 @@
       "startTime": "08:00:00 PM 17-12-2025"
     },
     {
-      "id": 138825,
-      "event_category": "Team Tennis",
-      "title": "VB Realty Hawks vs Aussie Mavericks Kites (World Tennis League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138825_5803_VBR_AMK_fc-web.jpg",
-      "team_1": "VB Realty Hawks",
-      "team_2": "Aussie Mavericks Kites",
-      "status": "UPCOMING",
-      "event_name": "World Tennis League 2025",
-      "match_name": "VB Realty Hawks vs Aussie Mavericks Kites",
-      "startTime": "03:00:00 PM 17-12-2025"
-    },
-    {
       "id": 138899,
       "event_category": "Football",
       "title": "Cultural Leonesa vs Levante (Copa del Rey, 2025-26)",
@@ -176,6 +160,18 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Cultural Leonesa vs Levante",
       "startTime": "10:30:00 PM 17-12-2025"
+    },
+    {
+      "id": 138825,
+      "event_category": "Team Tennis",
+      "title": "VB Realty Hawks vs Aussie Mavericks Kites (World Tennis League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138825_5803_VBR_AMK_fc-web.jpg",
+      "team_1": "VB Realty Hawks",
+      "team_2": "Aussie Mavericks Kites",
+      "status": "UPCOMING",
+      "event_name": "World Tennis League 2025",
+      "match_name": "VB Realty Hawks vs Aussie Mavericks Kites",
+      "startTime": "03:00:00 PM 17-12-2025"
     },
     {
       "id": 138903,
@@ -226,18 +222,6 @@
       "startTime": "11:30:00 PM 17-12-2025"
     },
     {
-      "id": 138826,
-      "event_category": "Team Tennis",
-      "title": "AOS Eagles vs Game Changers Falcons (World Tennis League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138826_5803_AOS_GCF_fc-web.jpg",
-      "team_1": "AOS Eagles",
-      "team_2": "Game Changers Falcons",
-      "status": "UPCOMING",
-      "event_name": "World Tennis League 2025",
-      "match_name": "AOS Eagles vs Game Changers Falcons",
-      "startTime": "07:00:00 PM 17-12-2025"
-    },
-    {
       "id": 137983,
       "event_category": "Football",
       "title": "Manchester City vs Brentford (Carabao Cup 2025-2026)",
@@ -248,6 +232,18 @@
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Manchester City vs Brentford",
       "startTime": "01:00:00 AM 18-12-2025"
+    },
+    {
+      "id": 138826,
+      "event_category": "Team Tennis",
+      "title": "AOS Eagles vs Game Changers Falcons (World Tennis League 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138826_5803_AOS_GCF_fc-web.jpg",
+      "team_1": "AOS Eagles",
+      "team_2": "Game Changers Falcons",
+      "status": "UPCOMING",
+      "event_name": "World Tennis League 2025",
+      "match_name": "AOS Eagles vs Game Changers Falcons",
+      "startTime": "07:00:00 PM 17-12-2025"
     },
     {
       "id": 137698,
