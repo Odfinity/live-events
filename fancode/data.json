@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:04 PM 16-12-2025",
+  "last update time": "11:22 PM 16-12-2025",
   "matches": [
     {
       "id": 138639,
@@ -30,18 +30,32 @@
       "startTime": "01:30:00 AM 17-12-2025"
     },
     {
-      "id": 138723,
-      "event_category": "Cricket",
-      "title": "Kuwait Women vs Oman Women (GCC Women's T20I Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138723_5798_OMN-W_KU-W_fc-web.jpg",
-      "team_1": "Kuwait Women",
-      "team_2": "Oman Women",
+      "id": 138895,
+      "event_category": "Football",
+      "title": "Eibar vs Elche CF (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Elche-CF_FC-Web.jpg",
+      "team_1": "Eibar",
+      "team_2": "Elche CF",
       "status": "LIVE",
-      "event_name": "GCC Women's T20I Championship, 2025",
-      "match_name": "Kuwait Women vs Oman Women",
-      "startTime": "08:00:00 PM 16-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/2sTnLU8nT3iVaDz8xvbuLA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138723_english_hls_308fbe0b5a31282_1ta-di_h264/index.m3u8"
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Eibar vs Elche CF",
+      "startTime": "11:30:00 PM 16-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/LKWKYLBXQDSvB_INRSzsqw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138895_english_hls_ed893917eb12994_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138894,
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs RCD Mallorca (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Deportivo-La-Coruna_vs_RCD-Mallorca_FC-Web.jpg",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "RCD Mallorca",
+      "status": "LIVE",
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Deportivo La Coruna vs RCD Mallorca",
+      "startTime": "11:30:00 PM 16-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/0wXsOBzhSEKin7TP_UZaxw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138894_english_hls_a92b711c4d74057_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138910,
@@ -66,30 +80,6 @@
       "event_name": "129th Harris Shield Cricket Tournament",
       "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
       "startTime": "09:45:00 AM 16-12-2025"
-    },
-    {
-      "id": 138895,
-      "event_category": "Football",
-      "title": "Eibar vs Elche CF (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Elche-CF_FC-Web.jpg",
-      "team_1": "Eibar",
-      "team_2": "Elche CF",
-      "status": "UPCOMING",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Eibar vs Elche CF",
-      "startTime": "11:30:00 PM 16-12-2025"
-    },
-    {
-      "id": 138894,
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs RCD Mallorca (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Deportivo-La-Coruna_vs_RCD-Mallorca_FC-Web.jpg",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Deportivo La Coruna vs RCD Mallorca",
-      "startTime": "11:30:00 PM 16-12-2025"
     },
     {
       "id": 138640,
@@ -450,6 +440,18 @@
       "event_name": "World Tennis League 2025",
       "match_name": "Aussie Mavericks Kites vs AOS Eagles",
       "startTime": "03:00:00 PM 18-12-2025"
+    },
+    {
+      "id": 138726,
+      "event_category": "Cricket",
+      "title": "Qatar Women vs Oman Women (GCC Women's T20I Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138726_5798_QAT-W_OMN-W_fc-web.jpg",
+      "team_1": "Qatar Women",
+      "team_2": "Oman Women",
+      "status": "UPCOMING",
+      "event_name": "GCC Women's T20I Championship, 2025",
+      "match_name": "Qatar Women vs Oman Women",
+      "startTime": "08:00:00 PM 18-12-2025"
     }
   ]
 }
