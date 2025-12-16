@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 17-12-2025",
+  "last update time": "02:03 AM 17-12-2025",
   "matches": [
     {
       "id": 137985,
@@ -10,38 +10,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Cardiff-City-vs-Chelsea-(1).jpg",
       "team_1": "Cardiff City",
       "team_2": "Chelsea",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Cardiff City vs Chelsea",
-      "startTime": "01:30:00 AM 17-12-2025"
+      "startTime": "01:30:00 AM 17-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/tj59_bPPQNaSHDk6UMAWxg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137985_english_hls_c0e31b734563878_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138895,
+      "id": 138898,
       "event_category": "Football",
-      "title": "Eibar vs Elche CF (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Eibar_vs_Elche-CF_FC-Web.jpg",
-      "team_1": "Eibar",
-      "team_2": "Elche CF",
+      "title": "Sporting de Gijón vs Valencia CF (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Valencia-CF_FC-Web.jpg",
+      "team_1": "Sporting de Gijón",
+      "team_2": "Valencia CF",
       "status": "LIVE",
       "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Eibar vs Elche CF",
-      "startTime": "11:30:00 PM 16-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/LKWKYLBXQDSvB_INRSzsqw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138895_english_hls_ed893917eb12994_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138894,
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs RCD Mallorca (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Deportivo-La-Coruna_vs_RCD-Mallorca_FC-Web.jpg",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "RCD Mallorca",
-      "status": "LIVE",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Deportivo La Coruna vs RCD Mallorca",
-      "startTime": "11:30:00 PM 16-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/0wXsOBzhSEKin7TP_UZaxw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138894_english_hls_a92b711c4d74057_1ta-di_h264/index.m3u8"
+      "match_name": "Sporting de Gijón vs Valencia CF",
+      "startTime": "01:30:00 AM 17-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Db-32GzASemTD5-oTsrhYA/master.m3u8",
+      "adfree_url": "https://dai.google.com/linear/pods/v1/p/Db-32GzASemTD5-oTsrhYA/7542885f-dbd6-40ff-8085-672bff27533d:SIN/1/1/0/b639e33a5abcd186a8115a095f6ba038/index.m3u8"
     },
     {
       "id": 138897,
@@ -54,8 +42,8 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Eldense vs Real Sociedad",
       "startTime": "01:30:00 AM 17-12-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/gALM9SmLSpmcVSPel-obVQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138897_english_hls_f75b70a05813480_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138896,
@@ -94,18 +82,6 @@
       "event_name": "129th Harris Shield Cricket Tournament",
       "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
       "startTime": "09:45:00 AM 16-12-2025"
-    },
-    {
-      "id": 138898,
-      "event_category": "Football",
-      "title": "Sporting de Gijón vs Valencia CF (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Valencia-CF_FC-Web.jpg",
-      "team_1": "Sporting de Gijón",
-      "team_2": "Valencia CF",
-      "status": "UPCOMING",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Sporting de Gijón vs Valencia CF",
-      "startTime": "01:30:00 AM 17-12-2025"
     },
     {
       "id": 138640,
@@ -454,6 +430,30 @@
       "event_name": "World Tennis League 2025",
       "match_name": "Game Changers Falcons vs VB Realty Hawks",
       "startTime": "07:00:00 PM 18-12-2025"
+    },
+    {
+      "id": 138907,
+      "event_category": "Football",
+      "title": "Burgos vs Getafe CF (Copa del Rey, 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138907_CASACARDS_APP.png",
+      "team_1": "Burgos",
+      "team_2": "Getafe CF",
+      "status": "UPCOMING",
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Burgos vs Getafe CF",
+      "startTime": "11:30:00 PM 18-12-2025"
+    },
+    {
+      "id": 138906,
+      "event_category": "Football",
+      "title": "Ourense CF vs Athletic Club (Copa del Rey, 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/138906_CASACARDS_APP.png",
+      "team_1": "Ourense CF",
+      "team_2": "Athletic Club",
+      "status": "UPCOMING",
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Ourense CF vs Athletic Club",
+      "startTime": "11:30:00 PM 18-12-2025"
     }
   ]
 }
