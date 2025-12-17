@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:08 AM 18-12-2025",
+  "last update time": "12:58 AM 18-12-2025",
   "matches": [
     {
       "id": 138900,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Manchester-City-vs--Brentford_.jpg",
       "team_1": "Manchester City",
       "team_2": "Brentford",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Manchester City vs Brentford",
-      "startTime": "01:00:00 AM 18-12-2025"
+      "startTime": "01:00:00 AM 18-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ZOx9AzTJQ4O9oQhu3VPSKA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137983_english_hls_60626a727d89666_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138905,
@@ -52,34 +54,6 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Paris FC Women vs Barcelona Women",
       "startTime": "01:30:00 AM 18-12-2025"
-    },
-    {
-      "id": 138640,
-      "event_category": "Cricket",
-      "title": "MI Emirates vs Dubai Capitals (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138640_5786_DC_MIE_FC-Web.jpg",
-      "team_1": "MI Emirates",
-      "team_2": "Dubai Capitals",
-      "status": "LIVE",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "MI Emirates vs Dubai Capitals",
-      "startTime": "08:00:00 PM 17-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/KY2-Qs0_RPmslgjncBJb9A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138640_english_hls_46562a8c4855048_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138899,
-      "event_category": "Football",
-      "title": "Cultural Leonesa vs Levante (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138899_5806_CL_LE_FC-Web.jpg",
-      "team_1": "Cultural Leonesa",
-      "team_2": "Levante",
-      "status": "LIVE",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Cultural Leonesa vs Levante",
-      "startTime": "10:30:00 PM 17-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DHa8FbQYT7-BcWjzIoEL5w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138899_english_hls_201af2524850827_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138903,
@@ -158,18 +132,6 @@
       "event_name": "129th Harris Shield Cricket Tournament",
       "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
       "startTime": "09:45:00 AM 16-12-2025"
-    },
-    {
-      "id": 138641,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138641_5786_ADKR_GG_FC-Web.jpg",
-      "team_1": "Abu Dhabi Knight Riders",
-      "team_2": "Gulf Giants",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
-      "startTime": "08:00:00 PM 18-12-2025"
     },
     {
       "id": 137608,
@@ -292,6 +254,18 @@
       "startTime": "01:45:00 AM 18-12-2025"
     },
     {
+      "id": 138641,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138641_5786_ADKR_GG_FC-Web.jpg",
+      "team_1": "Abu Dhabi Knight Riders",
+      "team_2": "Gulf Giants",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
+      "startTime": "08:00:00 PM 18-12-2025"
+    },
+    {
       "id": 138724,
       "event_category": "Cricket",
       "title": "Kuwait Women vs Saudi Arabia Women (GCC Women's T20I Championship, 2025)",
@@ -364,6 +338,18 @@
       "startTime": "01:30:00 AM 19-12-2025"
     },
     {
+      "id": 135966,
+      "event_category": "Football",
+      "title": "Reading vs Luton Town (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/135966_CASACARDS_APP.png",
+      "team_1": "Reading",
+      "team_2": "Luton Town",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Reading vs Luton Town",
+      "startTime": "01:30:00 AM 19-12-2025"
+    },
+    {
       "id": 138695,
       "event_category": "Golf",
       "title": "AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
@@ -386,18 +372,6 @@
       "event_name": "World Tennis League 2025",
       "match_name": "Aussie Mavericks Kites vs AOS Eagles",
       "startTime": "03:00:00 PM 18-12-2025"
-    },
-    {
-      "id": 135966,
-      "event_category": "Football",
-      "title": "Reading vs Luton Town (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/135966_CASACARDS_APP.png",
-      "team_1": "Reading",
-      "team_2": "Luton Town",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Reading vs Luton Town",
-      "startTime": "01:30:00 AM 19-12-2025"
     },
     {
       "id": 138828,
@@ -470,6 +444,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Sharjah Warriorz vs Dubai Capitals",
       "startTime": "08:00:00 PM 19-12-2025"
+    },
+    {
+      "id": 138696,
+      "event_category": "Golf",
+      "title": "AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg",
+      "team_1": "AfrAsia Bank Mauritius Open",
+      "team_2": "Heritage La Réserve GC, Heritage Bel Ombre, Maurit",
+      "status": "UPCOMING",
+      "event_name": "AfrAsia Bank Mauritius Open",
+      "match_name": "AfrAsia Bank Mauritius Open",
+      "startTime": "02:00:00 PM 19-12-2025"
     }
   ]
 }
