@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 AM 18-12-2025",
+  "last update time": "03:59 AM 18-12-2025",
   "matches": [
-    {
-      "id": 138905,
-      "event_category": "Football",
-      "title": "Club de Futbol Talavera de la Reina vs Real Madrid (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138905_5806_CFT_RM_FC-Web.jpg",
-      "team_1": "Club de Futbol Talavera de la Reina",
-      "team_2": "Real Madrid",
-      "status": "LIVE",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Club de Futbol Talavera de la Reina vs Real Madrid",
-      "startTime": "01:30:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/hFGHhG4MTySzROV1SDLZVA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138905_english_hls_8eed67590c55608_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 137606,
       "event_category": "Football",
@@ -46,18 +32,32 @@
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766050268~acl=/*~id=01240028137057576773659896661881~hmac=c4e3e83c95f6f3c7c6b24c4b2ed32d4d520d09793ae3e5f50bbd1c466561e130"
     },
     {
-      "id": 137608,
+      "id": 137602,
       "event_category": "Football",
-      "title": "Bayern Munich Women vs Valerenga Fotball Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137608_5720_BAY-W_VAL-W_fc-web.jpg",
-      "team_1": "Bayern Munich Women",
-      "team_2": "Valerenga Fotball Women",
+      "title": "FC Twente Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137602_5720_TWE-W_RM-W_fc-web.jpg",
+      "team_1": "FC Twente Women",
+      "team_2": "Real Madrid Women",
       "status": "LIVE",
       "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Bayern Munich Women vs Valerenga Fotball Women",
+      "match_name": "FC Twente Women vs Real Madrid Women",
       "startTime": "01:30:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/93fa2CT9Tf-rST80EKZqHA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137608_english_hls_86d6f994083421_1ta-di_h264/index.m3u8"
+      "dai_url": "https://dai.google.com/linear/hls/event/KjFEdj4TQKqAHrrHe7WDFw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137602_english_hls_43557f4af311938_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 137601,
+      "event_category": "Football",
+      "title": "VfL Wolfsburg Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137601_5720_WOL-W_CHE-W_fc-web.jpg",
+      "team_1": "VfL Wolfsburg Women",
+      "team_2": "Chelsea F.C. Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "VfL Wolfsburg Women vs Chelsea F.C. Women",
+      "startTime": "01:30:00 AM 18-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Flz9L0COTm-x2bUQyXHRYw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137601_english_hls_79db915de086739_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137607,
@@ -102,48 +102,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137604_english_hls_d8d4353dc913613_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 137603,
-      "event_category": "Football",
-      "title": "Benfica Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137603_5720_BEN-W_PFC-W_fc-web.jpg",
-      "team_1": "Benfica Women",
-      "team_2": "Paris FC Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Benfica Women vs Paris FC Women",
-      "startTime": "01:30:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/iiPAd1TATteq51y83tOkCg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137603_english_hls_19c66b39eb78099_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137602,
-      "event_category": "Football",
-      "title": "FC Twente Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137602_5720_TWE-W_RM-W_fc-web.jpg",
-      "team_1": "FC Twente Women",
-      "team_2": "Real Madrid Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "FC Twente Women vs Real Madrid Women",
-      "startTime": "01:30:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/KjFEdj4TQKqAHrrHe7WDFw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137602_english_hls_43557f4af311938_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 137601,
-      "event_category": "Football",
-      "title": "VfL Wolfsburg Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/137601_5720_WOL-W_CHE-W_fc-web.jpg",
-      "team_1": "VfL Wolfsburg Women",
-      "team_2": "Chelsea F.C. Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "VfL Wolfsburg Women vs Chelsea F.C. Women",
-      "startTime": "01:30:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Flz9L0COTm-x2bUQyXHRYw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137601_english_hls_79db915de086739_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137609,
       "event_category": "Football",
       "title": "Roma Women vs SKN St. Polten Women (UEFA Women's Champions League 2025-26)",
@@ -158,32 +116,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137609_english_hls_524c11abcf14914_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138904,
+      "id": 137608,
       "event_category": "Football",
-      "title": "Deportivo Alaves vs Sevilla FC (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138904_5806_ALA_SEV_FC-Web.jpg",
-      "team_1": "Deportivo Alaves",
-      "team_2": "Sevilla FC",
+      "title": "Bayern Munich Women vs Valerenga Fotball Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137608_5720_BAY-W_VAL-W_fc-web.jpg",
+      "team_1": "Bayern Munich Women",
+      "team_2": "Valerenga Fotball Women",
       "status": "LIVE",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Deportivo Alaves vs Sevilla FC",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Bayern Munich Women vs Valerenga Fotball Women",
       "startTime": "01:30:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/H_UZnNDcR36NGo68HpRgYQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138904_english_hls_8ebb8dd68c23453_1ta-di_h264/index.m3u8"
+      "dai_url": "https://dai.google.com/linear/hls/event/93fa2CT9Tf-rST80EKZqHA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137608_english_hls_86d6f994083421_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 137986,
+      "id": 137603,
       "event_category": "Football",
-      "title": "Newcastle United vs Fulham (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Fulham-(1).jpg",
-      "team_1": "Newcastle United",
-      "team_2": "Fulham",
+      "title": "Benfica Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/137603_5720_BEN-W_PFC-W_fc-web.jpg",
+      "team_1": "Benfica Women",
+      "team_2": "Paris FC Women",
       "status": "LIVE",
-      "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Newcastle United vs Fulham",
-      "startTime": "01:45:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/sqxQOZ0RR1OG80f6abtlfA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137986_english_hls_85a9c60f4743757_1ta-di_h264/index.m3u8"
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Benfica Women vs Paris FC Women",
+      "startTime": "01:30:00 AM 18-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/iiPAd1TATteq51y83tOkCg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137603_english_hls_19c66b39eb78099_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138910,
@@ -472,6 +430,30 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia CF vs RCD Mallorca",
       "startTime": "01:30:00 AM 20-12-2025"
+    },
+    {
+      "id": 136985,
+      "event_category": "Football",
+      "title": "Swansea City A.F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136985_5489_SWA_WRX_fc-web.jpg",
+      "team_1": "Swansea City A.F.C.",
+      "team_2": "Wrexham A.F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Swansea City A.F.C. vs Wrexham A.F.C.",
+      "startTime": "01:30:00 AM 20-12-2025"
+    },
+    {
+      "id": 138803,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Sydney FC (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138803_5802_NJ_SYD_fc-web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Sydney FC",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Sydney FC",
+      "startTime": "11:30:00 AM 20-12-2025"
     }
   ]
 }
