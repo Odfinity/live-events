@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:24 PM 17-12-2025",
+  "last update time": "04:54 PM 17-12-2025",
   "matches": [
     {
       "id": 138825,
@@ -18,34 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138825_english_hls_f5ce856b117847_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138910,
-      "event_category": "Cricket",
-      "title": "General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
-      "team_1": "General Education Academy",
-      "team_2": "Al Barkat",
-      "status": "LIVE",
-      "event_name": "129th Harris Shield Cricket Tournament",
-      "match_name": "General Education Academy vs Al Barkat",
-      "startTime": "09:45:00 AM 16-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/mc8M-SpTQ5qdLh7BXcGpuQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e15886_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138911,
-      "event_category": "Cricket",
-      "title": "Anjuman English Allana vs Dyandeep Seva Mandal (129th Harris Shield Cricket Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
-      "team_1": "Anjuman English Allana",
-      "team_2": "Dyandeep Seva Mandal",
-      "status": "LIVE",
-      "event_name": "129th Harris Shield Cricket Tournament",
-      "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
-      "startTime": "09:45:00 AM 16-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eJmqUm-hQfO6fns0xLAuTg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138911_english_hls_465e4ec22219894_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 138640,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs MI Emirates (DP World ILT20 2025-26)",
@@ -56,6 +28,30 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Dubai Capitals vs MI Emirates",
       "startTime": "08:00:00 PM 17-12-2025"
+    },
+    {
+      "id": 138910,
+      "event_category": "Cricket",
+      "title": "General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
+      "team_1": "General Education Academy",
+      "team_2": "Al Barkat",
+      "status": "PAUSED",
+      "event_name": "129th Harris Shield Cricket Tournament",
+      "match_name": "General Education Academy vs Al Barkat",
+      "startTime": "09:45:00 AM 16-12-2025"
+    },
+    {
+      "id": 138911,
+      "event_category": "Cricket",
+      "title": "Anjuman English Allana vs Dyandeep Seva Mandal (129th Harris Shield Cricket Tournament)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
+      "team_1": "Anjuman English Allana",
+      "team_2": "Dyandeep Seva Mandal",
+      "status": "PAUSED",
+      "event_name": "129th Harris Shield Cricket Tournament",
+      "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
+      "startTime": "09:45:00 AM 16-12-2025"
     },
     {
       "id": 137698,
