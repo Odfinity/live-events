@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:29 PM 18-12-2025",
+  "last update time": "07:14 PM 18-12-2025",
   "matches": [
-    {
-      "id": 138725,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates Women vs Bahrain Women (GCC Women's T20I Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138725_5798_UAE-W_BRNW_fc-web.jpg",
-      "team_1": "United Arab Emirates Women",
-      "team_2": "Bahrain Women",
-      "status": "LIVE",
-      "event_name": "GCC Women's T20I Championship, 2025",
-      "match_name": "United Arab Emirates Women vs Bahrain Women",
-      "startTime": "03:30:00 PM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/7A9Jx0qhTZGcUoAI_u_2-A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138725_english_hls_547753d49d97509_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138695,
-      "event_category": "Golf",
-      "title": "AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg",
-      "team_1": "AfrAsia Bank Mauritius Open",
-      "team_2": "Heritage La Réserve GC, Heritage Bel Ombre, Maurit",
-      "status": "LIVE",
-      "event_name": "AfrAsia Bank Mauritius Open",
-      "match_name": "AfrAsia Bank Mauritius Open",
-      "startTime": "02:00:00 PM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Nuq7KCTTTDWSy8w6YP3e5w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138695_english_hls_abe7ec7afc91418_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138828,
       "event_category": "Team Tennis",
@@ -42,20 +14,8 @@
       "event_name": "World Tennis League 2025",
       "match_name": "Game Changers Falcons vs VB Realty Hawks",
       "startTime": "07:00:00 PM 18-12-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 137698,
-      "event_category": "Cricket",
-      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "West Indies",
-      "status": "PAUSED",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "New Zealand vs West Indies",
-      "startTime": "03:30:00 AM 18-12-2025"
+      "dai_url": "https://dai.google.com/linear/hls/event/ARnT3_08QdeXD7cmpAIvrA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138828_english_hls_aa7e043b3016968_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138641,
@@ -68,6 +28,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
       "startTime": "08:00:00 PM 18-12-2025"
+    },
+    {
+      "id": 137698,
+      "event_category": "Cricket",
+      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
+      "team_1": "New Zealand",
+      "team_2": "West Indies",
+      "status": "PAUSED",
+      "event_name": "West Indies tour of New Zealand, 2025",
+      "match_name": "New Zealand vs West Indies",
+      "startTime": "03:30:00 AM 18-12-2025"
     },
     {
       "id": 138726,
@@ -276,13 +248,13 @@
     {
       "id": 138960,
       "event_category": "Golf",
-      "title": "PNC Championship 2025 vs Ritz-Carlton Golf Club (PNC Championship 2025)",
+      "title": "Day 1 vs Ritz-Carlton Golf Club (PNC Championship 2025)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-      "team_1": "PNC Championship 2025",
+      "team_1": "Day 1",
       "team_2": "Ritz-Carlton Golf Club",
       "status": "UPCOMING",
       "event_name": "PNC Championship 2025",
-      "match_name": "PNC Championship 2025",
+      "match_name": "Day 1",
       "startTime": "10:30:00 PM 19-12-2025"
     },
     {
@@ -452,6 +424,30 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Madrid vs Sevilla FC",
       "startTime": "01:30:00 AM 21-12-2025"
+    },
+    {
+      "id": 138961,
+      "event_category": "Golf",
+      "title": "Day 2 vs Ritz-Carlton Golf Club (PNC Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "team_1": "Day 2",
+      "team_2": "Ritz-Carlton Golf Club",
+      "status": "UPCOMING",
+      "event_name": "PNC Championship 2025",
+      "match_name": "Day 2",
+      "startTime": "11:30:00 PM 20-12-2025"
+    },
+    {
+      "id": 138806,
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138806_5802_WEL_CCM_fc-web.jpg",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Central Coast Mariners",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Central Coast Mariners",
+      "startTime": "07:30:00 AM 21-12-2025"
     }
   ]
 }
