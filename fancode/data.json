@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:30 PM 18-12-2025",
+  "last update time": "08:07 PM 18-12-2025",
   "matches": [
+    {
+      "id": 138641,
+      "event_category": "Cricket",
+      "title": "Gulf Giants vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138641_5786_ADKR_GG_FC-Web.jpg",
+      "team_1": "Gulf Giants",
+      "team_2": "Abu Dhabi Knight Riders",
+      "status": "LIVE",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Gulf Giants vs Abu Dhabi Knight Riders",
+      "startTime": "08:00:00 PM 18-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/jsygMp7pSY6TduqYg2LTKg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138641_english_hls_9c4c9d0e5447469_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138726,
+      "event_category": "Cricket",
+      "title": "Qatar Women vs Oman Women (GCC Women's T20I Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138726_5798_QAT-W_OMN-W_fc-web.jpg",
+      "team_1": "Qatar Women",
+      "team_2": "Oman Women",
+      "status": "LIVE",
+      "event_name": "GCC Women's T20I Championship, 2025",
+      "match_name": "Qatar Women vs Oman Women",
+      "startTime": "08:00:00 PM 18-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/eITCXEy1RwKF-4z_6AUMIg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138726_english_hls_9eccc6392b48265_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138828,
       "event_category": "Team Tennis",
@@ -18,18 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138828_english_hls_aa7e043b3016968_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138641,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138641_5786_ADKR_GG_FC-Web.jpg",
-      "team_1": "Abu Dhabi Knight Riders",
-      "team_2": "Gulf Giants",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
-      "startTime": "08:00:00 PM 18-12-2025"
-    },
-    {
       "id": 137698,
       "event_category": "Cricket",
       "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -40,18 +56,6 @@
       "event_name": "West Indies tour of New Zealand, 2025",
       "match_name": "New Zealand vs West Indies",
       "startTime": "03:30:00 AM 18-12-2025"
-    },
-    {
-      "id": 138726,
-      "event_category": "Cricket",
-      "title": "Qatar Women vs Oman Women (GCC Women's T20I Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138726_5798_QAT-W_OMN-W_fc-web.jpg",
-      "team_1": "Qatar Women",
-      "team_2": "Oman Women",
-      "status": "UPCOMING",
-      "event_name": "GCC Women's T20I Championship, 2025",
-      "match_name": "Qatar Women vs Oman Women",
-      "startTime": "08:00:00 PM 18-12-2025"
     },
     {
       "id": 138907,
@@ -150,6 +154,18 @@
       "startTime": "08:00:00 PM 19-12-2025"
     },
     {
+      "id": 138437,
+      "event_category": "Football",
+      "title": "Al Taawoun vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138437_5655_ALTW_AHS_fc-web.png",
+      "team_1": "Al Taawoun",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al Taawoun vs Al Hilal SFC",
+      "startTime": "11:00:00 PM 19-12-2025"
+    },
+    {
       "id": 138956,
       "event_category": "Live events",
       "title": "Girls Football vs Don Bosco High School Grounds, Matunga (DBIS Champions Cup 2025)",
@@ -172,18 +188,6 @@
       "event_name": "DBIS Champions Cup 2025",
       "match_name": "Boys Football",
       "startTime": "08:00:00 AM 19-12-2025"
-    },
-    {
-      "id": 138437,
-      "event_category": "Football",
-      "title": "Al Taawoun vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138437_5655_ALTW_AHS_fc-web.png",
-      "team_1": "Al Taawoun",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al Taawoun vs Al Hilal SFC",
-      "startTime": "11:00:00 PM 19-12-2025"
     },
     {
       "id": 138696,
