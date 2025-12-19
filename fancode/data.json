@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:26 AM 20-12-2025",
+  "last update time": "03:58 AM 20-12-2025",
   "matches": [
     {
       "id": 130990,
@@ -28,34 +28,6 @@
       "startTime": "03:30:00 AM 18-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
       "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f"
-    },
-    {
-      "id": 130995,
-      "event_category": "Football",
-      "title": "Valencia CF vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130995_5427_VAL_MRC_fc-web_1765803305969.png",
-      "team_1": "Valencia CF",
-      "team_2": "RCD Mallorca",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Valencia CF vs RCD Mallorca",
-      "startTime": "01:30:00 AM 20-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130995_english_hls_67aa1abd8e5278_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130995_english_hls_67aa1abd8e5278_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 136985,
-      "event_category": "Football",
-      "title": "Swansea City A.F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136985_5489_SWA_WRX_fc-web.jpg",
-      "team_1": "Swansea City A.F.C.",
-      "team_2": "Wrexham A.F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Swansea City A.F.C. vs Wrexham A.F.C.",
-      "startTime": "01:30:00 AM 20-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/wWchEnkFSqmaNbr0tkhunw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136985_english_hls_dcbbf1236f71828_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138643,
@@ -130,18 +102,6 @@
       "startTime": "08:45:00 PM 20-12-2025"
     },
     {
-      "id": 138803,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Sydney FC (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138803_5802_NJ_SYD_fc-web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Sydney FC",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Sydney FC",
-      "startTime": "11:30:00 AM 20-12-2025"
-    },
-    {
       "id": 130991,
       "event_category": "Football",
       "title": "CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)",
@@ -152,6 +112,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "CA Osasuna vs Deportivo Alaves",
       "startTime": "11:00:00 PM 20-12-2025"
+    },
+    {
+      "id": 138803,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Sydney FC (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138803_5802_NJ_SYD_fc-web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Sydney FC",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Sydney FC",
+      "startTime": "11:30:00 AM 20-12-2025"
     },
     {
       "id": 138804,
@@ -452,6 +424,30 @@
       "event_name": "A League 2025-26",
       "match_name": "Melbourne City vs Macarthur",
       "startTime": "01:45:00 PM 23-12-2025"
+    },
+    {
+      "id": 138648,
+      "event_category": "Cricket",
+      "title": "MI Emirates vs Gulf Giants (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138648_5786_MIE_GG_FC-Web.jpg",
+      "team_1": "MI Emirates",
+      "team_2": "Gulf Giants",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "MI Emirates vs Gulf Giants",
+      "startTime": "08:00:00 PM 23-12-2025"
+    },
+    {
+      "id": 138343,
+      "event_category": "Football",
+      "title": "DR Congo vs Benin (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "DR Congo",
+      "team_2": "Benin",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "DR Congo vs Benin",
+      "startTime": "06:00:00 PM 23-12-2025"
     }
   ]
 }
