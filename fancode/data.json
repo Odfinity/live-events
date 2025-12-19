@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:24 PM 19-12-2025",
+  "last update time": "07:56 PM 19-12-2025",
   "matches": [
     {
       "id": 138642,
       "event_category": "Cricket",
-      "title": "Sharjah Warriorz vs Dubai Capitals (DP World ILT20 2025-26)",
+      "title": "Dubai Capitals vs Sharjah Warriorz (DP World ILT20 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138642_5786_SWR_DC_FC-Web.jpg",
-      "team_1": "Sharjah Warriorz",
-      "team_2": "Dubai Capitals",
-      "status": "UPCOMING",
+      "team_1": "Dubai Capitals",
+      "team_2": "Sharjah Warriorz",
+      "status": "LIVE",
       "event_name": "DP World ILT20 2025-26",
-      "match_name": "Sharjah Warriorz vs Dubai Capitals",
-      "startTime": "08:00:00 PM 19-12-2025"
+      "match_name": "Dubai Capitals vs Sharjah Warriorz",
+      "startTime": "08:00:00 PM 19-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/RdOtDtbaRwygoGHW-HU1zA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138642_english_hls_574c6ba1f7380_1ta-di_h264/index.m3u8"
     },
     {
       "id": 130990,
@@ -26,6 +28,20 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Madrid vs Sevilla FC",
       "startTime": "01:30:00 AM 21-12-2025"
+    },
+    {
+      "id": 138727,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates Women vs Oman Women (GCC Women's T20I Championship, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138713_5798_UAE-W_OMN-W_fc-web.jpg",
+      "team_1": "United Arab Emirates Women",
+      "team_2": "Oman Women",
+      "status": "LIVE",
+      "event_name": "GCC Women's T20I Championship, 2025",
+      "match_name": "United Arab Emirates Women vs Oman Women",
+      "startTime": "08:00:00 PM 19-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/UjfKj2waQGKCVEcw1CQMoA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138727_english_hls_8b7e26188248363_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138830,
@@ -52,18 +68,6 @@
       "event_name": "West Indies tour of New Zealand, 2025",
       "match_name": "New Zealand vs West Indies",
       "startTime": "03:30:00 AM 18-12-2025"
-    },
-    {
-      "id": 138727,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates Women vs Oman Women (GCC Women's T20I Championship, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "United Arab Emirates Women",
-      "team_2": "Oman Women",
-      "status": "UPCOMING",
-      "event_name": "GCC Women's T20I Championship, 2025",
-      "match_name": "United Arab Emirates Women vs Oman Women",
-      "startTime": "08:00:00 PM 19-12-2025"
     },
     {
       "id": 138643,
