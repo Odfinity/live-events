@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:00 AM 21-12-2025",
+  "last update time": "01:17 AM 21-12-2025",
   "matches": [
     {
       "id": 130990,
@@ -10,24 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png",
       "team_1": "Real Madrid",
       "team_2": "Sevilla FC",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Sevilla FC",
-      "startTime": "01:30:00 AM 21-12-2025"
-    },
-    {
-      "id": 130991,
-      "event_category": "Football",
-      "title": "CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130991_5427_OSN_ALA_fc-web_1765803323624.png",
-      "team_1": "CA Osasuna",
-      "team_2": "Deportivo Alaves",
       "status": "LIVE",
       "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Deportivo Alaves",
-      "startTime": "11:00:00 PM 20-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8"
+      "match_name": "Real Madrid vs Sevilla FC",
+      "startTime": "01:30:00 AM 21-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138961,
@@ -42,6 +30,20 @@
       "startTime": "11:30:00 PM 20-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/YEjYmrXyQCCpXD7Hf1mA2w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138961_english_hls_d6e276404364593_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 130991,
+      "event_category": "Football",
+      "title": "CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/130991_5427_OSN_ALA_fc-web_1765803323624.png",
+      "team_1": "CA Osasuna",
+      "team_2": "Deportivo Alaves",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Deportivo Alaves",
+      "startTime": "11:00:00 PM 20-12-2025",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8"
     },
     {
       "id": 137698,
