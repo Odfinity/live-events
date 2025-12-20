@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:54 AM 20-12-2025",
+  "last update time": "11:15 AM 20-12-2025",
   "matches": [
     {
       "id": 130990,
@@ -26,8 +26,8 @@
       "event_name": "West Indies tour of New Zealand, 2025",
       "match_name": "New Zealand vs West Indies",
       "startTime": "03:30:00 AM 18-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f"
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 138643,
@@ -60,10 +60,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138803_5802_NJ_SYD_fc-web.jpg",
       "team_1": "Newcastle Jets",
       "team_2": "Sydney FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "A League 2025-26",
       "match_name": "Newcastle Jets vs Sydney FC",
-      "startTime": "11:30:00 AM 20-12-2025"
+      "startTime": "11:30:00 AM 20-12-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136984,
