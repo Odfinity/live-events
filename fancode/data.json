@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:48 PM 20-12-2025",
+  "last update time": "07:10 PM 20-12-2025",
   "matches": [
     {
       "id": 130990,
@@ -26,8 +26,8 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "MI Emirates vs Abu Dhabi Knight Riders",
       "startTime": "03:30:00 PM 20-12-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/GjDI1lNgRVW7qD5YcDJ2ig/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138643_english_hls_d8fbbdf51274529_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136984,
@@ -40,8 +40,8 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Southampton F.C. vs Coventry City Football Club",
       "startTime": "06:00:00 PM 20-12-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/GXWJmxuzSH-Nv0-XxUruAg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136984_english_hls_d616d17aa982293_1ta-di_h264/index.m3u8"
     },
     {
       "id": 130994,
@@ -54,8 +54,8 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs RC Celta",
       "startTime": "06:30:00 PM 20-12-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130994_english_hls_16130fdd0085020_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130994_english_hls_16130fdd0085020_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138697,
@@ -68,8 +68,8 @@
       "event_name": "AfrAsia Bank Mauritius Open",
       "match_name": "AfrAsia Bank Mauritius Open",
       "startTime": "02:30:00 PM 20-12-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/29LxcmpcT0m0Te6JcnbddA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138697_english_hls_661420901791345_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138831,
@@ -82,20 +82,8 @@
       "event_name": "World Tennis League 2025",
       "match_name": "AOS Eagles vs Aussie Mavericks Kites",
       "startTime": "06:00:00 PM 20-12-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 137698,
-      "event_category": "Cricket",
-      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
-      "team_1": "New Zealand",
-      "team_2": "West Indies",
-      "status": "PAUSED",
-      "event_name": "West Indies tour of New Zealand, 2025",
-      "match_name": "New Zealand vs West Indies",
-      "startTime": "03:30:00 AM 18-12-2025"
+      "dai_url": "https://dai.google.com/linear/hls/event/p2oWlnZuRk-111E_Rv-Mxw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138831_english_hls_f03fdfd6bf76778_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138644,
@@ -108,6 +96,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Desert Vipers vs Sharjah Warriorz",
       "startTime": "08:00:00 PM 20-12-2025"
+    },
+    {
+      "id": 137698,
+      "event_category": "Cricket",
+      "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
+      "team_1": "New Zealand",
+      "team_2": "West Indies",
+      "status": "PAUSED",
+      "event_name": "West Indies tour of New Zealand, 2025",
+      "match_name": "New Zealand vs West Indies",
+      "startTime": "03:30:00 AM 18-12-2025"
     },
     {
       "id": 138645,
