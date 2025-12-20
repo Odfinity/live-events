@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:02 PM 20-12-2025",
+  "last update time": "10:20 PM 20-12-2025",
   "matches": [
     {
       "id": 130990,
@@ -58,20 +58,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130999_english_hls_c617ca438630_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138831,
-      "event_category": "Team Tennis",
-      "title": "AOS Eagles vs Aussie Mavericks Kites (World Tennis League 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138827_5803_AMK_AOS_fc-web.jpg",
-      "team_1": "AOS Eagles",
-      "team_2": "Aussie Mavericks Kites",
-      "status": "LIVE",
-      "event_name": "World Tennis League 2025",
-      "match_name": "AOS Eagles vs Aussie Mavericks Kites",
-      "startTime": "06:00:00 PM 20-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/p2oWlnZuRk-111E_Rv-Mxw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138831_english_hls_f03fdfd6bf76778_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 137698,
       "event_category": "Cricket",
       "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -84,18 +70,6 @@
       "startTime": "03:30:00 AM 18-12-2025"
     },
     {
-      "id": 138645,
-      "event_category": "Cricket",
-      "title": "Gulf Giants vs Dubai Capitals (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138645_5786_GG_DC_FC-Web.jpg",
-      "team_1": "Gulf Giants",
-      "team_2": "Dubai Capitals",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Gulf Giants vs Dubai Capitals",
-      "startTime": "03:30:00 PM 21-12-2025"
-    },
-    {
       "id": 130991,
       "event_category": "Football",
       "title": "CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)",
@@ -106,6 +80,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "CA Osasuna vs Deportivo Alaves",
       "startTime": "11:00:00 PM 20-12-2025"
+    },
+    {
+      "id": 138645,
+      "event_category": "Cricket",
+      "title": "Gulf Giants vs Dubai Capitals (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138645_5786_GG_DC_FC-Web.jpg",
+      "team_1": "Gulf Giants",
+      "team_2": "Dubai Capitals",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Gulf Giants vs Dubai Capitals",
+      "startTime": "03:30:00 PM 21-12-2025"
     },
     {
       "id": 138646,
@@ -168,18 +154,6 @@
       "startTime": "11:00:00 PM 21-12-2025"
     },
     {
-      "id": 138961,
-      "event_category": "Golf",
-      "title": "Day 2 vs Ritz-Carlton Golf Club (PNC Championship 2025)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg",
-      "team_1": "Day 2",
-      "team_2": "Ritz-Carlton Golf Club",
-      "status": "UPCOMING",
-      "event_name": "PNC Championship 2025",
-      "match_name": "Day 2",
-      "startTime": "11:30:00 PM 20-12-2025"
-    },
-    {
       "id": 138336,
       "event_category": "Football",
       "title": "Morocco vs Comoros (Africa Cup of Nations 2025-26)",
@@ -192,16 +166,16 @@
       "startTime": "12:30:00 AM 22-12-2025"
     },
     {
-      "id": 138698,
+      "id": 138961,
       "event_category": "Golf",
-      "title": "AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg",
-      "team_1": "AfrAsia Bank Mauritius Open",
-      "team_2": "Heritage La Réserve GC, Heritage Bel Ombre, Maurit",
+      "title": "Day 2 vs Ritz-Carlton Golf Club (PNC Championship 2025)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg",
+      "team_1": "Day 2",
+      "team_2": "Ritz-Carlton Golf Club",
       "status": "UPCOMING",
-      "event_name": "AfrAsia Bank Mauritius Open",
-      "match_name": "AfrAsia Bank Mauritius Open",
-      "startTime": "11:30:00 AM 21-12-2025"
+      "event_name": "PNC Championship 2025",
+      "match_name": "Day 2",
+      "startTime": "11:30:00 PM 20-12-2025"
     },
     {
       "id": 130997,
@@ -214,6 +188,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Betis vs Getafe CF",
       "startTime": "01:30:00 AM 22-12-2025"
+    },
+    {
+      "id": 138698,
+      "event_category": "Golf",
+      "title": "AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg",
+      "team_1": "AfrAsia Bank Mauritius Open",
+      "team_2": "Heritage La Réserve GC, Heritage Bel Ombre, Maurit",
+      "status": "UPCOMING",
+      "event_name": "AfrAsia Bank Mauritius Open",
+      "match_name": "AfrAsia Bank Mauritius Open",
+      "startTime": "11:30:00 AM 21-12-2025"
     },
     {
       "id": 138962,
@@ -441,6 +427,18 @@
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
       "match_name": "Arsenal vs Crystal Palace",
+      "startTime": "01:30:00 AM 24-12-2025"
+    },
+    {
+      "id": 138341,
+      "event_category": "Football",
+      "title": "Tunisia vs Uganda (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Tunisia",
+      "team_2": "Uganda",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Tunisia vs Uganda",
       "startTime": "01:30:00 AM 24-12-2025"
     }
   ]
