@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:53 PM 20-12-2025",
+  "last update time": "03:11 PM 20-12-2025",
   "matches": [
     {
       "id": 130990,
@@ -14,6 +14,20 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Madrid vs Sevilla FC",
       "startTime": "01:30:00 AM 21-12-2025"
+    },
+    {
+      "id": 138643,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138643_5786_ADKR_MIE_FC-Web.jpg",
+      "team_1": "Abu Dhabi Knight Riders",
+      "team_2": "MI Emirates",
+      "status": "LIVE",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
+      "startTime": "03:30:00 PM 20-12-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 138804,
@@ -42,18 +56,6 @@
       "startTime": "02:30:00 PM 20-12-2025",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 138643,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138643_5786_ADKR_MIE_FC-Web.jpg",
-      "team_1": "Abu Dhabi Knight Riders",
-      "team_2": "MI Emirates",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
-      "startTime": "03:30:00 PM 20-12-2025"
     },
     {
       "id": 137698,
@@ -140,18 +142,6 @@
       "startTime": "11:00:00 PM 20-12-2025"
     },
     {
-      "id": 138805,
-      "event_category": "Football",
-      "title": "Perth Glory vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138805_5802_PG_ADL_fc-web.jpg",
-      "team_1": "Perth Glory",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Perth Glory vs Adelaide United",
-      "startTime": "04:15:00 PM 20-12-2025"
-    },
-    {
       "id": 138645,
       "event_category": "Cricket",
       "title": "Gulf Giants vs Dubai Capitals (DP World ILT20 2025-26)",
@@ -162,6 +152,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Gulf Giants vs Dubai Capitals",
       "startTime": "03:30:00 PM 21-12-2025"
+    },
+    {
+      "id": 138805,
+      "event_category": "Football",
+      "title": "Perth Glory vs Adelaide United (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138805_5802_PG_ADL_fc-web.jpg",
+      "team_1": "Perth Glory",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Perth Glory vs Adelaide United",
+      "startTime": "04:15:00 PM 20-12-2025"
     },
     {
       "id": 138806,
