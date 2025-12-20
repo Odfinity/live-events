@@ -1,26 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:19 PM 20-12-2025",
+  "last update time": "08:27 PM 20-12-2025",
   "matches": [
-    {
-      "id": "sl1090498123",
-      "isLive": true,
-      "event": "Bundesliga 2025-26",
-      "match": "Goal Arena - MD 15 - 20 Dec 2025",
-      "Provider": "DFL Deutsche Fubball Liga e.V.",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
-      "genre": "Football",
-      "language": "en",
-      "venue": "",
-      "TVchannel": "Sony Sports Ten 2",
-      "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bundesliga202526",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498123.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498123.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498123.m3u8",
-      "sus": "hdntl=exp=1766328250~acl=%2f*~id=32082868506921980114463515875610~data=hdntl,2094588,DAI04ME-V3,none~hmac=9b63c5b60472e46038b05f6b1e5d6d5e0f0f84c380c939d7b44fcffd66ea18a8",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
     {
       "id": "sl1090498126",
       "isLive": true,
@@ -36,7 +18,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498126.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498126.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498126.m3u8",
-      "sus": "hdntl=exp=1766328260~acl=%2f*~id=32082868506921980114463515875610~data=hdntl,2018457,DAI09ME-V3,none~hmac=bfff5f270ccc2d4413d5b34159169718faa4595a51fc96a9a4dfcca2eae55e43",
+      "sus": "hdntl=exp=1766328969~acl=%2f*~id=83919479412543362847615496083655~data=hdntl,2018457,DAI09ME-V3,none~hmac=1c7821f3a7b43e54c0c53abf8b26df7cc25391b8b8f3d370a8b6a406debe0dec",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090498123",
+      "isLive": true,
+      "event": "Bundesliga 2025-26",
+      "match": "Goal Arena - MD 15 - 20 Dec 2025",
+      "Provider": "DFL Deutsche Fubball Liga e.V.",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bundesliga202526",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498123.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498123.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498123.m3u8",
+      "sus": "hdntl=exp=1766328977~acl=%2f*~id=83919479412543362847615496083655~data=hdntl,2094588,DAI04ME-V3,none~hmac=613537b621f2472c7c522d950d0ce88d0a201f6ebb9b9b31d159dccccc11557d",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,7 +54,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498128.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498128.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498128.m3u8",
-      "sus": "hdntl=exp=1766328268~acl=%2f*~id=32082868506921980114463515875610~data=hdntl,2022317,DAI13ME-V3,none~hmac=aedc4023cfd2f1d85154998d20af549b528303b88bc7b567f22c862ff9d6d947",
+      "sus": "hdntl=exp=1766328988~acl=%2f*~id=83919479412543362847615496083655~data=hdntl,2022317,DAI13ME-V3,none~hmac=52e1f13f8aac8826cd4322929c9a5cb7f620cd5d13789bbace4641173fdc9618",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498127.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498127.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498127.m3u8",
-      "sus": "hdntl=exp=1766328279~acl=%2f*~id=32082868506921980114463515875610~data=hdntl,2022315,DAI11ME-V3,none~hmac=67fb104b87f349df19756071366566a1fb22948b6937baed028fb112bf3f3867",
+      "sus": "hdntl=exp=1766328998~acl=%2f*~id=83919479412543362847615496083655~data=hdntl,2022315,DAI11ME-V3,none~hmac=8cd1a3964bcd24f90558460098ba20e489571a03f6dd929b017f41ac31bac226",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,7 +90,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498124.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498124.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498124.m3u8",
-      "sus": "hdntl=exp=1766328288~acl=%2f*~id=32082868506921980114463515875610~data=hdntl,2094589,DAI05ME-V3,none~hmac=583723cd0537b46a240184feeb3140b2e0b513efab54edcd8404b05d3270188e",
+      "sus": "hdntl=exp=1766329007~acl=%2f*~id=83919479412543362847615496083655~data=hdntl,2094589,DAI05ME-V3,none~hmac=a4575a1541f3058d7d4176d66e09c3ed0ab39ada6510130e712ae524f41bcf21",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -108,7 +108,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498125.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498125.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498125.m3u8",
-      "sus": "hdntl=exp=1766328296~acl=%2f*~id=32082868506921980114463515875610~data=hdntl,2105079,DAI08ME-V3,none~hmac=321ec9d63bbfd4b3632761ace5f8dba4b0b63b1809fb023bcec025c942346111",
+      "sus": "hdntl=exp=1766329018~acl=%2f*~id=83919479412543362847615496083655~data=hdntl,2105079,DAI08ME-V3,none~hmac=47ae0be6d178c53b6b10c07f63bf41e72a4c335ce5b058a74a3029c3b4fe9875",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
   ]
