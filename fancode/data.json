@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:29 AM 21-12-2025",
+  "last update time": "01:59 AM 21-12-2025",
   "matches": [
     {
       "id": 130990,
@@ -80,18 +80,6 @@
       "startTime": "06:30:00 PM 21-12-2025"
     },
     {
-      "id": 138806,
-      "event_category": "Football",
-      "title": "Wellington Phoenix vs Central Coast Mariners (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138806_5802_WEL_CCM_fc-web.jpg",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Central Coast Mariners",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Wellington Phoenix vs Central Coast Mariners",
-      "startTime": "07:30:00 AM 21-12-2025"
-    },
-    {
       "id": 130993,
       "event_category": "Football",
       "title": "Villarreal CF vs FC Barcelona (LALIGA 2025-26)",
@@ -102,6 +90,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Villarreal CF vs FC Barcelona",
       "startTime": "08:45:00 PM 21-12-2025"
+    },
+    {
+      "id": 138806,
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138806_5802_WEL_CCM_fc-web.jpg",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Central Coast Mariners",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Central Coast Mariners",
+      "startTime": "07:30:00 AM 21-12-2025"
     },
     {
       "id": 130998,
@@ -426,6 +426,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Burkina Faso vs Equatorial Guinea",
       "startTime": "06:00:00 PM 24-12-2025"
+    },
+    {
+      "id": 138344,
+      "event_category": "Football",
+      "title": "Algeria vs Sudan (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Algeria",
+      "team_2": "Sudan",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Algeria vs Sudan",
+      "startTime": "08:30:00 PM 24-12-2025"
     }
   ]
 }
