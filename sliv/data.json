@@ -1,26 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:30 AM 21-12-2025",
+  "last update time": "11:02 AM 21-12-2025",
   "matches": [
-    {
-      "id": "sl1090498317",
-      "isLive": true,
-      "event": "DP World Men's U19 Asia Cup 2025",
-      "match": "India U19 vs Pakistan U19 - Final - 21 Dec 2025",
-      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171991458118_AC25_U19_final_IND_vs_PAK_19dec_hindi_Landscape_thumb.jpg",
-      "genre": "Cricket",
-      "language": "hi",
-      "venue": "ICC Academy Ground, Dubai",
-      "TVchannel": "Sony Sports Ten 5",
-      "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
-      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498317.m3u8",
-      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498317.m3u8",
-      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498317.m3u8",
-      "sus": "hdntl=exp=1766379486~acl=%2f*~id=62308132225909025785639618486260~data=hdntl,2018457,DAI09-criclive,none~hmac=eb2b38739528e3b6fb143163e9ba8f8771443488dfcca935291cdaea4f4ad0da",
-      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
     {
       "id": "sl1090498314",
       "isLive": true,
@@ -36,7 +18,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498314.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498314.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498314.m3u8",
-      "sus": "hdntl=exp=1766379488~acl=%2f*~id=62308132225909025785639618486260~data=hdntl,2037140,DAI20-criclive,none~hmac=0b1344b604a5c464e0398da098af73a6b0ed4dc54915e5e473bae0ab5025c30f",
+      "sus": "hdntl=exp=1766381296~acl=%2f*~id=73977325717841077714123130559899~data=hdntl,2037140,DAI20-criclive,none~hmac=a68afb1f8c9f13d141c55234ecabed6c0149f68109d0eacefc3abf98e234cd3a",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -54,7 +36,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498270.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498270.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498270.m3u8",
-      "sus": "hdntl=exp=1766379488~acl=%2f*~id=62308132225909025785639618486260~data=hdntl,2018457,wivsnz,ENG~hmac=28a78a34bee809d8502d8d1ae1f0ea6f1d2c593773c54f8479cddc030920e252",
+      "sus": "hdntl=exp=1766381304~acl=%2f*~id=73977325717841077714123130559899~data=hdntl,2018457,wivsnz,ENG~hmac=6bc77d4075ebe373f5a6e0148b5f34a53cd59a0d23aa7c7f2ff55fc0e79bd3aa",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090498317",
+      "isLive": true,
+      "event": "DP World Men's U19 Asia Cup 2025",
+      "match": "India U19 vs Pakistan U19 - Final - 21 Dec 2025",
+      "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171991458118_AC25_U19_final_IND_vs_PAK_19dec_hindi_Landscape_thumb.jpg",
+      "genre": "Cricket",
+      "language": "hi",
+      "venue": "ICC Academy Ground, Dubai",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498317.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498317.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498317.m3u8",
+      "sus": "hdntl=exp=1766381313~acl=%2f*~id=73977325717841077714123130559899~data=hdntl,2018457,DAI09-criclive,none~hmac=8621e5ba98e7bdbfd38acaa182344e7dc85b2224b1d3593733d2f3dbf24b9ce0",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -72,7 +72,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498318.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498318.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498318.m3u8",
-      "sus": "hdntl=exp=1766379490~acl=%2f*~id=62308132225909025785639618486260~data=hdntl,2018458,DAI10-criclive,none~hmac=3eb19fc8f09b0f56305a10054d28dfbf4e9dc80208ff7ecbecedea079b4938dd",
+      "sus": "hdntl=exp=1766381321~acl=%2f*~id=73977325717841077714123130559899~data=hdntl,2018458,DAI10-criclive,none~hmac=fd4747e0e2dd105f1f7575f950f0c7e8ae71023e20f7f6dc7a8df92a8e339263",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -90,7 +90,7 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090498316.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090498316.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090498316.m3u8",
-      "sus": "hdntl=exp=1766379491~acl=%2f*~id=62308132225909025785639618486260~data=hdntl,2022315,DAI11-criclive,none~hmac=dbefae1197a9fa19d0139c927e0b3504365df07f7891b27883c31e69d0714b6a",
+      "sus": "hdntl=exp=1766381331~acl=%2f*~id=73977325717841077714123130559899~data=hdntl,2022315,DAI11-criclive,none~hmac=ad1275c1c4e6347f4f01063d6741190f545ed7510f48b98e42e30ef1b1081c2f",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
   ]
