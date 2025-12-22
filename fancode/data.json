@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 AM 23-12-2025",
+  "last update time": "03:59 AM 23-12-2025",
   "matches": [
-    {
-      "id": 130996,
-      "event_category": "Football",
-      "title": "Athletic Club vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/130996_5427_ATH_ESL_fc-web_1765803538982.png",
-      "team_1": "Athletic Club",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs RCD Espanyol",
-      "startTime": "01:30:00 AM 23-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130996_english_hls_dbc7ecc08c24850_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130996_english_hls_dbc7ecc08c24850_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138338,
-      "event_category": "Football",
-      "title": "Egypt vs Zimbabwe (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138338_5774_EGY_ZIM_fc-web_1766386873972.jpg",
-      "team_1": "Egypt",
-      "team_2": "Zimbabwe",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Egypt vs Zimbabwe",
-      "startTime": "01:30:00 AM 23-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/62O53MqkRW2Q-fmOIwaaRA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138338_english_hls_13a456adb872165_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138648,
       "event_category": "Cricket",
@@ -47,7 +19,7 @@
       "id": 139142,
       "event_category": "Cricket",
       "title": "Al Barkat vs Anjuman English Allana (129th Harris Shield Cricket Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2_1765970952698.jpg",
       "team_1": "Al Barkat",
       "team_2": "Anjuman English Allana",
       "status": "UPCOMING",
@@ -92,18 +64,6 @@
       "startTime": "09:30:00 PM 23-12-2025"
     },
     {
-      "id": 138800,
-      "event_category": "Football",
-      "title": "Melbourne City vs Macarthur (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138800_5802_MLC_MAC_fc-web.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Macarthur",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Macarthur",
-      "startTime": "01:45:00 PM 23-12-2025"
-    },
-    {
       "id": 138340,
       "event_category": "Football",
       "title": "Nigeria vs Tanzania (Africa Cup of Nations 2025-26)",
@@ -114,6 +74,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Nigeria vs Tanzania",
       "startTime": "11:00:00 PM 23-12-2025"
+    },
+    {
+      "id": 138800,
+      "event_category": "Football",
+      "title": "Melbourne City vs Macarthur (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138800_5802_MLC_MAC_fc-web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Macarthur",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Macarthur",
+      "startTime": "01:45:00 PM 23-12-2025"
     },
     {
       "id": 136078,
@@ -425,6 +397,18 @@
       "status": "UPCOMING",
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Zambia vs Comoros",
+      "startTime": "11:00:00 PM 26-12-2025"
+    },
+    {
+      "id": 138440,
+      "event_category": "Football",
+      "title": "Al Hilal SFC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138440_5655_AHS_AKH_fc-web.png",
+      "team_1": "Al Hilal SFC",
+      "team_2": "Al-Khaleej",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al Hilal SFC vs Al-Khaleej",
       "startTime": "11:00:00 PM 26-12-2025"
     }
   ]
