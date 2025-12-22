@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:30 AM 23-12-2025",
+  "last update time": "12:56 AM 23-12-2025",
   "matches": [
-    {
-      "id": 138339,
-      "event_category": "Football",
-      "title": "South Africa vs Angola (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138339_5774_SA_AGL_fc-web_1766386873984.jpg",
-      "team_1": "South Africa",
-      "team_2": "Angola",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "South Africa vs Angola",
-      "startTime": "10:30:00 PM 22-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/8nmMUULdRUmNMRJX9IYtQQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138339_english_hls_ff309b7ffe9393_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 136076,
       "event_category": "Football",
@@ -46,18 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136075_english_hls_7e8fa5418122587_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138648,
-      "event_category": "Cricket",
-      "title": "MI Emirates vs Gulf Giants (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138648_5786_MIE_GG_FC-Web.jpg",
-      "team_1": "MI Emirates",
-      "team_2": "Gulf Giants",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "MI Emirates vs Gulf Giants",
-      "startTime": "08:00:00 PM 23-12-2025"
-    },
-    {
       "id": 130996,
       "event_category": "Football",
       "title": "Athletic Club vs RCD Espanyol (LALIGA 2025-26)",
@@ -80,6 +54,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Egypt vs Zimbabwe",
       "startTime": "01:30:00 AM 23-12-2025"
+    },
+    {
+      "id": 138648,
+      "event_category": "Cricket",
+      "title": "MI Emirates vs Gulf Giants (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138648_5786_MIE_GG_FC-Web.jpg",
+      "team_1": "MI Emirates",
+      "team_2": "Gulf Giants",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "MI Emirates vs Gulf Giants",
+      "startTime": "08:00:00 PM 23-12-2025"
     },
     {
       "id": 139142,
@@ -427,6 +413,18 @@
       "status": "UPCOMING",
       "event_name": "EFL Championship 2025-26",
       "match_name": "Middlesbrough F.C. vs Blackburn Rovers F.C.",
+      "startTime": "08:30:00 PM 26-12-2025"
+    },
+    {
+      "id": 138350,
+      "event_category": "Football",
+      "title": "Egypt vs South Africa (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138350_5774_EGY_SA_fc-web_1766386874215.jpg",
+      "team_1": "Egypt",
+      "team_2": "South Africa",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Egypt vs South Africa",
       "startTime": "08:30:00 PM 26-12-2025"
     }
   ]
