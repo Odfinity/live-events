@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:31 AM 24-12-2025",
+  "last update time": "12:57 AM 24-12-2025",
   "matches": [
     {
       "id": 138340,
@@ -44,18 +44,6 @@
       "startTime": "09:45:00 AM 23-12-2025"
     },
     {
-      "id": 138649,
-      "event_category": "Cricket",
-      "title": "Dubai Capitals vs Sharjah Warriorz (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138649_5786_DC_SWR_FC-Web.jpg",
-      "team_1": "Dubai Capitals",
-      "team_2": "Sharjah Warriorz",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Dubai Capitals vs Sharjah Warriorz",
-      "startTime": "08:00:00 PM 24-12-2025"
-    },
-    {
       "id": 137984,
       "event_category": "Football",
       "title": "Arsenal vs Crystal Palace (Carabao Cup 2025-2026)",
@@ -78,6 +66,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Tunisia vs Uganda",
       "startTime": "01:30:00 AM 24-12-2025"
+    },
+    {
+      "id": 138649,
+      "event_category": "Cricket",
+      "title": "Dubai Capitals vs Sharjah Warriorz (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138649_5786_DC_SWR_FC-Web.jpg",
+      "team_1": "Dubai Capitals",
+      "team_2": "Sharjah Warriorz",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Dubai Capitals vs Sharjah Warriorz",
+      "startTime": "08:00:00 PM 24-12-2025"
     },
     {
       "id": 139143,
@@ -426,6 +426,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al Hilal SFC vs Al-Khaleej",
       "startTime": "11:00:00 PM 26-12-2025"
+    },
+    {
+      "id": 138348,
+      "event_category": "Football",
+      "title": "Morocco vs Mali (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138348_5774_MOR_ML_fc-web_1766386874081.jpg",
+      "team_1": "Morocco",
+      "team_2": "Mali",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Morocco vs Mali",
+      "startTime": "01:30:00 AM 27-12-2025"
     }
   ]
 }
