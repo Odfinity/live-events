@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:24 PM 24-12-2025",
+  "last update time": "10:51 PM 24-12-2025",
   "matches": [
     {
       "id": 138649,
@@ -30,20 +30,6 @@
       "startTime": "09:00:00 PM 24-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/-KzzN4D6Qryro2w7_peg3A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139144_english_hls_8f96c9aa3735535_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138344,
-      "event_category": "Football",
-      "title": "Algeria vs Sudan (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138344_5774_ALG_SUD_fc-web_1766386874035.jpg",
-      "team_1": "Algeria",
-      "team_2": "Sudan",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Algeria vs Sudan",
-      "startTime": "08:30:00 PM 24-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/c7ydB0u1SYykWwQNVNrsng/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138344_english_hls_b3086ed67a65788_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136138,
@@ -451,6 +437,18 @@
       "status": "UPCOMING",
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Dhaka Capitals vs Durbar Rajshahi",
+      "startTime": "12:30:00 PM 27-12-2025"
+    },
+    {
+      "id": 139150,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Royal Oman Stallions",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025-26",
+      "match_name": "IAS Invincibles vs Royal Oman Stallions",
       "startTime": "12:30:00 PM 27-12-2025"
     }
   ]
