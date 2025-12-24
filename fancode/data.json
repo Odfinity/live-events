@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:12 AM 24-12-2025",
+  "last update time": "09:53 AM 24-12-2025",
   "matches": [
     {
       "id": 139142,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2_1765970952698.jpg",
       "team_1": "Al Barkat",
       "team_2": "Anjuman English Allana",
-      "status": "PAUSED",
+      "status": "LIVE",
       "event_name": "129th Harris Shield Cricket Tournament",
       "match_name": "Al Barkat vs Anjuman English Allana",
-      "startTime": "09:45:00 AM 23-12-2025"
+      "startTime": "09:45:00 AM 23-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/98ynpzWERmqFPaYwJqjEqg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139142_english_hls_074be7c0d131230_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138649,
@@ -194,6 +196,30 @@
       "event_name": "Oman D20 League, 2025-26",
       "match_name": "Renaissance Challengers vs Majees Titans",
       "startTime": "09:00:00 PM 25-12-2025"
+    },
+    {
+      "id": 138731,
+      "event_category": "Cricket",
+      "title": "Northern Districts vs Auckland Aces (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Northern Districts",
+      "team_2": "Auckland Aces",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Northern Districts vs Auckland Aces",
+      "startTime": "06:40:00 AM 26-12-2025"
+    },
+    {
+      "id": 138763,
+      "event_category": "Cricket",
+      "title": "Northern Brave Women vs Auckland Hearts (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Northern Brave Women",
+      "team_2": "Auckland Hearts",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Northern Brave Women vs Auckland Hearts",
+      "startTime": "10:50:00 AM 26-12-2025"
     },
     {
       "id": 139147,
@@ -388,52 +414,28 @@
       "startTime": "01:30:00 AM 27-12-2025"
     },
     {
-      "id": 138918,
+      "id": 138764,
       "event_category": "Cricket",
-      "title": "Dhaka Capitals vs Durbar Rajshahi (Bangladesh Premier League, 2025-26)",
+      "title": "Central Hinds vs Wellington Blaze (Women's Super Smash, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Dhaka Capitals",
-      "team_2": "Durbar Rajshahi",
+      "team_1": "Central Hinds",
+      "team_2": "Wellington Blaze",
       "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Dhaka Capitals vs Durbar Rajshahi",
-      "startTime": "12:30:00 PM 27-12-2025"
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Central Hinds vs Wellington Blaze",
+      "startTime": "05:10:00 AM 27-12-2025"
     },
     {
-      "id": 139150,
+      "id": 138732,
       "event_category": "Cricket",
-      "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025-26)",
+      "title": "Central Stags vs Wellington Firebirds (Super Smash, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Royal Oman Stallions",
+      "team_1": "Central Stags",
+      "team_2": "Wellington Firebirds",
       "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "IAS Invincibles vs Royal Oman Stallions",
-      "startTime": "12:30:00 PM 27-12-2025"
-    },
-    {
-      "id": 138808,
-      "event_category": "Football",
-      "title": "Sydney FC vs Auckland (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_fc-web.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Auckland",
-      "startTime": "11:30:00 AM 27-12-2025"
-    },
-    {
-      "id": 138809,
-      "event_category": "Football",
-      "title": "Adelaide United vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138809_5802_ADL_SYW_fc-web.jpg",
-      "team_1": "Adelaide United",
-      "team_2": "Western Sydney Wanderers",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Adelaide United vs Western Sydney Wanderers",
-      "startTime": "02:05:00 PM 27-12-2025"
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Central Stags vs Wellington Firebirds",
+      "startTime": "08:55:00 AM 27-12-2025"
     }
   ]
 }
