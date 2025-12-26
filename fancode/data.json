@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 26-12-2025",
+  "last update time": "07:49 AM 26-12-2025",
   "matches": [
     {
       "id": 138731,
       "event_category": "Cricket",
-      "title": "Northern Districts vs Auckland Aces (Super Smash, 2025-26)",
+      "title": "Auckland Aces vs Northern Districts (Super Smash, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138731_5800_ND_AA_fc-web_1766641250922.jpg",
-      "team_1": "Northern Districts",
-      "team_2": "Auckland Aces",
-      "status": "UPCOMING",
+      "team_1": "Auckland Aces",
+      "team_2": "Northern Districts",
+      "status": "LIVE",
       "event_name": "Super Smash, 2025-26",
-      "match_name": "Northern Districts vs Auckland Aces",
-      "startTime": "06:40:00 AM 26-12-2025"
+      "match_name": "Auckland Aces vs Northern Districts",
+      "startTime": "06:40:00 AM 26-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/BucN4i1PRJuS1pXSSPQQuQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138731_english_hls_beffea4d422387_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138763,
@@ -62,6 +64,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Sharjah Warriorz vs Desert Vipers",
       "startTime": "08:00:00 PM 26-12-2025"
+    },
+    {
+      "id": 138764,
+      "event_category": "Cricket",
+      "title": "Central Hinds vs Wellington Blaze (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138764_5801_CH-W_WB-W_fc-web_1766596522063.jpg",
+      "team_1": "Central Hinds",
+      "team_2": "Wellington Blaze",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Central Hinds vs Wellington Blaze",
+      "startTime": "05:10:00 AM 27-12-2025"
     },
     {
       "id": 139147,
@@ -148,18 +162,6 @@
       "startTime": "08:30:00 PM 26-12-2025"
     },
     {
-      "id": 138764,
-      "event_category": "Cricket",
-      "title": "Central Hinds vs Wellington Blaze (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138764_5801_CH-W_WB-W_fc-web_1766596522063.jpg",
-      "team_1": "Central Hinds",
-      "team_2": "Wellington Blaze",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Central Hinds vs Wellington Blaze",
-      "startTime": "05:10:00 AM 27-12-2025"
-    },
-    {
       "id": 136988,
       "event_category": "Football",
       "title": "Wrexham A.F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
@@ -196,18 +198,6 @@
       "startTime": "11:00:00 PM 26-12-2025"
     },
     {
-      "id": 138807,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138807_5802_NJ_MAC_fc-web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Macarthur",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Macarthur",
-      "startTime": "02:05:00 PM 26-12-2025"
-    },
-    {
       "id": 138348,
       "event_category": "Football",
       "title": "Morocco vs Mali (Africa Cup of Nations 2025-26)",
@@ -220,16 +210,16 @@
       "startTime": "01:30:00 AM 27-12-2025"
     },
     {
-      "id": 137003,
+      "id": 138807,
       "event_category": "Football",
-      "title": "Chesterfield vs Notts County (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Chesterfield",
-      "team_2": "Notts County",
+      "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138807_5802_NJ_MAC_fc-web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Macarthur",
       "status": "UPCOMING",
-      "event_name": "League Two 2025-26",
-      "match_name": "Chesterfield vs Notts County",
-      "startTime": "08:30:00 PM 26-12-2025"
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Macarthur",
+      "startTime": "02:05:00 PM 26-12-2025"
     },
     {
       "id": 138732,
@@ -244,16 +234,16 @@
       "startTime": "08:55:00 AM 27-12-2025"
     },
     {
-      "id": 139183,
-      "event_category": "Tennis",
-      "title": "Match 1 vs Brisbane (ATP Brisbane International presented by ANZ)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "team_1": "Match 1",
-      "team_2": "Brisbane",
+      "id": 137003,
+      "event_category": "Football",
+      "title": "Chesterfield vs Notts County (League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Chesterfield",
+      "team_2": "Notts County",
       "status": "UPCOMING",
-      "event_name": "ATP Brisbane International presented by ANZ",
-      "match_name": "Match 1",
-      "startTime": "07:00:00 AM 25-12-2025"
+      "event_name": "League Two 2025-26",
+      "match_name": "Chesterfield vs Notts County",
+      "startTime": "08:30:00 PM 26-12-2025"
     },
     {
       "id": 138918,
@@ -446,6 +436,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Otago Sparks vs Canterbury Magicians",
       "startTime": "01:00:00 PM 28-12-2025"
+    },
+    {
+      "id": 138810,
+      "event_category": "Football",
+      "title": "Melbourne City vs Perth Glory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Perth Glory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Perth Glory",
+      "startTime": "01:30:00 PM 28-12-2025"
     }
   ]
 }
