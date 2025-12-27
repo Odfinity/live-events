@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:26 AM 28-12-2025",
+  "last update time": "03:57 AM 28-12-2025",
   "matches": [
-    {
-      "id": 138352,
-      "event_category": "Football",
-      "title": "Nigeria vs Tunisia (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138352_5774_NGA_TUN_fc-web_1766386874011.jpg",
-      "team_1": "Nigeria",
-      "team_2": "Tunisia",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Nigeria vs Tunisia",
-      "startTime": "01:30:00 AM 28-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/UqNrG-J8QXK_rK_W-o_zHQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138352_english_hls_b0f09f3efa27039_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138765,
       "event_category": "Cricket",
@@ -90,18 +76,6 @@
       "startTime": "08:30:00 PM 28-12-2025"
     },
     {
-      "id": 138810,
-      "event_category": "Football",
-      "title": "Melbourne City vs Perth Glory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Perth Glory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Perth Glory",
-      "startTime": "01:30:00 PM 28-12-2025"
-    },
-    {
       "id": 138356,
       "event_category": "Football",
       "title": "Algeria vs Burkina Faso (Africa Cup of Nations 2025-26)",
@@ -112,6 +86,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Algeria vs Burkina Faso",
       "startTime": "11:00:00 PM 28-12-2025"
+    },
+    {
+      "id": 138810,
+      "event_category": "Football",
+      "title": "Melbourne City vs Perth Glory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Perth Glory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Perth Glory",
+      "startTime": "01:30:00 PM 28-12-2025"
     },
     {
       "id": 138766,
@@ -400,6 +386,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ettifaq vs Al-Nassr FC",
       "startTime": "11:00:00 PM 30-12-2025"
+    },
+    {
+      "id": 138374,
+      "event_category": "Football",
+      "title": "Benin vs Senegal (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138374_5774_BNI_SEN_fc-web_1766386874374.jpg",
+      "team_1": "Benin",
+      "team_2": "Senegal",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Benin vs Senegal",
+      "startTime": "12:30:00 AM 31-12-2025"
     }
   ]
 }
