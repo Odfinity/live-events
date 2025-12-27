@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:28 PM 27-12-2025",
+  "last update time": "04:53 PM 27-12-2025",
   "matches": [
-    {
-      "id": 139150,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Royal Oman Stallions",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "IAS Invincibles vs Royal Oman Stallions",
-      "startTime": "12:30:00 PM 27-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/w9aYojfBR-iegcUC4jRPHA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139150_english_hls_c275afd61318273_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138809,
-      "event_category": "Football",
-      "title": "Adelaide United vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138809_5802_ADL_SYW_fc-web.jpg",
-      "team_1": "Adelaide United",
-      "team_2": "Western Sydney Wanderers",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Adelaide United vs Western Sydney Wanderers",
-      "startTime": "02:05:00 PM 27-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/DcpNpuEmSBSRLfwq8xp3Qg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138809_english_hls_fe3f1087d972537_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138919,
       "event_category": "Cricket",
@@ -38,10 +10,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138919_5808_SYL_NOE_fc-web_1766733054254.jpg",
       "team_1": "Sylhet Titans",
       "team_2": "Noakhali Express",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Sylhet Titans vs Noakhali Express",
-      "startTime": "05:30:00 PM 27-12-2025"
+      "startTime": "05:30:00 PM 27-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/dvdwqKZoQBm3y9f-tzZvGw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138919_english_hls_cae7f611bc34506_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139151,
+      "event_category": "Cricket",
+      "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D20 League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+      "team_1": "Yalla Shabab Giants",
+      "team_2": "Renaissance Challengers",
+      "status": "LIVE",
+      "event_name": "Oman D20 League, 2025-26",
+      "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
+      "startTime": "05:00:00 PM 27-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/ZKwldeb4SjSavmcQMWuMNg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139151_english_hls_d4ba49b96740281_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138651,
@@ -54,18 +42,6 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "MI Emirates vs Dubai Capitals",
       "startTime": "08:00:00 PM 27-12-2025"
-    },
-    {
-      "id": 139151,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D20 League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Renaissance Challengers",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
-      "startTime": "05:00:00 PM 27-12-2025"
     },
     {
       "id": 138733,
@@ -390,6 +366,30 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Coventry City Football Club vs Ipswich Town F.C.",
       "startTime": "11:30:00 PM 29-12-2025"
+    },
+    {
+      "id": 138368,
+      "event_category": "Football",
+      "title": "Comoros vs Mali (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138368_5774_COM_ML_fc-web_1766386874330.jpg",
+      "team_1": "Comoros",
+      "team_2": "Mali",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Comoros vs Mali",
+      "startTime": "12:30:00 AM 30-12-2025"
+    },
+    {
+      "id": 138367,
+      "event_category": "Football",
+      "title": "Zambia vs Morocco (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138367_5774_ZMB_MOR_fc-web_1766386874322.jpg",
+      "team_1": "Zambia",
+      "team_2": "Morocco",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Zambia vs Morocco",
+      "startTime": "12:30:00 AM 30-12-2025"
     }
   ]
 }
