@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:46 AM 28-12-2025",
+  "last update time": "12:19 PM 28-12-2025",
   "matches": [
     {
       "id": 138733,
@@ -114,18 +114,6 @@
       "startTime": "01:30:00 AM 29-12-2025"
     },
     {
-      "id": 138810,
-      "event_category": "Football",
-      "title": "Melbourne City vs Perth Glory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Perth Glory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Perth Glory",
-      "startTime": "01:30:00 PM 28-12-2025"
-    },
-    {
       "id": 138920,
       "event_category": "Cricket",
       "title": "Rangpur Riders vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -136,6 +124,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rangpur Riders vs Chattogram Royals",
       "startTime": "12:30:00 PM 29-12-2025"
+    },
+    {
+      "id": 138810,
+      "event_category": "Football",
+      "title": "Melbourne City vs Perth Glory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Perth Glory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Perth Glory",
+      "startTime": "01:30:00 PM 28-12-2025"
     },
     {
       "id": 138921,
@@ -400,6 +400,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Northern Brave Women vs Wellington Blaze",
       "startTime": "05:10:00 AM 31-12-2025"
+    },
+    {
+      "id": 138736,
+      "event_category": "Cricket",
+      "title": "Northern Districts vs Wellington Firebirds (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138736_5800_ND_WF_fc-web_1766641250917.jpg",
+      "team_1": "Northern Districts",
+      "team_2": "Wellington Firebirds",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Northern Districts vs Wellington Firebirds",
+      "startTime": "08:55:00 AM 31-12-2025"
     }
   ]
 }
