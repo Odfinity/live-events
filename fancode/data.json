@@ -1,33 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:02 AM 28-12-2025",
+  "last update time": "09:30 AM 28-12-2025",
   "matches": [
-    {
-      "id": 138765,
-      "event_category": "Cricket",
-      "title": "Canterbury Magicians vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138765_5801_OS-W_CM-W_fc-web_1766596522153.jpg",
-      "team_1": "Canterbury Magicians",
-      "team_2": "Otago Sparks",
-      "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Canterbury Magicians vs Otago Sparks",
-      "startTime": "05:10:00 AM 28-12-2025",
-      "dai_url": null,
-      "adfree_url": null
-    },
     {
       "id": 138733,
       "event_category": "Cricket",
-      "title": "Otago Volts vs Canterbury (Super Smash, 2025-26)",
+      "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138733_5800_OV_CTB_fc-web_1766641250926.jpg",
-      "team_1": "Otago Volts",
-      "team_2": "Canterbury",
-      "status": "UPCOMING",
+      "team_1": "Canterbury",
+      "team_2": "Otago Volts",
+      "status": "LIVE",
       "event_name": "Super Smash, 2025-26",
-      "match_name": "Otago Volts vs Canterbury",
-      "startTime": "08:55:00 AM 28-12-2025"
+      "match_name": "Canterbury vs Otago Volts",
+      "startTime": "08:55:00 AM 28-12-2025",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 138652,
@@ -102,6 +90,18 @@
       "startTime": "11:00:00 PM 28-12-2025"
     },
     {
+      "id": 138734,
+      "event_category": "Cricket",
+      "title": "Wellington Firebirds vs Auckland Aces (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138734_5800_WF_AA_fc-web_1766641250910.jpg",
+      "team_1": "Wellington Firebirds",
+      "team_2": "Auckland Aces",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Wellington Firebirds vs Auckland Aces",
+      "startTime": "08:55:00 AM 29-12-2025"
+    },
+    {
       "id": 138365,
       "event_category": "Football",
       "title": "Ivory Coast vs Cameroon (Africa Cup of Nations 2025-26)",
@@ -124,18 +124,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Melbourne City vs Perth Glory",
       "startTime": "01:30:00 PM 28-12-2025"
-    },
-    {
-      "id": 138734,
-      "event_category": "Cricket",
-      "title": "Wellington Firebirds vs Auckland Aces (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138734_5800_WF_AA_fc-web_1766641250910.jpg",
-      "team_1": "Wellington Firebirds",
-      "team_2": "Auckland Aces",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Wellington Firebirds vs Auckland Aces",
-      "startTime": "08:55:00 AM 29-12-2025"
     },
     {
       "id": 138920,
@@ -400,6 +388,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Benin vs Senegal",
       "startTime": "12:30:00 AM 31-12-2025"
+    },
+    {
+      "id": 138768,
+      "event_category": "Cricket",
+      "title": "Northern Brave Women vs Wellington Blaze (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138768_5801_NB-W_WB-W_fc-web_1766596522206.jpg",
+      "team_1": "Northern Brave Women",
+      "team_2": "Wellington Blaze",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Northern Brave Women vs Wellington Blaze",
+      "startTime": "05:10:00 AM 31-12-2025"
     }
   ]
 }
