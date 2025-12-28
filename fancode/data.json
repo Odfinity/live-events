@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:19 PM 28-12-2025",
+  "last update time": "12:41 PM 28-12-2025",
   "matches": [
-    {
-      "id": 138733,
-      "event_category": "Cricket",
-      "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138733_5800_OV_CTB_fc-web_1766641250926.jpg",
-      "team_1": "Canterbury",
-      "team_2": "Otago Volts",
-      "status": "LIVE",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Canterbury vs Otago Volts",
-      "startTime": "08:55:00 AM 28-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/LOqiMNNiTTuqdZ5y0n-W-g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138733_english_hls_614b9d3ef926461_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138652,
       "event_category": "Cricket",
@@ -52,6 +38,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Auckland Aces",
       "startTime": "08:55:00 AM 29-12-2025"
+    },
+    {
+      "id": 138810,
+      "event_category": "Football",
+      "title": "Melbourne City vs Perth Glory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Perth Glory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Perth Glory",
+      "startTime": "01:30:00 PM 28-12-2025"
     },
     {
       "id": 139153,
@@ -126,18 +124,6 @@
       "startTime": "12:30:00 PM 29-12-2025"
     },
     {
-      "id": 138810,
-      "event_category": "Football",
-      "title": "Melbourne City vs Perth Glory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Perth Glory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Perth Glory",
-      "startTime": "01:30:00 PM 28-12-2025"
-    },
-    {
       "id": 138921,
       "event_category": "Cricket",
       "title": "Rajshahi Warriors vs Noakhali Express (Bangladesh Premier League, 2025-26)",
@@ -150,18 +136,6 @@
       "startTime": "05:30:00 PM 29-12-2025"
     },
     {
-      "id": 139163,
-      "event_category": "Golf",
-      "title": "New York vs Atlanta vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "New York vs Atlanta",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "New York vs Atlanta",
-      "startTime": "01:30:00 AM 29-12-2025"
-    },
-    {
       "id": 138811,
       "event_category": "Football",
       "title": "Melbourne Victory vs Wellington Phoenix (A League 2025-26)",
@@ -172,6 +146,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Melbourne Victory vs Wellington Phoenix",
       "startTime": "01:30:00 PM 29-12-2025"
+    },
+    {
+      "id": 139163,
+      "event_category": "Golf",
+      "title": "New York vs Atlanta vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "New York vs Atlanta",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "New York vs Atlanta",
+      "startTime": "01:30:00 AM 29-12-2025"
     },
     {
       "id": 139154,
