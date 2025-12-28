@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:16 AM 29-12-2025",
+  "last update time": "04:57 AM 29-12-2025",
   "matches": [
     {
       "id": 138766,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg",
       "team_1": "Wellington Blaze",
       "team_2": "Auckland Hearts",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Wellington Blaze vs Auckland Hearts",
-      "startTime": "05:10:00 AM 29-12-2025"
+      "startTime": "05:10:00 AM 29-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/posnFQ56S6mYkC1B4TN-QQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138766_english_hls_c48307625820922_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138734,
@@ -100,18 +102,6 @@
       "startTime": "09:30:00 PM 29-12-2025"
     },
     {
-      "id": 136990,
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs Ipswich Town F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136990_5489_CVC_IPT_fc-web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Ipswich Town F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Ipswich Town F.C.",
-      "startTime": "11:30:00 PM 29-12-2025"
-    },
-    {
       "id": 138767,
       "event_category": "Cricket",
       "title": "Otago Sparks vs Central Hinds (Women's Super Smash, 2025-26)",
@@ -122,6 +112,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Otago Sparks vs Central Hinds",
       "startTime": "05:10:00 AM 30-12-2025"
+    },
+    {
+      "id": 136990,
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs Ipswich Town F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136990_5489_CVC_IPT_fc-web.jpg",
+      "team_1": "Coventry City Football Club",
+      "team_2": "Ipswich Town F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs Ipswich Town F.C.",
+      "startTime": "11:30:00 PM 29-12-2025"
     },
     {
       "id": 138811,
