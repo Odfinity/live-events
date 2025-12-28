@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 28-12-2025",
+  "last update time": "06:26 PM 28-12-2025",
   "matches": [
+    {
+      "id": 138366,
+      "event_category": "Football",
+      "title": "Gabon vs Mozambique (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138366_5774_GAB_MOZ_fc-web_1766386874303.jpg",
+      "team_1": "Gabon",
+      "team_2": "Mozambique",
+      "status": "LIVE",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Gabon vs Mozambique",
+      "startTime": "06:00:00 PM 28-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/4q-rA5uBRhCWB3B2ku6NmA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138366_english_hls_cda1f3b8d598224_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138652,
       "event_category": "Cricket",
@@ -38,18 +52,6 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Auckland Aces",
       "startTime": "08:55:00 AM 29-12-2025"
-    },
-    {
-      "id": 138366,
-      "event_category": "Football",
-      "title": "Gabon vs Mozambique (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138366_5774_GAB_MOZ_fc-web_1766386874303.jpg",
-      "team_1": "Gabon",
-      "team_2": "Mozambique",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Gabon vs Mozambique",
-      "startTime": "06:00:00 PM 28-12-2025"
     },
     {
       "id": 138920,
@@ -148,18 +150,6 @@
       "startTime": "01:30:00 PM 29-12-2025"
     },
     {
-      "id": 139163,
-      "event_category": "Golf",
-      "title": "New York vs Atlanta vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "New York vs Atlanta",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "New York vs Atlanta",
-      "startTime": "01:30:00 AM 29-12-2025"
-    },
-    {
       "id": 139155,
       "event_category": "Cricket",
       "title": "IAS Invincibles vs Renaissance Challengers (Oman D20 League, 2025-26)",
@@ -170,6 +160,18 @@
       "event_name": "Oman D20 League, 2025-26",
       "match_name": "IAS Invincibles vs Renaissance Challengers",
       "startTime": "09:00:00 PM 29-12-2025"
+    },
+    {
+      "id": 139163,
+      "event_category": "Golf",
+      "title": "New York vs Atlanta vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "New York vs Atlanta",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "New York vs Atlanta",
+      "startTime": "01:30:00 AM 29-12-2025"
     },
     {
       "id": 138370,
