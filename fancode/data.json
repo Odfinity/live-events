@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:22 AM 28-12-2025",
+  "last update time": "10:58 AM 28-12-2025",
   "matches": [
     {
       "id": 138733,
@@ -14,8 +14,8 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Canterbury vs Otago Volts",
       "startTime": "08:55:00 AM 28-12-2025",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/LOqiMNNiTTuqdZ5y0n-W-g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138733_english_hls_614b9d3ef926461_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138652,
@@ -42,18 +42,6 @@
       "startTime": "05:10:00 AM 29-12-2025"
     },
     {
-      "id": 138366,
-      "event_category": "Football",
-      "title": "Gabon vs Mozambique (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138366_5774_GAB_MOZ_fc-web_1766386874303.jpg",
-      "team_1": "Gabon",
-      "team_2": "Mozambique",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Gabon vs Mozambique",
-      "startTime": "06:00:00 PM 28-12-2025"
-    },
-    {
       "id": 139153,
       "event_category": "Cricket",
       "title": "Yalla Shabab Giants vs Muscat Thunders (Oman D20 League, 2025-26)",
@@ -66,16 +54,16 @@
       "startTime": "09:00:00 PM 28-12-2025"
     },
     {
-      "id": 138364,
+      "id": 138366,
       "event_category": "Football",
-      "title": "Equatorial Guinea vs Sudan (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138364_5774_EGU_SUD_fc-web_1766386874340.jpg",
-      "team_1": "Equatorial Guinea",
-      "team_2": "Sudan",
+      "title": "Gabon vs Mozambique (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138366_5774_GAB_MOZ_fc-web_1766386874303.jpg",
+      "team_1": "Gabon",
+      "team_2": "Mozambique",
       "status": "UPCOMING",
       "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Equatorial Guinea vs Sudan",
-      "startTime": "08:30:00 PM 28-12-2025"
+      "match_name": "Gabon vs Mozambique",
+      "startTime": "06:00:00 PM 28-12-2025"
     },
     {
       "id": 138734,
@@ -88,6 +76,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Auckland Aces",
       "startTime": "08:55:00 AM 29-12-2025"
+    },
+    {
+      "id": 138364,
+      "event_category": "Football",
+      "title": "Equatorial Guinea vs Sudan (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138364_5774_EGU_SUD_fc-web_1766386874340.jpg",
+      "team_1": "Equatorial Guinea",
+      "team_2": "Sudan",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Equatorial Guinea vs Sudan",
+      "startTime": "08:30:00 PM 28-12-2025"
     },
     {
       "id": 138356,
