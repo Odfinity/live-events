@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:20 PM 28-12-2025",
+  "last update time": "07:53 PM 28-12-2025",
   "matches": [
+    {
+      "id": 138652,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138652_5786_GG_ADKR_FC-Web.jpg",
+      "team_1": "Abu Dhabi Knight Riders",
+      "team_2": "Gulf Giants",
+      "status": "LIVE",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
+      "startTime": "08:00:00 PM 28-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/Y8aC9L2xQnO0GjEt5SHhmQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138652_english_hls_184b19809a71672_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138366,
       "event_category": "Football",
@@ -16,18 +30,6 @@
       "startTime": "06:00:00 PM 28-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/4q-rA5uBRhCWB3B2ku6NmA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138366_english_hls_cda1f3b8d598224_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138652,
-      "event_category": "Cricket",
-      "title": "Gulf Giants vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138652_5786_GG_ADKR_FC-Web.jpg",
-      "team_1": "Gulf Giants",
-      "team_2": "Abu Dhabi Knight Riders",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Gulf Giants vs Abu Dhabi Knight Riders",
-      "startTime": "08:00:00 PM 28-12-2025"
     },
     {
       "id": 138766,
@@ -54,6 +56,18 @@
       "startTime": "08:55:00 AM 29-12-2025"
     },
     {
+      "id": 138364,
+      "event_category": "Football",
+      "title": "Equatorial Guinea vs Sudan (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138364_5774_EGU_SUD_fc-web_1766386874340.jpg",
+      "team_1": "Equatorial Guinea",
+      "team_2": "Sudan",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Equatorial Guinea vs Sudan",
+      "startTime": "08:30:00 PM 28-12-2025"
+    },
+    {
       "id": 138920,
       "event_category": "Cricket",
       "title": "Rangpur Riders vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -78,18 +92,6 @@
       "startTime": "09:00:00 PM 28-12-2025"
     },
     {
-      "id": 138364,
-      "event_category": "Football",
-      "title": "Equatorial Guinea vs Sudan (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138364_5774_EGU_SUD_fc-web_1766386874340.jpg",
-      "team_1": "Equatorial Guinea",
-      "team_2": "Sudan",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Equatorial Guinea vs Sudan",
-      "startTime": "08:30:00 PM 28-12-2025"
-    },
-    {
       "id": 138356,
       "event_category": "Football",
       "title": "Algeria vs Burkina Faso (Africa Cup of Nations 2025-26)",
@@ -102,18 +104,6 @@
       "startTime": "11:00:00 PM 28-12-2025"
     },
     {
-      "id": 138365,
-      "event_category": "Football",
-      "title": "Ivory Coast vs Cameroon (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138365_5774_IVC_CMR_fc-web_1766386874740.jpg",
-      "team_1": "Ivory Coast",
-      "team_2": "Cameroon",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Ivory Coast vs Cameroon",
-      "startTime": "01:30:00 AM 29-12-2025"
-    },
-    {
       "id": 138921,
       "event_category": "Cricket",
       "title": "Rajshahi Warriors vs Noakhali Express (Bangladesh Premier League, 2025-26)",
@@ -124,6 +114,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rajshahi Warriors vs Noakhali Express",
       "startTime": "05:30:00 PM 29-12-2025"
+    },
+    {
+      "id": 138365,
+      "event_category": "Football",
+      "title": "Ivory Coast vs Cameroon (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138365_5774_IVC_CMR_fc-web_1766386874740.jpg",
+      "team_1": "Ivory Coast",
+      "team_2": "Cameroon",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Ivory Coast vs Cameroon",
+      "startTime": "01:30:00 AM 29-12-2025"
     },
     {
       "id": 139154,
