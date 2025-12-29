@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 AM 29-12-2025",
+  "last update time": "12:18 PM 29-12-2025",
   "matches": [
     {
       "id": 138734,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138920_5808_RAN_CCH_fc-web_1766733054132.jpg",
       "team_1": "Rangpur Riders",
       "team_2": "Chattogram Royals",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rangpur Riders vs Chattogram Royals",
-      "startTime": "12:30:00 PM 29-12-2025"
+      "startTime": "12:30:00 PM 29-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/vChD82AMQTuc9NZuXeK4QQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138920_english_hls_c3c8e1c36052146_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138921,
@@ -54,18 +56,6 @@
       "startTime": "05:10:00 AM 30-12-2025"
     },
     {
-      "id": 139154,
-      "event_category": "Cricket",
-      "title": "Majees Titans vs Royal Oman Stallions (Oman D20 League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-      "team_1": "Majees Titans",
-      "team_2": "Royal Oman Stallions",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "Majees Titans vs Royal Oman Stallions",
-      "startTime": "05:00:00 PM 29-12-2025"
-    },
-    {
       "id": 138735,
       "event_category": "Cricket",
       "title": "Otago Volts vs Central Stags (Super Smash, 2025-26)",
@@ -76,6 +66,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Otago Volts vs Central Stags",
       "startTime": "08:55:00 AM 30-12-2025"
+    },
+    {
+      "id": 139154,
+      "event_category": "Cricket",
+      "title": "Majees Titans vs Royal Oman Stallions (Oman D20 League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+      "team_1": "Majees Titans",
+      "team_2": "Royal Oman Stallions",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025-26",
+      "match_name": "Majees Titans vs Royal Oman Stallions",
+      "startTime": "05:00:00 PM 29-12-2025"
     },
     {
       "id": 139155,
@@ -174,18 +176,6 @@
       "startTime": "01:45:00 AM 30-12-2025"
     },
     {
-      "id": 138811,
-      "event_category": "Football",
-      "title": "Melbourne Victory vs Wellington Phoenix (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg",
-      "team_1": "Melbourne Victory",
-      "team_2": "Wellington Phoenix",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Wellington Phoenix",
-      "startTime": "01:30:00 PM 29-12-2025"
-    },
-    {
       "id": 138922,
       "event_category": "Cricket",
       "title": "Sylhet Titans vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -196,6 +186,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Sylhet Titans vs Chattogram Royals",
       "startTime": "12:30:00 PM 30-12-2025"
+    },
+    {
+      "id": 138811,
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Wellington Phoenix (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg",
+      "team_1": "Melbourne Victory",
+      "team_2": "Wellington Phoenix",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Wellington Phoenix",
+      "startTime": "01:30:00 PM 29-12-2025"
     },
     {
       "id": 138923,
@@ -424,6 +426,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Sylhet Titans vs Dhaka Capitals",
       "startTime": "12:30:00 PM 01-01-2026"
+    },
+    {
+      "id": 138813,
+      "event_category": "Football",
+      "title": "Auckland vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138813_5802_AFC_NJ_fc-web.jpg",
+      "team_1": "Auckland",
+      "team_2": "Newcastle Jets",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Auckland vs Newcastle Jets",
+      "startTime": "09:30:00 AM 01-01-2026"
     }
   ]
 }
