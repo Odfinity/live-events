@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:59 AM 29-12-2025",
+  "last update time": "09:32 AM 29-12-2025",
   "matches": [
-    {
-      "id": 138766,
-      "event_category": "Cricket",
-      "title": "Wellington Blaze vs Auckland Hearts (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg",
-      "team_1": "Wellington Blaze",
-      "team_2": "Auckland Hearts",
-      "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Wellington Blaze vs Auckland Hearts",
-      "startTime": "05:10:00 AM 29-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/posnFQ56S6mYkC1B4TN-QQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138766_english_hls_c48307625820922_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138734,
       "event_category": "Cricket",
@@ -24,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138734_5800_WF_AA_fc-web_1766641250910.jpg",
       "team_1": "Wellington Firebirds",
       "team_2": "Auckland Aces",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Auckland Aces",
-      "startTime": "08:55:00 AM 29-12-2025"
+      "startTime": "08:55:00 AM 29-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/X9ghEu4wRvaaT4iprnbu_Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138734_english_hls_c6682ef50599856_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138920,
@@ -150,6 +138,18 @@
       "startTime": "12:30:00 AM 30-12-2025"
     },
     {
+      "id": 138735,
+      "event_category": "Cricket",
+      "title": "Otago Volts vs Central Stags (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138735_5800_OV_CS_fc-web_1766641250982.jpg",
+      "team_1": "Otago Volts",
+      "team_2": "Central Stags",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Otago Volts vs Central Stags",
+      "startTime": "08:55:00 AM 30-12-2025"
+    },
+    {
       "id": 136991,
       "event_category": "Football",
       "title": "Wrexham A.F.C. vs Preston North End F.C. (EFL Championship 2025-26)",
@@ -186,18 +186,6 @@
       "startTime": "01:30:00 PM 29-12-2025"
     },
     {
-      "id": 138735,
-      "event_category": "Cricket",
-      "title": "Otago Volts vs Central Stags (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138735_5800_OV_CS_fc-web_1766641250982.jpg",
-      "team_1": "Otago Volts",
-      "team_2": "Central Stags",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Otago Volts vs Central Stags",
-      "startTime": "08:55:00 AM 30-12-2025"
-    },
-    {
       "id": 138922,
       "event_category": "Cricket",
       "title": "Sylhet Titans vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -224,13 +212,13 @@
     {
       "id": 138653,
       "event_category": "Cricket",
-      "title": "TBC vs TBC (DP World ILT20 2025-26)",
+      "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "team_1": "Desert Vipers",
+      "team_2": "MI Emirates",
       "status": "UPCOMING",
       "event_name": "DP World ILT20 2025-26",
-      "match_name": "TBC vs TBC",
+      "match_name": "Desert Vipers vs MI Emirates",
       "startTime": "08:00:00 PM 30-12-2025"
     },
     {
