@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:50 AM 30-12-2025",
+  "last update time": "09:18 AM 30-12-2025",
   "matches": [
-    {
-      "id": 138767,
-      "event_category": "Cricket",
-      "title": "Central Hinds vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138767_5801_OS-W_CH-W_fc-web_1766596522209.jpg",
-      "team_1": "Central Hinds",
-      "team_2": "Otago Sparks",
-      "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Central Hinds vs Otago Sparks",
-      "startTime": "05:10:00 AM 30-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZiRxKnXvQRuyvKgMpbiAnw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138767_english_hls_843d7c911b99616_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138735,
       "event_category": "Cricket",
@@ -24,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138735_5800_OV_CS_fc-web_1766641250982.jpg",
       "team_1": "Otago Volts",
       "team_2": "Central Stags",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Super Smash, 2025-26",
       "match_name": "Otago Volts vs Central Stags",
-      "startTime": "08:55:00 AM 30-12-2025"
+      "startTime": "08:55:00 AM 30-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/oUftJdxOQAmK3ZsN-hz-8g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138735_english_hls_5368e9832344607_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138922,
@@ -412,6 +400,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Auckland Aces vs Wellington Firebirds",
       "startTime": "08:55:00 AM 02-01-2026"
+    },
+    {
+      "id": 138926,
+      "event_category": "Cricket",
+      "title": "Dhaka Capitals vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138926_5808_DC_CCH_fc-web_1766733054203.jpg",
+      "team_1": "Dhaka Capitals",
+      "team_2": "Chattogram Royals",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Dhaka Capitals vs Chattogram Royals",
+      "startTime": "01:30:00 PM 02-01-2026"
     }
   ]
 }
