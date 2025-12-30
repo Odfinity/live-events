@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 31-12-2025",
+  "last update time": "02:01 AM 31-12-2025",
   "matches": [
     {
       "id": 138374,
@@ -30,20 +30,6 @@
       "startTime": "12:30:00 AM 31-12-2025",
       "dai_url": "https://dai.google.com/linear/hls/event/D0ueTqhIShilJAd7UJqkXg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138373_english_hls_563824bdc529815_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138443,
-      "event_category": "Football",
-      "title": "Al-Ettifaq vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138443_5655_ETT_ANF_fc-web.png",
-      "team_1": "Al-Ettifaq",
-      "team_2": "Al-Nassr FC",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Ettifaq vs Al-Nassr FC",
-      "startTime": "11:00:00 PM 30-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/27y6-HIkSJCIL5Ir7UfuDg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138443_english_hls_f36949a12359053_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138768,
@@ -94,18 +80,6 @@
       "startTime": "08:55:00 PM 31-12-2025"
     },
     {
-      "id": 138812,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138812_5802_CCM_BRB_fc-web.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Brisbane Roar",
-      "startTime": "01:30:00 PM 31-12-2025"
-    },
-    {
       "id": 138376,
       "event_category": "Football",
       "title": "Sudan vs Burkina Faso (Africa Cup of Nations 2025-26)",
@@ -128,6 +102,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Equatorial Guinea vs Algeria",
       "startTime": "09:30:00 PM 31-12-2025"
+    },
+    {
+      "id": 138812,
+      "event_category": "Football",
+      "title": "Central Coast Mariners vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138812_5802_CCM_BRB_fc-web.jpg",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Brisbane Roar",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Central Coast Mariners vs Brisbane Roar",
+      "startTime": "01:30:00 PM 31-12-2025"
     },
     {
       "id": 138445,
@@ -404,6 +390,18 @@
       "event_name": "Oman D20 League, 2025-26",
       "match_name": "Majees Titans vs Renaissance Challengers",
       "startTime": "05:00:00 PM 02-01-2026"
+    },
+    {
+      "id": 138655,
+      "event_category": "Cricket",
+      "title": "MI Emirates vs TBC (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "MI Emirates",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "MI Emirates vs TBC",
+      "startTime": "08:00:00 PM 02-01-2026"
     }
   ]
 }
