@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:29 PM 30-12-2025",
+  "last update time": "08:02 PM 30-12-2025",
   "matches": [
+    {
+      "id": 138653,
+      "event_category": "Cricket",
+      "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg",
+      "team_1": "Desert Vipers",
+      "team_2": "MI Emirates",
+      "status": "LIVE",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Desert Vipers vs MI Emirates",
+      "startTime": "08:00:00 PM 30-12-2025",
+      "dai_url": "https://dai.google.com/linear/hls/event/VZJYAxTrSFCg7zrfebKYIQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138653_english_hls_ef8f33f54e54252_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138923,
       "event_category": "Cricket",
@@ -14,18 +28,6 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Dhaka Capitals vs Rangpur Riders",
       "startTime": "07:15:00 PM 30-12-2025"
-    },
-    {
-      "id": 138653,
-      "event_category": "Cricket",
-      "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg",
-      "team_1": "Desert Vipers",
-      "team_2": "MI Emirates",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Desert Vipers vs MI Emirates",
-      "startTime": "08:00:00 PM 30-12-2025"
     },
     {
       "id": 138922,
