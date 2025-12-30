@@ -1,50 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:29 PM 30-12-2025",
+  "last update time": "12:15 AM 31-12-2025",
   "matches": [
-    {
-      "id": 138653,
-      "event_category": "Cricket",
-      "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg",
-      "team_1": "Desert Vipers",
-      "team_2": "MI Emirates",
-      "status": "LIVE",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Desert Vipers vs MI Emirates",
-      "startTime": "08:00:00 PM 30-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/VZJYAxTrSFCg7zrfebKYIQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138653_english_hls_ef8f33f54e54252_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138372,
-      "event_category": "Football",
-      "title": "Tanzania vs Tunisia (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138372_5774_TNZ_TUN_fc-web_1766386874006.jpg",
-      "team_1": "Tanzania",
-      "team_2": "Tunisia",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Tanzania vs Tunisia",
-      "startTime": "09:30:00 PM 30-12-2025",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138372_english_hls_6e2a872ef321275_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138372_english_hls_6e2a872ef321275_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138371,
-      "event_category": "Football",
-      "title": "Uganda vs Nigeria (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138371_5774_UGN_NGA_fc-web_1766386874290.jpg",
-      "team_1": "Uganda",
-      "team_2": "Nigeria",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Uganda vs Nigeria",
-      "startTime": "09:30:00 PM 30-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/UtU0MAtDSj-MQM7oAFNXZQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138371_english_hls_7109021f372890_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138443,
       "event_category": "Football",
@@ -418,6 +376,30 @@
       "event_name": "A League 2025-26",
       "match_name": "Melbourne Victory vs Perth Glory",
       "startTime": "02:05:00 PM 02-01-2026"
+    },
+    {
+      "id": 138927,
+      "event_category": "Cricket",
+      "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
+      "team_1": "Sylhet Titans",
+      "team_2": "Rangpur Riders",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Sylhet Titans vs Rangpur Riders",
+      "startTime": "06:30:00 PM 02-01-2026"
+    },
+    {
+      "id": 139160,
+      "event_category": "Cricket",
+      "title": "Majees Titans vs Renaissance Challengers (Oman D20 League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+      "team_1": "Majees Titans",
+      "team_2": "Renaissance Challengers",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025-26",
+      "match_name": "Majees Titans vs Renaissance Challengers",
+      "startTime": "05:00:00 PM 02-01-2026"
     }
   ]
 }
