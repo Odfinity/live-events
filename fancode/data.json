@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 31-12-2025",
+  "last update time": "04:02 PM 31-12-2025",
   "matches": [
-    {
-      "id": 138812,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138812_5802_CCM_BRB_fc-web.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Brisbane Roar",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Brisbane Roar",
-      "startTime": "01:30:00 PM 31-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Dje3LMkETXSHrh4QEMVYqg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138812_english_hls_df5d3320c464235_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138769,
       "event_category": "Cricket",
@@ -162,18 +148,6 @@
       "startTime": "09:30:00 AM 01-01-2026"
     },
     {
-      "id": 138814,
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Macarthur (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138814_5802_SYW_MAC_fc-web.jpg",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Macarthur",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Western Sydney Wanderers vs Macarthur",
-      "startTime": "01:30:00 PM 01-01-2026"
-    },
-    {
       "id": 138654,
       "event_category": "Cricket",
       "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
@@ -184,6 +158,18 @@
       "event_name": "DP World ILT20 2025-26",
       "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
       "startTime": "08:00:00 PM 01-01-2026"
+    },
+    {
+      "id": 138814,
+      "event_category": "Football",
+      "title": "Western Sydney Wanderers vs Macarthur (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138814_5802_SYW_MAC_fc-web.jpg",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Macarthur",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Western Sydney Wanderers vs Macarthur",
+      "startTime": "01:30:00 PM 01-01-2026"
     },
     {
       "id": 139157,
@@ -424,6 +410,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Central Stags vs Canterbury",
       "startTime": "08:55:00 AM 03-01-2026"
+    },
+    {
+      "id": 139164,
+      "event_category": "Golf",
+      "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Boston vs Los Angeles",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Boston vs Los Angeles",
+      "startTime": "05:30:00 AM 03-01-2026"
     }
   ]
 }
