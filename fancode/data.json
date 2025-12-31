@@ -1,50 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 PM 31-12-2025",
+  "last update time": "12:09 AM 01-01-2026",
   "matches": [
-    {
-      "id": 139156,
-      "event_category": "Cricket",
-      "title": "Majees Titans vs Muscat Thunders (Oman D20 League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-      "team_1": "Majees Titans",
-      "team_2": "Muscat Thunders",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "Majees Titans vs Muscat Thunders",
-      "startTime": "09:00:00 PM 31-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/bw_FaeGzQ5y6qPQd3xVgHA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139156_english_hls_222af67bd75522_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138376,
-      "event_category": "Football",
-      "title": "Sudan vs Burkina Faso (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138376_5774_SUD_BRK_fc-web_1766386874335.jpg",
-      "team_1": "Sudan",
-      "team_2": "Burkina Faso",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Sudan vs Burkina Faso",
-      "startTime": "09:30:00 PM 31-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/eD3ahN0kSKGPBH6sBYwQ5Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138376_english_hls_da3124b58c57709_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138375,
-      "event_category": "Football",
-      "title": "Equatorial Guinea vs Algeria (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138375_5774_EGU_ALG_fc-web_1766386873987.jpg",
-      "team_1": "Equatorial Guinea",
-      "team_2": "Algeria",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Equatorial Guinea vs Algeria",
-      "startTime": "09:30:00 PM 31-12-2025",
-      "dai_url": "https://dai.google.com/linear/hls/event/Nf9kJ_6UQjeU6xOHRTSgOQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138375_english_hls_678fdf519e82913_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138445,
       "event_category": "Football",
@@ -96,30 +54,6 @@
       "startTime": "12:30:00 PM 01-01-2026"
     },
     {
-      "id": 138925,
-      "event_category": "Cricket",
-      "title": "Rangpur Riders vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138925_5808_RAN_DBR_fc-web_1766733054891.jpg",
-      "team_1": "Rangpur Riders",
-      "team_2": "Rajshahi Warriors",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Rangpur Riders vs Rajshahi Warriors",
-      "startTime": "05:30:00 PM 01-01-2026"
-    },
-    {
-      "id": 138654,
-      "event_category": "Cricket",
-      "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg",
-      "team_1": "Dubai Capitals",
-      "team_2": "Abu Dhabi Knight Riders",
-      "status": "UPCOMING",
-      "event_name": "DP World ILT20 2025-26",
-      "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
-      "startTime": "08:00:00 PM 01-01-2026"
-    },
-    {
       "id": 138378,
       "event_category": "Football",
       "title": "Mozambique vs Cameroon (Africa Cup of Nations 2025-26)",
@@ -142,6 +76,30 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Gabon vs Ivory Coast",
       "startTime": "12:30:00 AM 01-01-2026"
+    },
+    {
+      "id": 138925,
+      "event_category": "Cricket",
+      "title": "Rangpur Riders vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138925_5808_RAN_DBR_fc-web_1766733054891.jpg",
+      "team_1": "Rangpur Riders",
+      "team_2": "Rajshahi Warriors",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Rangpur Riders vs Rajshahi Warriors",
+      "startTime": "05:30:00 PM 01-01-2026"
+    },
+    {
+      "id": 138654,
+      "event_category": "Cricket",
+      "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg",
+      "team_1": "Dubai Capitals",
+      "team_2": "Abu Dhabi Knight Riders",
+      "status": "UPCOMING",
+      "event_name": "DP World ILT20 2025-26",
+      "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
+      "startTime": "08:00:00 PM 01-01-2026"
     },
     {
       "id": 139157,
@@ -454,6 +412,42 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RC Celta vs Valencia CF",
       "startTime": "06:30:00 PM 03-01-2026"
+    },
+    {
+      "id": 131000,
+      "event_category": "Football",
+      "title": "CA Osasuna vs Athletic Club (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131000_5427_OSN_ATH_fc-web.png",
+      "team_1": "CA Osasuna",
+      "team_2": "Athletic Club",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Athletic Club",
+      "startTime": "08:45:00 PM 03-01-2026"
+    },
+    {
+      "id": 139162,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Oman D20 League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025-26",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:00:00 PM 03-01-2026"
+    },
+    {
+      "id": 138379,
+      "event_category": "Football",
+      "title": "TBC vs TBC (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "TBC vs TBC",
+      "startTime": "09:30:00 PM 03-01-2026"
     }
   ]
 }
