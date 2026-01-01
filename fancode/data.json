@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 01-01-2026",
+  "last update time": "08:02 AM 01-01-2026",
   "matches": [
     {
       "id": 138769,
@@ -10,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138769_5801_CM-W_CH-W_fc-web_1766596522075.jpg",
       "team_1": "Canterbury Magicians",
       "team_2": "Central Hinds",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Canterbury Magicians vs Central Hinds",
-      "startTime": "06:40:00 AM 01-01-2026"
+      "startTime": "06:40:00 AM 01-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/icvViGuYQEGUr5_JWNucFg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138769_english_hls_80874a62fd3333_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138737,
@@ -64,6 +66,18 @@
       "startTime": "08:00:00 PM 01-01-2026"
     },
     {
+      "id": 138770,
+      "event_category": "Cricket",
+      "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138770_5801_AH-W_WB-W_fc-web_1766596522148.jpg",
+      "team_1": "Auckland Hearts",
+      "team_2": "Wellington Blaze",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Auckland Hearts vs Wellington Blaze",
+      "startTime": "05:10:00 AM 02-01-2026"
+    },
+    {
       "id": 139157,
       "event_category": "Cricket",
       "title": "Yalla Shabab Giants vs Royal Oman Stallions (Oman D20 League, 2025-26)",
@@ -112,18 +126,6 @@
       "startTime": "08:30:00 PM 01-01-2026"
     },
     {
-      "id": 138770,
-      "event_category": "Cricket",
-      "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138770_5801_AH-W_WB-W_fc-web_1766596522148.jpg",
-      "team_1": "Auckland Hearts",
-      "team_2": "Wellington Blaze",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Auckland Hearts vs Wellington Blaze",
-      "startTime": "05:10:00 AM 02-01-2026"
-    },
-    {
       "id": 136993,
       "event_category": "Football",
       "title": "Sheffield United F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
@@ -160,18 +162,6 @@
       "startTime": "01:30:00 PM 01-01-2026"
     },
     {
-      "id": 135967,
-      "event_category": "Football",
-      "title": "Wycombe Wanderers vs Cardiff City (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
-      "team_1": "Wycombe Wanderers",
-      "team_2": "Cardiff City",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Wycombe Wanderers vs Cardiff City",
-      "startTime": "08:30:00 PM 01-01-2026"
-    },
-    {
       "id": 138738,
       "event_category": "Cricket",
       "title": "Auckland Aces vs Wellington Firebirds (Super Smash, 2025-26)",
@@ -182,6 +172,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Auckland Aces vs Wellington Firebirds",
       "startTime": "08:55:00 AM 02-01-2026"
+    },
+    {
+      "id": 135967,
+      "event_category": "Football",
+      "title": "Wycombe Wanderers vs Cardiff City (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
+      "team_1": "Wycombe Wanderers",
+      "team_2": "Cardiff City",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Wycombe Wanderers vs Cardiff City",
+      "startTime": "08:30:00 PM 01-01-2026"
     },
     {
       "id": 138926,
