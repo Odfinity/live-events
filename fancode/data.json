@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:26 PM 01-01-2026",
+  "last update time": "04:02 PM 01-01-2026",
   "matches": [
     {
       "id": 138924,
@@ -16,20 +16,6 @@
       "startTime": "12:30:00 PM 01-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/zSwtOJbBTwiQ7L4ku88rXw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138924_english_hls_6196cf49e75704_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138814,
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Macarthur (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138814_5802_SYW_MAC_fc-web.jpg",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Macarthur",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Western Sydney Wanderers vs Macarthur",
-      "startTime": "01:30:00 PM 01-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/ce3FFAUsSWOPRiJ75u3nLA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138814_english_hls_215d5a1a8d63379_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138925,
@@ -104,6 +90,18 @@
       "startTime": "09:00:00 PM 01-01-2026"
     },
     {
+      "id": 138926,
+      "event_category": "Cricket",
+      "title": "Dhaka Capitals vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138926_5808_DC_CCH_fc-web_1766733054203.jpg",
+      "team_1": "Dhaka Capitals",
+      "team_2": "Chattogram Royals",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Dhaka Capitals vs Chattogram Royals",
+      "startTime": "01:30:00 PM 02-01-2026"
+    },
+    {
       "id": 136992,
       "event_category": "Football",
       "title": "Blackburn Rovers F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
@@ -138,18 +136,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Sheffield United F.C. vs Leicester City F.C.",
       "startTime": "11:00:00 PM 01-01-2026"
-    },
-    {
-      "id": 138926,
-      "event_category": "Cricket",
-      "title": "Dhaka Capitals vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138926_5808_DC_CCH_fc-web_1766733054203.jpg",
-      "team_1": "Dhaka Capitals",
-      "team_2": "Chattogram Royals",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Dhaka Capitals vs Chattogram Royals",
-      "startTime": "01:30:00 PM 02-01-2026"
     },
     {
       "id": 135967,
@@ -200,18 +186,6 @@
       "startTime": "08:00:00 PM 02-01-2026"
     },
     {
-      "id": 138815,
-      "event_category": "Football",
-      "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
-      "team_1": "Melbourne Victory",
-      "team_2": "Perth Glory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Perth Glory",
-      "startTime": "02:05:00 PM 02-01-2026"
-    },
-    {
       "id": 139160,
       "event_category": "Cricket",
       "title": "Majees Titans vs Renaissance Challengers (Oman D20 League, 2025-26)",
@@ -222,6 +196,18 @@
       "event_name": "Oman D20 League, 2025-26",
       "match_name": "Majees Titans vs Renaissance Challengers",
       "startTime": "05:00:00 PM 02-01-2026"
+    },
+    {
+      "id": 138815,
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
+      "team_1": "Melbourne Victory",
+      "team_2": "Perth Glory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Perth Glory",
+      "startTime": "02:05:00 PM 02-01-2026"
     },
     {
       "id": 139161,
@@ -462,6 +448,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Northern Districts vs Otago Volts",
       "startTime": "10:25:00 AM 04-01-2026"
+    },
+    {
+      "id": 138922,
+      "event_category": "Cricket",
+      "title": "Sylhet Titans vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138922_5808_SYL_CCH_fc-web_1766733054335.jpg",
+      "team_1": "Sylhet Titans",
+      "team_2": "Chattogram Royals",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Sylhet Titans vs Chattogram Royals",
+      "startTime": "12:30:00 PM 04-06-2026"
     }
   ]
 }
