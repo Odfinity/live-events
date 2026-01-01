@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:02 AM 01-01-2026",
+  "last update time": "12:09 PM 01-01-2026",
   "matches": [
     {
       "id": 138737,
@@ -18,30 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138737_english_hls_bb09d5de5079575_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138813,
-      "event_category": "Football",
-      "title": "Auckland vs Newcastle Jets (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138813_5802_AFC_NJ_fc-web.jpg",
-      "team_1": "Auckland",
-      "team_2": "Newcastle Jets",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Auckland vs Newcastle Jets",
-      "startTime": "09:30:00 AM 01-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/5OljjuJESceo78xoxOEQBA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138813_english_hls_76303c626a1474_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 138924,
       "event_category": "Cricket",
       "title": "Sylhet Titans vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138924_5808_SYL_DC_fc-web_1766733054268.jpg",
       "team_1": "Sylhet Titans",
       "team_2": "Dhaka Capitals",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Sylhet Titans vs Dhaka Capitals",
-      "startTime": "12:30:00 PM 01-01-2026"
+      "startTime": "12:30:00 PM 01-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/zSwtOJbBTwiQ7L4ku88rXw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138924_english_hls_6196cf49e75704_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138925,
@@ -80,6 +68,18 @@
       "startTime": "05:10:00 AM 02-01-2026"
     },
     {
+      "id": 138738,
+      "event_category": "Cricket",
+      "title": "Auckland Aces vs Wellington Firebirds (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138738_5800_AA_WF_fc-web_1766641250920.jpg",
+      "team_1": "Auckland Aces",
+      "team_2": "Wellington Firebirds",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Auckland Aces vs Wellington Firebirds",
+      "startTime": "08:55:00 AM 02-01-2026"
+    },
+    {
       "id": 139157,
       "event_category": "Cricket",
       "title": "Yalla Shabab Giants vs Royal Oman Stallions (Oman D20 League, 2025-26)",
@@ -114,18 +114,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Blackburn Rovers F.C. vs Wrexham A.F.C.",
       "startTime": "06:00:00 PM 01-01-2026"
-    },
-    {
-      "id": 138738,
-      "event_category": "Cricket",
-      "title": "Auckland Aces vs Wellington Firebirds (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138738_5800_AA_WF_fc-web_1766641250920.jpg",
-      "team_1": "Auckland Aces",
-      "team_2": "Wellington Firebirds",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Auckland Aces vs Wellington Firebirds",
-      "startTime": "08:55:00 AM 02-01-2026"
     },
     {
       "id": 136994,
@@ -462,6 +450,30 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Northern Brave Women vs Otago Sparks",
       "startTime": "06:40:00 AM 04-01-2026"
+    },
+    {
+      "id": 133962,
+      "event_category": "Cricket",
+      "title": "Tasmania Women vs Queensland Fire (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "team_1": "Tasmania Women",
+      "team_2": "Queensland Fire",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Tasmania Women vs Queensland Fire",
+      "startTime": "05:00:00 AM 04-01-2026"
+    },
+    {
+      "id": 138740,
+      "event_category": "Cricket",
+      "title": "Northern Districts vs Otago Volts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-web_1766641250979.jpg",
+      "team_1": "Northern Districts",
+      "team_2": "Otago Volts",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Northern Districts vs Otago Volts",
+      "startTime": "10:25:00 AM 04-01-2026"
     }
   ]
 }
