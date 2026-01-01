@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:02 PM 01-01-2026",
+  "last update time": "10:25 PM 01-01-2026",
   "matches": [
-    {
-      "id": 138925,
-      "event_category": "Cricket",
-      "title": "Rajshahi Warriors vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138925_5808_RAN_DBR_fc-web_1766733054891.jpg",
-      "team_1": "Rajshahi Warriors",
-      "team_2": "Rangpur Riders",
-      "status": "LIVE",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Rajshahi Warriors vs Rangpur Riders",
-      "startTime": "05:30:00 PM 01-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/jgSIbxzlRsGAcIYbzMwl0A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138654,
       "event_category": "Cricket",
@@ -74,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135967_english_hls_84efa0182874587_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 138925,
+      "event_category": "Cricket",
+      "title": "Rajshahi Warriors vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138925_5808_RAN_DBR_fc-web_1766733054891.jpg",
+      "team_1": "Rajshahi Warriors",
+      "team_2": "Rangpur Riders",
+      "status": "LIVE",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Rajshahi Warriors vs Rangpur Riders",
+      "startTime": "05:30:00 PM 01-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/jgSIbxzlRsGAcIYbzMwl0A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138770,
       "event_category": "Cricket",
       "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
@@ -110,18 +110,6 @@
       "startTime": "01:30:00 PM 02-01-2026"
     },
     {
-      "id": 138927,
-      "event_category": "Cricket",
-      "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
-      "team_1": "Sylhet Titans",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Sylhet Titans vs Rangpur Riders",
-      "startTime": "06:30:00 PM 02-01-2026"
-    },
-    {
       "id": 136993,
       "event_category": "Football",
       "title": "Sheffield United F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
@@ -132,6 +120,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Sheffield United F.C. vs Leicester City F.C.",
       "startTime": "11:00:00 PM 01-01-2026"
+    },
+    {
+      "id": 138927,
+      "event_category": "Cricket",
+      "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
+      "team_1": "Sylhet Titans",
+      "team_2": "Rangpur Riders",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Sylhet Titans vs Rangpur Riders",
+      "startTime": "06:30:00 PM 02-01-2026"
     },
     {
       "id": 138655,
