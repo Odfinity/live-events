@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:29 PM 01-01-2026",
+  "last update time": "09:00 PM 01-01-2026",
   "matches": [
     {
       "id": 138925,
@@ -30,20 +30,6 @@
       "startTime": "08:00:00 PM 01-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/KmRpdTLIS46aG12gWuXWWQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138654_english_hls_0ecfc48b3251304_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139157,
-      "event_category": "Cricket",
-      "title": "Yalla Shabab Giants vs Royal Oman Stallions (Oman D20 League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-      "team_1": "Yalla Shabab Giants",
-      "team_2": "Royal Oman Stallions",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "Yalla Shabab Giants vs Royal Oman Stallions",
-      "startTime": "05:00:00 PM 01-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/2hqgmmioQrui7M2mH99zdQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139157_english_hls_18a39603bb77153_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136994,
@@ -452,6 +438,18 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
       "team_1": "Day 1",
       "team_2": "Show Court 1, Brisbane",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Brisbane",
+      "match_name": "Day 1",
+      "startTime": "10:30:00 AM 04-01-2026"
+    },
+    {
+      "id": 139184,
+      "event_category": "Tennis",
+      "title": "Day 1 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "team_1": "Day 1",
+      "team_2": "Rafter Arena, Brisbane",
       "status": "UPCOMING",
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Day 1",
