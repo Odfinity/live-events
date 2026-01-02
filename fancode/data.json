@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:52 PM 02-01-2026",
+  "last update time": "11:13 PM 02-01-2026",
   "matches": [
     {
       "id": 138655,
@@ -118,18 +118,6 @@
       "startTime": "06:30:00 PM 03-01-2026"
     },
     {
-      "id": 138816,
-      "event_category": "Football",
-      "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138816_5802_BRB_WEL_fc-web.jpg",
-      "team_1": "Brisbane Roar",
-      "team_2": "Wellington Phoenix",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Brisbane Roar vs Wellington Phoenix",
-      "startTime": "11:30:00 AM 03-01-2026"
-    },
-    {
       "id": 139162,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Oman D20 League, 2025-26)",
@@ -140,6 +128,18 @@
       "event_name": "Oman D20 League, 2025-26",
       "match_name": "TBC vs TBC",
       "startTime": "07:30:00 PM 03-01-2026"
+    },
+    {
+      "id": 138816,
+      "event_category": "Football",
+      "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138816_5802_BRB_WEL_fc-web.jpg",
+      "team_1": "Brisbane Roar",
+      "team_2": "Wellington Phoenix",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Brisbane Roar vs Wellington Phoenix",
+      "startTime": "11:30:00 AM 03-01-2026"
     },
     {
       "id": 138817,
@@ -226,18 +226,6 @@
       "startTime": "11:00:00 PM 03-01-2026"
     },
     {
-      "id": 139164,
-      "event_category": "Golf",
-      "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Boston vs Los Angeles",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Boston vs Los Angeles",
-      "startTime": "05:30:00 AM 03-01-2026"
-    },
-    {
       "id": 131002,
       "event_category": "Football",
       "title": "RCD Espanyol vs FC Barcelona (LALIGA 2025-26)",
@@ -248,6 +236,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Espanyol vs FC Barcelona",
       "startTime": "01:30:00 AM 04-01-2026"
+    },
+    {
+      "id": 139164,
+      "event_category": "Golf",
+      "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Boston vs Los Angeles",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Boston vs Los Angeles",
+      "startTime": "05:30:00 AM 03-01-2026"
     },
     {
       "id": 138772,
@@ -404,6 +404,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Norwich City F.C. vs Stoke City F.C.",
       "startTime": "08:30:00 PM 04-01-2026"
+    },
+    {
+      "id": 131003,
+      "event_category": "Football",
+      "title": "Real Madrid vs Real Betis (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131003_5427_RM_RB_fc-web.png",
+      "team_1": "Real Madrid",
+      "team_2": "Real Betis",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Real Betis",
+      "startTime": "08:45:00 PM 04-01-2026"
     }
   ]
 }
