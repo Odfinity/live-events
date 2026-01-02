@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 02-01-2026",
+  "last update time": "06:28 PM 02-01-2026",
   "matches": [
+    {
+      "id": 138927,
+      "event_category": "Cricket",
+      "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
+      "team_1": "Sylhet Titans",
+      "team_2": "Rangpur Riders",
+      "status": "LIVE",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Sylhet Titans vs Rangpur Riders",
+      "startTime": "06:30:00 PM 02-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/o-p3_ocHSIO3A5x5lUcYjA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138927_english_hls_2ad2b01ca384942_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139160,
       "event_category": "Cricket",
@@ -16,18 +30,6 @@
       "startTime": "05:00:00 PM 02-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/lahQHbS7RtKWZvVd0iXYvw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139160_english_hls_72995e4f2798476_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138927,
-      "event_category": "Cricket",
-      "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
-      "team_1": "Sylhet Titans",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Sylhet Titans vs Rangpur Riders",
-      "startTime": "06:30:00 PM 02-01-2026"
     },
     {
       "id": 138655,
@@ -114,6 +116,18 @@
       "startTime": "01:00:00 AM 03-01-2026"
     },
     {
+      "id": 139295,
+      "event_category": "Cricket",
+      "title": "Oman Women's Red vs Oman Women's Blue (Oman D20 League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Oman Women's Red",
+      "team_2": "Oman Women's Blue",
+      "status": "UPCOMING",
+      "event_name": "Oman D20 League, 2025-26",
+      "match_name": "Oman Women's Red vs Oman Women's Blue",
+      "startTime": "03:30:00 PM 03-01-2026"
+    },
+    {
       "id": 138816,
       "event_category": "Football",
       "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
@@ -136,18 +150,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Melbourne City vs Sydney FC",
       "startTime": "02:05:00 PM 03-01-2026"
-    },
-    {
-      "id": 139295,
-      "event_category": "Cricket",
-      "title": "Oman Women's Red vs Oman Women's Blue (Oman D20 League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Oman Women's Red",
-      "team_2": "Oman Women's Blue",
-      "status": "UPCOMING",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "Oman Women's Red vs Oman Women's Blue",
-      "startTime": "03:30:00 PM 03-01-2026"
     },
     {
       "id": 131008,
@@ -174,18 +176,6 @@
       "startTime": "07:30:00 PM 03-01-2026"
     },
     {
-      "id": 139164,
-      "event_category": "Golf",
-      "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Boston vs Los Angeles",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Boston vs Los Angeles",
-      "startTime": "05:30:00 AM 03-01-2026"
-    },
-    {
       "id": 131000,
       "event_category": "Football",
       "title": "CA Osasuna vs Athletic Club (LALIGA 2025-26)",
@@ -196,6 +186,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "CA Osasuna vs Athletic Club",
       "startTime": "08:45:00 PM 03-01-2026"
+    },
+    {
+      "id": 139164,
+      "event_category": "Golf",
+      "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Boston vs Los Angeles",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Boston vs Los Angeles",
+      "startTime": "05:30:00 AM 03-01-2026"
     },
     {
       "id": 138379,
