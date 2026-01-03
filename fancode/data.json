@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:27 AM 03-01-2026",
+  "last update time": "12:11 PM 03-01-2026",
   "matches": [
-    {
-      "id": 138739,
-      "event_category": "Cricket",
-      "title": "Central Stags vs Canterbury (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138739_5800_CS_CTB_fc-web_1766641251032.jpg",
-      "team_1": "Central Stags",
-      "team_2": "Canterbury",
-      "status": "LIVE",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Central Stags vs Canterbury",
-      "startTime": "08:55:00 AM 03-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/xUeu_Z1tSS6SNKgEeZNu2Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138739_english_hls_3e7a73d0358892_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138816,
       "event_category": "Football",
@@ -128,6 +114,18 @@
       "startTime": "11:00:00 PM 03-01-2026"
     },
     {
+      "id": 138740,
+      "event_category": "Cricket",
+      "title": "Northern Districts vs Otago Volts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-web_1766641250979.jpg",
+      "team_1": "Northern Districts",
+      "team_2": "Otago Volts",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Northern Districts vs Otago Volts",
+      "startTime": "10:25:00 AM 04-01-2026"
+    },
+    {
       "id": 138380,
       "event_category": "Football",
       "title": "Mali vs Tunisia (Africa Cup of Nations 2025-26)",
@@ -152,18 +150,6 @@
       "startTime": "01:30:00 AM 04-01-2026"
     },
     {
-      "id": 138740,
-      "event_category": "Cricket",
-      "title": "Northern Districts vs Otago Volts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-web_1766641250979.jpg",
-      "team_1": "Northern Districts",
-      "team_2": "Otago Volts",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Northern Districts vs Otago Volts",
-      "startTime": "10:25:00 AM 04-01-2026"
-    },
-    {
       "id": 133962,
       "event_category": "Cricket",
       "title": "Tasmania Women vs Queensland Fire (Women's National Cricket League, 2025-26)",
@@ -176,18 +162,6 @@
       "startTime": "05:00:00 AM 04-01-2026"
     },
     {
-      "id": 138817,
-      "event_category": "Football",
-      "title": "Melbourne City vs Sydney FC (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138817_5802_MLC_SYD_fc-web.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Sydney FC",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Sydney FC",
-      "startTime": "02:05:00 PM 03-01-2026"
-    },
-    {
       "id": 138922,
       "event_category": "Cricket",
       "title": "Sylhet Titans vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -198,6 +172,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Sylhet Titans vs Chattogram Royals",
       "startTime": "12:30:00 PM 04-01-2026"
+    },
+    {
+      "id": 138817,
+      "event_category": "Football",
+      "title": "Melbourne City vs Sydney FC (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138817_5802_MLC_SYD_fc-web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Sydney FC",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Sydney FC",
+      "startTime": "02:05:00 PM 03-01-2026"
     },
     {
       "id": 138914,
