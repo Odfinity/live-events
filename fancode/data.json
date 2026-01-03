@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:57 PM 03-01-2026",
+  "last update time": "09:13 PM 03-01-2026",
   "matches": [
     {
       "id": 139162,
@@ -30,20 +30,6 @@
       "startTime": "08:45:00 PM 03-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131008,
-      "event_category": "Football",
-      "title": "RC Celta vs Valencia CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131008_5427_CEV_VAL_fc-web.png",
-      "team_1": "RC Celta",
-      "team_2": "Valencia CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs Valencia CF",
-      "startTime": "06:30:00 PM 03-01-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131008_english_hls_a37b79268a86819_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131008_english_hls_a37b79268a86819_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138772,
@@ -106,6 +92,18 @@
       "startTime": "05:30:00 PM 04-01-2026"
     },
     {
+      "id": 133962,
+      "event_category": "Cricket",
+      "title": "Tasmania Women vs Queensland Fire (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "team_1": "Tasmania Women",
+      "team_2": "Queensland Fire",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Tasmania Women vs Queensland Fire",
+      "startTime": "05:00:00 AM 04-01-2026"
+    },
+    {
       "id": 131009,
       "event_category": "Football",
       "title": "Elche CF vs Villarreal CF (LALIGA 2025-26)",
@@ -128,18 +126,6 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al Taawoun",
       "startTime": "11:00:00 PM 03-01-2026"
-    },
-    {
-      "id": 133962,
-      "event_category": "Cricket",
-      "title": "Tasmania Women vs Queensland Fire (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
-      "team_1": "Tasmania Women",
-      "team_2": "Queensland Fire",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Tasmania Women vs Queensland Fire",
-      "startTime": "05:00:00 AM 04-01-2026"
     },
     {
       "id": 138380,
@@ -250,18 +236,6 @@
       "startTime": "08:45:00 PM 04-01-2026"
     },
     {
-      "id": 138913,
-      "event_category": "Football",
-      "title": "Sporting de Gijón vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Sporting de Gijón",
-      "team_2": "Málaga",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Sporting de Gijón vs Málaga",
-      "startTime": "06:30:00 PM 04-01-2026"
-    },
-    {
       "id": 138384,
       "event_category": "Football",
       "title": "Morocco vs Tanzania (Africa Cup of Nations 2025-26)",
@@ -272,6 +246,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Morocco vs Tanzania",
       "startTime": "09:30:00 PM 04-01-2026"
+    },
+    {
+      "id": 138913,
+      "event_category": "Football",
+      "title": "Sporting de Gijón vs Málaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Sporting de Gijón",
+      "team_2": "Málaga",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Sporting de Gijón vs Málaga",
+      "startTime": "06:30:00 PM 04-01-2026"
     },
     {
       "id": 131007,
@@ -370,6 +356,18 @@
       "startTime": "01:30:00 AM 05-01-2026"
     },
     {
+      "id": 138930,
+      "event_category": "Cricket",
+      "title": "Noakhali Express vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138930_5808_NOE_SYL_fc-web_1766733054379.jpg",
+      "team_1": "Noakhali Express",
+      "team_2": "Sylhet Titans",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Noakhali Express vs Sylhet Titans",
+      "startTime": "12:30:00 PM 05-01-2026"
+    },
+    {
       "id": 139187,
       "event_category": "Tennis",
       "title": "Show Court 1 - Day 2 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
@@ -394,18 +392,6 @@
       "startTime": "05:30:00 AM 05-01-2026"
     },
     {
-      "id": 138930,
-      "event_category": "Cricket",
-      "title": "Noakhali Express vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138930_5808_NOE_SYL_fc-web_1766733054379.jpg",
-      "team_1": "Noakhali Express",
-      "team_2": "Sylhet Titans",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Noakhali Express vs Sylhet Titans",
-      "startTime": "12:30:00 PM 05-01-2026"
-    },
-    {
       "id": 139204,
       "event_category": "Tennis",
       "title": "Center Court - Day 1 vs Hong Kong (ATP 250 - Hong Kong)",
@@ -415,6 +401,18 @@
       "status": "UPCOMING",
       "event_name": "ATP 250 - Hong Kong",
       "match_name": "Center Court - Day 1",
+      "startTime": "10:00:00 AM 05-01-2026"
+    },
+    {
+      "id": 139283,
+      "event_category": "Tennis",
+      "title": "Day 1 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Day 1",
+      "team_2": "Bengaluru",
+      "status": "UPCOMING",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Day 1",
       "startTime": "10:00:00 AM 05-01-2026"
     }
   ]
