@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:40 AM 03-01-2026",
+  "last update time": "09:09 AM 03-01-2026",
   "matches": [
-    {
-      "id": 138771,
-      "event_category": "Cricket",
-      "title": "Central Hinds vs Canterbury Magicians (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138771_5801_CH-W_CM-W_fc-web_1766596522078.jpg",
-      "team_1": "Central Hinds",
-      "team_2": "Canterbury Magicians",
-      "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Central Hinds vs Canterbury Magicians",
-      "startTime": "05:10:00 AM 03-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/qcdiTInsQo6FUa741Ee-rA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138771_english_hls_927149832076500_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139164,
-      "event_category": "Golf",
-      "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Boston vs Los Angeles",
-      "team_2": "Florida",
-      "status": "LIVE",
-      "event_name": "TGL Season 2",
-      "match_name": "Boston vs Los Angeles",
-      "startTime": "05:30:00 AM 03-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/IOi6_cvnSoeQpgOZKo-rFw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139164_english_hls_e73df5a93a99098_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138739,
       "event_category": "Cricket",
@@ -38,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138739_5800_CS_CTB_fc-web_1766641251032.jpg",
       "team_1": "Central Stags",
       "team_2": "Canterbury",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Super Smash, 2025-26",
       "match_name": "Central Stags vs Canterbury",
-      "startTime": "08:55:00 AM 03-01-2026"
+      "startTime": "08:55:00 AM 03-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/xUeu_Z1tSS6SNKgEeZNu2Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138739_english_hls_3e7a73d0358892_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139295,
@@ -54,6 +28,18 @@
       "event_name": "Oman D20 League, 2025-26",
       "match_name": "Oman Women's Red vs Oman Women's Blue",
       "startTime": "03:30:00 PM 03-01-2026"
+    },
+    {
+      "id": 138772,
+      "event_category": "Cricket",
+      "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
+      "team_1": "Northern Brave Women",
+      "team_2": "Otago Sparks",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Northern Brave Women vs Otago Sparks",
+      "startTime": "06:40:00 AM 04-01-2026"
     },
     {
       "id": 139162,
@@ -102,18 +88,6 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Senegal vs Sudan",
       "startTime": "09:30:00 PM 03-01-2026"
-    },
-    {
-      "id": 138772,
-      "event_category": "Cricket",
-      "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
-      "team_1": "Northern Brave Women",
-      "team_2": "Otago Sparks",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Northern Brave Women vs Otago Sparks",
-      "startTime": "06:40:00 AM 04-01-2026"
     },
     {
       "id": 131009,
@@ -200,18 +174,6 @@
       "startTime": "05:00:00 AM 04-01-2026"
     },
     {
-      "id": 138914,
-      "event_category": "Football",
-      "title": "Real Valladolid vs Racing Club (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Real Valladolid",
-      "team_2": "Racing Club",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Valladolid vs Racing Club",
-      "startTime": "11:00:00 PM 03-01-2026"
-    },
-    {
       "id": 138740,
       "event_category": "Cricket",
       "title": "Northern Districts vs Otago Volts (Super Smash, 2025-26)",
@@ -222,6 +184,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Northern Districts vs Otago Volts",
       "startTime": "10:25:00 AM 04-01-2026"
+    },
+    {
+      "id": 138914,
+      "event_category": "Football",
+      "title": "Real Valladolid vs Racing Club (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Real Valladolid",
+      "team_2": "Racing Club",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Valladolid vs Racing Club",
+      "startTime": "11:00:00 PM 03-01-2026"
     },
     {
       "id": 138922,
@@ -402,6 +376,30 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Damac vs Al Hilal SFC",
       "startTime": "11:00:00 PM 04-01-2026"
+    },
+    {
+      "id": 138383,
+      "event_category": "Football",
+      "title": "South Africa vs Cameroon (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-vs-Cameroon_fc-web.jpg",
+      "team_1": "South Africa",
+      "team_2": "Cameroon",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "South Africa vs Cameroon",
+      "startTime": "12:30:00 AM 05-01-2026"
+    },
+    {
+      "id": 131001,
+      "event_category": "Football",
+      "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131001_5427_RS_ATL_fc-web.png",
+      "team_1": "Real Sociedad",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs Atletico de Madrid",
+      "startTime": "01:30:00 AM 05-01-2026"
     }
   ]
 }
