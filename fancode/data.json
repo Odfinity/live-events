@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 PM 03-01-2026",
+  "last update time": "12:08 AM 04-01-2026",
   "matches": [
-    {
-      "id": 139162,
-      "event_category": "Cricket",
-      "title": "Majees Titans vs IAS Invincibles (Oman D20 League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-      "team_1": "Majees Titans",
-      "team_2": "IAS Invincibles",
-      "status": "LIVE",
-      "event_name": "Oman D20 League, 2025-26",
-      "match_name": "Majees Titans vs IAS Invincibles",
-      "startTime": "07:30:00 PM 03-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Gie_61PTSyijSWwim-48GA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139162_english_hls_75c3a3338234094_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138379,
-      "event_category": "Football",
-      "title": "Senegal vs Sudan (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-sudan_fc-web.jpg",
-      "team_1": "Senegal",
-      "team_2": "Sudan",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Senegal vs Sudan",
-      "startTime": "09:30:00 PM 03-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/77DX0d35TGaZcD7Yt5iALg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138379_english_hls_3cbf87ddd682564_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 131009,
       "event_category": "Football",
@@ -110,6 +82,18 @@
       "startTime": "12:30:00 PM 04-01-2026"
     },
     {
+      "id": 138380,
+      "event_category": "Football",
+      "title": "Mali vs Tunisia (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-tunisia_fc-web.jpg",
+      "team_1": "Mali",
+      "team_2": "Tunisia",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Mali vs Tunisia",
+      "startTime": "12:30:00 AM 04-01-2026"
+    },
+    {
       "id": 138923,
       "event_category": "Cricket",
       "title": "Dhaka Capitals vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
@@ -144,18 +128,6 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Tasmania Women vs Queensland Fire",
       "startTime": "05:00:00 AM 04-01-2026"
-    },
-    {
-      "id": 138380,
-      "event_category": "Football",
-      "title": "Mali vs Tunisia (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-tunisia_fc-web.jpg",
-      "team_1": "Mali",
-      "team_2": "Tunisia",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Mali vs Tunisia",
-      "startTime": "12:30:00 AM 04-01-2026"
     },
     {
       "id": 131002,
@@ -194,18 +166,6 @@
       "startTime": "06:30:00 PM 04-01-2026"
     },
     {
-      "id": 138818,
-      "event_category": "Football",
-      "title": "Adelaide United vs Central Coast Mariners (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138818_5802_ADL_CCM_fc-web.jpg",
-      "team_1": "Adelaide United",
-      "team_2": "Central Coast Mariners",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Adelaide United vs Central Coast Mariners",
-      "startTime": "02:05:00 PM 04-01-2026"
-    },
-    {
       "id": 136997,
       "event_category": "Football",
       "title": "Norwich City F.C. vs Stoke City F.C. (EFL Championship 2025-26)",
@@ -216,6 +176,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Norwich City F.C. vs Stoke City F.C.",
       "startTime": "08:30:00 PM 04-01-2026"
+    },
+    {
+      "id": 138818,
+      "event_category": "Football",
+      "title": "Adelaide United vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138818_5802_ADL_CCM_fc-web.jpg",
+      "team_1": "Adelaide United",
+      "team_2": "Central Coast Mariners",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Adelaide United vs Central Coast Mariners",
+      "startTime": "02:05:00 PM 04-01-2026"
     },
     {
       "id": 131003,
@@ -444,6 +416,30 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Nigeria vs Mozambique",
       "startTime": "12:30:00 AM 06-01-2026"
+    },
+    {
+      "id": 136996,
+      "event_category": "Football",
+      "title": "Leicester City F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136996_5489_LEI_WBA_fc-web.jpg",
+      "team_1": "Leicester City F.C.",
+      "team_2": "West Bromwich Albion F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Leicester City F.C. vs West Bromwich Albion F.C.",
+      "startTime": "01:30:00 AM 06-01-2026"
+    },
+    {
+      "id": 138741,
+      "event_category": "Cricket",
+      "title": "Auckland Aces vs Otago Volts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg",
+      "team_1": "Auckland Aces",
+      "team_2": "Otago Volts",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Auckland Aces vs Otago Volts",
+      "startTime": "05:10:00 AM 06-01-2026"
     }
   ]
 }
