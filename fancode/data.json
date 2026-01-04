@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 AM 05-01-2026",
+  "last update time": "03:58 AM 05-01-2026",
   "matches": [
     {
       "id": 131001,
@@ -16,20 +16,6 @@
       "startTime": "01:30:00 AM 05-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131001_english_hls_61a5b6264b76453_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131001_english_hls_61a5b6264b76453_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138915,
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs Cádiz (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/138915_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Cádiz",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo La Coruna vs Cádiz",
-      "startTime": "01:30:00 AM 05-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/RevwHmedSkuwxMCWGJDlIA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138915_english_hls_d46df3cb6315335_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138930,
@@ -128,6 +114,18 @@
       "startTime": "05:00:00 AM 06-01-2026"
     },
     {
+      "id": 138773,
+      "event_category": "Cricket",
+      "title": "Auckland Hearts vs Otago Sparks (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138773_5801_AH-W_OS-W_fc-web_1766596522145.jpg",
+      "team_1": "Auckland Hearts",
+      "team_2": "Otago Sparks",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Auckland Hearts vs Otago Sparks",
+      "startTime": "09:20:00 AM 06-01-2026"
+    },
+    {
       "id": 139187,
       "event_category": "Tennis",
       "title": "Show Court 1 - Day 2 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
@@ -162,18 +160,6 @@
       "event_name": "ATP 250 - Hong Kong",
       "match_name": "Center Court - Day 1",
       "startTime": "11:00:00 AM 05-01-2026"
-    },
-    {
-      "id": 138773,
-      "event_category": "Cricket",
-      "title": "Auckland Hearts vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138773_5801_AH-W_OS-W_fc-web_1766596522145.jpg",
-      "team_1": "Auckland Hearts",
-      "team_2": "Otago Sparks",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Auckland Hearts vs Otago Sparks",
-      "startTime": "09:20:00 AM 06-01-2026"
     },
     {
       "id": 139283,
@@ -402,6 +388,18 @@
       "event_name": "Pakistan tour of Sri Lanka, 2026",
       "match_name": "Sri Lanka vs Pakistan",
       "startTime": "07:00:00 PM 07-01-2026"
+    },
+    {
+      "id": 139254,
+      "event_category": "Football",
+      "title": "Korea Republic U23 vs IR Iran U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139254_5822_KR-U23_IRN-U23_fc-web.jpg",
+      "team_1": "Korea Republic U23",
+      "team_2": "IR Iran U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Korea Republic U23 vs IR Iran U23",
+      "startTime": "05:00:00 PM 07-01-2026"
     }
   ]
 }
