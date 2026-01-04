@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:33 AM 04-01-2026",
+  "last update time": "10:26 AM 04-01-2026",
   "matches": [
     {
-      "id": 138772,
+      "id": 138740,
       "event_category": "Cricket",
-      "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
-      "team_1": "Northern Brave Women",
-      "team_2": "Otago Sparks",
+      "title": "Otago Volts vs Northern Districts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-web_1766641250979.jpg",
+      "team_1": "Otago Volts",
+      "team_2": "Northern Districts",
       "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Northern Brave Women vs Otago Sparks",
-      "startTime": "06:40:00 AM 04-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/WF0O5rr0TIacqo7pEDGlgw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138772_english_hls_46d915a31c20049_1ta-di_h264/index.m3u8"
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Otago Volts vs Northern Districts",
+      "startTime": "10:25:00 AM 04-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/woLQhWQ4QdCf_6w7ITjuug/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138740_english_hls_5a0114be9932869_1ta-di_h264/index.m3u8"
     },
     {
       "id": 133962,
@@ -32,16 +32,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133962_english_hls_178f8d65cd6342_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138740,
-      "event_category": "Cricket",
-      "title": "Northern Districts vs Otago Volts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138740_5800_ND_OV_fc-web_1766641250979.jpg",
-      "team_1": "Northern Districts",
-      "team_2": "Otago Volts",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Northern Districts vs Otago Volts",
-      "startTime": "10:25:00 AM 04-01-2026"
+      "id": 139185,
+      "event_category": "Tennis",
+      "title": "Show Court 1 - Day 1 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "team_1": "Show Court 1 - Day 1",
+      "team_2": "Show Court 1, Brisbane",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Brisbane",
+      "match_name": "Show Court 1 - Day 1",
+      "startTime": "10:30:00 AM 04-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/E0AWb-eAR1CO4TOLofYUnw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139185_english_hls_3ad8fbc07a69956_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139184,
+      "event_category": "Tennis",
+      "title": "Pat Rafter Arena - Day 1 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "team_1": "Pat Rafter Arena - Day 1",
+      "team_2": "Rafter Arena, Brisbane",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Brisbane",
+      "match_name": "Pat Rafter Arena - Day 1",
+      "startTime": "10:30:00 AM 04-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/OPMQPhIzQoO7FMny0arBLg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139184_english_hls_fbd0e5d5dc38428_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138922,
@@ -224,30 +240,6 @@
       "startTime": "06:30:00 PM 04-01-2026"
     },
     {
-      "id": 139185,
-      "event_category": "Tennis",
-      "title": "Show Court 1 - Day 1 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Show Court 1 - Day 1",
-      "team_2": "Show Court 1, Brisbane",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Show Court 1 - Day 1",
-      "startTime": "10:30:00 AM 04-01-2026"
-    },
-    {
-      "id": 139184,
-      "event_category": "Tennis",
-      "title": "Pat Rafter Arena - Day 1 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Pat Rafter Arena - Day 1",
-      "team_2": "Rafter Arena, Brisbane",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Pat Rafter Arena - Day 1",
-      "startTime": "10:30:00 AM 04-01-2026"
-    },
-    {
       "id": 138915,
       "event_category": "Football",
       "title": "Deportivo La Coruna vs Cádiz (LALIGA Hypermotion 2025-26)",
@@ -272,6 +264,18 @@
       "startTime": "12:30:00 PM 05-01-2026"
     },
     {
+      "id": 138931,
+      "event_category": "Cricket",
+      "title": "Chattogram Royals vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138931_5808_CCH_RAN_fc-web_1766733054166.jpg",
+      "team_1": "Chattogram Royals",
+      "team_2": "Rangpur Riders",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Chattogram Royals vs Rangpur Riders",
+      "startTime": "05:30:00 PM 05-01-2026"
+    },
+    {
       "id": 139187,
       "event_category": "Tennis",
       "title": "Show Court 1 - Day 2 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
@@ -294,18 +298,6 @@
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Pat Rafter Arena - Day 2",
       "startTime": "05:30:00 AM 05-01-2026"
-    },
-    {
-      "id": 138931,
-      "event_category": "Cricket",
-      "title": "Chattogram Royals vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138931_5808_CCH_RAN_fc-web_1766733054166.jpg",
-      "team_1": "Chattogram Royals",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Chattogram Royals vs Rangpur Riders",
-      "startTime": "05:30:00 PM 05-01-2026"
     },
     {
       "id": 139204,
