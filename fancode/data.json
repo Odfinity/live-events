@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 PM 04-01-2026",
+  "last update time": "12:08 AM 05-01-2026",
   "matches": [
     {
       "id": 138656,
@@ -16,20 +16,6 @@
       "startTime": "08:00:00 PM 04-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/lYXnFL8VS7eEkpZTEgomVA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138656_english_hls_ce83ff130b39556_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138384,
-      "event_category": "Football",
-      "title": "Morocco vs Tanzania (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Morocco-vs-Tanzania_fc-web.jpg",
-      "team_1": "Morocco",
-      "team_2": "Tanzania",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Morocco vs Tanzania",
-      "startTime": "09:30:00 PM 04-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/cyuiXRtQQ0O7QMLVjQff6A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138384_english_hls_2cc98e8fd362998_1ta-di_h264/index.m3u8"
     },
     {
       "id": 131007,
@@ -86,18 +72,6 @@
       "startTime": "12:30:00 PM 05-01-2026"
     },
     {
-      "id": 138931,
-      "event_category": "Cricket",
-      "title": "Chattogram Royals vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138931_5808_CCH_RAN_fc-web_1766733054166.jpg",
-      "team_1": "Chattogram Royals",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Chattogram Royals vs Rangpur Riders",
-      "startTime": "05:30:00 PM 05-01-2026"
-    },
-    {
       "id": 138383,
       "event_category": "Football",
       "title": "South Africa vs Cameroon (Africa Cup of Nations 2025-26)",
@@ -108,6 +82,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "South Africa vs Cameroon",
       "startTime": "12:30:00 AM 05-01-2026"
+    },
+    {
+      "id": 138931,
+      "event_category": "Cricket",
+      "title": "Chattogram Royals vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138931_5808_CCH_RAN_fc-web_1766733054166.jpg",
+      "team_1": "Chattogram Royals",
+      "team_2": "Rangpur Riders",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Chattogram Royals vs Rangpur Riders",
+      "startTime": "05:30:00 PM 05-01-2026"
     },
     {
       "id": 131001,
@@ -170,6 +156,18 @@
       "startTime": "01:30:00 AM 06-01-2026"
     },
     {
+      "id": 138741,
+      "event_category": "Cricket",
+      "title": "Auckland Aces vs Otago Volts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg",
+      "team_1": "Auckland Aces",
+      "team_2": "Otago Volts",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Auckland Aces vs Otago Volts",
+      "startTime": "05:10:00 AM 06-01-2026"
+    },
+    {
       "id": 139187,
       "event_category": "Tennis",
       "title": "Show Court 1 - Day 2 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
@@ -192,18 +190,6 @@
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Pat Rafter Arena - Day 2",
       "startTime": "08:30:00 AM 05-01-2026"
-    },
-    {
-      "id": 138741,
-      "event_category": "Cricket",
-      "title": "Auckland Aces vs Otago Volts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg",
-      "team_1": "Auckland Aces",
-      "team_2": "Otago Volts",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Auckland Aces vs Otago Volts",
-      "startTime": "05:10:00 AM 06-01-2026"
     },
     {
       "id": 139204,
@@ -419,6 +405,18 @@
       "status": "UPCOMING",
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Show Court 1 - Day 4",
+      "startTime": "05:30:00 AM 07-01-2026"
+    },
+    {
+      "id": 139190,
+      "event_category": "Tennis",
+      "title": "Pat Rafter Arena - Day 4 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "team_1": "Pat Rafter Arena - Day 4",
+      "team_2": "Rafter Arena, Brisbane",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Brisbane",
+      "match_name": "Pat Rafter Arena - Day 4",
       "startTime": "05:30:00 AM 07-01-2026"
     }
   ]
