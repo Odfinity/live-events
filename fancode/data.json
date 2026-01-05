@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:56 AM 06-01-2026",
+  "last update time": "03:14 AM 06-01-2026",
   "matches": [
     {
       "id": 136996,
@@ -16,20 +16,6 @@
       "startTime": "01:30:00 AM 06-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/Ou0Q98hyRCuIY8bIAgOUrw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136996_english_hls_0dcfed604a94678_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138386,
-      "event_category": "Football",
-      "title": "Nigeria vs Mozambique (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg",
-      "team_1": "Nigeria",
-      "team_2": "Mozambique",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Nigeria vs Mozambique",
-      "startTime": "12:30:00 AM 06-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/J9nFqZXaTFOQ3EqAzqS9lw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138386_english_hls_bb262e69c947373_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138741,
@@ -104,18 +90,6 @@
       "startTime": "01:30:00 PM 06-01-2026"
     },
     {
-      "id": 139251,
-      "event_category": "Football",
-      "title": "Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg",
-      "team_1": "Vietnam U23",
-      "team_2": "Jordan U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Vietnam U23 vs Jordan U23",
-      "startTime": "05:00:00 PM 06-01-2026"
-    },
-    {
       "id": 138909,
       "event_category": "Football",
       "title": "Granada vs Rayo Vallecano (Copa del Rey, 2025-26)",
@@ -126,6 +100,18 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Granada vs Rayo Vallecano",
       "startTime": "11:30:00 PM 06-01-2026"
+    },
+    {
+      "id": 139251,
+      "event_category": "Football",
+      "title": "Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg",
+      "team_1": "Vietnam U23",
+      "team_2": "Jordan U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Vietnam U23 vs Jordan U23",
+      "startTime": "05:00:00 PM 06-01-2026"
     },
     {
       "id": 138382,
@@ -188,6 +174,18 @@
       "startTime": "10:00:00 AM 06-01-2026"
     },
     {
+      "id": 138742,
+      "event_category": "Cricket",
+      "title": "Wellington Firebirds vs Central Stags (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg",
+      "team_1": "Wellington Firebirds",
+      "team_2": "Central Stags",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Wellington Firebirds vs Central Stags",
+      "startTime": "08:55:00 AM 07-01-2026"
+    },
+    {
       "id": 139205,
       "event_category": "Tennis",
       "title": "Center Court - Day 2 vs Hong Kong (ATP 250 - Hong Kong)",
@@ -210,18 +208,6 @@
       "event_name": "ATP Challenger 125 -  Bengaluru Open",
       "match_name": "Centre Court - Day 2",
       "startTime": "11:00:00 AM 06-01-2026"
-    },
-    {
-      "id": 138742,
-      "event_category": "Cricket",
-      "title": "Wellington Firebirds vs Central Stags (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg",
-      "team_1": "Wellington Firebirds",
-      "team_2": "Central Stags",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Wellington Firebirds vs Central Stags",
-      "startTime": "08:55:00 AM 07-01-2026"
     },
     {
       "id": 138940,
@@ -438,6 +424,18 @@
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Pat Rafter Arena - Day 5",
       "startTime": "05:30:00 AM 08-01-2026"
+    },
+    {
+      "id": 138942,
+      "event_category": "Cricket",
+      "title": "Noakhali Express vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138942_5808_NOE_DBR_fc-web_1766733054198.jpg",
+      "team_1": "Noakhali Express",
+      "team_2": "Rajshahi Warriors",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Noakhali Express vs Rajshahi Warriors",
+      "startTime": "12:30:00 PM 08-01-2026"
     }
   ]
 }
