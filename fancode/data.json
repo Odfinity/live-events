@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:26 PM 05-01-2026",
+  "last update time": "02:13 PM 05-01-2026",
   "matches": [
     {
       "id": 138930,
@@ -32,20 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139296_english_hls_75a262b85778831_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139187,
-      "event_category": "Tennis",
-      "title": "Show Court 1 - Day 2 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Show Court 1 - Day 2",
-      "team_2": "Show Court 1, Brisbane",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Show Court 1 - Day 2",
-      "startTime": "06:30:00 AM 05-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/YVL5FgEUTMCJxypEiAkwfw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139187_english_hls_1f1ff8471c36119_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 139186,
       "event_category": "Tennis",
       "title": "Pat Rafter Arena - Day 2 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
@@ -72,6 +58,20 @@
       "startTime": "11:00:00 AM 05-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/dPthBMYHT_mdWLN-hEjE9A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139204_english_hls_1ebe611e3851403_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139283,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 1 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Centre Court - Day 1",
+      "team_2": "Bengaluru",
+      "status": "LIVE",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Centre Court - Day 1",
+      "startTime": "02:00:00 PM 05-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/6QUEKaZbQOS9Lnjv2kJmNQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139283_english_hls_ea5c6b725a48855_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138931,
@@ -170,18 +170,6 @@
       "startTime": "05:00:00 AM 06-01-2026"
     },
     {
-      "id": 139283,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 1 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-      "team_1": "Centre Court - Day 1",
-      "team_2": "Bengaluru",
-      "status": "UPCOMING",
-      "event_name": "ATP Challenger 125 -  Bengaluru Open",
-      "match_name": "Centre Court - Day 1",
-      "startTime": "02:00:00 PM 05-01-2026"
-    },
-    {
       "id": 139297,
       "event_category": "Football",
       "title": "Melbourne City vs Brisbane Roar (A League 2025-26)",
@@ -218,18 +206,6 @@
       "startTime": "05:30:00 AM 06-01-2026"
     },
     {
-      "id": 139205,
-      "event_category": "Tennis",
-      "title": "Center Court - Day 2 vs Hong Kong (ATP 250 - Hong Kong)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-      "team_1": "Center Court - Day 2",
-      "team_2": "Hong Kong",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Hong Kong",
-      "match_name": "Center Court - Day 2",
-      "startTime": "10:00:00 AM 06-01-2026"
-    },
-    {
       "id": 139251,
       "event_category": "Football",
       "title": "Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
@@ -240,6 +216,18 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Vietnam U23 vs Jordan U23",
       "startTime": "05:00:00 PM 06-01-2026"
+    },
+    {
+      "id": 139205,
+      "event_category": "Tennis",
+      "title": "Center Court - Day 2 vs Hong Kong (ATP 250 - Hong Kong)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+      "team_1": "Center Court - Day 2",
+      "team_2": "Hong Kong",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Hong Kong",
+      "match_name": "Center Court - Day 2",
+      "startTime": "10:00:00 AM 06-01-2026"
     },
     {
       "id": 139284,
@@ -420,6 +408,30 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Korea Republic U23 vs IR Iran U23",
       "startTime": "05:00:00 PM 07-01-2026"
+    },
+    {
+      "id": 139253,
+      "event_category": "Football",
+      "title": "Japan U23 vs Syria U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139253_5822_JP-U23_SYR-U23_fc-web.jpg",
+      "team_1": "Japan U23",
+      "team_2": "Syria U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Japan U23 vs Syria U23",
+      "startTime": "05:00:00 PM 07-01-2026"
+    },
+    {
+      "id": 139285,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 3 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Centre Court - Day 3",
+      "team_2": "Bengaluru",
+      "status": "UPCOMING",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Centre Court - Day 3",
+      "startTime": "02:00:00 PM 07-01-2026"
     }
   ]
 }
