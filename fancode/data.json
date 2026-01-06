@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 PM 06-01-2026",
+  "last update time": "04:04 PM 06-01-2026",
   "matches": [
-    {
-      "id": 139297,
-      "event_category": "Football",
-      "title": "Melbourne City vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139297_5802_MLC_BRB_fc-web.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Brisbane Roar",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Brisbane Roar",
-      "startTime": "01:30:00 PM 06-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/RK05dT4-S_aGpJYSc3mKag/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139297_english_hls_f36047abdf47496_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139188,
-      "event_category": "Tennis",
-      "title": "Pat Rafter Arena - Day 3 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Pat Rafter Arena - Day 3",
-      "team_2": "Rafter Arena, Brisbane",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Pat Rafter Arena - Day 3",
-      "startTime": "10:00:00 AM 06-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/5ihQ3SDCRUCwKJSLcF_wxw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139188_english_hls_6b8f42fb4d72441_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139205,
       "event_category": "Tennis",
@@ -96,6 +68,18 @@
       "startTime": "12:30:00 PM 07-01-2026"
     },
     {
+      "id": 139251,
+      "event_category": "Football",
+      "title": "Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg",
+      "team_1": "Vietnam U23",
+      "team_2": "Jordan U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Vietnam U23 vs Jordan U23",
+      "startTime": "05:00:00 PM 06-01-2026"
+    },
+    {
       "id": 138385,
       "event_category": "Football",
       "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
@@ -130,18 +114,6 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Ivory Coast vs Burkina Faso",
       "startTime": "12:30:00 AM 07-01-2026"
-    },
-    {
-      "id": 139251,
-      "event_category": "Football",
-      "title": "Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg",
-      "team_1": "Vietnam U23",
-      "team_2": "Jordan U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Vietnam U23 vs Jordan U23",
-      "startTime": "05:00:00 PM 06-01-2026"
     },
     {
       "id": 139252,
@@ -192,30 +164,6 @@
       "startTime": "03:30:00 AM 07-01-2026"
     },
     {
-      "id": 139191,
-      "event_category": "Tennis",
-      "title": "Show Court 1 - Day 4 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Show Court 1 - Day 4",
-      "team_2": "Show Court 1, Brisbane",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Show Court 1 - Day 4",
-      "startTime": "05:30:00 AM 07-01-2026"
-    },
-    {
-      "id": 139190,
-      "event_category": "Tennis",
-      "title": "Pat Rafter Arena - Day 4 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Pat Rafter Arena - Day 4",
-      "team_2": "Rafter Arena, Brisbane",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Pat Rafter Arena - Day 4",
-      "startTime": "05:30:00 AM 07-01-2026"
-    },
-    {
       "id": 139254,
       "event_category": "Football",
       "title": "Korea Republic U23 vs IR Iran U23 (AFC U23 Asian Cup, 2026)",
@@ -238,6 +186,30 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Japan U23 vs Syria U23",
       "startTime": "05:00:00 PM 07-01-2026"
+    },
+    {
+      "id": 139191,
+      "event_category": "Tennis",
+      "title": "Show Court 1 - Day 4 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "team_1": "Show Court 1 - Day 4",
+      "team_2": "Show Court 1, Brisbane",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Brisbane",
+      "match_name": "Show Court 1 - Day 4",
+      "startTime": "05:30:00 AM 07-01-2026"
+    },
+    {
+      "id": 139190,
+      "event_category": "Tennis",
+      "title": "Pat Rafter Arena - Day 4 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "team_1": "Pat Rafter Arena - Day 4",
+      "team_2": "Rafter Arena, Brisbane",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Brisbane",
+      "match_name": "Pat Rafter Arena - Day 4",
+      "startTime": "05:30:00 AM 07-01-2026"
     },
     {
       "id": 139206,
@@ -430,6 +402,30 @@
       "event_name": "ATP Challenger 125 -  Bengaluru Open",
       "match_name": "Centre Court - Day 4",
       "startTime": "02:00:00 PM 08-01-2026"
+    },
+    {
+      "id": 139201,
+      "event_category": "Football",
+      "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
+      "team_1": "Al Hilal SFC",
+      "team_2": "Al-Hazem FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al Hilal SFC vs Al-Hazem FC",
+      "startTime": "08:25:00 PM 08-01-2026"
+    },
+    {
+      "id": 139258,
+      "event_category": "Football",
+      "title": "Iraq U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
+      "team_1": "Iraq U23",
+      "team_2": "China PR U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Iraq U23 vs China PR U23",
+      "startTime": "07:30:00 PM 08-01-2026"
     }
   ]
 }
