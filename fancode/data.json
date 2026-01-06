@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:12 AM 06-01-2026",
+  "last update time": "10:43 AM 06-01-2026",
   "matches": [
     {
       "id": 138773,
@@ -16,20 +16,6 @@
       "startTime": "09:20:00 AM 06-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/ktyI_h1KQ-i2WCt1Ohpxdg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138773_english_hls_323b5b2c2527016_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133963,
-      "event_category": "Cricket",
-      "title": "Victoria Women vs ACT Meteors (Women's National Cricket League, 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/133963_CASACARDS_APP.png",
-      "team_1": "Victoria Women",
-      "team_2": "ACT Meteors",
-      "status": "LIVE",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Victoria Women vs ACT Meteors",
-      "startTime": "04:30:00 AM 06-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/cv7NURR_QY6aS9iT1ZcZGQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133963_english_hls_7ca9b4a79566659_1ta-di_h264/index.m3u8"
     },
     {
       "id": 133965,
@@ -86,6 +72,18 @@
       "startTime": "05:10:00 AM 07-01-2026"
     },
     {
+      "id": 138742,
+      "event_category": "Cricket",
+      "title": "Wellington Firebirds vs Central Stags (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg",
+      "team_1": "Wellington Firebirds",
+      "team_2": "Central Stags",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Wellington Firebirds vs Central Stags",
+      "startTime": "08:55:00 AM 07-01-2026"
+    },
+    {
       "id": 138385,
       "event_category": "Football",
       "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
@@ -108,18 +106,6 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Granada vs Rayo Vallecano",
       "startTime": "11:30:00 PM 06-01-2026"
-    },
-    {
-      "id": 138742,
-      "event_category": "Cricket",
-      "title": "Wellington Firebirds vs Central Stags (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg",
-      "team_1": "Wellington Firebirds",
-      "team_2": "Central Stags",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Wellington Firebirds vs Central Stags",
-      "startTime": "08:55:00 AM 07-01-2026"
     },
     {
       "id": 138382,
@@ -432,6 +418,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Western Australia Women vs South Australian Scorpions",
       "startTime": "11:30:00 AM 08-01-2026"
+    },
+    {
+      "id": 139207,
+      "event_category": "Tennis",
+      "title": "Center Court - Day 4 vs Hong Kong (ATP 250 - Hong Kong)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+      "team_1": "Center Court - Day 4",
+      "team_2": "Hong Kong",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Hong Kong",
+      "match_name": "Center Court - Day 4",
+      "startTime": "10:00:00 AM 08-01-2026"
     }
   ]
 }
