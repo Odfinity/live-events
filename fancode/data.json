@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:20 AM 06-01-2026",
+  "last update time": "10:12 AM 06-01-2026",
   "matches": [
     {
       "id": 138773,
@@ -60,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139189_english_hls_113052468285825_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139188,
+      "event_category": "Tennis",
+      "title": "Pat Rafter Arena - Day 3 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+      "team_1": "Pat Rafter Arena - Day 3",
+      "team_2": "Rafter Arena, Brisbane",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Brisbane",
+      "match_name": "Pat Rafter Arena - Day 3",
+      "startTime": "10:00:00 AM 06-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/5ihQ3SDCRUCwKJSLcF_wxw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139188_english_hls_6b8f42fb4d72441_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138774,
       "event_category": "Cricket",
       "title": "Wellington Blaze vs Central Hinds (Women's Super Smash, 2025-26)",
@@ -96,18 +110,6 @@
       "startTime": "11:30:00 PM 06-01-2026"
     },
     {
-      "id": 138382,
-      "event_category": "Football",
-      "title": "Ivory Coast vs Burkina Faso (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg",
-      "team_1": "Ivory Coast",
-      "team_2": "Burkina Faso",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Ivory Coast vs Burkina Faso",
-      "startTime": "12:30:00 AM 07-01-2026"
-    },
-    {
       "id": 138742,
       "event_category": "Cricket",
       "title": "Wellington Firebirds vs Central Stags (Super Smash, 2025-26)",
@@ -118,6 +120,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Central Stags",
       "startTime": "08:55:00 AM 07-01-2026"
+    },
+    {
+      "id": 138382,
+      "event_category": "Football",
+      "title": "Ivory Coast vs Burkina Faso (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg",
+      "team_1": "Ivory Coast",
+      "team_2": "Burkina Faso",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Ivory Coast vs Burkina Faso",
+      "startTime": "12:30:00 AM 07-01-2026"
     },
     {
       "id": 139297,
@@ -156,30 +170,6 @@
       "startTime": "09:30:00 PM 06-01-2026"
     },
     {
-      "id": 139188,
-      "event_category": "Tennis",
-      "title": "Pat Rafter Arena - Day 3 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Pat Rafter Arena - Day 3",
-      "team_2": "Rafter Arena, Brisbane",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Pat Rafter Arena - Day 3",
-      "startTime": "10:00:00 AM 06-01-2026"
-    },
-    {
-      "id": 138940,
-      "event_category": "Cricket",
-      "title": "Dhaka Capitals vs Noakhali Express (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138940_5808_DC_NOE_fc-web_1766733054889.jpg",
-      "team_1": "Dhaka Capitals",
-      "team_2": "Noakhali Express",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Dhaka Capitals vs Noakhali Express",
-      "startTime": "12:30:00 PM 07-01-2026"
-    },
-    {
       "id": 139205,
       "event_category": "Tennis",
       "title": "Center Court - Day 2 vs Hong Kong (ATP 250 - Hong Kong)",
@@ -204,6 +194,18 @@
       "startTime": "11:00:00 AM 06-01-2026"
     },
     {
+      "id": 138940,
+      "event_category": "Cricket",
+      "title": "Dhaka Capitals vs Noakhali Express (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138940_5808_DC_NOE_fc-web_1766733054889.jpg",
+      "team_1": "Dhaka Capitals",
+      "team_2": "Noakhali Express",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Dhaka Capitals vs Noakhali Express",
+      "startTime": "12:30:00 PM 07-01-2026"
+    },
+    {
       "id": 139165,
       "event_category": "Golf",
       "title": "The Bay vs Atlanta vs Florida (TGL Season 2)",
@@ -214,6 +216,18 @@
       "event_name": "TGL Season 2",
       "match_name": "The Bay vs Atlanta",
       "startTime": "03:30:00 AM 07-01-2026"
+    },
+    {
+      "id": 138941,
+      "event_category": "Cricket",
+      "title": "Chattogram Royals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138941_5808_CCH_SYL_fc-web_1766733054205.jpg",
+      "team_1": "Chattogram Royals",
+      "team_2": "Sylhet Titans",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Chattogram Royals vs Sylhet Titans",
+      "startTime": "05:30:00 PM 07-01-2026"
     },
     {
       "id": 139191,
@@ -238,18 +252,6 @@
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Pat Rafter Arena - Day 4",
       "startTime": "05:30:00 AM 07-01-2026"
-    },
-    {
-      "id": 138941,
-      "event_category": "Cricket",
-      "title": "Chattogram Royals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138941_5808_CCH_SYL_fc-web_1766733054205.jpg",
-      "team_1": "Chattogram Royals",
-      "team_2": "Sylhet Titans",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Chattogram Royals vs Sylhet Titans",
-      "startTime": "05:30:00 PM 07-01-2026"
     },
     {
       "id": 139215,
