@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:33 PM 07-01-2026",
+  "last update time": "07:19 PM 07-01-2026",
   "matches": [
     {
       "id": 138941,
@@ -16,6 +16,20 @@
       "startTime": "05:30:00 PM 07-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/Sc3EV0_YSOOoT_d_zSlKlg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138941_english_hls_48ed6eee9983049_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139215,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png",
+      "team_1": "Sri Lanka",
+      "team_2": "Pakistan",
+      "status": "LIVE",
+      "event_name": "Pakistan tour of Sri Lanka, 2026",
+      "match_name": "Sri Lanka vs Pakistan",
+      "startTime": "07:00:00 PM 07-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1767835286~acl=/*~id=24083722361771934502237631970999~hmac=be3a612bd54de0735cb9e3400c68a6a1e9851b3cff03b6e49fc8fb3ee9432a78"
     },
     {
       "id": 139254,
@@ -46,20 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139253_english_hls_4b585058b680046_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139206,
-      "event_category": "Tennis",
-      "title": "Center Court - Day 3 vs Hong Kong (ATP 250 - Hong Kong)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-      "team_1": "Center Court - Day 3",
-      "team_2": "Hong Kong",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Hong Kong",
-      "match_name": "Center Court - Day 3",
-      "startTime": "11:00:00 AM 07-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/rvRfXXMoQAqMKXmMTtG_qA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139206_english_hls_a7689c2f3e19261_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 139285,
       "event_category": "Tennis",
       "title": "Centre Court - Day 3 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
@@ -72,18 +72,6 @@
       "startTime": "12:00:00 PM 07-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/uBKDeF1kQ36yIRB1kgVeMA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139285_english_hls_b93736c6a4488_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139215,
-      "event_category": "Cricket",
-      "title": "Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png",
-      "team_1": "Sri Lanka",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of Sri Lanka, 2026",
-      "match_name": "Sri Lanka vs Pakistan",
-      "startTime": "07:00:00 PM 07-01-2026"
     },
     {
       "id": 138743,
@@ -134,18 +122,6 @@
       "startTime": "07:30:00 PM 07-01-2026"
     },
     {
-      "id": 138957,
-      "event_category": "Football",
-      "title": "FC Barcelona vs Athletic Club (SuperCopa 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-vs-Athletic-Club_fc-web.jpg",
-      "team_1": "FC Barcelona",
-      "team_2": "Athletic Club",
-      "status": "UPCOMING",
-      "event_name": "SuperCopa 2026",
-      "match_name": "FC Barcelona vs Athletic Club",
-      "startTime": "12:30:00 AM 08-01-2026"
-    },
-    {
       "id": 133964,
       "event_category": "Cricket",
       "title": "ACT Meteors vs Victoria Women (Women's National Cricket League, 2025-26)",
@@ -156,6 +132,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "ACT Meteors vs Victoria Women",
       "startTime": "04:30:00 AM 08-01-2026"
+    },
+    {
+      "id": 138957,
+      "event_category": "Football",
+      "title": "FC Barcelona vs Athletic Club (SuperCopa 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-vs-Athletic-Club_fc-web.jpg",
+      "team_1": "FC Barcelona",
+      "team_2": "Athletic Club",
+      "status": "UPCOMING",
+      "event_name": "SuperCopa 2026",
+      "match_name": "FC Barcelona vs Athletic Club",
+      "startTime": "12:30:00 AM 08-01-2026"
     },
     {
       "id": 138943,
@@ -218,6 +206,18 @@
       "startTime": "08:25:00 PM 08-01-2026"
     },
     {
+      "id": 139258,
+      "event_category": "Football",
+      "title": "Iraq U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
+      "team_1": "Iraq U23",
+      "team_2": "China PR U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Iraq U23 vs China PR U23",
+      "startTime": "07:30:00 PM 08-01-2026"
+    },
+    {
       "id": 139193,
       "event_category": "Tennis",
       "title": "Show Court 1 - Day 5 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
@@ -240,18 +240,6 @@
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Pat Rafter Arena - Day 5",
       "startTime": "05:30:00 AM 08-01-2026"
-    },
-    {
-      "id": 139258,
-      "event_category": "Football",
-      "title": "Iraq U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-      "team_1": "Iraq U23",
-      "team_2": "China PR U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Iraq U23 vs China PR U23",
-      "startTime": "07:30:00 PM 08-01-2026"
     },
     {
       "id": 139207,
@@ -432,6 +420,18 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Kyrgyz Republic U23 vs Vietnam U23",
       "startTime": "07:30:00 PM 09-01-2026"
+    },
+    {
+      "id": 138387,
+      "event_category": "Football",
+      "title": "Mali vs Senegal (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Mali",
+      "team_2": "Senegal",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Mali vs Senegal",
+      "startTime": "09:30:00 PM 09-01-2026"
     }
   ]
 }
