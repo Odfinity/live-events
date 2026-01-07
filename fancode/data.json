@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:22 AM 08-01-2026",
+  "last update time": "04:55 AM 08-01-2026",
   "matches": [
+    {
+      "id": 133964,
+      "event_category": "Cricket",
+      "title": "ACT Meteors vs Victoria Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+      "team_1": "ACT Meteors",
+      "team_2": "Victoria Women",
+      "status": "LIVE",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "ACT Meteors vs Victoria Women",
+      "startTime": "04:30:00 AM 08-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/H--yfv5eR3mxFFR9MbNWCA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133964_english_hls_c8232439ed41862_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138743,
       "event_category": "Cricket",
@@ -52,18 +66,6 @@
       "startTime": "05:30:00 PM 08-01-2026"
     },
     {
-      "id": 133964,
-      "event_category": "Cricket",
-      "title": "ACT Meteors vs Victoria Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
-      "team_1": "ACT Meteors",
-      "team_2": "Victoria Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "ACT Meteors vs Victoria Women",
-      "startTime": "04:30:00 AM 08-01-2026"
-    },
-    {
       "id": 133966,
       "event_category": "Cricket",
       "title": "Western Australia Women vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
@@ -88,18 +90,6 @@
       "startTime": "08:25:00 PM 08-01-2026"
     },
     {
-      "id": 139202,
-      "event_category": "Football",
-      "title": "Al-Nassr FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg",
-      "team_1": "Al-Nassr FC",
-      "team_2": "Al-Qadsiah FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Nassr FC vs Al-Qadsiah FC",
-      "startTime": "11:00:00 PM 08-01-2026"
-    },
-    {
       "id": 138776,
       "event_category": "Cricket",
       "title": "Wellington Blaze vs Otago Sparks (Women's Super Smash, 2025-26)",
@@ -112,16 +102,16 @@
       "startTime": "05:10:00 AM 09-01-2026"
     },
     {
-      "id": 139257,
+      "id": 139202,
       "event_category": "Football",
-      "title": "Australia U23 vs Thailand U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139257_5822_AUS-U23_THA-U23_fc-web.jpg",
-      "team_1": "Australia U23",
-      "team_2": "Thailand U23",
+      "title": "Al-Nassr FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg",
+      "team_1": "Al-Nassr FC",
+      "team_2": "Al-Qadsiah FC",
       "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Australia U23 vs Thailand U23",
-      "startTime": "05:00:00 PM 08-01-2026"
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Nassr FC vs Al-Qadsiah FC",
+      "startTime": "11:00:00 PM 08-01-2026"
     },
     {
       "id": 138958,
@@ -134,6 +124,18 @@
       "event_name": "SuperCopa 2026",
       "match_name": "Atletico de Madrid vs Real Madrid",
       "startTime": "12:30:00 AM 09-01-2026"
+    },
+    {
+      "id": 139257,
+      "event_category": "Football",
+      "title": "Australia U23 vs Thailand U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139257_5822_AUS-U23_THA-U23_fc-web.jpg",
+      "team_1": "Australia U23",
+      "team_2": "Thailand U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Australia U23 vs Thailand U23",
+      "startTime": "05:00:00 PM 08-01-2026"
     },
     {
       "id": 139258,
