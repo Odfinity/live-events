@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 PM 07-01-2026",
+  "last update time": "06:33 PM 07-01-2026",
   "matches": [
     {
       "id": 138941,
@@ -44,20 +44,6 @@
       "startTime": "05:00:00 PM 07-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/8_jiWKBvTwOHKjyP8RjAdg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139253_english_hls_4b585058b680046_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139191,
-      "event_category": "Tennis",
-      "title": "Show Court 1 - Day 4 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Show Court 1 - Day 4",
-      "team_2": "Show Court 1, Brisbane",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Show Court 1 - Day 4",
-      "startTime": "06:30:00 AM 07-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/bk5UDBBmSTe3_fLKS6SRcw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139191_english_hls_078c776f8b1233_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139206,
@@ -136,6 +122,18 @@
       "startTime": "12:30:00 PM 08-01-2026"
     },
     {
+      "id": 139255,
+      "event_category": "Football",
+      "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
+      "team_1": "Uzbekistan U23",
+      "team_2": "Lebanon U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Uzbekistan U23 vs Lebanon U23",
+      "startTime": "07:30:00 PM 07-01-2026"
+    },
+    {
       "id": 138957,
       "event_category": "Football",
       "title": "FC Barcelona vs Athletic Club (SuperCopa 2026)",
@@ -160,18 +158,6 @@
       "startTime": "04:30:00 AM 08-01-2026"
     },
     {
-      "id": 133966,
-      "event_category": "Cricket",
-      "title": "Western Australia Women vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-      "team_1": "Western Australia Women",
-      "team_2": "South Australian Scorpions",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Western Australia Women vs South Australian Scorpions",
-      "startTime": "11:30:00 AM 08-01-2026"
-    },
-    {
       "id": 138943,
       "event_category": "Cricket",
       "title": "Dhaka Capitals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
@@ -184,16 +170,16 @@
       "startTime": "05:30:00 PM 08-01-2026"
     },
     {
-      "id": 139255,
-      "event_category": "Football",
-      "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
-      "team_1": "Uzbekistan U23",
-      "team_2": "Lebanon U23",
+      "id": 133966,
+      "event_category": "Cricket",
+      "title": "Western Australia Women vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+      "team_1": "Western Australia Women",
+      "team_2": "South Australian Scorpions",
       "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Uzbekistan U23 vs Lebanon U23",
-      "startTime": "07:30:00 PM 07-01-2026"
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Western Australia Women vs South Australian Scorpions",
+      "startTime": "11:30:00 AM 08-01-2026"
     },
     {
       "id": 139256,
@@ -220,6 +206,18 @@
       "startTime": "05:00:00 PM 08-01-2026"
     },
     {
+      "id": 139201,
+      "event_category": "Football",
+      "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
+      "team_1": "Al Hilal SFC",
+      "team_2": "Al-Hazem FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al Hilal SFC vs Al-Hazem FC",
+      "startTime": "08:25:00 PM 08-01-2026"
+    },
+    {
       "id": 139193,
       "event_category": "Tennis",
       "title": "Show Court 1 - Day 5 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
@@ -244,16 +242,16 @@
       "startTime": "05:30:00 AM 08-01-2026"
     },
     {
-      "id": 139201,
+      "id": 139258,
       "event_category": "Football",
-      "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
-      "team_1": "Al Hilal SFC",
-      "team_2": "Al-Hazem FC",
+      "title": "Iraq U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
+      "team_1": "Iraq U23",
+      "team_2": "China PR U23",
       "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al Hilal SFC vs Al-Hazem FC",
-      "startTime": "08:25:00 PM 08-01-2026"
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Iraq U23 vs China PR U23",
+      "startTime": "07:30:00 PM 08-01-2026"
     },
     {
       "id": 139207,
@@ -268,16 +266,16 @@
       "startTime": "10:00:00 AM 08-01-2026"
     },
     {
-      "id": 139258,
+      "id": 139202,
       "event_category": "Football",
-      "title": "Iraq U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-      "team_1": "Iraq U23",
-      "team_2": "China PR U23",
+      "title": "Al-Nassr FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg",
+      "team_1": "Al-Nassr FC",
+      "team_2": "Al-Qadsiah FC",
       "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Iraq U23 vs China PR U23",
-      "startTime": "07:30:00 PM 08-01-2026"
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Nassr FC vs Al-Qadsiah FC",
+      "startTime": "11:00:00 PM 08-01-2026"
     },
     {
       "id": 139286,
@@ -290,18 +288,6 @@
       "event_name": "ATP Challenger 125 -  Bengaluru Open",
       "match_name": "Centre Court - Day 4",
       "startTime": "02:00:00 PM 08-01-2026"
-    },
-    {
-      "id": 139202,
-      "event_category": "Football",
-      "title": "Al-Nassr FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg",
-      "team_1": "Al-Nassr FC",
-      "team_2": "Al-Qadsiah FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Nassr FC vs Al-Qadsiah FC",
-      "startTime": "11:00:00 PM 08-01-2026"
     },
     {
       "id": 138958,
@@ -434,6 +420,18 @@
       "event_name": "ATP Challenger 125 -  Bengaluru Open",
       "match_name": "Centre Court - Day 5",
       "startTime": "02:00:00 PM 09-01-2026"
+    },
+    {
+      "id": 139259,
+      "event_category": "Football",
+      "title": "Kyrgyz Republic U23 vs Vietnam U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139259_5822_KYG-U23_VIE-U23_fc-web.jpg",
+      "team_1": "Kyrgyz Republic U23",
+      "team_2": "Vietnam U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Kyrgyz Republic U23 vs Vietnam U23",
+      "startTime": "07:30:00 PM 09-01-2026"
     }
   ]
 }
