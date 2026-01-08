@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:31 AM 08-01-2026",
+  "last update time": "11:09 AM 08-01-2026",
   "matches": [
+    {
+      "id": 138775,
+      "event_category": "Cricket",
+      "title": "Northern Brave Women vs Canterbury Magicians (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-web_1766596522081.jpg",
+      "team_1": "Northern Brave Women",
+      "team_2": "Canterbury Magicians",
+      "status": "LIVE",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Northern Brave Women vs Canterbury Magicians",
+      "startTime": "10:50:00 AM 08-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/bfrVSvmCRNyMoS-oPcMpqw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138775_english_hls_c78ed37c3f20696_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 133964,
       "event_category": "Cricket",
@@ -46,16 +60,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139192_english_hls_e98641726f75876_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138775,
-      "event_category": "Cricket",
-      "title": "Northern Brave Women vs Canterbury Magicians (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-web_1766596522081.jpg",
-      "team_1": "Northern Brave Women",
-      "team_2": "Canterbury Magicians",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Northern Brave Women vs Canterbury Magicians",
-      "startTime": "10:50:00 AM 08-01-2026"
+      "id": 139207,
+      "event_category": "Tennis",
+      "title": "Center Court - Day 4 vs Hong Kong (ATP 250 - Hong Kong)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+      "team_1": "Center Court - Day 4",
+      "team_2": "Hong Kong",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Hong Kong",
+      "match_name": "Center Court - Day 4",
+      "startTime": "11:00:00 AM 08-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/y9eMffdqTmqbdql6zL3pNg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139207_english_hls_98c1615b9493405_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139286,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 4 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Centre Court - Day 4",
+      "team_2": "Bengaluru",
+      "status": "LIVE",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Centre Court - Day 4",
+      "startTime": "11:00:00 AM 08-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/lY8IWOajTWmTTXsV0kSgZQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139286_english_hls_cde3a41cb797754_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138942,
@@ -82,18 +112,6 @@
       "startTime": "05:30:00 PM 08-01-2026"
     },
     {
-      "id": 138776,
-      "event_category": "Cricket",
-      "title": "Wellington Blaze vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138776_5801_WB-W_OS-W_fc-web_1766596522100.jpg",
-      "team_1": "Wellington Blaze",
-      "team_2": "Otago Sparks",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Wellington Blaze vs Otago Sparks",
-      "startTime": "05:10:00 AM 09-01-2026"
-    },
-    {
       "id": 133966,
       "event_category": "Cricket",
       "title": "Western Australia Women vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
@@ -106,16 +124,16 @@
       "startTime": "11:30:00 AM 08-01-2026"
     },
     {
-      "id": 139201,
-      "event_category": "Football",
-      "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
-      "team_1": "Al Hilal SFC",
-      "team_2": "Al-Hazem FC",
+      "id": 138776,
+      "event_category": "Cricket",
+      "title": "Wellington Blaze vs Otago Sparks (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138776_5801_WB-W_OS-W_fc-web_1766596522100.jpg",
+      "team_1": "Wellington Blaze",
+      "team_2": "Otago Sparks",
       "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al Hilal SFC vs Al-Hazem FC",
-      "startTime": "08:25:00 PM 08-01-2026"
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Wellington Blaze vs Otago Sparks",
+      "startTime": "05:10:00 AM 09-01-2026"
     },
     {
       "id": 138744,
@@ -128,6 +146,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Otago Volts",
       "startTime": "08:55:00 AM 09-01-2026"
+    },
+    {
+      "id": 139201,
+      "event_category": "Football",
+      "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
+      "team_1": "Al Hilal SFC",
+      "team_2": "Al-Hazem FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al Hilal SFC vs Al-Hazem FC",
+      "startTime": "08:25:00 PM 08-01-2026"
     },
     {
       "id": 139202,
@@ -178,30 +208,6 @@
       "startTime": "07:30:00 PM 08-01-2026"
     },
     {
-      "id": 139207,
-      "event_category": "Tennis",
-      "title": "Center Court - Day 4 vs Hong Kong (ATP 250 - Hong Kong)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-      "team_1": "Center Court - Day 4",
-      "team_2": "Hong Kong",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Hong Kong",
-      "match_name": "Center Court - Day 4",
-      "startTime": "11:00:00 AM 08-01-2026"
-    },
-    {
-      "id": 139286,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 4 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-      "team_1": "Centre Court - Day 4",
-      "team_2": "Bengaluru",
-      "status": "UPCOMING",
-      "event_name": "ATP Challenger 125 -  Bengaluru Open",
-      "match_name": "Centre Court - Day 4",
-      "startTime": "11:00:00 AM 08-01-2026"
-    },
-    {
       "id": 138944,
       "event_category": "Cricket",
       "title": "Rajshahi Warriors vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -212,6 +218,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rajshahi Warriors vs Chattogram Royals",
       "startTime": "01:30:00 PM 09-01-2026"
+    },
+    {
+      "id": 138945,
+      "event_category": "Cricket",
+      "title": "Noakhali Express vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138945_5808_NOE_RAN_fc-web_1766733054323.jpg",
+      "team_1": "Noakhali Express",
+      "team_2": "Rangpur Riders",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Noakhali Express vs Rangpur Riders",
+      "startTime": "06:30:00 PM 09-01-2026"
     },
     {
       "id": 139195,
@@ -236,18 +254,6 @@
       "event_name": "ATP 250 - Brisbane",
       "match_name": "Pat Rafter Arena - Day 6",
       "startTime": "07:00:00 AM 09-01-2026"
-    },
-    {
-      "id": 138945,
-      "event_category": "Cricket",
-      "title": "Noakhali Express vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138945_5808_NOE_RAN_fc-web_1766733054323.jpg",
-      "team_1": "Noakhali Express",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Noakhali Express vs Rangpur Riders",
-      "startTime": "06:30:00 PM 09-01-2026"
     },
     {
       "id": 138819,
