@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:18 PM 09-01-2026",
+  "last update time": "12:45 PM 09-01-2026",
   "matches": [
     {
       "id": 139195,
@@ -44,20 +44,6 @@
       "startTime": "11:00:00 AM 09-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/Io8EvZLoQkCU54-4ojjbkQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139208_english_hls_ce83ebd80a67417_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138744,
-      "event_category": "Cricket",
-      "title": "Wellington Firebirds vs Otago Volts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138744_5800_WF_OV_fc-web_1766641251007.jpg",
-      "team_1": "Wellington Firebirds",
-      "team_2": "Otago Volts",
-      "status": "LIVE",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Wellington Firebirds vs Otago Volts",
-      "startTime": "08:55:00 AM 09-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/i7jjI6-lTWWdnxjG8GmPWA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138744_english_hls_8010d2ef0246899_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138944,
@@ -132,18 +118,6 @@
       "startTime": "08:30:00 PM 09-01-2026"
     },
     {
-      "id": 138387,
-      "event_category": "Football",
-      "title": "Mali vs Senegal (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Mali",
-      "team_2": "Senegal",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Mali vs Senegal",
-      "startTime": "09:30:00 PM 09-01-2026"
-    },
-    {
       "id": 138745,
       "event_category": "Cricket",
       "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
@@ -154,6 +128,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Canterbury vs Auckland Aces",
       "startTime": "10:25:00 AM 10-01-2026"
+    },
+    {
+      "id": 138387,
+      "event_category": "Football",
+      "title": "Mali vs Senegal (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Mali",
+      "team_2": "Senegal",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Mali vs Senegal",
+      "startTime": "09:30:00 PM 09-01-2026"
     },
     {
       "id": 139203,
@@ -384,18 +370,6 @@
       "startTime": "12:30:00 PM 10-01-2026"
     },
     {
-      "id": 139288,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-      "team_1": "Centre Court - Day 6",
-      "team_2": "Bengaluru",
-      "status": "UPCOMING",
-      "event_name": "ATP Challenger 125 -  Bengaluru Open",
-      "match_name": "Centre Court - Day 6",
-      "startTime": "02:00:00 PM 10-01-2026"
-    },
-    {
       "id": 139575,
       "event_category": "Cricket",
       "title": "Renaissance Challengers vs Majees Titans (Oman Super League T20, 2026)",
@@ -406,6 +380,18 @@
       "event_name": "Oman Super League T20, 2026",
       "match_name": "Renaissance Challengers vs Majees Titans",
       "startTime": "08:30:00 PM 10-01-2026"
+    },
+    {
+      "id": 139288,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Centre Court - Day 6",
+      "team_2": "Bengaluru",
+      "status": "UPCOMING",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Centre Court - Day 6",
+      "startTime": "02:00:00 PM 10-01-2026"
     },
     {
       "id": 131010,
