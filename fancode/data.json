@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:04 PM 09-01-2026",
+  "last update time": "09:23 PM 09-01-2026",
   "matches": [
     {
       "id": 138945,
@@ -90,10 +90,24 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-Senegal_fc-web.jpg",
       "team_1": "Mali",
       "team_2": "Senegal",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Mali vs Senegal",
-      "startTime": "09:30:00 PM 09-01-2026"
+      "startTime": "09:30:00 PM 09-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/nO9v91wvT56b2qlEbuOF6g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139260,
+      "event_category": "Football",
+      "title": "Jordan U23 vs Saudi Arabia U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139260_5822_JOR-U23_SU-U23_fc-web.jpg",
+      "team_1": "Jordan U23",
+      "team_2": "Saudi Arabia U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Jordan U23 vs Saudi Arabia U23",
+      "startTime": "10:00:00 PM 09-01-2026"
     },
     {
       "id": 139203,
@@ -132,16 +146,16 @@
       "startTime": "01:30:00 AM 10-01-2026"
     },
     {
-      "id": 139260,
-      "event_category": "Football",
-      "title": "Jordan U23 vs Saudi Arabia U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139260_5822_JOR-U23_SU-U23_fc-web.jpg",
-      "team_1": "Jordan U23",
-      "team_2": "Saudi Arabia U23",
+      "id": 139574,
+      "event_category": "Cricket",
+      "title": "IAS Invincibles vs Yalla Shabab Giants (Oman Super League T20, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
+      "team_1": "IAS Invincibles",
+      "team_2": "Yalla Shabab Giants",
       "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Jordan U23 vs Saudi Arabia U23",
-      "startTime": "10:00:00 PM 09-01-2026"
+      "event_name": "Oman Super League T20, 2026",
+      "match_name": "IAS Invincibles vs Yalla Shabab Giants",
+      "startTime": "04:30:00 PM 10-01-2026"
     },
     {
       "id": 139247,
@@ -154,18 +168,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Cádiz vs Sporting de Gijón",
       "startTime": "01:00:00 AM 10-01-2026"
-    },
-    {
-      "id": 139574,
-      "event_category": "Cricket",
-      "title": "IAS Invincibles vs Yalla Shabab Giants (Oman Super League T20, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
-      "team_1": "IAS Invincibles",
-      "team_2": "Yalla Shabab Giants",
-      "status": "UPCOMING",
-      "event_name": "Oman Super League T20, 2026",
-      "match_name": "IAS Invincibles vs Yalla Shabab Giants",
-      "startTime": "04:30:00 PM 10-01-2026"
     },
     {
       "id": 138820,
@@ -372,18 +374,6 @@
       "startTime": "01:00:00 PM 10-01-2026"
     },
     {
-      "id": 139288,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-      "team_1": "Centre Court - Day 6",
-      "team_2": "Bengaluru",
-      "status": "UPCOMING",
-      "event_name": "ATP Challenger 125 -  Bengaluru Open",
-      "match_name": "Centre Court - Day 6",
-      "startTime": "02:00:00 PM 10-01-2026"
-    },
-    {
       "id": 139248,
       "event_category": "Football",
       "title": "Las Palmas vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
@@ -396,6 +386,18 @@
       "startTime": "11:00:00 PM 10-01-2026"
     },
     {
+      "id": 139288,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Centre Court - Day 6",
+      "team_2": "Bengaluru",
+      "status": "UPCOMING",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Centre Court - Day 6",
+      "startTime": "02:00:00 PM 10-01-2026"
+    },
+    {
       "id": 131014,
       "event_category": "Football",
       "title": "Valencia CF vs Elche CF (LALIGA 2025-26)",
@@ -406,6 +408,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia CF vs Elche CF",
       "startTime": "01:30:00 AM 11-01-2026"
+    },
+    {
+      "id": 138778,
+      "event_category": "Cricket",
+      "title": "Wellington Blaze vs Northern Brave Women (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138778_5801_WB-W_NB-W_fc-web_1766596522077.jpg",
+      "team_1": "Wellington Blaze",
+      "team_2": "Northern Brave Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Wellington Blaze vs Northern Brave Women",
+      "startTime": "05:10:00 AM 11-01-2026"
     }
   ]
 }
