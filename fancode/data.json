@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:44 PM 09-01-2026",
+  "last update time": "03:15 PM 09-01-2026",
   "matches": [
     {
       "id": 138944,
@@ -30,20 +30,6 @@
       "startTime": "02:05:00 PM 09-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/9z7dn-QcRI63k1BjXqxsPQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138819_english_hls_0e8076fa1729415_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139195,
-      "event_category": "Tennis",
-      "title": "Show Court 1 - Day 6 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-      "team_1": "Show Court 1 - Day 6",
-      "team_2": "Show Court 1, Brisbane",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Brisbane",
-      "match_name": "Show Court 1 - Day 6",
-      "startTime": "07:00:00 AM 09-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/0mAgArjqT_-t4aAQhRNFUw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139195_english_hls_7bfdfb96f343630_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139194,
@@ -340,18 +326,6 @@
       "startTime": "05:00:00 PM 10-01-2026"
     },
     {
-      "id": 139209,
-      "event_category": "Tennis",
-      "title": "Center Court - Day 6 vs Hong Kong (ATP 250 - Hong Kong)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-      "team_1": "Center Court - Day 6",
-      "team_2": "Hong Kong",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Hong Kong",
-      "match_name": "Center Court - Day 6",
-      "startTime": "12:00:00 PM 10-01-2026"
-    },
-    {
       "id": 139575,
       "event_category": "Cricket",
       "title": "Renaissance Challengers vs Majees Titans (Oman Super League T20, 2026)",
@@ -362,6 +336,18 @@
       "event_name": "Oman Super League T20, 2026",
       "match_name": "Renaissance Challengers vs Majees Titans",
       "startTime": "08:30:00 PM 10-01-2026"
+    },
+    {
+      "id": 139209,
+      "event_category": "Tennis",
+      "title": "Center Court - Day 6 vs Hong Kong (ATP 250 - Hong Kong)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+      "team_1": "Center Court - Day 6",
+      "team_2": "Hong Kong",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Hong Kong",
+      "match_name": "Center Court - Day 6",
+      "startTime": "12:00:00 PM 10-01-2026"
     },
     {
       "id": 139368,
@@ -388,18 +374,6 @@
       "startTime": "08:45:00 PM 10-01-2026"
     },
     {
-      "id": 139288,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-      "team_1": "Centre Court - Day 6",
-      "team_2": "Bengaluru",
-      "status": "UPCOMING",
-      "event_name": "ATP Challenger 125 -  Bengaluru Open",
-      "match_name": "Centre Court - Day 6",
-      "startTime": "02:00:00 PM 10-01-2026"
-    },
-    {
       "id": 139263,
       "event_category": "Football",
       "title": "IR Iran U23 vs Uzbekistan U23 (AFC U23 Asian Cup, 2026)",
@@ -412,6 +386,18 @@
       "startTime": "07:30:00 PM 10-01-2026"
     },
     {
+      "id": 139288,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Centre Court - Day 6",
+      "team_2": "Bengaluru",
+      "status": "UPCOMING",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Centre Court - Day 6",
+      "startTime": "02:00:00 PM 10-01-2026"
+    },
+    {
       "id": 138389,
       "event_category": "Football",
       "title": "Algeria vs Nigeria (Africa Cup of Nations 2025-26)",
@@ -422,6 +408,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Algeria vs Nigeria",
       "startTime": "09:30:00 PM 10-01-2026"
+    },
+    {
+      "id": 131019,
+      "event_category": "Football",
+      "title": "Girona FC vs CA Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1767595548457.png",
+      "team_1": "Girona FC",
+      "team_2": "CA Osasuna",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Girona FC vs CA Osasuna",
+      "startTime": "11:00:00 PM 10-01-2026"
     }
   ]
 }
