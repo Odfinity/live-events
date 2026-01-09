@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:00 AM 10-01-2026",
+  "last update time": "04:18 AM 10-01-2026",
   "matches": [
-    {
-      "id": 131018,
-      "event_category": "Football",
-      "title": "Getafe CF vs Real Sociedad (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131018_5427_GEF_RS_fc-Web.png",
-      "team_1": "Getafe CF",
-      "team_2": "Real Sociedad",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs Real Sociedad",
-      "startTime": "01:30:00 AM 10-01-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131018_english_hls_8ed270d21f40954_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131018_english_hls_8ed270d21f40954_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138777,
       "event_category": "Cricket",
@@ -138,18 +124,6 @@
       "startTime": "11:30:00 AM 10-01-2026"
     },
     {
-      "id": 138821,
-      "event_category": "Football",
-      "title": "Macarthur vs Sydney FC (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138821_5802_MAC_SYD_fc-web.jpg",
-      "team_1": "Macarthur",
-      "team_2": "Sydney FC",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Macarthur vs Sydney FC",
-      "startTime": "02:05:00 PM 10-01-2026"
-    },
-    {
       "id": 138778,
       "event_category": "Cricket",
       "title": "Wellington Blaze vs Northern Brave Women (Women's Super Smash, 2025-26)",
@@ -160,6 +134,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Wellington Blaze vs Northern Brave Women",
       "startTime": "05:10:00 AM 11-01-2026"
+    },
+    {
+      "id": 138821,
+      "event_category": "Football",
+      "title": "Macarthur vs Sydney FC (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138821_5802_MAC_SYD_fc-web.jpg",
+      "team_1": "Macarthur",
+      "team_2": "Sydney FC",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Macarthur vs Sydney FC",
+      "startTime": "02:05:00 PM 10-01-2026"
     },
     {
       "id": 138822,
@@ -400,6 +386,18 @@
       "event_name": "ATP 250 - Hong Kong",
       "match_name": "Center Court - Day 7",
       "startTime": "12:00:00 PM 11-01-2026"
+    },
+    {
+      "id": 139305,
+      "event_category": "Football",
+      "title": "Manchester City Women vs Everton Women (Women's Super League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139305_CASACARDS_APP.png",
+      "team_1": "Manchester City Women",
+      "team_2": "Everton Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Manchester City Women vs Everton Women",
+      "startTime": "05:30:00 PM 11-01-2026"
     }
   ]
 }
