@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:08 AM 10-01-2026",
+  "last update time": "12:30 AM 10-01-2026",
   "matches": [
     {
       "id": 139573,
@@ -32,6 +32,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139203_english_hls_3a37c84ef261787_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 138388,
+      "event_category": "Football",
+      "title": "Cameroon vs Morocco (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cameroon-vs-Morocco_fc-web.jpg",
+      "team_1": "Cameroon",
+      "team_2": "Morocco",
+      "status": "LIVE",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Cameroon vs Morocco",
+      "startTime": "12:30:00 AM 10-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/3cjKBq4iR-KlNNZUcH7MEQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138388_english_hls_b50450f5227461_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 139260,
       "event_category": "Football",
       "title": "Jordan U23 vs Saudi Arabia U23 (AFC U23 Asian Cup, 2026)",
@@ -44,20 +58,6 @@
       "startTime": "10:00:00 PM 09-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/8FqNRkQlR7-S8E7VzOTawA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139260_english_hls_5dd96706e371962_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138387,
-      "event_category": "Football",
-      "title": "Mali vs Senegal (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-Senegal_fc-web.jpg",
-      "team_1": "Mali",
-      "team_2": "Senegal",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Mali vs Senegal",
-      "startTime": "09:30:00 PM 09-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/nO9v91wvT56b2qlEbuOF6g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138777,
@@ -84,16 +84,16 @@
       "startTime": "10:25:00 AM 10-01-2026"
     },
     {
-      "id": 138388,
+      "id": 139247,
       "event_category": "Football",
-      "title": "Cameroon vs Morocco (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cameroon-vs-Morocco_fc-web.jpg",
-      "team_1": "Cameroon",
-      "team_2": "Morocco",
+      "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139247_CASACARDS_APP.png",
+      "team_1": "Cádiz",
+      "team_2": "Sporting de Gijón",
       "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Cameroon vs Morocco",
-      "startTime": "12:30:00 AM 10-01-2026"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Cádiz vs Sporting de Gijón",
+      "startTime": "01:00:00 AM 10-01-2026"
     },
     {
       "id": 131018,
@@ -144,16 +144,16 @@
       "startTime": "06:30:00 PM 10-01-2026"
     },
     {
-      "id": 139247,
-      "event_category": "Football",
-      "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139247_CASACARDS_APP.png",
-      "team_1": "Cádiz",
-      "team_2": "Sporting de Gijón",
+      "id": 139575,
+      "event_category": "Cricket",
+      "title": "Renaissance Challengers vs Majees Titans (Oman Super League T20, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
+      "team_1": "Renaissance Challengers",
+      "team_2": "Majees Titans",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Cádiz vs Sporting de Gijón",
-      "startTime": "01:00:00 AM 10-01-2026"
+      "event_name": "Oman Super League T20, 2026",
+      "match_name": "Renaissance Challengers vs Majees Titans",
+      "startTime": "08:30:00 PM 10-01-2026"
     },
     {
       "id": 138820,
@@ -168,16 +168,16 @@
       "startTime": "11:30:00 AM 10-01-2026"
     },
     {
-      "id": 139575,
-      "event_category": "Cricket",
-      "title": "Renaissance Challengers vs Majees Titans (Oman Super League T20, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
-      "team_1": "Renaissance Challengers",
-      "team_2": "Majees Titans",
+      "id": 131010,
+      "event_category": "Football",
+      "title": "Villarreal CF vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131010_5427_VIL_ALA_fc-Web.png",
+      "team_1": "Villarreal CF",
+      "team_2": "Deportivo Alaves",
       "status": "UPCOMING",
-      "event_name": "Oman Super League T20, 2026",
-      "match_name": "Renaissance Challengers vs Majees Titans",
-      "startTime": "08:30:00 PM 10-01-2026"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Villarreal CF vs Deportivo Alaves",
+      "startTime": "08:45:00 PM 10-01-2026"
     },
     {
       "id": 138821,
@@ -192,16 +192,16 @@
       "startTime": "02:05:00 PM 10-01-2026"
     },
     {
-      "id": 131010,
+      "id": 138389,
       "event_category": "Football",
-      "title": "Villarreal CF vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131010_5427_VIL_ALA_fc-Web.png",
-      "team_1": "Villarreal CF",
-      "team_2": "Deportivo Alaves",
+      "title": "Algeria vs Nigeria (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Algeria",
+      "team_2": "Nigeria",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Villarreal CF vs Deportivo Alaves",
-      "startTime": "08:45:00 PM 10-01-2026"
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Algeria vs Nigeria",
+      "startTime": "09:30:00 PM 10-01-2026"
     },
     {
       "id": 138822,
@@ -214,18 +214,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Perth Glory vs Central Coast Mariners",
       "startTime": "04:15:00 PM 10-01-2026"
-    },
-    {
-      "id": 138389,
-      "event_category": "Football",
-      "title": "Algeria vs Nigeria (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Algeria",
-      "team_2": "Nigeria",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Algeria vs Nigeria",
-      "startTime": "09:30:00 PM 10-01-2026"
     },
     {
       "id": 139262,
@@ -406,6 +394,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Northern Districts",
       "startTime": "08:55:00 AM 11-01-2026"
+    },
+    {
+      "id": 138823,
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Adelaide United (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138823_5802_WEL_ADL_fc-web.jpg",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Adelaide United",
+      "startTime": "07:30:00 AM 11-01-2026"
     }
   ]
 }
