@@ -1,35 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 10-01-2026",
+  "last update time": "02:05 PM 10-01-2026",
   "matches": [
     {
-      "id": 138745,
-      "event_category": "Cricket",
-      "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138745_5800_CTB_AA_fc-web_1766641251005.jpg",
-      "team_1": "Canterbury",
-      "team_2": "Auckland Aces",
-      "status": "LIVE",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Canterbury vs Auckland Aces",
-      "startTime": "10:25:00 AM 10-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/piQrGru1Q8eu0LnnDxwlZQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138745_english_hls_8f03bdbe1325766_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138820,
+      "id": 138821,
       "event_category": "Football",
-      "title": "Melbourne Victory vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138820_5802_MLV_SYW_fc-web.jpg",
-      "team_1": "Melbourne Victory",
-      "team_2": "Western Sydney Wanderers",
+      "title": "Macarthur vs Sydney FC (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138821_5802_MAC_SYD_fc-web.jpg",
+      "team_1": "Macarthur",
+      "team_2": "Sydney FC",
       "status": "LIVE",
       "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Western Sydney Wanderers",
-      "startTime": "11:30:00 AM 10-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/5DKTePWmRi2rI9ay6craMA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138820_english_hls_bbf241124447845_1ta-di_h264/index.m3u8"
+      "match_name": "Macarthur vs Sydney FC",
+      "startTime": "02:05:00 PM 10-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/DcPEOym4Sqe_1rST4nCKhw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138821_english_hls_2072bc5cba47760_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139196,
@@ -74,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139209_english_hls_718840a7e222978_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 138745,
+      "event_category": "Cricket",
+      "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138745_5800_CTB_AA_fc-web_1766641251005.jpg",
+      "team_1": "Canterbury",
+      "team_2": "Auckland Aces",
+      "status": "LIVE",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Canterbury vs Auckland Aces",
+      "startTime": "10:25:00 AM 10-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/piQrGru1Q8eu0LnnDxwlZQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138745_english_hls_8f03bdbe1325766_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138778,
       "event_category": "Cricket",
       "title": "Wellington Blaze vs Northern Brave Women (Women's Super Smash, 2025-26)",
@@ -96,18 +96,6 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Wellington Firebirds vs Northern Districts",
       "startTime": "08:55:00 AM 11-01-2026"
-    },
-    {
-      "id": 138821,
-      "event_category": "Football",
-      "title": "Macarthur vs Sydney FC (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138821_5802_MAC_SYD_fc-web.jpg",
-      "team_1": "Macarthur",
-      "team_2": "Sydney FC",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Macarthur vs Sydney FC",
-      "startTime": "02:05:00 PM 10-01-2026"
     },
     {
       "id": 139574,
@@ -350,18 +338,6 @@
       "startTime": "11:30:00 AM 11-01-2026"
     },
     {
-      "id": 139288,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-      "team_1": "Centre Court - Day 6",
-      "team_2": "Bengaluru",
-      "status": "UPCOMING",
-      "event_name": "ATP Challenger 125 -  Bengaluru Open",
-      "match_name": "Centre Court - Day 6",
-      "startTime": "04:00:00 PM 10-01-2026"
-    },
-    {
       "id": 139217,
       "event_category": "Cricket",
       "title": "Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)",
@@ -372,6 +348,18 @@
       "event_name": "Pakistan tour of Sri Lanka, 2026",
       "match_name": "Sri Lanka vs Pakistan",
       "startTime": "07:00:00 PM 11-01-2026"
+    },
+    {
+      "id": 139288,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+      "team_1": "Centre Court - Day 6",
+      "team_2": "Bengaluru",
+      "status": "UPCOMING",
+      "event_name": "ATP Challenger 125 -  Bengaluru Open",
+      "match_name": "Centre Court - Day 6",
+      "startTime": "04:00:00 PM 10-01-2026"
     },
     {
       "id": 139305,
@@ -420,6 +408,18 @@
       "event_name": "Women's Super League 2025-26",
       "match_name": "Chelsea F.C. Women vs West Ham United Women",
       "startTime": "05:30:00 PM 11-01-2026"
+    },
+    {
+      "id": 131016,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131016_5427_RVL_MRC_fc-Web_1767595288796.png",
+      "team_1": "Rayo Vallecano",
+      "team_2": "RCD Mallorca",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs RCD Mallorca",
+      "startTime": "06:30:00 PM 11-01-2026"
     }
   ]
 }
