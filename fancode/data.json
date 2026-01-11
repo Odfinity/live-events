@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:33 AM 11-01-2026",
+  "last update time": "10:25 AM 11-01-2026",
   "matches": [
     {
       "id": 138746,
@@ -16,20 +16,6 @@
       "startTime": "08:55:00 AM 11-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/ifC2FSsJQ5C3rxMFqY7vNg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138746_english_hls_cc56011f2922595_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138823,
-      "event_category": "Football",
-      "title": "Wellington Phoenix vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138823_5802_WEL_ADL_fc-web.jpg",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Adelaide United",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Wellington Phoenix vs Adelaide United",
-      "startTime": "07:30:00 AM 11-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/fX2LJ0CXQHqgujKVYdbVug/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138823_english_hls_50dcd4d2b33546_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138938,
@@ -164,18 +150,6 @@
       "startTime": "08:45:00 PM 11-01-2026"
     },
     {
-      "id": 138959,
-      "event_category": "Football",
-      "title": "FC Barcelona vs Real Madrid (SuperCopa 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-web.jpg",
-      "team_1": "FC Barcelona",
-      "team_2": "Real Madrid",
-      "status": "UPCOMING",
-      "event_name": "SuperCopa 2026",
-      "match_name": "FC Barcelona vs Real Madrid",
-      "startTime": "12:30:00 AM 12-01-2026"
-    },
-    {
       "id": 138747,
       "event_category": "Cricket",
       "title": "Otago Volts vs Auckland Aces (Super Smash, 2025-26)",
@@ -186,6 +160,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Otago Volts vs Auckland Aces",
       "startTime": "08:55:00 AM 12-01-2026"
+    },
+    {
+      "id": 138959,
+      "event_category": "Football",
+      "title": "FC Barcelona vs Real Madrid (SuperCopa 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-web.jpg",
+      "team_1": "FC Barcelona",
+      "team_2": "Real Madrid",
+      "status": "UPCOMING",
+      "event_name": "SuperCopa 2026",
+      "match_name": "FC Barcelona vs Real Madrid",
+      "startTime": "12:30:00 AM 12-01-2026"
     },
     {
       "id": 138824,
@@ -426,6 +412,30 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Central Stags vs Northern Districts",
       "startTime": "10:25:00 AM 13-01-2026"
+    },
+    {
+      "id": 139535,
+      "event_category": "Tennis",
+      "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+      "team_1": "Show Court 1 - Day 2",
+      "team_2": "Adelaide",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Show Court 1 - Day 2",
+      "startTime": "05:00:00 AM 13-01-2026"
+    },
+    {
+      "id": 139534,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+      "team_1": "Centre Court - Day 2",
+      "team_2": "Adelaide",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 2",
+      "startTime": "05:00:00 AM 13-01-2026"
     }
   ]
 }
