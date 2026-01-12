@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:09 AM 13-01-2026",
+  "last update time": "12:31 AM 13-01-2026",
   "matches": [
     {
       "id": 139357,
@@ -18,34 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139357_english_hls_2614494daf79038_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139268,
-      "event_category": "Football",
-      "title": "Jordan U23 vs Kyrgyz Republic U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139268_5822_JOR-U23_KYG-U23_fc-web.jpg",
-      "team_1": "Jordan U23",
-      "team_2": "Kyrgyz Republic U23",
-      "status": "LIVE",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Jordan U23 vs Kyrgyz Republic U23",
-      "startTime": "10:00:00 PM 12-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Ow4RJYQ5RIaVSYyW7w3PAw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139268_english_hls_63b31d136a76601_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139267,
-      "event_category": "Football",
-      "title": "Saudi Arabia U23 vs Vietnam U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139267_5822_SU-U23_VIE-U23_fc-web.jpg",
-      "team_1": "Saudi Arabia U23",
-      "team_2": "Vietnam U23",
-      "status": "LIVE",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Saudi Arabia U23 vs Vietnam U23",
-      "startTime": "10:00:00 PM 12-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/WuMipmWjRaWe6OIoqG1w9w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139267_english_hls_e99d09524030874_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 138780,
       "event_category": "Cricket",
       "title": "Central Hinds vs Northern Brave Women (Women's Super Smash, 2025-26)",
@@ -58,18 +30,6 @@
       "startTime": "06:40:00 AM 13-01-2026"
     },
     {
-      "id": 139666,
-      "event_category": "Cricket",
-      "title": "V N Sule vs Dyandeep Seva Mandal (Giles Shield 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-      "team_1": "V N Sule",
-      "team_2": "Dyandeep Seva Mandal",
-      "status": "PAUSED",
-      "event_name": "Giles Shield 2026",
-      "match_name": "V N Sule vs Dyandeep Seva Mandal",
-      "startTime": "09:30:00 AM 12-01-2026"
-    },
-    {
       "id": 138748,
       "event_category": "Cricket",
       "title": "Central Stags vs Northern Districts (Super Smash, 2025-26)",
@@ -80,6 +40,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Central Stags vs Northern Districts",
       "startTime": "10:25:00 AM 13-01-2026"
+    },
+    {
+      "id": 139666,
+      "event_category": "Cricket",
+      "title": "V N Sule vs Dyandeep Seva Mandal (Giles Shield 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team_1": "V N Sule",
+      "team_2": "Dyandeep Seva Mandal",
+      "status": "PAUSED",
+      "event_name": "Giles Shield 2026",
+      "match_name": "V N Sule vs Dyandeep Seva Mandal",
+      "startTime": "09:30:00 AM 12-01-2026"
     },
     {
       "id": 131013,
@@ -416,6 +388,30 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Senegal vs Egypt",
       "startTime": "10:30:00 PM 14-01-2026"
+    },
+    {
+      "id": 139359,
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Al Taawoun",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ahli Saudi FC vs Al Taawoun",
+      "startTime": "11:00:00 PM 14-01-2026"
+    },
+    {
+      "id": 138392,
+      "event_category": "Football",
+      "title": "Nigeria vs Morocco (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg",
+      "team_1": "Nigeria",
+      "team_2": "Morocco",
+      "status": "UPCOMING",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Nigeria vs Morocco",
+      "startTime": "01:30:00 AM 15-01-2026"
     }
   ]
 }
