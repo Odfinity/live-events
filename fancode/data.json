@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:25 PM 13-01-2026",
+  "last update time": "04:56 PM 13-01-2026",
   "matches": [
-    {
-      "id": 139666,
-      "event_category": "Cricket",
-      "title": "V N Sule vs Dyandeep Seva Mandal (Giles Shield 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-      "team_1": "V N Sule",
-      "team_2": "Dyandeep Seva Mandal",
-      "status": "LIVE",
-      "event_name": "Giles Shield 2026",
-      "match_name": "V N Sule vs Dyandeep Seva Mandal",
-      "startTime": "09:30:00 AM 12-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/FxPRf-LpRDy8MUFZjSBLgQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b995755_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139667,
-      "event_category": "Cricket",
-      "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-      "team_1": "Swami Vivekanand",
-      "team_2": "Rizvi",
-      "status": "LIVE",
-      "event_name": "Giles Shield 2026",
-      "match_name": "Swami Vivekanand vs Rizvi",
-      "startTime": "09:45:00 AM 13-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Pcufrvu_SPyvICKEKFGYxw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f25978_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139578,
       "event_category": "Cricket",
@@ -44,6 +16,58 @@
       "startTime": "04:00:00 PM 13-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/GUnrrKPnSxurHarE_xpU5A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139578_english_hls_ec30856ae549689_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139270,
+      "event_category": "Football",
+      "title": "IR Iran U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139270_5822_IRN-U23_LEB-U23_fc-web.jpg",
+      "team_1": "IR Iran U23",
+      "team_2": "Lebanon U23",
+      "status": "LIVE",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "IR Iran U23 vs Lebanon U23",
+      "startTime": "05:00:00 PM 13-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/wEjuVldyTvWIkBdDSBPHnw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139270_english_hls_eb382f054113596_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139269,
+      "event_category": "Football",
+      "title": "Uzbekistan U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139269_5822_UZB-U23_KR-U23_fc-web.jpg",
+      "team_1": "Uzbekistan U23",
+      "team_2": "Korea Republic U23",
+      "status": "LIVE",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Uzbekistan U23 vs Korea Republic U23",
+      "startTime": "05:00:00 PM 13-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/BYQKVvCbQsuah2Df1JY_dQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139269_english_hls_366306b3e325277_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139666,
+      "event_category": "Cricket",
+      "title": "V N Sule vs Dyandeep Seva Mandal (Giles Shield 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team_1": "V N Sule",
+      "team_2": "Dyandeep Seva Mandal",
+      "status": "PAUSED",
+      "event_name": "Giles Shield 2026",
+      "match_name": "V N Sule vs Dyandeep Seva Mandal",
+      "startTime": "09:30:00 AM 12-01-2026"
+    },
+    {
+      "id": 139667,
+      "event_category": "Cricket",
+      "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team_1": "Swami Vivekanand",
+      "team_2": "Rizvi",
+      "status": "PAUSED",
+      "event_name": "Giles Shield 2026",
+      "match_name": "Swami Vivekanand vs Rizvi",
+      "startTime": "09:45:00 AM 13-01-2026"
     },
     {
       "id": 138749,
@@ -68,30 +92,6 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Auckland Hearts vs Canterbury Magicians",
       "startTime": "09:20:00 AM 14-01-2026"
-    },
-    {
-      "id": 139270,
-      "event_category": "Football",
-      "title": "IR Iran U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139270_5822_IRN-U23_LEB-U23_fc-web.jpg",
-      "team_1": "IR Iran U23",
-      "team_2": "Lebanon U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "IR Iran U23 vs Lebanon U23",
-      "startTime": "05:00:00 PM 13-01-2026"
-    },
-    {
-      "id": 139269,
-      "event_category": "Football",
-      "title": "Uzbekistan U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139269_5822_UZB-U23_KR-U23_fc-web.jpg",
-      "team_1": "Uzbekistan U23",
-      "team_2": "Korea Republic U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Uzbekistan U23 vs Korea Republic U23",
-      "startTime": "05:00:00 PM 13-01-2026"
     },
     {
       "id": 139745,
@@ -145,7 +145,7 @@
       "id": 139211,
       "event_category": "Football",
       "title": "Newcastle United vs Manchester City (Carabao Cup 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139211_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Manchester-City_1768301098208.png",
       "team_1": "Newcastle United",
       "team_2": "Manchester City",
       "status": "UPCOMING",
@@ -298,18 +298,6 @@
       "startTime": "10:30:00 PM 14-01-2026"
     },
     {
-      "id": 139538,
-      "event_category": "Tennis",
-      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-      "team_1": "ATP 250 - ASB Classic",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Auckland Open",
-      "match_name": "ATP 250 - ASB Classic",
-      "startTime": "03:30:00 PM 14-01-2026"
-    },
-    {
       "id": 139359,
       "event_category": "Football",
       "title": "Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)",
@@ -320,6 +308,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ahli Saudi FC vs Al Taawoun",
       "startTime": "11:00:00 PM 14-01-2026"
+    },
+    {
+      "id": 139538,
+      "event_category": "Tennis",
+      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "team_1": "ATP 250 - ASB Classic",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Auckland Open",
+      "match_name": "ATP 250 - ASB Classic",
+      "startTime": "03:30:00 PM 14-01-2026"
     },
     {
       "id": 138392,
@@ -337,7 +337,7 @@
       "id": 139212,
       "event_category": "Football",
       "title": "Arsenal vs Chelsea (Carabao Cup 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139212_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Arsenal-vs-Chelsea_1768301278910.png",
       "team_1": "Arsenal",
       "team_2": "Chelsea",
       "status": "UPCOMING",
