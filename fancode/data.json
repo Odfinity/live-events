@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:23 AM 14-01-2026",
+  "last update time": "04:53 AM 14-01-2026",
   "matches": [
-    {
-      "id": 139669,
-      "event_category": "Football",
-      "title": "Real Sociedad vs CA Osasuna (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139669_5806_RS_OSN_FC-Web.jpg",
-      "team_1": "Real Sociedad",
-      "team_2": "CA Osasuna",
-      "status": "LIVE",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Real Sociedad vs CA Osasuna",
-      "startTime": "01:30:00 AM 14-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/MQdiBqL5S2qgcMM3Vg7fIA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139669_english_hls_ccaf31104e46425_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139747,
       "event_category": "Cricket",
@@ -46,18 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139670,
+      "id": 139669,
       "event_category": "Football",
-      "title": "Cultural Leonesa vs Athletic Club (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-Web_1768310393642.jpg",
-      "team_1": "Cultural Leonesa",
-      "team_2": "Athletic Club",
+      "title": "Real Sociedad vs CA Osasuna (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139669_5806_RS_OSN_FC-Web.jpg",
+      "team_1": "Real Sociedad",
+      "team_2": "CA Osasuna",
       "status": "LIVE",
       "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Cultural Leonesa vs Athletic Club",
+      "match_name": "Real Sociedad vs CA Osasuna",
       "startTime": "01:30:00 AM 14-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/KRQbn9nUS3aR_fQSS-r6Wg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139670_english_hls_2b7e7ceeae50375_1ta-di_h264/index.m3u8"
+      "dai_url": "https://dai.google.com/linear/hls/event/MQdiBqL5S2qgcMM3Vg7fIA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139669_english_hls_ccaf31104e46425_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138749,
@@ -120,18 +106,6 @@
       "startTime": "10:30:00 PM 14-01-2026"
     },
     {
-      "id": 139359,
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139359_CASACARDS_APP.png",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Al Taawoun",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Ahli Saudi FC vs Al Taawoun",
-      "startTime": "11:00:00 PM 14-01-2026"
-    },
-    {
       "id": 138782,
       "event_category": "Cricket",
       "title": "Otago Sparks vs Wellington Blaze (Women's Super Smash, 2025-26)",
@@ -142,6 +116,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Otago Sparks vs Wellington Blaze",
       "startTime": "05:10:00 AM 15-01-2026"
+    },
+    {
+      "id": 139359,
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)",
+      "src": "https://images.fancode.com/aig/match/v1/139359_CASACARDS_APP.png",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Al Taawoun",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ahli Saudi FC vs Al Taawoun",
+      "startTime": "11:00:00 PM 14-01-2026"
     },
     {
       "id": 139274,
@@ -166,6 +152,18 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Iraq U23 vs Australia U23",
       "startTime": "05:00:00 PM 14-01-2026"
+    },
+    {
+      "id": 139166,
+      "event_category": "Golf",
+      "title": "Jupiter vs New York vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Jupiter vs New York",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Jupiter vs New York",
+      "startTime": "05:30:00 AM 14-01-2026"
     },
     {
       "id": 138392,
@@ -238,18 +236,6 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Otago Volts vs Wellington Firebirds",
       "startTime": "08:55:00 AM 15-01-2026"
-    },
-    {
-      "id": 139166,
-      "event_category": "Golf",
-      "title": "Jupiter vs New York vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Jupiter vs New York",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Jupiter vs New York",
-      "startTime": "05:30:00 AM 14-01-2026"
     },
     {
       "id": 139565,
@@ -442,6 +428,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Central Hinds vs Auckland Hearts",
       "startTime": "06:40:00 AM 16-01-2026"
+    },
+    {
+      "id": 138751,
+      "event_category": "Cricket",
+      "title": "Central Stags vs Auckland Aces (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138751_5800_CS_AA_fc-web_1766641251076.jpg",
+      "team_1": "Central Stags",
+      "team_2": "Auckland Aces",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Central Stags vs Auckland Aces",
+      "startTime": "10:25:00 AM 16-01-2026"
     }
   ]
 }
