@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:10 PM 13-01-2026",
+  "last update time": "10:44 PM 13-01-2026",
   "matches": [
-    {
-      "id": 139745,
-      "event_category": "Cricket",
-      "title": "Windward Islands Women vs Guyana Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Windward Islands Women",
-      "team_2": "Guyana Women",
-      "status": "LIVE",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Windward Islands Women vs Guyana Women",
-      "startTime": "07:00:00 PM 13-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/1ryOXWArSk-erkmFKP9_zA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139745_english_hls_d1cc286a141232_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139579,
       "event_category": "Cricket",
@@ -276,18 +262,6 @@
       "startTime": "06:00:00 AM 14-01-2026"
     },
     {
-      "id": 139564,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-      "team_1": "Centre Court - Day 3",
-      "team_2": "Adelaide",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 3",
-      "startTime": "10:00:00 AM 14-01-2026"
-    },
-    {
       "id": 138392,
       "event_category": "Football",
       "title": "Nigeria vs Morocco (Africa Cup of Nations 2025-26)",
@@ -346,6 +320,18 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Deportivo Alaves vs Rayo Vallecano",
       "startTime": "01:30:00 AM 15-01-2026"
+    },
+    {
+      "id": 139564,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "team_1": "Centre Court - Day 3",
+      "team_2": "Adelaide",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 3",
+      "startTime": "10:00:00 AM 14-01-2026"
     },
     {
       "id": 138782,
@@ -442,6 +428,18 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "Barbados Women vs Jamaica Women",
       "startTime": "07:00:00 PM 15-01-2026"
+    },
+    {
+      "id": 139539,
+      "event_category": "Tennis",
+      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "team_1": "ATP 250 - ASB Classic",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Auckland Open",
+      "match_name": "ATP 250 - ASB Classic",
+      "startTime": "03:30:00 PM 15-01-2026"
     }
   ]
 }
