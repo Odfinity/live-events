@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 13-01-2026",
+  "last update time": "07:51 AM 13-01-2026",
   "matches": [
+    {
+      "id": 138780,
+      "event_category": "Cricket",
+      "title": "Northern Brave Women vs Central Hinds (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-web_1766596522104.jpg",
+      "team_1": "Northern Brave Women",
+      "team_2": "Central Hinds",
+      "status": "LIVE",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Northern Brave Women vs Central Hinds",
+      "startTime": "06:40:00 AM 13-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/yCHFU6PQRTSFzNVuadizig/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138780_english_hls_5bca87301b32458_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139537,
       "event_category": "Tennis",
@@ -18,16 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/s3/53d0a95d-be66-44b8-b9ef-71a778a8b56e/index.m3u8"
     },
     {
-      "id": 138780,
-      "event_category": "Cricket",
-      "title": "Central Hinds vs Northern Brave Women (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-web_1766596522104.jpg",
-      "team_1": "Central Hinds",
-      "team_2": "Northern Brave Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Central Hinds vs Northern Brave Women",
-      "startTime": "06:40:00 AM 13-01-2026"
+      "id": 139534,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+      "team_1": "Centre Court - Day 2",
+      "team_2": "Adelaide",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 2",
+      "startTime": "06:00:00 AM 13-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/RVF7Yb7aQ0yUOt4MMwrs5A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139534_english_hls_e518ffe26d111_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138748,
@@ -66,6 +82,18 @@
       "startTime": "09:45:00 AM 13-01-2026"
     },
     {
+      "id": 138749,
+      "event_category": "Cricket",
+      "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+      "team_1": "Auckland Aces",
+      "team_2": "Canterbury",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Auckland Aces vs Canterbury",
+      "startTime": "05:10:00 AM 14-01-2026"
+    },
+    {
       "id": 139578,
       "event_category": "Cricket",
       "title": "Oman Development Team vs Renaissance Challengers (Oman Super League T20, 2026)",
@@ -102,18 +130,6 @@
       "startTime": "09:00:00 PM 13-01-2026"
     },
     {
-      "id": 138749,
-      "event_category": "Cricket",
-      "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
-      "team_1": "Auckland Aces",
-      "team_2": "Canterbury",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Auckland Aces vs Canterbury",
-      "startTime": "05:10:00 AM 14-01-2026"
-    },
-    {
       "id": 139358,
       "event_category": "Football",
       "title": "Damac vs Al-Ittihad (Roshn Saudi League 2025-2026)",
@@ -136,30 +152,6 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "Jamaica Women vs Leeward Islands Women",
       "startTime": "12:00:00 AM 14-01-2026"
-    },
-    {
-      "id": 139270,
-      "event_category": "Football",
-      "title": "IR Iran U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139270_5822_IRN-U23_LEB-U23_fc-web.jpg",
-      "team_1": "IR Iran U23",
-      "team_2": "Lebanon U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "IR Iran U23 vs Lebanon U23",
-      "startTime": "05:00:00 PM 13-01-2026"
-    },
-    {
-      "id": 139269,
-      "event_category": "Football",
-      "title": "Uzbekistan U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139269_5822_UZB-U23_KR-U23_fc-web.jpg",
-      "team_1": "Uzbekistan U23",
-      "team_2": "Korea Republic U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Uzbekistan U23 vs Korea Republic U23",
-      "startTime": "05:00:00 PM 13-01-2026"
     },
     {
       "id": 139211,
@@ -210,6 +202,42 @@
       "startTime": "01:30:00 AM 14-01-2026"
     },
     {
+      "id": 139270,
+      "event_category": "Football",
+      "title": "IR Iran U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139270_5822_IRN-U23_LEB-U23_fc-web.jpg",
+      "team_1": "IR Iran U23",
+      "team_2": "Lebanon U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "IR Iran U23 vs Lebanon U23",
+      "startTime": "05:00:00 PM 13-01-2026"
+    },
+    {
+      "id": 139269,
+      "event_category": "Football",
+      "title": "Uzbekistan U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139269_5822_UZB-U23_KR-U23_fc-web.jpg",
+      "team_1": "Uzbekistan U23",
+      "team_2": "Korea Republic U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Uzbekistan U23 vs Korea Republic U23",
+      "startTime": "05:00:00 PM 13-01-2026"
+    },
+    {
+      "id": 139747,
+      "event_category": "Cricket",
+      "title": "Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Trinidad and Tobago Women",
+      "team_2": "Barbados Women",
+      "status": "UPCOMING",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Trinidad and Tobago Women vs Barbados Women",
+      "startTime": "04:30:00 AM 14-01-2026"
+    },
+    {
       "id": 139535,
       "event_category": "Tennis",
       "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
@@ -222,16 +250,16 @@
       "startTime": "06:00:00 AM 13-01-2026"
     },
     {
-      "id": 139534,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
-      "team_1": "Centre Court - Day 2",
-      "team_2": "Adelaide",
+      "id": 138781,
+      "event_category": "Cricket",
+      "title": "Auckland Hearts vs Canterbury Magicians (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138781_5801_AH-W_CM-W_fc-web_1766596522091.jpg",
+      "team_1": "Auckland Hearts",
+      "team_2": "Canterbury Magicians",
       "status": "UPCOMING",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 2",
-      "startTime": "06:00:00 AM 13-01-2026"
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Auckland Hearts vs Canterbury Magicians",
+      "startTime": "09:20:00 AM 14-01-2026"
     },
     {
       "id": 139272,
@@ -256,30 +284,6 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Japan U23 vs Qatar U23",
       "startTime": "10:00:00 PM 13-01-2026"
-    },
-    {
-      "id": 139747,
-      "event_category": "Cricket",
-      "title": "Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Trinidad and Tobago Women",
-      "team_2": "Barbados Women",
-      "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Trinidad and Tobago Women vs Barbados Women",
-      "startTime": "04:30:00 AM 14-01-2026"
-    },
-    {
-      "id": 138781,
-      "event_category": "Cricket",
-      "title": "Auckland Hearts vs Canterbury Magicians (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138781_5801_AH-W_CM-W_fc-web_1766596522091.jpg",
-      "team_1": "Auckland Hearts",
-      "team_2": "Canterbury Magicians",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Auckland Hearts vs Canterbury Magicians",
-      "startTime": "09:20:00 AM 14-01-2026"
     },
     {
       "id": 139565,
