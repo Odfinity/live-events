@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:13 PM 14-01-2026",
+  "last update time": "04:30 PM 14-01-2026",
   "matches": [
-    {
-      "id": 139667,
-      "event_category": "Cricket",
-      "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-      "team_1": "Swami Vivekanand",
-      "team_2": "Rizvi",
-      "status": "LIVE",
-      "event_name": "Giles Shield 2026",
-      "match_name": "Swami Vivekanand vs Rizvi",
-      "startTime": "09:45:00 AM 13-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/AGIBKB8DT5i4wztbfTNEDA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f95075_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139538,
       "event_category": "Tennis",
@@ -30,6 +16,18 @@
       "startTime": "04:00:00 AM 14-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/stbSBSmaTq-JQ5U3KNHxaQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139667,
+      "event_category": "Cricket",
+      "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team_1": "Swami Vivekanand",
+      "team_2": "Rizvi",
+      "status": "PAUSED",
+      "event_name": "Giles Shield 2026",
+      "match_name": "Swami Vivekanand vs Rizvi",
+      "startTime": "09:45:00 AM 13-01-2026"
     },
     {
       "id": 138782,
@@ -130,13 +128,13 @@
     {
       "id": 139212,
       "event_category": "Football",
-      "title": "Arsenal vs Chelsea (Carabao Cup 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Arsenal-vs-Chelsea_1768301278910.png",
-      "team_1": "Arsenal",
-      "team_2": "Chelsea",
+      "title": "Chelsea vs Arsenal (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Chelsea-vs-Arsenal_1768301525547.png",
+      "team_1": "Chelsea",
+      "team_2": "Arsenal",
       "status": "UPCOMING",
       "event_name": "Carabao Cup 2025-2026",
-      "match_name": "Arsenal vs Chelsea",
+      "match_name": "Chelsea vs Arsenal",
       "startTime": "01:30:00 AM 15-01-2026"
     },
     {
@@ -356,18 +354,6 @@
       "startTime": "05:30:00 AM 16-01-2026"
     },
     {
-      "id": 139568,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-      "team_1": "Centre Court - Day 5",
-      "team_2": "Adelaide",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 5",
-      "startTime": "07:00:00 AM 16-01-2026"
-    },
-    {
       "id": 138928,
       "event_category": "Cricket",
       "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
@@ -378,6 +364,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rangpur Riders vs Dhaka Capitals",
       "startTime": "01:30:00 PM 16-01-2026"
+    },
+    {
+      "id": 139568,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "team_1": "Centre Court - Day 5",
+      "team_2": "Adelaide",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 5",
+      "startTime": "07:00:00 AM 16-01-2026"
     },
     {
       "id": 138929,
