@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:30 PM 14-01-2026",
+  "last update time": "05:02 PM 14-01-2026",
   "matches": [
     {
-      "id": 139538,
-      "event_category": "Tennis",
-      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-      "team_1": "ATP 250 - ASB Classic",
-      "team_2": "Auckland",
+      "id": 139274,
+      "event_category": "Football",
+      "title": "Thailand U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139274_5822_THA-U23_CHN-U23_fc-web.jpg",
+      "team_1": "Thailand U23",
+      "team_2": "China PR U23",
       "status": "LIVE",
-      "event_name": "ATP 250 - Auckland Open",
-      "match_name": "ATP 250 - ASB Classic",
-      "startTime": "04:00:00 AM 14-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/stbSBSmaTq-JQ5U3KNHxaQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Thailand U23 vs China PR U23",
+      "startTime": "05:00:00 PM 14-01-2026",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 139273,
+      "event_category": "Football",
+      "title": "Iraq U23 vs Australia U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139273_5822_IRQ-U23_AUS-U23_fc-web.jpg",
+      "team_1": "Iraq U23",
+      "team_2": "Australia U23",
+      "status": "LIVE",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Iraq U23 vs Australia U23",
+      "startTime": "05:00:00 PM 14-01-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 139667,
@@ -66,30 +80,6 @@
       "startTime": "12:30:00 PM 15-01-2026"
     },
     {
-      "id": 139274,
-      "event_category": "Football",
-      "title": "Thailand U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139274_5822_THA-U23_CHN-U23_fc-web.jpg",
-      "team_1": "Thailand U23",
-      "team_2": "China PR U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Thailand U23 vs China PR U23",
-      "startTime": "05:00:00 PM 14-01-2026"
-    },
-    {
-      "id": 139273,
-      "event_category": "Football",
-      "title": "Iraq U23 vs Australia U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139273_5822_IRQ-U23_AUS-U23_fc-web.jpg",
-      "team_1": "Iraq U23",
-      "team_2": "Australia U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Iraq U23 vs Australia U23",
-      "startTime": "05:00:00 PM 14-01-2026"
-    },
-    {
       "id": 138391,
       "event_category": "Football",
       "title": "Senegal vs Egypt (Africa Cup of Nations 2025-26)",
@@ -105,7 +95,7 @@
       "id": 139359,
       "event_category": "Football",
       "title": "Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139359_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-vs-Al-Taawoun_Web.jpg",
       "team_1": "Al-Ahli Saudi FC",
       "team_2": "Al Taawoun",
       "status": "UPCOMING",
@@ -436,6 +426,18 @@
       "event_name": "Oman Super League T20, 2026",
       "match_name": "TBC vs TBC",
       "startTime": "07:30:00 PM 16-01-2026"
+    },
+    {
+      "id": 139540,
+      "event_category": "Tennis",
+      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "team_1": "ATP 250 - ASB Classic",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Auckland Open",
+      "match_name": "ATP 250 - ASB Classic",
+      "startTime": "03:30:00 PM 16-01-2026"
     }
   ]
 }
