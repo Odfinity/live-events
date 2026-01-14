@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:23 AM 15-01-2026",
+  "last update time": "04:52 AM 15-01-2026",
   "matches": [
-    {
-      "id": 138392,
-      "event_category": "Football",
-      "title": "Nigeria vs Morocco (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg",
-      "team_1": "Nigeria",
-      "team_2": "Morocco",
-      "status": "LIVE",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Nigeria vs Morocco",
-      "startTime": "01:30:00 AM 15-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/a0W_XFT_REi3Za-_L_yYwA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139539,
       "event_category": "Tennis",
@@ -30,6 +16,20 @@
       "startTime": "04:00:00 AM 15-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/8cuQHVfVQAOg9NY4EjR_mQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139539_english_hls_5b30ee1e3a71739_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138392,
+      "event_category": "Football",
+      "title": "Nigeria vs Morocco (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg",
+      "team_1": "Nigeria",
+      "team_2": "Morocco",
+      "status": "LIVE",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Nigeria vs Morocco",
+      "startTime": "01:30:00 AM 15-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/a0W_XFT_REi3Za-_L_yYwA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138782,
@@ -188,6 +188,18 @@
       "startTime": "04:30:00 AM 16-01-2026"
     },
     {
+      "id": 138751,
+      "event_category": "Cricket",
+      "title": "Central Stags vs Auckland Aces (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138751_5800_CS_AA_fc-web_1766641251076.jpg",
+      "team_1": "Central Stags",
+      "team_2": "Auckland Aces",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Central Stags vs Auckland Aces",
+      "startTime": "10:25:00 AM 16-01-2026"
+    },
+    {
       "id": 139566,
       "event_category": "Tennis",
       "title": "Centre Court - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
@@ -210,18 +222,6 @@
       "event_name": "ATP 250 - Adelaide International",
       "match_name": "Show Court 1 - Day 4",
       "startTime": "10:00:00 AM 15-01-2026"
-    },
-    {
-      "id": 138751,
-      "event_category": "Cricket",
-      "title": "Central Stags vs Auckland Aces (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138751_5800_CS_AA_fc-web_1766641251076.jpg",
-      "team_1": "Central Stags",
-      "team_2": "Auckland Aces",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Central Stags vs Auckland Aces",
-      "startTime": "10:25:00 AM 16-01-2026"
     },
     {
       "id": 139776,
