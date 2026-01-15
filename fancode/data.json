@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:33 PM 15-01-2026",
+  "last update time": "07:20 PM 15-01-2026",
   "matches": [
     {
       "id": 139580,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139580_english_hls_fcc4945f2f2760_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139748,
+      "event_category": "Cricket",
+      "title": "Barbados Women vs Jamaica Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "Barbados Women",
+      "team_2": "Jamaica Women",
+      "status": "LIVE",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Barbados Women vs Jamaica Women",
+      "startTime": "07:00:00 PM 15-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/D-sxufYHTnuKvYVKWQ84GA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139748_english_hls_3e659c1eb598132_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138783,
       "event_category": "Cricket",
       "title": "Central Hinds vs Auckland Hearts (Women's Super Smash, 2025-26)",
@@ -28,18 +42,6 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Central Hinds vs Auckland Hearts",
       "startTime": "06:40:00 AM 16-01-2026"
-    },
-    {
-      "id": 139748,
-      "event_category": "Cricket",
-      "title": "Barbados Women vs Jamaica Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Barbados Women",
-      "team_2": "Jamaica Women",
-      "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Barbados Women vs Jamaica Women",
-      "startTime": "07:00:00 PM 15-01-2026"
     },
     {
       "id": 138751,
@@ -222,18 +224,6 @@
       "startTime": "04:15:00 PM 16-01-2026"
     },
     {
-      "id": 139276,
-      "event_category": "Football",
-      "title": "Vietnam U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Vietnam U23",
-      "team_2": "United Arab Emirates U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Vietnam U23 vs United Arab Emirates U23",
-      "startTime": "09:00:00 PM 16-01-2026"
-    },
-    {
       "id": 139360,
       "event_category": "Football",
       "title": "Al-Ittihad vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
@@ -244,6 +234,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Ettifaq",
       "startTime": "11:00:00 PM 16-01-2026"
+    },
+    {
+      "id": 139276,
+      "event_category": "Football",
+      "title": "Vietnam U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Vietnam U23",
+      "team_2": "United Arab Emirates U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Vietnam U23 vs United Arab Emirates U23",
+      "startTime": "09:00:00 PM 16-01-2026"
     },
     {
       "id": 139540,
