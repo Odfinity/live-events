@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:52 AM 15-01-2026",
+  "last update time": "09:22 AM 15-01-2026",
   "matches": [
     {
-      "id": 138782,
+      "id": 138750,
       "event_category": "Cricket",
-      "title": "Wellington Blaze vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-web_1766596522256.jpg",
-      "team_1": "Wellington Blaze",
-      "team_2": "Otago Sparks",
+      "title": "Otago Volts vs Wellington Firebirds (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138750_5800_OV_WF_fc-web_1766641250975.jpg",
+      "team_1": "Otago Volts",
+      "team_2": "Wellington Firebirds",
       "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Wellington Blaze vs Otago Sparks",
-      "startTime": "05:10:00 AM 15-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/FDP00tj5TMOHW9EbJ6RJSg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138782_english_hls_5963c447d097215_1ta-di_h264/index.m3u8"
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Otago Volts vs Wellington Firebirds",
+      "startTime": "08:55:00 AM 15-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/0zfJ3KzPQnmeZKqkWzixCA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138750_english_hls_c5f0ec436254387_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139539,
@@ -44,18 +44,6 @@
       "startTime": "07:30:00 AM 15-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/0XQ6230iQvezCxV7QVKJwQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139567_english_hls_a4360e563990286_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138750,
-      "event_category": "Cricket",
-      "title": "Otago Volts vs Wellington Firebirds (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138750_5800_OV_WF_fc-web_1766641250975.jpg",
-      "team_1": "Otago Volts",
-      "team_2": "Wellington Firebirds",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Otago Volts vs Wellington Firebirds",
-      "startTime": "08:55:00 AM 15-01-2026"
     },
     {
       "id": 138934,
@@ -94,6 +82,18 @@
       "startTime": "09:45:00 AM 13-01-2026"
     },
     {
+      "id": 138783,
+      "event_category": "Cricket",
+      "title": "Central Hinds vs Auckland Hearts (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
+      "team_1": "Central Hinds",
+      "team_2": "Auckland Hearts",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Central Hinds vs Auckland Hearts",
+      "startTime": "06:40:00 AM 16-01-2026"
+    },
+    {
       "id": 139580,
       "event_category": "Cricket",
       "title": "Yalla Shabab Giants vs Oman Development Team (Oman Super League T20, 2026)",
@@ -128,18 +128,6 @@
       "event_name": "Oman Super League T20, 2026",
       "match_name": "Renaissance Challengers vs IAS Invincibles",
       "startTime": "09:00:00 PM 15-01-2026"
-    },
-    {
-      "id": 138783,
-      "event_category": "Cricket",
-      "title": "Central Hinds vs Auckland Hearts (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
-      "team_1": "Central Hinds",
-      "team_2": "Auckland Hearts",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Central Hinds vs Auckland Hearts",
-      "startTime": "06:40:00 AM 16-01-2026"
     },
     {
       "id": 139749,
@@ -202,18 +190,6 @@
       "startTime": "10:25:00 AM 16-01-2026"
     },
     {
-      "id": 138928,
-      "event_category": "Cricket",
-      "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
-      "team_1": "Rangpur Riders",
-      "team_2": "Dhaka Capitals",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Rangpur Riders vs Dhaka Capitals",
-      "startTime": "01:30:00 PM 16-01-2026"
-    },
-    {
       "id": 139566,
       "event_category": "Tennis",
       "title": "Centre Court - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
@@ -224,6 +200,18 @@
       "event_name": "ATP 250 - Adelaide International",
       "match_name": "Centre Court - Day 4",
       "startTime": "10:00:00 AM 15-01-2026"
+    },
+    {
+      "id": 138928,
+      "event_category": "Cricket",
+      "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
+      "team_1": "Rangpur Riders",
+      "team_2": "Dhaka Capitals",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Rangpur Riders vs Dhaka Capitals",
+      "startTime": "01:30:00 PM 16-01-2026"
     },
     {
       "id": 139776,
