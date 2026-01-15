@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:55 PM 15-01-2026",
+  "last update time": "05:13 PM 15-01-2026",
   "matches": [
-    {
-      "id": 138934,
-      "event_category": "Cricket",
-      "title": "Chattogram Royals vs Noakhali Express (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138934_5808_CCH_NOE_fc-web_1766733054213.jpg",
-      "team_1": "Chattogram Royals",
-      "team_2": "Noakhali Express",
-      "status": "LIVE",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Chattogram Royals vs Noakhali Express",
-      "startTime": "12:30:00 PM 15-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/ti_dtI41Q9y0qef-hj_LcA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b98092_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139580,
       "event_category": "Cricket",
@@ -30,32 +16,6 @@
       "startTime": "04:00:00 PM 15-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139580_english_hls_fcc4945f2f2760_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139580_english_hls_fcc4945f2f2760_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139566,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-      "team_1": "Centre Court - Day 4",
-      "team_2": "Adelaide",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 4",
-      "startTime": "10:00:00 AM 15-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/XsBaWklCSiKi4McfJJhMkQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139566_english_hls_cbc0042fbb45031_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138935,
-      "event_category": "Cricket",
-      "title": "Rajshahi Warriors vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138935_5808_DBR_SYL_fc-web_1766733054259.jpg",
-      "team_1": "Rajshahi Warriors",
-      "team_2": "Sylhet Titans",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Rajshahi Warriors vs Sylhet Titans",
-      "startTime": "05:30:00 PM 15-01-2026"
     },
     {
       "id": 138783,
@@ -274,18 +234,6 @@
       "startTime": "09:00:00 PM 16-01-2026"
     },
     {
-      "id": 139540,
-      "event_category": "Tennis",
-      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-      "team_1": "ATP 250 - ASB Classic",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Auckland Open",
-      "match_name": "ATP 250 - ASB Classic",
-      "startTime": "03:30:00 PM 16-01-2026"
-    },
-    {
       "id": 139360,
       "event_category": "Football",
       "title": "Al-Ittihad vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
@@ -296,6 +244,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Ettifaq",
       "startTime": "11:00:00 PM 16-01-2026"
+    },
+    {
+      "id": 139540,
+      "event_category": "Tennis",
+      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "team_1": "ATP 250 - ASB Classic",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Auckland Open",
+      "match_name": "ATP 250 - ASB Classic",
+      "startTime": "03:30:00 PM 16-01-2026"
     },
     {
       "id": 131029,
@@ -440,6 +400,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Adelaide United vs Melbourne Victory",
       "startTime": "02:05:00 PM 17-01-2026"
+    },
+    {
+      "id": 139336,
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Coventry City Football Club",
+      "team_2": "Leicester City F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs Leicester City F.C.",
+      "startTime": "06:00:00 PM 17-01-2026"
     }
   ]
 }
