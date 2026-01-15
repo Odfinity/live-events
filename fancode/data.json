@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:22 AM 15-01-2026",
+  "last update time": "10:15 AM 15-01-2026",
   "matches": [
     {
       "id": 138750,
       "event_category": "Cricket",
-      "title": "Otago Volts vs Wellington Firebirds (Super Smash, 2025-26)",
+      "title": "Wellington Firebirds vs Otago Volts (Super Smash, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138750_5800_OV_WF_fc-web_1766641250975.jpg",
-      "team_1": "Otago Volts",
-      "team_2": "Wellington Firebirds",
+      "team_1": "Wellington Firebirds",
+      "team_2": "Otago Volts",
       "status": "LIVE",
       "event_name": "Super Smash, 2025-26",
-      "match_name": "Otago Volts vs Wellington Firebirds",
+      "match_name": "Wellington Firebirds vs Otago Volts",
       "startTime": "08:55:00 AM 15-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/0zfJ3KzPQnmeZKqkWzixCA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138750_english_hls_c5f0ec436254387_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139667,
+      "event_category": "Cricket",
+      "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team_1": "Swami Vivekanand",
+      "team_2": "Rizvi",
+      "status": "LIVE",
+      "event_name": "Giles Shield 2026",
+      "match_name": "Swami Vivekanand vs Rizvi",
+      "startTime": "09:45:00 AM 13-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/kQXdaFe-Qmu3Xaj4gKsIuA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f88573_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139539,
@@ -46,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139567_english_hls_a4360e563990286_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139566,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "team_1": "Centre Court - Day 4",
+      "team_2": "Adelaide",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 4",
+      "startTime": "10:00:00 AM 15-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/XsBaWklCSiKi4McfJJhMkQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139566_english_hls_cbc0042fbb45031_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138934,
       "event_category": "Cricket",
       "title": "Chattogram Royals vs Noakhali Express (Bangladesh Premier League, 2025-26)",
@@ -68,18 +96,6 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rajshahi Warriors vs Sylhet Titans",
       "startTime": "05:30:00 PM 15-01-2026"
-    },
-    {
-      "id": 139667,
-      "event_category": "Cricket",
-      "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-      "team_1": "Swami Vivekanand",
-      "team_2": "Rizvi",
-      "status": "PAUSED",
-      "event_name": "Giles Shield 2026",
-      "match_name": "Swami Vivekanand vs Rizvi",
-      "startTime": "09:45:00 AM 13-01-2026"
     },
     {
       "id": 138783,
@@ -188,18 +204,6 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Central Stags vs Auckland Aces",
       "startTime": "10:25:00 AM 16-01-2026"
-    },
-    {
-      "id": 139566,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-      "team_1": "Centre Court - Day 4",
-      "team_2": "Adelaide",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 4",
-      "startTime": "10:00:00 AM 15-01-2026"
     },
     {
       "id": 138928,
