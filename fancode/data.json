@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 PM 16-01-2026",
+  "last update time": "02:10 PM 16-01-2026",
   "matches": [
-    {
-      "id": 138751,
-      "event_category": "Cricket",
-      "title": "Central Stags vs Auckland Aces (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138751_5800_CS_AA_fc-web_1766641251076.jpg",
-      "team_1": "Central Stags",
-      "team_2": "Auckland Aces",
-      "status": "LIVE",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Central Stags vs Auckland Aces",
-      "startTime": "10:25:00 AM 16-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/j5YpgWKkRaGpt1VD_HfLVw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138751_english_hls_9494524cbc43118_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 138934,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "01:30:00 PM 16-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/nHhIA53QSl-pxD6s84uRsA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139424,
+      "event_category": "Football",
+      "title": "Melbourne City vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Auckland",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Auckland",
+      "startTime": "02:05:00 PM 16-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/ZFlNbys9R16_497KHqD21g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139424_english_hls_cf389aeefd60676_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138935,
@@ -68,6 +68,18 @@
       "startTime": "11:00:00 PM 16-01-2026"
     },
     {
+      "id": 138928,
+      "event_category": "Cricket",
+      "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
+      "team_1": "Rangpur Riders",
+      "team_2": "Dhaka Capitals",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Rangpur Riders vs Dhaka Capitals",
+      "startTime": "12:30:00 PM 17-01-2026"
+    },
+    {
       "id": 131029,
       "event_category": "Football",
       "title": "RCD Espanyol vs Girona FC (LALIGA 2025-26)",
@@ -90,30 +102,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "West Bromwich Albion F.C. vs Middlesbrough F.C.",
       "startTime": "01:30:00 AM 17-01-2026"
-    },
-    {
-      "id": 138928,
-      "event_category": "Cricket",
-      "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
-      "team_1": "Rangpur Riders",
-      "team_2": "Dhaka Capitals",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Rangpur Riders vs Dhaka Capitals",
-      "startTime": "12:30:00 PM 17-01-2026"
-    },
-    {
-      "id": 139424,
-      "event_category": "Football",
-      "title": "Melbourne City vs Auckland (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Auckland",
-      "startTime": "02:05:00 PM 16-01-2026"
     },
     {
       "id": 139275,
@@ -164,18 +152,6 @@
       "startTime": "01:15:00 AM 17-01-2026"
     },
     {
-      "id": 139385,
-      "event_category": "Football",
-      "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Perth Glory",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Perth Glory vs Brisbane Roar",
-      "startTime": "04:15:00 PM 16-01-2026"
-    },
-    {
       "id": 138929,
       "event_category": "Cricket",
       "title": "Chattogram Royals vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
@@ -186,6 +162,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Chattogram Royals vs Rajshahi Warriors",
       "startTime": "05:30:00 PM 17-01-2026"
+    },
+    {
+      "id": 139385,
+      "event_category": "Football",
+      "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Perth Glory",
+      "team_2": "Brisbane Roar",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Perth Glory vs Brisbane Roar",
+      "startTime": "04:15:00 PM 16-01-2026"
     },
     {
       "id": 139778,
@@ -212,18 +200,6 @@
       "startTime": "05:30:00 AM 17-01-2026"
     },
     {
-      "id": 139541,
-      "event_category": "Tennis",
-      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-      "team_1": "ATP 250 - ASB Classic",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Auckland Open",
-      "match_name": "ATP 250 - ASB Classic",
-      "startTime": "06:30:00 AM 17-01-2026"
-    },
-    {
       "id": 139386,
       "event_category": "Football",
       "title": "Western Sydney Wanderers vs Newcastle Jets (A League 2025-26)",
@@ -236,16 +212,16 @@
       "startTime": "11:30:00 AM 17-01-2026"
     },
     {
-      "id": 139387,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Macarthur (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Macarthur",
+      "id": 139541,
+      "event_category": "Tennis",
+      "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+      "team_1": "ATP 250 - ASB Classic",
+      "team_2": "Auckland",
       "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Macarthur",
-      "startTime": "12:30:00 PM 17-01-2026"
+      "event_name": "ATP 250 - Auckland Open",
+      "match_name": "ATP 250 - ASB Classic",
+      "startTime": "06:30:00 AM 17-01-2026"
     },
     {
       "id": 139914,
@@ -260,16 +236,16 @@
       "startTime": "06:00:00 PM 17-01-2026"
     },
     {
-      "id": 139569,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 6 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-      "team_1": "Centre Court - Day 6",
-      "team_2": "Adelaide",
+      "id": 139387,
+      "event_category": "Football",
+      "title": "Central Coast Mariners vs Macarthur (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Macarthur",
       "status": "UPCOMING",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 6",
-      "startTime": "09:00:00 AM 17-01-2026"
+      "event_name": "A League 2025-26",
+      "match_name": "Central Coast Mariners vs Macarthur",
+      "startTime": "12:30:00 PM 17-01-2026"
     },
     {
       "id": 131025,
@@ -284,16 +260,16 @@
       "startTime": "06:30:00 PM 17-01-2026"
     },
     {
-      "id": 139277,
-      "event_category": "Football",
-      "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139277_CASACARDS_APP.png",
-      "team_1": "Uzbekistan U23",
-      "team_2": "China PR U23",
+      "id": 139569,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 6 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "team_1": "Centre Court - Day 6",
+      "team_2": "Adelaide",
       "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Uzbekistan U23 vs China PR U23",
-      "startTime": "05:00:00 PM 17-01-2026"
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 6",
+      "startTime": "09:00:00 AM 17-01-2026"
     },
     {
       "id": 139751,
@@ -306,6 +282,18 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "Leeward Islands Women vs Trinidad and Tobago Women",
       "startTime": "07:00:00 PM 17-01-2026"
+    },
+    {
+      "id": 139277,
+      "event_category": "Football",
+      "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1/139277_CASACARDS_APP.png",
+      "team_1": "Uzbekistan U23",
+      "team_2": "China PR U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Uzbekistan U23 vs China PR U23",
+      "startTime": "05:00:00 PM 17-01-2026"
     },
     {
       "id": 139388,
@@ -437,6 +425,18 @@
       "status": "UPCOMING",
       "event_name": "Scottish Cup 2025-26",
       "match_name": "Heart of Midlothian vs Falkirk",
+      "startTime": "01:30:00 AM 18-01-2026"
+    },
+    {
+      "id": 139788,
+      "event_category": "Football",
+      "title": "Almería vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139788_CASACARDS_APP.png",
+      "team_1": "Almería",
+      "team_2": "Deportivo La Coruna",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Almería vs Deportivo La Coruna",
       "startTime": "01:30:00 AM 18-01-2026"
     }
   ]
