@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:14 AM 17-01-2026",
+  "last update time": "03:27 AM 17-01-2026",
   "matches": [
     {
       "id": 131029,
@@ -16,34 +16,6 @@
       "startTime": "01:30:00 AM 17-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131029_english_hls_f292527a9822857_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131029_english_hls_f292527a9822857_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139913,
-      "event_category": "Football",
-      "title": "West Bromwich Albion F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139913_CASACARDS_APP.png",
-      "team_1": "West Bromwich Albion F.C.",
-      "team_2": "Middlesbrough F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "West Bromwich Albion F.C. vs Middlesbrough F.C.",
-      "startTime": "01:30:00 AM 17-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/1B_u9SiVQmikRs39vBbCAQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139913_english_hls_fcbebdf1a357131_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139787,
-      "event_category": "Football",
-      "title": "Castellón vs Leganés (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139787_CASACARDS_APP.png",
-      "team_1": "Castellón",
-      "team_2": "Leganés",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Leganés",
-      "startTime": "01:00:00 AM 17-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/yIjzvO05QL22ZHghkEm57A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139787_english_hls_b66d45021423039_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139784,
@@ -72,6 +44,20 @@
       "startTime": "10:30:00 PM 16-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/fx4GIyhOTOua_ENWHRSutw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139778_english_hls_35c057050432718_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139913,
+      "event_category": "Football",
+      "title": "West Bromwich Albion F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139913_CASACARDS_APP.png",
+      "team_1": "West Bromwich Albion F.C.",
+      "team_2": "Middlesbrough F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "West Bromwich Albion F.C. vs Middlesbrough F.C.",
+      "startTime": "01:30:00 AM 17-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/1B_u9SiVQmikRs39vBbCAQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139913_english_hls_fcbebdf1a357131_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138928,
@@ -242,18 +228,6 @@
       "startTime": "05:10:00 AM 18-01-2026"
     },
     {
-      "id": 139278,
-      "event_category": "Football",
-      "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
-      "team_1": "Australia U23",
-      "team_2": "Korea Republic U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Australia U23 vs Korea Republic U23",
-      "startTime": "09:00:00 PM 17-01-2026"
-    },
-    {
       "id": 131026,
       "event_category": "Football",
       "title": "Real Betis vs Villarreal CF (LALIGA 2025-26)",
@@ -264,6 +238,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Betis vs Villarreal CF",
       "startTime": "01:30:00 AM 18-01-2026"
+    },
+    {
+      "id": 139278,
+      "event_category": "Football",
+      "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
+      "team_1": "Australia U23",
+      "team_2": "Korea Republic U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Australia U23 vs Korea Republic U23",
+      "startTime": "09:00:00 PM 17-01-2026"
     },
     {
       "id": 139386,
@@ -302,6 +288,18 @@
       "startTime": "02:05:00 PM 17-01-2026"
     },
     {
+      "id": 139753,
+      "event_category": "Cricket",
+      "title": "Jamaica Women vs Guyana Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "Jamaica Women",
+      "team_2": "Guyana Women",
+      "status": "UPCOMING",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Jamaica Women vs Guyana Women",
+      "startTime": "04:30:00 AM 18-01-2026"
+    },
+    {
       "id": 139785,
       "event_category": "Football",
       "title": "Heart of Midlothian vs Falkirk (Scottish Cup 2025-26)",
@@ -326,16 +324,16 @@
       "startTime": "01:30:00 AM 18-01-2026"
     },
     {
-      "id": 139753,
+      "id": 138752,
       "event_category": "Cricket",
-      "title": "Jamaica Women vs Guyana Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Jamaica Women",
-      "team_2": "Guyana Women",
+      "title": "Otago Volts vs Northern Districts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg",
+      "team_1": "Otago Volts",
+      "team_2": "Northern Districts",
       "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Jamaica Women vs Guyana Women",
-      "startTime": "04:30:00 AM 18-01-2026"
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Otago Volts vs Northern Districts",
+      "startTime": "08:55:00 AM 18-01-2026"
     },
     {
       "id": 139773,
@@ -374,18 +372,6 @@
       "startTime": "10:00:00 AM 17-01-2026"
     },
     {
-      "id": 138752,
-      "event_category": "Cricket",
-      "title": "Otago Volts vs Northern Districts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg",
-      "team_1": "Otago Volts",
-      "team_2": "Northern Districts",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Otago Volts vs Northern Districts",
-      "startTime": "08:55:00 AM 18-01-2026"
-    },
-    {
       "id": 139922,
       "event_category": "Football",
       "title": "Mexico Legends vs International Legends (Juego de Leyendas 2026)",
@@ -419,6 +405,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_name": "USA Women vs Bangladesh Women",
+      "startTime": "08:45:00 AM 18-01-2026"
+    },
+    {
+      "id": 139218,
+      "event_category": "Cricket",
+      "title": "Zimbabwe Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Zimbabwe Women",
+      "team_2": "Netherlands Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Zimbabwe Women vs Netherlands Women",
       "startTime": "08:45:00 AM 18-01-2026"
     }
   ]
