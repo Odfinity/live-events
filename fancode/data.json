@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:23 PM 16-01-2026",
+  "last update time": "12:09 AM 17-01-2026",
   "matches": [
     {
       "id": 139360,
@@ -16,20 +16,6 @@
       "startTime": "11:00:00 PM 16-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/Gd5hN0UNR-GS1_zpOM3l5w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139360_english_hls_b89619e6db8075_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139276,
-      "event_category": "Football",
-      "title": "Vietnam U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Vietnam-U23_vs_UAE23_fc-web.jpg",
-      "team_1": "Vietnam U23",
-      "team_2": "United Arab Emirates U23",
-      "status": "LIVE",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Vietnam U23 vs United Arab Emirates U23",
-      "startTime": "09:00:00 PM 16-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/FTvEwDNVRb6GaHoe83czCQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139276_english_hls_89fca343c586276_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139778,
@@ -70,6 +56,18 @@
       "startTime": "05:30:00 PM 17-01-2026"
     },
     {
+      "id": 139787,
+      "event_category": "Football",
+      "title": "Castellón vs Leganés (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139787_CASACARDS_APP.png",
+      "team_1": "Castellón",
+      "team_2": "Leganés",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Castellón vs Leganés",
+      "startTime": "01:00:00 AM 17-01-2026"
+    },
+    {
       "id": 131029,
       "event_category": "Football",
       "title": "RCD Espanyol vs Girona FC (LALIGA 2025-26)",
@@ -94,30 +92,6 @@
       "startTime": "01:30:00 AM 17-01-2026"
     },
     {
-      "id": 139787,
-      "event_category": "Football",
-      "title": "Castellón vs Leganés (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139787_CASACARDS_APP.png",
-      "team_1": "Castellón",
-      "team_2": "Leganés",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Leganés",
-      "startTime": "01:00:00 AM 17-01-2026"
-    },
-    {
-      "id": 139784,
-      "event_category": "Football",
-      "title": "Rangers vs Annan Athletic (Scottish Cup 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
-      "team_1": "Rangers",
-      "team_2": "Annan Athletic",
-      "status": "UPCOMING",
-      "event_name": "Scottish Cup 2025-26",
-      "match_name": "Rangers vs Annan Athletic",
-      "startTime": "01:15:00 AM 17-01-2026"
-    },
-    {
       "id": 139914,
       "event_category": "Football",
       "title": "Coventry City Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
@@ -128,6 +102,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Coventry City Football Club vs Leicester City F.C.",
       "startTime": "06:00:00 PM 17-01-2026"
+    },
+    {
+      "id": 139751,
+      "event_category": "Cricket",
+      "title": "Leeward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "Leeward Islands Women",
+      "team_2": "Trinidad and Tobago Women",
+      "status": "UPCOMING",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Leeward Islands Women vs Trinidad and Tobago Women",
+      "startTime": "07:00:00 PM 17-01-2026"
     },
     {
       "id": 131025,
@@ -142,16 +128,16 @@
       "startTime": "06:30:00 PM 17-01-2026"
     },
     {
-      "id": 139751,
-      "event_category": "Cricket",
-      "title": "Leeward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Leeward Islands Women",
-      "team_2": "Trinidad and Tobago Women",
+      "id": 139784,
+      "event_category": "Football",
+      "title": "Rangers vs Annan Athletic (Scottish Cup 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+      "team_1": "Rangers",
+      "team_2": "Annan Athletic",
       "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Leeward Islands Women vs Trinidad and Tobago Women",
-      "startTime": "07:00:00 PM 17-01-2026"
+      "event_name": "Scottish Cup 2025-26",
+      "match_name": "Rangers vs Annan Athletic",
+      "startTime": "01:15:00 AM 17-01-2026"
     },
     {
       "id": 139915,
@@ -178,18 +164,6 @@
       "startTime": "08:45:00 PM 17-01-2026"
     },
     {
-      "id": 139277,
-      "event_category": "Football",
-      "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Uzbekistan-U23_vs_ChinaPR_fc-web.jpg",
-      "team_1": "Uzbekistan U23",
-      "team_2": "China PR U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Uzbekistan U23 vs China PR U23",
-      "startTime": "05:00:00 PM 17-01-2026"
-    },
-    {
       "id": 138393,
       "event_category": "Football",
       "title": "Egypt vs Nigeria (Africa Cup of Nations 2025-26)",
@@ -200,6 +174,18 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Egypt vs Nigeria",
       "startTime": "09:30:00 PM 17-01-2026"
+    },
+    {
+      "id": 139277,
+      "event_category": "Football",
+      "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Uzbekistan-U23_vs_ChinaPR_fc-web.jpg",
+      "team_1": "Uzbekistan U23",
+      "team_2": "China PR U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Uzbekistan U23 vs China PR U23",
+      "startTime": "05:00:00 PM 17-01-2026"
     },
     {
       "id": 131021,
@@ -310,6 +296,18 @@
       "startTime": "01:30:00 AM 18-01-2026"
     },
     {
+      "id": 138784,
+      "event_category": "Cricket",
+      "title": "Otago Sparks vs Northern Brave Women (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-web_1766596522109.jpg",
+      "team_1": "Otago Sparks",
+      "team_2": "Northern Brave Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Otago Sparks vs Northern Brave Women",
+      "startTime": "05:10:00 AM 18-01-2026"
+    },
+    {
       "id": 139773,
       "event_category": "Golf",
       "title": "World Feed - Day 2 vs Hawaii (Sony Open in Hawaii 2026)",
@@ -332,18 +330,6 @@
       "event_name": "ATP 250 - Auckland Open",
       "match_name": "ATP 250 - ASB Classic",
       "startTime": "06:30:00 AM 17-01-2026"
-    },
-    {
-      "id": 138784,
-      "event_category": "Cricket",
-      "title": "Otago Sparks vs Northern Brave Women (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-web_1766596522109.jpg",
-      "team_1": "Otago Sparks",
-      "team_2": "Northern Brave Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Otago Sparks vs Northern Brave Women",
-      "startTime": "05:10:00 AM 18-01-2026"
     },
     {
       "id": 139569,
@@ -416,6 +402,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Otago Volts vs Northern Districts",
       "startTime": "08:55:00 AM 18-01-2026"
+    },
+    {
+      "id": 139922,
+      "event_category": "Football",
+      "title": "Mexico Legends vs International Legends (Juego de Leyendas 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Juego-de-leyendas_web.jpg",
+      "team_1": "Mexico Legends",
+      "team_2": "International Legends",
+      "status": "UPCOMING",
+      "event_name": "Juego de Leyendas 2026",
+      "match_name": "Mexico Legends vs International Legends",
+      "startTime": "06:30:00 AM 18-01-2026"
     }
   ]
 }
