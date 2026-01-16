@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 16-01-2026",
+  "last update time": "07:54 AM 16-01-2026",
   "matches": [
+    {
+      "id": 138783,
+      "event_category": "Cricket",
+      "title": "Central Hinds vs Auckland Hearts (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
+      "team_1": "Central Hinds",
+      "team_2": "Auckland Hearts",
+      "status": "LIVE",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Central Hinds vs Auckland Hearts",
+      "startTime": "06:40:00 AM 16-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/55bH9D5-TjKp3boqRk4Hqg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138783_english_hls_51f56fa1f749915_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139750,
       "event_category": "Cricket",
@@ -60,16 +74,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139772_english_hls_1b879078ee35019_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138783,
-      "event_category": "Cricket",
-      "title": "Central Hinds vs Auckland Hearts (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
-      "team_1": "Central Hinds",
-      "team_2": "Auckland Hearts",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Central Hinds vs Auckland Hearts",
-      "startTime": "06:40:00 AM 16-01-2026"
+      "id": 139568,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "team_1": "Centre Court - Day 5",
+      "team_2": "Adelaide",
+      "status": "LIVE",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 5",
+      "startTime": "08:00:00 AM 16-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/XcuhbFKBRkK54QIprbUX1Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139568_english_hls_cb0684148e74035_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138751,
@@ -108,18 +124,6 @@
       "startTime": "11:00:00 PM 16-01-2026"
     },
     {
-      "id": 139275,
-      "event_category": "Football",
-      "title": "Japan U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Japan U23",
-      "team_2": "Jordan U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Japan U23 vs Jordan U23",
-      "startTime": "05:00:00 PM 16-01-2026"
-    },
-    {
       "id": 131029,
       "event_category": "Football",
       "title": "RCD Espanyol vs Girona FC (LALIGA 2025-26)",
@@ -144,16 +148,16 @@
       "startTime": "01:30:00 AM 17-01-2026"
     },
     {
-      "id": 138934,
-      "event_category": "Cricket",
-      "title": "Chattogram Royals vs Noakhali Express (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138934_5808_CCH_NOE_fc-web_1766733054213.jpg",
-      "team_1": "Chattogram Royals",
-      "team_2": "Noakhali Express",
+      "id": 139275,
+      "event_category": "Football",
+      "title": "Japan U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Japan U23",
+      "team_2": "Jordan U23",
       "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Chattogram Royals vs Noakhali Express",
-      "startTime": "01:30:00 PM 16-01-2026"
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Japan U23 vs Jordan U23",
+      "startTime": "05:00:00 PM 16-01-2026"
     },
     {
       "id": 139276,
@@ -166,6 +170,18 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Vietnam U23 vs United Arab Emirates U23",
       "startTime": "09:00:00 PM 16-01-2026"
+    },
+    {
+      "id": 138934,
+      "event_category": "Cricket",
+      "title": "Chattogram Royals vs Noakhali Express (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138934_5808_CCH_NOE_fc-web_1766733054213.jpg",
+      "team_1": "Chattogram Royals",
+      "team_2": "Noakhali Express",
+      "status": "UPCOMING",
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Chattogram Royals vs Noakhali Express",
+      "startTime": "01:30:00 PM 16-01-2026"
     },
     {
       "id": 138935,
@@ -228,16 +244,16 @@
       "startTime": "04:15:00 PM 16-01-2026"
     },
     {
-      "id": 139568,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-      "team_1": "Centre Court - Day 5",
-      "team_2": "Adelaide",
+      "id": 138928,
+      "event_category": "Cricket",
+      "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
+      "team_1": "Rangpur Riders",
+      "team_2": "Dhaka Capitals",
       "status": "UPCOMING",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 5",
-      "startTime": "08:00:00 AM 16-01-2026"
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Rangpur Riders vs Dhaka Capitals",
+      "startTime": "12:30:00 PM 17-01-2026"
     },
     {
       "id": 139778,
@@ -252,18 +268,6 @@
       "startTime": "10:30:00 PM 16-01-2026"
     },
     {
-      "id": 138928,
-      "event_category": "Cricket",
-      "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
-      "team_1": "Rangpur Riders",
-      "team_2": "Dhaka Capitals",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Rangpur Riders vs Dhaka Capitals",
-      "startTime": "12:30:00 PM 17-01-2026"
-    },
-    {
       "id": 139773,
       "event_category": "Golf",
       "title": "World Feed - Day 2 vs Hawaii (Sony Open in Hawaii 2026)",
@@ -276,18 +280,6 @@
       "startTime": "05:30:00 AM 17-01-2026"
     },
     {
-      "id": 139569,
-      "event_category": "Tennis",
-      "title": "Centre Court - Day 6 vs Adelaide (ATP 250 - Adelaide International)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-      "team_1": "Centre Court - Day 6",
-      "team_2": "Adelaide",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Adelaide International",
-      "match_name": "Centre Court - Day 6",
-      "startTime": "09:00:00 AM 17-01-2026"
-    },
-    {
       "id": 138929,
       "event_category": "Cricket",
       "title": "Chattogram Royals vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
@@ -298,6 +290,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Chattogram Royals vs Rajshahi Warriors",
       "startTime": "05:30:00 PM 17-01-2026"
+    },
+    {
+      "id": 139569,
+      "event_category": "Tennis",
+      "title": "Centre Court - Day 6 vs Adelaide (ATP 250 - Adelaide International)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+      "team_1": "Centre Court - Day 6",
+      "team_2": "Adelaide",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Adelaide International",
+      "match_name": "Centre Court - Day 6",
+      "startTime": "09:00:00 AM 17-01-2026"
     },
     {
       "id": 139386,
