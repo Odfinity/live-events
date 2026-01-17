@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:57 AM 18-01-2026",
+  "last update time": "04:15 AM 18-01-2026",
   "matches": [
-    {
-      "id": 139788,
-      "event_category": "Football",
-      "title": "Almería vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139788_CASACARDS_APP.png",
-      "team_1": "Almería",
-      "team_2": "Deportivo La Coruna",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Almería vs Deportivo La Coruna",
-      "startTime": "01:30:00 AM 18-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/d7-lkSM_QD2-Nai6KMChqQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139788_english_hls_afe3567fe432527_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139780,
       "event_category": "Golf",
@@ -30,20 +16,6 @@
       "startTime": "10:45:00 PM 17-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/0t0PQ8DEQti1AvLIcrOFhQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139780_english_hls_ec50c15d8d92249_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131026,
-      "event_category": "Football",
-      "title": "Real Betis vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131026_5427_RB_VIL_fc-Web.png",
-      "team_1": "Real Betis",
-      "team_2": "Villarreal CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Betis vs Villarreal CF",
-      "startTime": "01:30:00 AM 18-01-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131026_english_hls_ad651a686941779_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131026_english_hls_ad651a686941779_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138784,
@@ -104,6 +76,18 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "Jamaica Women vs Guyana Women",
       "startTime": "04:30:00 AM 18-01-2026"
+    },
+    {
+      "id": 139785,
+      "event_category": "Football",
+      "title": "Heart of Midlothian vs Falkirk (Scottish Cup 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+      "team_1": "Heart of Midlothian",
+      "team_2": "Falkirk",
+      "status": "UPCOMING",
+      "event_name": "Scottish Cup 2025-26",
+      "match_name": "Heart of Midlothian vs Falkirk",
+      "startTime": "01:30:00 AM 18-01-2026"
     },
     {
       "id": 139219,
@@ -190,18 +174,6 @@
       "startTime": "08:45:00 PM 18-01-2026"
     },
     {
-      "id": 139389,
-      "event_category": "Football",
-      "title": "Sydney FC vs Wellington Phoenix (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139389_CASACARDS_APP.png",
-      "team_1": "Sydney FC",
-      "team_2": "Wellington Phoenix",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Wellington Phoenix",
-      "startTime": "11:30:00 AM 18-01-2026"
-    },
-    {
       "id": 131027,
       "event_category": "Football",
       "title": "RC Celta vs Rayo Vallecano (LALIGA 2025-26)",
@@ -224,6 +196,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Neom SC vs Al Hilal SFC",
       "startTime": "11:00:00 PM 18-01-2026"
+    },
+    {
+      "id": 139389,
+      "event_category": "Football",
+      "title": "Sydney FC vs Wellington Phoenix (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139389_CASACARDS_APP.png",
+      "team_1": "Sydney FC",
+      "team_2": "Wellington Phoenix",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Wellington Phoenix",
+      "startTime": "11:30:00 AM 18-01-2026"
     },
     {
       "id": 138785,
@@ -439,6 +423,18 @@
       "status": "UPCOMING",
       "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_name": "Zimbabwe Women vs Thailand Women",
+      "startTime": "08:45:00 AM 20-01-2026"
+    },
+    {
+      "id": 139222,
+      "event_category": "Cricket",
+      "title": "Papua New Guinea Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Papua-New-Guinea-Women-vs-Bangladesh-Women_1768652698103.png",
+      "team_1": "Papua New Guinea Women",
+      "team_2": "Bangladesh Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Papua New Guinea Women vs Bangladesh Women",
       "startTime": "08:45:00 AM 20-01-2026"
     }
   ]
