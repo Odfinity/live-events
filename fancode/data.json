@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:21 PM 17-01-2026",
+  "last update time": "06:19 PM 17-01-2026",
   "matches": [
     {
       "id": 138929,
@@ -16,6 +16,34 @@
       "startTime": "05:30:00 PM 17-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/sP9bTdF_TcG07H6IEonaFQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138929_english_hls_5538690d1999247_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139914,
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139914_CASACARDS_APP.png",
+      "team_1": "Coventry City Football Club",
+      "team_2": "Leicester City F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs Leicester City F.C.",
+      "startTime": "06:00:00 PM 17-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/fboKTQ0wS8mTKXDUyZi-BQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139914_english_hls_ec0f740f6e39831_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131025,
+      "event_category": "Football",
+      "title": "Real Madrid vs Levante (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131025_5427_RM_LE_fc-Web.png",
+      "team_1": "Real Madrid",
+      "team_2": "Levante",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Levante",
+      "startTime": "06:30:00 PM 17-01-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131025_english_hls_ce5579a68110873_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131025_english_hls_ce5579a68110873_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139277,
@@ -56,16 +84,16 @@
       "startTime": "08:55:00 AM 18-01-2026"
     },
     {
-      "id": 139914,
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139914_CASACARDS_APP.png",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Leicester City F.C.",
+      "id": 139751,
+      "event_category": "Cricket",
+      "title": "Leeward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "Leeward Islands Women",
+      "team_2": "Trinidad and Tobago Women",
       "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Leicester City F.C.",
-      "startTime": "06:00:00 PM 17-01-2026"
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Leeward Islands Women vs Trinidad and Tobago Women",
+      "startTime": "07:00:00 PM 17-01-2026"
     },
     {
       "id": 138936,
@@ -80,18 +108,6 @@
       "startTime": "12:30:00 PM 18-01-2026"
     },
     {
-      "id": 139751,
-      "event_category": "Cricket",
-      "title": "Leeward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Leeward Islands Women",
-      "team_2": "Trinidad and Tobago Women",
-      "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Leeward Islands Women vs Trinidad and Tobago Women",
-      "startTime": "07:00:00 PM 17-01-2026"
-    },
-    {
       "id": 139752,
       "event_category": "Cricket",
       "title": "Barbados Women vs Windward Islands Women (CWI T20 Blaze 2026)",
@@ -102,18 +118,6 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "Barbados Women vs Windward Islands Women",
       "startTime": "12:00:00 AM 18-01-2026"
-    },
-    {
-      "id": 131025,
-      "event_category": "Football",
-      "title": "Real Madrid vs Levante (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131025_5427_RM_LE_fc-Web.png",
-      "team_1": "Real Madrid",
-      "team_2": "Levante",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Levante",
-      "startTime": "06:30:00 PM 17-01-2026"
     },
     {
       "id": 139915,
@@ -188,18 +192,6 @@
       "startTime": "11:00:00 PM 17-01-2026"
     },
     {
-      "id": 131026,
-      "event_category": "Football",
-      "title": "Real Betis vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131026_5427_RB_VIL_fc-Web.png",
-      "team_1": "Real Betis",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Betis vs Villarreal CF",
-      "startTime": "01:30:00 AM 18-01-2026"
-    },
-    {
       "id": 139753,
       "event_category": "Cricket",
       "title": "Jamaica Women vs Guyana Women (CWI T20 Blaze 2026)",
@@ -210,6 +202,18 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "Jamaica Women vs Guyana Women",
       "startTime": "04:30:00 AM 18-01-2026"
+    },
+    {
+      "id": 131026,
+      "event_category": "Football",
+      "title": "Real Betis vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131026_5427_RB_VIL_fc-Web.png",
+      "team_1": "Real Betis",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Betis vs Villarreal CF",
+      "startTime": "01:30:00 AM 18-01-2026"
     },
     {
       "id": 139922,
@@ -227,7 +231,7 @@
       "id": 139219,
       "event_category": "Cricket",
       "title": "USA Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_USA-Women-vs-Bangladesh-Women_1768652240804.png",
       "team_1": "USA Women",
       "team_2": "Bangladesh Women",
       "status": "UPCOMING",
@@ -239,7 +243,7 @@
       "id": 139218,
       "event_category": "Cricket",
       "title": "Zimbabwe Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Zimbabwe-Women-vs-Netherlands-Women_1768652352492.png",
       "team_1": "Zimbabwe Women",
       "team_2": "Netherlands Women",
       "status": "UPCOMING",
@@ -260,22 +264,10 @@
       "startTime": "05:30:00 PM 18-01-2026"
     },
     {
-      "id": 139278,
-      "event_category": "Football",
-      "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
-      "team_1": "Australia U23",
-      "team_2": "Korea Republic U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Australia U23 vs Korea Republic U23",
-      "startTime": "09:00:00 PM 17-01-2026"
-    },
-    {
       "id": 139221,
       "event_category": "Cricket",
       "title": "Thailand Women vs Nepal Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-Women-vs-Nepal-Women_1768652427014.png",
       "team_1": "Thailand Women",
       "team_2": "Nepal Women",
       "status": "UPCOMING",
@@ -287,13 +279,25 @@
       "id": 139220,
       "event_category": "Cricket",
       "title": "Ireland Women vs Papua New Guinea Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Ireland-Women-vs-Papua-New-Guinea-Women_1768652492077.png",
       "team_1": "Ireland Women",
       "team_2": "Papua New Guinea Women",
       "status": "UPCOMING",
       "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_name": "Ireland Women vs Papua New Guinea Women",
       "startTime": "12:45:00 PM 18-01-2026"
+    },
+    {
+      "id": 139278,
+      "event_category": "Football",
+      "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
+      "team_1": "Australia U23",
+      "team_2": "Korea Republic U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Australia U23 vs Korea Republic U23",
+      "startTime": "09:00:00 PM 17-01-2026"
     },
     {
       "id": 139785,
@@ -344,6 +348,18 @@
       "startTime": "06:30:00 PM 18-01-2026"
     },
     {
+      "id": 131022,
+      "event_category": "Football",
+      "title": "Atletico de Madrid vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131022_5427_ATL_ALA_fc-Web.png",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Deportivo Alaves",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs Deportivo Alaves",
+      "startTime": "08:45:00 PM 18-01-2026"
+    },
+    {
       "id": 139780,
       "event_category": "Golf",
       "title": "Featured Group - Day 3 vs Hawaii (Sony Open in Hawaii 2026)",
@@ -366,18 +382,6 @@
       "event_name": "Sony Open in Hawaii 2026",
       "match_name": "World Feed - Day 3",
       "startTime": "05:30:00 AM 18-01-2026"
-    },
-    {
-      "id": 131022,
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131022_5427_ATL_ALA_fc-Web.png",
-      "team_1": "Atletico de Madrid",
-      "team_2": "Deportivo Alaves",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs Deportivo Alaves",
-      "startTime": "08:45:00 PM 18-01-2026"
     },
     {
       "id": 131027,
