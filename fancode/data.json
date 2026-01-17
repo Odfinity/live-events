@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:11 PM 17-01-2026",
+  "last update time": "11:26 PM 17-01-2026",
   "matches": [
     {
       "id": 138393,
@@ -58,20 +58,6 @@
       "startTime": "11:00:00 PM 17-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131021_english_hls_479ffec92283604_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131021_english_hls_479ffec92283604_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139278,
-      "event_category": "Football",
-      "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
-      "team_1": "Australia U23",
-      "team_2": "Korea Republic U23",
-      "status": "LIVE",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Australia U23 vs Korea Republic U23",
-      "startTime": "09:00:00 PM 17-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/ughGF_cMTCqU0T33eBNF8A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139278_english_hls_002a4475651224_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139780,
@@ -448,6 +434,18 @@
       "event_name": "Afghanistan vs West Indies 2026",
       "match_name": "Afghanistan vs West Indies",
       "startTime": "08:00:00 PM 19-01-2026"
+    },
+    {
+      "id": 131028,
+      "event_category": "Football",
+      "title": "Elche CF vs Sevilla FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131028_5427_ELC_SEV_fc-Web_1768202354379.png",
+      "team_1": "Elche CF",
+      "team_2": "Sevilla FC",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs Sevilla FC",
+      "startTime": "01:30:00 AM 20-01-2026"
     }
   ]
 }
