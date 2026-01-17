@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:26 PM 17-01-2026",
+  "last update time": "10:02 PM 17-01-2026",
   "matches": [
-    {
-      "id": 138929,
-      "event_category": "Cricket",
-      "title": "Chattogram Royals vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138929_5808_CCH_DBR_fc-web_1766733054169.jpg",
-      "team_1": "Chattogram Royals",
-      "team_2": "Rajshahi Warriors",
-      "status": "LIVE",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Chattogram Royals vs Rajshahi Warriors",
-      "startTime": "05:30:00 PM 17-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/sP9bTdF_TcG07H6IEonaFQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138929_english_hls_5538690d1999247_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139751,
       "event_category": "Cricket",
@@ -58,6 +44,20 @@
       "startTime": "08:45:00 PM 17-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131023_english_hls_653ec950c845809_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131023_english_hls_653ec950c845809_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 138393,
+      "event_category": "Football",
+      "title": "Egypt vs Nigeria (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg",
+      "team_1": "Egypt",
+      "team_2": "Nigeria",
+      "status": "LIVE",
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Egypt vs Nigeria",
+      "startTime": "09:30:00 PM 17-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/TR8qw0PiTTGR0v1Nfp9ARg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138393_english_hls_4c136f576486621_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139278,
@@ -108,18 +108,6 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rangpur Riders vs Noakhali Express",
       "startTime": "12:30:00 PM 18-01-2026"
-    },
-    {
-      "id": 138393,
-      "event_category": "Football",
-      "title": "Egypt vs Nigeria (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg",
-      "team_1": "Egypt",
-      "team_2": "Nigeria",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Egypt vs Nigeria",
-      "startTime": "09:30:00 PM 17-01-2026"
     },
     {
       "id": 138937,
@@ -302,6 +290,18 @@
       "startTime": "11:30:00 AM 18-01-2026"
     },
     {
+      "id": 139780,
+      "event_category": "Golf",
+      "title": "Featured Group - Day 3 vs Hawaii (Sony Open in Hawaii 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+      "team_1": "Featured Group - Day 3",
+      "team_2": "Hawaii",
+      "status": "UPCOMING",
+      "event_name": "Sony Open in Hawaii 2026",
+      "match_name": "Featured Group - Day 3",
+      "startTime": "10:45:00 PM 17-01-2026"
+    },
+    {
       "id": 131020,
       "event_category": "Football",
       "title": "Getafe CF vs Valencia CF (LALIGA 2025-26)",
@@ -350,16 +350,16 @@
       "startTime": "11:00:00 PM 18-01-2026"
     },
     {
-      "id": 139780,
-      "event_category": "Golf",
-      "title": "Featured Group - Day 3 vs Hawaii (Sony Open in Hawaii 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
-      "team_1": "Featured Group - Day 3",
-      "team_2": "Hawaii",
+      "id": 138394,
+      "event_category": "Football",
+      "title": "Senegal vs Morocco (Africa Cup of Nations 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Morocco_fc-web.jpg",
+      "team_1": "Senegal",
+      "team_2": "Morocco",
       "status": "UPCOMING",
-      "event_name": "Sony Open in Hawaii 2026",
-      "match_name": "Featured Group - Day 3",
-      "startTime": "10:45:00 PM 17-01-2026"
+      "event_name": "Africa Cup of Nations 2025-26",
+      "match_name": "Senegal vs Morocco",
+      "startTime": "12:30:00 AM 19-01-2026"
     },
     {
       "id": 139774,
@@ -372,18 +372,6 @@
       "event_name": "Sony Open in Hawaii 2026",
       "match_name": "World Feed - Day 3",
       "startTime": "05:30:00 AM 18-01-2026"
-    },
-    {
-      "id": 138394,
-      "event_category": "Football",
-      "title": "Senegal vs Morocco (Africa Cup of Nations 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Morocco_fc-web.jpg",
-      "team_1": "Senegal",
-      "team_2": "Morocco",
-      "status": "UPCOMING",
-      "event_name": "Africa Cup of Nations 2025-26",
-      "match_name": "Senegal vs Morocco",
-      "startTime": "12:30:00 AM 19-01-2026"
     },
     {
       "id": 139786,
