@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 AM 19-01-2026",
+  "last update time": "03:58 AM 19-01-2026",
   "matches": [
+    {
+      "id": 139782,
+      "event_category": "Golf",
+      "title": "Featured Group - Day 4 vs Hawaii (Sony Open in Hawaii 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+      "team_1": "Featured Group - Day 4",
+      "team_2": "Hawaii",
+      "status": "LIVE",
+      "event_name": "Sony Open in Hawaii 2026",
+      "match_name": "Featured Group - Day 4",
+      "startTime": "10:30:00 PM 18-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/5osGzmw7RoSbByFGRYoXOQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139782_english_hls_24f0544f5d97918_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 138394,
       "event_category": "Football",
@@ -30,34 +44,6 @@
       "startTime": "01:30:00 AM 19-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139789,
-      "event_category": "Football",
-      "title": "Córdoba vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139789_CASACARDS_APP.png",
-      "team_1": "Córdoba",
-      "team_2": "Málaga",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Córdoba vs Málaga",
-      "startTime": "01:30:00 AM 19-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/O-iOOTMxS0GsC7HCyCYRoA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139789_english_hls_faa3dd8e8637960_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139782,
-      "event_category": "Golf",
-      "title": "Featured Group - Day 4 vs Hawaii (Sony Open in Hawaii 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
-      "team_1": "Featured Group - Day 4",
-      "team_2": "Hawaii",
-      "status": "LIVE",
-      "event_name": "Sony Open in Hawaii 2026",
-      "match_name": "Featured Group - Day 4",
-      "startTime": "10:30:00 PM 18-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/5osGzmw7RoSbByFGRYoXOQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139782_english_hls_24f0544f5d97918_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138785,
@@ -418,6 +404,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Damac vs Al-Nassr FC",
       "startTime": "11:00:00 PM 21-01-2026"
+    },
+    {
+      "id": 139340,
+      "event_category": "Football",
+      "title": "Stoke City F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139340_CASACARDS_APP.png",
+      "team_1": "Stoke City F.C.",
+      "team_2": "Middlesbrough F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Stoke City F.C. vs Middlesbrough F.C.",
+      "startTime": "01:30:00 AM 22-01-2026"
     }
   ]
 }
