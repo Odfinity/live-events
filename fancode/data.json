@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:24 AM 19-01-2026",
+  "last update time": "12:49 AM 19-01-2026",
   "matches": [
     {
       "id": 131027,
@@ -42,8 +42,8 @@
       "event_name": "Africa Cup of Nations 2025-26",
       "match_name": "Senegal vs Morocco",
       "startTime": "12:30:00 AM 19-01-2026",
-      "dai_url": null,
-      "adfree_url": null
+      "dai_url": "https://dai.google.com/linear/hls/event/u78Onre2RFijyM690TwdFQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138394_english_hls_be4201c9ee18463_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139786,
@@ -98,18 +98,6 @@
       "startTime": "08:55:00 AM 19-01-2026"
     },
     {
-      "id": 139298,
-      "event_category": "Cricket",
-      "title": "Afghanistan vs West Indies (Afghanistan vs West Indies 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "event_name": "Afghanistan vs West Indies 2026",
-      "match_name": "Afghanistan vs West Indies",
-      "startTime": "08:00:00 PM 19-01-2026"
-    },
-    {
       "id": 131024,
       "event_category": "Football",
       "title": "Real Sociedad vs FC Barcelona (LALIGA 2025-26)",
@@ -120,6 +108,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Sociedad vs FC Barcelona",
       "startTime": "01:30:00 AM 19-01-2026"
+    },
+    {
+      "id": 139298,
+      "event_category": "Cricket",
+      "title": "Afghanistan vs West Indies (Afghanistan vs West Indies 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg",
+      "team_1": "Afghanistan",
+      "team_2": "West Indies",
+      "status": "UPCOMING",
+      "event_name": "Afghanistan vs West Indies 2026",
+      "match_name": "Afghanistan vs West Indies",
+      "startTime": "08:00:00 PM 19-01-2026"
     },
     {
       "id": 139789,
@@ -146,18 +146,6 @@
       "startTime": "01:30:00 AM 20-01-2026"
     },
     {
-      "id": 139775,
-      "event_category": "Golf",
-      "title": "World Feed - Day 4 vs Hawaii (Sony Open in Hawaii 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
-      "team_1": "World Feed - Day 4",
-      "team_2": "Hawaii",
-      "status": "UPCOMING",
-      "event_name": "Sony Open in Hawaii 2026",
-      "match_name": "World Feed - Day 4",
-      "startTime": "05:30:00 AM 19-01-2026"
-    },
-    {
       "id": 139790,
       "event_category": "Football",
       "title": "Granada vs Eibar (LALIGA Hypermotion 2025-26)",
@@ -168,6 +156,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Granada vs Eibar",
       "startTime": "01:00:00 AM 20-01-2026"
+    },
+    {
+      "id": 139775,
+      "event_category": "Golf",
+      "title": "World Feed - Day 4 vs Hawaii (Sony Open in Hawaii 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+      "team_1": "World Feed - Day 4",
+      "team_2": "Hawaii",
+      "status": "UPCOMING",
+      "event_name": "Sony Open in Hawaii 2026",
+      "match_name": "World Feed - Day 4",
+      "startTime": "05:30:00 AM 19-01-2026"
     },
     {
       "id": 138786,
