@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:22 AM 20-01-2026",
+  "last update time": "02:54 AM 20-01-2026",
   "matches": [
-    {
-      "id": 139755,
-      "event_category": "Cricket",
-      "title": "Trinidad and Tobago Women vs Guyana Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Trinidad and Tobago Women",
-      "team_2": "Guyana Women",
-      "status": "LIVE",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Trinidad and Tobago Women vs Guyana Women",
-      "startTime": "12:00:00 AM 20-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/8Om8iDxGROaItTh5Uh6hvQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139755_english_hls_84e3c1aa5379410_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 131028,
       "event_category": "Football",
@@ -428,6 +414,18 @@
       "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_name": "Ireland Women vs USA Women",
       "startTime": "08:45:00 AM 22-01-2026"
+    },
+    {
+      "id": 139289,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Sri Lanka",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of Sri Lanka, 2026",
+      "match_name": "Sri Lanka vs England",
+      "startTime": "02:30:00 PM 22-01-2026"
     }
   ]
 }
