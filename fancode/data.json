@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:26 AM 20-01-2026",
+  "last update time": "12:19 PM 20-01-2026",
   "matches": [
     {
-      "id": 133968,
+      "id": 138946,
       "event_category": "Cricket",
-      "title": "Queensland Fire vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "Queensland Fire",
-      "team_2": "South Australian Scorpions",
+      "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
+      "team_1": "Sylhet Titans",
+      "team_2": "Rangpur Riders",
       "status": "LIVE",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Queensland Fire vs South Australian Scorpions",
-      "startTime": "05:00:00 AM 20-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/wXzx2Gc5QXqXLpnPcatjuQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133968_english_hls_efb12067e159158_1ta-di_h264/index.m3u8"
+      "event_name": "Bangladesh Premier League, 2025-26",
+      "match_name": "Sylhet Titans vs Rangpur Riders",
+      "startTime": "12:30:00 PM 20-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/fe8B0nLMT5G0Mx8J2UdUyw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139668,
+      "event_category": "Cricket",
+      "title": "Dyandeep Seva Mandal vs Swami Vivekanand (Giles Shield 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team_1": "Dyandeep Seva Mandal",
+      "team_2": "Swami Vivekanand",
+      "status": "LIVE",
+      "event_name": "Giles Shield 2026",
+      "match_name": "Dyandeep Seva Mandal vs Swami Vivekanand",
+      "startTime": "09:45:00 AM 20-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/z0qoaWuDTxisugoICtd9Zw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946961435_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139223,
@@ -46,32 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139222_english_hls_e5da087ff762368_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139668,
-      "event_category": "Cricket",
-      "title": "Dyandeep Seva Mandal vs Swami Vivekanand (Giles Shield 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-      "team_1": "Dyandeep Seva Mandal",
-      "team_2": "Swami Vivekanand",
-      "status": "LIVE",
-      "event_name": "Giles Shield 2026",
-      "match_name": "Dyandeep Seva Mandal vs Swami Vivekanand",
-      "startTime": "09:45:00 AM 20-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/z0qoaWuDTxisugoICtd9Zw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946961435_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138946,
-      "event_category": "Cricket",
-      "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
-      "team_1": "Sylhet Titans",
-      "team_2": "Rangpur Riders",
-      "status": "UPCOMING",
-      "event_name": "Bangladesh Premier League, 2025-26",
-      "match_name": "Sylhet Titans vs Rangpur Riders",
-      "startTime": "12:30:00 PM 20-01-2026"
-    },
-    {
       "id": 138947,
       "event_category": "Cricket",
       "title": "Rajshahi Warriors vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -82,18 +70,6 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rajshahi Warriors vs Chattogram Royals",
       "startTime": "05:30:00 PM 20-01-2026"
-    },
-    {
-      "id": 138787,
-      "event_category": "Cricket",
-      "title": "Canterbury Magicians vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-web_1766596522283.jpg",
-      "team_1": "Canterbury Magicians",
-      "team_2": "Otago Sparks",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Canterbury Magicians vs Otago Sparks",
-      "startTime": "06:40:00 AM 21-01-2026"
     },
     {
       "id": 139225,
@@ -120,6 +96,30 @@
       "startTime": "12:45:00 PM 20-01-2026"
     },
     {
+      "id": 138787,
+      "event_category": "Cricket",
+      "title": "Canterbury Magicians vs Otago Sparks (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-web_1766596522283.jpg",
+      "team_1": "Canterbury Magicians",
+      "team_2": "Otago Sparks",
+      "status": "UPCOMING",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Canterbury Magicians vs Otago Sparks",
+      "startTime": "06:40:00 AM 21-01-2026"
+    },
+    {
+      "id": 138755,
+      "event_category": "Cricket",
+      "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138755_5800_CTB_OV_fc-web_1766641251123.jpg",
+      "team_1": "Canterbury",
+      "team_2": "Otago Volts",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Canterbury vs Otago Volts",
+      "startTime": "10:25:00 AM 21-01-2026"
+    },
+    {
       "id": 139824,
       "event_category": "Football",
       "title": "Al-Ahli Saudi FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
@@ -142,18 +142,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Wrexham A.F.C. vs Leicester City F.C.",
       "startTime": "01:30:00 AM 21-01-2026"
-    },
-    {
-      "id": 138755,
-      "event_category": "Cricket",
-      "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138755_5800_CTB_OV_fc-web_1766641251123.jpg",
-      "team_1": "Canterbury",
-      "team_2": "Otago Volts",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Canterbury vs Otago Volts",
-      "startTime": "10:25:00 AM 21-01-2026"
     },
     {
       "id": 139279,
@@ -418,6 +406,30 @@
       "event_name": "The American Express 2026",
       "match_name": "Main Feed - Day 1",
       "startTime": "10:00:00 PM 22-01-2026"
+    },
+    {
+      "id": 140014,
+      "event_category": "Football",
+      "title": "Lincoln City F.C. vs Burton Albion (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Lincoln City F.C.",
+      "team_2": "Burton Albion",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Lincoln City F.C. vs Burton Albion",
+      "startTime": "01:30:00 AM 23-01-2026"
+    },
+    {
+      "id": 139993,
+      "event_category": "Golf",
+      "title": "Featured Group - Day 1 vs LA Quinta, CA, USA (The American Express 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "team_1": "Featured Group - Day 1",
+      "team_2": "LA Quinta, CA, USA",
+      "status": "UPCOMING",
+      "event_name": "The American Express 2026",
+      "match_name": "Featured Group - Day 1",
+      "startTime": "10:45:00 PM 22-01-2026"
     }
   ]
 }
