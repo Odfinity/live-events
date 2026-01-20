@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:24 PM 20-01-2026",
+  "last update time": "11:04 PM 20-01-2026",
   "matches": [
+    {
+      "id": 139824,
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-vs-Al-Khaleej_FC-web.jpg",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Al-Khaleej",
+      "status": "LIVE",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ahli Saudi FC vs Al-Khaleej",
+      "startTime": "11:00:00 PM 20-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/InP97ST8R8iGoPKRUBWPPQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139824_english_hls_2dd72e833010734_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139280,
       "event_category": "Football",
@@ -52,18 +66,6 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Canterbury vs Otago Volts",
       "startTime": "10:25:00 AM 21-01-2026"
-    },
-    {
-      "id": 139824,
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-vs-Al-Khaleej_FC-web.jpg",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Al-Khaleej",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Ahli Saudi FC vs Al-Khaleej",
-      "startTime": "11:00:00 PM 20-01-2026"
     },
     {
       "id": 138948,
@@ -138,18 +140,6 @@
       "startTime": "12:00:00 AM 22-01-2026"
     },
     {
-      "id": 139167,
-      "event_category": "Golf",
-      "title": "Jupiter vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Jupiter vs Los Angeles",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Jupiter vs Los Angeles",
-      "startTime": "05:30:00 AM 21-01-2026"
-    },
-    {
       "id": 139340,
       "event_category": "Football",
       "title": "Stoke City F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
@@ -160,6 +150,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Stoke City F.C. vs Middlesbrough F.C.",
       "startTime": "01:30:00 AM 22-01-2026"
+    },
+    {
+      "id": 139167,
+      "event_category": "Golf",
+      "title": "Jupiter vs Los Angeles vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Jupiter vs Los Angeles",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Jupiter vs Los Angeles",
+      "startTime": "05:30:00 AM 21-01-2026"
     },
     {
       "id": 138788,
