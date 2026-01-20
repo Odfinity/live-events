@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:54 AM 20-01-2026",
+  "last update time": "09:25 AM 20-01-2026",
   "matches": [
-    {
-      "id": 138786,
-      "event_category": "Cricket",
-      "title": "Northern Brave Women vs Central Hinds (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138786_5801_NB-W_CH-W_fc-web_1766596522273.jpg",
-      "team_1": "Northern Brave Women",
-      "team_2": "Central Hinds",
-      "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Northern Brave Women vs Central Hinds",
-      "startTime": "06:40:00 AM 20-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/0AWSzrd0R_eTK8ELf1WUJQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138786_english_hls_720891e92c62599_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 133969,
       "event_category": "Cricket",
@@ -44,6 +30,34 @@
       "startTime": "05:00:00 AM 20-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/wXzx2Gc5QXqXLpnPcatjuQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133968_english_hls_efb12067e159158_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139223,
+      "event_category": "Cricket",
+      "title": "Thailand Women vs Zimbabwe Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Zimbabwe-Women-vs-Thailand-Women_1768652645043.png",
+      "team_1": "Thailand Women",
+      "team_2": "Zimbabwe Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Thailand Women vs Zimbabwe Women",
+      "startTime": "08:45:00 AM 20-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/vjnXlVG4Tq2tPljjfoHfEw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139223_english_hls_fb34769ddd64567_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139222,
+      "event_category": "Cricket",
+      "title": "Bangladesh Women vs Papua New Guinea Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Papua-New-Guinea-Women-vs-Bangladesh-Women_1768652698103.png",
+      "team_1": "Bangladesh Women",
+      "team_2": "Papua New Guinea Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Bangladesh Women vs Papua New Guinea Women",
+      "startTime": "08:45:00 AM 20-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/keCXVqMqQ6aDw11qFQaKRg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139222_english_hls_e5da087ff762368_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138754,
@@ -80,30 +94,6 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Rajshahi Warriors vs Chattogram Royals",
       "startTime": "05:30:00 PM 20-01-2026"
-    },
-    {
-      "id": 139223,
-      "event_category": "Cricket",
-      "title": "Zimbabwe Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Zimbabwe-Women-vs-Thailand-Women_1768652645043.png",
-      "team_1": "Zimbabwe Women",
-      "team_2": "Thailand Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Zimbabwe Women vs Thailand Women",
-      "startTime": "08:45:00 AM 20-01-2026"
-    },
-    {
-      "id": 139222,
-      "event_category": "Cricket",
-      "title": "Papua New Guinea Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Papua-New-Guinea-Women-vs-Bangladesh-Women_1768652698103.png",
-      "team_1": "Papua New Guinea Women",
-      "team_2": "Bangladesh Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Papua New Guinea Women vs Bangladesh Women",
-      "startTime": "08:45:00 AM 20-01-2026"
     },
     {
       "id": 139668,
@@ -190,18 +180,6 @@
       "startTime": "05:00:00 PM 20-01-2026"
     },
     {
-      "id": 139280,
-      "event_category": "Football",
-      "title": "Vietnam U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Vietnam U23",
-      "team_2": "China PR U23",
-      "status": "UPCOMING",
-      "event_name": "AFC U23 Asian Cup, 2026",
-      "match_name": "Vietnam U23 vs China PR U23",
-      "startTime": "09:00:00 PM 20-01-2026"
-    },
-    {
       "id": 138755,
       "event_category": "Cricket",
       "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
@@ -212,6 +190,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Canterbury vs Otago Volts",
       "startTime": "10:25:00 AM 21-01-2026"
+    },
+    {
+      "id": 139280,
+      "event_category": "Football",
+      "title": "Vietnam U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Vietnam U23",
+      "team_2": "China PR U23",
+      "status": "UPCOMING",
+      "event_name": "AFC U23 Asian Cup, 2026",
+      "match_name": "Vietnam U23 vs China PR U23",
+      "startTime": "09:00:00 PM 20-01-2026"
     },
     {
       "id": 139167,
@@ -428,6 +418,18 @@
       "event_name": "Afghanistan vs West Indies 2026",
       "match_name": "Afghanistan vs West Indies",
       "startTime": "08:00:00 PM 22-01-2026"
+    },
+    {
+      "id": 139826,
+      "event_category": "Football",
+      "title": "Al-Qadsiah FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+      "src": "https://images.fancode.com/aig/match/v1/139826_CASACARDS_APP.png",
+      "team_1": "Al-Qadsiah FC",
+      "team_2": "Al-Ittihad",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Qadsiah FC vs Al-Ittihad",
+      "startTime": "11:00:00 PM 22-01-2026"
     }
   ]
 }
