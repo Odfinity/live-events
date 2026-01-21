@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:53 PM 21-01-2026",
+  "last update time": "12:35 AM 22-01-2026",
   "matches": [
-    {
-      "id": 139825,
-      "event_category": "Football",
-      "title": "Damac vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139825_5655_DAM_ANF_FC-Web.jpg",
-      "team_1": "Damac",
-      "team_2": "Al-Nassr FC",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Damac vs Al-Nassr FC",
-      "startTime": "11:00:00 PM 21-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/0MqxWJqwTGCvXXboc-vbiQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139825_english_hls_0bd975f30e9369_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139758,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "12:00:00 AM 22-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/5l1LDqJIQxyycGlViFzfBA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139758_english_hls_add0a4c6f92142_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139825,
+      "event_category": "Football",
+      "title": "Damac vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139825_5655_DAM_ANF_FC-Web.jpg",
+      "team_1": "Damac",
+      "team_2": "Al-Nassr FC",
+      "status": "LIVE",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Damac vs Al-Nassr FC",
+      "startTime": "11:00:00 PM 21-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/0MqxWJqwTGCvXXboc-vbiQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139825_english_hls_0bd975f30e9369_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138788,
@@ -200,18 +200,6 @@
       "startTime": "11:00:00 PM 22-01-2026"
     },
     {
-      "id": 140014,
-      "event_category": "Football",
-      "title": "Lincoln City F.C. vs Burton Albion (League One 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140014_CASACARDS_APP.png",
-      "team_1": "Lincoln City F.C.",
-      "team_2": "Burton Albion",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Lincoln City F.C. vs Burton Albion",
-      "startTime": "01:30:00 AM 23-01-2026"
-    },
-    {
       "id": 138789,
       "event_category": "Cricket",
       "title": "Canterbury Magicians vs Wellington Blaze (Women's Super Smash, 2025-26)",
@@ -222,6 +210,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Canterbury Magicians vs Wellington Blaze",
       "startTime": "06:40:00 AM 23-01-2026"
+    },
+    {
+      "id": 140014,
+      "event_category": "Football",
+      "title": "Lincoln City F.C. vs Burton Albion (League One 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140014_CASACARDS_APP.png",
+      "team_1": "Lincoln City F.C.",
+      "team_2": "Burton Albion",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Lincoln City F.C. vs Burton Albion",
+      "startTime": "01:30:00 AM 23-01-2026"
     },
     {
       "id": 139993,
@@ -296,18 +296,6 @@
       "startTime": "02:30:00 AM 23-01-2026"
     },
     {
-      "id": 139390,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Wellington Phoenix (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139390_CASACARDS_APP.png",
-      "team_1": "Newcastle Jets",
-      "team_2": "Wellington Phoenix",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Wellington Phoenix",
-      "startTime": "02:05:00 PM 23-01-2026"
-    },
-    {
       "id": 138949,
       "event_category": "Cricket",
       "title": "Chattogram Royals vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
@@ -318,6 +306,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Chattogram Royals vs Rajshahi Warriors",
       "startTime": "05:30:00 PM 23-01-2026"
+    },
+    {
+      "id": 139390,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Wellington Phoenix (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139390_CASACARDS_APP.png",
+      "team_1": "Newcastle Jets",
+      "team_2": "Wellington Phoenix",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Wellington Phoenix",
+      "startTime": "02:05:00 PM 23-01-2026"
     },
     {
       "id": 139760,
