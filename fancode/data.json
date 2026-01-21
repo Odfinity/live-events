@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:28 AM 21-01-2026",
+  "last update time": "07:58 AM 21-01-2026",
   "matches": [
+    {
+      "id": 138787,
+      "event_category": "Cricket",
+      "title": "Otago Sparks vs Canterbury Magicians (Women's Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-web_1766596522283.jpg",
+      "team_1": "Otago Sparks",
+      "team_2": "Canterbury Magicians",
+      "status": "LIVE",
+      "event_name": "Women's Super Smash, 2025-26",
+      "match_name": "Otago Sparks vs Canterbury Magicians",
+      "startTime": "06:40:00 AM 21-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/SS_qUlmgRcC0QhAzOtf84w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138787_english_hls_d3e44c9d7c92287_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139167,
       "event_category": "Golf",
@@ -18,18 +32,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139167_english_hls_00efbdb4a246579_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138787,
-      "event_category": "Cricket",
-      "title": "Canterbury Magicians vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-web_1766596522283.jpg",
-      "team_1": "Canterbury Magicians",
-      "team_2": "Otago Sparks",
-      "status": "UPCOMING",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Canterbury Magicians vs Otago Sparks",
-      "startTime": "06:40:00 AM 21-01-2026"
-    },
-    {
       "id": 138755,
       "event_category": "Cricket",
       "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
@@ -40,18 +42,6 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Canterbury vs Otago Volts",
       "startTime": "10:25:00 AM 21-01-2026"
-    },
-    {
-      "id": 139668,
-      "event_category": "Cricket",
-      "title": "Dyandeep Seva Mandal vs Swami Vivekanand (Giles Shield 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-      "team_1": "Dyandeep Seva Mandal",
-      "team_2": "Swami Vivekanand",
-      "status": "PAUSED",
-      "event_name": "Giles Shield 2026",
-      "match_name": "Dyandeep Seva Mandal vs Swami Vivekanand",
-      "startTime": "09:45:00 AM 20-01-2026"
     },
     {
       "id": 138948,
@@ -66,6 +56,18 @@
       "startTime": "05:30:00 PM 21-01-2026"
     },
     {
+      "id": 139668,
+      "event_category": "Cricket",
+      "title": "Dyandeep Seva Mandal vs Swami Vivekanand (Giles Shield 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+      "team_1": "Dyandeep Seva Mandal",
+      "team_2": "Swami Vivekanand",
+      "status": "PAUSED",
+      "event_name": "Giles Shield 2026",
+      "match_name": "Dyandeep Seva Mandal vs Swami Vivekanand",
+      "startTime": "09:45:00 AM 20-01-2026"
+    },
+    {
       "id": 139299,
       "event_category": "Cricket",
       "title": "Afghanistan vs West Indies (Afghanistan vs West Indies 2026)",
@@ -78,18 +80,6 @@
       "startTime": "08:00:00 PM 21-01-2026"
     },
     {
-      "id": 139757,
-      "event_category": "Cricket",
-      "title": "Trinidad and Tobago Women vs Jamaica Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Trinidad and Tobago Women",
-      "team_2": "Jamaica Women",
-      "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Trinidad and Tobago Women vs Jamaica Women",
-      "startTime": "07:00:00 PM 21-01-2026"
-    },
-    {
       "id": 138788,
       "event_category": "Cricket",
       "title": "Auckland Hearts vs Northern Brave Women (Women's Super Smash, 2025-26)",
@@ -100,6 +90,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Auckland Hearts vs Northern Brave Women",
       "startTime": "05:10:00 AM 22-01-2026"
+    },
+    {
+      "id": 139757,
+      "event_category": "Cricket",
+      "title": "Trinidad and Tobago Women vs Jamaica Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "Trinidad and Tobago Women",
+      "team_2": "Jamaica Women",
+      "status": "UPCOMING",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Trinidad and Tobago Women vs Jamaica Women",
+      "startTime": "07:00:00 PM 21-01-2026"
     },
     {
       "id": 139825,
@@ -138,6 +140,18 @@
       "startTime": "01:30:00 AM 22-01-2026"
     },
     {
+      "id": 138756,
+      "event_category": "Cricket",
+      "title": "Auckland Aces vs Northern Districts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138756_5800_AA_ND_fc-web_1766641251674.jpg",
+      "team_1": "Auckland Aces",
+      "team_2": "Northern Districts",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Auckland Aces vs Northern Districts",
+      "startTime": "08:55:00 AM 22-01-2026"
+    },
+    {
       "id": 133971,
       "event_category": "Cricket",
       "title": "ACT Meteors vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
@@ -172,18 +186,6 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Queensland Fire vs South Australian Scorpions",
       "startTime": "05:00:00 AM 22-01-2026"
-    },
-    {
-      "id": 138756,
-      "event_category": "Cricket",
-      "title": "Auckland Aces vs Northern Districts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138756_5800_AA_ND_fc-web_1766641251674.jpg",
-      "team_1": "Auckland Aces",
-      "team_2": "Northern Districts",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Auckland Aces vs Northern Districts",
-      "startTime": "08:55:00 AM 22-01-2026"
     },
     {
       "id": 139227,
