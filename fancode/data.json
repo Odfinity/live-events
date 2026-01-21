@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:58 AM 21-01-2026",
+  "last update time": "09:25 AM 21-01-2026",
   "matches": [
     {
       "id": 138787,
@@ -16,20 +16,6 @@
       "startTime": "06:40:00 AM 21-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/SS_qUlmgRcC0QhAzOtf84w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138787_english_hls_d3e44c9d7c92287_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139167,
-      "event_category": "Golf",
-      "title": "Jupiter vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Jupiter vs Los Angeles",
-      "team_2": "Florida",
-      "status": "LIVE",
-      "event_name": "TGL Season 2",
-      "match_name": "Jupiter vs Los Angeles",
-      "startTime": "05:30:00 AM 21-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Yb1-4tJYSGye2cRD2eVWZA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139167_english_hls_00efbdb4a246579_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138755,
@@ -104,18 +90,6 @@
       "startTime": "07:00:00 PM 21-01-2026"
     },
     {
-      "id": 139825,
-      "event_category": "Football",
-      "title": "Damac vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139825_5655_DAM_ANF_FC-Web.jpg",
-      "team_1": "Damac",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Damac vs Al-Nassr FC",
-      "startTime": "11:00:00 PM 21-01-2026"
-    },
-    {
       "id": 139758,
       "event_category": "Cricket",
       "title": "Guyana Women vs Barbados Women (CWI T20 Blaze 2026)",
@@ -128,16 +102,16 @@
       "startTime": "12:00:00 AM 22-01-2026"
     },
     {
-      "id": 139340,
+      "id": 139825,
       "event_category": "Football",
-      "title": "Stoke City F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139340_5489_STK_MIDD_FC-Web.jpg",
-      "team_1": "Stoke City F.C.",
-      "team_2": "Middlesbrough F.C.",
+      "title": "Damac vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139825_5655_DAM_ANF_FC-Web.jpg",
+      "team_1": "Damac",
+      "team_2": "Al-Nassr FC",
       "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Stoke City F.C. vs Middlesbrough F.C.",
-      "startTime": "01:30:00 AM 22-01-2026"
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Damac vs Al-Nassr FC",
+      "startTime": "11:00:00 PM 21-01-2026"
     },
     {
       "id": 138756,
@@ -150,6 +124,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Auckland Aces vs Northern Districts",
       "startTime": "08:55:00 AM 22-01-2026"
+    },
+    {
+      "id": 139340,
+      "event_category": "Football",
+      "title": "Stoke City F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139340_5489_STK_MIDD_FC-Web.jpg",
+      "team_1": "Stoke City F.C.",
+      "team_2": "Middlesbrough F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Stoke City F.C. vs Middlesbrough F.C.",
+      "startTime": "01:30:00 AM 22-01-2026"
     },
     {
       "id": 133971,
@@ -287,7 +273,7 @@
       "id": 140014,
       "event_category": "Football",
       "title": "Lincoln City F.C. vs Burton Albion (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/140014_CASACARDS_APP.png",
       "team_1": "Lincoln City F.C.",
       "team_2": "Burton Albion",
       "status": "UPCOMING",
@@ -414,6 +400,30 @@
       "event_name": "AFC U23 Asian Cup, 2026",
       "match_name": "Vietnam U23 vs Korea Republic U23",
       "startTime": "08:30:00 PM 23-01-2026"
+    },
+    {
+      "id": 139761,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "TBC vs TBC",
+      "startTime": "12:00:00 AM 24-01-2026"
+    },
+    {
+      "id": 139329,
+      "event_category": "Football",
+      "title": "Everton Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139329_5826_EVE-W_BHA-W_FC-Web_1768309283456.jpg",
+      "team_1": "Everton Women",
+      "team_2": "Brighton and Hove Albion Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Everton Women vs Brighton and Hove Albion Women",
+      "startTime": "12:30:00 AM 24-01-2026"
     }
   ]
 }
