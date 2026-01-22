@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:23 PM 22-01-2026",
+  "last update time": "08:06 PM 22-01-2026",
   "matches": [
     {
       "id": 139289,
@@ -20,14 +20,16 @@
     {
       "id": 139300,
       "event_category": "Cricket",
-      "title": "Afghanistan vs West Indies (Afghanistan vs West Indies 2026)",
+      "title": "West Indies vs Afghanistan (Afghanistan vs West Indies 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg",
-      "team_1": "Afghanistan",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
+      "team_1": "West Indies",
+      "team_2": "Afghanistan",
+      "status": "LIVE",
       "event_name": "Afghanistan vs West Indies 2026",
-      "match_name": "Afghanistan vs West Indies",
-      "startTime": "08:00:00 PM 22-01-2026"
+      "match_name": "West Indies vs Afghanistan",
+      "startTime": "08:00:00 PM 22-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/mCTAmaO4TU2HTQQiJATJDA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139300_english_hls_c3d854406723813_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138789,
@@ -54,18 +56,6 @@
       "startTime": "10:25:00 AM 23-01-2026"
     },
     {
-      "id": 139826,
-      "event_category": "Football",
-      "title": "Al-Qadsiah FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139826_5655_ALQ_ITT_FC-Web.jpg",
-      "team_1": "Al-Qadsiah FC",
-      "team_2": "Al-Ittihad",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Qadsiah FC vs Al-Ittihad",
-      "startTime": "11:00:00 PM 22-01-2026"
-    },
-    {
       "id": 138949,
       "event_category": "Cricket",
       "title": "Chattogram Royals vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
@@ -76,6 +66,18 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Chattogram Royals vs Rajshahi Warriors",
       "startTime": "05:30:00 PM 23-01-2026"
+    },
+    {
+      "id": 139826,
+      "event_category": "Football",
+      "title": "Al-Qadsiah FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139826_5655_ALQ_ITT_FC-Web.jpg",
+      "team_1": "Al-Qadsiah FC",
+      "team_2": "Al-Ittihad",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Qadsiah FC vs Al-Ittihad",
+      "startTime": "11:00:00 PM 22-01-2026"
     },
     {
       "id": 140014,
@@ -270,18 +272,6 @@
       "startTime": "06:40:00 AM 24-01-2026"
     },
     {
-      "id": 139995,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 2 vs LA Quinta, CA, USA (The American Express 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
-      "team_1": "Marquee Group - Day 2",
-      "team_2": "LA Quinta, CA, USA",
-      "status": "UPCOMING",
-      "event_name": "The American Express 2026",
-      "match_name": "Marquee Group - Day 2",
-      "startTime": "10:30:00 PM 23-01-2026"
-    },
-    {
       "id": 139762,
       "event_category": "Cricket",
       "title": "TBC vs TBC (CWI T20 Blaze 2026)",
@@ -292,6 +282,18 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "TBC vs TBC",
       "startTime": "04:30:00 AM 24-01-2026"
+    },
+    {
+      "id": 139995,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 2 vs LA Quinta, CA, USA (The American Express 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "team_1": "Marquee Group - Day 2",
+      "team_2": "LA Quinta, CA, USA",
+      "status": "UPCOMING",
+      "event_name": "The American Express 2026",
+      "match_name": "Marquee Group - Day 2",
+      "startTime": "10:30:00 PM 23-01-2026"
     },
     {
       "id": 139996,
