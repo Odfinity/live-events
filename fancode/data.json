@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:10 AM 23-01-2026",
+  "last update time": "01:27 AM 23-01-2026",
   "matches": [
+    {
+      "id": 140014,
+      "event_category": "Football",
+      "title": "Lincoln City F.C. vs Burton Albion (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
+      "team_1": "Lincoln City F.C.",
+      "team_2": "Burton Albion",
+      "status": "LIVE",
+      "event_name": "League One 2025-26",
+      "match_name": "Lincoln City F.C. vs Burton Albion",
+      "startTime": "01:30:00 AM 23-01-2026",
+      "dai_url": null,
+      "adfree_url": null
+    },
     {
       "id": 139993,
       "event_category": "Golf",
@@ -60,20 +74,6 @@
       "adfree_url": null
     },
     {
-      "id": 139826,
-      "event_category": "Football",
-      "title": "Al-Qadsiah FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139826_5655_ALQ_ITT_FC-Web.jpg",
-      "team_1": "Al-Qadsiah FC",
-      "team_2": "Al-Ittihad",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Qadsiah FC vs Al-Ittihad",
-      "startTime": "11:00:00 PM 22-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/2On-a3_7R--8MVAN4TE05Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139826_english_hls_afe48d44e674182_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 138789,
       "event_category": "Cricket",
       "title": "Canterbury Magicians vs Wellington Blaze (Women's Super Smash, 2025-26)",
@@ -108,18 +108,6 @@
       "event_name": "Bangladesh Premier League, 2025-26",
       "match_name": "Chattogram Royals vs Rajshahi Warriors",
       "startTime": "05:30:00 PM 23-01-2026"
-    },
-    {
-      "id": 140014,
-      "event_category": "Football",
-      "title": "Lincoln City F.C. vs Burton Albion (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
-      "team_1": "Lincoln City F.C.",
-      "team_2": "Burton Albion",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Lincoln City F.C. vs Burton Albion",
-      "startTime": "01:30:00 AM 23-01-2026"
     },
     {
       "id": 139760,
@@ -206,18 +194,6 @@
       "startTime": "01:30:00 AM 24-01-2026"
     },
     {
-      "id": 140009,
-      "event_category": "Football",
-      "title": "Málaga vs Burgos (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140009_CASACARDS_APP.png",
-      "team_1": "Málaga",
-      "team_2": "Burgos",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Málaga vs Burgos",
-      "startTime": "01:00:00 AM 24-01-2026"
-    },
-    {
       "id": 138790,
       "event_category": "Cricket",
       "title": "Central Hinds vs Otago Sparks (Women's Super Smash, 2025-26)",
@@ -228,6 +204,18 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Central Hinds vs Otago Sparks",
       "startTime": "06:40:00 AM 24-01-2026"
+    },
+    {
+      "id": 140009,
+      "event_category": "Football",
+      "title": "Málaga vs Burgos (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140009_CASACARDS_APP.png",
+      "team_1": "Málaga",
+      "team_2": "Burgos",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Málaga vs Burgos",
+      "startTime": "01:00:00 AM 24-01-2026"
     },
     {
       "id": 139918,
@@ -420,6 +408,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Macarthur vs Melbourne City",
       "startTime": "02:05:00 PM 24-01-2026"
+    },
+    {
+      "id": 139330,
+      "event_category": "Football",
+      "title": "Chelsea F.C. Women vs Arsenal Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139330_5826_CHE-W_ARS-W_FC-Web_1768309283524.jpg",
+      "team_1": "Chelsea F.C. Women",
+      "team_2": "Arsenal Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Chelsea F.C. Women vs Arsenal Women",
+      "startTime": "06:00:00 PM 24-01-2026"
     }
   ]
 }
