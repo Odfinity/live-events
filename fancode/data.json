@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:27 PM 23-01-2026",
+  "last update time": "07:18 PM 23-01-2026",
   "matches": [
     {
       "id": 138949,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138949_english_hls_f7e380fec481055_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139760,
+      "event_category": "Cricket",
+      "title": "Jamaica Women vs Windward Islands Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "Jamaica Women",
+      "team_2": "Windward Islands Women",
+      "status": "LIVE",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Jamaica Women vs Windward Islands Women",
+      "startTime": "07:00:00 PM 23-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/ldqiHUJYTPWYgwVXe-tR2w/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139760_english_hls_07f09429aa76174_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 138790,
       "event_category": "Cricket",
       "title": "Central Hinds vs Otago Sparks (Women's Super Smash, 2025-26)",
@@ -28,18 +42,6 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Central Hinds vs Otago Sparks",
       "startTime": "06:40:00 AM 24-01-2026"
-    },
-    {
-      "id": 139760,
-      "event_category": "Cricket",
-      "title": "Jamaica Women vs Windward Islands Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Jamaica Women",
-      "team_2": "Windward Islands Women",
-      "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Jamaica Women vs Windward Islands Women",
-      "startTime": "07:00:00 PM 23-01-2026"
     },
     {
       "id": 138758,
@@ -78,18 +80,6 @@
       "startTime": "12:00:00 AM 24-01-2026"
     },
     {
-      "id": 139329,
-      "event_category": "Football",
-      "title": "Everton Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139329_5826_EVE-W_BHA-W_FC-Web_1768309283456.jpg",
-      "team_1": "Everton Women",
-      "team_2": "Brighton and Hove Albion Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "Everton Women vs Brighton and Hove Albion Women",
-      "startTime": "12:30:00 AM 24-01-2026"
-    },
-    {
       "id": 139762,
       "event_category": "Cricket",
       "title": "Leeward Islands Women vs Barbados Women (CWI T20 Blaze 2026)",
@@ -100,6 +90,18 @@
       "event_name": "CWI T20 Blaze 2026",
       "match_name": "Leeward Islands Women vs Barbados Women",
       "startTime": "04:30:00 AM 24-01-2026"
+    },
+    {
+      "id": 139329,
+      "event_category": "Football",
+      "title": "Everton Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139329_5826_EVE-W_BHA-W_FC-Web_1768309283456.jpg",
+      "team_1": "Everton Women",
+      "team_2": "Brighton and Hove Albion Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Everton Women vs Brighton and Hove Albion Women",
+      "startTime": "12:30:00 AM 24-01-2026"
     },
     {
       "id": 131030,
@@ -222,18 +224,6 @@
       "startTime": "11:30:00 AM 24-01-2026"
     },
     {
-      "id": 139393,
-      "event_category": "Football",
-      "title": "Macarthur vs Melbourne City (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139393_CASACARDS_APP.png",
-      "team_1": "Macarthur",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Macarthur vs Melbourne City",
-      "startTime": "02:05:00 PM 24-01-2026"
-    },
-    {
       "id": 139330,
       "event_category": "Football",
       "title": "Chelsea F.C. Women vs Arsenal Women (Women's Super League 2025-26)",
@@ -256,6 +246,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Millwall F.C. vs Charlton Athletic F.C",
       "startTime": "06:00:00 PM 24-01-2026"
+    },
+    {
+      "id": 139393,
+      "event_category": "Football",
+      "title": "Macarthur vs Melbourne City (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139393_CASACARDS_APP.png",
+      "team_1": "Macarthur",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Macarthur vs Melbourne City",
+      "startTime": "02:05:00 PM 24-01-2026"
     },
     {
       "id": 131033,
