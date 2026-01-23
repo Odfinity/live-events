@@ -1,19 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:18 AM 23-01-2026",
+  "last update time": "10:47 AM 23-01-2026",
   "matches": [
     {
       "id": 138757,
       "event_category": "Cricket",
-      "title": "Canterbury vs Wellington Firebirds (Super Smash, 2025-26)",
+      "title": "Wellington Firebirds vs Canterbury (Super Smash, 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/138757_5800_CTB_WF_fc-web_1766641250971.jpg",
-      "team_1": "Canterbury",
-      "team_2": "Wellington Firebirds",
-      "status": "UPCOMING",
+      "team_1": "Wellington Firebirds",
+      "team_2": "Canterbury",
+      "status": "LIVE",
       "event_name": "Super Smash, 2025-26",
-      "match_name": "Canterbury vs Wellington Firebirds",
-      "startTime": "10:25:00 AM 23-01-2026"
+      "match_name": "Wellington Firebirds vs Canterbury",
+      "startTime": "10:25:00 AM 23-01-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 138949,
@@ -100,18 +102,6 @@
       "startTime": "01:30:00 AM 24-01-2026"
     },
     {
-      "id": 139762,
-      "event_category": "Cricket",
-      "title": "Leeward Islands Women vs Barbados Women (CWI T20 Blaze 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-      "team_1": "Leeward Islands Women",
-      "team_2": "Barbados Women",
-      "status": "UPCOMING",
-      "event_name": "CWI T20 Blaze 2026",
-      "match_name": "Leeward Islands Women vs Barbados Women",
-      "startTime": "04:30:00 AM 24-01-2026"
-    },
-    {
       "id": 138758,
       "event_category": "Cricket",
       "title": "Central Stags vs Otago Volts (Super Smash, 2025-26)",
@@ -122,6 +112,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Central Stags vs Otago Volts",
       "startTime": "10:25:00 AM 24-01-2026"
+    },
+    {
+      "id": 139762,
+      "event_category": "Cricket",
+      "title": "Leeward Islands Women vs Barbados Women (CWI T20 Blaze 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+      "team_1": "Leeward Islands Women",
+      "team_2": "Barbados Women",
+      "status": "UPCOMING",
+      "event_name": "CWI T20 Blaze 2026",
+      "match_name": "Leeward Islands Women vs Barbados Women",
+      "startTime": "04:30:00 AM 24-01-2026"
     },
     {
       "id": 139390,
@@ -244,6 +246,18 @@
       "startTime": "10:00:00 PM 23-01-2026"
     },
     {
+      "id": 139392,
+      "event_category": "Football",
+      "title": "Brisbane Roar vs Adelaide United (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139392_CASACARDS_APP.png",
+      "team_1": "Brisbane Roar",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Brisbane Roar vs Adelaide United",
+      "startTime": "11:30:00 AM 24-01-2026"
+    },
+    {
       "id": 139995,
       "event_category": "Golf",
       "title": "Marquee Group - Day 2 vs LA Quinta, CA, USA (The American Express 2026)",
@@ -278,18 +292,6 @@
       "event_name": "The American Express 2026",
       "match_name": "Featured Groups - Day 2",
       "startTime": "11:00:00 PM 23-01-2026"
-    },
-    {
-      "id": 139392,
-      "event_category": "Football",
-      "title": "Brisbane Roar vs Adelaide United (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139392_CASACARDS_APP.png",
-      "team_1": "Brisbane Roar",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Brisbane Roar vs Adelaide United",
-      "startTime": "11:30:00 AM 24-01-2026"
     },
     {
       "id": 139919,
