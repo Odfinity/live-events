@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:44 AM 24-01-2026",
+  "last update time": "01:07 AM 24-01-2026",
   "matches": [
     {
       "id": 139761,
@@ -30,6 +30,34 @@
       "startTime": "12:30:00 AM 24-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/_fML7jMPQImZDTvQ3V9U7w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139329_english_hls_d70b72d2ba80144_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131030,
+      "event_category": "Football",
+      "title": "Levante vs Elche CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131030_5427_LE_ELC_fc-Web.png",
+      "team_1": "Levante",
+      "team_2": "Elche CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Elche CF",
+      "startTime": "01:30:00 AM 24-01-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140009,
+      "event_category": "Football",
+      "title": "Málaga vs Burgos (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140009_CASACARDS_APP.png",
+      "team_1": "Málaga",
+      "team_2": "Burgos",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Málaga vs Burgos",
+      "startTime": "01:00:00 AM 24-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/aUYY0s88QqiSYP3zgluKMw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140009_english_hls_5dfd80492364363_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139994,
@@ -124,18 +152,6 @@
       "startTime": "02:30:00 PM 24-01-2026"
     },
     {
-      "id": 131030,
-      "event_category": "Football",
-      "title": "Levante vs Elche CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131030_5427_LE_ELC_fc-Web.png",
-      "team_1": "Levante",
-      "team_2": "Elche CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Elche CF",
-      "startTime": "01:30:00 AM 24-01-2026"
-    },
-    {
       "id": 139341,
       "event_category": "Football",
       "title": "Derby County Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -146,18 +162,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Derby County Football Club vs West Bromwich Albion F.C.",
       "startTime": "01:30:00 AM 24-01-2026"
-    },
-    {
-      "id": 140009,
-      "event_category": "Football",
-      "title": "Málaga vs Burgos (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140009_CASACARDS_APP.png",
-      "team_1": "Málaga",
-      "team_2": "Burgos",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Málaga vs Burgos",
-      "startTime": "01:00:00 AM 24-01-2026"
     },
     {
       "id": 139762,
@@ -268,18 +272,6 @@
       "startTime": "09:30:00 AM 24-01-2026"
     },
     {
-      "id": 139392,
-      "event_category": "Football",
-      "title": "Brisbane Roar vs Adelaide United (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139392_CASACARDS_APP.png",
-      "team_1": "Brisbane Roar",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Brisbane Roar vs Adelaide United",
-      "startTime": "11:30:00 AM 24-01-2026"
-    },
-    {
       "id": 139343,
       "event_category": "Football",
       "title": "Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)",
@@ -290,6 +282,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Hull City vs Swansea City A.F.C.",
       "startTime": "08:30:00 PM 24-01-2026"
+    },
+    {
+      "id": 139392,
+      "event_category": "Football",
+      "title": "Brisbane Roar vs Adelaide United (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139392_CASACARDS_APP.png",
+      "team_1": "Brisbane Roar",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Brisbane Roar vs Adelaide United",
+      "startTime": "11:30:00 AM 24-01-2026"
     },
     {
       "id": 131031,
@@ -400,18 +404,6 @@
       "startTime": "01:30:00 AM 25-01-2026"
     },
     {
-      "id": 139998,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 3 vs LA Quinta, CA, USA (The American Express 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
-      "team_1": "Main Feed - Day 3",
-      "team_2": "LA Quinta, CA, USA",
-      "status": "UPCOMING",
-      "event_name": "The American Express 2026",
-      "match_name": "Main Feed - Day 3",
-      "startTime": "10:00:00 PM 24-01-2026"
-    },
-    {
       "id": 138759,
       "event_category": "Cricket",
       "title": "Canterbury vs Northern Districts (Super Smash, 2025-26)",
@@ -422,6 +414,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Canterbury vs Northern Districts",
       "startTime": "08:55:00 AM 25-01-2026"
+    },
+    {
+      "id": 139998,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 3 vs LA Quinta, CA, USA (The American Express 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+      "team_1": "Main Feed - Day 3",
+      "team_2": "LA Quinta, CA, USA",
+      "status": "UPCOMING",
+      "event_name": "The American Express 2026",
+      "match_name": "Main Feed - Day 3",
+      "startTime": "10:00:00 PM 24-01-2026"
     },
     {
       "id": 140001,
