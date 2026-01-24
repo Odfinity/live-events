@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:12 AM 24-01-2026",
+  "last update time": "09:53 AM 24-01-2026",
   "matches": [
-    {
-      "id": 138790,
-      "event_category": "Cricket",
-      "title": "Central Hinds vs Otago Sparks (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138790_5801_CH-W_OS-W_fc-web_1766596522060.jpg",
-      "team_1": "Central Hinds",
-      "team_2": "Otago Sparks",
-      "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Central Hinds vs Otago Sparks",
-      "startTime": "06:40:00 AM 24-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/UVN0pY_oQwqk489B3pY4bw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138790_english_hls_5ea09014f279097_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139231,
       "event_category": "Cricket",
@@ -44,6 +30,20 @@
       "startTime": "08:45:00 AM 24-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/kRk0tuKuSEm18c1Hbto1Ww/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139230_english_hls_d807ed9dea73382_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139391,
+      "event_category": "Football",
+      "title": "Auckland vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139391_5802_AFC_CCM_FC-Web.jpg",
+      "team_1": "Auckland",
+      "team_2": "Central Coast Mariners",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Auckland vs Central Coast Mariners",
+      "startTime": "09:30:00 AM 24-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/QtTnV557SPmx5JvFKk1knw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139391_english_hls_9ce265edf445250_1ta-di_h264/index.m3u8"
     },
     {
       "id": 138758,
@@ -80,18 +80,6 @@
       "event_name": "Women's Super Smash, 2025-26",
       "match_name": "Canterbury Magicians vs Northern Brave Women",
       "startTime": "05:10:00 AM 25-01-2026"
-    },
-    {
-      "id": 139391,
-      "event_category": "Football",
-      "title": "Auckland vs Central Coast Mariners (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139391_5802_AFC_CCM_FC-Web.jpg",
-      "team_1": "Auckland",
-      "team_2": "Central Coast Mariners",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Auckland vs Central Coast Mariners",
-      "startTime": "09:30:00 AM 24-01-2026"
     },
     {
       "id": 139233,
@@ -202,18 +190,6 @@
       "startTime": "11:00:00 PM 24-01-2026"
     },
     {
-      "id": 131034,
-      "event_category": "Football",
-      "title": "Villarreal CF vs Real Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131034_5427_VIL_RM_fc-Web.png",
-      "team_1": "Villarreal CF",
-      "team_2": "Real Madrid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Villarreal CF vs Real Madrid",
-      "startTime": "01:30:00 AM 25-01-2026"
-    },
-    {
       "id": 138759,
       "event_category": "Cricket",
       "title": "Canterbury vs Northern Districts (Super Smash, 2025-26)",
@@ -224,6 +200,18 @@
       "event_name": "Super Smash, 2025-26",
       "match_name": "Canterbury vs Northern Districts",
       "startTime": "08:55:00 AM 25-01-2026"
+    },
+    {
+      "id": 131034,
+      "event_category": "Football",
+      "title": "Villarreal CF vs Real Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131034_5427_VIL_RM_fc-Web.png",
+      "team_1": "Villarreal CF",
+      "team_2": "Real Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Villarreal CF vs Real Madrid",
+      "startTime": "01:30:00 AM 25-01-2026"
     },
     {
       "id": 139392,
@@ -427,6 +415,18 @@
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Sociedad vs RC Celta",
+      "startTime": "11:00:00 PM 25-01-2026"
+    },
+    {
+      "id": 139828,
+      "event_category": "Football",
+      "title": "Al-Riyadh SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139828_5655_ALR_AHS_FC-Web.jpg",
+      "team_1": "Al-Riyadh SC",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Riyadh SC vs Al Hilal SFC",
       "startTime": "11:00:00 PM 25-01-2026"
     }
   ]
