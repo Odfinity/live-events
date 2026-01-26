@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:24 AM 27-01-2026",
+  "last update time": "02:02 AM 27-01-2026",
   "matches": [
     {
       "id": 131032,
@@ -44,20 +44,6 @@
       "startTime": "01:00:00 AM 27-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/gw7Elq4ETySaXOPMhir0gw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140008_english_hls_0238eb7cfc35907_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139829,
-      "event_category": "Football",
-      "title": "Al-Nassr FC vs Al Taawoun (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139829_5655_ANF_ALTW_FC-Web.jpg",
-      "team_1": "Al-Nassr FC",
-      "team_2": "Al Taawoun",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Nassr FC vs Al Taawoun",
-      "startTime": "11:00:00 PM 26-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/uBTCydyxSwyTBczHpprUog/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139829_english_hls_12e11e4ae52390_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139291,
@@ -204,6 +190,18 @@
       "startTime": "05:30:00 AM 27-01-2026"
     },
     {
+      "id": 133972,
+      "event_category": "Cricket",
+      "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "Tasmania Women",
+      "team_2": "Western Australia Women",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Tasmania Women vs Western Australia Women",
+      "startTime": "05:00:00 AM 28-01-2026"
+    },
+    {
       "id": 139881,
       "event_category": "Futsal",
       "title": "Thailand vs Lebanon (AFC Futsal Asian Cup, 2026)",
@@ -238,18 +236,6 @@
       "event_name": "AFC Futsal Asian Cup, 2026",
       "match_name": "Vietnam vs Kuwait",
       "startTime": "03:30:00 PM 27-01-2026"
-    },
-    {
-      "id": 133972,
-      "event_category": "Cricket",
-      "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "Tasmania Women",
-      "team_2": "Western Australia Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Tasmania Women vs Western Australia Women",
-      "startTime": "05:00:00 AM 28-01-2026"
     },
     {
       "id": 139884,
@@ -430,6 +416,18 @@
       "event_name": "Hexagon Cup 2026",
       "match_name": "KRU Padel vs 10 Padel",
       "startTime": "02:00:00 PM 28-01-2026"
+    },
+    {
+      "id": 139592,
+      "event_category": "Cricket",
+      "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "team_1": "Fujairah",
+      "team_2": "Abu Dhabi",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Fujairah vs Abu Dhabi",
+      "startTime": "06:45:00 PM 28-01-2026"
     }
   ]
 }
