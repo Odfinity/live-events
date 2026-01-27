@@ -1,18 +1,32 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:16 PM 27-01-2026",
+  "last update time": "02:48 PM 27-01-2026",
   "matches": [
+    {
+      "id": 139291,
+      "event_category": "Cricket",
+      "title": "England vs Sri Lanka (England tour of Sri Lanka, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
+      "team_1": "England",
+      "team_2": "Sri Lanka",
+      "status": "LIVE",
+      "event_name": "England tour of Sri Lanka, 2026",
+      "match_name": "England vs Sri Lanka",
+      "startTime": "02:30:00 PM 27-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769547050~acl=/*~id=67551255025184234283288383274013~hmac=29fb044d9db921d9213773e8391e8e86b36deaa54532315132e59ea9f4fbdd50"
+    },
     {
       "id": 140074,
       "event_category": "Cricket",
-      "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140074_5928_GT_RLS_FC-Web.jpg",
-      "team_1": "Gurugram Thunders",
-      "team_2": "Rajasthan Lions",
+      "title": "Pune Panthers vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_GT_PPT_FC-Web.jpg",
+      "team_1": "Pune Panthers",
+      "team_2": "Gurugram Thunders",
       "status": "LIVE",
       "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Gurugram Thunders vs Rajasthan Lions",
+      "match_name": "Pune Panthers vs Gurugram Thunders",
       "startTime": "02:30:00 PM 27-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/xAHn8IbaRPmKeFLClNmuGw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140074_english_hls_b67341f10193939_1ta-di_h264/index.m3u8"
@@ -32,27 +46,15 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139882_english_hls_e03280110543384_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139291,
-      "event_category": "Cricket",
-      "title": "England vs Sri Lanka (England tour of Sri Lanka, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
-      "team_1": "England",
-      "team_2": "Sri Lanka",
-      "status": "UPCOMING",
-      "event_name": "England tour of Sri Lanka, 2026",
-      "match_name": "England vs Sri Lanka",
-      "startTime": "02:30:00 PM 27-01-2026"
-    },
-    {
       "id": 140075,
       "event_category": "Cricket",
-      "title": "Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140075_5928_PPT_MTY_FC-Web.jpg",
-      "team_1": "Pune Panthers",
+      "title": "Rajasthan Lions vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140079_5928_RLS_MTY_FC-Web.jpg",
+      "team_1": "Rajasthan Lions",
       "team_2": "Maharashtra Tycoons",
       "status": "UPCOMING",
       "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Pune Panthers vs Maharashtra Tycoons",
+      "match_name": "Rajasthan Lions vs Maharashtra Tycoons",
       "startTime": "07:30:00 PM 27-01-2026"
     },
     {
@@ -152,6 +154,18 @@
       "startTime": "05:00:00 AM 28-01-2026"
     },
     {
+      "id": 140076,
+      "event_category": "Cricket",
+      "title": "Dubai Royals vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
+      "team_1": "Dubai Royals",
+      "team_2": "Rajasthan Lions",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Dubai Royals vs Rajasthan Lions",
+      "startTime": "02:30:00 PM 28-01-2026"
+    },
+    {
       "id": 139239,
       "event_category": "Cricket",
       "title": "Thailand Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -176,18 +190,6 @@
       "startTime": "08:45:00 AM 28-01-2026"
     },
     {
-      "id": 140076,
-      "event_category": "Cricket",
-      "title": "Dubai Royals vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
-      "team_1": "Dubai Royals",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Dubai Royals vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 28-01-2026"
-    },
-    {
       "id": 140015,
       "event_category": "Football",
       "title": "Doncaster Rovers F.C. vs Leyton Orient (League One 2025-26)",
@@ -198,6 +200,18 @@
       "event_name": "League One 2025-26",
       "match_name": "Doncaster Rovers F.C. vs Leyton Orient",
       "startTime": "01:30:00 AM 28-01-2026"
+    },
+    {
+      "id": 139883,
+      "event_category": "Futsal",
+      "title": "Vietnam vs Kuwait (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Vietnam",
+      "team_2": "Kuwait",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Vietnam vs Kuwait",
+      "startTime": "03:30:00 PM 27-01-2026"
     },
     {
       "id": 139240,
@@ -234,18 +248,6 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Sharjah vs Dubai",
       "startTime": "04:30:00 PM 28-01-2026"
-    },
-    {
-      "id": 139883,
-      "event_category": "Futsal",
-      "title": "Vietnam vs Kuwait (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Vietnam",
-      "team_2": "Kuwait",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Vietnam vs Kuwait",
-      "startTime": "03:30:00 PM 27-01-2026"
     },
     {
       "id": 139884,
@@ -344,18 +346,6 @@
       "startTime": "01:00:00 PM 28-01-2026"
     },
     {
-      "id": 139886,
-      "event_category": "Futsal",
-      "title": "Japan vs Australia (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Japan",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Japan vs Australia",
-      "startTime": "01:30:00 PM 28-01-2026"
-    },
-    {
       "id": 139593,
       "event_category": "Cricket",
       "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
@@ -366,6 +356,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Sharjah vs Emirates Red",
       "startTime": "09:00:00 PM 28-01-2026"
+    },
+    {
+      "id": 139886,
+      "event_category": "Futsal",
+      "title": "Japan vs Australia (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Japan",
+      "team_2": "Australia",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Japan vs Australia",
+      "startTime": "01:30:00 PM 28-01-2026"
     },
     {
       "id": 139845,
