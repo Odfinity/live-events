@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:42 AM 27-01-2026",
+  "last update time": "09:25 AM 27-01-2026",
   "matches": [
-    {
-      "id": 139168,
-      "event_category": "Golf",
-      "title": "Boston vs The Bay vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Boston vs The Bay",
-      "team_2": "Florida",
-      "status": "LIVE",
-      "event_name": "TGL Season 2",
-      "match_name": "Boston vs The Bay",
-      "startTime": "05:30:00 AM 27-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/HfjU9Qi1QuWTrLP7TexnNg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139168_english_hls_5d60994cc13223_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139291,
       "event_category": "Cricket",
@@ -81,7 +67,7 @@
       "id": 139765,
       "event_category": "Cricket",
       "title": "Guyana Women vs Jamaica Women (CG United Women's Super 50 Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/139765_CASACARDS_APP.png",
       "team_1": "Guyana Women",
       "team_2": "Jamaica Women",
       "status": "UPCOMING",
@@ -93,7 +79,7 @@
       "id": 139764,
       "event_category": "Cricket",
       "title": "Barbados Women vs Leeward Islands Women (CG United Women's Super 50 Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://images.fancode.com/aig/match/v1/139764_CASACARDS_APP.png",
       "team_1": "Barbados Women",
       "team_2": "Leeward Islands Women",
       "status": "UPCOMING",
@@ -186,6 +172,18 @@
       "startTime": "08:45:00 AM 28-01-2026"
     },
     {
+      "id": 140076,
+      "event_category": "Cricket",
+      "title": "Dubai Royals vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
+      "team_1": "Dubai Royals",
+      "team_2": "Rajasthan Lions",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Dubai Royals vs Rajasthan Lions",
+      "startTime": "02:30:00 PM 28-01-2026"
+    },
+    {
       "id": 139881,
       "event_category": "Futsal",
       "title": "Thailand vs Lebanon (AFC Futsal Asian Cup, 2026)",
@@ -234,18 +232,6 @@
       "startTime": "05:30:00 PM 27-01-2026"
     },
     {
-      "id": 140076,
-      "event_category": "Cricket",
-      "title": "Dubai Royals vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
-      "team_1": "Dubai Royals",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Dubai Royals vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 28-01-2026"
-    },
-    {
       "id": 139240,
       "event_category": "Cricket",
       "title": "USA Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -268,6 +254,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Sharjah vs Dubai",
       "startTime": "04:30:00 PM 28-01-2026"
+    },
+    {
+      "id": 140077,
+      "event_category": "Cricket",
+      "title": "Delhi Warriors vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-Web.jpg",
+      "team_1": "Delhi Warriors",
+      "team_2": "Gurugram Thunders",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Delhi Warriors vs Gurugram Thunders",
+      "startTime": "07:30:00 PM 28-01-2026"
     },
     {
       "id": 139848,
@@ -306,18 +304,6 @@
       "startTime": "11:30:00 AM 28-01-2026"
     },
     {
-      "id": 140077,
-      "event_category": "Cricket",
-      "title": "Delhi Warriors vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-Web.jpg",
-      "team_1": "Delhi Warriors",
-      "team_2": "Gurugram Thunders",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Delhi Warriors vs Gurugram Thunders",
-      "startTime": "07:30:00 PM 28-01-2026"
-    },
-    {
       "id": 139849,
       "event_category": "Padel",
       "title": "Hexagon Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
@@ -342,18 +328,6 @@
       "startTime": "12:00:00 PM 28-01-2026"
     },
     {
-      "id": 139844,
-      "event_category": "Padel",
-      "title": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139844_5896_RNA_RL9_FC-Web.jpg",
-      "team_1": "Rafa Nadal Academy Team",
-      "team_2": "Robert Lewandoswki Academy Team",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026",
-      "match_name": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team",
-      "startTime": "01:00:00 PM 28-01-2026"
-    },
-    {
       "id": 139592,
       "event_category": "Cricket",
       "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
@@ -364,6 +338,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Fujairah vs Abu Dhabi",
       "startTime": "06:45:00 PM 28-01-2026"
+    },
+    {
+      "id": 139844,
+      "event_category": "Padel",
+      "title": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139844_5896_RNA_RL9_FC-Web.jpg",
+      "team_1": "Rafa Nadal Academy Team",
+      "team_2": "Robert Lewandoswki Academy Team",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026",
+      "match_name": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team",
+      "startTime": "01:00:00 PM 28-01-2026"
     },
     {
       "id": 139886,
@@ -414,6 +400,18 @@
       "startTime": "03:30:00 PM 28-01-2026"
     },
     {
+      "id": 139593,
+      "event_category": "Cricket",
+      "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "team_1": "Sharjah",
+      "team_2": "Emirates Red",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Sharjah vs Emirates Red",
+      "startTime": "09:00:00 PM 28-01-2026"
+    },
+    {
       "id": 139847,
       "event_category": "Padel",
       "title": "ADV vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
@@ -424,6 +422,18 @@
       "event_name": "Hexagon Cup 2026",
       "match_name": "ADV vs Robert Lewandoswki Academy Team",
       "startTime": "04:00:00 PM 28-01-2026"
+    },
+    {
+      "id": 139888,
+      "event_category": "Futsal",
+      "title": "Uzbekistan vs Tajikistan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Uzbekistan",
+      "team_2": "Tajikistan",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Uzbekistan vs Tajikistan",
+      "startTime": "05:30:00 PM 28-01-2026"
     }
   ]
 }
