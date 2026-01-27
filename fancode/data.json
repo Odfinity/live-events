@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:23 PM 27-01-2026",
+  "last update time": "06:31 PM 27-01-2026",
   "matches": [
     {
       "id": 139291,
@@ -60,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139883_english_hls_9e58dfaf8f45377_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139884,
+      "event_category": "Futsal",
+      "title": "Indonesia vs Korea Republic (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Indonesia",
+      "team_2": "Korea Republic",
+      "status": "LIVE",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Indonesia vs Korea Republic",
+      "startTime": "05:30:00 PM 27-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/z8XCzhuiRzyXBdxZ7IRpHQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139884_english_hls_fde81787c1332_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140075,
       "event_category": "Cricket",
       "title": "Rajasthan Lions vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
@@ -72,22 +86,10 @@
       "startTime": "07:30:00 PM 27-01-2026"
     },
     {
-      "id": 140076,
-      "event_category": "Cricket",
-      "title": "Dubai Royals vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
-      "team_1": "Dubai Royals",
-      "team_2": "Gurugram Thunders",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Dubai Royals vs Gurugram Thunders",
-      "startTime": "02:30:00 PM 28-01-2026"
-    },
-    {
       "id": 139588,
       "event_category": "Cricket",
       "title": "Fujairah vs Ajman (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
       "team_1": "Fujairah",
       "team_2": "Ajman",
       "status": "UPCOMING",
@@ -99,7 +101,7 @@
       "id": 139765,
       "event_category": "Cricket",
       "title": "Guyana Women vs Jamaica Women (CG United Women's Super 50 Cup 2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139765_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg",
       "team_1": "Guyana Women",
       "team_2": "Jamaica Women",
       "status": "UPCOMING",
@@ -111,7 +113,7 @@
       "id": 139764,
       "event_category": "Cricket",
       "title": "Barbados Women vs Leeward Islands Women (CG United Women's Super 50 Cup 2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139764_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
       "team_1": "Barbados Women",
       "team_2": "Leeward Islands Women",
       "status": "UPCOMING",
@@ -123,13 +125,25 @@
       "id": 139763,
       "event_category": "Cricket",
       "title": "Trinidad and Tobago Women vs Windward Islands Women (CG United Women's Super 50 Cup 2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139763_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg",
       "team_1": "Trinidad and Tobago Women",
       "team_2": "Windward Islands Women",
       "status": "UPCOMING",
       "event_name": "CG United Women's Super 50 Cup 2026",
       "match_name": "Trinidad and Tobago Women vs Windward Islands Women",
       "startTime": "07:00:00 PM 27-01-2026"
+    },
+    {
+      "id": 140076,
+      "event_category": "Cricket",
+      "title": "Dubai Royals vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
+      "team_1": "Dubai Royals",
+      "team_2": "Gurugram Thunders",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Dubai Royals vs Gurugram Thunders",
+      "startTime": "02:30:00 PM 28-01-2026"
     },
     {
       "id": 139589,
@@ -147,7 +161,7 @@
       "id": 139590,
       "event_category": "Cricket",
       "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
       "team_1": "Ajman",
       "team_2": "Emirates Red",
       "status": "UPCOMING",
@@ -216,18 +230,6 @@
       "startTime": "01:30:00 AM 28-01-2026"
     },
     {
-      "id": 139884,
-      "event_category": "Futsal",
-      "title": "Indonesia vs Korea Republic (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Indonesia",
-      "team_2": "Korea Republic",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Indonesia vs Korea Republic",
-      "startTime": "05:30:00 PM 27-01-2026"
-    },
-    {
       "id": 140077,
       "event_category": "Cricket",
       "title": "Delhi Warriors vs Pune Panthers (World Legends Pro T20 League, 2026)",
@@ -255,7 +257,7 @@
       "id": 139592,
       "event_category": "Cricket",
       "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
       "team_1": "Fujairah",
       "team_2": "Abu Dhabi",
       "status": "UPCOMING",
@@ -348,6 +350,18 @@
       "startTime": "01:00:00 PM 28-01-2026"
     },
     {
+      "id": 139830,
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Al-Ettifaq",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
+      "startTime": "11:00:00 PM 28-01-2026"
+    },
+    {
       "id": 139886,
       "event_category": "Futsal",
       "title": "Japan vs Australia (AFC Futsal Asian Cup, 2026)",
@@ -358,6 +372,18 @@
       "event_name": "AFC Futsal Asian Cup, 2026",
       "match_name": "Japan vs Australia",
       "startTime": "01:30:00 PM 28-01-2026"
+    },
+    {
+      "id": 139594,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "team_1": "Abu Dhabi",
+      "team_2": "Ajman",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Abu Dhabi vs Ajman",
+      "startTime": "11:15:00 PM 28-01-2026"
     },
     {
       "id": 139845,
@@ -382,30 +408,6 @@
       "event_name": "Hexagon Cup 2026",
       "match_name": "ADV vs Hexagon Team",
       "startTime": "03:00:00 PM 28-01-2026"
-    },
-    {
-      "id": 139830,
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Al-Ettifaq",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
-      "startTime": "11:00:00 PM 28-01-2026"
-    },
-    {
-      "id": 139594,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Ajman",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Abu Dhabi vs Ajman",
-      "startTime": "11:15:00 PM 28-01-2026"
     },
     {
       "id": 139887,
