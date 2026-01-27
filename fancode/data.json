@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:47 PM 27-01-2026",
+  "last update time": "11:18 PM 27-01-2026",
   "matches": [
     {
       "id": 140075,
@@ -60,30 +60,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139589,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Emirates Blues",
-      "status": "LIVE",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Abu Dhabi vs Emirates Blues",
-      "startTime": "09:00:00 PM 27-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/VgfdmSR9Sk-19_CFd3ZNGw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139589_english_hls_9ff79b0f8360911_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 139590,
       "event_category": "Cricket",
       "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
       "team_1": "Ajman",
       "team_2": "Emirates Red",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Emirates D10, 2026",
       "match_name": "Ajman vs Emirates Red",
-      "startTime": "11:15:00 PM 27-01-2026"
+      "startTime": "11:15:00 PM 27-01-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 140076,
@@ -206,18 +194,6 @@
       "startTime": "09:00:00 PM 28-01-2026"
     },
     {
-      "id": 139830,
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Al-Ettifaq",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
-      "startTime": "11:00:00 PM 28-01-2026"
-    },
-    {
       "id": 139594,
       "event_category": "Cricket",
       "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
@@ -228,6 +204,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Abu Dhabi vs Ajman",
       "startTime": "11:15:00 PM 28-01-2026"
+    },
+    {
+      "id": 139830,
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Al-Ettifaq",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
+      "startTime": "11:00:00 PM 28-01-2026"
     },
     {
       "id": 139848,
@@ -432,6 +420,30 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "Rafa Nadal Academy Team vs Hexagon Team",
       "startTime": "11:00:00 AM 29-01-2026"
+    },
+    {
+      "id": 139889,
+      "event_category": "Futsal",
+      "title": "Lebanon vs Vietnam (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Lebanon",
+      "team_2": "Vietnam",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Lebanon vs Vietnam",
+      "startTime": "11:30:00 AM 29-01-2026"
+    },
+    {
+      "id": 139595,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Emirates Red",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Emirates Blues vs Emirates Red",
+      "startTime": "04:30:00 PM 29-01-2026"
     }
   ]
 }
