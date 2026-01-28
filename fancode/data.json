@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:22 PM 28-01-2026",
+  "last update time": "06:31 PM 28-01-2026",
   "matches": [
-    {
-      "id": 140076,
-      "event_category": "Cricket",
-      "title": "Dubai Royals vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140076_5928_DR_RLS_FC-Web.jpg",
-      "team_1": "Dubai Royals",
-      "team_2": "Gurugram Thunders",
-      "status": "LIVE",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Dubai Royals vs Gurugram Thunders",
-      "startTime": "02:30:00 PM 28-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/TpG9VU6FSEqMHFOQr6ZhSA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140076_english_hls_2d913f9f8626682_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139591,
       "event_category": "Cricket",
@@ -30,20 +16,6 @@
       "startTime": "04:30:00 PM 28-01-2026",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 139887,
-      "event_category": "Futsal",
-      "title": "IR Iran vs Malaysia (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "IR Iran",
-      "team_2": "Malaysia",
-      "status": "LIVE",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "IR Iran vs Malaysia",
-      "startTime": "03:30:00 PM 28-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/ScSCdu_2RvaKrqnemJ7O7g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139887_english_hls_f0029771a775379_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140162,
@@ -86,18 +58,6 @@
       "startTime": "07:30:00 PM 28-01-2026"
     },
     {
-      "id": 140078,
-      "event_category": "Cricket",
-      "title": "Rajasthan Lions vs Dubai Royals (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140078_5928_PPT_DR_FC-Web.jpg",
-      "team_1": "Rajasthan Lions",
-      "team_2": "Dubai Royals",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Rajasthan Lions vs Dubai Royals",
-      "startTime": "02:30:00 PM 29-01-2026"
-    },
-    {
       "id": 139592,
       "event_category": "Cricket",
       "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
@@ -108,6 +68,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Fujairah vs Abu Dhabi",
       "startTime": "06:45:00 PM 28-01-2026"
+    },
+    {
+      "id": 140078,
+      "event_category": "Cricket",
+      "title": "Rajasthan Lions vs Dubai Royals (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140078_5928_PPT_DR_FC-Web.jpg",
+      "team_1": "Rajasthan Lions",
+      "team_2": "Dubai Royals",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Rajasthan Lions vs Dubai Royals",
+      "startTime": "02:30:00 PM 29-01-2026"
     },
     {
       "id": 139593,
@@ -144,6 +116,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
       "startTime": "11:00:00 PM 28-01-2026"
+    },
+    {
+      "id": 140079,
+      "event_category": "Cricket",
+      "title": "Gurugram Thunders vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140079_5928_RLS_MTY_FC-Web.jpg",
+      "team_1": "Gurugram Thunders",
+      "team_2": "Maharashtra Tycoons",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Gurugram Thunders vs Maharashtra Tycoons",
+      "startTime": "07:30:00 PM 29-01-2026"
     },
     {
       "id": 139848,
@@ -240,18 +224,6 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "ADV vs Robert Lewandoswki Academy Team",
       "startTime": "04:00:00 PM 28-01-2026"
-    },
-    {
-      "id": 140079,
-      "event_category": "Cricket",
-      "title": "Gurugram Thunders vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140079_5928_RLS_MTY_FC-Web.jpg",
-      "team_1": "Gurugram Thunders",
-      "team_2": "Maharashtra Tycoons",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Gurugram Thunders vs Maharashtra Tycoons",
-      "startTime": "07:30:00 PM 29-01-2026"
     },
     {
       "id": 140132,
@@ -422,16 +394,28 @@
       "startTime": "01:30:00 PM 29-01-2026"
     },
     {
-      "id": 139854,
-      "event_category": "Padel",
-      "title": "10 Padel vs Leven (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139854_5896_XPA_LEV_FC-Web.jpg",
-      "team_1": "10 Padel",
-      "team_2": "Leven",
+      "id": 139831,
+      "event_category": "Football",
+      "title": "Al-Qadsiah FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139831_5655_ALQ_AHS_FC-Web.jpg",
+      "team_1": "Al-Qadsiah FC",
+      "team_2": "Al Hilal SFC",
       "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "10 Padel vs Leven",
-      "startTime": "03:00:00 PM 29-01-2026"
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Qadsiah FC vs Al Hilal SFC",
+      "startTime": "11:00:00 PM 29-01-2026"
+    },
+    {
+      "id": 139598,
+      "event_category": "Cricket",
+      "title": "Ajman vs Sharjah (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "team_1": "Ajman",
+      "team_2": "Sharjah",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Ajman vs Sharjah",
+      "startTime": "11:15:00 PM 29-01-2026"
     }
   ]
 }
