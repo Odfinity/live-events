@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:58 AM 28-01-2026",
+  "last update time": "09:26 AM 28-01-2026",
   "matches": [
     {
       "id": 133972,
@@ -16,6 +16,34 @@
       "startTime": "05:00:00 AM 28-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/H0zOPeB5TISXXwlmkTab6Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133972_english_hls_f401b1e0f383322_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139239,
+      "event_category": "Cricket",
+      "title": "Bangladesh Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+      "team_1": "Bangladesh Women",
+      "team_2": "Thailand Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Bangladesh Women vs Thailand Women",
+      "startTime": "08:45:00 AM 28-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/1TBZo2AGSYqcBo68JKtimQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139239_english_hls_cc628989a544774_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139238,
+      "event_category": "Cricket",
+      "title": "Scotland Women vs Ireland Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+      "team_1": "Scotland Women",
+      "team_2": "Ireland Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Scotland Women vs Ireland Women",
+      "startTime": "08:45:00 AM 28-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/aAw_9XY7SoiqRzwnnyH0Mg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139238_english_hls_ff9bc6fe5263747_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140076,
@@ -40,30 +68,6 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Delhi Warriors vs Pune Panthers",
       "startTime": "07:30:00 PM 28-01-2026"
-    },
-    {
-      "id": 139239,
-      "event_category": "Cricket",
-      "title": "Thailand Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-      "team_1": "Thailand Women",
-      "team_2": "Bangladesh Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Thailand Women vs Bangladesh Women",
-      "startTime": "08:45:00 AM 28-01-2026"
-    },
-    {
-      "id": 139238,
-      "event_category": "Cricket",
-      "title": "Scotland Women vs Ireland Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-      "team_1": "Scotland Women",
-      "team_2": "Ireland Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Scotland Women vs Ireland Women",
-      "startTime": "08:45:00 AM 28-01-2026"
     },
     {
       "id": 139240,
@@ -136,6 +140,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
       "startTime": "11:00:00 PM 28-01-2026"
+    },
+    {
+      "id": 140078,
+      "event_category": "Cricket",
+      "title": "Rajasthan Lions vs Dubai Royals (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140078_5928_PPT_DR_FC-Web.jpg",
+      "team_1": "Rajasthan Lions",
+      "team_2": "Dubai Royals",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Rajasthan Lions vs Dubai Royals",
+      "startTime": "02:30:00 PM 29-01-2026"
     },
     {
       "id": 139848,
@@ -294,18 +310,6 @@
       "startTime": "05:30:00 PM 28-01-2026"
     },
     {
-      "id": 140078,
-      "event_category": "Cricket",
-      "title": "Rajasthan Lions vs Dubai Royals (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140078_5928_PPT_DR_FC-Web.jpg",
-      "team_1": "Rajasthan Lions",
-      "team_2": "Dubai Royals",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Rajasthan Lions vs Dubai Royals",
-      "startTime": "02:30:00 PM 29-01-2026"
-    },
-    {
       "id": 139595,
       "event_category": "Cricket",
       "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
@@ -316,30 +320,6 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Emirates Blues vs Emirates Red",
       "startTime": "04:30:00 PM 29-01-2026"
-    },
-    {
-      "id": 139857,
-      "event_category": "Padel",
-      "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139857_5896_XPA_RL9_FC-Web.jpg",
-      "team_1": "10 Padel",
-      "team_2": "Robert Lewandoswki Academy Team",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "10 Padel vs Robert Lewandoswki Academy Team",
-      "startTime": "11:00:00 AM 29-01-2026"
-    },
-    {
-      "id": 139850,
-      "event_category": "Padel",
-      "title": "Rafa Nadal Academy Team vs Hexagon Team (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139850_5896_RNA_HEX_FC-Web.jpg",
-      "team_1": "Rafa Nadal Academy Team",
-      "team_2": "Hexagon Team",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Rafa Nadal Academy Team vs Hexagon Team",
-      "startTime": "11:00:00 AM 29-01-2026"
     },
     {
       "id": 140079,
@@ -364,6 +344,30 @@
       "event_name": "Ireland tour of United Arab Emirates, 2026",
       "match_name": "United Arab Emirates vs Ireland",
       "startTime": "07:30:00 PM 29-01-2026"
+    },
+    {
+      "id": 139857,
+      "event_category": "Padel",
+      "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139857_5896_XPA_RL9_FC-Web.jpg",
+      "team_1": "10 Padel",
+      "team_2": "Robert Lewandoswki Academy Team",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "10 Padel vs Robert Lewandoswki Academy Team",
+      "startTime": "11:00:00 AM 29-01-2026"
+    },
+    {
+      "id": 139850,
+      "event_category": "Padel",
+      "title": "Rafa Nadal Academy Team vs Hexagon Team (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139850_5896_RNA_HEX_FC-Web.jpg",
+      "team_1": "Rafa Nadal Academy Team",
+      "team_2": "Hexagon Team",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Rafa Nadal Academy Team vs Hexagon Team",
+      "startTime": "11:00:00 AM 29-01-2026"
     },
     {
       "id": 139889,
@@ -402,18 +406,6 @@
       "startTime": "12:00:00 PM 29-01-2026"
     },
     {
-      "id": 139852,
-      "event_category": "Padel",
-      "title": "Team Bella vs 10 Padel (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139852_5896_TEB_XPA_FC-Web.jpg",
-      "team_1": "Team Bella",
-      "team_2": "10 Padel",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Team Bella vs 10 Padel",
-      "startTime": "01:00:00 PM 29-01-2026"
-    },
-    {
       "id": 139596,
       "event_category": "Cricket",
       "title": "Ajman vs Dubai (Emirates D10, 2026)",
@@ -424,6 +416,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Ajman vs Dubai",
       "startTime": "06:45:00 PM 29-01-2026"
+    },
+    {
+      "id": 139852,
+      "event_category": "Padel",
+      "title": "Team Bella vs 10 Padel (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139852_5896_TEB_XPA_FC-Web.jpg",
+      "team_1": "Team Bella",
+      "team_2": "10 Padel",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Team Bella vs 10 Padel",
+      "startTime": "01:00:00 PM 29-01-2026"
     }
   ]
 }
