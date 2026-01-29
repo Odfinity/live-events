@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:32 AM 30-01-2026",
+  "last update time": "03:11 AM 30-01-2026",
   "matches": [
-    {
-      "id": 140164,
-      "event_category": "Padel",
-      "title": "Day 2 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-      "team_1": "Day 2 - Centre Court",
-      "team_2": "Madrid, Spain",
-      "status": "LIVE",
-      "event_name": "Hexagon Cup 2026",
-      "match_name": "Day 2 - Centre Court",
-      "startTime": "03:30:00 PM 29-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/ZY7K1FJWSEOWR9kmH-2ILA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140021,
       "event_category": "Golf",
@@ -244,6 +230,18 @@
       "startTime": "11:30:00 AM 30-01-2026"
     },
     {
+      "id": 139602,
+      "event_category": "Cricket",
+      "title": "Fujairah vs Sharjah (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "team_1": "Fujairah",
+      "team_2": "Sharjah",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Fujairah vs Sharjah",
+      "startTime": "11:15:00 PM 30-01-2026"
+    },
+    {
       "id": 139397,
       "event_category": "Football",
       "title": "Adelaide United vs Macarthur (A League 2025-26)",
@@ -254,6 +252,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Adelaide United vs Macarthur",
       "startTime": "02:35:00 PM 30-01-2026"
+    },
+    {
+      "id": 139832,
+      "event_category": "Football",
+      "title": "Al-Kholood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg",
+      "team_1": "Al-Kholood Club",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Kholood Club vs Al-Nassr FC",
+      "startTime": "11:00:00 PM 30-01-2026"
     },
     {
       "id": 139857,
@@ -352,30 +362,6 @@
       "startTime": "05:00:00 PM 29-01-2026"
     },
     {
-      "id": 139602,
-      "event_category": "Cricket",
-      "title": "Fujairah vs Sharjah (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-      "team_1": "Fujairah",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Fujairah vs Sharjah",
-      "startTime": "11:15:00 PM 30-01-2026"
-    },
-    {
-      "id": 139832,
-      "event_category": "Football",
-      "title": "Al-Kholood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg",
-      "team_1": "Al-Kholood Club",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Kholood Club vs Al-Nassr FC",
-      "startTime": "11:00:00 PM 30-01-2026"
-    },
-    {
       "id": 140170,
       "event_category": "Cricket",
       "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
@@ -470,6 +456,18 @@
       "event_name": "Pro10 Malaysia, 2026",
       "match_name": "Iron Titans vs Thunder Strikers",
       "startTime": "07:30:00 AM 31-01-2026"
+    },
+    {
+      "id": 139865,
+      "event_category": "Padel",
+      "title": "Rafa Nadal Academy Team vs 10 Padel (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139865_5896_RNA_XPA_FC-Web.jpg",
+      "team_1": "Rafa Nadal Academy Team",
+      "team_2": "10 Padel",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Rafa Nadal Academy Team vs 10 Padel",
+      "startTime": "11:00:00 AM 30-01-2026"
     }
   ]
 }
