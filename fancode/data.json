@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:31 AM 30-01-2026",
+  "last update time": "04:15 AM 30-01-2026",
   "matches": [
-    {
-      "id": 140021,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 1 vs Torrey Pines Golf Course  (Farmers Insurance Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
-      "team_1": "Main Feed - Day 1",
-      "team_2": "Torrey Pines Golf Course ",
-      "status": "LIVE",
-      "event_name": "Farmers Insurance Open 2026",
-      "match_name": "Main Feed - Day 1",
-      "startTime": "10:30:00 PM 29-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/HNCKCUTYSMObFfp1ISRNPw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140021_english_hls_9d2ae0e2065301_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140024,
       "event_category": "Golf",
@@ -218,18 +204,6 @@
       "startTime": "09:00:00 PM 30-01-2026"
     },
     {
-      "id": 139396,
-      "event_category": "Football",
-      "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Wellington Phoenix vs Melbourne City",
-      "startTime": "11:30:00 AM 30-01-2026"
-    },
-    {
       "id": 139602,
       "event_category": "Cricket",
       "title": "Fujairah vs Sharjah (Emirates D10, 2026)",
@@ -252,6 +226,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Kholood Club vs Al-Nassr FC",
       "startTime": "11:00:00 PM 30-01-2026"
+    },
+    {
+      "id": 139396,
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Melbourne City",
+      "startTime": "11:30:00 AM 30-01-2026"
     },
     {
       "id": 139397,
@@ -467,6 +453,18 @@
       "status": "UPCOMING",
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "Rafa Nadal Academy Team vs 10 Padel",
+      "startTime": "11:00:00 AM 30-01-2026"
+    },
+    {
+      "id": 139859,
+      "event_category": "Padel",
+      "title": "Team Bella vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139859_5896_TEB_RL9_FC-Web.jpg",
+      "team_1": "Team Bella",
+      "team_2": "Robert Lewandoswki Academy Team",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Team Bella vs Robert Lewandoswki Academy Team",
       "startTime": "11:00:00 AM 30-01-2026"
     }
   ]
