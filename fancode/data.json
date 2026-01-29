@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:35 PM 29-01-2026",
+  "last update time": "01:23 PM 29-01-2026",
   "matches": [
     {
       "id": 139889,
@@ -16,6 +16,20 @@
       "startTime": "11:30:00 AM 29-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/6yTz-Xp5RUeAVaWQqvzx_Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139889_english_hls_f0b105dfc749642_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139890,
+      "event_category": "Futsal",
+      "title": "Korea Republic vs Iraq (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Korea Republic",
+      "team_2": "Iraq",
+      "status": "LIVE",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Korea Republic vs Iraq",
+      "startTime": "01:30:00 PM 29-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/i1QWBGojT9u4yW6BnY1RdQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139890_english_hls_eea79bb07575658_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140078,
@@ -78,18 +92,6 @@
       "startTime": "07:30:00 AM 30-01-2026"
     },
     {
-      "id": 139595,
-      "event_category": "Cricket",
-      "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-      "team_1": "Emirates Blues",
-      "team_2": "Emirates Red",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Emirates Blues vs Emirates Red",
-      "startTime": "04:30:00 PM 29-01-2026"
-    },
-    {
       "id": 140171,
       "event_category": "Cricket",
       "title": "Royal Falcons vs Shadow Blazers (Pro10 Malaysia, 2026)",
@@ -100,6 +102,30 @@
       "event_name": "Pro10 Malaysia, 2026",
       "match_name": "Royal Falcons vs Shadow Blazers",
       "startTime": "10:00:00 AM 30-01-2026"
+    },
+    {
+      "id": 138761,
+      "event_category": "Cricket",
+      "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+      "team_1": "Auckland Aces",
+      "team_2": "Canterbury",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Auckland Aces vs Canterbury",
+      "startTime": "10:25:00 AM 30-01-2026"
+    },
+    {
+      "id": 139595,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Emirates Red",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Emirates Blues vs Emirates Red",
+      "startTime": "04:30:00 PM 29-01-2026"
     },
     {
       "id": 139596,
@@ -162,18 +188,6 @@
       "startTime": "09:00:00 PM 29-01-2026"
     },
     {
-      "id": 138761,
-      "event_category": "Cricket",
-      "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
-      "team_1": "Auckland Aces",
-      "team_2": "Canterbury",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Auckland Aces vs Canterbury",
-      "startTime": "10:25:00 AM 30-01-2026"
-    },
-    {
       "id": 139598,
       "event_category": "Cricket",
       "title": "Ajman vs Sharjah (Emirates D10, 2026)",
@@ -198,18 +212,6 @@
       "startTime": "11:00:00 PM 29-01-2026"
     },
     {
-      "id": 133973,
-      "event_category": "Cricket",
-      "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-      "team_1": "Tasmania Women",
-      "team_2": "Western Australia Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Tasmania Women vs Western Australia Women",
-      "startTime": "05:00:00 AM 30-01-2026"
-    },
-    {
       "id": 140172,
       "event_category": "Cricket",
       "title": "Shadow Blazers vs Thunder Strikers (Pro10 Malaysia, 2026)",
@@ -220,6 +222,18 @@
       "event_name": "Pro10 Malaysia, 2026",
       "match_name": "Shadow Blazers vs Thunder Strikers",
       "startTime": "12:15:00 PM 30-01-2026"
+    },
+    {
+      "id": 133973,
+      "event_category": "Cricket",
+      "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+      "team_1": "Tasmania Women",
+      "team_2": "Western Australia Women",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Tasmania Women vs Western Australia Women",
+      "startTime": "05:00:00 AM 30-01-2026"
     },
     {
       "id": 139242,
@@ -246,16 +260,16 @@
       "startTime": "08:45:00 AM 30-01-2026"
     },
     {
-      "id": 139844,
-      "event_category": "Padel",
-      "title": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139844_5896_RNA_RL9_FC-Web.jpg",
-      "team_1": "Rafa Nadal Academy Team",
-      "team_2": "Robert Lewandoswki Academy Team",
+      "id": 140080,
+      "event_category": "Cricket",
+      "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
+      "team_1": "Maharashtra Tycoons",
+      "team_2": "Delhi Warriors",
       "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team",
-      "startTime": "01:00:00 PM 28-01-2026"
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Maharashtra Tycoons vs Delhi Warriors",
+      "startTime": "02:30:00 PM 30-01-2026"
     },
     {
       "id": 139845,
@@ -354,30 +368,6 @@
       "startTime": "01:00:00 PM 29-01-2026"
     },
     {
-      "id": 139890,
-      "event_category": "Futsal",
-      "title": "Korea Republic vs Iraq (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Korea Republic",
-      "team_2": "Iraq",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Korea Republic vs Iraq",
-      "startTime": "01:30:00 PM 29-01-2026"
-    },
-    {
-      "id": 140080,
-      "event_category": "Cricket",
-      "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
-      "team_1": "Maharashtra Tycoons",
-      "team_2": "Delhi Warriors",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Maharashtra Tycoons vs Delhi Warriors",
-      "startTime": "02:30:00 PM 30-01-2026"
-    },
-    {
       "id": 139243,
       "event_category": "Cricket",
       "title": "USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -400,6 +390,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Wellington Phoenix vs Melbourne City",
       "startTime": "11:30:00 AM 30-01-2026"
+    },
+    {
+      "id": 139292,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
+      "team_1": "Sri Lanka",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of Sri Lanka, 2026",
+      "match_name": "Sri Lanka vs England",
+      "startTime": "07:00:00 PM 30-01-2026"
     },
     {
       "id": 139854,
