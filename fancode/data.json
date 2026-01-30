@@ -1,8 +1,36 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:44 PM 30-01-2026",
+  "last update time": "07:33 PM 30-01-2026",
   "matches": [
+    {
+      "id": 139292,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
+      "team_1": "Sri Lanka",
+      "team_2": "England",
+      "status": "LIVE",
+      "event_name": "England tour of Sri Lanka, 2026",
+      "match_name": "Sri Lanka vs England",
+      "startTime": "07:00:00 PM 30-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769823210~acl=/*~id=41243574289036387126957372911430~hmac=bf89a8a3a054bf245d1afa93ef86174c5115e176c7ddee5d175e2462b6242597"
+    },
+    {
+      "id": 140081,
+      "event_category": "Cricket",
+      "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg",
+      "team_1": "Pune Panthers",
+      "team_2": "Rajasthan Lions",
+      "status": "LIVE",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Pune Panthers vs Rajasthan Lions",
+      "startTime": "07:30:00 PM 30-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/TA0br_L3RBKY9Zc0KehbdQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140081_english_hls_4beb0dc9889432_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139600,
       "event_category": "Cricket",
@@ -44,30 +72,6 @@
       "startTime": "05:30:00 PM 30-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/s8DsUw5gSziIIScoa8E2-w/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139896_english_hls_5af3284e3475850_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139292,
-      "event_category": "Cricket",
-      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
-      "team_1": "Sri Lanka",
-      "team_2": "England",
-      "status": "UPCOMING",
-      "event_name": "England tour of Sri Lanka, 2026",
-      "match_name": "Sri Lanka vs England",
-      "startTime": "07:00:00 PM 30-01-2026"
-    },
-    {
-      "id": 140081,
-      "event_category": "Cricket",
-      "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg",
-      "team_1": "Pune Panthers",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Pune Panthers vs Rajasthan Lions",
-      "startTime": "07:30:00 PM 30-01-2026"
     },
     {
       "id": 138794,
@@ -214,18 +218,6 @@
       "startTime": "01:30:00 AM 31-01-2026"
     },
     {
-      "id": 140013,
-      "event_category": "Football",
-      "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140013_CASACARDS_APP.png",
-      "team_1": "Real Sociedad B",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Sociedad B vs Las Palmas",
-      "startTime": "01:00:00 AM 31-01-2026"
-    },
-    {
       "id": 140083,
       "event_category": "Cricket",
       "title": "Dubai Royals vs Pune Panthers (World Legends Pro T20 League, 2026)",
@@ -236,6 +228,18 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Dubai Royals vs Pune Panthers",
       "startTime": "07:30:00 PM 31-01-2026"
+    },
+    {
+      "id": 140013,
+      "event_category": "Football",
+      "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140013_CASACARDS_APP.png",
+      "team_1": "Real Sociedad B",
+      "team_2": "Las Palmas",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Sociedad B vs Las Palmas",
+      "startTime": "01:00:00 AM 31-01-2026"
     },
     {
       "id": 139865,
@@ -358,18 +362,6 @@
       "startTime": "11:30:00 AM 31-01-2026"
     },
     {
-      "id": 139399,
-      "event_category": "Football",
-      "title": "Sydney FC vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png",
-      "team_1": "Sydney FC",
-      "team_2": "Western Sydney Wanderers",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Western Sydney Wanderers",
-      "startTime": "02:05:00 PM 31-01-2026"
-    },
-    {
       "id": 139346,
       "event_category": "Football",
       "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
@@ -380,6 +372,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Stoke City F.C. vs Southampton F.C.",
       "startTime": "06:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 139399,
+      "event_category": "Football",
+      "title": "Sydney FC vs Western Sydney Wanderers (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png",
+      "team_1": "Sydney FC",
+      "team_2": "Western Sydney Wanderers",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Western Sydney Wanderers",
+      "startTime": "02:05:00 PM 31-01-2026"
     },
     {
       "id": 139604,
@@ -452,6 +456,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Perth Glory vs Auckland",
       "startTime": "04:15:00 PM 31-01-2026"
+    },
+    {
+      "id": 139347,
+      "event_category": "Football",
+      "title": "Portsmouth F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139347_5489_PRM_WBA_FC-Web.jpg",
+      "team_1": "Portsmouth F.C.",
+      "team_2": "West Bromwich Albion F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Portsmouth F.C. vs West Bromwich Albion F.C.",
+      "startTime": "08:30:00 PM 31-01-2026"
     }
   ]
 }
