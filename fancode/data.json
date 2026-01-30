@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:14 PM 30-01-2026",
+  "last update time": "03:48 PM 30-01-2026",
   "matches": [
+    {
+      "id": 140080,
+      "event_category": "Cricket",
+      "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
+      "team_1": "Maharashtra Tycoons",
+      "team_2": "Delhi Warriors",
+      "status": "LIVE",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Maharashtra Tycoons vs Delhi Warriors",
+      "startTime": "02:30:00 PM 30-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/5Sr43ae0RNqMI_tLqonURQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139243,
       "event_category": "Cricket",
@@ -32,32 +46,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139397_english_hls_bc7229d64d25632_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139894,
+      "id": 139895,
       "event_category": "Futsal",
-      "title": "Australia vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
+      "title": "Malaysia vs Afghanistan (AFC Futsal Asian Cup, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Australia",
-      "team_2": "Uzbekistan",
+      "team_1": "Malaysia",
+      "team_2": "Afghanistan",
       "status": "LIVE",
       "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Australia vs Uzbekistan",
-      "startTime": "01:30:00 PM 30-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/UmdzmF1-Q6yty-lk7v6JNA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8"
+      "match_name": "Malaysia vs Afghanistan",
+      "startTime": "03:30:00 PM 30-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/3V359igUTlSXDplf94OC-A/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139895_english_hls_81ef4b717c17538_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140080,
-      "event_category": "Cricket",
-      "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
-      "team_1": "Maharashtra Tycoons",
-      "team_2": "Delhi Warriors",
+      "id": 140166,
+      "event_category": "Live Events",
+      "title": "Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+      "team_1": "Day 3 - Centre Court",
+      "team_2": "Madrid, Spain",
       "status": "LIVE",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Maharashtra Tycoons vs Delhi Warriors",
-      "startTime": "02:30:00 PM 30-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/5Sr43ae0RNqMI_tLqonURQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8"
+      "event_name": "Hexagon Cup 2026",
+      "match_name": "Day 3 - Centre Court",
+      "startTime": "03:30:00 PM 30-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/-wnlpdMWRhadw_P68bOf9Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140166_english_hls_03a071c2e382439_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139292,
@@ -96,6 +110,18 @@
       "startTime": "06:40:00 AM 31-01-2026"
     },
     {
+      "id": 139599,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi vs Emirates Red (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "team_1": "Abu Dhabi",
+      "team_2": "Emirates Red",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Abu Dhabi vs Emirates Red",
+      "startTime": "04:30:00 PM 30-01-2026"
+    },
+    {
       "id": 138762,
       "event_category": "Cricket",
       "title": "Northern Districts vs Canterbury (Super Smash, 2025-26)",
@@ -132,18 +158,6 @@
       "startTime": "07:30:00 AM 31-01-2026"
     },
     {
-      "id": 139599,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Emirates Red (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Emirates Red",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Abu Dhabi vs Emirates Red",
-      "startTime": "04:30:00 PM 30-01-2026"
-    },
-    {
       "id": 139600,
       "event_category": "Cricket",
       "title": "Fujairah vs Emirates Blues (Emirates D10, 2026)",
@@ -168,18 +182,6 @@
       "startTime": "09:00:00 PM 30-01-2026"
     },
     {
-      "id": 139602,
-      "event_category": "Cricket",
-      "title": "Fujairah vs Sharjah (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-      "team_1": "Fujairah",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Fujairah vs Sharjah",
-      "startTime": "11:15:00 PM 30-01-2026"
-    },
-    {
       "id": 140303,
       "event_category": "Cricket",
       "title": "Royal Falcons vs Shadow Blazers (Pro10 Malaysia, 2026)",
@@ -190,6 +192,18 @@
       "event_name": "Pro10 Malaysia, 2026",
       "match_name": "Royal Falcons vs Shadow Blazers",
       "startTime": "10:00:00 AM 31-01-2026"
+    },
+    {
+      "id": 139602,
+      "event_category": "Cricket",
+      "title": "Fujairah vs Sharjah (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "team_1": "Fujairah",
+      "team_2": "Sharjah",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Fujairah vs Sharjah",
+      "startTime": "11:15:00 PM 30-01-2026"
     },
     {
       "id": 139832,
@@ -372,30 +386,6 @@
       "startTime": "03:00:00 PM 30-01-2026"
     },
     {
-      "id": 139895,
-      "event_category": "Futsal",
-      "title": "Malaysia vs Afghanistan (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Malaysia",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Malaysia vs Afghanistan",
-      "startTime": "03:30:00 PM 30-01-2026"
-    },
-    {
-      "id": 140166,
-      "event_category": "Live Events",
-      "title": "Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-      "team_1": "Day 3 - Centre Court",
-      "team_2": "Madrid, Spain",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026",
-      "match_name": "Day 3 - Centre Court",
-      "startTime": "03:30:00 PM 30-01-2026"
-    },
-    {
       "id": 139864,
       "event_category": "Padel",
       "title": "KRU Padel vs Team Bella (Hexagon Cup 2026 DNU)",
@@ -454,6 +444,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Sydney FC vs Western Sydney Wanderers",
       "startTime": "02:05:00 PM 31-01-2026"
+    },
+    {
+      "id": 139346,
+      "event_category": "Football",
+      "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139346_5489_STK_SOU_FC-Web.jpg",
+      "team_1": "Stoke City F.C.",
+      "team_2": "Southampton F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Stoke City F.C. vs Southampton F.C.",
+      "startTime": "06:00:00 PM 31-01-2026"
     }
   ]
 }
