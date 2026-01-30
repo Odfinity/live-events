@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:21 AM 31-01-2026",
+  "last update time": "01:05 AM 31-01-2026",
   "matches": [
     {
       "id": 139602,
@@ -30,6 +30,34 @@
       "startTime": "11:00:00 PM 30-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/4AWwrMY6TLWTGOnAgijYRw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139832_english_hls_2235df2b4a59204_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131049,
+      "event_category": "Football",
+      "title": "RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png",
+      "team_1": "RCD Espanyol",
+      "team_2": "Deportivo Alaves",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Espanyol vs Deportivo Alaves",
+      "startTime": "01:30:00 AM 31-01-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140013,
+      "event_category": "Football",
+      "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140013_CASACARDS_APP.png",
+      "team_1": "Real Sociedad B",
+      "team_2": "Las Palmas",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Real Sociedad B vs Las Palmas",
+      "startTime": "01:00:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/z890hFmoQKG-7Qjof2CCyQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140013_english_hls_79d607d75795089_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140166,
@@ -150,42 +178,6 @@
       "startTime": "02:30:00 PM 31-01-2026"
     },
     {
-      "id": 140083,
-      "event_category": "Cricket",
-      "title": "Dubai Royals vs Pune Panthers (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web.jpg",
-      "team_1": "Dubai Royals",
-      "team_2": "Pune Panthers",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Dubai Royals vs Pune Panthers",
-      "startTime": "07:30:00 PM 31-01-2026"
-    },
-    {
-      "id": 140013,
-      "event_category": "Football",
-      "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140013_CASACARDS_APP.png",
-      "team_1": "Real Sociedad B",
-      "team_2": "Las Palmas",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Sociedad B vs Las Palmas",
-      "startTime": "01:00:00 AM 31-01-2026"
-    },
-    {
-      "id": 131049,
-      "event_category": "Football",
-      "title": "RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png",
-      "team_1": "RCD Espanyol",
-      "team_2": "Deportivo Alaves",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Espanyol vs Deportivo Alaves",
-      "startTime": "01:30:00 AM 31-01-2026"
-    },
-    {
       "id": 139345,
       "event_category": "Football",
       "title": "Bristol City F.C. vs Derby County Football Club (EFL Championship 2025-26)",
@@ -196,6 +188,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Bristol City F.C. vs Derby County Football Club",
       "startTime": "01:30:00 AM 31-01-2026"
+    },
+    {
+      "id": 140083,
+      "event_category": "Cricket",
+      "title": "Dubai Royals vs Pune Panthers (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web.jpg",
+      "team_1": "Dubai Royals",
+      "team_2": "Pune Panthers",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Dubai Royals vs Pune Panthers",
+      "startTime": "07:30:00 PM 31-01-2026"
     },
     {
       "id": 139603,
@@ -282,18 +286,6 @@
       "startTime": "06:30:00 PM 31-01-2026"
     },
     {
-      "id": 139398,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Brisbane Roar",
-      "startTime": "11:30:00 AM 31-01-2026"
-    },
-    {
       "id": 139347,
       "event_category": "Football",
       "title": "Portsmouth F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -316,6 +308,42 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Sharjah vs Emirates Red",
       "startTime": "09:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 139398,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Brisbane Roar",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Brisbane Roar",
+      "startTime": "11:30:00 AM 31-01-2026"
+    },
+    {
+      "id": 131048,
+      "event_category": "Football",
+      "title": "CA Osasuna vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131048_5427_OSN_VIL_FC-Web.png",
+      "team_1": "CA Osasuna",
+      "team_2": "Villarreal CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Villarreal CF",
+      "startTime": "08:45:00 PM 31-01-2026"
+    },
+    {
+      "id": 139399,
+      "event_category": "Football",
+      "title": "Sydney FC vs Western Sydney Wanderers (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png",
+      "team_1": "Sydney FC",
+      "team_2": "Western Sydney Wanderers",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Western Sydney Wanderers",
+      "startTime": "02:05:00 PM 31-01-2026"
     },
     {
       "id": 139865,
@@ -402,18 +430,6 @@
       "startTime": "03:00:00 PM 30-01-2026"
     },
     {
-      "id": 131048,
-      "event_category": "Football",
-      "title": "CA Osasuna vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131048_5427_OSN_VIL_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Villarreal CF",
-      "startTime": "08:45:00 PM 31-01-2026"
-    },
-    {
       "id": 139864,
       "event_category": "Padel",
       "title": "KRU Padel vs Team Bella (Hexagon Cup 2026 DNU)",
@@ -426,16 +442,16 @@
       "startTime": "04:00:00 PM 30-01-2026"
     },
     {
-      "id": 139399,
-      "event_category": "Football",
-      "title": "Sydney FC vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png",
-      "team_1": "Sydney FC",
-      "team_2": "Western Sydney Wanderers",
+      "id": 140025,
+      "event_category": "Golf",
+      "title": "World Feed - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "team_1": "World Feed - Day 2",
+      "team_2": "Torrey Pines Golf Course",
       "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Western Sydney Wanderers",
-      "startTime": "02:05:00 PM 31-01-2026"
+      "event_name": "Farmers Insurance Open 2026",
+      "match_name": "World Feed - Day 2",
+      "startTime": "01:30:00 AM 31-01-2026"
     },
     {
       "id": 139400,
