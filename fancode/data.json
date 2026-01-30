@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:54 AM 30-01-2026",
+  "last update time": "11:02 AM 30-01-2026",
   "matches": [
     {
-      "id": 138793,
+      "id": 138761,
       "event_category": "Cricket",
-      "title": "Northern Brave Women vs Auckland Hearts (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138763_5801_NB-W_AH-W_fc-web_1766596522051.jpg",
-      "team_1": "Northern Brave Women",
-      "team_2": "Auckland Hearts",
+      "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+      "team_1": "Auckland Aces",
+      "team_2": "Canterbury",
       "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Northern Brave Women vs Auckland Hearts",
-      "startTime": "06:40:00 AM 30-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/8zPlm-3ATYOcAC32zIQKKg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138793_english_hls_3ecc0b25c474875_1ta-di_h264/index.m3u8"
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Auckland Aces vs Canterbury",
+      "startTime": "10:25:00 AM 30-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/ft51FGsYSDqyWTf579OHMg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138761_english_hls_95eb8471dd79330_1ta-di_h264/index.m3u8"
     },
     {
       "id": 133973,
@@ -58,18 +58,6 @@
       "startTime": "08:45:00 AM 30-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/LRoN66oVT82X77234bGuYA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139241_english_hls_6864bb79d198978_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 138761,
-      "event_category": "Cricket",
-      "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
-      "team_1": "Auckland Aces",
-      "team_2": "Canterbury",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Auckland Aces vs Canterbury",
-      "startTime": "10:25:00 AM 30-01-2026"
     },
     {
       "id": 140080,
@@ -120,6 +108,30 @@
       "startTime": "06:40:00 AM 31-01-2026"
     },
     {
+      "id": 140173,
+      "event_category": "Cricket",
+      "title": "Iron Titans vs Thunder Strikers (Pro10 Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Iron Titans",
+      "team_2": "Thunder Strikers",
+      "status": "UPCOMING",
+      "event_name": "Pro10 Malaysia, 2026",
+      "match_name": "Iron Titans vs Thunder Strikers",
+      "startTime": "07:30:00 AM 31-01-2026"
+    },
+    {
+      "id": 139396,
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Melbourne City",
+      "startTime": "11:30:00 AM 30-01-2026"
+    },
+    {
       "id": 139243,
       "event_category": "Cricket",
       "title": "USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -142,18 +154,6 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Abu Dhabi vs Emirates Red",
       "startTime": "04:30:00 PM 30-01-2026"
-    },
-    {
-      "id": 140173,
-      "event_category": "Cricket",
-      "title": "Iron Titans vs Thunder Strikers (Pro10 Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Iron Titans",
-      "team_2": "Thunder Strikers",
-      "status": "UPCOMING",
-      "event_name": "Pro10 Malaysia, 2026",
-      "match_name": "Iron Titans vs Thunder Strikers",
-      "startTime": "07:30:00 AM 31-01-2026"
     },
     {
       "id": 139600,
@@ -204,6 +204,18 @@
       "startTime": "11:00:00 PM 30-01-2026"
     },
     {
+      "id": 140174,
+      "event_category": "Cricket",
+      "title": "Royal Falcons vs Thunder Strikers (Pro10 Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Royal Falcons",
+      "team_2": "Thunder Strikers",
+      "status": "UPCOMING",
+      "event_name": "Pro10 Malaysia, 2026",
+      "match_name": "Royal Falcons vs Thunder Strikers",
+      "startTime": "10:00:00 AM 31-01-2026"
+    },
+    {
       "id": 131049,
       "event_category": "Football",
       "title": "RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)",
@@ -228,30 +240,6 @@
       "startTime": "01:30:00 AM 31-01-2026"
     },
     {
-      "id": 140174,
-      "event_category": "Cricket",
-      "title": "Royal Falcons vs Thunder Strikers (Pro10 Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Royal Falcons",
-      "team_2": "Thunder Strikers",
-      "status": "UPCOMING",
-      "event_name": "Pro10 Malaysia, 2026",
-      "match_name": "Royal Falcons vs Thunder Strikers",
-      "startTime": "10:00:00 AM 31-01-2026"
-    },
-    {
-      "id": 139396,
-      "event_category": "Football",
-      "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Wellington Phoenix vs Melbourne City",
-      "startTime": "11:30:00 AM 30-01-2026"
-    },
-    {
       "id": 138762,
       "event_category": "Cricket",
       "title": "Northern Districts vs TBC (Super Smash, 2025-26)",
@@ -264,6 +252,18 @@
       "startTime": "10:25:00 AM 31-01-2026"
     },
     {
+      "id": 140133,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates vs Ireland (Ireland tour of United Arab Emirates, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
+      "team_1": "United Arab Emirates",
+      "team_2": "Ireland",
+      "status": "UPCOMING",
+      "event_name": "Ireland tour of United Arab Emirates, 2026",
+      "match_name": "United Arab Emirates vs Ireland",
+      "startTime": "11:30:00 AM 31-01-2026"
+    },
+    {
       "id": 139397,
       "event_category": "Football",
       "title": "Adelaide United vs Macarthur (A League 2025-26)",
@@ -274,6 +274,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Adelaide United vs Macarthur",
       "startTime": "02:35:00 PM 30-01-2026"
+    },
+    {
+      "id": 140175,
+      "event_category": "Cricket",
+      "title": "Iron Titans vs Shadow Blazers (Pro10 Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Iron Titans",
+      "team_2": "Shadow Blazers",
+      "status": "UPCOMING",
+      "event_name": "Pro10 Malaysia, 2026",
+      "match_name": "Iron Titans vs Shadow Blazers",
+      "startTime": "12:15:00 PM 31-01-2026"
     },
     {
       "id": 139857,
@@ -396,6 +408,42 @@
       "startTime": "10:00:00 AM 30-01-2026"
     },
     {
+      "id": 139865,
+      "event_category": "Padel",
+      "title": "Rafa Nadal Academy Team vs 10 Padel (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139865_5896_RNA_XPA_FC-Web.jpg",
+      "team_1": "Rafa Nadal Academy Team",
+      "team_2": "10 Padel",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Rafa Nadal Academy Team vs 10 Padel",
+      "startTime": "11:00:00 AM 30-01-2026"
+    },
+    {
+      "id": 139859,
+      "event_category": "Padel",
+      "title": "Team Bella vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139859_5896_TEB_RL9_FC-Web.jpg",
+      "team_1": "Team Bella",
+      "team_2": "Robert Lewandoswki Academy Team",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Team Bella vs Robert Lewandoswki Academy Team",
+      "startTime": "11:00:00 AM 30-01-2026"
+    },
+    {
+      "id": 139893,
+      "event_category": "Futsal",
+      "title": "Saudi Arabia vs IR Iran (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Saudi Arabia",
+      "team_2": "IR Iran",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Saudi Arabia vs IR Iran",
+      "startTime": "11:30:00 AM 30-01-2026"
+    },
+    {
       "id": 140172,
       "event_category": "Cricket",
       "title": "Shadow Blazers vs Thunder Strikers (Pro10 Malaysia, 2026)",
@@ -408,18 +456,6 @@
       "startTime": "12:15:00 PM 30-01-2026"
     },
     {
-      "id": 140133,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Ireland (Ireland tour of United Arab Emirates, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
-      "team_1": "United Arab Emirates",
-      "team_2": "Ireland",
-      "status": "UPCOMING",
-      "event_name": "Ireland tour of United Arab Emirates, 2026",
-      "match_name": "United Arab Emirates vs Ireland",
-      "startTime": "11:30:00 AM 31-01-2026"
-    },
-    {
       "id": 140013,
       "event_category": "Football",
       "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
@@ -430,30 +466,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Sociedad B vs Las Palmas",
       "startTime": "01:00:00 AM 31-01-2026"
-    },
-    {
-      "id": 140175,
-      "event_category": "Cricket",
-      "title": "Iron Titans vs Shadow Blazers (Pro10 Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Iron Titans",
-      "team_2": "Shadow Blazers",
-      "status": "UPCOMING",
-      "event_name": "Pro10 Malaysia, 2026",
-      "match_name": "Iron Titans vs Shadow Blazers",
-      "startTime": "12:15:00 PM 31-01-2026"
-    },
-    {
-      "id": 140082,
-      "event_category": "Cricket",
-      "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
-      "team_1": "Gurugram Thunders",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Gurugram Thunders vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 31-01-2026"
     }
   ]
 }
