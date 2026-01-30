@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:55 PM 30-01-2026",
+  "last update time": "01:29 PM 30-01-2026",
   "matches": [
-    {
-      "id": 138761,
-      "event_category": "Cricket",
-      "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
-      "team_1": "Auckland Aces",
-      "team_2": "Canterbury",
-      "status": "LIVE",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Auckland Aces vs Canterbury",
-      "startTime": "10:25:00 AM 30-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/ft51FGsYSDqyWTf579OHMg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138761_english_hls_95eb8471dd79330_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139243,
       "event_category": "Cricket",
@@ -46,18 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139396_english_hls_9b3723b4c441716_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139893,
+      "id": 139894,
       "event_category": "Futsal",
-      "title": "Saudi Arabia vs IR Iran (AFC Futsal Asian Cup, 2026)",
+      "title": "Australia vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Saudi Arabia",
-      "team_2": "IR Iran",
+      "team_1": "Australia",
+      "team_2": "Uzbekistan",
       "status": "LIVE",
       "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Saudi Arabia vs IR Iran",
-      "startTime": "11:30:00 AM 30-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/bRsQDmEwT4WNvbsxV9jfhg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139893_english_hls_fd95d45e3a10803_1ta-di_h264/index.m3u8"
+      "match_name": "Australia vs Uzbekistan",
+      "startTime": "01:30:00 PM 30-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/UmdzmF1-Q6yty-lk7v6JNA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140080,
@@ -108,6 +94,30 @@
       "startTime": "06:40:00 AM 31-01-2026"
     },
     {
+      "id": 138762,
+      "event_category": "Cricket",
+      "title": "Northern Districts vs TBC (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Northern Districts",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Northern Districts vs TBC",
+      "startTime": "10:25:00 AM 31-01-2026"
+    },
+    {
+      "id": 140302,
+      "event_category": "Cricket",
+      "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140302_5946_ITT_RLF_fc-web.jpg",
+      "team_1": "Iron Titans",
+      "team_2": "Royal Falcons",
+      "status": "UPCOMING",
+      "event_name": "Pro10 Malaysia, 2026",
+      "match_name": "Iron Titans vs Royal Falcons",
+      "startTime": "07:30:00 AM 31-01-2026"
+    },
+    {
       "id": 139599,
       "event_category": "Cricket",
       "title": "Abu Dhabi vs Emirates Red (Emirates D10, 2026)",
@@ -132,18 +142,6 @@
       "startTime": "06:45:00 PM 30-01-2026"
     },
     {
-      "id": 138762,
-      "event_category": "Cricket",
-      "title": "Northern Districts vs TBC (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Northern Districts",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Northern Districts vs TBC",
-      "startTime": "10:25:00 AM 31-01-2026"
-    },
-    {
       "id": 139601,
       "event_category": "Cricket",
       "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
@@ -156,18 +154,6 @@
       "startTime": "09:00:00 PM 30-01-2026"
     },
     {
-      "id": 140302,
-      "event_category": "Cricket",
-      "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Iron Titans",
-      "team_2": "Royal Falcons",
-      "status": "UPCOMING",
-      "event_name": "Pro10 Malaysia, 2026",
-      "match_name": "Iron Titans vs Royal Falcons",
-      "startTime": "07:30:00 AM 31-01-2026"
-    },
-    {
       "id": 139602,
       "event_category": "Cricket",
       "title": "Fujairah vs Sharjah (Emirates D10, 2026)",
@@ -178,6 +164,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Fujairah vs Sharjah",
       "startTime": "11:15:00 PM 30-01-2026"
+    },
+    {
+      "id": 140133,
+      "event_category": "Cricket",
+      "title": "United Arab Emirates vs Ireland (Ireland tour of United Arab Emirates, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
+      "team_1": "United Arab Emirates",
+      "team_2": "Ireland",
+      "status": "UPCOMING",
+      "event_name": "Ireland tour of United Arab Emirates, 2026",
+      "match_name": "United Arab Emirates vs Ireland",
+      "startTime": "11:30:00 AM 31-01-2026"
     },
     {
       "id": 139832,
@@ -216,22 +214,10 @@
       "startTime": "01:30:00 AM 31-01-2026"
     },
     {
-      "id": 140133,
-      "event_category": "Cricket",
-      "title": "United Arab Emirates vs Ireland (Ireland tour of United Arab Emirates, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
-      "team_1": "United Arab Emirates",
-      "team_2": "Ireland",
-      "status": "UPCOMING",
-      "event_name": "Ireland tour of United Arab Emirates, 2026",
-      "match_name": "United Arab Emirates vs Ireland",
-      "startTime": "11:30:00 AM 31-01-2026"
-    },
-    {
       "id": 140303,
       "event_category": "Cricket",
       "title": "Royal Falcons vs Shadow Blazers (Pro10 Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140303_5946_RLF_SBZ_fc-web.jpg",
       "team_1": "Royal Falcons",
       "team_2": "Shadow Blazers",
       "status": "UPCOMING",
@@ -252,6 +238,30 @@
       "startTime": "02:35:00 PM 30-01-2026"
     },
     {
+      "id": 140304,
+      "event_category": "Cricket",
+      "title": "Shadow Blazers vs Iron Titans (Pro10 Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140304_5946_SBZ_ITT_fc-web.jpg",
+      "team_1": "Shadow Blazers",
+      "team_2": "Iron Titans",
+      "status": "UPCOMING",
+      "event_name": "Pro10 Malaysia, 2026",
+      "match_name": "Shadow Blazers vs Iron Titans",
+      "startTime": "12:15:00 PM 31-01-2026"
+    },
+    {
+      "id": 140082,
+      "event_category": "Cricket",
+      "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
+      "team_1": "Gurugram Thunders",
+      "team_2": "Rajasthan Lions",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Gurugram Thunders vs Rajasthan Lions",
+      "startTime": "02:30:00 PM 31-01-2026"
+    },
+    {
       "id": 140013,
       "event_category": "Football",
       "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
@@ -262,30 +272,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Sociedad B vs Las Palmas",
       "startTime": "01:00:00 AM 31-01-2026"
-    },
-    {
-      "id": 140304,
-      "event_category": "Cricket",
-      "title": "Shadow Blazers vs Iron Titans (Pro10 Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Shadow Blazers",
-      "team_2": "Iron Titans",
-      "status": "UPCOMING",
-      "event_name": "Pro10 Malaysia, 2026",
-      "match_name": "Shadow Blazers vs Iron Titans",
-      "startTime": "12:15:00 PM 31-01-2026"
-    },
-    {
-      "id": 139852,
-      "event_category": "Padel",
-      "title": "Team Bella vs 10 Padel (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139852_5896_TEB_XPA_FC-Web.jpg",
-      "team_1": "Team Bella",
-      "team_2": "10 Padel",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Team Bella vs 10 Padel",
-      "startTime": "01:00:00 PM 29-01-2026"
     },
     {
       "id": 139854,
@@ -384,28 +370,16 @@
       "startTime": "01:00:00 PM 30-01-2026"
     },
     {
-      "id": 139894,
-      "event_category": "Futsal",
-      "title": "Australia vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Australia",
-      "team_2": "Uzbekistan",
+      "id": 139862,
+      "event_category": "Padel",
+      "title": "Hexagon Team vs Leven (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139862_5896_HEX_LEV_FC-Web.jpg",
+      "team_1": "Hexagon Team",
+      "team_2": "Leven",
       "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Australia vs Uzbekistan",
-      "startTime": "01:30:00 PM 30-01-2026"
-    },
-    {
-      "id": 140082,
-      "event_category": "Cricket",
-      "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
-      "team_1": "Gurugram Thunders",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Gurugram Thunders vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 31-01-2026"
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Hexagon Team vs Leven",
+      "startTime": "02:00:00 PM 30-01-2026"
     },
     {
       "id": 139398,
@@ -418,18 +392,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Newcastle Jets vs Brisbane Roar",
       "startTime": "11:30:00 AM 31-01-2026"
-    },
-    {
-      "id": 139862,
-      "event_category": "Padel",
-      "title": "Hexagon Team vs Leven (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139862_5896_HEX_LEV_FC-Web.jpg",
-      "team_1": "Hexagon Team",
-      "team_2": "Leven",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Hexagon Team vs Leven",
-      "startTime": "02:00:00 PM 30-01-2026"
     },
     {
       "id": 139863,
@@ -457,7 +419,7 @@
     },
     {
       "id": 140166,
-      "event_category": "Padel",
+      "event_category": "Live Events",
       "title": "Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
       "team_1": "Day 3 - Centre Court",
@@ -466,6 +428,42 @@
       "event_name": "Hexagon Cup 2026",
       "match_name": "Day 3 - Centre Court",
       "startTime": "03:30:00 PM 30-01-2026"
+    },
+    {
+      "id": 139864,
+      "event_category": "Padel",
+      "title": "KRU Padel vs Team Bella (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139864_5896_KRU_TEB_FC-Web.jpg",
+      "team_1": "KRU Padel",
+      "team_2": "Team Bella",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "KRU Padel vs Team Bella",
+      "startTime": "04:00:00 PM 30-01-2026"
+    },
+    {
+      "id": 139896,
+      "event_category": "Futsal",
+      "title": "Tajikistan vs Japan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Tajikistan",
+      "team_2": "Japan",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Tajikistan vs Japan",
+      "startTime": "05:30:00 PM 30-01-2026"
+    },
+    {
+      "id": 140026,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "team_1": "Main Feed - Day 2",
+      "team_2": "Torrey Pines Golf Course",
+      "status": "UPCOMING",
+      "event_name": "Farmers Insurance Open 2026",
+      "match_name": "Main Feed - Day 2",
+      "startTime": "10:30:00 PM 30-01-2026"
     }
   ]
 }
