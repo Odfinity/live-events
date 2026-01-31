@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:06 PM 31-01-2026",
+  "last update time": "02:30 PM 31-01-2026",
   "matches": [
     {
       "id": 140133,
@@ -16,6 +16,20 @@
       "startTime": "11:30:00 AM 31-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/MSblrMLoR2CiMDsE7WFuhQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140082,
+      "event_category": "Cricket",
+      "title": "Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
+      "team_1": "Rajasthan Lions",
+      "team_2": "Gurugram Thunders",
+      "status": "LIVE",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Rajasthan Lions vs Gurugram Thunders",
+      "startTime": "02:30:00 PM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/13Thp4n-T72g16BE0lGKiQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139399,
@@ -130,34 +144,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138762,
-      "event_category": "Cricket",
-      "title": "Canterbury vs Northern Districts (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg",
-      "team_1": "Canterbury",
-      "team_2": "Northern Districts",
-      "status": "LIVE",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Canterbury vs Northern Districts",
-      "startTime": "10:25:00 AM 31-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/AhMW91aORCu2Ce7TmnbC1Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140082,
-      "event_category": "Cricket",
-      "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
-      "team_1": "Gurugram Thunders",
-      "team_2": "Rajasthan Lions",
-      "status": "LIVE",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Gurugram Thunders vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 31-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/13Thp4n-T72g16BE0lGKiQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 140083,
       "event_category": "Cricket",
       "title": "Dubai Royals vs Pune Panthers (World Legends Pro T20 League, 2026)",
@@ -254,18 +240,6 @@
       "startTime": "06:00:00 PM 31-01-2026"
     },
     {
-      "id": 131043,
-      "event_category": "Football",
-      "title": "Real Oviedo vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Girona FC",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Oviedo vs Girona FC",
-      "startTime": "06:30:00 PM 31-01-2026"
-    },
-    {
       "id": 139606,
       "event_category": "Cricket",
       "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
@@ -276,6 +250,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Fujairah vs Abu Dhabi",
       "startTime": "11:15:00 PM 31-01-2026"
+    },
+    {
+      "id": 131043,
+      "event_category": "Football",
+      "title": "Real Oviedo vs Girona FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png",
+      "team_1": "Real Oviedo",
+      "team_2": "Girona FC",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Oviedo vs Girona FC",
+      "startTime": "06:30:00 PM 31-01-2026"
     },
     {
       "id": 139347,
@@ -326,6 +312,18 @@
       "startTime": "01:30:00 AM 01-02-2026"
     },
     {
+      "id": 140084,
+      "event_category": "Cricket",
+      "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
+      "team_1": "Pune Panthers",
+      "team_2": "Rajasthan Lions",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Pune Panthers vs Rajasthan Lions",
+      "startTime": "02:30:00 PM 01-02-2026"
+    },
+    {
       "id": 139245,
       "event_category": "Cricket",
       "title": "Ireland Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -350,18 +348,6 @@
       "startTime": "08:45:00 AM 01-02-2026"
     },
     {
-      "id": 140084,
-      "event_category": "Cricket",
-      "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
-      "team_1": "Pune Panthers",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Pune Panthers vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 01-02-2026"
-    },
-    {
       "id": 139400,
       "event_category": "Football",
       "title": "Perth Glory vs Auckland (A League 2025-26)",
@@ -384,18 +370,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Cultural Leonesa vs Deportivo La Coruna",
       "startTime": "11:00:00 PM 31-01-2026"
-    },
-    {
-      "id": 139862,
-      "event_category": "Padel",
-      "title": "Hexagon Team vs Leven (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139862_5896_HEX_LEV_FC-Web.jpg",
-      "team_1": "Hexagon Team",
-      "team_2": "Leven",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Hexagon Team vs Leven",
-      "startTime": "02:00:00 PM 30-01-2026"
     },
     {
       "id": 139863,
@@ -480,6 +454,30 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "KRU Padel vs Hexagon Team",
       "startTime": "01:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 139870,
+      "event_category": "Padel",
+      "title": "KRU Padel vs ADV (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139870_5896_KRU_ADV_FC-Web.jpg",
+      "team_1": "KRU Padel",
+      "team_2": "ADV",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "KRU Padel vs ADV",
+      "startTime": "02:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 139871,
+      "event_category": "Padel",
+      "title": "Team Bella vs Leven (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139871_5896_TEB_LEV_FC-Web.jpg",
+      "team_1": "Team Bella",
+      "team_2": "Leven",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Team Bella vs Leven",
+      "startTime": "03:00:00 PM 31-01-2026"
     }
   ]
 }
