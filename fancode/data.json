@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:46 AM 31-01-2026",
+  "last update time": "10:40 AM 31-01-2026",
   "matches": [
     {
-      "id": 138794,
+      "id": 138762,
       "event_category": "Cricket",
-      "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg",
-      "team_1": "Auckland Hearts",
-      "team_2": "Wellington Blaze",
+      "title": "Canterbury vs Northern Districts (Super Smash, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg",
+      "team_1": "Canterbury",
+      "team_2": "Northern Districts",
       "status": "LIVE",
-      "event_name": "Women's Super Smash, 2025-26",
-      "match_name": "Auckland Hearts vs Wellington Blaze",
-      "startTime": "06:40:00 AM 31-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/VXUAy3y4R9qke72jBt6Nxw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138794_english_hls_b9779fb4e927951_1ta-di_h264/index.m3u8"
+      "event_name": "Super Smash, 2025-26",
+      "match_name": "Canterbury vs Northern Districts",
+      "startTime": "10:25:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/AhMW91aORCu2Ce7TmnbC1Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140136,
@@ -32,16 +32,60 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 138762,
-      "event_category": "Cricket",
-      "title": "Northern Districts vs Canterbury (Super Smash, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg",
-      "team_1": "Northern Districts",
-      "team_2": "Canterbury",
-      "status": "UPCOMING",
-      "event_name": "Super Smash, 2025-26",
-      "match_name": "Northern Districts vs Canterbury",
-      "startTime": "10:25:00 AM 31-01-2026"
+      "id": 140309,
+      "event_category": "Live Events",
+      "title": "Day 1 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+      "team_1": "Day 1 - Table 1",
+      "team_2": "Chennai",
+      "status": "LIVE",
+      "event_name": "Dream Sports Championship Table Tennis 2026",
+      "match_name": "Day 1 - Table 1",
+      "startTime": "10:30:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/DMccPKWGSqWqpXNbUnyOsg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140309_english_hls_56d9655fd950618_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140330,
+      "event_category": "Live Events",
+      "title": "Day 1 - Table 2 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+      "team_1": "Day 1 - Table 2",
+      "team_2": "Chennai",
+      "status": "LIVE",
+      "event_name": "Dream Sports Championship Table Tennis 2026",
+      "match_name": "Day 1 - Table 2",
+      "startTime": "10:30:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/UpS2Xe6RTMypYedgQxtLLQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140330_english_hls_801a6b020b28841_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140329,
+      "event_category": "Live Events",
+      "title": "Day 1 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+      "team_1": "Day 1 - Table 3",
+      "team_2": "Chennai",
+      "status": "LIVE",
+      "event_name": "Dream Sports Championship Table Tennis 2026",
+      "match_name": "Day 1 - Table 3",
+      "startTime": "10:30:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/zfVxNBbrSzSeHteCpKiS-Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140329_english_hls_4a364dcc6012120_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140328,
+      "event_category": "Live Events",
+      "title": "Day 1 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+      "team_1": "Day 1 - Table 4",
+      "team_2": "Chennai",
+      "status": "LIVE",
+      "event_name": "Dream Sports Championship Table Tennis 2026",
+      "match_name": "Day 1 - Table 4",
+      "startTime": "10:30:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/3kDxsV3DQP6SBlQS1IFRZg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140328_english_hls_d4b56037b620347_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140133,
@@ -78,6 +122,18 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Dubai Royals vs Pune Panthers",
       "startTime": "07:30:00 PM 31-01-2026"
+    },
+    {
+      "id": 139398,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Brisbane Roar",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Brisbane Roar",
+      "startTime": "11:30:00 AM 31-01-2026"
     },
     {
       "id": 139603,
@@ -140,6 +196,18 @@
       "startTime": "07:00:00 PM 31-01-2026"
     },
     {
+      "id": 139605,
+      "event_category": "Cricket",
+      "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+      "team_1": "Sharjah",
+      "team_2": "Emirates Red",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Sharjah vs Emirates Red",
+      "startTime": "09:00:00 PM 31-01-2026"
+    },
+    {
       "id": 139346,
       "event_category": "Football",
       "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
@@ -162,18 +230,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs Girona FC",
       "startTime": "06:30:00 PM 31-01-2026"
-    },
-    {
-      "id": 139605,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Emirates Red",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Sharjah vs Emirates Red",
-      "startTime": "09:00:00 PM 31-01-2026"
     },
     {
       "id": 139347,
@@ -234,18 +290,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Elche CF vs FC Barcelona",
       "startTime": "01:30:00 AM 01-02-2026"
-    },
-    {
-      "id": 139398,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Brisbane Roar",
-      "startTime": "11:30:00 AM 31-01-2026"
     },
     {
       "id": 139399,
@@ -380,52 +424,28 @@
       "startTime": "04:00:00 PM 30-01-2026"
     },
     {
-      "id": 140309,
-      "event_category": "Live Events",
-      "title": "Day 1 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 1 - Table 1",
-      "team_2": "Chennai",
+      "id": 139873,
+      "event_category": "Padel",
+      "title": "KRU Padel vs Rafa Nadal Academy Team (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139873_5896_KRU_RNA_FC-Web.jpg",
+      "team_1": "KRU Padel",
+      "team_2": "Rafa Nadal Academy Team",
       "status": "UPCOMING",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 1 - Table 1",
-      "startTime": "10:30:00 AM 31-01-2026"
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "KRU Padel vs Rafa Nadal Academy Team",
+      "startTime": "11:00:00 AM 31-01-2026"
     },
     {
-      "id": 140330,
-      "event_category": "Live Events",
-      "title": "Day 1 - Table 2 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 1 - Table 2",
-      "team_2": "Chennai",
+      "id": 139867,
+      "event_category": "Padel",
+      "title": "ADV vs 10 Padel (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139867_5896_ADV_XPA_FC-Web.jpg",
+      "team_1": "ADV",
+      "team_2": "10 Padel",
       "status": "UPCOMING",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 1 - Table 2",
-      "startTime": "10:30:00 AM 31-01-2026"
-    },
-    {
-      "id": 140329,
-      "event_category": "Live Events",
-      "title": "Day 1 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 1 - Table 3",
-      "team_2": "Chennai",
-      "status": "UPCOMING",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 1 - Table 3",
-      "startTime": "10:30:00 AM 31-01-2026"
-    },
-    {
-      "id": 140328,
-      "event_category": "Live Events",
-      "title": "Day 1 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 1 - Table 4",
-      "team_2": "Chennai",
-      "status": "UPCOMING",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 1 - Table 4",
-      "startTime": "10:30:00 AM 31-01-2026"
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "ADV vs 10 Padel",
+      "startTime": "11:00:00 AM 31-01-2026"
     },
     {
       "id": 139245,
@@ -450,18 +470,6 @@
       "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_name": "Bangladesh Women vs Netherlands Women",
       "startTime": "08:45:00 AM 01-02-2026"
-    },
-    {
-      "id": 140084,
-      "event_category": "Cricket",
-      "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
-      "team_1": "Pune Panthers",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Pune Panthers vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 01-02-2026"
     }
   ]
 }
