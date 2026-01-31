@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:58 PM 31-01-2026",
+  "last update time": "09:19 PM 31-01-2026",
   "matches": [
     {
       "id": 140083,
@@ -60,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139605,
+      "event_category": "Cricket",
+      "title": "Emirates Red vs Sharjah (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+      "team_1": "Emirates Red",
+      "team_2": "Sharjah",
+      "status": "LIVE",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Emirates Red vs Sharjah",
+      "startTime": "09:00:00 PM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/eSyU100JQiWKqq8M7Logtg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139605_english_hls_98b99e6ed197170_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 139347,
       "event_category": "Football",
       "title": "Portsmouth F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -88,20 +102,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131048_english_hls_1526422ab378838_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139605,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Emirates Red",
-      "status": "LIVE",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Sharjah vs Emirates Red",
-      "startTime": "09:00:00 PM 31-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/eSyU100JQiWKqq8M7Logtg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139605_english_hls_98b99e6ed197170_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 140168,
       "event_category": "Live Events",
       "title": "Day 4 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
@@ -114,20 +114,6 @@
       "startTime": "03:30:00 PM 31-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/-dIaPNIsT4e-35HOHjKxwQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131043,
-      "event_category": "Football",
-      "title": "Real Oviedo vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png",
-      "team_1": "Real Oviedo",
-      "team_2": "Girona FC",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Oviedo vs Girona FC",
-      "startTime": "06:30:00 PM 31-01-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140084,
@@ -166,18 +152,6 @@
       "startTime": "11:00:00 PM 31-01-2026"
     },
     {
-      "id": 131041,
-      "event_category": "Football",
-      "title": "Elche CF vs FC Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "FC Barcelona",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs FC Barcelona",
-      "startTime": "01:30:00 AM 01-02-2026"
-    },
-    {
       "id": 139293,
       "event_category": "Cricket",
       "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
@@ -188,6 +162,18 @@
       "event_name": "England tour of Sri Lanka, 2026",
       "match_name": "Sri Lanka vs England",
       "startTime": "07:00:00 PM 01-02-2026"
+    },
+    {
+      "id": 131041,
+      "event_category": "Football",
+      "title": "Elche CF vs FC Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png",
+      "team_1": "Elche CF",
+      "team_2": "FC Barcelona",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs FC Barcelona",
+      "startTime": "01:30:00 AM 01-02-2026"
     },
     {
       "id": 139245,
@@ -248,6 +234,54 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Cultural Leonesa vs Deportivo La Coruna",
       "startTime": "11:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 140092,
+      "event_category": "Football",
+      "title": "West Ham United Women vs Tottenham Hotspur Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140092_5826_WHU-W_TOT-W_FC-Web.jpg",
+      "team_1": "West Ham United Women",
+      "team_2": "Tottenham Hotspur Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "West Ham United Women vs Tottenham Hotspur Women",
+      "startTime": "05:25:00 PM 01-02-2026"
+    },
+    {
+      "id": 140095,
+      "event_category": "Football",
+      "title": "Manchester United Women vs Liverpool Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140095_5826_MUN-W_LIV-W_FC-Web.jpg",
+      "team_1": "Manchester United Women",
+      "team_2": "Liverpool Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Manchester United Women vs Liverpool Women",
+      "startTime": "05:25:00 PM 01-02-2026"
+    },
+    {
+      "id": 140094,
+      "event_category": "Football",
+      "title": "Brighton and Hove Albion Women vs London City Lionesses (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140094_5826_BHA-W_LCL_FC-Web.jpg",
+      "team_1": "Brighton and Hove Albion Women",
+      "team_2": "London City Lionesses",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Brighton and Hove Albion Women vs London City Lionesses",
+      "startTime": "05:25:00 PM 01-02-2026"
+    },
+    {
+      "id": 140093,
+      "event_category": "Football",
+      "title": "Everton Women vs Aston Villa Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140093_5826_EVE-W_AST-W_FC-Web.jpg",
+      "team_1": "Everton Women",
+      "team_2": "Aston Villa Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Everton Women vs Aston Villa Women",
+      "startTime": "05:25:00 PM 01-02-2026"
     },
     {
       "id": 139873,
@@ -346,64 +380,18 @@
       "startTime": "04:00:00 PM 31-01-2026"
     },
     {
-      "id": 140092,
-      "event_category": "Football",
-      "title": "West Ham United Women vs Tottenham Hotspur Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140092_5826_WHU-W_TOT-W_FC-Web.jpg",
-      "team_1": "West Ham United Women",
-      "team_2": "Tottenham Hotspur Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "West Ham United Women vs Tottenham Hotspur Women",
-      "startTime": "05:25:00 PM 01-02-2026"
-    },
-    {
-      "id": 140095,
-      "event_category": "Football",
-      "title": "Manchester United Women vs Liverpool Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140095_5826_MUN-W_LIV-W_FC-Web.jpg",
-      "team_1": "Manchester United Women",
-      "team_2": "Liverpool Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "Manchester United Women vs Liverpool Women",
-      "startTime": "05:25:00 PM 01-02-2026"
-    },
-    {
-      "id": 140094,
-      "event_category": "Football",
-      "title": "Brighton and Hove Albion Women vs London City Lionesses (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140094_5826_BHA-W_LCL_FC-Web.jpg",
-      "team_1": "Brighton and Hove Albion Women",
-      "team_2": "London City Lionesses",
-      "status": "UPCOMING",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "Brighton and Hove Albion Women vs London City Lionesses",
-      "startTime": "05:25:00 PM 01-02-2026"
-    },
-    {
-      "id": 140093,
-      "event_category": "Football",
-      "title": "Everton Women vs Aston Villa Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140093_5826_EVE-W_AST-W_FC-Web.jpg",
-      "team_1": "Everton Women",
-      "team_2": "Aston Villa Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "Everton Women vs Aston Villa Women",
-      "startTime": "05:25:00 PM 01-02-2026"
-    },
-    {
       "id": 140031,
       "event_category": "Golf",
       "title": "Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
       "team_1": "Main Feed - Day 3",
       "team_2": "Torrey Pines Golf Course",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Farmers Insurance Open 2026",
       "match_name": "Main Feed - Day 3",
-      "startTime": "09:30:00 PM 31-01-2026"
+      "startTime": "09:30:00 PM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/nxVH0r66T16AJh0SosPruQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140031_english_hls_ba0311953b17264_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140034,
@@ -416,6 +404,18 @@
       "event_name": "Farmers Insurance Open 2026",
       "match_name": "Featured Holes - Day 3",
       "startTime": "09:45:00 PM 31-01-2026"
+    },
+    {
+      "id": 140033,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "team_1": "Featured Groups - Day 3",
+      "team_2": "Torrey Pines Golf Course",
+      "status": "UPCOMING",
+      "event_name": "Farmers Insurance Open 2026",
+      "match_name": "Featured Groups - Day 3",
+      "startTime": "10:15:00 PM 31-01-2026"
     },
     {
       "id": 139401,
