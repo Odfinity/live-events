@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:58 PM 31-01-2026",
+  "last update time": "08:22 PM 31-01-2026",
   "matches": [
     {
       "id": 140083,
@@ -74,20 +74,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139346,
-      "event_category": "Football",
-      "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139346_5489_STK_SOU_FC-Web.jpg",
-      "team_1": "Stoke City F.C.",
-      "team_2": "Southampton F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Stoke City F.C. vs Southampton F.C.",
-      "startTime": "06:00:00 PM 31-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/_NXudEyMTbCHjfAzGxFhAA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139346_english_hls_8111e79aee87560_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 131043,
       "event_category": "Football",
       "title": "Real Oviedo vs Girona FC (LALIGA 2025-26)",
@@ -100,6 +86,20 @@
       "startTime": "06:30:00 PM 31-01-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131048,
+      "event_category": "Football",
+      "title": "CA Osasuna vs Villarreal CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131048_5427_OSN_VIL_FC-Web.png",
+      "team_1": "CA Osasuna",
+      "team_2": "Villarreal CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Villarreal CF",
+      "startTime": "08:45:00 PM 31-01-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131048_english_hls_1526422ab378838_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131048_english_hls_1526422ab378838_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140168,
@@ -116,6 +116,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139605,
+      "event_category": "Cricket",
+      "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+      "team_1": "Sharjah",
+      "team_2": "Emirates Red",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Sharjah vs Emirates Red",
+      "startTime": "09:00:00 PM 31-01-2026"
+    },
+    {
       "id": 139347,
       "event_category": "Football",
       "title": "Portsmouth F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -128,18 +140,6 @@
       "startTime": "08:30:00 PM 31-01-2026"
     },
     {
-      "id": 131048,
-      "event_category": "Football",
-      "title": "CA Osasuna vs Villarreal CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131048_5427_OSN_VIL_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "Villarreal CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Villarreal CF",
-      "startTime": "08:45:00 PM 31-01-2026"
-    },
-    {
       "id": 140084,
       "event_category": "Cricket",
       "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
@@ -150,18 +150,6 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Pune Panthers vs Rajasthan Lions",
       "startTime": "02:30:00 PM 01-02-2026"
-    },
-    {
-      "id": 139605,
-      "event_category": "Cricket",
-      "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
-      "team_1": "Sharjah",
-      "team_2": "Emirates Red",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Sharjah vs Emirates Red",
-      "startTime": "09:00:00 PM 31-01-2026"
     },
     {
       "id": 139606,
@@ -236,18 +224,6 @@
       "startTime": "07:00:00 PM 01-02-2026"
     },
     {
-      "id": 139246,
-      "event_category": "Cricket",
-      "title": "Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-      "team_1": "Scotland Women",
-      "team_2": "USA Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Scotland Women vs USA Women",
-      "startTime": "12:45:00 PM 01-02-2026"
-    },
-    {
       "id": 140085,
       "event_category": "Cricket",
       "title": "Delhi Warriors vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
@@ -258,6 +234,18 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Delhi Warriors vs Gurugram Thunders",
       "startTime": "07:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 139246,
+      "event_category": "Cricket",
+      "title": "Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+      "team_1": "Scotland Women",
+      "team_2": "USA Women",
+      "status": "UPCOMING",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Scotland Women vs USA Women",
+      "startTime": "12:45:00 PM 01-02-2026"
     },
     {
       "id": 140010,
@@ -474,6 +462,18 @@
       "event_name": "Farmers Insurance Open 2026",
       "match_name": "Main Feed - Day 3",
       "startTime": "09:30:00 PM 31-01-2026"
+    },
+    {
+      "id": 140034,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "team_1": "Featured Holes - Day 3",
+      "team_2": "Torrey Pines Golf Course",
+      "status": "UPCOMING",
+      "event_name": "Farmers Insurance Open 2026",
+      "match_name": "Featured Holes - Day 3",
+      "startTime": "09:45:00 PM 31-01-2026"
     }
   ]
 }
