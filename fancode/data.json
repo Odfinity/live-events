@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:44 PM 31-01-2026",
+  "last update time": "10:19 PM 31-01-2026",
   "matches": [
     {
       "id": 140083,
@@ -144,16 +144,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140034_english_hls_bc9889b7b389576_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140084,
-      "event_category": "Cricket",
-      "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
-      "team_1": "Pune Panthers",
-      "team_2": "Rajasthan Lions",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Pune Panthers vs Rajasthan Lions",
-      "startTime": "02:30:00 PM 01-02-2026"
+      "id": 140033,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "team_1": "Featured Groups - Day 3",
+      "team_2": "Torrey Pines Golf Course",
+      "status": "LIVE",
+      "event_name": "Farmers Insurance Open 2026",
+      "match_name": "Featured Groups - Day 3",
+      "startTime": "10:15:00 PM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/Z3zgZKAPRsKiKqZP0DRwZw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140033_english_hls_97fcdda9ad89287_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140032,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "team_1": "Marquee Group - Day 3",
+      "team_2": "Torrey Pines Golf Course",
+      "status": "LIVE",
+      "event_name": "Farmers Insurance Open 2026",
+      "match_name": "Marquee Group - Day 3",
+      "startTime": "10:30:00 PM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/oZNXFKHeSuSU3jyrZuIq0g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140032_english_hls_6ce940b61978129_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139606,
@@ -168,16 +184,16 @@
       "startTime": "11:15:00 PM 31-01-2026"
     },
     {
-      "id": 139293,
+      "id": 140084,
       "event_category": "Cricket",
-      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
-      "team_1": "Sri Lanka",
-      "team_2": "England",
+      "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
+      "team_1": "Pune Panthers",
+      "team_2": "Rajasthan Lions",
       "status": "UPCOMING",
-      "event_name": "England tour of Sri Lanka, 2026",
-      "match_name": "Sri Lanka vs England",
-      "startTime": "07:00:00 PM 01-02-2026"
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Pune Panthers vs Rajasthan Lions",
+      "startTime": "02:30:00 PM 01-02-2026"
     },
     {
       "id": 131040,
@@ -192,16 +208,28 @@
       "startTime": "11:00:00 PM 31-01-2026"
     },
     {
-      "id": 131041,
+      "id": 140010,
       "event_category": "Football",
-      "title": "Elche CF vs FC Barcelona (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "FC Barcelona",
+      "title": "Cultural Leonesa vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140010_CASACARDS_APP.png",
+      "team_1": "Cultural Leonesa",
+      "team_2": "Deportivo La Coruna",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs FC Barcelona",
-      "startTime": "01:30:00 AM 01-02-2026"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Cultural Leonesa vs Deportivo La Coruna",
+      "startTime": "11:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 139293,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
+      "team_1": "Sri Lanka",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of Sri Lanka, 2026",
+      "match_name": "Sri Lanka vs England",
+      "startTime": "07:00:00 PM 01-02-2026"
     },
     {
       "id": 140085,
@@ -214,6 +242,18 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Delhi Warriors vs Gurugram Thunders",
       "startTime": "07:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 131041,
+      "event_category": "Football",
+      "title": "Elche CF vs FC Barcelona (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png",
+      "team_1": "Elche CF",
+      "team_2": "FC Barcelona",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs FC Barcelona",
+      "startTime": "01:30:00 AM 01-02-2026"
     },
     {
       "id": 139245,
@@ -250,18 +290,6 @@
       "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_name": "Scotland Women vs USA Women",
       "startTime": "12:45:00 PM 01-02-2026"
-    },
-    {
-      "id": 140010,
-      "event_category": "Football",
-      "title": "Cultural Leonesa vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140010_CASACARDS_APP.png",
-      "team_1": "Cultural Leonesa",
-      "team_2": "Deportivo La Coruna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Cultural Leonesa vs Deportivo La Coruna",
-      "startTime": "11:00:00 PM 31-01-2026"
     },
     {
       "id": 140092,
@@ -310,6 +338,30 @@
       "event_name": "Women's Super League 2025-26",
       "match_name": "Everton Women vs Aston Villa Women",
       "startTime": "05:25:00 PM 01-02-2026"
+    },
+    {
+      "id": 131044,
+      "event_category": "Football",
+      "title": "Real Madrid vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131044_5427_RM_RVL_FC-Web.png",
+      "team_1": "Real Madrid",
+      "team_2": "Rayo Vallecano",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Rayo Vallecano",
+      "startTime": "06:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 139401,
+      "event_category": "Football",
+      "title": "Central Coast Mariners vs Melbourne Victory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Melbourne Victory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Central Coast Mariners vs Melbourne Victory",
+      "startTime": "11:30:00 AM 01-02-2026"
     },
     {
       "id": 139873,
@@ -406,54 +458,6 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "Rafa Nadal Academy Team vs Team Bella",
       "startTime": "04:00:00 PM 31-01-2026"
-    },
-    {
-      "id": 140033,
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-      "team_1": "Featured Groups - Day 3",
-      "team_2": "Torrey Pines Golf Course",
-      "status": "UPCOMING",
-      "event_name": "Farmers Insurance Open 2026",
-      "match_name": "Featured Groups - Day 3",
-      "startTime": "10:15:00 PM 31-01-2026"
-    },
-    {
-      "id": 140032,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-      "team_1": "Marquee Group - Day 3",
-      "team_2": "Torrey Pines Golf Course",
-      "status": "UPCOMING",
-      "event_name": "Farmers Insurance Open 2026",
-      "match_name": "Marquee Group - Day 3",
-      "startTime": "10:30:00 PM 31-01-2026"
-    },
-    {
-      "id": 139401,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Melbourne Victory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Melbourne Victory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Melbourne Victory",
-      "startTime": "11:30:00 AM 01-02-2026"
-    },
-    {
-      "id": 131044,
-      "event_category": "Football",
-      "title": "Real Madrid vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131044_5427_RM_RVL_FC-Web.png",
-      "team_1": "Real Madrid",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Rayo Vallecano",
-      "startTime": "06:30:00 PM 01-02-2026"
     },
     {
       "id": 140096,
