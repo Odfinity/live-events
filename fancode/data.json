@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:40 AM 31-01-2026",
+  "last update time": "11:25 AM 31-01-2026",
   "matches": [
     {
       "id": 138762,
@@ -16,6 +16,20 @@
       "startTime": "10:25:00 AM 31-01-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/AhMW91aORCu2Ce7TmnbC1Q/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139398,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Brisbane Roar",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Brisbane Roar",
+      "startTime": "11:30:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/-6UZlCx_Tv6Hlg3ADM7xMQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139398_english_hls_72d998758178749_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140136,
@@ -90,13 +104,13 @@
     {
       "id": 140133,
       "event_category": "Cricket",
-      "title": "United Arab Emirates vs Ireland (Ireland tour of United Arab Emirates, 2026)",
+      "title": "Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates, 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
-      "team_1": "United Arab Emirates",
-      "team_2": "Ireland",
+      "team_1": "Ireland",
+      "team_2": "United Arab Emirates",
       "status": "UPCOMING",
       "event_name": "Ireland tour of United Arab Emirates, 2026",
-      "match_name": "United Arab Emirates vs Ireland",
+      "match_name": "Ireland vs United Arab Emirates",
       "startTime": "11:30:00 AM 31-01-2026"
     },
     {
@@ -122,18 +136,6 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Dubai Royals vs Pune Panthers",
       "startTime": "07:30:00 PM 31-01-2026"
-    },
-    {
-      "id": 139398,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Brisbane Roar",
-      "startTime": "11:30:00 AM 31-01-2026"
     },
     {
       "id": 139603,
@@ -328,30 +330,6 @@
       "startTime": "11:00:00 PM 31-01-2026"
     },
     {
-      "id": 139865,
-      "event_category": "Padel",
-      "title": "Rafa Nadal Academy Team vs 10 Padel (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139865_5896_RNA_XPA_FC-Web.jpg",
-      "team_1": "Rafa Nadal Academy Team",
-      "team_2": "10 Padel",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Rafa Nadal Academy Team vs 10 Padel",
-      "startTime": "11:00:00 AM 30-01-2026"
-    },
-    {
-      "id": 139859,
-      "event_category": "Padel",
-      "title": "Team Bella vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139859_5896_TEB_RL9_FC-Web.jpg",
-      "team_1": "Team Bella",
-      "team_2": "Robert Lewandoswki Academy Team",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Team Bella vs Robert Lewandoswki Academy Team",
-      "startTime": "11:00:00 AM 30-01-2026"
-    },
-    {
       "id": 139866,
       "event_category": "Padel",
       "title": "ADV vs Hexagon Team (Hexagon Cup 2026 DNU)",
@@ -446,6 +424,30 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "ADV vs 10 Padel",
       "startTime": "11:00:00 AM 31-01-2026"
+    },
+    {
+      "id": 139874,
+      "event_category": "Padel",
+      "title": "Team Bella vs Leven (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139874_5896_TEB_LEV_FC-Web.jpg",
+      "team_1": "Team Bella",
+      "team_2": "Leven",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Team Bella vs Leven",
+      "startTime": "12:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 139868,
+      "event_category": "Padel",
+      "title": "Hexagon Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139868_5896_HEX_RL9_FC-Web.jpg",
+      "team_1": "Hexagon Team",
+      "team_2": "Robert Lewandoswki Academy Team",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "Hexagon Team vs Robert Lewandoswki Academy Team",
+      "startTime": "12:00:00 PM 31-01-2026"
     },
     {
       "id": 139245,
