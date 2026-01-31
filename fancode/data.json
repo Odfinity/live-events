@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:11 PM 31-01-2026",
+  "last update time": "03:29 PM 31-01-2026",
   "matches": [
-    {
-      "id": 140133,
-      "event_category": "Cricket",
-      "title": "Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
-      "team_1": "Ireland",
-      "team_2": "United Arab Emirates",
-      "status": "LIVE",
-      "event_name": "Ireland tour of United Arab Emirates, 2026",
-      "match_name": "Ireland vs United Arab Emirates",
-      "startTime": "11:30:00 AM 31-01-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/MSblrMLoR2CiMDsE7WFuhQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140082,
       "event_category": "Cricket",
@@ -144,6 +130,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140168,
+      "event_category": "Live Events",
+      "title": "Day 4 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+      "team_1": "Day 4 - Centre Court",
+      "team_2": "Madrid, Spain",
+      "status": "LIVE",
+      "event_name": "Hexagon Cup 2026",
+      "match_name": "Day 4 - Centre Court",
+      "startTime": "03:30:00 PM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/-dIaPNIsT4e-35HOHjKxwQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140133,
+      "event_category": "Cricket",
+      "title": "Ireland vs United Arab Emirates (Ireland tour of United Arab Emirates, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
+      "team_1": "Ireland",
+      "team_2": "United Arab Emirates",
+      "status": "LIVE",
+      "event_name": "Ireland tour of United Arab Emirates, 2026",
+      "match_name": "Ireland vs United Arab Emirates",
+      "startTime": "11:30:00 AM 31-01-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/MSblrMLoR2CiMDsE7WFuhQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140083,
       "event_category": "Cricket",
       "title": "Dubai Royals vs Pune Panthers (World Legends Pro T20 League, 2026)",
@@ -154,6 +168,18 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Dubai Royals vs Pune Panthers",
       "startTime": "07:30:00 PM 31-01-2026"
+    },
+    {
+      "id": 139400,
+      "event_category": "Football",
+      "title": "Perth Glory vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139400_5802_PG_AFC_FC-Web.jpg",
+      "team_1": "Perth Glory",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Perth Glory vs Auckland",
+      "startTime": "04:15:00 PM 31-01-2026"
     },
     {
       "id": 139603,
@@ -348,18 +374,6 @@
       "startTime": "08:45:00 AM 01-02-2026"
     },
     {
-      "id": 139400,
-      "event_category": "Football",
-      "title": "Perth Glory vs Auckland (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139400_5802_PG_AFC_FC-Web.jpg",
-      "team_1": "Perth Glory",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Perth Glory vs Auckland",
-      "startTime": "04:15:00 PM 31-01-2026"
-    },
-    {
       "id": 140010,
       "event_category": "Football",
       "title": "Cultural Leonesa vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
@@ -466,18 +480,6 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "Team Bella vs Leven",
       "startTime": "03:00:00 PM 31-01-2026"
-    },
-    {
-      "id": 140168,
-      "event_category": "Live Events",
-      "title": "Day 4 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-      "team_1": "Day 4 - Centre Court",
-      "team_2": "Madrid, Spain",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026",
-      "match_name": "Day 4 - Centre Court",
-      "startTime": "03:30:00 PM 31-01-2026"
     }
   ]
 }
