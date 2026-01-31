@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:30 PM 31-01-2026",
+  "last update time": "03:11 PM 31-01-2026",
   "matches": [
     {
       "id": 140133,
@@ -228,18 +228,6 @@
       "startTime": "09:00:00 PM 31-01-2026"
     },
     {
-      "id": 139346,
-      "event_category": "Football",
-      "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139346_5489_STK_SOU_FC-Web.jpg",
-      "team_1": "Stoke City F.C.",
-      "team_2": "Southampton F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Stoke City F.C. vs Southampton F.C.",
-      "startTime": "06:00:00 PM 31-01-2026"
-    },
-    {
       "id": 139606,
       "event_category": "Cricket",
       "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
@@ -250,6 +238,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Fujairah vs Abu Dhabi",
       "startTime": "11:15:00 PM 31-01-2026"
+    },
+    {
+      "id": 139346,
+      "event_category": "Football",
+      "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139346_5489_STK_SOU_FC-Web.jpg",
+      "team_1": "Stoke City F.C.",
+      "team_2": "Southampton F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Stoke City F.C. vs Southampton F.C.",
+      "startTime": "06:00:00 PM 31-01-2026"
     },
     {
       "id": 131043,
@@ -372,18 +372,6 @@
       "startTime": "11:00:00 PM 31-01-2026"
     },
     {
-      "id": 139863,
-      "event_category": "Padel",
-      "title": "Rafa Nadal Academy Team vs 10 Padel (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139863_5896_RNA_XPA_FC-Web.jpg",
-      "team_1": "Rafa Nadal Academy Team",
-      "team_2": "10 Padel",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Rafa Nadal Academy Team vs 10 Padel",
-      "startTime": "03:00:00 PM 30-01-2026"
-    },
-    {
       "id": 139864,
       "event_category": "Padel",
       "title": "KRU Padel vs Team Bella (Hexagon Cup 2026 DNU)",
@@ -478,6 +466,18 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "Team Bella vs Leven",
       "startTime": "03:00:00 PM 31-01-2026"
+    },
+    {
+      "id": 140168,
+      "event_category": "Live Events",
+      "title": "Day 4 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+      "team_1": "Day 4 - Centre Court",
+      "team_2": "Madrid, Spain",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026",
+      "match_name": "Day 4 - Centre Court",
+      "startTime": "03:30:00 PM 31-01-2026"
     }
   ]
 }
