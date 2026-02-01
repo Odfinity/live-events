@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:13 AM 02-02-2026",
+  "last update time": "12:43 AM 02-02-2026",
   "matches": [
     {
       "id": 131042,
@@ -128,6 +128,18 @@
       "startTime": "02:30:00 PM 02-02-2026"
     },
     {
+      "id": 131045,
+      "event_category": "Football",
+      "title": "Athletic Club vs Real Sociedad (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131045_5427_ATH_RS_FC-Web.png",
+      "team_1": "Athletic Club",
+      "team_2": "Real Sociedad",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs Real Sociedad",
+      "startTime": "01:30:00 AM 02-02-2026"
+    },
+    {
       "id": 140087,
       "event_category": "Cricket",
       "title": "Maharashtra Tycoons vs Dubai Royals (World Legends Pro T20 League, 2026)",
@@ -140,15 +152,15 @@
       "startTime": "07:30:00 PM 02-02-2026"
     },
     {
-      "id": 131045,
+      "id": 140011,
       "event_category": "Football",
-      "title": "Athletic Club vs Real Sociedad (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131045_5427_ATH_RS_FC-Web.png",
-      "team_1": "Athletic Club",
-      "team_2": "Real Sociedad",
+      "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
+      "team_1": "Granada",
+      "team_2": "Racing de Santander",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs Real Sociedad",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Granada vs Racing de Santander",
       "startTime": "01:30:00 AM 02-02-2026"
     },
     {
@@ -176,16 +188,28 @@
       "startTime": "06:45:00 PM 02-02-2026"
     },
     {
-      "id": 140011,
-      "event_category": "Football",
-      "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
-      "team_1": "Granada",
-      "team_2": "Racing de Santander",
+      "id": 139609,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Sharjah (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Sharjah",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Granada vs Racing de Santander",
-      "startTime": "01:30:00 AM 02-02-2026"
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Emirates Blues vs Sharjah",
+      "startTime": "09:00:00 PM 02-02-2026"
+    },
+    {
+      "id": 139834,
+      "event_category": "Football",
+      "title": "Al-Riyadh SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "src": "https://images.fancode.com/aig/match/v1/139834_CASACARDS_APP.png",
+      "team_1": "Al-Riyadh SC",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Riyadh SC vs Al-Nassr FC",
+      "startTime": "08:45:00 PM 02-02-2026"
     },
     {
       "id": 139880,
@@ -260,30 +284,6 @@
       "startTime": "06:00:00 PM 01-02-2026"
     },
     {
-      "id": 139609,
-      "event_category": "Cricket",
-      "title": "Emirates Blues vs Sharjah (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
-      "team_1": "Emirates Blues",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Emirates Blues vs Sharjah",
-      "startTime": "09:00:00 PM 02-02-2026"
-    },
-    {
-      "id": 139834,
-      "event_category": "Football",
-      "title": "Al-Riyadh SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139834_CASACARDS_APP.png",
-      "team_1": "Al-Riyadh SC",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Riyadh SC vs Al-Nassr FC",
-      "startTime": "08:45:00 PM 02-02-2026"
-    },
-    {
       "id": 139610,
       "event_category": "Cricket",
       "title": "Fujairah vs Dubai (Emirates D10, 2026)",
@@ -318,6 +318,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Mallorca vs Sevilla FC",
       "startTime": "01:30:00 AM 03-02-2026"
+    },
+    {
+      "id": 140012,
+      "event_category": "Football",
+      "title": "Mirandés vs Málaga (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140012_CASACARDS_APP.png",
+      "team_1": "Mirandés",
+      "team_2": "Málaga",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Mirandés vs Málaga",
+      "startTime": "01:00:00 AM 03-02-2026"
     },
     {
       "id": 140311,
@@ -366,18 +378,6 @@
       "event_name": "Dream Sports Championship Table Tennis 2026",
       "match_name": "Day 3 - Table 4",
       "startTime": "10:00:00 AM 02-02-2026"
-    },
-    {
-      "id": 140012,
-      "event_category": "Football",
-      "title": "Mirandés vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140012_CASACARDS_APP.png",
-      "team_1": "Mirandés",
-      "team_2": "Málaga",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Mirandés vs Málaga",
-      "startTime": "01:00:00 AM 03-02-2026"
     },
     {
       "id": 133974,
