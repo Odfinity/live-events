@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:28 AM 02-02-2026",
+  "last update time": "02:07 AM 02-02-2026",
   "matches": [
     {
       "id": 131045,
@@ -100,20 +100,6 @@
       "startTime": "11:30:00 PM 01-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/lkTjrpXIS0y3_mX28Yafxg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140035_english_hls_a22edbe27d943_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131042,
-      "event_category": "Football",
-      "title": "Getafe CF vs RC Celta (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131042_5427_GEF_CEV_FC-Web.png",
-      "team_1": "Getafe CF",
-      "team_2": "RC Celta",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Getafe CF vs RC Celta",
-      "startTime": "11:00:00 PM 01-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131042_english_hls_d43feb481f87670_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131042_english_hls_d43feb481f87670_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140086,
@@ -308,6 +294,30 @@
       "startTime": "01:00:00 AM 03-02-2026"
     },
     {
+      "id": 133974,
+      "event_category": "Cricket",
+      "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2025-26)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "New South Wales Breakers",
+      "team_2": "Queensland Fire",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "New South Wales Breakers vs Queensland Fire",
+      "startTime": "04:30:00 AM 03-02-2026"
+    },
+    {
+      "id": 133975,
+      "event_category": "Cricket",
+      "title": "South Australian Scorpions vs Victoria Women (Women's National Cricket League, 2025-26)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "South Australian Scorpions",
+      "team_2": "Victoria Women",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "South Australian Scorpions vs Victoria Women",
+      "startTime": "05:00:00 AM 03-02-2026"
+    },
+    {
       "id": 140311,
       "event_category": "Live Events",
       "title": "Day 3 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
@@ -354,30 +364,6 @@
       "event_name": "Dream Sports Championship Table Tennis 2026",
       "match_name": "Day 3 - Table 4",
       "startTime": "10:00:00 AM 02-02-2026"
-    },
-    {
-      "id": 133974,
-      "event_category": "Cricket",
-      "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2025-26)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "New South Wales Breakers",
-      "team_2": "Queensland Fire",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "New South Wales Breakers vs Queensland Fire",
-      "startTime": "04:30:00 AM 03-02-2026"
-    },
-    {
-      "id": 133975,
-      "event_category": "Cricket",
-      "title": "South Australian Scorpions vs Victoria Women (Women's National Cricket League, 2025-26)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "South Australian Scorpions",
-      "team_2": "Victoria Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "South Australian Scorpions vs Victoria Women",
-      "startTime": "05:00:00 AM 03-02-2026"
     },
     {
       "id": 140180,
@@ -437,6 +423,18 @@
       "status": "UPCOMING",
       "event_name": "Dream Sports Championship Table Tennis 2026",
       "match_name": "Day 4 - Table 2",
+      "startTime": "09:00:00 AM 03-02-2026"
+    },
+    {
+      "id": 140338,
+      "event_category": "Live Events",
+      "title": "Day 4 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+      "team_1": "Day 4 - Table 3",
+      "team_2": "Chennai",
+      "status": "UPCOMING",
+      "event_name": "Dream Sports Championship Table Tennis 2026",
+      "match_name": "Day 4 - Table 3",
       "startTime": "09:00:00 AM 03-02-2026"
     }
   ]
