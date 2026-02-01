@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:18 PM 01-02-2026",
+  "last update time": "04:40 PM 01-02-2026",
   "matches": [
     {
       "id": 140084,
@@ -16,34 +16,6 @@
       "startTime": "02:30:00 PM 01-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/u4-adsdERy-jj7JgTP77IQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139246,
-      "event_category": "Cricket",
-      "title": "Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-      "team_1": "Scotland Women",
-      "team_2": "USA Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Scotland Women vs USA Women",
-      "startTime": "12:45:00 PM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Vlv7CuTgS3OYy4d8Sg4Yug/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140137,
-      "event_category": "Golf",
-      "title": "Day 2 vs Bangkok (Icons of Football, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Icons-Series-Golf_2026_FC-Web.jpg",
-      "team_1": "Day 2",
-      "team_2": "Bangkok",
-      "status": "LIVE",
-      "event_name": "Icons of Football, 2026",
-      "match_name": "Day 2",
-      "startTime": "06:30:00 AM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/1u_VMhJqR06pYCdAK6i2_A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140137_english_hls_522d87a71977305_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140310,
@@ -224,6 +196,18 @@
       "startTime": "08:45:00 PM 01-02-2026"
     },
     {
+      "id": 140086,
+      "event_category": "Cricket",
+      "title": "Rajasthan Lions vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
+      "team_1": "Rajasthan Lions",
+      "team_2": "Delhi Warriors",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Rajasthan Lions vs Delhi Warriors",
+      "startTime": "02:30:00 PM 02-02-2026"
+    },
+    {
       "id": 131042,
       "event_category": "Football",
       "title": "Getafe CF vs RC Celta (LALIGA 2025-26)",
@@ -258,18 +242,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Real Sociedad",
       "startTime": "01:30:00 AM 02-02-2026"
-    },
-    {
-      "id": 140086,
-      "event_category": "Cricket",
-      "title": "Rajasthan Lions vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
-      "team_1": "Rajasthan Lions",
-      "team_2": "Delhi Warriors",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Rajasthan Lions vs Delhi Warriors",
-      "startTime": "02:30:00 PM 02-02-2026"
     },
     {
       "id": 140011,
@@ -344,6 +316,30 @@
       "startTime": "04:30:00 PM 01-02-2026"
     },
     {
+      "id": 139904,
+      "event_category": "Futsal",
+      "title": "IR Iran vs Afghanistan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "IR Iran",
+      "team_2": "Afghanistan",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "IR Iran vs Afghanistan",
+      "startTime": "05:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 139903,
+      "event_category": "Futsal",
+      "title": "Saudi Arabia vs Malaysia (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Saudi Arabia",
+      "team_2": "Malaysia",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Saudi Arabia vs Malaysia",
+      "startTime": "05:30:00 PM 01-02-2026"
+    },
+    {
       "id": 140087,
       "event_category": "Cricket",
       "title": "Maharashtra Tycoons vs Dubai Royals (World Legends Pro T20 League, 2026)",
@@ -378,30 +374,6 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Dubai vs Emirates Red",
       "startTime": "06:45:00 PM 02-02-2026"
-    },
-    {
-      "id": 139904,
-      "event_category": "Futsal",
-      "title": "IR Iran vs Afghanistan (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "IR Iran",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "IR Iran vs Afghanistan",
-      "startTime": "05:30:00 PM 01-02-2026"
-    },
-    {
-      "id": 139903,
-      "event_category": "Futsal",
-      "title": "Saudi Arabia vs Malaysia (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Saudi Arabia",
-      "team_2": "Malaysia",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Saudi Arabia vs Malaysia",
-      "startTime": "05:30:00 PM 01-02-2026"
     },
     {
       "id": 139879,
