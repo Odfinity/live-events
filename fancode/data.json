@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:58 AM 01-02-2026",
+  "last update time": "12:52 PM 01-02-2026",
   "matches": [
+    {
+      "id": 139246,
+      "event_category": "Cricket",
+      "title": "Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+      "team_1": "Scotland Women",
+      "team_2": "USA Women",
+      "status": "LIVE",
+      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+      "match_name": "Scotland Women vs USA Women",
+      "startTime": "12:45:00 PM 01-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/Vlv7CuTgS3OYy4d8Sg4Yug/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139246_english_hls_39bfc319e228275_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139401,
       "event_category": "Football",
@@ -122,18 +136,6 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Delhi Warriors vs Gurugram Thunders",
       "startTime": "07:30:00 PM 01-02-2026"
-    },
-    {
-      "id": 139246,
-      "event_category": "Cricket",
-      "title": "Scotland Women vs USA Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-      "team_1": "Scotland Women",
-      "team_2": "USA Women",
-      "status": "UPCOMING",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Scotland Women vs USA Women",
-      "startTime": "12:45:00 PM 01-02-2026"
     },
     {
       "id": 140092,
@@ -256,28 +258,16 @@
       "startTime": "01:30:00 AM 02-02-2026"
     },
     {
-      "id": 139874,
-      "event_category": "Padel",
-      "title": "Team Bella vs Leven (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139874_5896_TEB_LEV_FC-Web.jpg",
-      "team_1": "Team Bella",
-      "team_2": "Leven",
+      "id": 140011,
+      "event_category": "Football",
+      "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
+      "team_1": "Granada",
+      "team_2": "Racing de Santander",
       "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Team Bella vs Leven",
-      "startTime": "12:00:00 PM 31-01-2026"
-    },
-    {
-      "id": 139868,
-      "event_category": "Padel",
-      "title": "Hexagon Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139868_5896_HEX_RL9_FC-Web.jpg",
-      "team_1": "Hexagon Team",
-      "team_2": "Robert Lewandoswki Academy Team",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "Hexagon Team vs Robert Lewandoswki Academy Team",
-      "startTime": "12:00:00 PM 31-01-2026"
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Granada vs Racing de Santander",
+      "startTime": "01:30:00 AM 02-02-2026"
     },
     {
       "id": 139869,
@@ -328,18 +318,6 @@
       "startTime": "04:00:00 PM 31-01-2026"
     },
     {
-      "id": 140011,
-      "event_category": "Football",
-      "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
-      "team_1": "Granada",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Granada vs Racing de Santander",
-      "startTime": "01:30:00 AM 02-02-2026"
-    },
-    {
       "id": 139880,
       "event_category": "Padel",
       "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
@@ -376,18 +354,6 @@
       "startTime": "12:00:00 PM 01-02-2026"
     },
     {
-      "id": 140086,
-      "event_category": "Cricket",
-      "title": "Rajasthan Lions vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
-      "team_1": "Rajasthan Lions",
-      "team_2": "Delhi Warriors",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Rajasthan Lions vs Delhi Warriors",
-      "startTime": "02:30:00 PM 02-02-2026"
-    },
-    {
       "id": 139902,
       "event_category": "Futsal",
       "title": "Tajikistan vs Australia (AFC Futsal Asian Cup, 2026)",
@@ -410,6 +376,18 @@
       "event_name": "AFC Futsal Asian Cup, 2026",
       "match_name": "Japan vs Uzbekistan",
       "startTime": "01:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 140086,
+      "event_category": "Cricket",
+      "title": "Rajasthan Lions vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
+      "team_1": "Rajasthan Lions",
+      "team_2": "Delhi Warriors",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Rajasthan Lions vs Delhi Warriors",
+      "startTime": "02:30:00 PM 02-02-2026"
     },
     {
       "id": 139877,
@@ -470,6 +448,30 @@
       "event_name": "AFC Futsal Asian Cup, 2026",
       "match_name": "Saudi Arabia vs Malaysia",
       "startTime": "05:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 139879,
+      "event_category": "Padel",
+      "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_padel-tennis-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Hexagon Cup 2026 DNU",
+      "match_name": "TBC vs TBC",
+      "startTime": "06:00:00 PM 01-02-2026"
+    },
+    {
+      "id": 140036,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 4 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "team_1": "Main Feed - Day 4",
+      "team_2": "Torrey Pines Golf Course",
+      "status": "UPCOMING",
+      "event_name": "Farmers Insurance Open 2026",
+      "match_name": "Main Feed - Day 4",
+      "startTime": "08:45:00 PM 01-02-2026"
     }
   ]
 }
