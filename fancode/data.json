@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:06 PM 01-02-2026",
+  "last update time": "10:29 PM 01-02-2026",
   "matches": [
     {
       "id": 139293,
@@ -30,20 +30,6 @@
       "startTime": "07:30:00 PM 01-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/45EcoqYrQceLyiJhVcriMQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140085_english_hls_84f5247a6991137_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140096,
-      "event_category": "Football",
-      "title": "Manchester City Women vs Chelsea F.C. Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140096_5826_MCI-W_CHE-W_FC-Web.jpg",
-      "team_1": "Manchester City Women",
-      "team_2": "Chelsea F.C. Women",
-      "status": "LIVE",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "Manchester City Women vs Chelsea F.C. Women",
-      "startTime": "08:00:00 PM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/pMK0n0n-Qou34PfYrP7mRw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140096_english_hls_c2add6d3f349620_1ta-di_h264/index.m3u8"
     },
     {
       "id": 131046,
@@ -130,6 +116,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140037_english_hls_07bf2924d942520_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140086,
+      "event_category": "Cricket",
+      "title": "Rajasthan Lions vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
+      "team_1": "Rajasthan Lions",
+      "team_2": "Delhi Warriors",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Rajasthan Lions vs Delhi Warriors",
+      "startTime": "02:30:00 PM 02-02-2026"
+    },
+    {
       "id": 131042,
       "event_category": "Football",
       "title": "Getafe CF vs RC Celta (LALIGA 2025-26)",
@@ -152,18 +150,6 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Najmah SC",
       "startTime": "11:00:00 PM 01-02-2026"
-    },
-    {
-      "id": 140086,
-      "event_category": "Cricket",
-      "title": "Rajasthan Lions vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
-      "team_1": "Rajasthan Lions",
-      "team_2": "Delhi Warriors",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Rajasthan Lions vs Delhi Warriors",
-      "startTime": "02:30:00 PM 02-02-2026"
     },
     {
       "id": 140087,
@@ -452,6 +438,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "New South Wales Breakers vs Queensland Fire",
       "startTime": "04:30:00 AM 03-02-2026"
+    },
+    {
+      "id": 133975,
+      "event_category": "Cricket",
+      "title": "South Australian Scorpions vs Victoria Women (Women's National Cricket League, 2025-26)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "South Australian Scorpions",
+      "team_2": "Victoria Women",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "South Australian Scorpions vs Victoria Women",
+      "startTime": "05:00:00 AM 03-02-2026"
     }
   ]
 }
