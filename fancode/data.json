@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:23 PM 01-02-2026",
+  "last update time": "06:30 PM 01-02-2026",
   "matches": [
-    {
-      "id": 140084,
-      "event_category": "Cricket",
-      "title": "Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg",
-      "team_1": "Pune Panthers",
-      "team_2": "Maharashtra Tycoons",
-      "status": "LIVE",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Pune Panthers vs Maharashtra Tycoons",
-      "startTime": "02:30:00 PM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/u4-adsdERy-jj7JgTP77IQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140092,
       "event_category": "Football",
@@ -72,6 +58,20 @@
       "startTime": "05:25:00 PM 01-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/ifM8IqzzTXmr6zIvk0j2HA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140093_english_hls_4d99467a8071875_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131044,
+      "event_category": "Football",
+      "title": "Real Madrid vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131044_5427_RM_RVL_FC-Web.png",
+      "team_1": "Real Madrid",
+      "team_2": "Rayo Vallecano",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Rayo Vallecano",
+      "startTime": "06:30:00 PM 01-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131044_english_hls_45896cdc5171914_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131044_english_hls_45896cdc5171914_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140310,
@@ -172,6 +172,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139903_english_hls_1bf09555e719079_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140084,
+      "event_category": "Cricket",
+      "title": "Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg",
+      "team_1": "Pune Panthers",
+      "team_2": "Maharashtra Tycoons",
+      "status": "LIVE",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Pune Panthers vs Maharashtra Tycoons",
+      "startTime": "02:30:00 PM 01-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/u4-adsdERy-jj7JgTP77IQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 139293,
       "event_category": "Cricket",
       "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
@@ -206,18 +220,6 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Rajasthan Lions vs Delhi Warriors",
       "startTime": "02:30:00 PM 02-02-2026"
-    },
-    {
-      "id": 131044,
-      "event_category": "Football",
-      "title": "Real Madrid vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131044_5427_RM_RVL_FC-Web.png",
-      "team_1": "Real Madrid",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Rayo Vallecano",
-      "startTime": "06:30:00 PM 01-02-2026"
     },
     {
       "id": 140096,
@@ -292,6 +294,18 @@
       "startTime": "01:30:00 AM 02-02-2026"
     },
     {
+      "id": 140087,
+      "event_category": "Cricket",
+      "title": "Maharashtra Tycoons vs Dubai Royals (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140087_5928_MTY_DR_FC-Web_1769807973903.jpg",
+      "team_1": "Maharashtra Tycoons",
+      "team_2": "Dubai Royals",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Maharashtra Tycoons vs Dubai Royals",
+      "startTime": "07:30:00 PM 02-02-2026"
+    },
+    {
       "id": 139880,
       "event_category": "Padel",
       "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
@@ -364,18 +378,6 @@
       "startTime": "06:00:00 PM 01-02-2026"
     },
     {
-      "id": 140087,
-      "event_category": "Cricket",
-      "title": "Maharashtra Tycoons vs Dubai Royals (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140087_5928_MTY_DR_FC-Web_1769807973903.jpg",
-      "team_1": "Maharashtra Tycoons",
-      "team_2": "Dubai Royals",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Maharashtra Tycoons vs Dubai Royals",
-      "startTime": "07:30:00 PM 02-02-2026"
-    },
-    {
       "id": 139607,
       "event_category": "Cricket",
       "title": "Emirates Blues vs Ajman (Emirates D10, 2026)",
@@ -398,6 +400,30 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Dubai vs Emirates Red",
       "startTime": "06:45:00 PM 02-02-2026"
+    },
+    {
+      "id": 139834,
+      "event_category": "Football",
+      "title": "Al-Riyadh SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "src": "https://images.fancode.com/aig/match/v1/139834_CASACARDS_APP.png",
+      "team_1": "Al-Riyadh SC",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Riyadh SC vs Al-Nassr FC",
+      "startTime": "08:45:00 PM 02-02-2026"
+    },
+    {
+      "id": 139609,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Sharjah (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Sharjah",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Emirates Blues vs Sharjah",
+      "startTime": "09:00:00 PM 02-02-2026"
     },
     {
       "id": 140036,
@@ -458,30 +484,6 @@
       "event_name": "Farmers Insurance Open 2026",
       "match_name": "World Feed - Day 4",
       "startTime": "11:30:00 PM 01-02-2026"
-    },
-    {
-      "id": 139834,
-      "event_category": "Football",
-      "title": "Al-Riyadh SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1/139834_CASACARDS_APP.png",
-      "team_1": "Al-Riyadh SC",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Riyadh SC vs Al-Nassr FC",
-      "startTime": "08:45:00 PM 02-02-2026"
-    },
-    {
-      "id": 139609,
-      "event_category": "Cricket",
-      "title": "Emirates Blues vs Sharjah (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
-      "team_1": "Emirates Blues",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Emirates Blues vs Sharjah",
-      "startTime": "09:00:00 PM 02-02-2026"
     }
   ]
 }
