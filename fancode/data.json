@@ -1,35 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:06 AM 01-02-2026",
+  "last update time": "11:58 AM 01-02-2026",
   "matches": [
     {
-      "id": 139245,
-      "event_category": "Cricket",
-      "title": "Ireland Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-      "team_1": "Ireland Women",
-      "team_2": "Thailand Women",
+      "id": 139401,
+      "event_category": "Football",
+      "title": "Central Coast Mariners vs Melbourne Victory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Melbourne Victory",
       "status": "LIVE",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Ireland Women vs Thailand Women",
-      "startTime": "08:45:00 AM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/PMm7J17vSaiNT801MeCLVw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139245_english_hls_278f26aeba82824_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139244,
-      "event_category": "Cricket",
-      "title": "Bangladesh Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-      "team_1": "Bangladesh Women",
-      "team_2": "Netherlands Women",
-      "status": "LIVE",
-      "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-      "match_name": "Bangladesh Women vs Netherlands Women",
-      "startTime": "08:45:00 AM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/hc6UF82mQkaw-milpFU_TQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139244_english_hls_515354912e6599_1ta-di_h264/index.m3u8"
+      "event_name": "A League 2025-26",
+      "match_name": "Central Coast Mariners vs Melbourne Victory",
+      "startTime": "11:30:00 AM 01-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/dR4CwzeESTeIVMT-bkasNQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139401_english_hls_afc10071ed44323_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140137,
@@ -136,18 +122,6 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Delhi Warriors vs Gurugram Thunders",
       "startTime": "07:30:00 PM 01-02-2026"
-    },
-    {
-      "id": 139401,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Melbourne Victory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Melbourne Victory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Melbourne Victory",
-      "startTime": "11:30:00 AM 01-02-2026"
     },
     {
       "id": 139246,
@@ -354,6 +328,18 @@
       "startTime": "04:00:00 PM 31-01-2026"
     },
     {
+      "id": 140011,
+      "event_category": "Football",
+      "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
+      "team_1": "Granada",
+      "team_2": "Racing de Santander",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Granada vs Racing de Santander",
+      "startTime": "01:30:00 AM 02-02-2026"
+    },
+    {
       "id": 139880,
       "event_category": "Padel",
       "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
@@ -388,18 +374,6 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "TBC vs TBC",
       "startTime": "12:00:00 PM 01-02-2026"
-    },
-    {
-      "id": 140011,
-      "event_category": "Football",
-      "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
-      "team_1": "Granada",
-      "team_2": "Racing de Santander",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Granada vs Racing de Santander",
-      "startTime": "01:30:00 AM 02-02-2026"
     },
     {
       "id": 140086,
@@ -472,6 +446,30 @@
       "event_name": "Hexagon Cup 2026 DNU",
       "match_name": "TBC vs TBC",
       "startTime": "04:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 139904,
+      "event_category": "Futsal",
+      "title": "IR Iran vs Afghanistan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "IR Iran",
+      "team_2": "Afghanistan",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "IR Iran vs Afghanistan",
+      "startTime": "05:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 139903,
+      "event_category": "Futsal",
+      "title": "Saudi Arabia vs Malaysia (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Saudi Arabia",
+      "team_2": "Malaysia",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Saudi Arabia vs Malaysia",
+      "startTime": "05:30:00 PM 01-02-2026"
     }
   ]
 }
