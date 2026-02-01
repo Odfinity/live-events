@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:26 PM 01-02-2026",
+  "last update time": "02:11 PM 01-02-2026",
   "matches": [
+    {
+      "id": 140084,
+      "event_category": "Cricket",
+      "title": "Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Pune-Panthers_vs_Maharashtra-Tycoons_FC-Web.jpg",
+      "team_1": "Pune Panthers",
+      "team_2": "Maharashtra Tycoons",
+      "status": "LIVE",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Pune Panthers vs Maharashtra Tycoons",
+      "startTime": "02:30:00 PM 01-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/u4-adsdERy-jj7JgTP77IQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140084_english_hls_65c2c3cac063114_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139246,
       "event_category": "Cricket",
@@ -102,16 +116,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140084,
-      "event_category": "Cricket",
-      "title": "Pune Panthers vs Maharashtra Tycoons (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
-      "team_1": "Pune Panthers",
-      "team_2": "Maharashtra Tycoons",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Pune Panthers vs Maharashtra Tycoons",
-      "startTime": "02:30:00 PM 01-02-2026"
+      "id": 139902,
+      "event_category": "Futsal",
+      "title": "Tajikistan vs Australia (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Tajikistan",
+      "team_2": "Australia",
+      "status": "LIVE",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Tajikistan vs Australia",
+      "startTime": "01:30:00 PM 01-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/uSgMXqgLQ--48RZNyPuMxA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139902_english_hls_a71954447d38201_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139901,
+      "event_category": "Futsal",
+      "title": "Japan vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Japan",
+      "team_2": "Uzbekistan",
+      "status": "LIVE",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Japan vs Uzbekistan",
+      "startTime": "01:30:00 PM 01-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/PS-Iz2MqSvqNLgGhhEA1GQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139901_english_hls_d715a104ee83494_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139293,
@@ -282,18 +312,6 @@
       "startTime": "01:30:00 AM 02-02-2026"
     },
     {
-      "id": 139870,
-      "event_category": "Padel",
-      "title": "KRU Padel vs ADV (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139870_5896_KRU_ADV_FC-Web.jpg",
-      "team_1": "KRU Padel",
-      "team_2": "ADV",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "KRU Padel vs ADV",
-      "startTime": "02:00:00 PM 31-01-2026"
-    },
-    {
       "id": 139871,
       "event_category": "Padel",
       "title": "Team Bella vs Leven (Hexagon Cup 2026 DNU)",
@@ -354,34 +372,6 @@
       "startTime": "12:00:00 PM 01-02-2026"
     },
     {
-      "id": 139902,
-      "event_category": "Futsal",
-      "title": "Tajikistan vs Australia (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Tajikistan",
-      "team_2": "Australia",
-      "status": "LIVE",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Tajikistan vs Australia",
-      "startTime": "01:30:00 PM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/uSgMXqgLQ--48RZNyPuMxA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139902_english_hls_a71954447d38201_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139901,
-      "event_category": "Futsal",
-      "title": "Japan vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Japan",
-      "team_2": "Uzbekistan",
-      "status": "LIVE",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Japan vs Uzbekistan",
-      "startTime": "01:30:00 PM 01-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/PS-Iz2MqSvqNLgGhhEA1GQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139901_english_hls_d715a104ee83494_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 139877,
       "event_category": "Padel",
       "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
@@ -404,6 +394,30 @@
       "event_name": "Hexagon Cup 2026",
       "match_name": "Day 5 - Centre Court",
       "startTime": "02:30:00 PM 01-02-2026"
+    },
+    {
+      "id": 139607,
+      "event_category": "Cricket",
+      "title": "Emirates Blues vs Ajman (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+      "team_1": "Emirates Blues",
+      "team_2": "Ajman",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Emirates Blues vs Ajman",
+      "startTime": "04:30:00 PM 02-02-2026"
+    },
+    {
+      "id": 140087,
+      "event_category": "Cricket",
+      "title": "Maharashtra Tycoons vs Dubai Royals (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140087_5928_MTY_DR_FC-Web_1769807973903.jpg",
+      "team_1": "Maharashtra Tycoons",
+      "team_2": "Dubai Royals",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Maharashtra Tycoons vs Dubai Royals",
+      "startTime": "07:30:00 PM 02-02-2026"
     },
     {
       "id": 139878,
@@ -464,18 +478,6 @@
       "event_name": "Farmers Insurance Open 2026",
       "match_name": "Main Feed - Day 4",
       "startTime": "08:45:00 PM 01-02-2026"
-    },
-    {
-      "id": 140039,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 4 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-      "team_1": "Featured Holes - Day 4",
-      "team_2": "Torrey Pines Golf Course",
-      "status": "UPCOMING",
-      "event_name": "Farmers Insurance Open 2026",
-      "match_name": "Featured Holes - Day 4",
-      "startTime": "09:00:00 PM 01-02-2026"
     }
   ]
 }
