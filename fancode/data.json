@@ -1,64 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:29 PM 02-02-2026",
+  "last update time": "02:27 PM 02-02-2026",
   "matches": [
-    {
-      "id": 140311,
-      "event_category": "Live Events",
-      "title": "Day 3 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 3 - Table 1",
-      "team_2": "Chennai",
-      "status": "LIVE",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 3 - Table 1",
-      "startTime": "10:00:00 AM 02-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/O-xCMYCdToilfKNm7wjLfQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140311_english_hls_046a5fd0a12299_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140336,
-      "event_category": "Live Events",
-      "title": "Day 3 - Table 2 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 3 - Table 2",
-      "team_2": "Chennai",
-      "status": "LIVE",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 3 - Table 2",
-      "startTime": "10:00:00 AM 02-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/yxlrVaFpRkKNcQvhIzvkZg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140336_english_hls_145bb3119d72738_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140335,
-      "event_category": "Live Events",
-      "title": "Day 3 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 3 - Table 3",
-      "team_2": "Chennai",
-      "status": "LIVE",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 3 - Table 3",
-      "startTime": "10:00:00 AM 02-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Sdq9X1lvTeGU71p8tAAk4w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140335_english_hls_312fac0a6763899_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140334,
-      "event_category": "Live Events",
-      "title": "Day 3 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "team_1": "Day 3 - Table 4",
-      "team_2": "Chennai",
-      "status": "LIVE",
-      "event_name": "Dream Sports Championship Table Tennis 2026",
-      "match_name": "Day 3 - Table 4",
-      "startTime": "10:00:00 AM 02-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/mf1z5c-eTFiszMBbNO5bbg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140334_english_hls_08c8b85c8716638_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140086,
       "event_category": "Cricket",
@@ -66,10 +10,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
       "team_1": "Rajasthan Lions",
       "team_2": "Delhi Warriors",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Rajasthan Lions vs Delhi Warriors",
-      "startTime": "02:30:00 PM 02-02-2026"
+      "startTime": "02:30:00 PM 02-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/4uPCDK90RFWuQKm9iN3nzg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140086_english_hls_968b76f4828971_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140087,
@@ -216,18 +162,6 @@
       "startTime": "01:00:00 AM 03-02-2026"
     },
     {
-      "id": 139877,
-      "event_category": "Padel",
-      "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_padel-tennis-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Hexagon Cup 2026 DNU",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:00:00 PM 01-02-2026"
-    },
-    {
       "id": 139878,
       "event_category": "Padel",
       "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
@@ -264,16 +198,16 @@
       "startTime": "07:00:00 PM 03-02-2026"
     },
     {
-      "id": 140180,
-      "event_category": "Tennis",
-      "title": "Day 1 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-      "team_1": "Day 1",
-      "team_2": "Montpellier, France",
+      "id": 140089,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "ATP 250 - Open Occitanie 2026",
-      "match_name": "Day 1",
-      "startTime": "09:00:00 PM 02-02-2026"
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:30:00 PM 03-02-2026"
     },
     {
       "id": 139611,
@@ -288,16 +222,16 @@
       "startTime": "04:30:00 PM 03-02-2026"
     },
     {
-      "id": 140089,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
+      "id": 140180,
+      "event_category": "Tennis",
+      "title": "Day 1 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+      "team_1": "Day 1",
+      "team_2": "Montpellier, France",
       "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:30:00 PM 03-02-2026"
+      "event_name": "ATP 250 - Open Occitanie 2026",
+      "match_name": "Day 1",
+      "startTime": "09:00:00 PM 02-02-2026"
     },
     {
       "id": 139169,
@@ -310,6 +244,18 @@
       "event_name": "TGL Season 2",
       "match_name": "Atlanta vs Jupiter",
       "startTime": "03:30:00 AM 03-02-2026"
+    },
+    {
+      "id": 139612,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi vs Sharjah (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "team_1": "Abu Dhabi",
+      "team_2": "Sharjah",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Abu Dhabi vs Sharjah",
+      "startTime": "06:45:00 PM 03-02-2026"
     },
     {
       "id": 140312,
@@ -360,18 +306,6 @@
       "startTime": "09:00:00 AM 03-02-2026"
     },
     {
-      "id": 139612,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Sharjah (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Abu Dhabi vs Sharjah",
-      "startTime": "06:45:00 PM 03-02-2026"
-    },
-    {
       "id": 139905,
       "event_category": "Futsal",
       "title": "IR Iran vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
@@ -420,6 +354,18 @@
       "startTime": "03:30:00 PM 03-02-2026"
     },
     {
+      "id": 139614,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "team_1": "Abu Dhabi",
+      "team_2": "Emirates Blues",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Abu Dhabi vs Emirates Blues",
+      "startTime": "11:15:00 PM 03-02-2026"
+    },
+    {
       "id": 139908,
       "event_category": "Futsal",
       "title": "Indonesia vs Vietnam (AFC Futsal Asian Cup, 2026)",
@@ -430,6 +376,54 @@
       "event_name": "AFC Futsal Asian Cup, 2026",
       "match_name": "Indonesia vs Vietnam",
       "startTime": "05:30:00 PM 03-02-2026"
+    },
+    {
+      "id": 140181,
+      "event_category": "Tennis",
+      "title": "Day 2 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+      "team_1": "Day 2",
+      "team_2": "Montpellier, France",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Open Occitanie 2026",
+      "match_name": "Day 2",
+      "startTime": "06:00:00 PM 03-02-2026"
+    },
+    {
+      "id": 138998,
+      "event_category": "Football",
+      "title": "Bayer 04 Leverkusen vs FC St. Pauli (DFB Pokal 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Bayer-04-Leverkusen-vs-FC-St_1769793016207.-Pauli.png",
+      "team_1": "Bayer 04 Leverkusen",
+      "team_2": "FC St. Pauli",
+      "status": "UPCOMING",
+      "event_name": "DFB Pokal 2025-26",
+      "match_name": "Bayer 04 Leverkusen vs FC St. Pauli",
+      "startTime": "01:05:00 AM 04-02-2026"
+    },
+    {
+      "id": 139213,
+      "event_category": "Football",
+      "title": "Arsenal vs Chelsea (Carabao Cup 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Arsenal-vs-Chelsea_1768301278910.png",
+      "team_1": "Arsenal",
+      "team_2": "Chelsea",
+      "status": "UPCOMING",
+      "event_name": "Carabao Cup 2025-2026",
+      "match_name": "Arsenal vs Chelsea",
+      "startTime": "01:30:00 AM 04-02-2026"
+    },
+    {
+      "id": 140049,
+      "event_category": "Football",
+      "title": "Albacete vs FC Barcelona (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140049_5806_ALB_BAR_FC-Web.jpg",
+      "team_1": "Albacete",
+      "team_2": "FC Barcelona",
+      "status": "UPCOMING",
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Albacete vs FC Barcelona",
+      "startTime": "01:30:00 AM 04-02-2026"
     }
   ]
 }
