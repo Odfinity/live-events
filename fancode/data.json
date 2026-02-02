@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:13 PM 02-02-2026",
+  "last update time": "07:59 PM 02-02-2026",
   "matches": [
     {
       "id": 140087,
@@ -30,6 +30,18 @@
       "startTime": "06:45:00 PM 02-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/oem3RpK-QGqDmGdp_eNw0g/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139608_english_hls_d77512deae92438_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139834,
+      "event_category": "Football",
+      "title": "Al-Riyadh SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Riyadh-SC-vs-Al-Nassr-FC_FC-web.jpg",
+      "team_1": "Al-Riyadh SC",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Riyadh SC vs Al-Nassr FC",
+      "startTime": "08:45:00 PM 02-02-2026"
     },
     {
       "id": 140088,
@@ -68,18 +80,6 @@
       "startTime": "11:15:00 PM 02-02-2026"
     },
     {
-      "id": 139834,
-      "event_category": "Football",
-      "title": "Al-Riyadh SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Riyadh-SC-vs-Al-Nassr-FC_FC-web.jpg",
-      "team_1": "Al-Riyadh SC",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Riyadh SC vs Al-Nassr FC",
-      "startTime": "08:45:00 PM 02-02-2026"
-    },
-    {
       "id": 139835,
       "event_category": "Football",
       "title": "Al Hilal SFC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
@@ -104,18 +104,6 @@
       "startTime": "04:30:00 AM 03-02-2026"
     },
     {
-      "id": 131047,
-      "event_category": "Football",
-      "title": "RCD Mallorca vs Sevilla FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131047_5427_MRC_SEV_FC-Web.png",
-      "team_1": "RCD Mallorca",
-      "team_2": "Sevilla FC",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RCD Mallorca vs Sevilla FC",
-      "startTime": "01:30:00 AM 03-02-2026"
-    },
-    {
       "id": 133975,
       "event_category": "Cricket",
       "title": "South Australian Scorpions vs Victoria Women (Women's National Cricket League, 2025-26)",
@@ -126,6 +114,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "South Australian Scorpions vs Victoria Women",
       "startTime": "05:00:00 AM 03-02-2026"
+    },
+    {
+      "id": 131047,
+      "event_category": "Football",
+      "title": "RCD Mallorca vs Sevilla FC (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131047_5427_MRC_SEV_FC-Web.png",
+      "team_1": "RCD Mallorca",
+      "team_2": "Sevilla FC",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RCD Mallorca vs Sevilla FC",
+      "startTime": "01:30:00 AM 03-02-2026"
     },
     {
       "id": 139294,
@@ -224,6 +224,18 @@
       "startTime": "03:30:00 AM 03-02-2026"
     },
     {
+      "id": 139614,
+      "event_category": "Cricket",
+      "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+      "team_1": "Abu Dhabi",
+      "team_2": "Emirates Blues",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "Abu Dhabi vs Emirates Blues",
+      "startTime": "11:15:00 PM 03-02-2026"
+    },
+    {
       "id": 140312,
       "event_category": "Live Events",
       "title": "Day 4 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
@@ -284,18 +296,6 @@
       "startTime": "11:30:00 AM 03-02-2026"
     },
     {
-      "id": 139614,
-      "event_category": "Cricket",
-      "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-      "team_1": "Abu Dhabi",
-      "team_2": "Emirates Blues",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "Abu Dhabi vs Emirates Blues",
-      "startTime": "11:15:00 PM 03-02-2026"
-    },
-    {
       "id": 139906,
       "event_category": "Futsal",
       "title": "Iraq vs Thailand (AFC Futsal Asian Cup, 2026)",
@@ -332,30 +332,6 @@
       "startTime": "01:05:00 AM 04-02-2026"
     },
     {
-      "id": 139908,
-      "event_category": "Futsal",
-      "title": "Indonesia vs Vietnam (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Indonesia",
-      "team_2": "Vietnam",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Indonesia vs Vietnam",
-      "startTime": "05:30:00 PM 03-02-2026"
-    },
-    {
-      "id": 140181,
-      "event_category": "Tennis",
-      "title": "Day 2 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-      "team_1": "Day 2",
-      "team_2": "Montpellier, France",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Open Occitanie 2026",
-      "match_name": "Day 2",
-      "startTime": "06:00:00 PM 03-02-2026"
-    },
-    {
       "id": 139213,
       "event_category": "Football",
       "title": "Arsenal vs Chelsea (Carabao Cup 2025-2026)",
@@ -378,6 +354,30 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Albacete vs FC Barcelona",
       "startTime": "01:30:00 AM 04-02-2026"
+    },
+    {
+      "id": 139908,
+      "event_category": "Futsal",
+      "title": "Indonesia vs Vietnam (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Indonesia",
+      "team_2": "Vietnam",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Indonesia vs Vietnam",
+      "startTime": "05:30:00 PM 03-02-2026"
+    },
+    {
+      "id": 140181,
+      "event_category": "Tennis",
+      "title": "Day 2 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+      "team_1": "Day 2",
+      "team_2": "Montpellier, France",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Open Occitanie 2026",
+      "match_name": "Day 2",
+      "startTime": "06:00:00 PM 03-02-2026"
     },
     {
       "id": 133976,
