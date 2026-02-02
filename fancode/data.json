@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:19 AM 02-02-2026",
+  "last update time": "11:26 AM 02-02-2026",
   "matches": [
     {
       "id": 140311,
@@ -288,6 +288,18 @@
       "startTime": "03:30:00 AM 03-02-2026"
     },
     {
+      "id": 139294,
+      "event_category": "Cricket",
+      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
+      "team_1": "Sri Lanka",
+      "team_2": "England",
+      "status": "UPCOMING",
+      "event_name": "England tour of Sri Lanka, 2026",
+      "match_name": "Sri Lanka vs England",
+      "startTime": "07:00:00 PM 03-02-2026"
+    },
+    {
       "id": 139611,
       "event_category": "Cricket",
       "title": "Fujairah vs Ajman (Emirates D10, 2026)",
@@ -300,16 +312,16 @@
       "startTime": "04:30:00 PM 03-02-2026"
     },
     {
-      "id": 139294,
+      "id": 140089,
       "event_category": "Cricket",
-      "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
-      "team_1": "Sri Lanka",
-      "team_2": "England",
+      "title": "TBC vs TBC (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
       "status": "UPCOMING",
-      "event_name": "England tour of Sri Lanka, 2026",
-      "match_name": "Sri Lanka vs England",
-      "startTime": "07:00:00 PM 03-02-2026"
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:30:00 PM 03-02-2026"
     },
     {
       "id": 140312,
@@ -360,18 +372,6 @@
       "startTime": "09:00:00 AM 03-02-2026"
     },
     {
-      "id": 140089,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:30:00 PM 03-02-2026"
-    },
-    {
       "id": 139905,
       "event_category": "Futsal",
       "title": "IR Iran vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
@@ -408,18 +408,6 @@
       "startTime": "01:30:00 PM 03-02-2026"
     },
     {
-      "id": 139907,
-      "event_category": "Futsal",
-      "title": "Japan vs Afghanistan (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Japan",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Japan vs Afghanistan",
-      "startTime": "03:30:00 PM 03-02-2026"
-    },
-    {
       "id": 139613,
       "event_category": "Cricket",
       "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
@@ -430,6 +418,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Ajman vs Emirates Red",
       "startTime": "09:00:00 PM 03-02-2026"
+    },
+    {
+      "id": 139907,
+      "event_category": "Futsal",
+      "title": "Japan vs Afghanistan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Japan",
+      "team_2": "Afghanistan",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Japan vs Afghanistan",
+      "startTime": "03:30:00 PM 03-02-2026"
     }
   ]
 }
