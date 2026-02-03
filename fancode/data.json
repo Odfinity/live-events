@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:35 AM 03-02-2026",
+  "last update time": "11:34 AM 03-02-2026",
   "matches": [
-    {
-      "id": 133974,
-      "event_category": "Cricket",
-      "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2025-26)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "New South Wales Breakers",
-      "team_2": "Queensland Fire",
-      "status": "LIVE",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "New South Wales Breakers vs Queensland Fire",
-      "startTime": "04:30:00 AM 03-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/qjcSND88TX69eZra06o5dg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133974_english_hls_12c298881216202_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 133975,
       "event_category": "Cricket",
@@ -88,6 +74,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140337_english_hls_4718b83e1e97624_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139905,
+      "event_category": "Futsal",
+      "title": "IR Iran vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "IR Iran",
+      "team_2": "Uzbekistan",
+      "status": "LIVE",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "IR Iran vs Uzbekistan",
+      "startTime": "11:30:00 AM 03-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/q8MSpwV9R8m7Rl8qoQzZag/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139905_english_hls_b57c73356454051_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140088,
       "event_category": "Cricket",
       "title": "Rajasthan Lions vs Pune Panthers (World Legends Pro T20 League, 2026)",
@@ -122,6 +122,18 @@
       "event_name": "World Legends Pro T20 League, 2026",
       "match_name": "Dubai Royals vs Delhi Warriors",
       "startTime": "07:30:00 PM 03-02-2026"
+    },
+    {
+      "id": 133944,
+      "event_category": "Cricket",
+      "title": "Victoria vs Queensland (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133944_5606_VCT_QUN_fc-web.jpg",
+      "team_1": "Victoria",
+      "team_2": "Queensland",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Victoria vs Queensland",
+      "startTime": "04:30:00 AM 03-02-2026"
     },
     {
       "id": 139611,
@@ -220,42 +232,6 @@
       "startTime": "08:30:00 AM 04-02-2026"
     },
     {
-      "id": 139905,
-      "event_category": "Futsal",
-      "title": "IR Iran vs Uzbekistan (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "IR Iran",
-      "team_2": "Uzbekistan",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "IR Iran vs Uzbekistan",
-      "startTime": "11:30:00 AM 03-02-2026"
-    },
-    {
-      "id": 139906,
-      "event_category": "Futsal",
-      "title": "Thailand vs Iraq (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Thailand",
-      "team_2": "Iraq",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Thailand vs Iraq",
-      "startTime": "01:30:00 PM 03-02-2026"
-    },
-    {
-      "id": 139907,
-      "event_category": "Futsal",
-      "title": "Japan vs Afghanistan (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Japan",
-      "team_2": "Afghanistan",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Japan vs Afghanistan",
-      "startTime": "03:30:00 PM 03-02-2026"
-    },
-    {
       "id": 140368,
       "event_category": "Football",
       "title": "Forge vs Tigres (CONCACAF Champions Cup 2026)",
@@ -266,30 +242,6 @@
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "Forge vs Tigres",
       "startTime": "05:30:00 AM 04-02-2026"
-    },
-    {
-      "id": 139908,
-      "event_category": "Futsal",
-      "title": "Indonesia vs Vietnam (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Indonesia",
-      "team_2": "Vietnam",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Indonesia vs Vietnam",
-      "startTime": "05:30:00 PM 03-02-2026"
-    },
-    {
-      "id": 140181,
-      "event_category": "Tennis",
-      "title": "Day 2 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-      "team_1": "Day 2",
-      "team_2": "Montpellier, France",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Open Occitanie 2026",
-      "match_name": "Day 2",
-      "startTime": "07:00:00 PM 03-02-2026"
     },
     {
       "id": 140369,
@@ -316,6 +268,54 @@
       "startTime": "09:30:00 AM 04-02-2026"
     },
     {
+      "id": 139906,
+      "event_category": "Futsal",
+      "title": "Thailand vs Iraq (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Thailand",
+      "team_2": "Iraq",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Thailand vs Iraq",
+      "startTime": "01:30:00 PM 03-02-2026"
+    },
+    {
+      "id": 139907,
+      "event_category": "Futsal",
+      "title": "Japan vs Afghanistan (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Japan",
+      "team_2": "Afghanistan",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Japan vs Afghanistan",
+      "startTime": "03:30:00 PM 03-02-2026"
+    },
+    {
+      "id": 139908,
+      "event_category": "Futsal",
+      "title": "Indonesia vs Vietnam (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Indonesia",
+      "team_2": "Vietnam",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Indonesia vs Vietnam",
+      "startTime": "05:30:00 PM 03-02-2026"
+    },
+    {
+      "id": 140181,
+      "event_category": "Tennis",
+      "title": "Day 2 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+      "team_1": "Day 2",
+      "team_2": "Montpellier, France",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Open Occitanie 2026",
+      "match_name": "Day 2",
+      "startTime": "07:00:00 PM 03-02-2026"
+    },
+    {
       "id": 139615,
       "event_category": "Cricket",
       "title": "Sharjah vs Dubai (Emirates D10, 2026)",
@@ -326,6 +326,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Sharjah vs Dubai",
       "startTime": "04:30:00 PM 04-02-2026"
+    },
+    {
+      "id": 140090,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:30:00 PM 04-02-2026"
     },
     {
       "id": 140313,
@@ -376,18 +388,6 @@
       "startTime": "09:00:00 AM 04-02-2026"
     },
     {
-      "id": 140090,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:30:00 PM 04-02-2026"
-    },
-    {
       "id": 140319,
       "event_category": "Live Events",
       "title": "Day 1 vs Delhi (Asian Rifle & Pistol Championship 2026)",
@@ -434,18 +434,6 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "Ajman vs Dubai",
       "startTime": "09:00:00 PM 04-02-2026"
-    },
-    {
-      "id": 140182,
-      "event_category": "Tennis",
-      "title": "Day 3 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-      "team_1": "Day 3",
-      "team_2": "Montpellier, France",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Open Occitanie 2026",
-      "match_name": "Day 3",
-      "startTime": "06:00:00 PM 04-02-2026"
     }
   ]
 }
