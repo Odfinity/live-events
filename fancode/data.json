@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:03 AM 04-02-2026",
+  "last update time": "01:02 AM 04-02-2026",
   "matches": [
-    {
-      "id": 140089,
-      "event_category": "Cricket",
-      "title": "Dubai Royals vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1770065318593/140089_CASACARDS_APP.png",
-      "team_1": "Dubai Royals",
-      "team_2": "Delhi Warriors",
-      "status": "LIVE",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "Dubai Royals vs Delhi Warriors",
-      "startTime": "07:30:00 PM 03-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Qpth3GCjTkuaiZhCR2TUpg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139614,
       "event_category": "Cricket",
@@ -44,18 +30,6 @@
       "startTime": "07:00:00 PM 03-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/ofm4W7XkSKSu7s230ki1Pg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140181_english_hls_381b3d1afd2572_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140090,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (World Legends Pro T20 League, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "World Legends Pro T20 League, 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:30:00 PM 04-02-2026"
     },
     {
       "id": 138998,
@@ -92,6 +66,18 @@
       "event_name": "Copa del Rey, 2025-26",
       "match_name": "Albacete vs FC Barcelona",
       "startTime": "01:30:00 AM 04-02-2026"
+    },
+    {
+      "id": 140090,
+      "event_category": "Cricket",
+      "title": "Pune Panthers vs Dubai Royals (World Legends Pro T20 League, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Pune Panthers",
+      "team_2": "Dubai Royals",
+      "status": "UPCOMING",
+      "event_name": "World Legends Pro T20 League, 2026",
+      "match_name": "Pune Panthers vs Dubai Royals",
+      "startTime": "07:30:00 PM 04-02-2026"
     },
     {
       "id": 133976,
@@ -310,18 +296,6 @@
       "startTime": "03:00:00 PM 04-02-2026"
     },
     {
-      "id": 140182,
-      "event_category": "Tennis",
-      "title": "Day 3 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-      "team_1": "Day 3",
-      "team_2": "Montpellier, France",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Open Occitanie 2026",
-      "match_name": "Day 3",
-      "startTime": "06:00:00 PM 04-02-2026"
-    },
-    {
       "id": 133977,
       "event_category": "Cricket",
       "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2025-26)",
@@ -344,6 +318,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "South Australian Scorpions vs Victoria Women",
       "startTime": "05:00:00 AM 05-02-2026"
+    },
+    {
+      "id": 140182,
+      "event_category": "Tennis",
+      "title": "Day 3 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+      "team_1": "Day 3",
+      "team_2": "Montpellier, France",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Open Occitanie 2026",
+      "match_name": "Day 3",
+      "startTime": "06:00:00 PM 04-02-2026"
     },
     {
       "id": 134033,
