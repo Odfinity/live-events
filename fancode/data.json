@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:25 AM 05-02-2026",
+  "last update time": "09:04 AM 05-02-2026",
   "matches": [
     {
       "id": 133977,
@@ -60,18 +60,32 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134032_english_hls_046dbb137026643_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140371,
+      "id": 134034,
+      "event_category": "Cricket",
+      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "Western Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Western Australia",
+      "startTime": "08:00:00 AM 05-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/d8ilOYzmTFmdIXvnti_WEQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20720719_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140372,
       "event_category": "Football",
-      "title": "Club Xelaju vs Monterrey (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Club-Xelaju-vs-Monterrey_1770142864971.png",
-      "team_1": "Club Xelaju",
-      "team_2": "Monterrey",
+      "title": "Vancouver FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Vancouver-FC-vs-Cruz-Azul_1770142969524.png",
+      "team_1": "Vancouver FC",
+      "team_2": "Cruz Azul",
       "status": "LIVE",
       "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Club Xelaju vs Monterrey",
-      "startTime": "06:30:00 AM 05-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/vEpJhpNKSvOD6FlQF7FyQw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140371_english_hls_2b7c51dc648363_1ta-di_h264/index.m3u8"
+      "match_name": "Vancouver FC vs Cruz Azul",
+      "startTime": "08:30:00 AM 05-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/8wd2MVEWTtatzD5oVsKcmw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140372_english_hls_b59892138f7814_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139619,
@@ -120,30 +134,6 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Okhdood Club vs Al Hilal SFC",
       "startTime": "11:00:00 PM 05-02-2026"
-    },
-    {
-      "id": 134034,
-      "event_category": "Cricket",
-      "title": "Western Australia vs Tasmania (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
-      "team_1": "Western Australia",
-      "team_2": "Tasmania",
-      "status": "UPCOMING",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Western Australia vs Tasmania",
-      "startTime": "08:00:00 AM 05-02-2026"
-    },
-    {
-      "id": 140372,
-      "event_category": "Football",
-      "title": "Vancouver FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Vancouver-FC-vs-Cruz-Azul_1770142969524.png",
-      "team_1": "Vancouver FC",
-      "team_2": "Cruz Azul",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Vancouver FC vs Cruz Azul",
-      "startTime": "08:30:00 AM 05-02-2026"
     },
     {
       "id": 140050,
@@ -456,6 +446,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
       "startTime": "01:30:00 AM 07-02-2026"
+    },
+    {
+      "id": 140041,
+      "event_category": "Golf",
+      "title": "World Feed - Day 2 vs TPC Scottsdale (WM Phoenix Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
+      "team_1": "World Feed - Day 2",
+      "team_2": "TPC Scottsdale",
+      "status": "UPCOMING",
+      "event_name": "WM Phoenix Open 2026",
+      "match_name": "World Feed - Day 2",
+      "startTime": "02:00:00 AM 07-02-2026"
     }
   ]
 }
