@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:10 AM 06-02-2026",
+  "last update time": "09:58 AM 06-02-2026",
   "matches": [
+    {
+      "id": 133979,
+      "event_category": "Cricket",
+      "title": "ACT Meteors vs Tasmania Women (Women's National Cricket League, 2025-26)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+      "team_1": "ACT Meteors",
+      "team_2": "Tasmania Women",
+      "status": "LIVE",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "ACT Meteors vs Tasmania Women",
+      "startTime": "08:30:00 AM 06-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/G6n5NGQNT2S3dLAS4dIH7g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133979_english_hls_001a51db6a54394_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 134033,
       "event_category": "Cricket",
@@ -44,18 +58,6 @@
       "startTime": "08:00:00 AM 05-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/eiYcuF_QRT2iUiXrJ26_RA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20783713_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133979,
-      "event_category": "Cricket",
-      "title": "ACT Meteors vs Tasmania Women (Women's National Cricket League, 2025-26)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-      "team_1": "ACT Meteors",
-      "team_2": "Tasmania Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "ACT Meteors vs Tasmania Women",
-      "startTime": "08:30:00 AM 06-02-2026"
     },
     {
       "id": 139622,
@@ -154,18 +156,6 @@
       "startTime": "02:05:00 PM 06-02-2026"
     },
     {
-      "id": 140428,
-      "event_category": "Football",
-      "title": "Leganés vs Granada (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Leganés",
-      "team_2": "Granada",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Leganés vs Granada",
-      "startTime": "01:00:00 AM 07-02-2026"
-    },
-    {
       "id": 140321,
       "event_category": "Live Events",
       "title": "Day 3 vs Delhi (Asian Rifle & Pistol Championship 2026)",
@@ -178,6 +168,30 @@
       "startTime": "10:50:00 AM 06-02-2026"
     },
     {
+      "id": 140428,
+      "event_category": "Football",
+      "title": "Leganés vs Granada (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072521/140428_CASACARDS_APP.png",
+      "team_1": "Leganés",
+      "team_2": "Granada",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Leganés vs Granada",
+      "startTime": "01:00:00 AM 07-02-2026"
+    },
+    {
+      "id": 139404,
+      "event_category": "Football",
+      "title": "Auckland vs Sydney FC (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139404_CASACARDS_APP.png",
+      "team_1": "Auckland",
+      "team_2": "Sydney FC",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Auckland vs Sydney FC",
+      "startTime": "09:30:00 AM 07-02-2026"
+    },
+    {
       "id": 140184,
       "event_category": "Tennis",
       "title": "Day 5 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
@@ -187,7 +201,7 @@
       "status": "UPCOMING",
       "event_name": "ATP 250 - Open Occitanie 2026",
       "match_name": "Day 5",
-      "startTime": "06:00:00 PM 06-02-2026"
+      "startTime": "07:00:00 PM 06-02-2026"
     },
     {
       "id": 140395,
@@ -226,16 +240,16 @@
       "startTime": "08:45:00 PM 06-02-2026"
     },
     {
-      "id": 139404,
+      "id": 139405,
       "event_category": "Football",
-      "title": "Auckland vs Sydney FC (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139404_CASACARDS_APP.png",
-      "team_1": "Auckland",
-      "team_2": "Sydney FC",
+      "title": "Brisbane Roar vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png",
+      "team_1": "Brisbane Roar",
+      "team_2": "Central Coast Mariners",
       "status": "UPCOMING",
       "event_name": "A League 2025-26",
-      "match_name": "Auckland vs Sydney FC",
-      "startTime": "09:30:00 AM 07-02-2026"
+      "match_name": "Brisbane Roar vs Central Coast Mariners",
+      "startTime": "11:30:00 AM 07-02-2026"
     },
     {
       "id": 140041,
@@ -248,18 +262,6 @@
       "event_name": "WM Phoenix Open 2026",
       "match_name": "World Feed - Day 2",
       "startTime": "02:00:00 AM 07-02-2026"
-    },
-    {
-      "id": 139405,
-      "event_category": "Football",
-      "title": "Brisbane Roar vs Central Coast Mariners (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png",
-      "team_1": "Brisbane Roar",
-      "team_2": "Central Coast Mariners",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Brisbane Roar vs Central Coast Mariners",
-      "startTime": "11:30:00 AM 07-02-2026"
     },
     {
       "id": 139423,
@@ -286,18 +288,6 @@
       "startTime": "04:30:00 PM 07-02-2026"
     },
     {
-      "id": 140322,
-      "event_category": "Live Events",
-      "title": "Day 4 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-      "team_1": "Day 4",
-      "team_2": "Delhi",
-      "status": "UPCOMING",
-      "event_name": "Asian Rifle & Pistol Championship 2026",
-      "match_name": "Day 4",
-      "startTime": "11:35:00 AM 07-02-2026"
-    },
-    {
       "id": 140097,
       "event_category": "Football",
       "title": "Leicester City Women vs Manchester United Women (Women's Super League 2025-26)",
@@ -308,6 +298,18 @@
       "event_name": "Women's Super League 2025-26",
       "match_name": "Leicester City Women vs Manchester United Women",
       "startTime": "05:30:00 PM 07-02-2026"
+    },
+    {
+      "id": 140322,
+      "event_category": "Live Events",
+      "title": "Day 4 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+      "team_1": "Day 4",
+      "team_2": "Delhi",
+      "status": "UPCOMING",
+      "event_name": "Asian Rifle & Pistol Championship 2026",
+      "match_name": "Day 4",
+      "startTime": "11:35:00 AM 07-02-2026"
     },
     {
       "id": 139349,
@@ -382,18 +384,6 @@
       "startTime": "04:30:00 PM 07-02-2026"
     },
     {
-      "id": 139911,
-      "event_category": "Futsal",
-      "title": "Indonesia vs IR Iran (AFC Futsal Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-      "team_1": "Indonesia",
-      "team_2": "IR Iran",
-      "status": "UPCOMING",
-      "event_name": "AFC Futsal Asian Cup, 2026",
-      "match_name": "Indonesia vs IR Iran",
-      "startTime": "05:30:00 PM 07-02-2026"
-    },
-    {
       "id": 139627,
       "event_category": "Cricket",
       "title": "TBC vs TBC (Emirates D10, 2026)",
@@ -404,6 +394,18 @@
       "event_name": "Emirates D10, 2026",
       "match_name": "TBC vs TBC",
       "startTime": "10:30:00 PM 07-02-2026"
+    },
+    {
+      "id": 139911,
+      "event_category": "Futsal",
+      "title": "Indonesia vs IR Iran (AFC Futsal Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+      "team_1": "Indonesia",
+      "team_2": "IR Iran",
+      "status": "UPCOMING",
+      "event_name": "AFC Futsal Asian Cup, 2026",
+      "match_name": "Indonesia vs IR Iran",
+      "startTime": "05:30:00 PM 07-02-2026"
     },
     {
       "id": 131053,
