@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:26 AM 07-02-2026",
+  "last update time": "04:04 AM 07-02-2026",
   "matches": [
-    {
-      "id": 131050,
-      "event_category": "Football",
-      "title": "RC Celta vs CA Osasuna (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131050_5427_CEV_OSN_FC-Web.png",
-      "team_1": "RC Celta",
-      "team_2": "CA Osasuna",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "RC Celta vs CA Osasuna",
-      "startTime": "01:30:00 AM 07-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139348,
-      "event_category": "Football",
-      "title": "Charlton Athletic F.C vs Queens Park Rangers F.C. (EFL Championship 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139348_CASACARDS_APP.png",
-      "team_1": "Charlton Athletic F.C",
-      "team_2": "Queens Park Rangers F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
-      "startTime": "01:30:00 AM 07-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Gq6nfliAQ8G8iGJ22xOAEw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139348_english_hls_915c7c961552394_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140395,
       "event_category": "Golf",
@@ -86,6 +58,20 @@
       "startTime": "02:00:00 AM 07-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/d4DZPMMJRgGtAaTNm2Dlfw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140041_english_hls_231affc53d40363_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131050,
+      "event_category": "Football",
+      "title": "RC Celta vs CA Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131050_5427_CEV_OSN_FC-Web.png",
+      "team_1": "RC Celta",
+      "team_2": "CA Osasuna",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs CA Osasuna",
+      "startTime": "01:30:00 AM 07-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139625,
@@ -232,18 +218,6 @@
       "startTime": "09:30:00 AM 07-02-2026"
     },
     {
-      "id": 139405,
-      "event_category": "Football",
-      "title": "Brisbane Roar vs Central Coast Mariners (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png",
-      "team_1": "Brisbane Roar",
-      "team_2": "Central Coast Mariners",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Brisbane Roar vs Central Coast Mariners",
-      "startTime": "11:30:00 AM 07-02-2026"
-    },
-    {
       "id": 131053,
       "event_category": "Football",
       "title": "Sevilla FC vs Girona FC (LALIGA 2025-26)",
@@ -266,6 +240,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Qadsiah FC vs Al-Fateh SC",
       "startTime": "11:00:00 PM 07-02-2026"
+    },
+    {
+      "id": 139405,
+      "event_category": "Football",
+      "title": "Brisbane Roar vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png",
+      "team_1": "Brisbane Roar",
+      "team_2": "Central Coast Mariners",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Brisbane Roar vs Central Coast Mariners",
+      "startTime": "11:30:00 AM 07-02-2026"
     },
     {
       "id": 139423,
@@ -469,6 +455,18 @@
       "status": "UPCOMING",
       "event_name": "Women's Super League 2025-26",
       "match_name": "West Ham United Women vs Brighton and Hove Albion Women",
+      "startTime": "05:30:00 PM 08-02-2026"
+    },
+    {
+      "id": 140100,
+      "event_category": "Football",
+      "title": "London City Lionesses vs Everton Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140100_5826_LCL_EVE-W_FC-Web.jpg",
+      "team_1": "London City Lionesses",
+      "team_2": "Everton Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "London City Lionesses vs Everton Women",
       "startTime": "05:30:00 PM 08-02-2026"
     }
   ]
