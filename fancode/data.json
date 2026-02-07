@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:27 AM 08-02-2026",
+  "last update time": "04:06 AM 08-02-2026",
   "matches": [
-    {
-      "id": 131051,
-      "event_category": "Football",
-      "title": "Real Sociedad vs Elche CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131051_5427_RS_ELC_FC-Web.png",
-      "team_1": "Real Sociedad",
-      "team_2": "Elche CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Sociedad vs Elche CF",
-      "startTime": "01:30:00 AM 08-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131051_english_hls_8030b91e9f11951_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131051_english_hls_8030b91e9f11951_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140398,
       "event_category": "Golf",
@@ -72,6 +58,20 @@
       "startTime": "11:00:00 PM 07-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/d7TbECRGS6q-CeKyQHOnpA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140399_english_hls_e45485f74999421_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131051,
+      "event_category": "Football",
+      "title": "Real Sociedad vs Elche CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131051_5427_RS_ELC_FC-Web.png",
+      "team_1": "Real Sociedad",
+      "team_2": "Elche CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs Elche CF",
+      "startTime": "01:30:00 AM 08-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131051_english_hls_8030b91e9f11951_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131051_english_hls_8030b91e9f11951_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139351,
@@ -146,6 +146,18 @@
       "startTime": "06:30:00 PM 08-02-2026"
     },
     {
+      "id": 140102,
+      "event_category": "Football",
+      "title": "Tottenham Hotspur Women vs Chelsea F.C. Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140102_5826_TOT-W_CHE-W_FC-Web.jpg",
+      "team_1": "Tottenham Hotspur Women",
+      "team_2": "Chelsea F.C. Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Tottenham Hotspur Women vs Chelsea F.C. Women",
+      "startTime": "07:55:00 PM 08-02-2026"
+    },
+    {
       "id": 134033,
       "event_category": "Cricket",
       "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
@@ -182,18 +194,6 @@
       "startTime": "08:00:00 AM 05-02-2026"
     },
     {
-      "id": 140102,
-      "event_category": "Football",
-      "title": "Tottenham Hotspur Women vs Chelsea F.C. Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140102_5826_TOT-W_CHE-W_FC-Web.jpg",
-      "team_1": "Tottenham Hotspur Women",
-      "team_2": "Chelsea F.C. Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "Tottenham Hotspur Women vs Chelsea F.C. Women",
-      "startTime": "07:55:00 PM 08-02-2026"
-    },
-    {
       "id": 131053,
       "event_category": "Football",
       "title": "Sevilla FC vs Girona FC (LALIGA 2025-26)",
@@ -218,18 +218,6 @@
       "startTime": "08:45:00 PM 08-02-2026"
     },
     {
-      "id": 139425,
-      "event_category": "Football",
-      "title": "Adelaide United vs Newcastle Jets (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139425_CASACARDS_APP.png",
-      "team_1": "Adelaide United",
-      "team_2": "Newcastle Jets",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Adelaide United vs Newcastle Jets",
-      "startTime": "11:30:00 AM 08-02-2026"
-    },
-    {
       "id": 131058,
       "event_category": "Football",
       "title": "Atletico de Madrid vs Real Betis (LALIGA 2025-26)",
@@ -240,6 +228,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Atletico de Madrid vs Real Betis",
       "startTime": "11:00:00 PM 08-02-2026"
+    },
+    {
+      "id": 139425,
+      "event_category": "Football",
+      "title": "Adelaide United vs Newcastle Jets (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139425_CASACARDS_APP.png",
+      "team_1": "Adelaide United",
+      "team_2": "Newcastle Jets",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Adelaide United vs Newcastle Jets",
+      "startTime": "11:30:00 AM 08-02-2026"
     },
     {
       "id": 140430,
@@ -266,18 +266,6 @@
       "startTime": "07:30:00 PM 08-02-2026"
     },
     {
-      "id": 140429,
-      "event_category": "Football",
-      "title": "Cádiz vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_APP.png",
-      "team_1": "Cádiz",
-      "team_2": "Almería",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Cádiz vs Almería",
-      "startTime": "08:45:00 PM 08-02-2026"
-    },
-    {
       "id": 131054,
       "event_category": "Football",
       "title": "Valencia CF vs Real Madrid (LALIGA 2025-26)",
@@ -288,6 +276,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Valencia CF vs Real Madrid",
       "startTime": "01:30:00 AM 09-02-2026"
+    },
+    {
+      "id": 140429,
+      "event_category": "Football",
+      "title": "Cádiz vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_APP.png",
+      "team_1": "Cádiz",
+      "team_2": "Almería",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Cádiz vs Almería",
+      "startTime": "08:45:00 PM 08-02-2026"
     },
     {
       "id": 140323,
