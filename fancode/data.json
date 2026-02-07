@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:28 PM 07-02-2026",
+  "last update time": "02:14 PM 07-02-2026",
   "matches": [
     {
       "id": 134034,
@@ -18,18 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20716176_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139405,
+      "id": 139423,
       "event_category": "Football",
-      "title": "Brisbane Roar vs Central Coast Mariners (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png",
-      "team_1": "Brisbane Roar",
-      "team_2": "Central Coast Mariners",
+      "title": "Western Sydney Wanderers vs Melbourne City (A League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/139423_CASACARDS_APP.png",
+      "team_1": "Western Sydney Wanderers",
+      "team_2": "Melbourne City",
       "status": "LIVE",
       "event_name": "A League 2025-26",
-      "match_name": "Brisbane Roar vs Central Coast Mariners",
-      "startTime": "11:30:00 AM 07-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/dMpWBcsrSzGa8S5v-NsM-Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139405_english_hls_8fec9786a391797_1ta-di_h264/index.m3u8"
+      "match_name": "Western Sydney Wanderers vs Melbourne City",
+      "startTime": "02:05:00 PM 07-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/T2A9yT7JQqGrssx6zh6Ssg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139423_english_hls_9b3eecce5a68793_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140322,
@@ -44,18 +44,6 @@
       "startTime": "11:35:00 AM 07-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/3izYOidsSG-xGsZKOKzleA/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140322_english_hls_7871d97b5914503_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139423,
-      "event_category": "Football",
-      "title": "Western Sydney Wanderers vs Melbourne City (A League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1/139423_CASACARDS_APP.png",
-      "team_1": "Western Sydney Wanderers",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Western Sydney Wanderers vs Melbourne City",
-      "startTime": "02:05:00 PM 07-02-2026"
     },
     {
       "id": 139625,
@@ -82,6 +70,18 @@
       "startTime": "06:45:00 PM 07-02-2026"
     },
     {
+      "id": 139627,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Emirates D10, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Emirates D10, 2026",
+      "match_name": "TBC vs TBC",
+      "startTime": "10:30:00 PM 07-02-2026"
+    },
+    {
       "id": 140097,
       "event_category": "Football",
       "title": "Leicester City Women vs Manchester United Women (Women's Super League 2025-26)",
@@ -104,18 +104,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Derby County Football Club vs Ipswich Town F.C.",
       "startTime": "06:00:00 PM 07-02-2026"
-    },
-    {
-      "id": 139627,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Emirates D10, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Emirates D10, 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "10:30:00 PM 07-02-2026"
     },
     {
       "id": 131055,
@@ -464,6 +452,18 @@
       "event_name": "Scottish Cup 2025-26",
       "match_name": "Rangers vs Queen's Park",
       "startTime": "07:30:00 PM 08-02-2026"
+    },
+    {
+      "id": 131058,
+      "event_category": "Football",
+      "title": "Atletico de Madrid vs Real Betis (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131058_5427_ATL_RB_FC-Web.png",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Real Betis",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs Real Betis",
+      "startTime": "11:00:00 PM 08-02-2026"
     }
   ]
 }
