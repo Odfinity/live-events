@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:42 PM 07-02-2026",
+  "last update time": "04:17 PM 07-02-2026",
   "matches": [
-    {
-      "id": 134034,
-      "event_category": "Cricket",
-      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Western Australia",
-      "startTime": "08:00:00 AM 05-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/ta8E5YDSTvK7sN-KiejXDA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20716176_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 139423,
       "event_category": "Football",
@@ -106,18 +92,6 @@
       "startTime": "06:00:00 PM 07-02-2026"
     },
     {
-      "id": 131055,
-      "event_category": "Football",
-      "title": "Rayo Vallecano vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131055_5427_RVL_RO_FC-Web.png",
-      "team_1": "Rayo Vallecano",
-      "team_2": "Real Oviedo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Rayo Vallecano vs Real Oviedo",
-      "startTime": "06:30:00 PM 07-02-2026"
-    },
-    {
       "id": 139350,
       "event_category": "Football",
       "title": "Coventry City Football Club vs Oxford United (EFL Championship 2025-26)",
@@ -200,6 +174,18 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "New South Wales vs South Australia",
       "startTime": "05:00:00 AM 05-02-2026"
+    },
+    {
+      "id": 134034,
+      "event_category": "Cricket",
+      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "Western Australia",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Western Australia",
+      "startTime": "08:00:00 AM 05-02-2026"
     },
     {
       "id": 140292,
@@ -310,6 +296,18 @@
       "startTime": "05:30:00 PM 08-02-2026"
     },
     {
+      "id": 131056,
+      "event_category": "Football",
+      "title": "Deportivo Alaves vs Getafe CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
+      "team_1": "Deportivo Alaves",
+      "team_2": "Getafe CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Deportivo Alaves vs Getafe CF",
+      "startTime": "06:30:00 PM 08-02-2026"
+    },
+    {
       "id": 139911,
       "event_category": "Futsal",
       "title": "Indonesia vs IR Iran (AFC Futsal Asian Cup, 2026)",
@@ -382,18 +380,6 @@
       "startTime": "11:00:00 PM 07-02-2026"
     },
     {
-      "id": 131056,
-      "event_category": "Football",
-      "title": "Deportivo Alaves vs Getafe CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
-      "team_1": "Deportivo Alaves",
-      "team_2": "Getafe CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Deportivo Alaves vs Getafe CF",
-      "startTime": "06:30:00 PM 08-02-2026"
-    },
-    {
       "id": 140102,
       "event_category": "Football",
       "title": "Tottenham Hotspur Women vs Chelsea F.C. Women (Women's Super League 2025-26)",
@@ -406,18 +392,6 @@
       "startTime": "07:55:00 PM 08-02-2026"
     },
     {
-      "id": 140323,
-      "event_category": "Live Events",
-      "title": "Day 5 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-      "team_1": "Day 5",
-      "team_2": "Delhi",
-      "status": "UPCOMING",
-      "event_name": "Asian Rifle & Pistol Championship 2026",
-      "match_name": "Day 5",
-      "startTime": "10:50:00 AM 08-02-2026"
-    },
-    {
       "id": 140430,
       "event_category": "Football",
       "title": "Real Valladolid vs Castellón (LALIGA Hypermotion 2025-26)",
@@ -428,6 +402,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Real Valladolid vs Castellón",
       "startTime": "06:30:00 PM 08-02-2026"
+    },
+    {
+      "id": 140323,
+      "event_category": "Live Events",
+      "title": "Day 5 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+      "team_1": "Day 5",
+      "team_2": "Delhi",
+      "status": "UPCOMING",
+      "event_name": "Asian Rifle & Pistol Championship 2026",
+      "match_name": "Day 5",
+      "startTime": "10:50:00 AM 08-02-2026"
     },
     {
       "id": 131057,
@@ -452,6 +438,18 @@
       "event_name": "Scottish Cup 2025-26",
       "match_name": "Rangers vs Queen's Park",
       "startTime": "07:30:00 PM 08-02-2026"
+    },
+    {
+      "id": 140529,
+      "event_category": "Live Events",
+      "title": "BCPL Auction vs India (BCPL Auction)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "team_1": "BCPL Auction",
+      "team_2": "India",
+      "status": "UPCOMING",
+      "event_name": "BCPL Auction",
+      "match_name": "BCPL Auction",
+      "startTime": "02:45:00 PM 08-02-2026"
     },
     {
       "id": 131058,
