@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:28 AM 09-02-2026",
+  "last update time": "01:03 AM 09-02-2026",
   "matches": [
     {
-      "id": 131058,
+      "id": 131054,
       "event_category": "Football",
-      "title": "Atletico de Madrid vs Real Betis (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131058_5427_ATL_RB_FC-Web.png",
-      "team_1": "Atletico de Madrid",
-      "team_2": "Real Betis",
+      "title": "Valencia CF vs Real Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131054_5427_VAL_RM_FC-Web.png",
+      "team_1": "Valencia CF",
+      "team_2": "Real Madrid",
       "status": "LIVE",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs Real Betis",
-      "startTime": "11:00:00 PM 08-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131058_english_hls_d354bdbb394851_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131058_english_hls_d354bdbb394851_1ta-di_h264/index.m3u8"
+      "match_name": "Valencia CF vs Real Madrid",
+      "startTime": "01:30:00 AM 09-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131054_english_hls_6113cfa2ad24373_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131054_english_hls_6113cfa2ad24373_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140401,
@@ -74,16 +74,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140403_english_hls_4c21942d2238373_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 131054,
+      "id": 131058,
       "event_category": "Football",
-      "title": "Valencia CF vs Real Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131054_5427_VAL_RM_FC-Web.png",
-      "team_1": "Valencia CF",
-      "team_2": "Real Madrid",
-      "status": "UPCOMING",
+      "title": "Atletico de Madrid vs Real Betis (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131058_5427_ATL_RB_FC-Web.png",
+      "team_1": "Atletico de Madrid",
+      "team_2": "Real Betis",
+      "status": "LIVE",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Valencia CF vs Real Madrid",
-      "startTime": "01:30:00 AM 09-02-2026"
+      "match_name": "Atletico de Madrid vs Real Betis",
+      "startTime": "11:00:00 PM 08-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131058_english_hls_d354bdbb394851_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131058_english_hls_d354bdbb394851_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136080,
@@ -158,6 +160,18 @@
       "startTime": "01:30:00 AM 10-02-2026"
     },
     {
+      "id": 140431,
+      "event_category": "Football",
+      "title": "Racing Club vs Mirandés (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072517/140431_CASACARDS_APP.png",
+      "team_1": "Racing Club",
+      "team_2": "Mirandés",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Racing Club vs Mirandés",
+      "startTime": "01:00:00 AM 10-02-2026"
+    },
+    {
       "id": 140315,
       "event_category": "Live Events",
       "title": "Day 1 vs Delhi (Strikers Cup 2026)",
@@ -182,16 +196,16 @@
       "startTime": "10:50:00 AM 09-02-2026"
     },
     {
-      "id": 140431,
-      "event_category": "Football",
-      "title": "Racing Club vs Mirandés (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072517/140431_CASACARDS_APP.png",
-      "team_1": "Racing Club",
-      "team_2": "Mirandés",
+      "id": 133943,
+      "event_category": "Cricket",
+      "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133943_5606_NSW_SAU_fc-web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "South Australia",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing Club vs Mirandés",
-      "startTime": "01:00:00 AM 10-02-2026"
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "New South Wales vs South Australia",
+      "startTime": "04:30:00 AM 10-02-2026"
     },
     {
       "id": 140194,
@@ -216,18 +230,6 @@
       "event_name": "ATP 500 - ABN AMRO Open 2026",
       "match_name": "Centre Court",
       "startTime": "04:30:00 PM 09-02-2026"
-    },
-    {
-      "id": 133943,
-      "event_category": "Cricket",
-      "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/133943_5606_NSW_SAU_fc-web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "South Australia",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "New South Wales vs South Australia",
-      "startTime": "04:30:00 AM 10-02-2026"
     },
     {
       "id": 140201,
