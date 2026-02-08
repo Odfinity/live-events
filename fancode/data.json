@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:39 AM 08-02-2026",
+  "last update time": "09:38 AM 08-02-2026",
   "matches": [
-    {
-      "id": 134033,
-      "event_category": "Cricket",
-      "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
-      "team_1": "Queensland",
-      "team_2": "Victoria",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Queensland vs Victoria",
-      "startTime": "05:00:00 AM 05-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/L9xqliqzQ5WWVylQYHrxgw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134033_english_hls_2b9895c5277676_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 134032,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "05:00:00 AM 05-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/JyCK3huFTCeGRS2tLYZYrw/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134032_english_hls_046dbb137081325_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 134034,
+      "event_category": "Cricket",
+      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "Western Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs Western Australia",
+      "startTime": "08:00:00 AM 05-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/XWlmbo_YTH6LKfBgGyOZ3Q/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf2076148_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139351,
@@ -138,18 +138,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Levante",
       "startTime": "08:45:00 PM 08-02-2026"
-    },
-    {
-      "id": 134034,
-      "event_category": "Cricket",
-      "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs Western Australia",
-      "startTime": "08:00:00 AM 05-02-2026"
     },
     {
       "id": 131058,
@@ -269,18 +257,18 @@
       "status": "UPCOMING",
       "event_name": "WM Phoenix Open 2026",
       "match_name": "Main Feed - Day 4",
-      "startTime": "09:30:00 PM 08-02-2026"
+      "startTime": "09:15:00 PM 08-02-2026"
     },
     {
-      "id": 140403,
+      "id": 140402,
       "event_category": "Golf",
-      "title": "Featured Holes - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
+      "title": "Featured Groups - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
-      "team_1": "Featured Holes - Day 4",
+      "team_1": "Featured Groups - Day 4",
       "team_2": "TPC Scottsdale",
       "status": "UPCOMING",
       "event_name": "WM Phoenix Open 2026",
-      "match_name": "Featured Holes - Day 4",
+      "match_name": "Featured Groups - Day 4",
       "startTime": "10:15:00 PM 08-02-2026"
     },
     {
@@ -296,15 +284,15 @@
       "startTime": "10:30:00 PM 08-02-2026"
     },
     {
-      "id": 140402,
+      "id": 140403,
       "event_category": "Golf",
-      "title": "Featured Groups - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
+      "title": "Featured Holes - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
-      "team_1": "Featured Groups - Day 4",
+      "team_1": "Featured Holes - Day 4",
       "team_2": "TPC Scottsdale",
       "status": "UPCOMING",
       "event_name": "WM Phoenix Open 2026",
-      "match_name": "Featured Groups - Day 4",
+      "match_name": "Featured Holes - Day 4",
       "startTime": "10:30:00 PM 08-02-2026"
     },
     {
@@ -356,16 +344,28 @@
       "startTime": "07:15:00 PM 09-02-2026"
     },
     {
-      "id": 140187,
-      "event_category": "Tennis",
-      "title": "ATP 500 - Nexo Dallas Open vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
-      "team_1": "ATP 500 - Nexo Dallas Open",
-      "team_2": "Dallas, United States",
+      "id": 136082,
+      "event_category": "Football",
+      "title": "Al Duhail vs Sharjah (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136082_5647_ADH_SHJ_fc-Web.jpg",
+      "team_1": "Al Duhail",
+      "team_2": "Sharjah",
       "status": "UPCOMING",
-      "event_name": "ATP 500 - Nexo Dallas Open 2026",
-      "match_name": "ATP 500 - Nexo Dallas Open",
-      "startTime": "04:30:00 PM 09-02-2026"
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Duhail vs Sharjah",
+      "startTime": "09:30:00 PM 09-02-2026"
+    },
+    {
+      "id": 136081,
+      "event_category": "Football",
+      "title": "Shabab Al Ahli vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136081_5647_SAA_AHS_fc-Web.jpg",
+      "team_1": "Shabab Al Ahli",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Shabab Al Ahli vs Al Hilal SFC",
+      "startTime": "09:30:00 PM 09-02-2026"
     },
     {
       "id": 140201,
@@ -390,30 +390,6 @@
       "event_name": "ATP 500 - ABN AMRO Open 2026",
       "match_name": "ATP 500 - ABN AMRO Open",
       "startTime": "04:30:00 PM 09-02-2026"
-    },
-    {
-      "id": 136082,
-      "event_category": "Football",
-      "title": "Al Duhail vs Sharjah (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136082_5647_ADH_SHJ_fc-Web.jpg",
-      "team_1": "Al Duhail",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al Duhail vs Sharjah",
-      "startTime": "09:30:00 PM 09-02-2026"
-    },
-    {
-      "id": 136081,
-      "event_category": "Football",
-      "title": "Shabab Al Ahli vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136081_5647_SAA_AHS_fc-Web.jpg",
-      "team_1": "Shabab Al Ahli",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shabab Al Ahli vs Al Hilal SFC",
-      "startTime": "09:30:00 PM 09-02-2026"
     },
     {
       "id": 131052,
@@ -450,6 +426,30 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Racing Club vs Mirandés",
       "startTime": "01:00:00 AM 10-02-2026"
+    },
+    {
+      "id": 140187,
+      "event_category": "Tennis",
+      "title": "ATP 500 - Nexo Dallas Open vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+      "team_1": "ATP 500 - Nexo Dallas Open",
+      "team_2": "Dallas, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Nexo Dallas Open 2026",
+      "match_name": "ATP 500 - Nexo Dallas Open",
+      "startTime": "10:30:00 PM 09-02-2026"
+    },
+    {
+      "id": 133943,
+      "event_category": "Cricket",
+      "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/133943_5606_NSW_SAU_fc-web.jpg",
+      "team_1": "New South Wales",
+      "team_2": "South Australia",
+      "status": "UPCOMING",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "New South Wales vs South Australia",
+      "startTime": "04:30:00 AM 10-02-2026"
     }
   ]
 }
