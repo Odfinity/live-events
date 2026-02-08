@@ -1,6 +1,25 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:31 PM 08-02-2026",
-  "matches": []
+  "last update time": "02:18 PM 08-02-2026",
+  "matches": [
+    {
+      "id": "sl1090503424",
+      "isLive": true,
+      "event": "DP World Tour",
+      "match": "Qatar Masters Day 4 - 8 Feb 2026",
+      "Provider": "PGA European Tour Productions Limited",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014812/1770116887759170_DPworld_tour_Qatar_Masters_Day4_3feb_landscape_thumb.jpg",
+      "genre": "Golf",
+      "language": "en",
+      "venue": "",
+      "TVchannel": "LIV",
+      "SeoTags": "DP World Tour,European Tour,Professional Golf,Golf Tournament,Golf Championship,Golf Leaderboard,Golf Highlights,Golf Results,Golf Standings,Golf Rankings,Golf Action,Live Golf,Golf Coverage,Golf Season,Golf Schedule,Golf Stars,Tour Contenders,Title Race,Final Round,Golf Playoff,Golf Course,Championship Course,International Golf,Men’s Golf,Golf Event,Golf Drama,Golf Showdown,Golf Tourney,Golf Live Stream,Golf Updates,Golf Competition,DPWT Action,sports_adsupported,nopreroll_livectv,dplive_worldasiagolf26,Qatar Masters Day 2,DPWorldTour",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090503424.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090503424.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090503424.m3u8",
+      "sus": "hdntl=exp=1770626655~acl=%2f*~id=45314170446568643106870580045982~data=hdntl,2094587,DAI03ME-V3,none~hmac=bfb15732ad2986b88182989caee57154c92f5463332636959b4cd8323115852c",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    }
+  ]
 }
