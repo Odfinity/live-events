@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 08-02-2026",
+  "last update time": "06:10 PM 08-02-2026",
   "matches": [
     {
       "id": "sl1090503424",
@@ -18,7 +18,25 @@
       "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090503424.m3u8",
       "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090503424.m3u8",
       "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090503424.m3u8",
-      "sus": "hdntl=exp=1770637815~acl=%2f*~id=61284086851658755853645530808031~data=hdntl,2094587,DAI03ME-V3,none~hmac=d735b5f8e77dcf90c3b960c86250f9cf371ee89b1339d8a20623e60375f3412f",
+      "sus": "hdntl=exp=1770640695~acl=%2f*~id=03831171147800272170580180545029~data=hdntl,2094587,DAI03ME-V3,none~hmac=6fb88411cadad28d18efe2da68bfafab92eef3eab787c8188bf46ed0c4b7bd51",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090503430",
+      "isLive": true,
+      "event": "World Pickleball League 2026",
+      "match": "Chennai Super Champs vs Dilli Dillwale - Final - 8 Feb 2026",
+      "Provider": "NATEKAR SPORTS AND GAMING PRIVATE LIMITED",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014958/1770497709076993_WPBL26_final_Chennai_Super_Champs_vs_Dilli_Dillwale_8feb_landscape_thumb.jpg",
+      "genre": "Pickleball",
+      "language": "en",
+      "venue": "Jio World Garden, Mumbai",
+      "TVchannel": "LIV",
+      "SeoTags": "World Pickleball League 2026,WPBL Season 2,Mumbai Jio World Garden,Jaipur Djinns,Bengaluru Jawans,Pune United,Mumbai Pickle Power,Hyderabad Superstars,Chennai Super Champs,Dilli Dillwale,Simone Jardim,global pickleball league India,franchise pickleball teams India,international pickleball players 2026,WPBL schedule,All India Pickleball Association,pickleball,pickleball tournaments,pickleball sport,world pickleball league,pickleball league,santhosh narayanan,quan do,max green,kat stewart,vrushali thakare,pickleball world championship,nopreroll_livectv,sports_adsupported,Live26_PickleballLeague,World_pickleball_league_2026_Live,Chennai Super Champs vs Dilli Dillwale,WorldPickleballLeague2026",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090503430.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090503430.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090503430.m3u8",
+      "sus": "hdntl=exp=1770640704~acl=%2f*~id=03831171147800272170580180545029~data=hdntl,2022319,DAI15ME-V3,none~hmac=b66d3c1cda498b22c4fceb416ac0b4fb8b4df53bf29320d3c99d46aa44eedc29",
       "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
   ]
