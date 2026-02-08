@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:39 PM 08-02-2026",
+  "last update time": "07:24 PM 08-02-2026",
   "matches": [
     {
       "id": 139351,
@@ -116,18 +116,6 @@
       "adfree_url": null
     },
     {
-      "id": 140294,
-      "event_category": "Football",
-      "title": "Rangers vs Queen's Park (Scottish Cup 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Rangers",
-      "team_2": "Queen's Park",
-      "status": "UPCOMING",
-      "event_name": "Scottish Cup 2025-26",
-      "match_name": "Rangers vs Queen's Park",
-      "startTime": "07:30:00 PM 08-02-2026"
-    },
-    {
       "id": 140102,
       "event_category": "Football",
       "title": "Tottenham Hotspur Women vs Chelsea F.C. Women (Women's Super League 2025-26)",
@@ -138,6 +126,18 @@
       "event_name": "Women's Super League 2025-26",
       "match_name": "Tottenham Hotspur Women vs Chelsea F.C. Women",
       "startTime": "07:55:00 PM 08-02-2026"
+    },
+    {
+      "id": 140294,
+      "event_category": "Football",
+      "title": "Rangers vs Queen's Park (Scottish Cup 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Rangers",
+      "team_2": "Queen's Park",
+      "status": "UPCOMING",
+      "event_name": "Scottish Cup 2025-26",
+      "match_name": "Rangers vs Queen's Park",
+      "startTime": "07:30:00 PM 08-02-2026"
     },
     {
       "id": 131053,
@@ -206,10 +206,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
       "team_1": "Finals",
       "team_2": "Montpellier, France",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ATP 250 - Open Occitanie 2026",
       "match_name": "Finals",
-      "startTime": "07:30:00 PM 08-02-2026"
+      "startTime": "07:30:00 PM 08-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/VDZoCPxDSAqKKRQnKnKwDA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140186_english_hls_8e47b2787f27163_1ta-di_h264/index.m3u8"
     },
     {
       "id": 136080,
@@ -234,6 +236,30 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Nasaf vs Al Shorta",
       "startTime": "07:15:00 PM 09-02-2026"
+    },
+    {
+      "id": 136082,
+      "event_category": "Football",
+      "title": "Al Duhail vs Sharjah (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136082_5647_ADH_SHJ_fc-Web.jpg",
+      "team_1": "Al Duhail",
+      "team_2": "Sharjah",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Duhail vs Sharjah",
+      "startTime": "09:30:00 PM 09-02-2026"
+    },
+    {
+      "id": 136081,
+      "event_category": "Football",
+      "title": "Shabab Al Ahli vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/136081_5647_SAA_AHS_fc-Web.jpg",
+      "team_1": "Shabab Al Ahli",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Shabab Al Ahli vs Al Hilal SFC",
+      "startTime": "09:30:00 PM 09-02-2026"
     },
     {
       "id": 140401,
@@ -282,30 +308,6 @@
       "event_name": "WM Phoenix Open 2026",
       "match_name": "Featured Holes - Day 4",
       "startTime": "10:30:00 PM 08-02-2026"
-    },
-    {
-      "id": 136082,
-      "event_category": "Football",
-      "title": "Al Duhail vs Sharjah (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136082_5647_ADH_SHJ_fc-Web.jpg",
-      "team_1": "Al Duhail",
-      "team_2": "Sharjah",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al Duhail vs Sharjah",
-      "startTime": "09:30:00 PM 09-02-2026"
-    },
-    {
-      "id": 136081,
-      "event_category": "Football",
-      "title": "Shabab Al Ahli vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136081_5647_SAA_AHS_fc-Web.jpg",
-      "team_1": "Shabab Al Ahli",
-      "team_2": "Al Hilal SFC",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shabab Al Ahli vs Al Hilal SFC",
-      "startTime": "09:30:00 PM 09-02-2026"
     },
     {
       "id": 140315,
