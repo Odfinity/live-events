@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:11 AM 10-02-2026",
+  "last update time": "04:53 AM 10-02-2026",
   "matches": [
     {
-      "id": 140541,
-      "event_category": "Tennis",
-      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "Centre Court",
-      "team_2": "Rotterdam, Netherlands",
+      "id": 133943,
+      "event_category": "Cricket",
+      "title": "South Australia vs New South Wales (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg",
+      "team_1": "South Australia",
+      "team_2": "New South Wales",
       "status": "LIVE",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Centre Court",
-      "startTime": "05:30:00 PM 09-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/Il0Jojv7RDK0FEOGWBrakw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140541_english_hls_fecb6abd2f83486_1ta-di_h264/index.m3u8"
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "South Australia vs New South Wales",
+      "startTime": "04:30:00 AM 10-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/VE4NzIhdTZK60nE3FYJPcQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133943_english_hls_9eed4fb7a459528_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140201,
@@ -72,32 +72,6 @@
       "startTime": "11:30:00 PM 09-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/wqPMZRrdQ6GZ2EP4gLvW4A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140531_english_hls_0ec584619423979_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131052,
-      "event_category": "Football",
-      "title": "Villarreal CF vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131052_5427_VIL_ESL_FC-Web.png",
-      "team_1": "Villarreal CF",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Villarreal CF vs RCD Espanyol",
-      "startTime": "01:30:00 AM 10-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131052_english_hls_5165f5be2816905_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131052_english_hls_5165f5be2816905_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133943,
-      "event_category": "Cricket",
-      "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg",
-      "team_1": "New South Wales",
-      "team_2": "South Australia",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "New South Wales vs South Australia",
-      "startTime": "04:30:00 AM 10-02-2026"
     },
     {
       "id": 133945,
@@ -184,18 +158,6 @@
       "startTime": "11:45:00 PM 10-02-2026"
     },
     {
-      "id": 140052,
-      "event_category": "Football",
-      "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140052_5648_ESG_HUS_FC-Web.jpg",
-      "team_1": "Esteghlal FC",
-      "team_2": "Al Hussein",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Esteghlal FC vs Al Hussein",
-      "startTime": "07:15:00 PM 10-02-2026"
-    },
-    {
       "id": 139000,
       "event_category": "Football",
       "title": "Hertha BSC vs SC Freiburg (DFB Pokal 2025-26)",
@@ -206,6 +168,18 @@
       "event_name": "DFB Pokal 2025-26",
       "match_name": "Hertha BSC vs SC Freiburg",
       "startTime": "01:15:00 AM 11-02-2026"
+    },
+    {
+      "id": 139170,
+      "event_category": "Golf",
+      "title": "The Bay vs Los Angeles vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "The Bay vs Los Angeles",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "The Bay vs Los Angeles",
+      "startTime": "05:30:00 AM 10-02-2026"
     },
     {
       "id": 140526,
@@ -220,6 +194,18 @@
       "startTime": "01:30:00 AM 11-02-2026"
     },
     {
+      "id": 140052,
+      "event_category": "Football",
+      "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140052_5648_ESG_HUS_FC-Web.jpg",
+      "team_1": "Esteghlal FC",
+      "team_2": "Al Hussein",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Esteghlal FC vs Al Hussein",
+      "startTime": "07:15:00 PM 10-02-2026"
+    },
+    {
       "id": 140053,
       "event_category": "Football",
       "title": "AL Zawraa SC vs Al Wasl (AFC Champions League Two 2025-26)",
@@ -230,18 +216,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "AL Zawraa SC vs Al Wasl",
       "startTime": "09:30:00 PM 10-02-2026"
-    },
-    {
-      "id": 139170,
-      "event_category": "Golf",
-      "title": "The Bay vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "The Bay vs Los Angeles",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "The Bay vs Los Angeles",
-      "startTime": "05:30:00 AM 10-02-2026"
     },
     {
       "id": 140316,
@@ -328,6 +302,18 @@
       "startTime": "08:30:00 PM 10-02-2026"
     },
     {
+      "id": 140373,
+      "event_category": "Football",
+      "title": "Pumas UNAM vs San Diego (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140373_5954_UNAM_SD_FC-Web.jpg",
+      "team_1": "Pumas UNAM",
+      "team_2": "San Diego",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Pumas UNAM vs San Diego",
+      "startTime": "06:30:00 AM 11-02-2026"
+    },
+    {
       "id": 140188,
       "event_category": "Tennis",
       "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
@@ -362,18 +348,6 @@
       "event_name": "ATP 500 - Nexo Dallas Open 2026",
       "match_name": "Grandstand",
       "startTime": "10:30:00 PM 10-02-2026"
-    },
-    {
-      "id": 140373,
-      "event_category": "Football",
-      "title": "Pumas UNAM vs San Diego (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140373_5954_UNAM_SD_FC-Web.jpg",
-      "team_1": "Pumas UNAM",
-      "team_2": "San Diego",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Pumas UNAM vs San Diego",
-      "startTime": "06:30:00 AM 11-02-2026"
     },
     {
       "id": 140374,
@@ -469,6 +443,30 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - ABN AMRO Open 2026",
       "match_name": "World Feed",
+      "startTime": "02:30:00 PM 11-02-2026"
+    },
+    {
+      "id": 140546,
+      "event_category": "Tennis",
+      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Centre Court",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Centre Court",
+      "startTime": "02:30:00 PM 11-02-2026"
+    },
+    {
+      "id": 140545,
+      "event_category": "Tennis",
+      "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Court 1",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Court 1",
       "startTime": "02:30:00 PM 11-02-2026"
     }
   ]
