@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:12 PM 09-02-2026",
+  "last update time": "05:04 PM 09-02-2026",
   "matches": [
     {
       "id": 140315,
@@ -14,14 +14,14 @@
       "event_name": "Strikers Cup 2026",
       "match_name": "Day 1",
       "startTime": "08:30:00 AM 09-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/0GaleagcTUWqJunABuwtPw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140315_english_hls_0c2d07557c80676_1ta-di_h264/index.m3u8"
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 136080,
       "event_category": "Football",
       "title": "Al Wahda vs Al-Ahli Saudi FC (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136080_5647_ALW_AAS_fc-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Al-Wahda-vs-Al-Ahli_1770633912121.png",
       "team_1": "Al Wahda",
       "team_2": "Al-Ahli Saudi FC",
       "status": "UPCOMING",
@@ -33,7 +33,7 @@
       "id": 136079,
       "event_category": "Football",
       "title": "Nasaf vs Al Shorta (AFC Champions League Elite 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770632229928/136079_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/08_Nasaf-vs-Al-Shorta.png",
       "team_1": "Nasaf",
       "team_2": "Al Shorta",
       "status": "UPCOMING",
@@ -45,7 +45,7 @@
       "id": 136082,
       "event_category": "Football",
       "title": "Al Duhail vs Sharjah (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136082_5647_ADH_SHJ_fc-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/09_Al-Duhail-vs-Sharjah_1770634292017.png",
       "team_1": "Al Duhail",
       "team_2": "Sharjah",
       "status": "UPCOMING",
@@ -57,7 +57,7 @@
       "id": 136081,
       "event_category": "Football",
       "title": "Shabab Al Ahli vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136081_5647_SAA_AHS_fc-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/10_Shabab-Al-Ahli-vs-Al-Ahli_1770634417417.png",
       "team_1": "Shabab Al Ahli",
       "team_2": "Al Hilal SFC",
       "status": "UPCOMING",
@@ -126,54 +126,6 @@
       "startTime": "01:00:00 AM 10-02-2026"
     },
     {
-      "id": 136032,
-      "event_category": "Football",
-      "title": "Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136032_5647_HIR_JDT_fc-Web.jpg",
-      "team_1": "Sanfrecce Hiroshima",
-      "team_2": "Johor Darul Ta'zim",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim",
-      "startTime": "03:30:00 PM 10-02-2026"
-    },
-    {
-      "id": 136031,
-      "event_category": "Football",
-      "title": "Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136031_5647_VIS_SE_fc-Web.jpg",
-      "team_1": "Vissel Kobe",
-      "team_2": "Seoul",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Vissel Kobe vs Seoul",
-      "startTime": "03:30:00 PM 10-02-2026"
-    },
-    {
-      "id": 136034,
-      "event_category": "Football",
-      "title": "Chengdu Rongcheng vs Buriram United (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136034_5647_CR_BU_fc-Web.jpg",
-      "team_1": "Chengdu Rongcheng",
-      "team_2": "Buriram United",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Chengdu Rongcheng vs Buriram United",
-      "startTime": "05:45:00 PM 10-02-2026"
-    },
-    {
-      "id": 136033,
-      "event_category": "Football",
-      "title": "Shanghai Shenhua vs Machida Zelvia (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136033_5647_SHN_MZ_fc-Web.jpg",
-      "team_1": "Shanghai Shenhua",
-      "team_2": "Machida Zelvia",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shanghai Shenhua vs Machida Zelvia",
-      "startTime": "05:45:00 PM 10-02-2026"
-    },
-    {
       "id": 140194,
       "event_category": "Tennis",
       "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
@@ -196,6 +148,54 @@
       "event_name": "ATP 500 - ABN AMRO Open 2026",
       "match_name": "Centre Court",
       "startTime": "05:30:00 PM 09-02-2026"
+    },
+    {
+      "id": 136032,
+      "event_category": "Football",
+      "title": "Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/11_Sanfrecce-Hiroshima-vs-Johor-Darul-Ta'zim_1770634775101.png",
+      "team_1": "Sanfrecce Hiroshima",
+      "team_2": "Johor Darul Ta'zim",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim",
+      "startTime": "03:30:00 PM 10-02-2026"
+    },
+    {
+      "id": 136031,
+      "event_category": "Football",
+      "title": "Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/12_Vissel-Kobe-vs-Seoul_1770634622987.png",
+      "team_1": "Vissel Kobe",
+      "team_2": "Seoul",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Vissel Kobe vs Seoul",
+      "startTime": "03:30:00 PM 10-02-2026"
+    },
+    {
+      "id": 136034,
+      "event_category": "Football",
+      "title": "Chengdu Rongcheng vs Buriram United (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/13_Chengdu-Rongcheng-vs-Buriram-United_1770634905561.png",
+      "team_1": "Chengdu Rongcheng",
+      "team_2": "Buriram United",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Chengdu Rongcheng vs Buriram United",
+      "startTime": "05:45:00 PM 10-02-2026"
+    },
+    {
+      "id": 136033,
+      "event_category": "Football",
+      "title": "Shanghai Shenhua vs Machida Zelvia (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/14_Shanghai-Shenhua-vs-Machida_1770635246976.png",
+      "team_1": "Shanghai Shenhua",
+      "team_2": "Machida Zelvia",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Shanghai Shenhua vs Machida Zelvia",
+      "startTime": "05:45:00 PM 10-02-2026"
     },
     {
       "id": 140201,
@@ -270,18 +270,6 @@
       "startTime": "08:30:00 AM 10-02-2026"
     },
     {
-      "id": 140325,
-      "event_category": "Live Events",
-      "title": "Day 7 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-      "team_1": "Day 7",
-      "team_2": "Delhi",
-      "status": "UPCOMING",
-      "event_name": "Asian Rifle & Pistol Championship 2026",
-      "match_name": "Day 7",
-      "startTime": "12:05:00 PM 10-02-2026"
-    },
-    {
       "id": 140052,
       "event_category": "Football",
       "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
@@ -297,13 +285,25 @@
       "id": 136083,
       "event_category": "Football",
       "title": "Tractor vs Al Sadd (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136083_5647_TFC_SDD_fc-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/15_Tractor-SC-vs-Al-Sadd_1770635555960.png",
       "team_1": "Tractor",
       "team_2": "Al Sadd",
       "status": "UPCOMING",
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Tractor vs Al Sadd",
       "startTime": "09:30:00 PM 10-02-2026"
+    },
+    {
+      "id": 140325,
+      "event_category": "Live Events",
+      "title": "Day 7 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+      "team_1": "Day 7",
+      "team_2": "Delhi",
+      "status": "UPCOMING",
+      "event_name": "Asian Rifle & Pistol Championship 2026",
+      "match_name": "Day 7",
+      "startTime": "12:05:00 PM 10-02-2026"
     },
     {
       "id": 140544,
@@ -369,7 +369,7 @@
       "id": 136084,
       "event_category": "Football",
       "title": "Al-Ittihad vs Al Gharafa (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/136084_5647_ITT_AGH_fc-Web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/16_Al-Ittihad-vs--Al-Gharafa_1770635658022.png",
       "team_1": "Al-Ittihad",
       "team_2": "Al Gharafa",
       "status": "UPCOMING",
