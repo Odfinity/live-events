@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:06 PM 10-02-2026",
+  "last update time": "07:36 PM 10-02-2026",
   "matches": [
-    {
-      "id": 133945,
-      "event_category": "Cricket",
-      "title": "Tasmania vs Western Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Tasmania_fc-web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Tasmania vs Western Australia",
-      "startTime": "11:30:00 AM 10-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/R18nUOgFTpSxvKNL0gOZ8Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133945_english_hls_a1fc7b8e5440632_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 136034,
       "event_category": "Football",
@@ -44,6 +30,20 @@
       "startTime": "05:45:00 PM 10-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/_9DTuTVER66N9by47gcsdQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136033_english_hls_1be6d4e79450911_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140052,
+      "event_category": "Football",
+      "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140052_5648_ESG_HUS_FC-Web.jpg",
+      "team_1": "Esteghlal FC",
+      "team_2": "Al Hussein",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Esteghlal FC vs Al Hussein",
+      "startTime": "07:15:00 PM 10-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/sv_n5EQ4S9Gyp_YIhmnVuQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140052_english_hls_396fea820c27432_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140543,
@@ -150,18 +150,6 @@
       "startTime": "01:30:00 AM 11-02-2026"
     },
     {
-      "id": 140052,
-      "event_category": "Football",
-      "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140052_5648_ESG_HUS_FC-Web.jpg",
-      "team_1": "Esteghlal FC",
-      "team_2": "Al Hussein",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Esteghlal FC vs Al Hussein",
-      "startTime": "07:15:00 PM 10-02-2026"
-    },
-    {
       "id": 140053,
       "event_category": "Football",
       "title": "AL Zawraa SC vs Al Wasl (AFC Champions League Two 2025-26)",
@@ -184,18 +172,6 @@
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "Pumas UNAM vs San Diego",
       "startTime": "06:30:00 AM 11-02-2026"
-    },
-    {
-      "id": 140374,
-      "event_category": "Football",
-      "title": "Tigres vs Forge (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140374_5954_TIG_FOR_FC-Web.jpg",
-      "team_1": "Tigres",
-      "team_2": "Forge",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Tigres vs Forge",
-      "startTime": "08:30:00 AM 11-02-2026"
     },
     {
       "id": 136036,
@@ -222,6 +198,18 @@
       "startTime": "03:30:00 PM 11-02-2026"
     },
     {
+      "id": 140374,
+      "event_category": "Football",
+      "title": "Tigres vs Forge (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140374_5954_TIG_FOR_FC-Web.jpg",
+      "team_1": "Tigres",
+      "team_2": "Forge",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Tigres vs Forge",
+      "startTime": "08:30:00 AM 11-02-2026"
+    },
+    {
       "id": 140055,
       "event_category": "Football",
       "title": "Cong An Ha Noi vs Tampines Rovers FC (AFC Champions League Two 2025-26)",
@@ -244,6 +232,18 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Ratchaburi vs Persib Bandung",
       "startTime": "05:45:00 PM 11-02-2026"
+    },
+    {
+      "id": 140056,
+      "event_category": "Football",
+      "title": "FC Arkadag vs Al-Nassr FC (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--FK-Arkadag-v-AL-Nassr-old.jpg",
+      "team_1": "FC Arkadag",
+      "team_2": "Al-Nassr FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "FC Arkadag vs Al-Nassr FC",
+      "startTime": "07:15:00 PM 11-02-2026"
     },
     {
       "id": 140202,
@@ -294,18 +294,6 @@
       "startTime": "11:30:00 PM 10-02-2026"
     },
     {
-      "id": 140056,
-      "event_category": "Football",
-      "title": "FC Arkadag vs Al-Nassr FC (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140056_5648_ARK_ANF_FC-Web.jpg",
-      "team_1": "FC Arkadag",
-      "team_2": "Al-Nassr FC",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "FC Arkadag vs Al-Nassr FC",
-      "startTime": "07:15:00 PM 11-02-2026"
-    },
-    {
       "id": 140317,
       "event_category": "Live Events",
       "title": "Day 3 vs Delhi (Strikers Cup 2026)",
@@ -318,6 +306,18 @@
       "startTime": "09:00:00 AM 11-02-2026"
     },
     {
+      "id": 140406,
+      "event_category": "Football",
+      "title": "Oud-Heverlee Leuven Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
+      "team_1": "Oud-Heverlee Leuven Women",
+      "team_2": "Arsenal Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Oud-Heverlee Leuven Women vs Arsenal Women",
+      "startTime": "11:15:00 PM 11-02-2026"
+    },
+    {
       "id": 140326,
       "event_category": "Live Events",
       "title": "Day 8 vs Delhi (Asian Rifle & Pistol Championship 2026)",
@@ -328,6 +328,18 @@
       "event_name": "Asian Rifle & Pistol Championship 2026",
       "match_name": "Day 8",
       "startTime": "12:20:00 PM 11-02-2026"
+    },
+    {
+      "id": 140057,
+      "event_category": "Football",
+      "title": "Sepahan vs Al-Ahli Saudi FC (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140057_5648_SEP_AAS_FC-Web.jpg",
+      "team_1": "Sepahan",
+      "team_2": "Al-Ahli Saudi FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Sepahan vs Al-Ahli Saudi FC",
+      "startTime": "09:30:00 PM 11-02-2026"
     },
     {
       "id": 140196,
@@ -364,30 +376,6 @@
       "event_name": "ATP 500 - ABN AMRO Open 2026",
       "match_name": "Court 1",
       "startTime": "02:30:00 PM 11-02-2026"
-    },
-    {
-      "id": 140406,
-      "event_category": "Football",
-      "title": "Oud-Heverlee Leuven Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
-      "team_1": "Oud-Heverlee Leuven Women",
-      "team_2": "Arsenal Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Oud-Heverlee Leuven Women vs Arsenal Women",
-      "startTime": "11:15:00 PM 11-02-2026"
-    },
-    {
-      "id": 140057,
-      "event_category": "Football",
-      "title": "Sepahan vs Al-Ahli Saudi FC (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140057_5648_SEP_AAS_FC-Web.jpg",
-      "team_1": "Sepahan",
-      "team_2": "Al-Ahli Saudi FC",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Sepahan vs Al-Ahli Saudi FC",
-      "startTime": "09:30:00 PM 11-02-2026"
     },
     {
       "id": 140109,
@@ -471,6 +459,18 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - Nexo Dallas Open 2026",
       "match_name": "World Feed",
+      "startTime": "10:30:00 PM 11-02-2026"
+    },
+    {
+      "id": 140535,
+      "event_category": "Tennis",
+      "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+      "team_1": "Center Court",
+      "team_2": "Dallas, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Nexo Dallas Open 2026",
+      "match_name": "Center Court",
       "startTime": "10:30:00 PM 11-02-2026"
     }
   ]
