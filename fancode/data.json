@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:56 AM 11-02-2026",
+  "last update time": "04:39 AM 11-02-2026",
   "matches": [
-    {
-      "id": 139000,
-      "event_category": "Football",
-      "title": "Hertha BSC vs SC Freiburg (DFB Pokal 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/03_Hertha-BSC-vs-SC-Freiburg_1769793016237.png",
-      "team_1": "Hertha BSC",
-      "team_2": "SC Freiburg",
-      "status": "LIVE",
-      "event_name": "DFB Pokal 2025-26",
-      "match_name": "Hertha BSC vs SC Freiburg",
-      "startTime": "01:15:00 AM 11-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/YTlPjxBxTvKa5At3vsUWrw/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139000_english_hls_1da02b1cf413076_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140543,
       "event_category": "Tennis",
@@ -138,18 +124,6 @@
       "startTime": "06:30:00 AM 11-02-2026"
     },
     {
-      "id": 140374,
-      "event_category": "Football",
-      "title": "Tigres vs Forge (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140374_5954_TIG_FOR_FC-Web.jpg",
-      "team_1": "Tigres",
-      "team_2": "Forge",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Tigres vs Forge",
-      "startTime": "08:30:00 AM 11-02-2026"
-    },
-    {
       "id": 140406,
       "event_category": "Football",
       "title": "Oud-Heverlee Leuven Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
@@ -160,6 +134,18 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Oud-Heverlee Leuven Women vs Arsenal Women",
       "startTime": "11:15:00 PM 11-02-2026"
+    },
+    {
+      "id": 140374,
+      "event_category": "Football",
+      "title": "Tigres vs Forge (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140374_5954_TIG_FOR_FC-Web.jpg",
+      "team_1": "Tigres",
+      "team_2": "Forge",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Tigres vs Forge",
+      "startTime": "08:30:00 AM 11-02-2026"
     },
     {
       "id": 140055,
@@ -342,6 +328,18 @@
       "startTime": "08:30:00 PM 11-02-2026"
     },
     {
+      "id": 140375,
+      "event_category": "Football",
+      "title": "Club América vs Olimpia (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140375_5954_AME_OL_FC-Web.jpg",
+      "team_1": "Club América",
+      "team_2": "Olimpia",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Club América vs Olimpia",
+      "startTime": "06:30:00 AM 12-02-2026"
+    },
+    {
       "id": 140189,
       "event_category": "Tennis",
       "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
@@ -376,18 +374,6 @@
       "event_name": "ATP 500 - Nexo Dallas Open 2026",
       "match_name": "Grandstand",
       "startTime": "10:30:00 PM 11-02-2026"
-    },
-    {
-      "id": 140375,
-      "event_category": "Football",
-      "title": "Club América vs Olimpia (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140375_5954_AME_OL_FC-Web.jpg",
-      "team_1": "Club América",
-      "team_2": "Olimpia",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Club América vs Olimpia",
-      "startTime": "06:30:00 AM 12-02-2026"
     },
     {
       "id": 140376,
@@ -471,6 +457,18 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - ABN AMRO Open 2026",
       "match_name": "World Feed",
+      "startTime": "02:30:00 PM 12-02-2026"
+    },
+    {
+      "id": 140548,
+      "event_category": "Tennis",
+      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Centre Court",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Centre Court",
       "startTime": "02:30:00 PM 12-02-2026"
     }
   ]
