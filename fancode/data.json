@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:53 AM 10-02-2026",
+  "last update time": "05:31 AM 10-02-2026",
   "matches": [
     {
       "id": 133943,
@@ -72,6 +72,20 @@
       "startTime": "11:30:00 PM 09-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/wqPMZRrdQ6GZ2EP4gLvW4A/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140531_english_hls_0ec584619423979_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139170,
+      "event_category": "Golf",
+      "title": "The Bay vs Los Angeles vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "The Bay vs Los Angeles",
+      "team_2": "Florida",
+      "status": "LIVE",
+      "event_name": "TGL Season 2",
+      "match_name": "The Bay vs Los Angeles",
+      "startTime": "05:30:00 AM 10-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/7awzzitdT5ueGq4iLs28Bw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139170_english_hls_b083c3d58f92363_1ta-di_h264/index.m3u8"
     },
     {
       "id": 133945,
@@ -168,18 +182,6 @@
       "event_name": "DFB Pokal 2025-26",
       "match_name": "Hertha BSC vs SC Freiburg",
       "startTime": "01:15:00 AM 11-02-2026"
-    },
-    {
-      "id": 139170,
-      "event_category": "Golf",
-      "title": "The Bay vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "The Bay vs Los Angeles",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "The Bay vs Los Angeles",
-      "startTime": "05:30:00 AM 10-02-2026"
     },
     {
       "id": 140526,
@@ -290,18 +292,6 @@
       "startTime": "04:30:00 PM 10-02-2026"
     },
     {
-      "id": 140202,
-      "event_category": "Tennis",
-      "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-      "team_1": "Cancha Guillermo Vilas",
-      "team_2": "Buenos Aires, Argentina",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - IEB+ Argentina Open 2026",
-      "match_name": "Cancha Guillermo Vilas",
-      "startTime": "08:30:00 PM 10-02-2026"
-    },
-    {
       "id": 140373,
       "event_category": "Football",
       "title": "Pumas UNAM vs San Diego (CONCACAF Champions Cup 2026)",
@@ -312,6 +302,18 @@
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "Pumas UNAM vs San Diego",
       "startTime": "06:30:00 AM 11-02-2026"
+    },
+    {
+      "id": 140202,
+      "event_category": "Tennis",
+      "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+      "team_1": "Cancha Guillermo Vilas",
+      "team_2": "Buenos Aires, Argentina",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - IEB+ Argentina Open 2026",
+      "match_name": "Cancha Guillermo Vilas",
+      "startTime": "08:30:00 PM 10-02-2026"
     },
     {
       "id": 140188,
