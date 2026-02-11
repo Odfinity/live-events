@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:18 AM 12-02-2026",
+  "last update time": "03:46 AM 12-02-2026",
   "matches": [
     {
       "id": 139001,
@@ -16,20 +16,6 @@
       "startTime": "01:15:00 AM 12-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/pG_AM3AnQfuy79NPXDVJQQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139001_english_hls_53da143fdd83634_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140407,
-      "event_category": "Football",
-      "title": "Paris FC Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
-      "team_1": "Paris FC Women",
-      "team_2": "Real Madrid Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Paris FC Women vs Real Madrid Women",
-      "startTime": "01:30:00 AM 12-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/kAzDMgrkTsmkvXIyn9Mm8g/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140407_english_hls_012e44851519431_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140522,
@@ -156,6 +142,20 @@
       "startTime": "11:30:00 PM 11-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/mn8itEwyT2SzvANvme72eg/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140534_english_hls_b71d88a261499_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140407,
+      "event_category": "Football",
+      "title": "Paris FC Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
+      "team_1": "Paris FC Women",
+      "team_2": "Real Madrid Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Paris FC Women vs Real Madrid Women",
+      "startTime": "01:30:00 AM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/kAzDMgrkTsmkvXIyn9Mm8g/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140407_english_hls_012e44851519431_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140375,
@@ -398,6 +398,18 @@
       "startTime": "11:00:00 PM 12-02-2026"
     },
     {
+      "id": 140377,
+      "event_category": "Football",
+      "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
+      "team_1": "Cruz Azul",
+      "team_2": "Vancouver FC",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Cruz Azul vs Vancouver FC",
+      "startTime": "06:30:00 AM 13-02-2026"
+    },
+    {
       "id": 140537,
       "event_category": "Tennis",
       "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
@@ -420,18 +432,6 @@
       "event_name": "ATP 500 - Nexo Dallas Open 2026",
       "match_name": "Grandstand",
       "startTime": "11:30:00 PM 12-02-2026"
-    },
-    {
-      "id": 140377,
-      "event_category": "Football",
-      "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
-      "team_1": "Cruz Azul",
-      "team_2": "Vancouver FC",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Cruz Azul vs Vancouver FC",
-      "startTime": "06:30:00 AM 13-02-2026"
     },
     {
       "id": 140621,
