@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:39 AM 12-02-2026",
+  "last update time": "11:45 AM 12-02-2026",
   "matches": [
-    {
-      "id": 140376,
-      "event_category": "Football",
-      "title": "Monterrey vs Club Xelaju (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140376_5954_MONT_CXE_FC-Web.jpg",
-      "team_1": "Monterrey",
-      "team_2": "Club Xelaju",
-      "status": "LIVE",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Monterrey vs Club Xelaju",
-      "startTime": "08:30:00 AM 12-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/GIh54XkRTz-Y-rnH396Zcg/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140376_english_hls_aae92af61836356_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140318,
       "event_category": "Live Events",
@@ -30,6 +16,20 @@
       "startTime": "09:00:00 AM 12-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/mwOWR_yQQjSwueAXPKFduQ/master.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140318_english_hls_d621b5dcd676482_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140603,
+      "event_category": "Live Events",
+      "title": "Day 1 vs Chennai (WTT Star Contenders)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+      "team_1": "Day 1",
+      "team_2": "Chennai",
+      "status": "LIVE",
+      "event_name": "WTT Star Contenders",
+      "match_name": "Day 1",
+      "startTime": "11:00:00 AM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/6tx4qwOvTfugtjUUe8rRYw/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140603_english_hls_9af047dcaa91442_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140408,
@@ -92,16 +92,18 @@
       "startTime": "05:45:00 PM 12-02-2026"
     },
     {
-      "id": 140603,
+      "id": 140327,
       "event_category": "Live Events",
-      "title": "Day 1 vs Chennai (WTT Star Contenders)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-      "team_1": "Day 1",
-      "team_2": "Chennai",
-      "status": "UPCOMING",
-      "event_name": "WTT Star Contenders",
-      "match_name": "Day 1",
-      "startTime": "11:00:00 AM 12-02-2026"
+      "title": "Day 9 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+      "team_1": "Day 9",
+      "team_2": "Delhi",
+      "status": "LIVE",
+      "event_name": "Asian Rifle & Pistol Championship 2026",
+      "match_name": "Day 9",
+      "startTime": "12:00:00 PM 12-02-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 140377,
@@ -116,16 +118,16 @@
       "startTime": "06:30:00 AM 13-02-2026"
     },
     {
-      "id": 140327,
-      "event_category": "Live Events",
-      "title": "Day 9 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-      "team_1": "Day 9",
-      "team_2": "Delhi",
+      "id": 140367,
+      "event_category": "Cricket",
+      "title": "Australia Governor Generals XI vs India Women (Governor General’s XI vs India 2026 - Women)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Governor_web.jpg",
+      "team_1": "Australia Governor Generals XI",
+      "team_2": "India Women",
       "status": "UPCOMING",
-      "event_name": "Asian Rifle & Pistol Championship 2026",
-      "match_name": "Day 9",
-      "startTime": "12:00:00 PM 12-02-2026"
+      "event_name": "Governor General’s XI vs India 2026 - Women",
+      "match_name": "Australia Governor Generals XI vs India Women",
+      "startTime": "01:35:00 PM 13-02-2026"
     },
     {
       "id": 140197,
@@ -174,18 +176,6 @@
       "event_name": "PIF Saudi Ladies International 2026",
       "match_name": "Day 2",
       "startTime": "04:00:00 PM 12-02-2026"
-    },
-    {
-      "id": 140367,
-      "event_category": "Cricket",
-      "title": "Australia Governor Generals XI vs India Women (Governor General’s XI vs India 2026 - Women)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Governor_web.jpg",
-      "team_1": "Australia Governor Generals XI",
-      "team_2": "India Women",
-      "status": "UPCOMING",
-      "event_name": "Governor General’s XI vs India 2026 - Women",
-      "match_name": "Australia Governor Generals XI vs India Women",
-      "startTime": "01:35:00 PM 13-02-2026"
     },
     {
       "id": 139559,
@@ -320,18 +310,6 @@
       "startTime": "02:05:00 PM 13-02-2026"
     },
     {
-      "id": 140604,
-      "event_category": "Live Events",
-      "title": "Day 2 vs Chennai (WTT Star Contenders)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-      "team_1": "Day 2",
-      "team_2": "Chennai",
-      "status": "UPCOMING",
-      "event_name": "WTT Star Contenders",
-      "match_name": "Day 2",
-      "startTime": "11:00:00 AM 13-02-2026"
-    },
-    {
       "id": 139409,
       "event_category": "Football",
       "title": "Perth Glory vs Newcastle Jets (A League 2025-26)",
@@ -342,6 +320,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Perth Glory vs Newcastle Jets",
       "startTime": "04:15:00 PM 13-02-2026"
+    },
+    {
+      "id": 140604,
+      "event_category": "Live Events",
+      "title": "Day 2 vs Chennai (WTT Star Contenders)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+      "team_1": "Day 2",
+      "team_2": "Chennai",
+      "status": "UPCOMING",
+      "event_name": "WTT Star Contenders",
+      "match_name": "Day 2",
+      "startTime": "11:00:00 AM 13-02-2026"
     },
     {
       "id": 140198,
@@ -462,6 +452,18 @@
       "event_name": "AT&T Pebble Beach Pro-Am 2026",
       "match_name": "Main Feed - Day 2",
       "startTime": "10:15:00 PM 13-02-2026"
+    },
+    {
+      "id": 140191,
+      "event_category": "Tennis",
+      "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+      "team_1": "World Feed",
+      "team_2": "Dallas, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Nexo Dallas Open 2026",
+      "match_name": "World Feed",
+      "startTime": "10:30:00 PM 13-02-2026"
     }
   ]
 }
