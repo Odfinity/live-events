@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:55 PM 12-02-2026",
+  "last update time": "03:54 PM 12-02-2026",
   "matches": [
+    {
+      "id": 140058,
+      "event_category": "Football",
+      "title": "Pohang Steelers vs Gamba Osaka (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140058_5648_PHG_OSK_FC-Web.jpg",
+      "team_1": "Pohang Steelers",
+      "team_2": "Gamba Osaka",
+      "status": "LIVE",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Pohang Steelers vs Gamba Osaka",
+      "startTime": "03:30:00 PM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/t8bXMcySRoSo3UupksVOEg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140058_english_hls_6be8cbce3793806_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 140318,
       "event_category": "Live Events",
@@ -32,30 +46,60 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140603_english_hls_9af047dcaa91442_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140327,
-      "event_category": "Live Events",
-      "title": "Day 9 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-      "team_1": "Day 9",
-      "team_2": "Delhi",
+      "id": 140197,
+      "event_category": "Tennis",
+      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "World Feed",
+      "team_2": "Rotterdam, Netherlands",
       "status": "LIVE",
-      "event_name": "Asian Rifle & Pistol Championship 2026",
-      "match_name": "Day 9",
-      "startTime": "12:00:00 PM 12-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/jh5gJp8MQgWMPd2sIHpW0w/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140327_english_hls_e39d8076723228_1ta-di_h264/index.m3u8"
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "World Feed",
+      "startTime": "03:30:00 PM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/UgRpMPyFTTOFTAUlnqCiHQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140197_english_hls_24d1fb510145499_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140058,
-      "event_category": "Football",
-      "title": "Pohang Steelers vs Gamba Osaka (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140058_5648_PHG_OSK_FC-Web.jpg",
-      "team_1": "Pohang Steelers",
-      "team_2": "Gamba Osaka",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Pohang Steelers vs Gamba Osaka",
-      "startTime": "03:30:00 PM 12-02-2026"
+      "id": 140548,
+      "event_category": "Tennis",
+      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Centre Court",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "LIVE",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Centre Court",
+      "startTime": "03:30:00 PM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/L0aC9OkzR8akvow1wepDlg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140548_english_hls_ebfcad5e0613700_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140547,
+      "event_category": "Tennis",
+      "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Court 1",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "LIVE",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Court 1",
+      "startTime": "03:30:00 PM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/usLiq1V1RceCx1HX6vVlZQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140547_english_hls_305e1e721982028_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140110,
+      "event_category": "Golf",
+      "title": "Day 2 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
+      "team_1": "Day 2",
+      "team_2": "Riyadh Golf Club",
+      "status": "LIVE",
+      "event_name": "PIF Saudi Ladies International 2026",
+      "match_name": "Day 2",
+      "startTime": "04:00:00 PM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/zuMbcHj8S5igZLidewtpsA/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140110_english_hls_08cb67d79978949_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140408,
@@ -106,42 +150,6 @@
       "startTime": "05:45:00 PM 12-02-2026"
     },
     {
-      "id": 140197,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "World Feed",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "World Feed",
-      "startTime": "03:30:00 PM 12-02-2026"
-    },
-    {
-      "id": 140548,
-      "event_category": "Tennis",
-      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "Centre Court",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Centre Court",
-      "startTime": "03:30:00 PM 12-02-2026"
-    },
-    {
-      "id": 140547,
-      "event_category": "Tennis",
-      "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "Court 1",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Court 1",
-      "startTime": "03:30:00 PM 12-02-2026"
-    },
-    {
       "id": 140377,
       "event_category": "Football",
       "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
@@ -176,18 +184,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Western Sydney Wanderers vs Wellington Phoenix",
       "startTime": "02:05:00 PM 13-02-2026"
-    },
-    {
-      "id": 140110,
-      "event_category": "Golf",
-      "title": "Day 2 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
-      "team_1": "Day 2",
-      "team_2": "Riyadh Golf Club",
-      "status": "UPCOMING",
-      "event_name": "PIF Saudi Ladies International 2026",
-      "match_name": "Day 2",
-      "startTime": "04:00:00 PM 12-02-2026"
     },
     {
       "id": 139559,
@@ -298,18 +294,6 @@
       "startTime": "11:45:00 PM 12-02-2026"
     },
     {
-      "id": 140044,
-      "event_category": "Golf",
-      "title": "World Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-      "team_1": "World Feed - Day 1",
-      "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-      "status": "UPCOMING",
-      "event_name": "AT&T Pebble Beach Pro-Am 2026",
-      "match_name": "World Feed - Day 1",
-      "startTime": "01:30:00 AM 13-02-2026"
-    },
-    {
       "id": 139409,
       "event_category": "Football",
       "title": "Perth Glory vs Newcastle Jets (A League 2025-26)",
@@ -320,6 +304,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Perth Glory vs Newcastle Jets",
       "startTime": "04:15:00 PM 13-02-2026"
+    },
+    {
+      "id": 140044,
+      "event_category": "Golf",
+      "title": "World Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+      "team_1": "World Feed - Day 1",
+      "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+      "status": "UPCOMING",
+      "event_name": "AT&T Pebble Beach Pro-Am 2026",
+      "match_name": "World Feed - Day 1",
+      "startTime": "01:30:00 AM 13-02-2026"
     },
     {
       "id": 140604,
@@ -370,18 +366,6 @@
       "startTime": "04:00:00 PM 13-02-2026"
     },
     {
-      "id": 140549,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "World Feed",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "World Feed",
-      "startTime": "04:30:00 PM 13-02-2026"
-    },
-    {
       "id": 139840,
       "event_category": "Football",
       "title": "Al-Ittihad vs Al-Fayha FC (Roshn Saudi League 2025-2026)",
@@ -392,6 +376,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Fayha FC",
       "startTime": "11:00:00 PM 13-02-2026"
+    },
+    {
+      "id": 140549,
+      "event_category": "Tennis",
+      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "World Feed",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "World Feed",
+      "startTime": "04:30:00 PM 13-02-2026"
     },
     {
       "id": 131065,
@@ -463,6 +459,18 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - Nexo Dallas Open 2026",
       "match_name": "World Feed",
+      "startTime": "10:30:00 PM 13-02-2026"
+    },
+    {
+      "id": 140538,
+      "event_category": "Tennis",
+      "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+      "team_1": "Center Court",
+      "team_2": "Dallas, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Nexo Dallas Open 2026",
+      "match_name": "Center Court",
       "startTime": "10:30:00 PM 13-02-2026"
     }
   ]
