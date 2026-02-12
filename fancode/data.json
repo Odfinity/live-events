@@ -1,21 +1,35 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:27 AM 12-02-2026",
+  "last update time": "08:45 AM 12-02-2026",
   "matches": [
     {
-      "id": 140203,
-      "event_category": "Tennis",
-      "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-      "team_1": "Cancha Guillermo Vilas",
-      "team_2": "Buenos Aires, Argentina",
+      "id": 140375,
+      "event_category": "Football",
+      "title": "Club América vs Olimpia (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140375_5954_AME_OL_FC-Web.jpg",
+      "team_1": "Club América",
+      "team_2": "Olimpia",
       "status": "LIVE",
-      "event_name": "ATP 250 - IEB+ Argentina Open 2026",
-      "match_name": "Cancha Guillermo Vilas",
-      "startTime": "09:30:00 PM 11-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/V1ctlp0mTWCCWTc7cTEobQ/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140203_english_hls_f0b6abb8c918757_1ta-di_h264/index.m3u8"
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Club América vs Olimpia",
+      "startTime": "06:30:00 AM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/iYBFCFnDRIK195jJwkKMGQ/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140375_english_hls_064e3c075932636_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140376,
+      "event_category": "Football",
+      "title": "Monterrey vs Club Xelaju (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140376_5954_MONT_CXE_FC-Web.jpg",
+      "team_1": "Monterrey",
+      "team_2": "Club Xelaju",
+      "status": "LIVE",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Monterrey vs Club Xelaju",
+      "startTime": "08:30:00 AM 12-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/GIh54XkRTz-Y-rnH396Zcg/master.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140376_english_hls_aae92af61836356_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140189,
@@ -72,28 +86,28 @@
       "startTime": "11:15:00 PM 12-02-2026"
     },
     {
-      "id": 140375,
+      "id": 140415,
       "event_category": "Football",
-      "title": "Club América vs Olimpia (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140375_5954_AME_OL_FC-Web.jpg",
-      "team_1": "Club América",
-      "team_2": "Olimpia",
+      "title": "Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Atletico de Madrid Femenino",
+      "team_2": "Manchester United Women",
       "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Club América vs Olimpia",
-      "startTime": "06:30:00 AM 12-02-2026"
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Atletico de Madrid Femenino vs Manchester United Women",
+      "startTime": "01:30:00 AM 13-02-2026"
     },
     {
-      "id": 140376,
+      "id": 140523,
       "event_category": "Football",
-      "title": "Monterrey vs Club Xelaju (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140376_5954_MONT_CXE_FC-Web.jpg",
-      "team_1": "Monterrey",
-      "team_2": "Club Xelaju",
+      "title": "Atletico de Madrid vs FC Barcelona (Copa del Rey, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140523_5806_ATL_BAR_FC-Web.jpg",
+      "team_1": "Atletico de Madrid",
+      "team_2": "FC Barcelona",
       "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Monterrey vs Club Xelaju",
-      "startTime": "08:30:00 AM 12-02-2026"
+      "event_name": "Copa del Rey, 2025-26",
+      "match_name": "Atletico de Madrid vs FC Barcelona",
+      "startTime": "01:30:00 AM 13-02-2026"
     },
     {
       "id": 140058,
@@ -120,30 +134,6 @@
       "startTime": "05:45:00 PM 12-02-2026"
     },
     {
-      "id": 140415,
-      "event_category": "Football",
-      "title": "Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Atletico de Madrid Femenino",
-      "team_2": "Manchester United Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Atletico de Madrid Femenino vs Manchester United Women",
-      "startTime": "01:30:00 AM 13-02-2026"
-    },
-    {
-      "id": 140523,
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs FC Barcelona (Copa del Rey, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140523_5806_ATL_BAR_FC-Web.jpg",
-      "team_1": "Atletico de Madrid",
-      "team_2": "FC Barcelona",
-      "status": "UPCOMING",
-      "event_name": "Copa del Rey, 2025-26",
-      "match_name": "Atletico de Madrid vs FC Barcelona",
-      "startTime": "01:30:00 AM 13-02-2026"
-    },
-    {
       "id": 140318,
       "event_category": "Live Events",
       "title": "Day 4 vs Delhi (Strikers Cup 2026)",
@@ -154,6 +144,18 @@
       "event_name": "Strikers Cup 2026",
       "match_name": "Day 4",
       "startTime": "09:00:00 AM 12-02-2026"
+    },
+    {
+      "id": 140377,
+      "event_category": "Football",
+      "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
+      "team_1": "Cruz Azul",
+      "team_2": "Vancouver FC",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Cruz Azul vs Vancouver FC",
+      "startTime": "06:30:00 AM 13-02-2026"
     },
     {
       "id": 140603,
@@ -226,18 +228,6 @@
       "event_name": "PIF Saudi Ladies International 2026",
       "match_name": "Day 2",
       "startTime": "04:00:00 PM 12-02-2026"
-    },
-    {
-      "id": 140377,
-      "event_category": "Football",
-      "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
-      "team_1": "Cruz Azul",
-      "team_2": "Vancouver FC",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Cruz Azul vs Vancouver FC",
-      "startTime": "06:30:00 AM 13-02-2026"
     },
     {
       "id": 139559,
@@ -420,18 +410,6 @@
       "startTime": "02:30:00 PM 13-02-2026"
     },
     {
-      "id": 140111,
-      "event_category": "Golf",
-      "title": "Day 3 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
-      "team_1": "Day 3",
-      "team_2": "Riyadh Golf Club",
-      "status": "UPCOMING",
-      "event_name": "PIF Saudi Ladies International 2026",
-      "match_name": "Day 3",
-      "startTime": "04:00:00 PM 13-02-2026"
-    },
-    {
       "id": 139839,
       "event_category": "Football",
       "title": "Al Hilal SFC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
@@ -442,6 +420,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al Hilal SFC vs Al-Ettifaq",
       "startTime": "08:55:00 PM 13-02-2026"
+    },
+    {
+      "id": 140111,
+      "event_category": "Golf",
+      "title": "Day 3 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
+      "team_1": "Day 3",
+      "team_2": "Riyadh Golf Club",
+      "status": "UPCOMING",
+      "event_name": "PIF Saudi Ladies International 2026",
+      "match_name": "Day 3",
+      "startTime": "04:00:00 PM 13-02-2026"
     },
     {
       "id": 140549,
@@ -466,6 +456,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ittihad vs Al-Fayha FC",
       "startTime": "11:00:00 PM 13-02-2026"
+    },
+    {
+      "id": 139560,
+      "event_category": "Formula 1",
+      "title": "Day 3 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
+      "team_1": "Day 3",
+      "team_2": "Bahrain International Circuit",
+      "status": "UPCOMING",
+      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
+      "match_name": "Day 3",
+      "startTime": "08:30:00 PM 13-02-2026"
     }
   ]
 }
