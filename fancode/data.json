@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:20 AM 14-02-2026",
+  "last update time": "03:53 AM 14-02-2026",
   "matches": [
-    {
-      "id": 131065,
-      "event_category": "Football",
-      "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "CA Osasuna",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs CA Osasuna",
-      "startTime": "01:30:00 AM 14-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131065_english_hls_ec648f22e676837_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131065_english_hls_ec648f22e676837_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140420,
-      "event_category": "Football",
-      "title": "Almería vs FC Andorra (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072506/140420_CASACARDS_APP.png",
-      "team_1": "Almería",
-      "team_2": "FC Andorra",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Almería vs FC Andorra",
-      "startTime": "01:00:00 AM 14-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140420_english_hls_5e5b60976a84494_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140420_english_hls_5e5b60976a84494_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140198,
       "event_category": "Tennis",
@@ -172,18 +144,18 @@
       "adfree_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/140045_english_847333/ad-h264/index.m3u8"
     },
     {
-      "id": 140640,
-      "event_category": "Tennis",
-      "title": "Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-      "src": "  https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-      "team_1": "Grandstand",
-      "team_2": "Dallas, United States",
+      "id": 131065,
+      "event_category": "Football",
+      "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
+      "team_1": "Elche CF",
+      "team_2": "CA Osasuna",
       "status": "LIVE",
-      "event_name": "ATP 500 - Nexo Dallas Open 2026",
-      "match_name": "Grandstand",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs CA Osasuna",
       "startTime": "01:30:00 AM 14-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140640_english_hls_82b355eb0690566_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140640_english_hls_82b355eb0690566_1ta-di_h264/index.m3u8"
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131065_english_hls_ec648f22e676837_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131065_english_hls_ec648f22e676837_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140404,
@@ -246,30 +218,6 @@
       "startTime": "08:45:00 PM 14-02-2026"
     },
     {
-      "id": 139410,
-      "event_category": "Football",
-      "title": "Melbourne Victory vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139410_5802_MLV_BRB_1770722069741.png",
-      "team_1": "Melbourne Victory",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Brisbane Roar",
-      "startTime": "11:30:00 AM 14-02-2026"
-    },
-    {
-      "id": 139411,
-      "event_category": "Football",
-      "title": "Sydney FC vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png",
-      "team_1": "Sydney FC",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Adelaide United",
-      "startTime": "02:05:00 PM 14-02-2026"
-    },
-    {
       "id": 131069,
       "event_category": "Football",
       "title": "Sevilla FC vs Deportivo Alaves (LALIGA 2025-26)",
@@ -292,6 +240,30 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Fateh SC vs Al-Nassr FC",
       "startTime": "11:00:00 PM 14-02-2026"
+    },
+    {
+      "id": 139410,
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139410_5802_MLV_BRB_1770722069741.png",
+      "team_1": "Melbourne Victory",
+      "team_2": "Brisbane Roar",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Brisbane Roar",
+      "startTime": "11:30:00 AM 14-02-2026"
+    },
+    {
+      "id": 139411,
+      "event_category": "Football",
+      "title": "Sydney FC vs Adelaide United (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png",
+      "team_1": "Sydney FC",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Adelaide United",
+      "startTime": "02:05:00 PM 14-02-2026"
     },
     {
       "id": 140016,
@@ -354,6 +326,18 @@
       "startTime": "11:00:00 AM 14-02-2026"
     },
     {
+      "id": 140607,
+      "event_category": "Cricket",
+      "title": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg",
+      "team_1": "Diasqua Little Sai Wan Cricket Club Women",
+      "team_2": "Lantau Cricket Club Women",
+      "status": "UPCOMING",
+      "event_name": "Women's Premier League T20 2026",
+      "match_name": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women",
+      "startTime": "07:00:00 AM 15-02-2026"
+    },
+    {
       "id": 140112,
       "event_category": "Golf",
       "title": "Day 4 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
@@ -388,18 +372,6 @@
       "event_name": "ATP 500 - ABN AMRO Open 2026",
       "match_name": "World Feed",
       "startTime": "06:30:00 PM 14-02-2026"
-    },
-    {
-      "id": 140607,
-      "event_category": "Cricket",
-      "title": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg",
-      "team_1": "Diasqua Little Sai Wan Cricket Club Women",
-      "team_2": "Lantau Cricket Club Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Premier League T20 2026",
-      "match_name": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women",
-      "startTime": "07:00:00 AM 15-02-2026"
     },
     {
       "id": 140608,
@@ -483,6 +455,30 @@
       "status": "UPCOMING",
       "event_name": "AT&T Pebble Beach Pro-Am 2026",
       "match_name": "World Feed - Day 3",
+      "startTime": "11:30:00 PM 14-02-2026"
+    },
+    {
+      "id": 140192,
+      "event_category": "Tennis",
+      "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+      "team_1": "World Feed",
+      "team_2": "Dallas, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Nexo Dallas Open 2026",
+      "match_name": "World Feed",
+      "startTime": "11:30:00 PM 14-02-2026"
+    },
+    {
+      "id": 140206,
+      "event_category": "Tennis",
+      "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+      "team_1": "Cancha Guillermo Vilas",
+      "team_2": "Buenos Aires, Argentina",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - IEB+ Argentina Open 2026",
+      "match_name": "Cancha Guillermo Vilas",
       "startTime": "11:30:00 PM 14-02-2026"
     }
   ]
