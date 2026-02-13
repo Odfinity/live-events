@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:44 AM 13-02-2026",
+  "last update time": "12:58 PM 13-02-2026",
   "matches": [
-    {
-      "id": 140190,
-      "event_category": "Tennis",
-      "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
-      "team_1": "World Feed",
-      "team_2": "Dallas, United States",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Nexo Dallas Open 2026",
-      "match_name": "World Feed",
-      "startTime": "11:30:00 PM 12-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/EIF5Y2CyS_C0Mtr6mN-V9Q/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140190_english_hls_3c7ffd4f4463700_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140537,
-      "event_category": "Tennis",
-      "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-      "team_1": "Center Court",
-      "team_2": "Dallas, United States",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Nexo Dallas Open 2026",
-      "match_name": "Center Court",
-      "startTime": "11:30:00 PM 12-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/f2JmCdCYT4mWhSUBDyjBfA/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140537_english_hls_5078e07a4116414_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140044,
       "event_category": "Golf",
@@ -180,6 +152,18 @@
       "startTime": "03:30:00 PM 13-02-2026"
     },
     {
+      "id": 140639,
+      "event_category": "Tennis",
+      "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Court 1",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Court 1",
+      "startTime": "03:30:00 PM 13-02-2026"
+    },
+    {
       "id": 140111,
       "event_category": "Golf",
       "title": "Day 3 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
@@ -300,6 +284,18 @@
       "startTime": "01:30:00 AM 14-02-2026"
     },
     {
+      "id": 140640,
+      "event_category": "Tennis",
+      "title": "Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+      "src": "  https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+      "team_1": "Grandstand",
+      "team_2": "Dallas, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Nexo Dallas Open 2026",
+      "match_name": "Grandstand",
+      "startTime": "01:30:00 AM 14-02-2026"
+    },
+    {
       "id": 139411,
       "event_category": "Football",
       "title": "Sydney FC vs Adelaide United (A League 2025-26)",
@@ -324,18 +320,6 @@
       "startTime": "05:00:00 PM 14-02-2026"
     },
     {
-      "id": 140605,
-      "event_category": "Live Events",
-      "title": "Day 3 vs Chennai (WTT Star Contenders)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-      "team_1": "Day 3",
-      "team_2": "Chennai",
-      "status": "UPCOMING",
-      "event_name": "WTT Star Contenders",
-      "match_name": "Day 3",
-      "startTime": "11:00:00 AM 14-02-2026"
-    },
-    {
       "id": 131064,
       "event_category": "Football",
       "title": "RCD Espanyol vs RC Celta (LALIGA 2025-26)",
@@ -346,6 +330,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RCD Espanyol vs RC Celta",
       "startTime": "06:30:00 PM 14-02-2026"
+    },
+    {
+      "id": 140605,
+      "event_category": "Live Events",
+      "title": "Day 3 vs Chennai (WTT Star Contenders)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+      "team_1": "Day 3",
+      "team_2": "Chennai",
+      "status": "UPCOMING",
+      "event_name": "WTT Star Contenders",
+      "match_name": "Day 3",
+      "startTime": "11:00:00 AM 14-02-2026"
     },
     {
       "id": 140432,
@@ -372,18 +368,6 @@
       "startTime": "06:00:00 PM 14-02-2026"
     },
     {
-      "id": 140639,
-      "event_category": "Tennis",
-      "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "Court 1",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Court 1",
-      "startTime": "03:30:00 PM 13-02-2026"
-    },
-    {
       "id": 139355,
       "event_category": "Football",
       "title": "Derby County Football Club vs Swansea City A.F.C. (EFL Championship 2025-26)",
@@ -394,18 +378,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Derby County Football Club vs Swansea City A.F.C.",
       "startTime": "08:30:00 PM 14-02-2026"
-    },
-    {
-      "id": 140640,
-      "event_category": "Tennis",
-      "title": "Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-      "src": "  https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-      "team_1": "Grandstand",
-      "team_2": "Dallas, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Nexo Dallas Open 2026",
-      "match_name": "Grandstand",
-      "startTime": "01:30:00 AM 14-02-2026"
     },
     {
       "id": 131066,
@@ -465,6 +437,30 @@
       "status": "UPCOMING",
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Fateh SC vs Al-Nassr FC",
+      "startTime": "11:00:00 PM 14-02-2026"
+    },
+    {
+      "id": 140550,
+      "event_category": "Tennis",
+      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "World Feed",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "World Feed",
+      "startTime": "06:30:00 PM 14-02-2026"
+    },
+    {
+      "id": 140422,
+      "event_category": "Football",
+      "title": "Cultural Leonesa vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072486/140422_CASACARDS_APP.png",
+      "team_1": "Cultural Leonesa",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Cultural Leonesa vs Real Zaragoza",
       "startTime": "11:00:00 PM 14-02-2026"
     }
   ]
