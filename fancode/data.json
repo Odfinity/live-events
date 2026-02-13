@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:17 AM 13-02-2026",
+  "last update time": "06:30 AM 13-02-2026",
   "matches": [
+    {
+      "id": 140377,
+      "event_category": "Football",
+      "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
+      "team_1": "Cruz Azul",
+      "team_2": "Vancouver FC",
+      "status": "LIVE",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Cruz Azul vs Vancouver FC",
+      "startTime": "06:30:00 AM 13-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140377_english_hls_dcf5d316e965867_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140377_english_hls_dcf5d316e965867_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 140204,
       "event_category": "Tennis",
@@ -110,16 +124,16 @@
       "startTime": "11:00:00 PM 13-02-2026"
     },
     {
-      "id": 140377,
+      "id": 131065,
       "event_category": "Football",
-      "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
-      "team_1": "Cruz Azul",
-      "team_2": "Vancouver FC",
+      "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
+      "team_1": "Elche CF",
+      "team_2": "CA Osasuna",
       "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Cruz Azul vs Vancouver FC",
-      "startTime": "06:30:00 AM 13-02-2026"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Elche CF vs CA Osasuna",
+      "startTime": "01:30:00 AM 14-02-2026"
     },
     {
       "id": 139408,
@@ -144,18 +158,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Perth Glory vs Newcastle Jets",
       "startTime": "04:15:00 PM 13-02-2026"
-    },
-    {
-      "id": 131065,
-      "event_category": "Football",
-      "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "CA Osasuna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs CA Osasuna",
-      "startTime": "01:30:00 AM 14-02-2026"
     },
     {
       "id": 140420,
@@ -458,16 +460,16 @@
       "startTime": "04:30:00 PM 14-02-2026"
     },
     {
-      "id": 140550,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "World Feed",
-      "team_2": "Rotterdam, Netherlands",
+      "id": 131069,
+      "event_category": "Football",
+      "title": "Sevilla FC vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131069_5427_SEV_ALA_FC-Web.png",
+      "team_1": "Sevilla FC",
+      "team_2": "Deportivo Alaves",
       "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "World Feed",
-      "startTime": "06:30:00 PM 14-02-2026"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Sevilla FC vs Deportivo Alaves",
+      "startTime": "11:00:00 PM 14-02-2026"
     }
   ]
 }
