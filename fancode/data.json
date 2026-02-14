@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 15-02-2026",
+  "last update time": "02:06 AM 15-02-2026",
   "matches": [
     {
       "id": 131068,
@@ -142,20 +142,6 @@
       "startTime": "11:30:00 PM 14-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140539_english_hls_005a5b548062917_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140539_english_hls_005a5b548062917_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131069,
-      "event_category": "Football",
-      "title": "Sevilla FC vs Deportivo Alaves (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131069_5427_SEV_ALA_FC-Web.png",
-      "team_1": "Sevilla FC",
-      "team_2": "Deportivo Alaves",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs Deportivo Alaves",
-      "startTime": "11:00:00 PM 14-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131069_english_hls_3c3d17956850231_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131069_english_hls_3c3d17956850231_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140607,
@@ -350,6 +336,18 @@
       "startTime": "01:30:00 AM 16-02-2026"
     },
     {
+      "id": 133981,
+      "event_category": "Cricket",
+      "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+      "team_1": "Victoria Women",
+      "team_2": "Western Australia Women",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "Victoria Women vs Western Australia Women",
+      "startTime": "04:30:00 AM 16-02-2026"
+    },
+    {
       "id": 140642,
       "event_category": "Live Events",
       "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
@@ -372,18 +370,6 @@
       "event_name": "WTT Star Contenders",
       "match_name": "Day 4",
       "startTime": "11:00:00 AM 15-02-2026"
-    },
-    {
-      "id": 133981,
-      "event_category": "Cricket",
-      "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-      "team_1": "Victoria Women",
-      "team_2": "Western Australia Women",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "Victoria Women vs Western Australia Women",
-      "startTime": "04:30:00 AM 16-02-2026"
     },
     {
       "id": 140200,
@@ -479,6 +465,18 @@
       "status": "UPCOMING",
       "event_name": "AT&T Pebble Beach Pro-Am 2026",
       "match_name": "World Feed - Day 4",
+      "startTime": "11:30:00 PM 15-02-2026"
+    },
+    {
+      "id": 140193,
+      "event_category": "Tennis",
+      "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+      "team_1": "World Feed",
+      "team_2": "Dallas, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Nexo Dallas Open 2026",
+      "match_name": "World Feed",
       "startTime": "11:30:00 PM 15-02-2026"
     }
   ]
