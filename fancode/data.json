@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:18 PM 14-02-2026",
+  "last update time": "04:41 PM 14-02-2026",
   "matches": [
-    {
-      "id": 139411,
-      "event_category": "Football",
-      "title": "Sydney FC vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png",
-      "team_1": "Sydney FC",
-      "team_2": "Adelaide United",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Adelaide United",
-      "startTime": "02:05:00 PM 14-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139411_english_hls_4eab237abc97022_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139411_english_hls_4eab237abc97022_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140605,
       "event_category": "Live Events",
@@ -178,18 +164,6 @@
       "startTime": "11:00:00 AM 15-02-2026"
     },
     {
-      "id": 140016,
-      "event_category": "Football",
-      "title": "Stevenage vs Huddersfield Town A.F.C. (League One 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
-      "team_1": "Stevenage",
-      "team_2": "Huddersfield Town A.F.C.",
-      "status": "UPCOMING",
-      "event_name": "League One 2025-26",
-      "match_name": "Stevenage vs Huddersfield Town A.F.C.",
-      "startTime": "06:00:00 PM 14-02-2026"
-    },
-    {
       "id": 140615,
       "event_category": "Cricket",
       "title": "Pakistan Association Cricket Club vs Kowloon Cricket Club (Premier League T20 2026)",
@@ -202,6 +176,18 @@
       "startTime": "11:30:00 AM 15-02-2026"
     },
     {
+      "id": 140016,
+      "event_category": "Football",
+      "title": "Stevenage vs Huddersfield Town A.F.C. (League One 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
+      "team_1": "Stevenage",
+      "team_2": "Huddersfield Town A.F.C.",
+      "status": "UPCOMING",
+      "event_name": "League One 2025-26",
+      "match_name": "Stevenage vs Huddersfield Town A.F.C.",
+      "startTime": "06:00:00 PM 14-02-2026"
+    },
+    {
       "id": 140422,
       "event_category": "Football",
       "title": "Cultural Leonesa vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
@@ -212,6 +198,30 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Cultural Leonesa vs Real Zaragoza",
       "startTime": "11:00:00 PM 14-02-2026"
+    },
+    {
+      "id": 140199,
+      "event_category": "Tennis",
+      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Centre Court",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Centre Court",
+      "startTime": "05:30:00 PM 14-02-2026"
+    },
+    {
+      "id": 140550,
+      "event_category": "Tennis",
+      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "World Feed",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "World Feed",
+      "startTime": "05:30:00 PM 14-02-2026"
     },
     {
       "id": 140433,
@@ -284,30 +294,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs Athletic Club",
       "startTime": "06:30:00 PM 15-02-2026"
-    },
-    {
-      "id": 140199,
-      "event_category": "Tennis",
-      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "Centre Court",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Centre Court",
-      "startTime": "05:30:00 PM 14-02-2026"
-    },
-    {
-      "id": 140550,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "World Feed",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "World Feed",
-      "startTime": "05:30:00 PM 14-02-2026"
     },
     {
       "id": 140206,
@@ -430,6 +416,18 @@
       "startTime": "08:00:00 PM 15-02-2026"
     },
     {
+      "id": 131061,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131061_5427_RVL_ATL_FC-Web.png",
+      "team_1": "Rayo Vallecano",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs Atletico de Madrid",
+      "startTime": "08:45:00 PM 15-02-2026"
+    },
+    {
       "id": 140642,
       "event_category": "Live Events",
       "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
@@ -454,16 +452,16 @@
       "startTime": "11:00:00 AM 15-02-2026"
     },
     {
-      "id": 131061,
+      "id": 131067,
       "event_category": "Football",
-      "title": "Rayo Vallecano vs Atletico de Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131061_5427_RVL_ATL_FC-Web.png",
-      "team_1": "Rayo Vallecano",
-      "team_2": "Atletico de Madrid",
+      "title": "Levante vs Valencia CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131067_5427_LE_VAL_FC-Web.png",
+      "team_1": "Levante",
+      "team_2": "Valencia CF",
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
-      "match_name": "Rayo Vallecano vs Atletico de Madrid",
-      "startTime": "08:45:00 PM 15-02-2026"
+      "match_name": "Levante vs Valencia CF",
+      "startTime": "11:00:00 PM 15-02-2026"
     }
   ]
 }
