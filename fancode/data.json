@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:59 AM 15-02-2026",
+  "last update time": "05:21 AM 15-02-2026",
   "matches": [
-    {
-      "id": 140631,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 3 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-      "team_1": "Featured Holes - Day 3",
-      "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-      "status": "LIVE",
-      "event_name": "AT&T Pebble Beach Pro-Am 2026",
-      "match_name": "Featured Holes - Day 3",
-      "startTime": "10:30:00 PM 14-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140631_english_hls_57123f7b4386739_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140631_english_hls_57123f7b4386739_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140046,
       "event_category": "Golf",
@@ -264,6 +250,18 @@
       "startTime": "01:30:00 AM 16-02-2026"
     },
     {
+      "id": 134035,
+      "event_category": "Cricket",
+      "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
+      "team_1": "Queensland",
+      "team_2": "South Australia",
+      "status": "UPCOMING",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Queensland vs South Australia",
+      "startTime": "05:30:00 AM 16-02-2026"
+    },
+    {
       "id": 140642,
       "event_category": "Live Events",
       "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
@@ -286,18 +284,6 @@
       "event_name": "WTT Star Contenders",
       "match_name": "Day 4",
       "startTime": "11:00:00 AM 15-02-2026"
-    },
-    {
-      "id": 134035,
-      "event_category": "Cricket",
-      "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
-      "team_1": "Queensland",
-      "team_2": "South Australia",
-      "status": "UPCOMING",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Queensland vs South Australia",
-      "startTime": "05:30:00 AM 16-02-2026"
     },
     {
       "id": 140200,
@@ -466,6 +452,18 @@
       "event_name": "Apti Cup T20 Tournament",
       "match_name": "Day 1",
       "startTime": "09:00:00 AM 16-02-2026"
+    },
+    {
+      "id": 140436,
+      "event_category": "Football",
+      "title": "East Bengal FC vs NorthEast United FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140436_5956_EBFC_NEUFC_fc-web.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "NorthEast United FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "East Bengal FC vs NorthEast United FC",
+      "startTime": "07:30:00 PM 16-02-2026"
     }
   ]
 }
