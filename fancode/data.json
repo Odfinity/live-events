@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:27 AM 14-02-2026",
+  "last update time": "11:23 AM 14-02-2026",
   "matches": [
+    {
+      "id": 139410,
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139410_5802_MLV_BRB_1770722069741.png",
+      "team_1": "Melbourne Victory",
+      "team_2": "Brisbane Roar",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Brisbane Roar",
+      "startTime": "11:30:00 AM 14-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139410_english_hls_0167d6f73770914_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139410_english_hls_0167d6f73770914_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 140191,
       "event_category": "Tennis",
@@ -18,18 +32,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140191_english_hls_bb4a0cd38111838_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140538,
-      "event_category": "Tennis",
-      "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-      "team_1": "Center Court",
-      "team_2": "Dallas, United States",
+      "id": 140605,
+      "event_category": "Live Events",
+      "title": "Day 3 vs WTT Star Contenders (WTT Star Contenders)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+      "team_1": "Day 3",
+      "team_2": "WTT Star Contenders",
       "status": "LIVE",
-      "event_name": "ATP 500 - Nexo Dallas Open 2026",
-      "match_name": "Center Court",
-      "startTime": "11:30:00 PM 13-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/jLrZIxPrRG-Yj84XNkyK5A/master.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140538_english_hls_abde6fad6b18281_1ta-di_h264/index.m3u8"
+      "event_name": "WTT Star Contenders",
+      "match_name": "Day 3",
+      "startTime": "11:00:00 AM 14-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140605_english_hls_0e3b993a4574255_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140605_english_hls_0e3b993a4574255_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140404,
@@ -140,18 +154,6 @@
       "startTime": "01:30:00 AM 15-02-2026"
     },
     {
-      "id": 139410,
-      "event_category": "Football",
-      "title": "Melbourne Victory vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139410_5802_MLV_BRB_1770722069741.png",
-      "team_1": "Melbourne Victory",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Brisbane Roar",
-      "startTime": "11:30:00 AM 14-02-2026"
-    },
-    {
       "id": 139411,
       "event_category": "Football",
       "title": "Sydney FC vs Adelaide United (A League 2025-26)",
@@ -176,18 +178,6 @@
       "startTime": "06:00:00 PM 14-02-2026"
     },
     {
-      "id": 140422,
-      "event_category": "Football",
-      "title": "Cultural Leonesa vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072486/140422_CASACARDS_APP.png",
-      "team_1": "Cultural Leonesa",
-      "team_2": "Real Zaragoza",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Cultural Leonesa vs Real Zaragoza",
-      "startTime": "11:00:00 PM 14-02-2026"
-    },
-    {
       "id": 140607,
       "event_category": "Cricket",
       "title": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
@@ -200,18 +190,6 @@
       "startTime": "07:00:00 AM 15-02-2026"
     },
     {
-      "id": 140605,
-      "event_category": "Live Events",
-      "title": "Day 3 vs WTT Star Contenders (WTT Star Contenders)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-      "team_1": "Day 3",
-      "team_2": "WTT Star Contenders",
-      "status": "UPCOMING",
-      "event_name": "WTT Star Contenders",
-      "match_name": "Day 3",
-      "startTime": "11:00:00 AM 14-02-2026"
-    },
-    {
       "id": 140608,
       "event_category": "Cricket",
       "title": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women (Women's Premier League T20 2026)",
@@ -222,6 +200,18 @@
       "event_name": "Women's Premier League T20 2026",
       "match_name": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women",
       "startTime": "07:30:00 AM 15-02-2026"
+    },
+    {
+      "id": 140422,
+      "event_category": "Football",
+      "title": "Cultural Leonesa vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072486/140422_CASACARDS_APP.png",
+      "team_1": "Cultural Leonesa",
+      "team_2": "Real Zaragoza",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Cultural Leonesa vs Real Zaragoza",
+      "startTime": "11:00:00 PM 14-02-2026"
     },
     {
       "id": 140614,
@@ -392,18 +382,6 @@
       "startTime": "05:00:00 PM 15-02-2026"
     },
     {
-      "id": 140642,
-      "event_category": "Live Events",
-      "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-      "team_1": "Legends League Cricket Auction 2026",
-      "team_2": "Delhi",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket Auction 2026",
-      "match_name": "Legends League Cricket Auction 2026",
-      "startTime": "10:30:00 AM 15-02-2026"
-    },
-    {
       "id": 140107,
       "event_category": "Football",
       "title": "Aston Villa Women vs Tottenham Hotspur Women (Women's Super League 2025-26)",
@@ -450,6 +428,18 @@
       "event_name": "Women's Super League 2025-26",
       "match_name": "Everton Women vs West Ham United Women",
       "startTime": "05:30:00 PM 15-02-2026"
+    },
+    {
+      "id": 140642,
+      "event_category": "Live Events",
+      "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "team_1": "Legends League Cricket Auction 2026",
+      "team_2": "Delhi",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket Auction 2026",
+      "match_name": "Legends League Cricket Auction 2026",
+      "startTime": "10:30:00 AM 15-02-2026"
     },
     {
       "id": 140606,
