@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:06 PM 15-02-2026",
+  "last update time": "10:31 PM 15-02-2026",
   "matches": [
     {
       "id": 131061,
@@ -16,34 +16,6 @@
       "startTime": "08:45:00 PM 15-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131061_english_hls_3074816afa79444_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131061_english_hls_3074816afa79444_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140200,
-      "event_category": "Tennis",
-      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "Centre Court",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "LIVE",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Centre Court",
-      "startTime": "05:30:00 PM 15-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140200_english_hls_b59c49729023162_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140200_english_hls_b59c49729023162_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140551,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "World Feed",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "LIVE",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "World Feed",
-      "startTime": "05:30:00 PM 15-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140551_english_hls_33b77becca64795_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140551_english_hls_33b77becca64795_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140636,
@@ -116,6 +88,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140207_english_hls_330b023b3959850_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 131067,
+      "event_category": "Football",
+      "title": "Levante vs Valencia CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131067_5427_LE_VAL_FC-Web.png",
+      "team_1": "Levante",
+      "team_2": "Valencia CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Valencia CF",
+      "startTime": "11:00:00 PM 15-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131067_english_hls_f593086cdd93529_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131067_english_hls_f593086cdd93529_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 133981,
       "event_category": "Cricket",
       "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
@@ -126,18 +112,6 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Victoria Women vs Western Australia Women",
       "startTime": "04:30:00 AM 16-02-2026"
-    },
-    {
-      "id": 131067,
-      "event_category": "Football",
-      "title": "Levante vs Valencia CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131067_5427_LE_VAL_FC-Web.png",
-      "team_1": "Levante",
-      "team_2": "Valencia CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Valencia CF",
-      "startTime": "11:00:00 PM 15-02-2026"
     },
     {
       "id": 131063,
@@ -152,18 +126,6 @@
       "startTime": "01:30:00 AM 16-02-2026"
     },
     {
-      "id": 140421,
-      "event_category": "Football",
-      "title": "Castellón vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072507/140421_CASACARDS_APP.png",
-      "team_1": "Castellón",
-      "team_2": "Deportivo La Coruna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Deportivo La Coruna",
-      "startTime": "01:30:00 AM 16-02-2026"
-    },
-    {
       "id": 140435,
       "event_category": "Football",
       "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
@@ -174,6 +136,18 @@
       "event_name": "ISL 2025-26",
       "match_name": "Odisha FC vs Punjab FC",
       "startTime": "05:00:00 PM 16-02-2026"
+    },
+    {
+      "id": 140421,
+      "event_category": "Football",
+      "title": "Castellón vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072507/140421_CASACARDS_APP.png",
+      "team_1": "Castellón",
+      "team_2": "Deportivo La Coruna",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Castellón vs Deportivo La Coruna",
+      "startTime": "01:30:00 AM 16-02-2026"
     },
     {
       "id": 134035,
@@ -474,6 +448,30 @@
       "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
       "match_name": "Quadra Guga Kuerten",
       "startTime": "12:00:00 AM 17-02-2026"
+    },
+    {
+      "id": 138808,
+      "event_category": "Football",
+      "title": "Sydney FC vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
+      "team_1": "Sydney FC",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Auckland",
+      "startTime": "01:30:00 PM 17-02-2026"
+    },
+    {
+      "id": 136038,
+      "event_category": "Football",
+      "title": "Seoul vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/23_Seoul-vs-Sanfrecce-Hiroshima_1770636487538.png",
+      "team_1": "Seoul",
+      "team_2": "Sanfrecce Hiroshima",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Seoul vs Sanfrecce Hiroshima",
+      "startTime": "03:30:00 PM 17-02-2026"
     }
   ]
 }
