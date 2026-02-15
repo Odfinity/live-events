@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:20 AM 16-02-2026",
+  "last update time": "02:03 AM 16-02-2026",
   "matches": [
     {
       "id": 131063,
@@ -16,6 +16,20 @@
       "startTime": "01:30:00 AM 16-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131063_english_hls_18b125469d63809_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131063_english_hls_18b125469d63809_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140421,
+      "event_category": "Football",
+      "title": "Castellón vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072507/140421_CASACARDS_APP.png",
+      "team_1": "Castellón",
+      "team_2": "Deportivo La Coruna",
+      "status": "LIVE",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Castellón vs Deportivo La Coruna",
+      "startTime": "01:30:00 AM 16-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140421_english_hls_ed15b8a1ce32885_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140421_english_hls_ed15b8a1ce32885_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140636,
@@ -128,32 +142,6 @@
       "startTime": "12:30:00 AM 16-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140540_english_hls_893261ee9183734_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140540_english_hls_893261ee9183734_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131067,
-      "event_category": "Football",
-      "title": "Levante vs Valencia CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131067_5427_LE_VAL_FC-Web.png",
-      "team_1": "Levante",
-      "team_2": "Valencia CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Valencia CF",
-      "startTime": "11:00:00 PM 15-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131067_english_hls_f593086cdd93529_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131067_english_hls_f593086cdd93529_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140421,
-      "event_category": "Football",
-      "title": "Castellón vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072507/140421_CASACARDS_APP.png",
-      "team_1": "Castellón",
-      "team_2": "Deportivo La Coruna",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Deportivo La Coruna",
-      "startTime": "01:30:00 AM 16-02-2026"
     },
     {
       "id": 133981,
@@ -477,6 +465,18 @@
       "status": "UPCOMING",
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Seoul vs Sanfrecce Hiroshima",
+      "startTime": "03:30:00 PM 17-02-2026"
+    },
+    {
+      "id": 136037,
+      "event_category": "Football",
+      "title": "Machida Zelvia vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/24_Machida-Zelvia-vs-Chengdu-Rongcheng_1770636387098.png",
+      "team_1": "Machida Zelvia",
+      "team_2": "Chengdu Rongcheng",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Machida Zelvia vs Chengdu Rongcheng",
       "startTime": "03:30:00 PM 17-02-2026"
     }
   ]
