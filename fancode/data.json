@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:28 PM 15-02-2026",
+  "last update time": "05:01 PM 15-02-2026",
   "matches": [
     {
-      "id": 140642,
-      "event_category": "Live Events",
-      "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-      "team_1": "Legends League Cricket Auction 2026",
-      "team_2": "Delhi",
+      "id": 140433,
+      "event_category": "Football",
+      "title": "Jamshedpur FC vs Mohammedan SC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140433_5956_JFC_MSC_fc-web_1771148165144.jpg",
+      "team_1": "Jamshedpur FC",
+      "team_2": "Mohammedan SC",
       "status": "LIVE",
-      "event_name": "Legends League Cricket Auction 2026",
-      "match_name": "Legends League Cricket Auction 2026",
-      "startTime": "10:30:00 AM 15-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140642_english_hls_c700c4eccd7171_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140642_english_hls_c700c4eccd7171_1ta-di_h264/index.m3u8"
+      "event_name": "ISL 2025-26",
+      "match_name": "Jamshedpur FC vs Mohammedan SC",
+      "startTime": "05:00:00 PM 15-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140433_english_hls_200336e40473315_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140433_english_hls_200336e40473315_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140606,
@@ -30,18 +30,6 @@
       "startTime": "11:00:00 AM 15-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140606_english_hls_2934273f9e52001_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140606_english_hls_2934273f9e52001_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140433,
-      "event_category": "Football",
-      "title": "Jamshedpur FC vs Mohammedan SC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140433_5956_JFC_MSC_fc-web_1771148165144.jpg",
-      "team_1": "Jamshedpur FC",
-      "team_2": "Mohammedan SC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "Jamshedpur FC vs Mohammedan SC",
-      "startTime": "05:00:00 PM 15-02-2026"
     },
     {
       "id": 140107,
@@ -200,6 +188,30 @@
       "startTime": "05:30:00 AM 16-02-2026"
     },
     {
+      "id": 140200,
+      "event_category": "Tennis",
+      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "Centre Court",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "Centre Court",
+      "startTime": "05:30:00 PM 15-02-2026"
+    },
+    {
+      "id": 140551,
+      "event_category": "Tennis",
+      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+      "team_1": "World Feed",
+      "team_2": "Rotterdam, Netherlands",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - ABN AMRO Open 2026",
+      "match_name": "World Feed",
+      "startTime": "05:30:00 PM 15-02-2026"
+    },
+    {
       "id": 134036,
       "event_category": "Cricket",
       "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
@@ -234,30 +246,6 @@
       "event_name": "ISL 2025-26",
       "match_name": "Odisha FC vs Punjab FC",
       "startTime": "05:00:00 PM 16-02-2026"
-    },
-    {
-      "id": 140200,
-      "event_category": "Tennis",
-      "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "Centre Court",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "Centre Court",
-      "startTime": "05:30:00 PM 15-02-2026"
-    },
-    {
-      "id": 140551,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-      "team_1": "World Feed",
-      "team_2": "Rotterdam, Netherlands",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - ABN AMRO Open 2026",
-      "match_name": "World Feed",
-      "startTime": "05:30:00 PM 15-02-2026"
     },
     {
       "id": 140636,
@@ -308,6 +296,18 @@
       "startTime": "09:45:00 PM 15-02-2026"
     },
     {
+      "id": 140436,
+      "event_category": "Football",
+      "title": "East Bengal FC vs NorthEast United FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140436_5956_EBFC_NEUFC_fc-web.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "NorthEast United FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "East Bengal FC vs NorthEast United FC",
+      "startTime": "07:30:00 PM 16-02-2026"
+    },
+    {
       "id": 140207,
       "event_category": "Tennis",
       "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
@@ -354,18 +354,6 @@
       "event_name": "ATP 500 - Nexo Dallas Open 2026",
       "match_name": "Center Court",
       "startTime": "12:30:00 AM 16-02-2026"
-    },
-    {
-      "id": 140436,
-      "event_category": "Football",
-      "title": "East Bengal FC vs NorthEast United FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140436_5956_EBFC_NEUFC_fc-web.jpg",
-      "team_1": "East Bengal FC",
-      "team_2": "NorthEast United FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "East Bengal FC vs NorthEast United FC",
-      "startTime": "07:30:00 PM 16-02-2026"
     },
     {
       "id": 136086,
@@ -462,6 +450,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Hilal SFC vs Al Wahda",
       "startTime": "11:45:00 PM 16-02-2026"
+    },
+    {
+      "id": 140657,
+      "event_category": "Live Events",
+      "title": "Big Cricket League Auction vs Crown Plaza, Greater Noida, Uttar Pradesh (Big Cricket League Season 2 Auction 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "team_1": "Big Cricket League Auction",
+      "team_2": "Crown Plaza, Greater Noida, Uttar Pradesh",
+      "status": "UPCOMING",
+      "event_name": "Big Cricket League Season 2 Auction 2026",
+      "match_name": "Big Cricket League Auction",
+      "startTime": "07:00:00 PM 16-02-2026"
     }
   ]
 }
