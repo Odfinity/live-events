@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:04 AM 17-02-2026",
+  "last update time": "05:28 AM 17-02-2026",
   "matches": [
+    {
+      "id": 134035,
+      "event_category": "Cricket",
+      "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
+      "team_1": "Queensland",
+      "team_2": "South Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Queensland vs South Australia",
+      "startTime": "05:30:00 AM 16-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 140295,
       "event_category": "Tennis",
@@ -122,16 +136,28 @@
       "startTime": "05:45:00 PM 17-02-2026"
     },
     {
-      "id": 134035,
-      "event_category": "Cricket",
-      "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
-      "team_1": "Queensland",
-      "team_2": "South Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Queensland vs South Australia",
-      "startTime": "05:30:00 AM 16-02-2026"
+      "id": 136090,
+      "event_category": "Football",
+      "title": "Al Gharafa vs Tractor (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770636792120.png",
+      "team_1": "Al Gharafa",
+      "team_2": "Tractor",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Gharafa vs Tractor",
+      "startTime": "09:30:00 PM 17-02-2026"
+    },
+    {
+      "id": 136089,
+      "event_category": "Football",
+      "title": "Al Sadd vs Al-Ittihad (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/28_Al-Sadd-vs-Al-Ittihad_1770636720688.png",
+      "team_1": "Al Sadd",
+      "team_2": "Al-Ittihad",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Al Sadd vs Al-Ittihad",
+      "startTime": "09:30:00 PM 17-02-2026"
     },
     {
       "id": 134036,
@@ -156,30 +182,6 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "Tasmania vs New South Wales",
       "startTime": "09:00:00 AM 16-02-2026"
-    },
-    {
-      "id": 136090,
-      "event_category": "Football",
-      "title": "Al Gharafa vs Tractor (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770636792120.png",
-      "team_1": "Al Gharafa",
-      "team_2": "Tractor",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al Gharafa vs Tractor",
-      "startTime": "09:30:00 PM 17-02-2026"
-    },
-    {
-      "id": 136089,
-      "event_category": "Football",
-      "title": "Al Sadd vs Al-Ittihad (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/28_Al-Sadd-vs-Al-Ittihad_1770636720688.png",
-      "team_1": "Al Sadd",
-      "team_2": "Al-Ittihad",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Al Sadd vs Al-Ittihad",
-      "startTime": "09:30:00 PM 17-02-2026"
     },
     {
       "id": 138808,
