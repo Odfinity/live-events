@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:03 PM 16-02-2026",
+  "last update time": "01:55 PM 16-02-2026",
   "matches": [
-    {
-      "id": 134035,
-      "event_category": "Cricket",
-      "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
-      "team_1": "Queensland",
-      "team_2": "South Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Queensland vs South Australia",
-      "startTime": "05:30:00 AM 16-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d64226_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d64226_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 134036,
       "event_category": "Cricket",
@@ -144,6 +130,18 @@
       "startTime": "01:30:00 AM 17-02-2026"
     },
     {
+      "id": 134035,
+      "event_category": "Cricket",
+      "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
+      "team_1": "Queensland",
+      "team_2": "South Australia",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Queensland vs South Australia",
+      "startTime": "05:30:00 AM 16-02-2026"
+    },
+    {
       "id": 140423,
       "event_category": "Football",
       "title": "Real Sociedad vs Málaga (LALIGA Hypermotion 2025-26)",
@@ -178,6 +176,18 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Machida Zelvia vs Chengdu Rongcheng",
       "startTime": "03:30:00 PM 17-02-2026"
+    },
+    {
+      "id": 138808,
+      "event_category": "Football",
+      "title": "Sydney FC vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
+      "team_1": "Sydney FC",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Auckland",
+      "startTime": "01:30:00 PM 17-02-2026"
     },
     {
       "id": 140208,
@@ -252,18 +262,6 @@
       "startTime": "09:30:00 PM 16-02-2026"
     },
     {
-      "id": 138808,
-      "event_category": "Football",
-      "title": "Sydney FC vs Auckland (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
-      "team_1": "Sydney FC",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Auckland",
-      "startTime": "01:30:00 PM 17-02-2026"
-    },
-    {
       "id": 140285,
       "event_category": "Tennis",
       "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
@@ -279,7 +277,7 @@
       "id": 140652,
       "event_category": "Tennis",
       "title": "Quadra 1 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
       "team_1": "Quadra 1",
       "team_2": "Rio",
       "status": "UPCOMING",
@@ -291,7 +289,7 @@
       "id": 140650,
       "event_category": "Tennis",
       "title": "Quadra Guga Kuerten vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
       "team_1": "Quadra Guga Kuerten",
       "team_2": "Rio",
       "status": "UPCOMING",
@@ -303,7 +301,7 @@
       "id": 140651,
       "event_category": "Tennis",
       "title": "Quadra 2 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
       "team_1": "Quadra 2",
       "team_2": "Rio",
       "status": "UPCOMING",
