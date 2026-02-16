@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:27 AM 17-02-2026",
+  "last update time": "02:10 AM 17-02-2026",
   "matches": [
     {
       "id": 136088,
@@ -46,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131062_english_hls_116fe2ca1c73382_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139356,
+      "event_category": "Football",
+      "title": "Coventry City Football Club vs Middlesbrough F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139356_5489_CVC_MIDD_FC-Web.jpg",
+      "team_1": "Coventry City Football Club",
+      "team_2": "Middlesbrough F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Coventry City Football Club vs Middlesbrough F.C.",
+      "startTime": "01:30:00 AM 17-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139356_english_hls_eb55f3427617930_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139356_english_hls_eb55f3427617930_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140423,
       "event_category": "Football",
       "title": "Real Sociedad vs Málaga (LALIGA Hypermotion 2025-26)",
@@ -58,34 +72,6 @@
       "startTime": "01:00:00 AM 17-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140423_english_hls_a34bb1be5838932_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140423_english_hls_a34bb1be5838932_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140208,
-      "event_category": "Tennis",
-      "title": "World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-.jpg",
-      "team_1": "World Feed",
-      "team_2": "Doha, Qatar",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-      "match_name": "World Feed",
-      "startTime": "04:00:00 PM 16-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140208_english_hls_e97477f94943430_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140208_english_hls_e97477f94943430_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140645,
-      "event_category": "Tennis",
-      "title": "Center Court vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-_1771246185234.jpg",
-      "team_1": "Center Court",
-      "team_2": "Qatar",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-      "match_name": "Center Court",
-      "startTime": "04:00:00 PM 16-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140645_english_hls_cb3d9b991455332_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140645_english_hls_cb3d9b991455332_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140295,
@@ -144,20 +130,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140650_english_hls_30300ce3d690494_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139356,
-      "event_category": "Football",
-      "title": "Coventry City Football Club vs Middlesbrough F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139356_5489_CVC_MIDD_FC-Web.jpg",
-      "team_1": "Coventry City Football Club",
-      "team_2": "Middlesbrough F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Coventry City Football Club vs Middlesbrough F.C.",
-      "startTime": "01:30:00 AM 17-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139356_english_hls_eb55f3427617930_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139356_english_hls_eb55f3427617930_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 136038,
       "event_category": "Football",
       "title": "Seoul vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
@@ -180,6 +152,30 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Machida Zelvia vs Chengdu Rongcheng",
       "startTime": "03:30:00 PM 17-02-2026"
+    },
+    {
+      "id": 136040,
+      "event_category": "Football",
+      "title": "Johor Darul Ta'zim vs Vissel Kobe (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/25_Johor-Darul-Ta'zim-vs-Vissel-Kobe_1770636633495.png",
+      "team_1": "Johor Darul Ta'zim",
+      "team_2": "Vissel Kobe",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Johor Darul Ta'zim vs Vissel Kobe",
+      "startTime": "05:45:00 PM 17-02-2026"
+    },
+    {
+      "id": 136039,
+      "event_category": "Football",
+      "title": "Buriram United vs Shanghai Shenhua (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/26_Buriram-United-vs-Shanghai-Shenhua_1770636561731.png",
+      "team_1": "Buriram United",
+      "team_2": "Shanghai Shenhua",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Buriram United vs Shanghai Shenhua",
+      "startTime": "05:45:00 PM 17-02-2026"
     },
     {
       "id": 134035,
@@ -218,42 +214,6 @@
       "startTime": "09:00:00 AM 16-02-2026"
     },
     {
-      "id": 136040,
-      "event_category": "Football",
-      "title": "Johor Darul Ta'zim vs Vissel Kobe (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/25_Johor-Darul-Ta'zim-vs-Vissel-Kobe_1770636633495.png",
-      "team_1": "Johor Darul Ta'zim",
-      "team_2": "Vissel Kobe",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Johor Darul Ta'zim vs Vissel Kobe",
-      "startTime": "05:45:00 PM 17-02-2026"
-    },
-    {
-      "id": 136039,
-      "event_category": "Football",
-      "title": "Buriram United vs Shanghai Shenhua (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/26_Buriram-United-vs-Shanghai-Shenhua_1770636561731.png",
-      "team_1": "Buriram United",
-      "team_2": "Shanghai Shenhua",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Buriram United vs Shanghai Shenhua",
-      "startTime": "05:45:00 PM 17-02-2026"
-    },
-    {
-      "id": 138808,
-      "event_category": "Football",
-      "title": "Sydney FC vs Auckland (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
-      "team_1": "Sydney FC",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Auckland",
-      "startTime": "01:30:00 PM 17-02-2026"
-    },
-    {
       "id": 136090,
       "event_category": "Football",
       "title": "Al Gharafa vs Tractor (AFC Champions League Elite 2025-26)",
@@ -276,6 +236,30 @@
       "event_name": "AFC Champions League Elite 2025-26",
       "match_name": "Al Sadd vs Al-Ittihad",
       "startTime": "09:30:00 PM 17-02-2026"
+    },
+    {
+      "id": 138808,
+      "event_category": "Football",
+      "title": "Sydney FC vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
+      "team_1": "Sydney FC",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Auckland",
+      "startTime": "01:30:00 PM 17-02-2026"
+    },
+    {
+      "id": 140651,
+      "event_category": "Tennis",
+      "title": "Quadra 2 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
+      "team_1": "Quadra 2",
+      "team_2": "Rio",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "Quadra 2",
+      "startTime": "02:30:00 AM 17-02-2026"
     },
     {
       "id": 140060,
@@ -302,18 +286,6 @@
       "startTime": "11:45:00 PM 17-02-2026"
     },
     {
-      "id": 140651,
-      "event_category": "Tennis",
-      "title": "Quadra 2 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
-      "team_1": "Quadra 2",
-      "team_2": "Rio",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra 2",
-      "startTime": "02:30:00 AM 17-02-2026"
-    },
-    {
       "id": 140017,
       "event_category": "Football",
       "title": "Blackpool vs Mansfield Town (League One 2025-26)",
@@ -326,18 +298,6 @@
       "startTime": "01:30:00 AM 18-02-2026"
     },
     {
-      "id": 140600,
-      "event_category": "Live Events",
-      "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-      "team_1": "Day 2",
-      "team_2": "Polo Gorund, Delhi University",
-      "status": "UPCOMING",
-      "event_name": "Apti Cup T20 Tournament",
-      "match_name": "Day 2",
-      "startTime": "09:00:00 AM 17-02-2026"
-    },
-    {
       "id": 133984,
       "event_category": "Cricket",
       "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
@@ -348,6 +308,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Victoria Women vs Western Australia Women",
       "startTime": "04:30:00 AM 18-02-2026"
+    },
+    {
+      "id": 140600,
+      "event_category": "Live Events",
+      "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+      "team_1": "Day 2",
+      "team_2": "Polo Gorund, Delhi University",
+      "status": "UPCOMING",
+      "event_name": "Apti Cup T20 Tournament",
+      "match_name": "Day 2",
+      "startTime": "09:00:00 AM 17-02-2026"
     },
     {
       "id": 140750,
@@ -480,6 +452,30 @@
       "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
       "match_name": "Quadra Guga Kuerten",
       "startTime": "12:00:00 AM 18-02-2026"
+    },
+    {
+      "id": 140378,
+      "event_category": "Football",
+      "title": "Athletics Ottawa vs Nashville SC (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140378_5954_ATO_NSH_FC-Web.jpg",
+      "team_1": "Athletics Ottawa",
+      "team_2": "Nashville SC",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Athletics Ottawa vs Nashville SC",
+      "startTime": "06:30:00 AM 18-02-2026"
+    },
+    {
+      "id": 140379,
+      "event_category": "Football",
+      "title": "Real España vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140379_5954_RE_LAF_FC-Web.jpg",
+      "team_1": "Real España",
+      "team_2": "Los Angeles Football Club",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Real España vs Los Angeles Football Club",
+      "startTime": "08:30:00 AM 18-02-2026"
     }
   ]
 }
