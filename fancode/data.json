@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:46 PM 17-02-2026",
+  "last update time": "11:39 PM 17-02-2026",
   "matches": [
     {
       "id": 136090,
@@ -88,20 +88,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140647_english_hls_68594fe0ab5130_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140751,
-      "event_category": "Tennis",
-      "title": "Grandstand 2 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
-      "team_1": "Grandstand 2",
-      "team_2": "Doha, Qatar",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-      "match_name": "Grandstand 2",
-      "startTime": "04:00:00 PM 17-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140751_english_hls_5828baa4f660489_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140751_english_hls_5828baa4f660489_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 140296,
       "event_category": "Tennis",
       "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
@@ -116,6 +102,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140061,
+      "event_category": "Football",
+      "title": "Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140061_5648_HUS_ESG_FC-Web.jpg",
+      "team_1": "Al Hussein",
+      "team_2": "Esteghlal FC",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Al Hussein vs Esteghlal FC",
+      "startTime": "11:45:00 PM 17-02-2026"
+    },
+    {
       "id": 133984,
       "event_category": "Cricket",
       "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
@@ -126,6 +124,30 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "Victoria Women vs Western Australia Women",
       "startTime": "04:30:00 AM 18-02-2026"
+    },
+    {
+      "id": 136042,
+      "event_category": "Football",
+      "title": "Melbourne City vs Gangwon (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/29_Melbourne-City-vs-Gangwon_1770636939459.png",
+      "team_1": "Melbourne City",
+      "team_2": "Gangwon",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Melbourne City vs Gangwon",
+      "startTime": "03:30:00 PM 18-02-2026"
+    },
+    {
+      "id": 136041,
+      "event_category": "Football",
+      "title": "Shanghai Port vs Ulsan HD (AFC Champions League Elite 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/30_Shanghai-Port-vs-Ulsan-HD_1770636853402.png",
+      "team_1": "Shanghai Port",
+      "team_2": "Ulsan HD",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Elite 2025-26",
+      "match_name": "Shanghai Port vs Ulsan HD",
+      "startTime": "03:30:00 PM 18-02-2026"
     },
     {
       "id": 134035,
@@ -164,42 +186,6 @@
       "startTime": "09:00:00 AM 16-02-2026"
     },
     {
-      "id": 136042,
-      "event_category": "Football",
-      "title": "Melbourne City vs Gangwon (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/29_Melbourne-City-vs-Gangwon_1770636939459.png",
-      "team_1": "Melbourne City",
-      "team_2": "Gangwon",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Melbourne City vs Gangwon",
-      "startTime": "03:30:00 PM 18-02-2026"
-    },
-    {
-      "id": 136041,
-      "event_category": "Football",
-      "title": "Shanghai Port vs Ulsan HD (AFC Champions League Elite 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/30_Shanghai-Port-vs-Ulsan-HD_1770636853402.png",
-      "team_1": "Shanghai Port",
-      "team_2": "Ulsan HD",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Elite 2025-26",
-      "match_name": "Shanghai Port vs Ulsan HD",
-      "startTime": "03:30:00 PM 18-02-2026"
-    },
-    {
-      "id": 140061,
-      "event_category": "Football",
-      "title": "Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140061_5648_HUS_ESG_FC-Web.jpg",
-      "team_1": "Al Hussein",
-      "team_2": "Esteghlal FC",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Al Hussein vs Esteghlal FC",
-      "startTime": "11:45:00 PM 17-02-2026"
-    },
-    {
       "id": 140017,
       "event_category": "Football",
       "title": "Blackpool vs Mansfield Town (League One 2025-26)",
@@ -236,6 +222,18 @@
       "startTime": "08:30:00 AM 18-02-2026"
     },
     {
+      "id": 140658,
+      "event_category": "Cricket",
+      "title": "Van der Stel Cricket Club vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Van der Stel Cricket Club",
+      "team_2": "Maties Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Van der Stel Cricket Club vs Maties Cricket Club",
+      "startTime": "10:00:00 PM 18-02-2026"
+    },
+    {
       "id": 140062,
       "event_category": "Football",
       "title": "Persib Bandung vs Ratchaburi (AFC Champions League Two 2025-26)",
@@ -260,18 +258,6 @@
       "startTime": "05:45:00 PM 18-02-2026"
     },
     {
-      "id": 140658,
-      "event_category": "Cricket",
-      "title": "Van der Stel Cricket Club vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Van der Stel Cricket Club",
-      "team_2": "Maties Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Van der Stel Cricket Club vs Maties Cricket Club",
-      "startTime": "10:00:00 PM 18-02-2026"
-    },
-    {
       "id": 140416,
       "event_category": "Football",
       "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
@@ -294,6 +280,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Levante vs Villarreal CF",
       "startTime": "12:30:00 AM 19-02-2026"
+    },
+    {
+      "id": 140417,
+      "event_category": "Football",
+      "title": "Arsenal Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Arsenal Women",
+      "team_2": "Oud-Heverlee Leuven Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Arsenal Women vs Oud-Heverlee Leuven Women",
+      "startTime": "01:30:00 AM 19-02-2026"
     },
     {
       "id": 140286,
@@ -356,30 +354,6 @@
       "startTime": "01:00:00 AM 18-02-2026"
     },
     {
-      "id": 140417,
-      "event_category": "Football",
-      "title": "Arsenal Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Arsenal Women",
-      "team_2": "Oud-Heverlee Leuven Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Arsenal Women vs Oud-Heverlee Leuven Women",
-      "startTime": "01:30:00 AM 19-02-2026"
-    },
-    {
-      "id": 140601,
-      "event_category": "Live Events",
-      "title": "Day 3 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-      "team_1": "Day 3",
-      "team_2": "Polo Gorund, Delhi University",
-      "status": "UPCOMING",
-      "event_name": "Apti Cup T20 Tournament",
-      "match_name": "Day 3",
-      "startTime": "09:00:00 AM 18-02-2026"
-    },
-    {
       "id": 140065,
       "event_category": "Football",
       "title": "Al-Nassr FC vs FC Arkadag (AFC Champions League Two 2025-26)",
@@ -404,6 +378,18 @@
       "startTime": "11:45:00 PM 18-02-2026"
     },
     {
+      "id": 140601,
+      "event_category": "Live Events",
+      "title": "Day 3 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+      "team_1": "Day 3",
+      "team_2": "Polo Gorund, Delhi University",
+      "status": "UPCOMING",
+      "event_name": "Apti Cup T20 Tournament",
+      "match_name": "Day 3",
+      "startTime": "09:00:00 AM 18-02-2026"
+    },
+    {
       "id": 139561,
       "event_category": "Formula 1",
       "title": "Day 1 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
@@ -414,6 +400,18 @@
       "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
       "match_name": "Day 1",
       "startTime": "12:30:00 PM 18-02-2026"
+    },
+    {
+      "id": 140293,
+      "event_category": "Football",
+      "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Aberdeen",
+      "team_2": "Motherwell",
+      "status": "UPCOMING",
+      "event_name": "Scottish Cup 2025-26",
+      "match_name": "Aberdeen vs Motherwell",
+      "startTime": "01:15:00 AM 19-02-2026"
     },
     {
       "id": 140210,
@@ -464,16 +462,16 @@
       "startTime": "04:00:00 PM 18-02-2026"
     },
     {
-      "id": 140293,
+      "id": 140380,
       "event_category": "Football",
-      "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Aberdeen",
-      "team_2": "Motherwell",
+      "title": "Defense Force vs Philadelphia Union (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140380_5954_DEF_PU_FC-Web.jpg",
+      "team_1": "Defense Force",
+      "team_2": "Philadelphia Union",
       "status": "UPCOMING",
-      "event_name": "Scottish Cup 2025-26",
-      "match_name": "Aberdeen vs Motherwell",
-      "startTime": "01:15:00 AM 19-02-2026"
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Defense Force vs Philadelphia Union",
+      "startTime": "04:30:00 AM 19-02-2026"
     }
   ]
 }
