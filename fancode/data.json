@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:45 AM 18-02-2026",
+  "last update time": "11:46 AM 18-02-2026",
   "matches": [
     {
       "id": 133984,
@@ -44,20 +44,6 @@
       "startTime": "09:00:00 AM 16-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c62361_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c62361_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140379,
-      "event_category": "Football",
-      "title": "Real España vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140379_5954_RE_LAF_FC-Web.jpg",
-      "team_1": "Real España",
-      "team_2": "Los Angeles Football Club",
-      "status": "LIVE",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Real España vs Los Angeles Football Club",
-      "startTime": "08:30:00 AM 18-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140379_english_hls_0af7ffffd769229_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140379_english_hls_0af7ffffd769229_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140601,
@@ -206,6 +192,18 @@
       "startTime": "01:15:00 AM 19-02-2026"
     },
     {
+      "id": 139561,
+      "event_category": "Formula 1",
+      "title": "Day 1 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
+      "team_1": "Day 1",
+      "team_2": "Bahrain International Circuit",
+      "status": "UPCOMING",
+      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
+      "match_name": "Day 1",
+      "startTime": "12:30:00 PM 18-02-2026"
+    },
+    {
       "id": 140380,
       "event_category": "Football",
       "title": "Defense Force vs Philadelphia Union (CONCACAF Champions Cup 2026)",
@@ -240,18 +238,6 @@
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "CS Cartagines vs Vancouver Whitecaps FC",
       "startTime": "08:30:00 AM 19-02-2026"
-    },
-    {
-      "id": 139561,
-      "event_category": "Formula 1",
-      "title": "Day 1 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
-      "team_1": "Day 1",
-      "team_2": "Bahrain International Circuit",
-      "status": "UPCOMING",
-      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
-      "match_name": "Day 1",
-      "startTime": "12:30:00 PM 18-02-2026"
     },
     {
       "id": 140210,
@@ -413,7 +399,7 @@
       "id": 140437,
       "event_category": "Football",
       "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC1_fc-web.jpg",
       "team_1": "Mumbai City FC",
       "team_2": "Chennaiyin FC",
       "status": "UPCOMING",
@@ -468,6 +454,18 @@
       "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
       "match_name": "Center Court",
       "startTime": "04:00:00 PM 19-02-2026"
+    },
+    {
+      "id": 140659,
+      "event_category": "Cricket",
+      "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Maties Cricket Club",
+      "team_2": "Paarl CC",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Maties Cricket Club vs Paarl CC",
+      "startTime": "10:00:00 PM 19-02-2026"
     }
   ]
 }
