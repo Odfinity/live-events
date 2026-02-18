@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:35 PM 18-02-2026",
+  "last update time": "05:22 PM 18-02-2026",
   "matches": [
     {
       "id": 136042,
@@ -30,34 +30,6 @@
       "startTime": "03:30:00 PM 18-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136041_english_hls_2a0f5f45d279567_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136041_english_hls_2a0f5f45d279567_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 134037,
-      "event_category": "Cricket",
-      "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
-      "team_1": "Tasmania",
-      "team_2": "New South Wales",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Tasmania vs New South Wales",
-      "startTime": "09:00:00 AM 16-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c62361_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c62361_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140601,
-      "event_category": "Live Events",
-      "title": "Day 3 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-      "team_1": "Day 3",
-      "team_2": "Polo Gorund, Delhi University",
-      "status": "LIVE",
-      "event_name": "Apti Cup T20 Tournament",
-      "match_name": "Day 3",
-      "startTime": "09:00:00 AM 18-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139561,
@@ -130,10 +102,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140746_english_hls_14a98fe61d99629_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140062,
+      "event_category": "Football",
+      "title": "Persib Bandung vs Ratchaburi (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140062_5648_PER_RAT_FC-Web.jpg",
+      "team_1": "Persib Bandung",
+      "team_2": "Ratchaburi",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Persib Bandung vs Ratchaburi",
+      "startTime": "05:45:00 PM 18-02-2026"
+    },
+    {
+      "id": 140063,
+      "event_category": "Football",
+      "title": "Tampines Rovers FC vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140063_5648_TAM_CAH_FC-Web.jpg",
+      "team_1": "Tampines Rovers FC",
+      "team_2": "Cong An Ha Noi",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Tampines Rovers FC vs Cong An Ha Noi",
+      "startTime": "05:45:00 PM 18-02-2026"
+    },
+    {
       "id": 140658,
       "event_category": "Cricket",
       "title": "Van der Stel Cricket Club vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140658_5968_VDCC_MAT_FC-Web.jpg",
       "team_1": "Van der Stel Cricket Club",
       "team_2": "Maties Cricket Club",
       "status": "UPCOMING",
@@ -190,28 +186,16 @@
       "startTime": "08:00:00 AM 16-02-2026"
     },
     {
-      "id": 140062,
-      "event_category": "Football",
-      "title": "Persib Bandung vs Ratchaburi (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140062_5648_PER_RAT_FC-Web.jpg",
-      "team_1": "Persib Bandung",
-      "team_2": "Ratchaburi",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Persib Bandung vs Ratchaburi",
-      "startTime": "05:45:00 PM 18-02-2026"
-    },
-    {
-      "id": 140063,
-      "event_category": "Football",
-      "title": "Tampines Rovers FC vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140063_5648_TAM_CAH_FC-Web.jpg",
-      "team_1": "Tampines Rovers FC",
-      "team_2": "Cong An Ha Noi",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Tampines Rovers FC vs Cong An Ha Noi",
-      "startTime": "05:45:00 PM 18-02-2026"
+      "id": 134037,
+      "event_category": "Cricket",
+      "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
+      "team_1": "Tasmania",
+      "team_2": "New South Wales",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Tasmania vs New South Wales",
+      "startTime": "09:00:00 AM 16-02-2026"
     },
     {
       "id": 140065,
@@ -310,6 +294,30 @@
       "startTime": "03:30:00 PM 19-02-2026"
     },
     {
+      "id": 140437,
+      "event_category": "Football",
+      "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771412946360.jpg",
+      "team_1": "Mumbai City FC",
+      "team_2": "Chennaiyin FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "Mumbai City FC vs Chennaiyin FC",
+      "startTime": "07:30:00 PM 19-02-2026"
+    },
+    {
+      "id": 140752,
+      "event_category": "Football",
+      "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Mumbai City FC",
+      "team_2": "Chennaiyin FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "Mumbai City FC vs Chennaiyin FC",
+      "startTime": "07:30:00 PM 19-02-2026"
+    },
+    {
       "id": 140297,
       "event_category": "Tennis",
       "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
@@ -370,30 +378,6 @@
       "startTime": "01:00:00 AM 19-02-2026"
     },
     {
-      "id": 140437,
-      "event_category": "Football",
-      "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC1_fc-web.jpg",
-      "team_1": "Mumbai City FC",
-      "team_2": "Chennaiyin FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "Mumbai City FC vs Chennaiyin FC",
-      "startTime": "07:30:00 PM 19-02-2026"
-    },
-    {
-      "id": 140752,
-      "event_category": "Football",
-      "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Mumbai City FC",
-      "team_2": "Chennaiyin FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "Mumbai City FC vs Chennaiyin FC",
-      "startTime": "07:30:00 PM 19-02-2026"
-    },
-    {
       "id": 140602,
       "event_category": "Live Events",
       "title": "Day 4 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
@@ -404,6 +388,18 @@
       "event_name": "Apti Cup T20 Tournament",
       "match_name": "Day 4",
       "startTime": "11:00:00 AM 19-02-2026"
+    },
+    {
+      "id": 140659,
+      "event_category": "Cricket",
+      "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140659_5968_MAT_PRC_FC-Web.jpg",
+      "team_1": "Maties Cricket Club",
+      "team_2": "Paarl CC",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Maties Cricket Club vs Paarl CC",
+      "startTime": "10:00:00 PM 19-02-2026"
     },
     {
       "id": 139562,
@@ -418,16 +414,16 @@
       "startTime": "12:30:00 PM 19-02-2026"
     },
     {
-      "id": 140659,
-      "event_category": "Cricket",
-      "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Maties Cricket Club",
-      "team_2": "Paarl CC",
+      "id": 140418,
+      "event_category": "Football",
+      "title": "Juventus Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1771397827695/140418_CASACARDS_APP.png",
+      "team_1": "Juventus Women",
+      "team_2": "VfL Wolfsburg Women",
       "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Maties Cricket Club vs Paarl CC",
-      "startTime": "10:00:00 PM 19-02-2026"
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Juventus Women vs VfL Wolfsburg Women",
+      "startTime": "11:15:00 PM 19-02-2026"
     },
     {
       "id": 140211,
@@ -466,16 +462,16 @@
       "startTime": "04:00:00 PM 19-02-2026"
     },
     {
-      "id": 140418,
+      "id": 140697,
       "event_category": "Football",
-      "title": "Juventus Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1771397827695/140418_CASACARDS_APP.png",
-      "team_1": "Juventus Women",
-      "team_2": "VfL Wolfsburg Women",
+      "title": "Al-Ahli Saudi FC vs Al-Najmah SC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Al-Najmah SC",
       "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Juventus Women vs VfL Wolfsburg Women",
-      "startTime": "11:15:00 PM 19-02-2026"
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ahli Saudi FC vs Al-Najmah SC",
+      "startTime": "12:30:00 AM 20-02-2026"
     }
   ]
 }
