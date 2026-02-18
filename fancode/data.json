@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:11 AM 18-02-2026",
+  "last update time": "10:45 AM 18-02-2026",
   "matches": [
     {
       "id": 133984,
@@ -16,20 +16,6 @@
       "startTime": "04:30:00 AM 18-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 134035,
-      "event_category": "Cricket",
-      "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
-      "team_1": "Queensland",
-      "team_2": "South Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Queensland vs South Australia",
-      "startTime": "05:30:00 AM 16-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8"
     },
     {
       "id": 134036,
@@ -72,20 +58,6 @@
       "startTime": "08:30:00 AM 18-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140379_english_hls_0af7ffffd769229_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140379_english_hls_0af7ffffd769229_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140296,
-      "event_category": "Tennis",
-      "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
-      "team_1": "Court A Feed",
-      "team_2": "Delray Beach, United States",
-      "status": "LIVE",
-      "event_name": "ATP 250 - Delray Beach Open 2026",
-      "match_name": "Court A Feed",
-      "startTime": "09:30:00 PM 17-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140601,
@@ -471,6 +443,30 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
       "match_name": "ATP 500 - Qatar ExxonMobil Open",
+      "startTime": "04:00:00 PM 19-02-2026"
+    },
+    {
+      "id": 140756,
+      "event_category": "Tennis",
+      "title": "Grandstand 1 vs Rio de Janeiro, Brazil (ATP 500 - Qatar ExxonMobil Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771348773886.jpg",
+      "team_1": "Grandstand 1",
+      "team_2": "Rio de Janeiro, Brazil",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+      "match_name": "Grandstand 1",
+      "startTime": "04:00:00 PM 19-02-2026"
+    },
+    {
+      "id": 140755,
+      "event_category": "Tennis",
+      "title": "Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771348773886.jpg",
+      "team_1": "Center Court",
+      "team_2": "Doha, Qatar",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+      "match_name": "Center Court",
       "startTime": "04:00:00 PM 19-02-2026"
     }
   ]
