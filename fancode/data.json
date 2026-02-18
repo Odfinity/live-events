@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:08 AM 19-02-2026",
+  "last update time": "03:33 AM 19-02-2026",
   "matches": [
-    {
-      "id": 140417,
-      "event_category": "Football",
-      "title": "Arsenal Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
-      "team_1": "Arsenal Women",
-      "team_2": "Oud-Heverlee Leuven Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Arsenal Women vs Oud-Heverlee Leuven Women",
-      "startTime": "01:30:00 AM 19-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140293,
       "event_category": "Football",
@@ -100,6 +86,20 @@
       "startTime": "01:00:00 AM 19-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140417,
+      "event_category": "Football",
+      "title": "Arsenal Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
+      "team_1": "Arsenal Women",
+      "team_2": "Oud-Heverlee Leuven Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Arsenal Women vs Oud-Heverlee Leuven Women",
+      "startTime": "01:30:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8"
     },
     {
       "id": 134036,
@@ -210,18 +210,6 @@
       "startTime": "01:15:00 PM 19-02-2026"
     },
     {
-      "id": 140067,
-      "event_category": "Football",
-      "title": "Gamba Osaka vs Pohang Steelers (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140067_5648_OSK_PHG_FC-Web.jpg",
-      "team_1": "Gamba Osaka",
-      "team_2": "Pohang Steelers",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Gamba Osaka vs Pohang Steelers",
-      "startTime": "03:30:00 PM 19-02-2026"
-    },
-    {
       "id": 140418,
       "event_category": "Football",
       "title": "Juventus Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
@@ -232,6 +220,18 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Juventus Women vs VfL Wolfsburg Women",
       "startTime": "11:15:00 PM 19-02-2026"
+    },
+    {
+      "id": 140067,
+      "event_category": "Football",
+      "title": "Gamba Osaka vs Pohang Steelers (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140067_5648_OSK_PHG_FC-Web.jpg",
+      "team_1": "Gamba Osaka",
+      "team_2": "Pohang Steelers",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Gamba Osaka vs Pohang Steelers",
+      "startTime": "03:30:00 PM 19-02-2026"
     },
     {
       "id": 140697,
@@ -354,18 +354,6 @@
       "startTime": "10:30:00 PM 19-02-2026"
     },
     {
-      "id": 140298,
-      "event_category": "Tennis",
-      "title": "Match 4 vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
-      "team_1": "Match 4",
-      "team_2": "Delray Beach, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Delray Beach Open 2026",
-      "match_name": "Match 4",
-      "startTime": "11:30:00 PM 19-02-2026"
-    },
-    {
       "id": 140383,
       "event_category": "Football",
       "title": "Sporting SM vs LA Galaxy (CONCACAF Champions Cup 2026)",
@@ -376,6 +364,18 @@
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "Sporting SM vs LA Galaxy",
       "startTime": "06:30:00 AM 20-02-2026"
+    },
+    {
+      "id": 140298,
+      "event_category": "Tennis",
+      "title": "Match 4 vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
+      "team_1": "Match 4",
+      "team_2": "Delray Beach, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Delray Beach Open 2026",
+      "match_name": "Match 4",
+      "startTime": "11:30:00 PM 19-02-2026"
     },
     {
       "id": 140288,
