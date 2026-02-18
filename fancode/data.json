@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:44 AM 19-02-2026",
+  "last update time": "01:29 AM 19-02-2026",
   "matches": [
-    {
-      "id": 140658,
-      "event_category": "Cricket",
-      "title": "Van der Stel Cricket Club vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140658_5968_VDCC_MAT_FC-Web.jpg",
-      "team_1": "Van der Stel Cricket Club",
-      "team_2": "Maties Cricket Club",
-      "status": "LIVE",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Van der Stel Cricket Club vs Maties Cricket Club",
-      "startTime": "10:00:00 PM 18-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140416,
-      "event_category": "Football",
-      "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
-      "team_1": "Real Madrid Women",
-      "team_2": "Paris FC Women",
-      "status": "LIVE",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Real Madrid Women vs Paris FC Women",
-      "startTime": "11:15:00 PM 18-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 130980,
       "event_category": "Football",
@@ -72,6 +44,20 @@
       "startTime": "11:45:00 PM 18-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140064_english_hls_b45cecf3f649700_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140064_english_hls_b45cecf3f649700_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140293,
+      "event_category": "Football",
+      "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Aberdeen",
+      "team_2": "Motherwell",
+      "status": "LIVE",
+      "event_name": "Scottish Cup 2025-26",
+      "match_name": "Aberdeen vs Motherwell",
+      "startTime": "01:15:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140293_english_hls_9c6526862022121_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140293_english_hls_9c6526862022121_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140210,
@@ -130,28 +116,88 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140297_english_hls_b1a5458b5688562_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140287,
+      "event_category": "Tennis",
+      "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
+      "team_1": "World Feed",
+      "team_2": "Rio de Janeiro, Brazil",
+      "status": "LIVE",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "World Feed",
+      "startTime": "01:00:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140287_english_hls_b3a2e9f3f836316_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140287_english_hls_b3a2e9f3f836316_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140749,
+      "event_category": "Tennis",
+      "title": "Quadra 2 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
+      "team_1": "Quadra 2",
+      "team_2": "Rio de Janeiro, Brazil",
+      "status": "LIVE",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "Quadra 2",
+      "startTime": "01:00:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140749_english_hls_984da6830b3552_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140749_english_hls_984da6830b3552_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140748,
+      "event_category": "Tennis",
+      "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
+      "team_1": "Quadra 1",
+      "team_2": "Rio de Janeiro, Brazil",
+      "status": "LIVE",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "Quadra 1",
+      "startTime": "01:00:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140748_english_hls_c74f9b91ec61687_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140748_english_hls_c74f9b91ec61687_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140747,
+      "event_category": "Tennis",
+      "title": "Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
+      "team_1": "Quadra Guga Kuerten",
+      "team_2": "Rio de Janeiro, Brazil",
+      "status": "LIVE",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "Quadra Guga Kuerten",
+      "startTime": "01:00:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140416,
+      "event_category": "Football",
+      "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
+      "team_1": "Real Madrid Women",
+      "team_2": "Paris FC Women",
+      "status": "LIVE",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Real Madrid Women vs Paris FC Women",
+      "startTime": "11:15:00 PM 18-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140417,
       "event_category": "Football",
       "title": "Arsenal Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
       "team_1": "Arsenal Women",
       "team_2": "Oud-Heverlee Leuven Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Arsenal Women vs Oud-Heverlee Leuven Women",
-      "startTime": "01:30:00 AM 19-02-2026"
-    },
-    {
-      "id": 140293,
-      "event_category": "Football",
-      "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Aberdeen",
-      "team_2": "Motherwell",
-      "status": "UPCOMING",
-      "event_name": "Scottish Cup 2025-26",
-      "match_name": "Aberdeen vs Motherwell",
-      "startTime": "01:15:00 AM 19-02-2026"
+      "startTime": "01:30:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8"
     },
     {
       "id": 134036,
@@ -178,18 +224,6 @@
       "startTime": "09:00:00 AM 16-02-2026"
     },
     {
-      "id": 140380,
-      "event_category": "Football",
-      "title": "Defense Force vs Philadelphia Union (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140380_5954_DEF_PU_FC-Web.jpg",
-      "team_1": "Defense Force",
-      "team_2": "Philadelphia Union",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Defense Force vs Philadelphia Union",
-      "startTime": "04:30:00 AM 19-02-2026"
-    },
-    {
       "id": 140437,
       "event_category": "Football",
       "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26)",
@@ -212,6 +246,18 @@
       "event_name": "ISL 2025-26  - Regional",
       "match_name": "Mumbai City FC vs Chennaiyin FC",
       "startTime": "07:30:00 PM 19-02-2026"
+    },
+    {
+      "id": 140380,
+      "event_category": "Football",
+      "title": "Defense Force vs Philadelphia Union (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140380_5954_DEF_PU_FC-Web.jpg",
+      "team_1": "Defense Force",
+      "team_2": "Philadelphia Union",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Defense Force vs Philadelphia Union",
+      "startTime": "04:30:00 AM 19-02-2026"
     },
     {
       "id": 140381,
@@ -250,52 +296,16 @@
       "startTime": "01:15:00 PM 19-02-2026"
     },
     {
-      "id": 140287,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
-      "team_1": "World Feed",
-      "team_2": "Rio de Janeiro, Brazil",
+      "id": 140659,
+      "event_category": "Cricket",
+      "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140659_5968_MAT_PRC_FC-Web.jpg",
+      "team_1": "Maties Cricket Club",
+      "team_2": "Paarl CC",
       "status": "UPCOMING",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "World Feed",
-      "startTime": "01:00:00 AM 19-02-2026"
-    },
-    {
-      "id": 140749,
-      "event_category": "Tennis",
-      "title": "Quadra 2 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
-      "team_1": "Quadra 2",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra 2",
-      "startTime": "01:00:00 AM 19-02-2026"
-    },
-    {
-      "id": 140748,
-      "event_category": "Tennis",
-      "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
-      "team_1": "Quadra 1",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra 1",
-      "startTime": "01:00:00 AM 19-02-2026"
-    },
-    {
-      "id": 140747,
-      "event_category": "Tennis",
-      "title": "Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
-      "team_1": "Quadra Guga Kuerten",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra Guga Kuerten",
-      "startTime": "01:00:00 AM 19-02-2026"
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Maties Cricket Club vs Paarl CC",
+      "startTime": "10:00:00 PM 19-02-2026"
     },
     {
       "id": 140067,
@@ -308,18 +318,6 @@
       "event_name": "AFC Champions League Two 2025-26",
       "match_name": "Gamba Osaka vs Pohang Steelers",
       "startTime": "03:30:00 PM 19-02-2026"
-    },
-    {
-      "id": 140659,
-      "event_category": "Cricket",
-      "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140659_5968_MAT_PRC_FC-Web.jpg",
-      "team_1": "Maties Cricket Club",
-      "team_2": "Paarl CC",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Maties Cricket Club vs Paarl CC",
-      "startTime": "10:00:00 PM 19-02-2026"
     },
     {
       "id": 140418,
@@ -475,6 +473,18 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
       "match_name": "World Feed",
+      "startTime": "01:00:00 AM 20-02-2026"
+    },
+    {
+      "id": 140754,
+      "event_category": "Tennis",
+      "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
+      "team_1": "Quadra 1",
+      "team_2": "Rio de Janeiro, Brazil",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "Quadra 1",
       "startTime": "01:00:00 AM 20-02-2026"
     }
   ]
