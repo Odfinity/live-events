@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:34 AM 19-02-2026",
+  "last update time": "12:44 PM 19-02-2026",
   "matches": [
     {
       "id": 134037,
@@ -16,6 +16,32 @@
       "startTime": "09:00:00 AM 16-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c14372_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c14372_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139562,
+      "event_category": "Formula 1",
+      "title": "Day 2 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
+      "team_1": "Day 2",
+      "team_2": "Bahrain International Circuit",
+      "status": "LIVE",
+      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
+      "match_name": "Day 2",
+      "startTime": "12:30:00 PM 19-02-2026",
+      "dai_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139562_english_624300/ad-h264/index.m3u8",
+      "adfree_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139562_english_624300/ad-h264/index.m3u8"
+    },
+    {
+      "id": 140066,
+      "event_category": "Football",
+      "title": "Macarthur vs Bangkok United (AFC Champions League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140066_5648_MAC_BU_FC-Web.jpg",
+      "team_1": "Macarthur",
+      "team_2": "Bangkok United",
+      "status": "UPCOMING",
+      "event_name": "AFC Champions League Two 2025-26",
+      "match_name": "Macarthur vs Bangkok United",
+      "startTime": "01:15:00 PM 19-02-2026"
     },
     {
       "id": 140659,
@@ -57,7 +83,7 @@
       "id": 140418,
       "event_category": "Football",
       "title": "Juventus Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/VfL-Wolfsburg-Women-vs-Juventus-Women_fc-web.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140418_5720_JUV-W_WOL-W_fc-web.jpg",
       "team_1": "Juventus Women",
       "team_2": "VfL Wolfsburg Women",
       "status": "UPCOMING",
@@ -69,7 +95,7 @@
       "id": 140697,
       "event_category": "Football",
       "title": "Al-Ahli Saudi FC vs Al-Najmah SC (Roshn Saudi League 2025-2026)",
-      "src": "https://images.fancode.com/aig/match/v1771475847172/140697_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140697_5655_AAS_ALN_fc-web.jpg",
       "team_1": "Al-Ahli Saudi FC",
       "team_2": "Al-Najmah SC",
       "status": "UPCOMING",
@@ -90,18 +116,6 @@
       "startTime": "01:30:00 AM 20-02-2026"
     },
     {
-      "id": 140066,
-      "event_category": "Football",
-      "title": "Macarthur vs Bangkok United (AFC Champions League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140066_5648_MAC_BU_FC-Web.jpg",
-      "team_1": "Macarthur",
-      "team_2": "Bangkok United",
-      "status": "UPCOMING",
-      "event_name": "AFC Champions League Two 2025-26",
-      "match_name": "Macarthur vs Bangkok United",
-      "startTime": "01:15:00 PM 19-02-2026"
-    },
-    {
       "id": 140067,
       "event_category": "Football",
       "title": "Gamba Osaka vs Pohang Steelers (AFC Champions League Two 2025-26)",
@@ -114,16 +128,16 @@
       "startTime": "03:30:00 PM 19-02-2026"
     },
     {
-      "id": 139562,
-      "event_category": "Formula 1",
-      "title": "Day 2 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
-      "team_1": "Day 2",
-      "team_2": "Bahrain International Circuit",
+      "id": 140602,
+      "event_category": "Live Events",
+      "title": "Day 4 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+      "team_1": "Day 4",
+      "team_2": "Polo Gorund, Delhi University",
       "status": "UPCOMING",
-      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
-      "match_name": "Day 2",
-      "startTime": "12:30:00 PM 19-02-2026"
+      "event_name": "Apti Cup T20 Tournament",
+      "match_name": "Day 4",
+      "startTime": "01:30:00 PM 19-02-2026"
     },
     {
       "id": 140383,
@@ -136,18 +150,6 @@
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "Sporting SM vs LA Galaxy",
       "startTime": "06:30:00 AM 20-02-2026"
-    },
-    {
-      "id": 140602,
-      "event_category": "Live Events",
-      "title": "Day 4 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-      "team_1": "Day 4",
-      "team_2": "Polo Gorund, Delhi University",
-      "status": "UPCOMING",
-      "event_name": "Apti Cup T20 Tournament",
-      "match_name": "Day 4",
-      "startTime": "01:30:00 PM 19-02-2026"
     },
     {
       "id": 140211,
@@ -184,6 +186,18 @@
       "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
       "match_name": "Center Court",
       "startTime": "05:30:00 PM 19-02-2026"
+    },
+    {
+      "id": 140661,
+      "event_category": "Cricket",
+      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+      "team_1": "England Lions",
+      "team_2": "Pakistan Shaheens",
+      "status": "UPCOMING",
+      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+      "match_name": "England Lions vs Pakistan Shaheens",
+      "startTime": "03:30:00 PM 20-02-2026"
     },
     {
       "id": 140566,
@@ -282,16 +296,16 @@
       "startTime": "02:30:00 AM 20-02-2026"
     },
     {
-      "id": 140661,
+      "id": 140138,
       "event_category": "Cricket",
-      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-      "team_1": "England Lions",
-      "team_2": "Pakistan Shaheens",
+      "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card.jpg",
+      "team_1": "West Indies Women",
+      "team_2": "Sri Lanka Women",
       "status": "UPCOMING",
-      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-      "match_name": "England Lions vs Pakistan Shaheens",
-      "startTime": "03:30:00 PM 20-02-2026"
+      "event_name": "Sri Lanka Women tour of West Indies, 2026",
+      "match_name": "West Indies Women vs Sri Lanka Women",
+      "startTime": "07:00:00 PM 20-02-2026"
     },
     {
       "id": 139412,
@@ -304,18 +318,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Adelaide United vs Perth Glory",
       "startTime": "02:05:00 PM 20-02-2026"
-    },
-    {
-      "id": 140138,
-      "event_category": "Cricket",
-      "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card.jpg",
-      "team_1": "West Indies Women",
-      "team_2": "Sri Lanka Women",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka Women tour of West Indies, 2026",
-      "match_name": "West Indies Women vs Sri Lanka Women",
-      "startTime": "07:00:00 PM 20-02-2026"
     },
     {
       "id": 140660,
