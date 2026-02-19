@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:18 PM 19-02-2026",
+  "last update time": "06:00 PM 19-02-2026",
   "matches": [
     {
       "id": 140067,
@@ -30,20 +30,6 @@
       "startTime": "12:30:00 PM 19-02-2026",
       "dai_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139562_english_624300/ad-h264/index.m3u8",
       "adfree_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139562_english_624300/ad-h264/index.m3u8"
-    },
-    {
-      "id": 140602,
-      "event_category": "Live Events",
-      "title": "Day 4 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-      "team_1": "Day 4",
-      "team_2": "Polo Gorund, Delhi University",
-      "status": "LIVE",
-      "event_name": "Apti Cup T20 Tournament",
-      "match_name": "Day 4",
-      "startTime": "01:30:00 PM 19-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140602_english_hls_1be721d13f60446_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140602_english_hls_1be721d13f60446_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140211,
@@ -160,18 +146,6 @@
       "startTime": "01:30:00 AM 20-02-2026"
     },
     {
-      "id": 140383,
-      "event_category": "Football",
-      "title": "Sporting SM vs LA Galaxy (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140383_5954_SSM_LAG_FC-Web.jpg",
-      "team_1": "Sporting SM",
-      "team_2": "LA Galaxy",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Sporting SM vs LA Galaxy",
-      "startTime": "06:30:00 AM 20-02-2026"
-    },
-    {
       "id": 140138,
       "event_category": "Cricket",
       "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
@@ -182,6 +156,18 @@
       "event_name": "Sri Lanka Women tour of West Indies, 2026",
       "match_name": "West Indies Women vs Sri Lanka Women",
       "startTime": "07:00:00 PM 20-02-2026"
+    },
+    {
+      "id": 140383,
+      "event_category": "Football",
+      "title": "Sporting SM vs LA Galaxy (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140383_5954_SSM_LAG_FC-Web.jpg",
+      "team_1": "Sporting SM",
+      "team_2": "LA Galaxy",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Sporting SM vs LA Galaxy",
+      "startTime": "06:30:00 AM 20-02-2026"
     },
     {
       "id": 140661,
@@ -470,6 +456,18 @@
       "event_name": "The Genesis Invitational 2026",
       "match_name": "Marquee Group - Day 2",
       "startTime": "10:30:00 PM 20-02-2026"
+    },
+    {
+      "id": 133980,
+      "event_category": "Cricket",
+      "title": "New South Wales Breakers vs Tasmania Women (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+      "team_1": "New South Wales Breakers",
+      "team_2": "Tasmania Women",
+      "status": "UPCOMING",
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "New South Wales Breakers vs Tasmania Women",
+      "startTime": "04:30:00 AM 21-02-2026"
     }
   ]
 }
