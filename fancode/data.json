@@ -1,21 +1,49 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:28 AM 19-02-2026",
+  "last update time": "08:24 AM 19-02-2026",
   "matches": [
     {
-      "id": 140380,
+      "id": 134036,
+      "event_category": "Cricket",
+      "title": "Victoria vs Western Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
+      "team_1": "Victoria",
+      "team_2": "Western Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Victoria vs Western Australia",
+      "startTime": "08:00:00 AM 16-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140381,
       "event_category": "Football",
-      "title": "Defense Force vs Philadelphia Union (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140380_5954_DEF_PU_FC-Web.jpg",
-      "team_1": "Defense Force",
-      "team_2": "Philadelphia Union",
+      "title": "O&M FC vs FC Cincinnati (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
+      "team_1": "O&M FC",
+      "team_2": "FC Cincinnati",
       "status": "LIVE",
       "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Defense Force vs Philadelphia Union",
-      "startTime": "04:30:00 AM 19-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140380_english_hls_8c14c35afc78977_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140380_english_hls_8c14c35afc78977_1ta-di_h264/index.m3u8"
+      "match_name": "O&M FC vs FC Cincinnati",
+      "startTime": "06:30:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140382,
+      "event_category": "Football",
+      "title": "CS Cartagines vs Vancouver Whitecaps FC (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140382_5954_CSC_VAN_FC-Web.jpg",
+      "team_1": "CS Cartagines",
+      "team_2": "Vancouver Whitecaps FC",
+      "status": "LIVE",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "CS Cartagines vs Vancouver Whitecaps FC",
+      "startTime": "08:30:00 AM 19-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140382_english_hls_831c93db4672027_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140382_english_hls_831c93db4672027_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140297,
@@ -30,62 +58,6 @@
       "startTime": "09:30:00 PM 18-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140297_english_hls_b1a5458b5688562_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140297_english_hls_b1a5458b5688562_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140287,
-      "event_category": "Tennis",
-      "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
-      "team_1": "World Feed",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "World Feed",
-      "startTime": "01:00:00 AM 19-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140287_english_hls_b3a2e9f3f836316_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140287_english_hls_b3a2e9f3f836316_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140749,
-      "event_category": "Tennis",
-      "title": "Quadra 2 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
-      "team_1": "Quadra 2",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra 2",
-      "startTime": "01:00:00 AM 19-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140749_english_hls_984da6830b3552_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140749_english_hls_984da6830b3552_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140748,
-      "event_category": "Tennis",
-      "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
-      "team_1": "Quadra 1",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra 1",
-      "startTime": "01:00:00 AM 19-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140748_english_hls_c74f9b91ec61687_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140748_english_hls_c74f9b91ec61687_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140747,
-      "event_category": "Tennis",
-      "title": "Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
-      "team_1": "Quadra Guga Kuerten",
-      "team_2": "Rio de Janeiro, Brazil",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "Quadra Guga Kuerten",
-      "startTime": "01:00:00 AM 19-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140437,
@@ -124,16 +96,16 @@
       "startTime": "10:00:00 PM 19-02-2026"
     },
     {
-      "id": 134036,
-      "event_category": "Cricket",
-      "title": "Victoria vs Western Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
-      "team_1": "Victoria",
-      "team_2": "Western Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Victoria vs Western Australia",
-      "startTime": "08:00:00 AM 16-02-2026"
+      "id": 140418,
+      "event_category": "Football",
+      "title": "Juventus Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/VfL-Wolfsburg-Women-vs-Juventus-Women_fc-web.jpg",
+      "team_1": "Juventus Women",
+      "team_2": "VfL Wolfsburg Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Juventus Women vs VfL Wolfsburg Women",
+      "startTime": "11:15:00 PM 19-02-2026"
     },
     {
       "id": 134037,
@@ -148,42 +120,6 @@
       "startTime": "09:00:00 AM 16-02-2026"
     },
     {
-      "id": 140418,
-      "event_category": "Football",
-      "title": "Juventus Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/VfL-Wolfsburg-Women-vs-Juventus-Women_fc-web.jpg",
-      "team_1": "Juventus Women",
-      "team_2": "VfL Wolfsburg Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Juventus Women vs VfL Wolfsburg Women",
-      "startTime": "11:15:00 PM 19-02-2026"
-    },
-    {
-      "id": 140381,
-      "event_category": "Football",
-      "title": "O&M FC vs FC Cincinnati (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
-      "team_1": "O&M FC",
-      "team_2": "FC Cincinnati",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "O&M FC vs FC Cincinnati",
-      "startTime": "06:30:00 AM 19-02-2026"
-    },
-    {
-      "id": 140382,
-      "event_category": "Football",
-      "title": "CS Cartagines vs Vancouver Whitecaps FC (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140382_5954_CSC_VAN_FC-Web.jpg",
-      "team_1": "CS Cartagines",
-      "team_2": "Vancouver Whitecaps FC",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "CS Cartagines vs Vancouver Whitecaps FC",
-      "startTime": "08:30:00 AM 19-02-2026"
-    },
-    {
       "id": 140697,
       "event_category": "Football",
       "title": "Al-Ahli Saudi FC vs Al-Najmah SC (Roshn Saudi League 2025-2026)",
@@ -194,6 +130,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Ahli Saudi FC vs Al-Najmah SC",
       "startTime": "12:30:00 AM 20-02-2026"
+    },
+    {
+      "id": 140419,
+      "event_category": "Football",
+      "title": "Manchester United Women vs Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-Femenino-vs-Manchester-United-Women_fc-web.jpg",
+      "team_1": "Manchester United Women",
+      "team_2": "Atletico de Madrid Femenino",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Manchester United Women vs Atletico de Madrid Femenino",
+      "startTime": "01:30:00 AM 20-02-2026"
     },
     {
       "id": 140066,
@@ -220,16 +168,16 @@
       "startTime": "03:30:00 PM 19-02-2026"
     },
     {
-      "id": 140419,
+      "id": 140383,
       "event_category": "Football",
-      "title": "Manchester United Women vs Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-Femenino-vs-Manchester-United-Women_fc-web.jpg",
-      "team_1": "Manchester United Women",
-      "team_2": "Atletico de Madrid Femenino",
+      "title": "Sporting SM vs LA Galaxy (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140383_5954_SSM_LAG_FC-Web.jpg",
+      "team_1": "Sporting SM",
+      "team_2": "LA Galaxy",
       "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Manchester United Women vs Atletico de Madrid Femenino",
-      "startTime": "01:30:00 AM 20-02-2026"
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Sporting SM vs LA Galaxy",
+      "startTime": "06:30:00 AM 20-02-2026"
     },
     {
       "id": 140602,
@@ -290,18 +238,6 @@
       "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
       "match_name": "Center Court",
       "startTime": "04:00:00 PM 19-02-2026"
-    },
-    {
-      "id": 140383,
-      "event_category": "Football",
-      "title": "Sporting SM vs LA Galaxy (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140383_5954_SSM_LAG_FC-Web.jpg",
-      "team_1": "Sporting SM",
-      "team_2": "LA Galaxy",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Sporting SM vs LA Galaxy",
-      "startTime": "06:30:00 AM 20-02-2026"
     },
     {
       "id": 140566,
@@ -470,6 +406,66 @@
       "event_name": "ISL 2025-26",
       "match_name": "Mohammedan SC vs FC Goa",
       "startTime": "07:30:00 PM 20-02-2026"
+    },
+    {
+      "id": 140677,
+      "event_category": "Cricket",
+      "title": "Vredenburg/Saldanha CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140677_5968_VDS_PECC_FC-Web.jpg",
+      "team_1": "Vredenburg/Saldanha CC",
+      "team_2": "Paarl East Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Vredenburg/Saldanha CC vs Paarl East Cricket Club",
+      "startTime": "10:00:00 PM 20-02-2026"
+    },
+    {
+      "id": 140757,
+      "event_category": "Tennis",
+      "title": "Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771348773886.jpg",
+      "team_1": "Center Court",
+      "team_2": "Doha, Qatar",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+      "match_name": "Center Court",
+      "startTime": "05:30:00 PM 20-02-2026"
+    },
+    {
+      "id": 140569,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "team_1": "Main Feed - Day 2",
+      "team_2": "The Riviera Country Club",
+      "status": "UPCOMING",
+      "event_name": "The Genesis Invitational 2026",
+      "match_name": "Main Feed - Day 2",
+      "startTime": "08:45:00 PM 20-02-2026"
+    },
+    {
+      "id": 131075,
+      "event_category": "Football",
+      "title": "Athletic Club vs Elche CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131075_5427_ATH_ELC_FC-Web.png",
+      "team_1": "Athletic Club",
+      "team_2": "Elche CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs Elche CF",
+      "startTime": "01:30:00 AM 21-02-2026"
+    },
+    {
+      "id": 140122,
+      "event_category": "Football",
+      "title": "Blackburn Rovers F.C. vs Preston North End F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Blackburn Rovers F.C.",
+      "team_2": "Preston North End F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Blackburn Rovers F.C. vs Preston North End F.C.",
+      "startTime": "01:30:00 AM 21-02-2026"
     }
   ]
 }
