@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:36 PM 20-02-2026",
+  "last update time": "02:28 PM 20-02-2026",
   "matches": [
+    {
+      "id": 139412,
+      "event_category": "Football",
+      "title": "Adelaide United vs Perth Glory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139412_5802_ADL_PG_1770722465261.png",
+      "team_1": "Adelaide United",
+      "team_2": "Perth Glory",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Adelaide United vs Perth Glory",
+      "startTime": "02:05:00 PM 20-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139412_english_hls_3271f4d7c684772_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139412_english_hls_3271f4d7c684772_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139563,
       "event_category": "Formula 1",
@@ -28,18 +42,6 @@
       "event_name": "Sri Lanka Women tour of West Indies, 2026",
       "match_name": "West Indies Women vs Sri Lanka Women",
       "startTime": "07:00:00 PM 20-02-2026"
-    },
-    {
-      "id": 139412,
-      "event_category": "Football",
-      "title": "Adelaide United vs Perth Glory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139412_5802_ADL_PG_1770722465261.png",
-      "team_1": "Adelaide United",
-      "team_2": "Perth Glory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Adelaide United vs Perth Glory",
-      "startTime": "02:05:00 PM 20-02-2026"
     },
     {
       "id": 140661,
@@ -150,6 +152,18 @@
       "startTime": "08:30:00 AM 21-02-2026"
     },
     {
+      "id": 140878,
+      "event_category": "Football",
+      "title": "Mohammedan SC vs FC Goa (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140438_5956_MSC_FCG_fc-app-v2-2.jpg",
+      "team_1": "Mohammedan SC",
+      "team_2": "FC Goa",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "Mohammedan SC vs FC Goa",
+      "startTime": "07:30:00 PM 20-02-2026"
+    },
+    {
       "id": 140424,
       "event_category": "Football",
       "title": "Ceuta vs Granada (LALIGA Hypermotion 2025-26)",
@@ -208,6 +222,30 @@
       "event_name": "A League 2025-26",
       "match_name": "Sydney FC vs Brisbane Roar",
       "startTime": "11:30:00 AM 21-02-2026"
+    },
+    {
+      "id": 139415,
+      "event_category": "Football",
+      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
+      "team_1": "Melbourne City",
+      "team_2": "Melbourne Victory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Melbourne Victory",
+      "startTime": "02:05:00 PM 21-02-2026"
+    },
+    {
+      "id": 140439,
+      "event_category": "Football",
+      "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140439_5956_EBFC_SCD_fc-web_1771412947600.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "Sporting Club Delhi",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "East Bengal FC vs Sporting Club Delhi",
+      "startTime": "05:00:00 PM 21-02-2026"
     },
     {
       "id": 140212,
@@ -282,16 +320,16 @@
       "startTime": "10:30:00 PM 20-02-2026"
     },
     {
-      "id": 139415,
-      "event_category": "Football",
-      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
-      "team_1": "Melbourne City",
-      "team_2": "Melbourne Victory",
+      "id": 140679,
+      "event_category": "Cricket",
+      "title": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg",
+      "team_1": "Van der Stel Cricket Club",
+      "team_2": "Vredenburg/Saldanha CC",
       "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Melbourne Victory",
-      "startTime": "02:05:00 PM 21-02-2026"
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC",
+      "startTime": "05:30:00 PM 21-02-2026"
     },
     {
       "id": 140760,
@@ -340,30 +378,6 @@
       "event_name": "The Genesis Invitational 2026",
       "match_name": "World Feed - Day 2",
       "startTime": "02:30:00 AM 21-02-2026"
-    },
-    {
-      "id": 140439,
-      "event_category": "Football",
-      "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140439_5956_EBFC_SCD_fc-web_1771412947600.jpg",
-      "team_1": "East Bengal FC",
-      "team_2": "Sporting Club Delhi",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "East Bengal FC vs Sporting Club Delhi",
-      "startTime": "05:00:00 PM 21-02-2026"
-    },
-    {
-      "id": 140679,
-      "event_category": "Cricket",
-      "title": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg",
-      "team_1": "Van der Stel Cricket Club",
-      "team_2": "Vredenburg/Saldanha CC",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC",
-      "startTime": "05:30:00 PM 21-02-2026"
     },
     {
       "id": 140123,
@@ -448,18 +462,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Deportivo La Coruna vs Eibar",
       "startTime": "08:45:00 PM 21-02-2026"
-    },
-    {
-      "id": 131071,
-      "event_category": "Football",
-      "title": "CA Osasuna vs Real Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "Real Madrid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Real Madrid",
-      "startTime": "11:00:00 PM 21-02-2026"
     }
   ]
 }
