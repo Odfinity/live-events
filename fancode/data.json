@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:24 AM 21-02-2026",
+  "last update time": "02:08 AM 21-02-2026",
   "matches": [
     {
       "id": 140138,
@@ -318,18 +318,6 @@
       "startTime": "08:30:00 PM 21-02-2026"
     },
     {
-      "id": 139413,
-      "event_category": "Football",
-      "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-      "team_1": "Wellington Phoenix",
-      "team_2": "Auckland",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Wellington Phoenix vs Auckland",
-      "startTime": "09:30:00 AM 21-02-2026"
-    },
-    {
       "id": 131078,
       "event_category": "Football",
       "title": "Real Betis vs Rayo Vallecano (LALIGA 2025-26)",
@@ -340,6 +328,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Betis vs Rayo Vallecano",
       "startTime": "08:45:00 PM 21-02-2026"
+    },
+    {
+      "id": 139413,
+      "event_category": "Football",
+      "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
+      "team_1": "Wellington Phoenix",
+      "team_2": "Auckland",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Wellington Phoenix vs Auckland",
+      "startTime": "09:30:00 AM 21-02-2026"
     },
     {
       "id": 139414,
@@ -354,18 +354,6 @@
       "startTime": "11:30:00 AM 21-02-2026"
     },
     {
-      "id": 139415,
-      "event_category": "Football",
-      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
-      "team_1": "Melbourne City",
-      "team_2": "Melbourne Victory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Melbourne Victory",
-      "startTime": "02:05:00 PM 21-02-2026"
-    },
-    {
       "id": 140680,
       "event_category": "Cricket",
       "title": "Paarl East Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
@@ -378,16 +366,28 @@
       "startTime": "10:00:00 PM 21-02-2026"
     },
     {
-      "id": 140886,
+      "id": 139415,
       "event_category": "Football",
-      "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "East Bengal FC",
-      "team_2": "Sporting Club Delhi",
+      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
+      "team_1": "Melbourne City",
+      "team_2": "Melbourne Victory",
       "status": "UPCOMING",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "East Bengal FC vs Sporting Club Delhi",
-      "startTime": "05:00:00 PM 21-02-2026"
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Melbourne Victory",
+      "startTime": "02:05:00 PM 21-02-2026"
+    },
+    {
+      "id": 140069,
+      "event_category": "Golf",
+      "title": "World Feed - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "team_1": "World Feed - Day 2",
+      "team_2": "The Riviera Country Club",
+      "status": "UPCOMING",
+      "event_name": "The Genesis Invitational 2026",
+      "match_name": "World Feed - Day 2",
+      "startTime": "02:30:00 AM 21-02-2026"
     },
     {
       "id": 131071,
@@ -402,16 +402,16 @@
       "startTime": "11:00:00 PM 21-02-2026"
     },
     {
-      "id": 140425,
+      "id": 140886,
       "event_category": "Football",
-      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Eibar",
+      "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "Sporting Club Delhi",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo La Coruna vs Eibar",
-      "startTime": "08:45:00 PM 21-02-2026"
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "East Bengal FC vs Sporting Club Delhi",
+      "startTime": "05:00:00 PM 21-02-2026"
     },
     {
       "id": 140699,
@@ -438,6 +438,18 @@
       "startTime": "12:30:00 AM 22-02-2026"
     },
     {
+      "id": 140425,
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "Eibar",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo La Coruna vs Eibar",
+      "startTime": "08:45:00 PM 21-02-2026"
+    },
+    {
       "id": 131076,
       "event_category": "Football",
       "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
@@ -448,18 +460,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Atletico de Madrid vs RCD Espanyol",
       "startTime": "01:30:00 AM 22-02-2026"
-    },
-    {
-      "id": 140069,
-      "event_category": "Golf",
-      "title": "World Feed - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-      "team_1": "World Feed - Day 2",
-      "team_2": "The Riviera Country Club",
-      "status": "UPCOMING",
-      "event_name": "The Genesis Invitational 2026",
-      "match_name": "World Feed - Day 2",
-      "startTime": "02:30:00 AM 21-02-2026"
     },
     {
       "id": 133982,
