@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:05 PM 20-02-2026",
+  "last update time": "01:04 PM 20-02-2026",
   "matches": [
+    {
+      "id": 139563,
+      "event_category": "Formula 1",
+      "title": "Day 3 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
+      "team_1": "Day 3",
+      "team_2": "Bahrain International Circuit",
+      "status": "LIVE",
+      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
+      "match_name": "Day 3",
+      "startTime": "12:30:00 PM 20-02-2026",
+      "dai_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139563_english_164866/ad-h264/index.m3u8",
+      "adfree_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139563_english_164866/ad-h264/index.m3u8"
+    },
     {
       "id": 140138,
       "event_category": "Cricket",
@@ -146,18 +160,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Ceuta vs Granada",
       "startTime": "01:00:00 AM 21-02-2026"
-    },
-    {
-      "id": 139563,
-      "event_category": "Formula 1",
-      "title": "Day 3 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
-      "team_1": "Day 3",
-      "team_2": "Bahrain International Circuit",
-      "status": "UPCOMING",
-      "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
-      "match_name": "Day 3",
-      "startTime": "12:30:00 PM 20-02-2026"
     },
     {
       "id": 133948,
