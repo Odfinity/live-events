@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:28 PM 20-02-2026",
+  "last update time": "03:22 PM 20-02-2026",
   "matches": [
+    {
+      "id": 140661,
+      "event_category": "Cricket",
+      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+      "team_1": "England Lions",
+      "team_2": "Pakistan Shaheens",
+      "status": "LIVE",
+      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+      "match_name": "England Lions vs Pakistan Shaheens",
+      "startTime": "03:30:00 PM 20-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140661_english_hls_2f7528d99a95628_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140661_english_hls_2f7528d99a95628_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 139412,
       "event_category": "Football",
@@ -44,18 +58,6 @@
       "startTime": "07:00:00 PM 20-02-2026"
     },
     {
-      "id": 140661,
-      "event_category": "Cricket",
-      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-      "team_1": "England Lions",
-      "team_2": "Pakistan Shaheens",
-      "status": "UPCOMING",
-      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-      "match_name": "England Lions vs Pakistan Shaheens",
-      "startTime": "03:30:00 PM 20-02-2026"
-    },
-    {
       "id": 140660,
       "event_category": "Cricket",
       "title": "Paarl CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
@@ -88,6 +90,18 @@
       "team_2": "FC Goa",
       "status": "UPCOMING",
       "event_name": "ISL 2025-26",
+      "match_name": "Mohammedan SC vs FC Goa",
+      "startTime": "07:30:00 PM 20-02-2026"
+    },
+    {
+      "id": 140878,
+      "event_category": "Football",
+      "title": "Mohammedan SC vs FC Goa (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140438_5956_MSC_FCG_fc-app-v2-2_1771580056701.jpg",
+      "team_1": "Mohammedan SC",
+      "team_2": "FC Goa",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
       "match_name": "Mohammedan SC vs FC Goa",
       "startTime": "07:30:00 PM 20-02-2026"
     },
@@ -150,18 +164,6 @@
       "event_name": "One Day Cup, 2025-26",
       "match_name": "Tasmania vs New South Wales",
       "startTime": "08:30:00 AM 21-02-2026"
-    },
-    {
-      "id": 140878,
-      "event_category": "Football",
-      "title": "Mohammedan SC vs FC Goa (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140438_5956_MSC_FCG_fc-app-v2-2.jpg",
-      "team_1": "Mohammedan SC",
-      "team_2": "FC Goa",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "Mohammedan SC vs FC Goa",
-      "startTime": "07:30:00 PM 20-02-2026"
     },
     {
       "id": 140424,
@@ -248,6 +250,18 @@
       "startTime": "05:00:00 PM 21-02-2026"
     },
     {
+      "id": 140679,
+      "event_category": "Cricket",
+      "title": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg",
+      "team_1": "Van der Stel Cricket Club",
+      "team_2": "Vredenburg/Saldanha CC",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC",
+      "startTime": "05:30:00 PM 21-02-2026"
+    },
+    {
       "id": 140212,
       "event_category": "Tennis",
       "title": "World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
@@ -320,16 +334,16 @@
       "startTime": "10:30:00 PM 20-02-2026"
     },
     {
-      "id": 140679,
-      "event_category": "Cricket",
-      "title": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg",
-      "team_1": "Van der Stel Cricket Club",
-      "team_2": "Vredenburg/Saldanha CC",
+      "id": 140123,
+      "event_category": "Football",
+      "title": "West Bromwich Albion F.C. vs Coventry City Football Club (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "West Bromwich Albion F.C.",
+      "team_2": "Coventry City Football Club",
       "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC",
-      "startTime": "05:30:00 PM 21-02-2026"
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "West Bromwich Albion F.C. vs Coventry City Football Club",
+      "startTime": "06:00:00 PM 21-02-2026"
     },
     {
       "id": 140760,
@@ -378,18 +392,6 @@
       "event_name": "The Genesis Invitational 2026",
       "match_name": "World Feed - Day 2",
       "startTime": "02:30:00 AM 21-02-2026"
-    },
-    {
-      "id": 140123,
-      "event_category": "Football",
-      "title": "West Bromwich Albion F.C. vs Coventry City Football Club (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "West Bromwich Albion F.C.",
-      "team_2": "Coventry City Football Club",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "West Bromwich Albion F.C. vs Coventry City Football Club",
-      "startTime": "06:00:00 PM 21-02-2026"
     },
     {
       "id": 131073,
