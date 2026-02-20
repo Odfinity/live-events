@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:25 AM 21-02-2026",
+  "last update time": "04:01 AM 21-02-2026",
   "matches": [
-    {
-      "id": 131075,
-      "event_category": "Football",
-      "title": "Athletic Club vs Elche CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131075_5427_ATH_ELC_FC-Web.png",
-      "team_1": "Athletic Club",
-      "team_2": "Elche CF",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Athletic Club vs Elche CF",
-      "startTime": "01:30:00 AM 21-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131075_english_hls_ca435ba20460198_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131075_english_hls_ca435ba20460198_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140122,
-      "event_category": "Football",
-      "title": "Blackburn Rovers F.C. vs Preston North End F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Blackburn Rovers F.C.",
-      "team_2": "Preston North End F.C.",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Blackburn Rovers F.C. vs Preston North End F.C.",
-      "startTime": "01:30:00 AM 21-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140122_english_hls_acfa12043f61996_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140122_english_hls_acfa12043f61996_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140571,
       "event_category": "Golf",
@@ -142,6 +114,20 @@
       "startTime": "02:30:00 AM 21-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140069_english_hls_eb81ef56b242945_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140069_english_hls_eb81ef56b242945_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131075,
+      "event_category": "Football",
+      "title": "Athletic Club vs Elche CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131075_5427_ATH_ELC_FC-Web.png",
+      "team_1": "Athletic Club",
+      "team_2": "Elche CF",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Athletic Club vs Elche CF",
+      "startTime": "01:30:00 AM 21-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131075_english_hls_ca435ba20460198_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131075_english_hls_ca435ba20460198_1ta-di_h264/index.m3u8"
     },
     {
       "id": 133980,
@@ -312,6 +298,18 @@
       "startTime": "09:30:00 AM 21-02-2026"
     },
     {
+      "id": 131071,
+      "event_category": "Football",
+      "title": "CA Osasuna vs Real Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-Web.png",
+      "team_1": "CA Osasuna",
+      "team_2": "Real Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs Real Madrid",
+      "startTime": "11:00:00 PM 21-02-2026"
+    },
+    {
       "id": 139414,
       "event_category": "Football",
       "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
@@ -334,30 +332,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Melbourne City vs Melbourne Victory",
       "startTime": "02:05:00 PM 21-02-2026"
-    },
-    {
-      "id": 131071,
-      "event_category": "Football",
-      "title": "CA Osasuna vs Real Madrid (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "Real Madrid",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs Real Madrid",
-      "startTime": "11:00:00 PM 21-02-2026"
-    },
-    {
-      "id": 140886,
-      "event_category": "Football",
-      "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "East Bengal FC",
-      "team_2": "Sporting Club Delhi",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "East Bengal FC vs Sporting Club Delhi",
-      "startTime": "05:00:00 PM 21-02-2026"
     },
     {
       "id": 140699,
@@ -384,16 +358,16 @@
       "startTime": "12:30:00 AM 22-02-2026"
     },
     {
-      "id": 140425,
+      "id": 140886,
       "event_category": "Football",
-      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Eibar",
+      "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "Sporting Club Delhi",
       "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo La Coruna vs Eibar",
-      "startTime": "08:45:00 PM 21-02-2026"
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "East Bengal FC vs Sporting Club Delhi",
+      "startTime": "05:00:00 PM 21-02-2026"
     },
     {
       "id": 131076,
@@ -406,6 +380,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Atletico de Madrid vs RCD Espanyol",
       "startTime": "01:30:00 AM 22-02-2026"
+    },
+    {
+      "id": 140425,
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "Eibar",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo La Coruna vs Eibar",
+      "startTime": "08:45:00 PM 21-02-2026"
     },
     {
       "id": 133982,
@@ -466,6 +452,18 @@
       "event_name": "The Genesis Invitational 2026",
       "match_name": "Featured Groups - Day 3",
       "startTime": "09:30:00 PM 21-02-2026"
+    },
+    {
+      "id": 140573,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "team_1": "Marquee Group - Day 3",
+      "team_2": "The Riviera Country Club",
+      "status": "UPCOMING",
+      "event_name": "The Genesis Invitational 2026",
+      "match_name": "Marquee Group - Day 3",
+      "startTime": "09:45:00 PM 21-02-2026"
     }
   ]
 }
