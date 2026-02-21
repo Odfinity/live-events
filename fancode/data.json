@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:57 AM 21-02-2026",
+  "last update time": "11:33 AM 21-02-2026",
   "matches": [
-    {
-      "id": 133980,
-      "event_category": "Cricket",
-      "title": "New South Wales Breakers vs Tasmania Women (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-      "team_1": "New South Wales Breakers",
-      "team_2": "Tasmania Women",
-      "status": "LIVE",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "New South Wales Breakers vs Tasmania Women",
-      "startTime": "04:30:00 AM 21-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 133946,
       "event_category": "Cricket",
@@ -46,6 +32,20 @@
       "adfree_url": null
     },
     {
+      "id": 133948,
+      "event_category": "Cricket",
+      "title": "Victoria vs Western Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Victoria_fc-web.jpg",
+      "team_1": "Victoria",
+      "team_2": "Western Australia",
+      "status": "LIVE",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Victoria vs Western Australia",
+      "startTime": "11:30:00 AM 21-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/QG2diY3nQK2zZnJZrYcQNw/master.m3u8",
+      "adfree_url": null
+    },
+    {
       "id": 139413,
       "event_category": "Football",
       "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
@@ -60,6 +60,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139413_english_hls_c160005ede19078_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139414,
+      "event_category": "Football",
+      "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
+      "team_1": "Sydney FC",
+      "team_2": "Brisbane Roar",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Brisbane Roar",
+      "startTime": "11:30:00 AM 21-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140289,
       "event_category": "Tennis",
       "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
@@ -72,30 +86,6 @@
       "startTime": "01:30:00 AM 21-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133948,
-      "event_category": "Cricket",
-      "title": "Western Australia vs Victoria (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Victoria_fc-web.jpg",
-      "team_1": "Western Australia",
-      "team_2": "Victoria",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Western Australia vs Victoria",
-      "startTime": "11:30:00 AM 21-02-2026"
-    },
-    {
-      "id": 139414,
-      "event_category": "Football",
-      "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
-      "team_1": "Sydney FC",
-      "team_2": "Brisbane Roar",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Brisbane Roar",
-      "startTime": "11:30:00 AM 21-02-2026"
     },
     {
       "id": 140678,
@@ -290,18 +280,6 @@
       "startTime": "02:05:00 PM 21-02-2026"
     },
     {
-      "id": 140425,
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Eibar",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo La Coruna vs Eibar",
-      "startTime": "08:45:00 PM 21-02-2026"
-    },
-    {
       "id": 140610,
       "event_category": "Cricket",
       "title": "Diasqua Little Sai Wan Cricket Club Women vs Hong Kong Cricket Club Women (Women's Premier League T20 2026)",
@@ -312,6 +290,18 @@
       "event_name": "Women's Premier League T20 2026",
       "match_name": "Diasqua Little Sai Wan Cricket Club Women vs Hong Kong Cricket Club Women",
       "startTime": "07:00:00 AM 22-02-2026"
+    },
+    {
+      "id": 140425,
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "Eibar",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo La Coruna vs Eibar",
+      "startTime": "08:45:00 PM 21-02-2026"
     },
     {
       "id": 140609,
@@ -362,18 +352,6 @@
       "startTime": "12:30:00 PM 22-02-2026"
     },
     {
-      "id": 140572,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-      "team_1": "Main Feed - Day 3",
-      "team_2": "The Riviera Country Club",
-      "status": "UPCOMING",
-      "event_name": "The Genesis Invitational 2026",
-      "match_name": "Main Feed - Day 3",
-      "startTime": "08:45:00 PM 21-02-2026"
-    },
-    {
       "id": 139416,
       "event_category": "Football",
       "title": "Central Coast Mariners vs Western Sydney Wanderers (A League 2025-26)",
@@ -395,7 +373,19 @@
       "status": "UPCOMING",
       "event_name": "The Genesis Invitational 2026",
       "match_name": "Featured Groups - Day 3",
-      "startTime": "09:30:00 PM 21-02-2026"
+      "startTime": "09:00:00 PM 21-02-2026"
+    },
+    {
+      "id": 140572,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "team_1": "Main Feed - Day 3",
+      "team_2": "The Riviera Country Club",
+      "status": "UPCOMING",
+      "event_name": "The Genesis Invitational 2026",
+      "match_name": "Main Feed - Day 3",
+      "startTime": "09:00:00 PM 21-02-2026"
     },
     {
       "id": 140573,
@@ -407,7 +397,19 @@
       "status": "UPCOMING",
       "event_name": "The Genesis Invitational 2026",
       "match_name": "Marquee Group - Day 3",
-      "startTime": "09:45:00 PM 21-02-2026"
+      "startTime": "09:15:00 PM 21-02-2026"
+    },
+    {
+      "id": 140761,
+      "event_category": "Tennis",
+      "title": "Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
+      "team_1": "Quadra Guga Kuerten",
+      "team_2": "Rio de Janeiro, Brazil",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "Quadra Guga Kuerten",
+      "startTime": "11:00:00 PM 21-02-2026"
     },
     {
       "id": 140070,
@@ -446,6 +448,18 @@
       "startTime": "11:30:00 PM 21-02-2026"
     },
     {
+      "id": 139417,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
+      "team_1": "Newcastle Jets",
+      "team_2": "Macarthur",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Macarthur",
+      "startTime": "12:30:00 PM 22-02-2026"
+    },
+    {
       "id": 140290,
       "event_category": "Tennis",
       "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
@@ -455,18 +469,6 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
       "match_name": "World Feed",
-      "startTime": "01:30:00 AM 22-02-2026"
-    },
-    {
-      "id": 140300,
-      "event_category": "Tennis",
-      "title": "Center Court vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
-      "team_1": "Center Court",
-      "team_2": "Delray Beach, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - Delray Beach Open 2026",
-      "match_name": "Center Court",
       "startTime": "01:30:00 AM 22-02-2026"
     }
   ]
