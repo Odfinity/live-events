@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "07:43 PM 21-02-2026",
+  "last update time": "08:17 PM 21-02-2026",
   "matches": [
-    {
-      "id": 140679,
-      "event_category": "Cricket",
-      "title": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg",
-      "team_1": "Van der Stel Cricket Club",
-      "team_2": "Vredenburg/Saldanha CC",
-      "status": "LIVE",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC",
-      "startTime": "05:30:00 PM 21-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140679_english_hls_64def5c24966429_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140679_english_hls_64def5c24966429_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140123,
-      "event_category": "Football",
-      "title": "West Bromwich Albion F.C. vs Coventry City Football Club (EFL Championship 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1771680022371/140123_CASACARDS_APP.png",
-      "team_1": "West Bromwich Albion F.C.",
-      "team_2": "Coventry City Football Club",
-      "status": "LIVE",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "West Bromwich Albion F.C. vs Coventry City Football Club",
-      "startTime": "06:00:00 PM 21-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140123_english_hls_622a10974211509_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140123_english_hls_622a10974211509_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 131073,
       "event_category": "Football",
@@ -66,10 +38,38 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140124_5489_SOU_CHL_fc-web_1771681366940.jpg",
       "team_1": "Southampton F.C.",
       "team_2": "Charlton Athletic F.C",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EFL Championship 2025-26",
       "match_name": "Southampton F.C. vs Charlton Athletic F.C",
-      "startTime": "08:30:00 PM 21-02-2026"
+      "startTime": "08:30:00 PM 21-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131078,
+      "event_category": "Football",
+      "title": "Real Betis vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131078_5427_RB_RVL_FC-Web.png",
+      "team_1": "Real Betis",
+      "team_2": "Rayo Vallecano",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Betis vs Rayo Vallecano",
+      "startTime": "08:45:00 PM 21-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131078_english_hls_3486ed0d3063401_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131078_english_hls_3486ed0d3063401_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 140425,
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "Eibar",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo La Coruna vs Eibar",
+      "startTime": "08:45:00 PM 21-02-2026"
     },
     {
       "id": 140680,
@@ -84,16 +84,16 @@
       "startTime": "10:00:00 PM 21-02-2026"
     },
     {
-      "id": 131078,
-      "event_category": "Football",
-      "title": "Real Betis vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131078_5427_RB_RVL_FC-Web.png",
-      "team_1": "Real Betis",
-      "team_2": "Rayo Vallecano",
+      "id": 133982,
+      "event_category": "Cricket",
+      "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "ACT Meteors",
+      "team_2": "South Australian Scorpions",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Betis vs Rayo Vallecano",
-      "startTime": "08:45:00 PM 21-02-2026"
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "ACT Meteors vs South Australian Scorpions",
+      "startTime": "04:30:00 AM 22-02-2026"
     },
     {
       "id": 131071,
@@ -106,18 +106,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "CA Osasuna vs Real Madrid",
       "startTime": "11:00:00 PM 21-02-2026"
-    },
-    {
-      "id": 133982,
-      "event_category": "Cricket",
-      "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-      "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "ACT Meteors",
-      "team_2": "South Australian Scorpions",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "ACT Meteors vs South Australian Scorpions",
-      "startTime": "04:30:00 AM 22-02-2026"
     },
     {
       "id": 140699,
@@ -180,6 +168,18 @@
       "startTime": "07:30:00 AM 22-02-2026"
     },
     {
+      "id": 140139,
+      "event_category": "Cricket",
+      "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
+      "team_1": "West Indies Women",
+      "team_2": "Sri Lanka Women",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka Women tour of West Indies, 2026",
+      "match_name": "West Indies Women vs Sri Lanka Women",
+      "startTime": "07:00:00 PM 22-02-2026"
+    },
+    {
       "id": 140617,
       "event_category": "Cricket",
       "title": "Diasqua Little Sai Wan Cricket Club vs Hong Kong Cricket Club (Premier League T20 2026)",
@@ -204,18 +204,6 @@
       "startTime": "11:30:00 AM 22-02-2026"
     },
     {
-      "id": 140139,
-      "event_category": "Cricket",
-      "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
-      "team_1": "West Indies Women",
-      "team_2": "Sri Lanka Women",
-      "status": "UPCOMING",
-      "event_name": "Sri Lanka Women tour of West Indies, 2026",
-      "match_name": "West Indies Women vs Sri Lanka Women",
-      "startTime": "07:00:00 PM 22-02-2026"
-    },
-    {
       "id": 140681,
       "event_category": "Cricket",
       "title": "Vredenburg/Saldanha CC vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
@@ -226,18 +214,6 @@
       "event_name": "Boland T20 Super League Finals 2026",
       "match_name": "Vredenburg/Saldanha CC vs Maties Cricket Club",
       "startTime": "12:30:00 PM 22-02-2026"
-    },
-    {
-      "id": 140425,
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Eibar",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo La Coruna vs Eibar",
-      "startTime": "08:45:00 PM 21-02-2026"
     },
     {
       "id": 140662,
@@ -252,16 +228,40 @@
       "startTime": "03:30:00 PM 22-02-2026"
     },
     {
-      "id": 139416,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139416_5802_CCM_SYW_1770723544582.png",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Western Sydney Wanderers",
+      "id": 140574,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "team_1": "Featured Groups - Day 3",
+      "team_2": "The Riviera Country Club",
       "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Western Sydney Wanderers",
-      "startTime": "11:30:00 AM 22-02-2026"
+      "event_name": "The Genesis Invitational 2026",
+      "match_name": "Featured Groups - Day 3",
+      "startTime": "09:00:00 PM 21-02-2026"
+    },
+    {
+      "id": 140572,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "team_1": "Main Feed - Day 3",
+      "team_2": "The Riviera Country Club",
+      "status": "UPCOMING",
+      "event_name": "The Genesis Invitational 2026",
+      "match_name": "Main Feed - Day 3",
+      "startTime": "09:00:00 PM 21-02-2026"
+    },
+    {
+      "id": 140573,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+      "team_1": "Marquee Group - Day 3",
+      "team_2": "The Riviera Country Club",
+      "status": "UPCOMING",
+      "event_name": "The Genesis Invitational 2026",
+      "match_name": "Marquee Group - Day 3",
+      "startTime": "09:15:00 PM 21-02-2026"
     },
     {
       "id": 140441,
@@ -288,16 +288,16 @@
       "startTime": "05:30:00 PM 22-02-2026"
     },
     {
-      "id": 139417,
+      "id": 139416,
       "event_category": "Football",
-      "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
-      "team_1": "Newcastle Jets",
-      "team_2": "Macarthur",
+      "title": "Central Coast Mariners vs Western Sydney Wanderers (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139416_5802_CCM_SYW_1770723544582.png",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Western Sydney Wanderers",
       "status": "UPCOMING",
       "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Macarthur",
-      "startTime": "12:30:00 PM 22-02-2026"
+      "match_name": "Central Coast Mariners vs Western Sydney Wanderers",
+      "startTime": "11:30:00 AM 22-02-2026"
     },
     {
       "id": 140125,
@@ -310,6 +310,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Sheffield United F.C. vs Sheffield Wednesday F.C.",
       "startTime": "05:30:00 PM 22-02-2026"
+    },
+    {
+      "id": 139417,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
+      "team_1": "Newcastle Jets",
+      "team_2": "Macarthur",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Macarthur",
+      "startTime": "12:30:00 PM 22-02-2026"
     },
     {
       "id": 131070,
@@ -372,42 +384,6 @@
       "startTime": "10:00:00 PM 22-02-2026"
     },
     {
-      "id": 140574,
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-      "team_1": "Featured Groups - Day 3",
-      "team_2": "The Riviera Country Club",
-      "status": "UPCOMING",
-      "event_name": "The Genesis Invitational 2026",
-      "match_name": "Featured Groups - Day 3",
-      "startTime": "09:00:00 PM 21-02-2026"
-    },
-    {
-      "id": 140572,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-      "team_1": "Main Feed - Day 3",
-      "team_2": "The Riviera Country Club",
-      "status": "UPCOMING",
-      "event_name": "The Genesis Invitational 2026",
-      "match_name": "Main Feed - Day 3",
-      "startTime": "09:00:00 PM 21-02-2026"
-    },
-    {
-      "id": 140573,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-      "team_1": "Marquee Group - Day 3",
-      "team_2": "The Riviera Country Club",
-      "status": "UPCOMING",
-      "event_name": "The Genesis Invitational 2026",
-      "match_name": "Marquee Group - Day 3",
-      "startTime": "09:15:00 PM 21-02-2026"
-    },
-    {
       "id": 140761,
       "event_category": "Tennis",
       "title": "Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
@@ -466,6 +442,30 @@
       "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
       "match_name": "World Feed",
       "startTime": "01:30:00 AM 22-02-2026"
+    },
+    {
+      "id": 140300,
+      "event_category": "Tennis",
+      "title": "Center Court vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
+      "team_1": "Center Court",
+      "team_2": "Delray Beach, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - Delray Beach Open 2026",
+      "match_name": "Center Court",
+      "startTime": "01:30:00 AM 22-02-2026"
+    },
+    {
+      "id": 131079,
+      "event_category": "Football",
+      "title": "RC Celta vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png",
+      "team_1": "RC Celta",
+      "team_2": "RCD Mallorca",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "RC Celta vs RCD Mallorca",
+      "startTime": "11:00:00 PM 22-02-2026"
     }
   ]
 }
