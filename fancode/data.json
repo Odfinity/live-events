@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:10 AM 21-02-2026",
+  "last update time": "05:31 AM 21-02-2026",
   "matches": [
     {
       "id": 133980,
@@ -16,6 +16,20 @@
       "startTime": "04:30:00 AM 21-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 133946,
+      "event_category": "Cricket",
+      "title": "Queensland vs South Australia (One Day Cup, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Queensland-vs-South-Australia_fc-web.jpg",
+      "team_1": "Queensland",
+      "team_2": "South Australia",
+      "status": "LIVE",
+      "event_name": "One Day Cup, 2025-26",
+      "match_name": "Queensland vs South Australia",
+      "startTime": "05:30:00 AM 21-02-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 140571,
@@ -128,18 +142,6 @@
       "startTime": "02:30:00 AM 21-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140069_english_hls_eb81ef56b242945_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140069_english_hls_eb81ef56b242945_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 133946,
-      "event_category": "Cricket",
-      "title": "Queensland vs South Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Queensland-vs-South-Australia_fc-web.jpg",
-      "team_1": "Queensland",
-      "team_2": "South Australia",
-      "status": "UPCOMING",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Queensland vs South Australia",
-      "startTime": "05:30:00 AM 21-02-2026"
     },
     {
       "id": 133947,
@@ -310,18 +312,6 @@
       "startTime": "11:30:00 AM 21-02-2026"
     },
     {
-      "id": 139415,
-      "event_category": "Football",
-      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
-      "team_1": "Melbourne City",
-      "team_2": "Melbourne Victory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Melbourne Victory",
-      "startTime": "02:05:00 PM 21-02-2026"
-    },
-    {
       "id": 140699,
       "event_category": "Football",
       "title": "Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
@@ -344,6 +334,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al Hilal SFC vs Al-Ittihad",
       "startTime": "12:30:00 AM 22-02-2026"
+    },
+    {
+      "id": 139415,
+      "event_category": "Football",
+      "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
+      "team_1": "Melbourne City",
+      "team_2": "Melbourne Victory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Melbourne Victory",
+      "startTime": "02:05:00 PM 21-02-2026"
     },
     {
       "id": 131076,
