@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:25 PM 21-02-2026",
+  "last update time": "06:28 PM 21-02-2026",
   "matches": [
-    {
-      "id": 133948,
-      "event_category": "Cricket",
-      "title": "Victoria vs Western Australia (One Day Cup, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Victoria_fc-web.jpg",
-      "team_1": "Victoria",
-      "team_2": "Western Australia",
-      "status": "LIVE",
-      "event_name": "One Day Cup, 2025-26",
-      "match_name": "Victoria vs Western Australia",
-      "startTime": "11:30:00 AM 21-02-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/QG2diY3nQK2zZnJZrYcQNw/master.m3u8",
-      "adfree_url": null
-    },
     {
       "id": 140679,
       "event_category": "Cricket",
@@ -66,10 +52,26 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "team_1": "West Bromwich Albion F.C.",
       "team_2": "Coventry City Football Club",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EFL Championship 2025-26",
       "match_name": "West Bromwich Albion F.C. vs Coventry City Football Club",
-      "startTime": "06:00:00 PM 21-02-2026"
+      "startTime": "06:00:00 PM 21-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140123_english_hls_622a10974211509_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140123_english_hls_622a10974211509_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131073,
+      "event_category": "Football",
+      "title": "Real Sociedad vs Real Oviedo (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131073_5427_RS_RO_FC-Web.png",
+      "team_1": "Real Sociedad",
+      "team_2": "Real Oviedo",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Sociedad vs Real Oviedo",
+      "startTime": "06:30:00 PM 21-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131073_english_hls_ae2519e8e23367_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131073_english_hls_ae2519e8e23367_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140680,
@@ -82,18 +84,6 @@
       "event_name": "Boland T20 Super League Finals 2026",
       "match_name": "Paarl East Cricket Club vs Van der Stel Cricket Club",
       "startTime": "10:00:00 PM 21-02-2026"
-    },
-    {
-      "id": 131073,
-      "event_category": "Football",
-      "title": "Real Sociedad vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131073_5427_RS_RO_FC-Web.png",
-      "team_1": "Real Sociedad",
-      "team_2": "Real Oviedo",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Sociedad vs Real Oviedo",
-      "startTime": "06:30:00 PM 21-02-2026"
     },
     {
       "id": 140440,
@@ -168,18 +158,6 @@
       "startTime": "12:30:00 AM 22-02-2026"
     },
     {
-      "id": 131076,
-      "event_category": "Football",
-      "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
-      "team_1": "Atletico de Madrid",
-      "team_2": "RCD Espanyol",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Atletico de Madrid vs RCD Espanyol",
-      "startTime": "01:30:00 AM 22-02-2026"
-    },
-    {
       "id": 133982,
       "event_category": "Cricket",
       "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
@@ -190,6 +168,18 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "ACT Meteors vs South Australian Scorpions",
       "startTime": "04:30:00 AM 22-02-2026"
+    },
+    {
+      "id": 131076,
+      "event_category": "Football",
+      "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
+      "team_1": "Atletico de Madrid",
+      "team_2": "RCD Espanyol",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Atletico de Madrid vs RCD Espanyol",
+      "startTime": "01:30:00 AM 22-02-2026"
     },
     {
       "id": 140610,
@@ -252,18 +242,6 @@
       "startTime": "12:30:00 PM 22-02-2026"
     },
     {
-      "id": 140425,
-      "event_category": "Football",
-      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
-      "team_1": "Deportivo La Coruna",
-      "team_2": "Eibar",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Deportivo La Coruna vs Eibar",
-      "startTime": "08:45:00 PM 21-02-2026"
-    },
-    {
       "id": 140139,
       "event_category": "Cricket",
       "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
@@ -274,6 +252,18 @@
       "event_name": "Sri Lanka Women tour of West Indies, 2026",
       "match_name": "West Indies Women vs Sri Lanka Women",
       "startTime": "07:00:00 PM 22-02-2026"
+    },
+    {
+      "id": 140425,
+      "event_category": "Football",
+      "title": "Deportivo La Coruna vs Eibar (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
+      "team_1": "Deportivo La Coruna",
+      "team_2": "Eibar",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Deportivo La Coruna vs Eibar",
+      "startTime": "08:45:00 PM 21-02-2026"
     },
     {
       "id": 140662,
@@ -384,6 +374,18 @@
       "startTime": "07:30:00 PM 22-02-2026"
     },
     {
+      "id": 131077,
+      "event_category": "Football",
+      "title": "FC Barcelona vs Levante (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131077_5427_BAR_LE_FC-Web.png",
+      "team_1": "FC Barcelona",
+      "team_2": "Levante",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "FC Barcelona vs Levante",
+      "startTime": "08:45:00 PM 22-02-2026"
+    },
+    {
       "id": 140574,
       "event_category": "Golf",
       "title": "Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
@@ -453,18 +455,6 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
       "match_name": "World Feed",
-      "startTime": "11:30:00 PM 21-02-2026"
-    },
-    {
-      "id": 140758,
-      "event_category": "Tennis",
-      "title": "Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_web.jpg",
-      "team_1": "Center Court",
-      "team_2": "Doha, Qatar",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-      "match_name": "Center Court",
       "startTime": "11:30:00 PM 21-02-2026"
     }
   ]
