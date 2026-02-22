@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:03 PM 22-02-2026",
+  "last update time": "05:22 PM 22-02-2026",
   "matches": [
     {
       "id": 140662,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140662_english_hls_160f2d86ad43710_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140682,
+      "event_category": "Cricket",
+      "title": "Paarl CC vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140682_5968_PRC_VDS_FC-Web.jpg",
+      "team_1": "Paarl CC",
+      "team_2": "Vredenburg/Saldanha CC",
+      "status": "LIVE",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Paarl CC vs Vredenburg/Saldanha CC",
+      "startTime": "05:30:00 PM 22-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140682_english_hls_0ba926e6dd98695_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140682_english_hls_0ba926e6dd98695_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140441,
       "event_category": "Football",
       "title": "Bengaluru FC vs NorthEast United FC (ISL 2025-26)",
@@ -32,6 +46,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140441_english_hls_9d6d4c2e8d43686_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140125,
+      "event_category": "Football",
+      "title": "Sheffield United F.C. vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140125_5489_SHF_SHFF_fc-web.jpg",
+      "team_1": "Sheffield United F.C.",
+      "team_2": "Sheffield Wednesday F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Sheffield United F.C. vs Sheffield Wednesday F.C.",
+      "startTime": "05:30:00 PM 22-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140125_english_hls_b464520a9b8646_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140125_english_hls_b464520a9b8646_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140139,
       "event_category": "Cricket",
       "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
@@ -42,30 +70,6 @@
       "event_name": "Sri Lanka Women tour of West Indies, 2026",
       "match_name": "West Indies Women vs Sri Lanka Women",
       "startTime": "07:00:00 PM 22-02-2026"
-    },
-    {
-      "id": 140682,
-      "event_category": "Cricket",
-      "title": "Paarl CC vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140682_5968_PRC_VDS_FC-Web.jpg",
-      "team_1": "Paarl CC",
-      "team_2": "Vredenburg/Saldanha CC",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Paarl CC vs Vredenburg/Saldanha CC",
-      "startTime": "05:30:00 PM 22-02-2026"
-    },
-    {
-      "id": 140125,
-      "event_category": "Football",
-      "title": "Sheffield United F.C. vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140125_5489_SHF_SHFF_fc-web.jpg",
-      "team_1": "Sheffield United F.C.",
-      "team_2": "Sheffield Wednesday F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Sheffield United F.C. vs Sheffield Wednesday F.C.",
-      "startTime": "05:30:00 PM 22-02-2026"
     },
     {
       "id": 140683,
@@ -332,18 +336,6 @@
       "startTime": "12:30:00 AM 24-02-2026"
     },
     {
-      "id": 140904,
-      "event_category": "Tennis",
-      "title": "ATP 500 - Rio Open Presented by Claro 2026 vs RIO (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
-      "team_1": "ATP 500 - Rio Open Presented by Claro 2026",
-      "team_2": "RIO",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "match_name": "ATP 500 - Rio Open Presented by Claro 2026",
-      "startTime": "07:30:00 PM 22-02-2026"
-    },
-    {
       "id": 131074,
       "event_category": "Football",
       "title": "Deportivo Alaves vs Girona FC (LALIGA 2025-26)",
@@ -354,6 +346,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Deportivo Alaves vs Girona FC",
       "startTime": "01:30:00 AM 24-02-2026"
+    },
+    {
+      "id": 140904,
+      "event_category": "Tennis",
+      "title": "ATP 500 - Rio Open Presented by Claro 2026 vs RIO (ATP 500 - Rio Open Presented by Claro 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
+      "team_1": "ATP 500 - Rio Open Presented by Claro 2026",
+      "team_2": "RIO",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "match_name": "ATP 500 - Rio Open Presented by Claro 2026",
+      "startTime": "07:30:00 PM 22-02-2026"
     },
     {
       "id": 140427,
