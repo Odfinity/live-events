@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:14 PM 22-02-2026",
+  "last update time": "03:30 PM 22-02-2026",
   "matches": [
     {
-      "id": 140681,
+      "id": 140662,
       "event_category": "Cricket",
-      "title": "Vredenburg/Saldanha CC vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140681_5968_VDS_MAT_FC-Web.jpg",
-      "team_1": "Vredenburg/Saldanha CC",
-      "team_2": "Maties Cricket Club",
+      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+      "team_1": "England Lions",
+      "team_2": "Pakistan Shaheens",
       "status": "LIVE",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Vredenburg/Saldanha CC vs Maties Cricket Club",
-      "startTime": "12:30:00 PM 22-02-2026",
-      "dai_url": null,
-      "adfree_url": null
+      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+      "match_name": "England Lions vs Pakistan Shaheens",
+      "startTime": "03:30:00 PM 22-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140662_english_hls_160f2d86ad43710_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140662_english_hls_160f2d86ad43710_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140139,
@@ -28,18 +28,6 @@
       "event_name": "Sri Lanka Women tour of West Indies, 2026",
       "match_name": "West Indies Women vs Sri Lanka Women",
       "startTime": "07:00:00 PM 22-02-2026"
-    },
-    {
-      "id": 140662,
-      "event_category": "Cricket",
-      "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-      "team_1": "England Lions",
-      "team_2": "Pakistan Shaheens",
-      "status": "UPCOMING",
-      "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-      "match_name": "England Lions vs Pakistan Shaheens",
-      "startTime": "03:30:00 PM 22-02-2026"
     },
     {
       "id": 140682,
@@ -460,6 +448,18 @@
       "event_name": "ATP 500 - Abierto Mexicano Telcel",
       "match_name": "Match 1",
       "startTime": "05:30:00 AM 24-02-2026"
+    },
+    {
+      "id": 139172,
+      "event_category": "Golf",
+      "title": "Los Angeles vs Atlanta vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Los Angeles vs Atlanta",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Los Angeles vs Atlanta",
+      "startTime": "07:30:00 AM 24-02-2026"
     }
   ]
 }
