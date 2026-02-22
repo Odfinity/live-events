@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:32 PM 22-02-2026",
+  "last update time": "03:14 PM 22-02-2026",
   "matches": [
-    {
-      "id": 140616,
-      "event_category": "Cricket",
-      "title": "United Services Recreation Club vs Kowloon Cricket Club (Premier League T20 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
-      "team_1": "United Services Recreation Club",
-      "team_2": "Kowloon Cricket Club",
-      "status": "LIVE",
-      "event_name": "Premier League T20 2026",
-      "match_name": "United Services Recreation Club vs Kowloon Cricket Club",
-      "startTime": "11:30:00 AM 22-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140616_english_hls_49dc98e7af12694_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140616_english_hls_49dc98e7af12694_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140681,
       "event_category": "Cricket",
@@ -30,20 +16,6 @@
       "startTime": "12:30:00 PM 22-02-2026",
       "dai_url": null,
       "adfree_url": null
-    },
-    {
-      "id": 139417,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
-      "team_1": "Newcastle Jets",
-      "team_2": "Macarthur",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Macarthur",
-      "startTime": "12:30:00 PM 22-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139417_english_hls_5b1f17c46e61015_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139417_english_hls_5b1f17c46e61015_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140139,
@@ -361,7 +333,7 @@
       "id": 140904,
       "event_category": "Tennis",
       "title": "ATP 500 - Rio Open Presented by Claro 2026 vs RIO (ATP 500 - Rio Open Presented by Claro 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
       "team_1": "ATP 500 - Rio Open Presented by Claro 2026",
       "team_2": "RIO",
       "status": "UPCOMING",
@@ -418,6 +390,18 @@
       "startTime": "09:30:00 PM 23-02-2026"
     },
     {
+      "id": 140019,
+      "event_category": "Football",
+      "title": "Walsall vs MK Dons (League Two 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+      "team_1": "Walsall",
+      "team_2": "MK Dons",
+      "status": "UPCOMING",
+      "event_name": "League Two 2025-26",
+      "match_name": "Walsall vs MK Dons",
+      "startTime": "01:30:00 AM 24-02-2026"
+    },
+    {
       "id": 140892,
       "event_category": "Tennis",
       "title": "New Court - 1 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
@@ -442,18 +426,6 @@
       "startTime": "03:30:00 PM 23-02-2026"
     },
     {
-      "id": 140019,
-      "event_category": "Football",
-      "title": "Walsall vs MK Dons (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Walsall",
-      "team_2": "MK Dons",
-      "status": "UPCOMING",
-      "event_name": "League Two 2025-26",
-      "match_name": "Walsall vs MK Dons",
-      "startTime": "01:30:00 AM 24-02-2026"
-    },
-    {
       "id": 133985,
       "event_category": "Cricket",
       "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
@@ -464,6 +436,30 @@
       "event_name": "Women's National Cricket League, 2025-26",
       "match_name": "ACT Meteors vs South Australian Scorpions",
       "startTime": "04:30:00 AM 24-02-2026"
+    },
+    {
+      "id": 139171,
+      "event_category": "Golf",
+      "title": "Atlanta vs Boston vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Atlanta vs Boston",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Atlanta vs Boston",
+      "startTime": "03:30:00 AM 24-02-2026"
+    },
+    {
+      "id": 140351,
+      "event_category": "Tennis",
+      "title": "Match 1 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "Match 1",
+      "team_2": "Acapulco, Mexico",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Abierto Mexicano Telcel",
+      "match_name": "Match 1",
+      "startTime": "05:30:00 AM 24-02-2026"
     }
   ]
 }
