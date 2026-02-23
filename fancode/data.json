@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:53 AM 24-02-2026",
+  "last update time": "02:40 AM 24-02-2026",
   "matches": [
-    {
-      "id": 140700,
-      "event_category": "Football",
-      "title": "Al-Qadsiah FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140700_5655_ALQ_ETT_fc-web.jpg",
-      "team_1": "Al-Qadsiah FC",
-      "team_2": "Al-Ettifaq",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Qadsiah FC vs Al-Ettifaq",
-      "startTime": "12:30:00 AM 24-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140700_english_hls_0399bd56fb46968_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140700_english_hls_0399bd56fb46968_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 131074,
       "event_category": "Football",
@@ -122,6 +108,18 @@
       "startTime": "10:00:00 PM 24-02-2026"
     },
     {
+      "id": 139171,
+      "event_category": "Golf",
+      "title": "Atlanta vs Boston vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Atlanta vs Boston",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Atlanta vs Boston",
+      "startTime": "03:30:00 AM 24-02-2026"
+    },
+    {
       "id": 138437,
       "event_category": "Football",
       "title": "Al Taawoun vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
@@ -144,18 +142,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Southampton F.C. vs Queens Park Rangers F.C.",
       "startTime": "01:30:00 AM 25-02-2026"
-    },
-    {
-      "id": 139171,
-      "event_category": "Golf",
-      "title": "Atlanta vs Boston vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Atlanta vs Boston",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Atlanta vs Boston",
-      "startTime": "03:30:00 AM 24-02-2026"
     },
     {
       "id": 140351,
@@ -456,6 +442,30 @@
       "event_name": "Sri Lanka Women tour of West Indies, 2026",
       "match_name": "West Indies Women vs Sri Lanka Women",
       "startTime": "07:00:00 PM 25-02-2026"
+    },
+    {
+      "id": 140347,
+      "event_category": "Tennis",
+      "title": "New Court 1 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "team_1": "New Court 1",
+      "team_2": "Dubai, United Arab Emirates",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "match_name": "New Court 1",
+      "startTime": "03:30:00 PM 25-02-2026"
+    },
+    {
+      "id": 140899,
+      "event_category": "Tennis",
+      "title": "Centre Court vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "team_1": "Centre Court",
+      "team_2": "Dubai, United Arab Emirates",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "match_name": "Centre Court",
+      "startTime": "03:30:00 PM 25-02-2026"
     }
   ]
 }
