@@ -1,35 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:35 AM 24-02-2026",
+  "last update time": "04:28 AM 24-02-2026",
   "matches": [
     {
-      "id": 131074,
-      "event_category": "Football",
-      "title": "Deportivo Alaves vs Girona FC (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131074_5427_ALA_GIR_FC-Web.png",
-      "team_1": "Deportivo Alaves",
-      "team_2": "Girona FC",
+      "id": 133985,
+      "event_category": "Cricket",
+      "title": "South Australian Scorpions vs ACT Meteors (Women's National Cricket League, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "team_1": "South Australian Scorpions",
+      "team_2": "ACT Meteors",
       "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Deportivo Alaves vs Girona FC",
-      "startTime": "01:30:00 AM 24-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140019,
-      "event_category": "Football",
-      "title": "Walsall vs MK Dons (League Two 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-      "team_1": "Walsall",
-      "team_2": "MK Dons",
-      "status": "LIVE",
-      "event_name": "League Two 2025-26",
-      "match_name": "Walsall vs MK Dons",
-      "startTime": "01:30:00 AM 24-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140019_english_hls_99ac80687690410_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140019_english_hls_99ac80687690410_1ta-di_h264/index.m3u8"
+      "event_name": "Women's National Cricket League, 2025-26",
+      "match_name": "South Australian Scorpions vs ACT Meteors",
+      "startTime": "04:30:00 AM 24-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133985_english_hls_2b559b681857065_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133985_english_hls_2b559b681857065_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140357,
@@ -58,18 +44,6 @@
       "startTime": "03:30:00 AM 24-02-2026",
       "dai_url": "https://dai.google.com/linear/hls/event/_3HhISPTSDSqb6-bFrOuOA/master.m3u8",
       "adfree_url": null
-    },
-    {
-      "id": 133985,
-      "event_category": "Cricket",
-      "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "team_1": "ACT Meteors",
-      "team_2": "South Australian Scorpions",
-      "status": "UPCOMING",
-      "event_name": "Women's National Cricket League, 2025-26",
-      "match_name": "ACT Meteors vs South Australian Scorpions",
-      "startTime": "04:30:00 AM 24-02-2026"
     },
     {
       "id": 140444,
@@ -192,6 +166,18 @@
       "startTime": "07:30:00 AM 24-02-2026"
     },
     {
+      "id": 140669,
+      "event_category": "Cricket",
+      "title": "Thailand vs Japan (Thailand Open Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Thailand",
+      "team_2": "Japan",
+      "status": "UPCOMING",
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "Thailand vs Japan",
+      "startTime": "07:30:00 AM 25-02-2026"
+    },
+    {
       "id": 140346,
       "event_category": "Tennis",
       "title": "Court 2 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
@@ -252,18 +238,6 @@
       "startTime": "03:30:00 PM 24-02-2026"
     },
     {
-      "id": 140669,
-      "event_category": "Cricket",
-      "title": "Thailand vs Japan (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Thailand",
-      "team_2": "Japan",
-      "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Thailand vs Japan",
-      "startTime": "07:30:00 AM 25-02-2026"
-    },
-    {
       "id": 140358,
       "event_category": "Tennis",
       "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
@@ -312,6 +286,18 @@
       "startTime": "08:30:00 AM 25-02-2026"
     },
     {
+      "id": 140879,
+      "event_category": "Cricket",
+      "title": "Hong Kong, China vs Kuwait (Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Hong Kong, China",
+      "team_2": "Kuwait",
+      "status": "UPCOMING",
+      "event_name": "Men's T20I Series 2026",
+      "match_name": "Hong Kong, China vs Kuwait",
+      "startTime": "10:45:00 AM 25-02-2026"
+    },
+    {
       "id": 139173,
       "event_category": "Golf",
       "title": "New York vs The Bay vs Florida (TGL Season 2)",
@@ -324,16 +310,16 @@
       "startTime": "03:30:00 AM 25-02-2026"
     },
     {
-      "id": 140879,
+      "id": 140670,
       "event_category": "Cricket",
-      "title": "Hong Kong, China vs Kuwait (Men's T20I Series 2026)",
+      "title": "Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Hong Kong, China",
-      "team_2": "Kuwait",
+      "team_1": "Bhutan",
+      "team_2": "Bahrain",
       "status": "UPCOMING",
-      "event_name": "Men's T20I Series 2026",
-      "match_name": "Hong Kong, China vs Kuwait",
-      "startTime": "10:45:00 AM 25-02-2026"
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "Bhutan vs Bahrain",
+      "startTime": "12:00:00 PM 25-02-2026"
     },
     {
       "id": 140352,
@@ -396,18 +382,6 @@
       "startTime": "05:30:00 AM 25-02-2026"
     },
     {
-      "id": 140670,
-      "event_category": "Cricket",
-      "title": "Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Bhutan",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Bhutan vs Bahrain",
-      "startTime": "12:00:00 PM 25-02-2026"
-    },
-    {
       "id": 139174,
       "event_category": "Golf",
       "title": "Boston vs New York vs Florida (TGL Season 2)",
@@ -466,6 +440,30 @@
       "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
       "match_name": "World Feed",
       "startTime": "03:30:00 PM 25-02-2026"
+    },
+    {
+      "id": 140897,
+      "event_category": "Tennis",
+      "title": "Court 2 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "team_1": "Court 2",
+      "team_2": "Dubai, United Arab Emirates",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "match_name": "Court 2",
+      "startTime": "03:30:00 PM 25-02-2026"
+    },
+    {
+      "id": 140686,
+      "event_category": "Cricket",
+      "title": "Paarl East Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140686_5968_PECC_VDS_FC-Web.jpg",
+      "team_1": "Paarl East Cricket Club",
+      "team_2": "Vredenburg/Saldanha CC",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Paarl East Cricket Club vs Vredenburg/Saldanha CC",
+      "startTime": "10:00:00 PM 25-02-2026"
     }
   ]
 }
