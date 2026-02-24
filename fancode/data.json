@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:29 AM 25-02-2026",
+  "last update time": "03:17 AM 25-02-2026",
   "matches": [
-    {
-      "id": 138437,
-      "event_category": "Football",
-      "title": "Al Taawoun vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/138437_5655_ALTW_AHS_fc-web.jpg",
-      "team_1": "Al Taawoun",
-      "team_2": "Al Hilal SFC",
-      "status": "LIVE",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al Taawoun vs Al Hilal SFC",
-      "startTime": "12:30:00 AM 25-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138437_english_hls_12b86f6c7f72758_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138437_english_hls_12b86f6c7f72758_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140126,
       "event_category": "Football",
@@ -73,7 +59,7 @@
       "id": 140669,
       "event_category": "Cricket",
       "title": "Thailand vs Japan (Thailand Open Men's T20I Series 2026)",
-      "src": "https://images.fancode.com/aig/match/v1771943208159/140669_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140669_5970_TL_JPN_fc-web.jpg",
       "team_1": "Thailand",
       "team_2": "Japan",
       "status": "UPCOMING",
@@ -97,13 +83,25 @@
       "id": 140670,
       "event_category": "Cricket",
       "title": "Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140670_5970_BHU_BAH_fc-web.jpg",
       "team_1": "Bhutan",
       "team_2": "Bahrain",
       "status": "UPCOMING",
       "event_name": "Thailand Open Men's T20I Series 2026",
       "match_name": "Bhutan vs Bahrain",
       "startTime": "12:00:00 PM 25-02-2026"
+    },
+    {
+      "id": 140686,
+      "event_category": "Cricket",
+      "title": "Paarl East Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140686_5968_PECC_VDS_FC-Web.jpg",
+      "team_1": "Paarl East Cricket Club",
+      "team_2": "Vredenburg/Saldanha CC",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Paarl East Cricket Club vs Vredenburg/Saldanha CC",
+      "startTime": "10:00:00 PM 25-02-2026"
     },
     {
       "id": 140384,
@@ -130,16 +128,18 @@
       "startTime": "08:30:00 AM 25-02-2026"
     },
     {
-      "id": 140686,
-      "event_category": "Cricket",
-      "title": "Paarl East Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140686_5968_PECC_VDS_FC-Web.jpg",
-      "team_1": "Paarl East Cricket Club",
-      "team_2": "Vredenburg/Saldanha CC",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Paarl East Cricket Club vs Vredenburg/Saldanha CC",
-      "startTime": "10:00:00 PM 25-02-2026"
+      "id": 139173,
+      "event_category": "Golf",
+      "title": "New York vs The Bay vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "New York vs The Bay",
+      "team_2": "Florida",
+      "status": "LIVE",
+      "event_name": "TGL Season 2",
+      "match_name": "New York vs The Bay",
+      "startTime": "03:30:00 AM 25-02-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/ZDNossZgSEO2d_Q5a0fFwg/master.m3u8",
+      "adfree_url": null
     },
     {
       "id": 138439,
@@ -164,18 +164,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Stoke City F.C. vs Oxford United",
       "startTime": "01:30:00 AM 26-02-2026"
-    },
-    {
-      "id": 139173,
-      "event_category": "Golf",
-      "title": "New York vs The Bay vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "New York vs The Bay",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "New York vs The Bay",
-      "startTime": "03:30:00 AM 25-02-2026"
     },
     {
       "id": 140352,
@@ -298,22 +286,10 @@
       "startTime": "03:30:00 PM 25-02-2026"
     },
     {
-      "id": 140359,
-      "event_category": "Tennis",
-      "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-      "team_1": "Court Jaime Fillol",
-      "team_2": "Santiago, Chile",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-      "match_name": "Court Jaime Fillol",
-      "startTime": "09:30:00 PM 25-02-2026"
-    },
-    {
       "id": 140671,
       "event_category": "Cricket",
       "title": "Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg",
       "team_1": "Thailand",
       "team_2": "Bhutan",
       "status": "UPCOMING",
@@ -332,6 +308,18 @@
       "event_name": "CONCACAF Champions Cup 2026",
       "match_name": "FC Cincinnati vs O&M FC",
       "startTime": "05:30:00 AM 26-02-2026"
+    },
+    {
+      "id": 140359,
+      "event_category": "Tennis",
+      "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+      "team_1": "Court Jaime Fillol",
+      "team_2": "Santiago, Chile",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
+      "match_name": "Court Jaime Fillol",
+      "startTime": "09:30:00 PM 25-02-2026"
     },
     {
       "id": 140387,
@@ -356,6 +344,18 @@
       "event_name": "Men's T20I Series 2026",
       "match_name": "Hong Kong, China vs Kuwait",
       "startTime": "10:45:00 AM 26-02-2026"
+    },
+    {
+      "id": 140388,
+      "event_category": "Football",
+      "title": "LA Galaxy vs Sporting SM (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140388_5954_LAG_SSM_FC-Web.jpg",
+      "team_1": "LA Galaxy",
+      "team_2": "Sporting SM",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "LA Galaxy vs Sporting SM",
+      "startTime": "10:00:00 AM 26-02-2026"
     },
     {
       "id": 140353,
@@ -418,22 +418,10 @@
       "startTime": "05:30:00 AM 26-02-2026"
     },
     {
-      "id": 140388,
-      "event_category": "Football",
-      "title": "LA Galaxy vs Sporting SM (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140388_5954_LAG_SSM_FC-Web.jpg",
-      "team_1": "LA Galaxy",
-      "team_2": "Sporting SM",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "LA Galaxy vs Sporting SM",
-      "startTime": "10:00:00 AM 26-02-2026"
-    },
-    {
       "id": 140672,
       "event_category": "Cricket",
       "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
       "team_1": "Japan",
       "team_2": "Bahrain",
       "status": "UPCOMING",
@@ -463,6 +451,18 @@
       "status": "UPCOMING",
       "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
       "match_name": "New Court 1",
+      "startTime": "03:30:00 PM 26-02-2026"
+    },
+    {
+      "id": 140901,
+      "event_category": "Tennis",
+      "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "team_1": "World Feed",
+      "team_2": "Dubai, United Arab Emirates",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "match_name": "World Feed",
       "startTime": "03:30:00 PM 26-02-2026"
     }
   ]
