@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:11 PM 26-02-2026",
+  "last update time": "01:11 PM 26-02-2026",
   "matches": [
     {
       "id": 140880,
@@ -30,48 +30,6 @@
       "startTime": "12:00:00 PM 26-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140672_english_hls_b64712251f86407_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140672_english_hls_b64712251f86407_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140388,
-      "event_category": "Football",
-      "title": "LA Galaxy vs Sporting SM (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140388_5954_LAG_SSM_FC-Web.jpg",
-      "team_1": "LA Galaxy",
-      "team_2": "Sporting SM",
-      "status": "LIVE",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "LA Galaxy vs Sporting SM",
-      "startTime": "10:00:00 AM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140388_english_hls_faa934c73050670_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140388_english_hls_faa934c73050670_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140837,
-      "event_category": "Tennis",
-      "title": "Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-      "team_1": "Estadio",
-      "team_2": "Acapulco, Mexico",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Abierto Mexicano Telcel",
-      "match_name": "Estadio",
-      "startTime": "05:30:00 AM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140837_english_hls_7088112fd980269_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140837_english_hls_7088112fd980269_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140839,
-      "event_category": "Tennis",
-      "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-      "team_1": "World Feed",
-      "team_2": "Acapulco, Mexico",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Abierto Mexicano Telcel",
-      "match_name": "World Feed",
-      "startTime": "05:30:00 AM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140839_english_hls_3f302e8a6c36632_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140839_english_hls_3f302e8a6c36632_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140687,
@@ -350,6 +308,18 @@
       "startTime": "05:00:00 PM 27-02-2026"
     },
     {
+      "id": 141086,
+      "event_category": "Football",
+      "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "East Bengal FC",
+      "team_2": "Jamshedpur FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "East Bengal FC vs Jamshedpur FC",
+      "startTime": "05:00:00 PM 27-02-2026"
+    },
+    {
       "id": 140688,
       "event_category": "Cricket",
       "title": "Paarl CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
@@ -398,18 +368,6 @@
       "startTime": "03:00:00 PM 27-02-2026"
     },
     {
-      "id": 140769,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Main Feed - Day 2",
-      "team_2": "PGA National Resort, Florida",
-      "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Main Feed - Day 2",
-      "startTime": "04:15:00 PM 27-02-2026"
-    },
-    {
       "id": 140689,
       "event_category": "Cricket",
       "title": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
@@ -420,6 +378,18 @@
       "event_name": "Boland T20 Super League Finals 2026",
       "match_name": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club",
       "startTime": "10:00:00 PM 27-02-2026"
+    },
+    {
+      "id": 140769,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Main Feed - Day 2",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Main Feed - Day 2",
+      "startTime": "04:15:00 PM 27-02-2026"
     },
     {
       "id": 140771,
@@ -444,6 +414,30 @@
       "event_name": "Cognizant Classic in The Palm Beaches 2026",
       "match_name": "Marquee Group - Day 2",
       "startTime": "05:15:00 PM 27-02-2026"
+    },
+    {
+      "id": 140770,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Featured Holes - Day 2",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Featured Holes - Day 2",
+      "startTime": "05:15:00 PM 27-02-2026"
+    },
+    {
+      "id": 140902,
+      "event_category": "Tennis",
+      "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+      "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+      "team_1": "World Feed",
+      "team_2": "Dubai, United Arab Emirates",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+      "match_name": "World Feed",
+      "startTime": "06:30:00 PM 27-02-2026"
     }
   ]
 }
