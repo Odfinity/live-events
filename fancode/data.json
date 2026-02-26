@@ -1,50 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:21 AM 27-02-2026",
+  "last update time": "05:05 AM 27-02-2026",
   "matches": [
-    {
-      "id": 140766,
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Featured Groups - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "LIVE",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Featured Groups - Day 1",
-      "startTime": "05:45:00 PM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140766_english_hls_92599d6e3a99806_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140766_english_hls_92599d6e3a99806_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140765,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Marquee Group - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "LIVE",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Marquee Group - Day 1",
-      "startTime": "05:45:00 PM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140765_english_hls_6a56e82b3860399_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140765_english_hls_6a56e82b3860399_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140767,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Featured Holes - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "LIVE",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Featured Holes - Day 1",
-      "startTime": "06:15:00 PM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140767_english_hls_cb35a81a7790793_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140767_english_hls_cb35a81a7790793_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140360,
       "event_category": "Tennis",
@@ -60,20 +18,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140360_english_hls_9d2a98691631145_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140763,
-      "event_category": "Golf",
-      "title": "World Feed - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "World Feed - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "LIVE",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "World Feed - Day 1",
-      "startTime": "11:30:00 PM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140763_english_hls_2d6f03ab0c66348_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140763_english_hls_2d6f03ab0c66348_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 140594,
       "event_category": "Cricket",
       "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
@@ -84,6 +28,18 @@
       "event_name": "Zimbabwe Women tour of New Zealand, 2026",
       "match_name": "New Zealand Women vs Zimbabwe Women",
       "startTime": "11:45:00 AM 27-02-2026"
+    },
+    {
+      "id": 140389,
+      "event_category": "Football",
+      "title": "Philadelphia Union vs Defense Force (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140389_5954_PU_DEF_FC-Web.jpg",
+      "team_1": "Philadelphia Union",
+      "team_2": "Defense Force",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Philadelphia Union vs Defense Force",
+      "startTime": "05:30:00 AM 27-02-2026"
     },
     {
       "id": 140673,
@@ -182,18 +138,6 @@
       "startTime": "10:00:00 PM 27-02-2026"
     },
     {
-      "id": 140389,
-      "event_category": "Football",
-      "title": "Philadelphia Union vs Defense Force (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140389_5954_PU_DEF_FC-Web.jpg",
-      "team_1": "Philadelphia Union",
-      "team_2": "Defense Force",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Philadelphia Union vs Defense Force",
-      "startTime": "05:30:00 AM 27-02-2026"
-    },
-    {
       "id": 139418,
       "event_category": "Football",
       "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
@@ -240,18 +184,6 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Bristol City F.C. vs Watford F.C.",
       "startTime": "01:30:00 AM 28-02-2026"
-    },
-    {
-      "id": 140821,
-      "event_category": "Football",
-      "title": "Albacete vs Almería (LALIGA Hypermotion 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Albacete",
-      "team_2": "Almería",
-      "status": "UPCOMING",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Albacete vs Almería",
-      "startTime": "01:00:00 AM 28-02-2026"
     },
     {
       "id": 140355,
@@ -302,6 +234,30 @@
       "startTime": "05:30:00 AM 27-02-2026"
     },
     {
+      "id": 140821,
+      "event_category": "Football",
+      "title": "Albacete vs Almería (LALIGA Hypermotion 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Albacete",
+      "team_2": "Almería",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Albacete vs Almería",
+      "startTime": "01:00:00 AM 28-02-2026"
+    },
+    {
+      "id": 140675,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Thailand Open Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "TBC vs TBC",
+      "startTime": "07:30:00 AM 28-02-2026"
+    },
+    {
       "id": 139924,
       "event_category": "MotoGP",
       "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
@@ -336,18 +292,6 @@
       "event_name": "Cognizant Classic in The Palm Beaches 2026",
       "match_name": "Main Feed - Day 2",
       "startTime": "04:15:00 PM 27-02-2026"
-    },
-    {
-      "id": 140675,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "07:30:00 AM 28-02-2026"
     },
     {
       "id": 140771,
@@ -468,6 +412,54 @@
       "event_name": "Boland T20 Super League Finals 2026",
       "match_name": "Van der Stel Cricket Club vs Paarl East Cricket Club",
       "startTime": "12:30:00 PM 28-02-2026"
+    },
+    {
+      "id": 140356,
+      "event_category": "Tennis",
+      "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+      "team_1": "World Feed",
+      "team_2": "Acapulco, Mexico",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Abierto Mexicano Telcel",
+      "match_name": "World Feed",
+      "startTime": "06:30:00 AM 28-02-2026"
+    },
+    {
+      "id": 140843,
+      "event_category": "Tennis",
+      "title": "Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+      "team_1": "Estadio",
+      "team_2": "Acapulco, Mexico",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Abierto Mexicano Telcel",
+      "match_name": "Estadio",
+      "startTime": "06:30:00 AM 28-02-2026"
+    },
+    {
+      "id": 140842,
+      "event_category": "Tennis",
+      "title": "Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+      "team_1": "Grandstand",
+      "team_2": "Acapulco, Mexico",
+      "status": "UPCOMING",
+      "event_name": "ATP 500 - Abierto Mexicano Telcel",
+      "match_name": "Grandstand",
+      "startTime": "06:30:00 AM 28-02-2026"
+    },
+    {
+      "id": 139420,
+      "event_category": "Football",
+      "title": "Central Coast Mariners vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139420_5802_CCM_NJ_1770724113403.png",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Newcastle Jets",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Central Coast Mariners vs Newcastle Jets",
+      "startTime": "11:30:00 AM 28-02-2026"
     }
   ]
 }
