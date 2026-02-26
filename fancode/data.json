@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:16 AM 26-02-2026",
+  "last update time": "12:11 PM 26-02-2026",
   "matches": [
     {
       "id": 140880,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140880_english_hls_0cd60c3b2a42599_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140672,
+      "event_category": "Cricket",
+      "title": "Bahrain vs Japan (Thailand Open Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
+      "team_1": "Bahrain",
+      "team_2": "Japan",
+      "status": "LIVE",
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "Bahrain vs Japan",
+      "startTime": "12:00:00 PM 26-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140672_english_hls_b64712251f86407_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140672_english_hls_b64712251f86407_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140388,
       "event_category": "Football",
       "title": "LA Galaxy vs Sporting SM (CONCACAF Champions Cup 2026)",
@@ -30,20 +44,6 @@
       "startTime": "10:00:00 AM 26-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140388_english_hls_faa934c73050670_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140388_english_hls_faa934c73050670_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140353,
-      "event_category": "Tennis",
-      "title": "Cancha 1 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-      "team_1": "Cancha 1",
-      "team_2": "Acapulco, Mexico",
-      "status": "LIVE",
-      "event_name": "ATP 500 - Abierto Mexicano Telcel",
-      "match_name": "Cancha 1",
-      "startTime": "05:30:00 AM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140353_english_hls_bbf29cfbab84904_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140353_english_hls_bbf29cfbab84904_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140837,
@@ -72,32 +72,6 @@
       "startTime": "05:30:00 AM 26-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140839_english_hls_3f302e8a6c36632_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140839_english_hls_3f302e8a6c36632_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140671,
-      "event_category": "Cricket",
-      "title": "Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg",
-      "team_1": "Thailand",
-      "team_2": "Bhutan",
-      "status": "LIVE",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Thailand vs Bhutan",
-      "startTime": "07:30:00 AM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140671_english_hls_9d535828fd86518_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140671_english_hls_9d535828fd86518_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140672,
-      "event_category": "Cricket",
-      "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
-      "team_1": "Japan",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Japan vs Bahrain",
-      "startTime": "12:00:00 PM 26-02-2026"
     },
     {
       "id": 140687,
@@ -304,6 +278,18 @@
       "startTime": "11:30:00 PM 26-02-2026"
     },
     {
+      "id": 139418,
+      "event_category": "Football",
+      "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png",
+      "team_1": "Melbourne Victory",
+      "team_2": "Adelaide United",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne Victory vs Adelaide United",
+      "startTime": "02:05:00 PM 27-02-2026"
+    },
+    {
       "id": 140355,
       "event_category": "Tennis",
       "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
@@ -352,18 +338,6 @@
       "startTime": "05:30:00 AM 27-02-2026"
     },
     {
-      "id": 139418,
-      "event_category": "Football",
-      "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png",
-      "team_1": "Melbourne Victory",
-      "team_2": "Adelaide United",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne Victory vs Adelaide United",
-      "startTime": "02:05:00 PM 27-02-2026"
-    },
-    {
       "id": 140446,
       "event_category": "Football",
       "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26)",
@@ -376,18 +350,6 @@
       "startTime": "05:00:00 PM 27-02-2026"
     },
     {
-      "id": 139924,
-      "event_category": "MotoGP",
-      "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
-      "team_1": "Day 1",
-      "team_2": "Buriram International Circuit",
-      "status": "UPCOMING",
-      "event_name": "PT GRAND PRIX OF THAILAND 2026",
-      "match_name": "Thailand GP",
-      "startTime": "09:15:00 AM 27-02-2026"
-    },
-    {
       "id": 140688,
       "event_category": "Cricket",
       "title": "Paarl CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
@@ -398,6 +360,18 @@
       "event_name": "Boland T20 Super League Finals 2026",
       "match_name": "Paarl CC vs Paarl East Cricket Club",
       "startTime": "05:30:00 PM 27-02-2026"
+    },
+    {
+      "id": 139924,
+      "event_category": "MotoGP",
+      "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
+      "team_1": "Day 1",
+      "team_2": "Buriram International Circuit",
+      "status": "UPCOMING",
+      "event_name": "PT GRAND PRIX OF THAILAND 2026",
+      "match_name": "Thailand GP",
+      "startTime": "09:15:00 AM 27-02-2026"
     },
     {
       "id": 140447,
@@ -446,6 +420,30 @@
       "event_name": "Boland T20 Super League Finals 2026",
       "match_name": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club",
       "startTime": "10:00:00 PM 27-02-2026"
+    },
+    {
+      "id": 140771,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Featured Groups - Day 2",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Featured Groups - Day 2",
+      "startTime": "05:00:00 PM 27-02-2026"
+    },
+    {
+      "id": 140772,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Marquee Group - Day 2",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Marquee Group - Day 2",
+      "startTime": "05:15:00 PM 27-02-2026"
     }
   ]
 }
