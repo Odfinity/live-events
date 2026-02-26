@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:59 PM 26-02-2026",
+  "last update time": "02:59 PM 26-02-2026",
   "matches": [
     {
       "id": 140880,
@@ -18,18 +18,16 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140880_english_hls_0cd60c3b2a42599_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140672,
+      "id": 140594,
       "event_category": "Cricket",
-      "title": "Bahrain vs Japan (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
-      "team_1": "Bahrain",
-      "team_2": "Japan",
-      "status": "LIVE",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Bahrain vs Japan",
-      "startTime": "12:00:00 PM 26-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140672_english_hls_b64712251f86407_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140672_english_hls_b64712251f86407_1ta-di_h264/index.m3u8"
+      "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_fc-web.jpg",
+      "team_1": "New Zealand Women",
+      "team_2": "Zimbabwe Women",
+      "status": "UPCOMING",
+      "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+      "match_name": "New Zealand Women vs Zimbabwe Women",
+      "startTime": "11:45:00 AM 27-02-2026"
     },
     {
       "id": 140687,
@@ -56,18 +54,6 @@
       "startTime": "07:30:00 PM 26-02-2026"
     },
     {
-      "id": 140594,
-      "event_category": "Cricket",
-      "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_fc-web.jpg",
-      "team_1": "New Zealand Women",
-      "team_2": "Zimbabwe Women",
-      "status": "UPCOMING",
-      "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-      "match_name": "New Zealand Women vs Zimbabwe Women",
-      "startTime": "11:45:00 AM 27-02-2026"
-    },
-    {
       "id": 140701,
       "event_category": "Football",
       "title": "Al-Riyadh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
@@ -92,18 +78,6 @@
       "startTime": "07:30:00 AM 27-02-2026"
     },
     {
-      "id": 140389,
-      "event_category": "Football",
-      "title": "Philadelphia Union vs Defense Force (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140389_5954_PU_DEF_FC-Web.jpg",
-      "team_1": "Philadelphia Union",
-      "team_2": "Defense Force",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Philadelphia Union vs Defense Force",
-      "startTime": "05:30:00 AM 27-02-2026"
-    },
-    {
       "id": 140664,
       "event_category": "Cricket",
       "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
@@ -114,18 +88,6 @@
       "event_name": "England Lions and Pakistan Shaheens tour of UAE",
       "match_name": "England Lions vs Pakistan Shaheens",
       "startTime": "11:30:00 AM 27-02-2026"
-    },
-    {
-      "id": 140674,
-      "event_category": "Cricket",
-      "title": "Thailand vs Bahrain (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140674_5970_TL_BAH_fc-web.jpg",
-      "team_1": "Thailand",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Thailand vs Bahrain",
-      "startTime": "12:00:00 PM 27-02-2026"
     },
     {
       "id": 140348,
@@ -164,16 +126,28 @@
       "startTime": "03:30:00 PM 26-02-2026"
     },
     {
-      "id": 140764,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Main Feed - Day 1",
-      "team_2": "PGA National Resort, Florida",
+      "id": 140674,
+      "event_category": "Cricket",
+      "title": "Thailand vs Bahrain (Thailand Open Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140674_5970_TL_BAH_fc-web.jpg",
+      "team_1": "Thailand",
+      "team_2": "Bahrain",
       "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Main Feed - Day 1",
-      "startTime": "04:15:00 PM 26-02-2026"
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "Thailand vs Bahrain",
+      "startTime": "12:00:00 PM 27-02-2026"
+    },
+    {
+      "id": 140389,
+      "event_category": "Football",
+      "title": "Philadelphia Union vs Defense Force (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140389_5954_PU_DEF_FC-Web.jpg",
+      "team_1": "Philadelphia Union",
+      "team_2": "Defense Force",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Philadelphia Union vs Defense Force",
+      "startTime": "05:30:00 AM 27-02-2026"
     },
     {
       "id": 139418,
@@ -186,66 +160,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Melbourne Victory vs Adelaide United",
       "startTime": "02:05:00 PM 27-02-2026"
-    },
-    {
-      "id": 140766,
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Featured Groups - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Featured Groups - Day 1",
-      "startTime": "05:00:00 PM 26-02-2026"
-    },
-    {
-      "id": 140767,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Featured Holes - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Featured Holes - Day 1",
-      "startTime": "05:15:00 PM 26-02-2026"
-    },
-    {
-      "id": 140765,
-      "event_category": "Golf",
-      "title": "Marquee Group - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "Marquee Group - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "Marquee Group - Day 1",
-      "startTime": "05:15:00 PM 26-02-2026"
-    },
-    {
-      "id": 140360,
-      "event_category": "Tennis",
-      "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-      "team_1": "Court Jaime Fillol",
-      "team_2": "Santiago, Chile",
-      "status": "UPCOMING",
-      "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-      "match_name": "Court Jaime Fillol",
-      "startTime": "09:30:00 PM 26-02-2026"
-    },
-    {
-      "id": 140763,
-      "event_category": "Golf",
-      "title": "World Feed - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "team_1": "World Feed - Day 1",
-      "team_2": "PGA National Resort, Florida",
-      "status": "UPCOMING",
-      "event_name": "Cognizant Classic in The Palm Beaches 2026",
-      "match_name": "World Feed - Day 1",
-      "startTime": "11:30:00 PM 26-02-2026"
     },
     {
       "id": 140446,
@@ -282,6 +196,78 @@
       "event_name": "Boland T20 Super League Finals 2026",
       "match_name": "Paarl CC vs Paarl East Cricket Club",
       "startTime": "05:30:00 PM 27-02-2026"
+    },
+    {
+      "id": 140764,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Main Feed - Day 1",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Main Feed - Day 1",
+      "startTime": "04:15:00 PM 26-02-2026"
+    },
+    {
+      "id": 140767,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Featured Holes - Day 1",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Featured Holes - Day 1",
+      "startTime": "05:15:00 PM 26-02-2026"
+    },
+    {
+      "id": 140766,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Featured Groups - Day 1",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Featured Groups - Day 1",
+      "startTime": "05:45:00 PM 26-02-2026"
+    },
+    {
+      "id": 140765,
+      "event_category": "Golf",
+      "title": "Marquee Group - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "Marquee Group - Day 1",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "Marquee Group - Day 1",
+      "startTime": "05:45:00 PM 26-02-2026"
+    },
+    {
+      "id": 140360,
+      "event_category": "Tennis",
+      "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+      "team_1": "Court Jaime Fillol",
+      "team_2": "Santiago, Chile",
+      "status": "UPCOMING",
+      "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
+      "match_name": "Court Jaime Fillol",
+      "startTime": "09:30:00 PM 26-02-2026"
+    },
+    {
+      "id": 140763,
+      "event_category": "Golf",
+      "title": "World Feed - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "team_1": "World Feed - Day 1",
+      "team_2": "PGA National Resort, Florida",
+      "status": "UPCOMING",
+      "event_name": "Cognizant Classic in The Palm Beaches 2026",
+      "match_name": "World Feed - Day 1",
+      "startTime": "11:30:00 PM 26-02-2026"
     },
     {
       "id": 140355,
@@ -438,6 +424,30 @@
       "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
       "match_name": "World Feed",
       "startTime": "06:30:00 PM 27-02-2026"
+    },
+    {
+      "id": 140702,
+      "event_category": "Football",
+      "title": "Al-Shabab FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140702_5655_ASF_AHS_fc-web.jpg",
+      "team_1": "Al-Shabab FC",
+      "team_2": "Al Hilal SFC",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Shabab FC vs Al Hilal SFC",
+      "startTime": "12:30:00 AM 28-02-2026"
+    },
+    {
+      "id": 131088,
+      "event_category": "Football",
+      "title": "Levante vs Deportivo Alaves (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131088_5427_LE_ALA_FC-Web.png",
+      "team_1": "Levante",
+      "team_2": "Deportivo Alaves",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Levante vs Deportivo Alaves",
+      "startTime": "01:30:00 AM 28-02-2026"
     }
   ]
 }
