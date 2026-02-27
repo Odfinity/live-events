@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:24 PM 27-02-2026",
+  "last update time": "04:13 PM 27-02-2026",
   "matches": [
     {
       "id": 140664,
@@ -16,20 +16,6 @@
       "startTime": "11:30:00 AM 27-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140674,
-      "event_category": "Cricket",
-      "title": "Bahrain vs Thailand (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140674_5970_TL_BAH_fc-web.jpg",
-      "team_1": "Bahrain",
-      "team_2": "Thailand",
-      "status": "LIVE",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Bahrain vs Thailand",
-      "startTime": "12:00:00 PM 27-02-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140674_english_hls_542878262328580_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140674_english_hls_542878262328580_1ta-di_h264/index.m3u8"
     },
     {
       "id": 139418,
@@ -60,30 +46,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140688,
-      "event_category": "Cricket",
-      "title": "Paarl CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140688_5968_PRC_PECC_FC-Web.jpg",
-      "team_1": "Paarl CC",
-      "team_2": "Paarl East Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Paarl CC vs Paarl East Cricket Club",
-      "startTime": "05:30:00 PM 27-02-2026"
-    },
-    {
-      "id": 140689,
-      "event_category": "Cricket",
-      "title": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140689_5968_VDS_VDCC_FC-Web.jpg",
-      "team_1": "Vredenburg/Saldanha CC",
-      "team_2": "Van der Stel Cricket Club",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club",
-      "startTime": "10:00:00 PM 27-02-2026"
-    },
-    {
       "id": 140446,
       "event_category": "Football",
       "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26)",
@@ -106,6 +68,30 @@
       "event_name": "ISL 2025-26  - Regional",
       "match_name": "East Bengal FC vs Jamshedpur FC",
       "startTime": "05:00:00 PM 27-02-2026"
+    },
+    {
+      "id": 140688,
+      "event_category": "Cricket",
+      "title": "Paarl CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140688_5968_PRC_PECC_FC-Web.jpg",
+      "team_1": "Paarl CC",
+      "team_2": "Paarl East Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Paarl CC vs Paarl East Cricket Club",
+      "startTime": "05:30:00 PM 27-02-2026"
+    },
+    {
+      "id": 140689,
+      "event_category": "Cricket",
+      "title": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140689_5968_VDS_VDCC_FC-Web.jpg",
+      "team_1": "Vredenburg/Saldanha CC",
+      "team_2": "Van der Stel Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club",
+      "startTime": "10:00:00 PM 27-02-2026"
     },
     {
       "id": 140447,
@@ -180,6 +166,18 @@
       "startTime": "10:45:00 AM 28-02-2026"
     },
     {
+      "id": 140676,
+      "event_category": "Cricket",
+      "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Japan",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "Japan vs Bahrain",
+      "startTime": "12:00:00 PM 28-02-2026"
+    },
+    {
       "id": 140821,
       "event_category": "Football",
       "title": "Albacete vs Almería (LALIGA Hypermotion 2025-26)",
@@ -190,18 +188,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Albacete vs Almería",
       "startTime": "01:00:00 AM 28-02-2026"
-    },
-    {
-      "id": 140676,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "12:00:00 PM 28-02-2026"
     },
     {
       "id": 140690,
@@ -300,6 +286,30 @@
       "startTime": "05:30:00 PM 28-02-2026"
     },
     {
+      "id": 140129,
+      "event_category": "Football",
+      "title": "Leicester City F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140129_5489_LEI_NOR_fc-web.jpg",
+      "team_1": "Leicester City F.C.",
+      "team_2": "Norwich City F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Leicester City F.C. vs Norwich City F.C.",
+      "startTime": "06:00:00 PM 28-02-2026"
+    },
+    {
+      "id": 131089,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs Athletic Club (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
+      "team_1": "Rayo Vallecano",
+      "team_2": "Athletic Club",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs Athletic Club",
+      "startTime": "06:30:00 PM 28-02-2026"
+    },
+    {
       "id": 140770,
       "event_category": "Golf",
       "title": "Featured Holes - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
@@ -372,18 +382,6 @@
       "startTime": "09:30:00 PM 27-02-2026"
     },
     {
-      "id": 140129,
-      "event_category": "Football",
-      "title": "Leicester City F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140129_5489_LEI_NOR_fc-web.jpg",
-      "team_1": "Leicester City F.C.",
-      "team_2": "Norwich City F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Leicester City F.C. vs Norwich City F.C.",
-      "startTime": "06:00:00 PM 28-02-2026"
-    },
-    {
       "id": 140768,
       "event_category": "Golf",
       "title": "World Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
@@ -396,16 +394,40 @@
       "startTime": "12:30:00 AM 28-02-2026"
     },
     {
-      "id": 131089,
+      "id": 140449,
       "event_category": "Football",
-      "title": "Rayo Vallecano vs Athletic Club (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
-      "team_1": "Rayo Vallecano",
-      "team_2": "Athletic Club",
+      "title": "Mohun Bagan Super Giant vs Mohammedan SC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140449_5956_MBSG_MSC_fc-web_1771412946544.jpg",
+      "team_1": "Mohun Bagan Super Giant",
+      "team_2": "Mohammedan SC",
       "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Rayo Vallecano vs Athletic Club",
-      "startTime": "06:30:00 PM 28-02-2026"
+      "event_name": "ISL 2025-26",
+      "match_name": "Mohun Bagan Super Giant vs Mohammedan SC",
+      "startTime": "07:30:00 PM 28-02-2026"
+    },
+    {
+      "id": 141088,
+      "event_category": "Football",
+      "title": "Mohun Bagan Super Giant vs Mohammedan SC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Mohun Bagan Super Giant",
+      "team_2": "Mohammedan SC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "Mohun Bagan Super Giant vs Mohammedan SC",
+      "startTime": "07:30:00 PM 28-02-2026"
+    },
+    {
+      "id": 140141,
+      "event_category": "Cricket",
+      "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg",
+      "team_1": "West Indies Women",
+      "team_2": "Sri Lanka Women",
+      "status": "UPCOMING",
+      "event_name": "Sri Lanka Women tour of West Indies, 2026",
+      "match_name": "West Indies Women vs Sri Lanka Women",
+      "startTime": "10:30:00 PM 28-02-2026"
     },
     {
       "id": 140356,
@@ -442,30 +464,6 @@
       "event_name": "ATP 500 - Abierto Mexicano Telcel",
       "match_name": "Estadio",
       "startTime": "06:30:00 AM 28-02-2026"
-    },
-    {
-      "id": 140842,
-      "event_category": "Tennis",
-      "title": "Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-      "team_1": "Grandstand",
-      "team_2": "Acapulco, Mexico",
-      "status": "UPCOMING",
-      "event_name": "ATP 500 - Abierto Mexicano Telcel",
-      "match_name": "Grandstand",
-      "startTime": "06:30:00 AM 28-02-2026"
-    },
-    {
-      "id": 139925,
-      "event_category": "MotoGP",
-      "title": "Day 2 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
-      "team_1": "Day 2",
-      "team_2": "Buriram International Circuit",
-      "status": "UPCOMING",
-      "event_name": "PT GRAND PRIX OF THAILAND 2026",
-      "match_name": "Thailand GP",
-      "startTime": "07:10:00 AM 28-02-2026"
     }
   ]
 }
