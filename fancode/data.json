@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:32 AM 28-02-2026",
+  "last update time": "11:17 AM 28-02-2026",
   "matches": [
     {
       "id": 140675,
@@ -18,6 +18,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140675_english_hls_91116a5ec721003_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140881,
+      "event_category": "Cricket",
+      "title": "Hong Kong, China vs Kuwait (Men's T20I Series 2026)",
+      "src": "https://images.fancode.com/aig/match/v1771899776744/140881_CASACARDS_APP.png",
+      "team_1": "Hong Kong, China",
+      "team_2": "Kuwait",
+      "status": "LIVE",
+      "event_name": "Men's T20I Series 2026",
+      "match_name": "Hong Kong, China vs Kuwait",
+      "startTime": "10:45:00 AM 28-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140881_english_hls_a790c03b7b42383_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140881_english_hls_a790c03b7b42383_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 139419,
       "event_category": "Football",
       "title": "Auckland vs Melbourne City (A League 2025-26)",
@@ -30,6 +44,20 @@
       "startTime": "09:30:00 AM 28-02-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139419_english_hls_d66694d18114618_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139419_english_hls_d66694d18114618_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 139420,
+      "event_category": "Football",
+      "title": "Central Coast Mariners vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/139420_5802_CCM_NJ_1770724113403.png",
+      "team_1": "Central Coast Mariners",
+      "team_2": "Newcastle Jets",
+      "status": "LIVE",
+      "event_name": "A League 2025-26",
+      "match_name": "Central Coast Mariners vs Newcastle Jets",
+      "startTime": "11:30:00 AM 28-02-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139420_english_hls_dbf7e6e88893112_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139420_english_hls_dbf7e6e88893112_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140356,
@@ -100,16 +128,16 @@
       "startTime": "10:30:00 PM 28-02-2026"
     },
     {
-      "id": 140881,
+      "id": 140676,
       "event_category": "Cricket",
-      "title": "Hong Kong, China vs Kuwait (Men's T20I Series 2026)",
-      "src": "https://images.fancode.com/aig/match/v1771899776744/140881_CASACARDS_APP.png",
-      "team_1": "Hong Kong, China",
-      "team_2": "Kuwait",
+      "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
+      "team_1": "Japan",
+      "team_2": "Bahrain",
       "status": "UPCOMING",
-      "event_name": "Men's T20I Series 2026",
-      "match_name": "Hong Kong, China vs Kuwait",
-      "startTime": "10:45:00 AM 28-02-2026"
+      "event_name": "Thailand Open Men's T20I Series 2026",
+      "match_name": "Japan vs Bahrain",
+      "startTime": "12:00:00 PM 28-02-2026"
     },
     {
       "id": 140595,
@@ -122,18 +150,6 @@
       "event_name": "Zimbabwe Women tour of New Zealand, 2026",
       "match_name": "New Zealand Women vs Zimbabwe Women",
       "startTime": "05:45:00 AM 01-03-2026"
-    },
-    {
-      "id": 140676,
-      "event_category": "Cricket",
-      "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
-      "team_1": "Japan",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Thailand Open Men's T20I Series 2026",
-      "match_name": "Japan vs Bahrain",
-      "startTime": "12:00:00 PM 28-02-2026"
     },
     {
       "id": 140690,
@@ -208,6 +224,18 @@
       "startTime": "06:30:00 PM 28-02-2026"
     },
     {
+      "id": 140692,
+      "event_category": "Cricket",
+      "title": "Vredenburg/Saldanha CC vs Paarl CC (Boland T20 Super League Finals 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140692_5968_VDS_PRC_FC-Web.jpg",
+      "team_1": "Vredenburg/Saldanha CC",
+      "team_2": "Paarl CC",
+      "status": "UPCOMING",
+      "event_name": "Boland T20 Super League Finals 2026",
+      "match_name": "Vredenburg/Saldanha CC vs Paarl CC",
+      "startTime": "10:00:00 PM 28-02-2026"
+    },
+    {
       "id": 140449,
       "event_category": "Football",
       "title": "Mohun Bagan Super Giant vs Mohammedan SC (ISL 2025-26)",
@@ -230,18 +258,6 @@
       "event_name": "ISL 2025-26  - Regional",
       "match_name": "Mohun Bagan Super Giant vs Mohammedan SC",
       "startTime": "07:30:00 PM 28-02-2026"
-    },
-    {
-      "id": 140692,
-      "event_category": "Cricket",
-      "title": "Vredenburg/Saldanha CC vs Paarl CC (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140692_5968_VDS_PRC_FC-Web.jpg",
-      "team_1": "Vredenburg/Saldanha CC",
-      "team_2": "Paarl CC",
-      "status": "UPCOMING",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Vredenburg/Saldanha CC vs Paarl CC",
-      "startTime": "10:00:00 PM 28-02-2026"
     },
     {
       "id": 140130,
@@ -302,18 +318,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Oviedo vs Atletico de Madrid",
       "startTime": "01:30:00 AM 01-03-2026"
-    },
-    {
-      "id": 139420,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Newcastle Jets (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/139420_5802_CCM_NJ_1770724113403.png",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Newcastle Jets",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Newcastle Jets",
-      "startTime": "11:30:00 AM 28-02-2026"
     },
     {
       "id": 139421,
