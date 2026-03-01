@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "08:29 PM 01-03-2026",
+  "last update time": "09:03 PM 01-03-2026",
   "matches": [
-    {
-      "id": 140694,
-      "event_category": "Cricket",
-      "title": "Maties Cricket Club vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png",
-      "team_1": "Maties Cricket Club",
-      "team_2": "Paarl East Cricket Club",
-      "status": "LIVE",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Maties Cricket Club vs Paarl East Cricket Club",
-      "startTime": "05:30:00 PM 01-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140694_english_hls_5a3a9ee8c631732_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140694_english_hls_5a3a9ee8c631732_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 131086,
-      "event_category": "Football",
-      "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
-      "team_1": "Elche CF",
-      "team_2": "RCD Espanyol",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Elche CF vs RCD Espanyol",
-      "startTime": "06:30:00 PM 01-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140451,
       "event_category": "Football",
@@ -58,20 +30,6 @@
       "startTime": "08:45:00 PM 01-03-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131083_english_hls_39041d3f9561489_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131083_english_hls_39041d3f9561489_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140824,
-      "event_category": "Football",
-      "title": "Real Sociedad vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1772160982911/140824_CASACARDS_APP.png",
-      "team_1": "Real Sociedad",
-      "team_2": "Deportivo La Coruna",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Real Sociedad vs Deportivo La Coruna",
-      "startTime": "06:30:00 PM 01-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140824_english_hls_63a18503a8455_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140824_english_hls_63a18503a8455_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140781,
@@ -404,6 +362,42 @@
       "event_name": "England Lions and Pakistan Shaheens tour of UAE",
       "match_name": "England Lions vs Pakistan Shaheens",
       "startTime": "11:30:00 AM 04-03-2026"
+    },
+    {
+      "id": 140798,
+      "event_category": "Football",
+      "title": "Japan Women vs Chinese Taipei Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140798_5979_JPN-W_TPE-W_fc-Web_1772191702164.jpg",
+      "team_1": "Japan Women",
+      "team_2": "Chinese Taipei Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Japan Women vs Chinese Taipei Women",
+      "startTime": "10:30:00 AM 04-03-2026"
+    },
+    {
+      "id": 139177,
+      "event_category": "Golf",
+      "title": "The Bay vs Jupiter vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "The Bay vs Jupiter",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "The Bay vs Jupiter",
+      "startTime": "07:30:00 AM 04-03-2026"
+    },
+    {
+      "id": 140906,
+      "event_category": "Football",
+      "title": "Macarthur vs Central Coast Mariners (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Macarthur",
+      "team_2": "Central Coast Mariners",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Macarthur vs Central Coast Mariners",
+      "startTime": "01:30:00 PM 04-03-2026"
     }
   ]
 }
