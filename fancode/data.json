@@ -1,21 +1,21 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:30 AM 03-03-2026",
+  "last update time": "01:18 AM 03-03-2026",
   "matches": [
     {
-      "id": 140696,
-      "event_category": "Cricket",
-      "title": "Maties Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140684_5968_MAT_VDCC_FC-Web.jpg",
-      "team_1": "Maties Cricket Club",
-      "team_2": "Van der Stel Cricket Club",
+      "id": 131082,
+      "event_category": "Football",
+      "title": "Real Madrid vs Getafe CF (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131082_5427_RM_GEF_FC-Web.png",
+      "team_1": "Real Madrid",
+      "team_2": "Getafe CF",
       "status": "LIVE",
-      "event_name": "Boland T20 Super League Finals 2026",
-      "match_name": "Maties Cricket Club vs Van der Stel Cricket Club",
-      "startTime": "10:00:00 PM 02-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140696_english_hls_fbe640b06e97811_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140696_english_hls_fbe640b06e97811_1ta-di_h264/index.m3u8"
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Getafe CF",
+      "startTime": "01:30:00 AM 03-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131082_english_hls_1f25cdb14f90643_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131082_english_hls_1f25cdb14f90643_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140823,
@@ -24,34 +24,12 @@
       "src": "https://images.fancode.com/aig/match/v1772160982904/140823_CASACARDS_APP.png",
       "team_1": "Córdoba",
       "team_2": "FC Andorra",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Córdoba vs FC Andorra",
-      "startTime": "01:00:00 AM 03-03-2026"
-    },
-    {
-      "id": 140883,
-      "event_category": "Cricket",
-      "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
-      "team_1": "Hong Kong, China",
-      "team_2": "Kuwait",
-      "status": "UPCOMING",
-      "event_name": "Men's One Day Series 2026",
-      "match_name": "Hong Kong, China vs Kuwait",
-      "startTime": "06:30:00 AM 03-03-2026"
-    },
-    {
-      "id": 131082,
-      "event_category": "Football",
-      "title": "Real Madrid vs Getafe CF (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131082_5427_RM_GEF_FC-Web.png",
-      "team_1": "Real Madrid",
-      "team_2": "Getafe CF",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Real Madrid vs Getafe CF",
-      "startTime": "01:30:00 AM 03-03-2026"
+      "startTime": "01:00:00 AM 03-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140823_english_hls_9d62dfb17a60410_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140823_english_hls_9d62dfb17a60410_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140131,
@@ -60,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140131_5489_BIR_MIDD_fc-web.jpg",
       "team_1": "Birmingham City F.C.",
       "team_2": "Middlesbrough F.C.",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "EFL Championship 2025-26",
       "match_name": "Birmingham City F.C. vs Middlesbrough F.C.",
-      "startTime": "01:30:00 AM 03-03-2026"
+      "startTime": "01:30:00 AM 03-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140131_english_hls_37d3a91cb655150_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140131_english_hls_37d3a91cb655150_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140143,
@@ -76,6 +56,18 @@
       "event_name": "Sri Lanka Women tour of West Indies, 2026",
       "match_name": "West Indies Women vs Sri Lanka Women",
       "startTime": "10:30:00 PM 03-03-2026"
+    },
+    {
+      "id": 140883,
+      "event_category": "Cricket",
+      "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+      "team_1": "Hong Kong, China",
+      "team_2": "Kuwait",
+      "status": "UPCOMING",
+      "event_name": "Men's One Day Series 2026",
+      "match_name": "Hong Kong, China vs Kuwait",
+      "startTime": "06:30:00 AM 03-03-2026"
     },
     {
       "id": 140848,
@@ -138,18 +130,6 @@
       "startTime": "01:30:00 AM 04-03-2026"
     },
     {
-      "id": 139176,
-      "event_category": "Golf",
-      "title": "Los Angeles vs New York vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Los Angeles vs New York",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Los Angeles vs New York",
-      "startTime": "05:30:00 AM 03-03-2026"
-    },
-    {
       "id": 140875,
       "event_category": "Football",
       "title": "Doncaster Rovers F.C. vs Stockport County (Vertu Trophy 2025-26)",
@@ -160,6 +140,18 @@
       "event_name": "Vertu Trophy 2025-26",
       "match_name": "Doncaster Rovers F.C. vs Stockport County",
       "startTime": "01:30:00 AM 04-03-2026"
+    },
+    {
+      "id": 139176,
+      "event_category": "Golf",
+      "title": "Los Angeles vs New York vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Los Angeles vs New York",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Los Angeles vs New York",
+      "startTime": "05:30:00 AM 03-03-2026"
     },
     {
       "id": 140666,
@@ -391,6 +383,18 @@
     },
     {
       "id": 141231,
+      "event_category": "Tennis",
+      "title": "ATP Masters BNP Paribas Open 2026 vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "ATP Masters BNP Paribas Open 2026",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "ATP Masters BNP Paribas Open 2026",
+      "startTime": "11:30:00 PM 04-03-2026"
+    },
+    {
+      "id": 141230,
       "event_category": "Tennis",
       "title": "ATP Masters BNP Paribas Open 2026 vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
