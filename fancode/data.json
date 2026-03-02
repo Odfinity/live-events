@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:30 PM 02-03-2026",
+  "last update time": "05:13 PM 02-03-2026",
   "matches": [
-    {
-      "id": 140795,
-      "event_category": "Football",
-      "title": "Korea Republic Women vs IR Iran Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140795_5979_KOR-W_IRNW_fc-Web_1772191702171.jpg",
-      "team_1": "Korea Republic Women",
-      "team_2": "IR Iran Women",
-      "status": "LIVE",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Korea Republic Women vs IR Iran Women",
-      "startTime": "02:30:00 PM 02-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140795_english_hls_91876c511118795_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140795_english_hls_91876c511118795_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140696,
       "event_category": "Cricket",
@@ -400,6 +386,18 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "Queensland vs Western Australia",
       "startTime": "05:30:00 AM 05-03-2026"
+    },
+    {
+      "id": 140800,
+      "event_category": "Football",
+      "title": "Philippines Women vs Korea Republic Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140800_5979_PHI-W_KOR-W_fc-Web_1772191702182.jpg",
+      "team_1": "Philippines Women",
+      "team_2": "Korea Republic Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Philippines Women vs Korea Republic Women",
+      "startTime": "08:30:00 AM 05-03-2026"
     }
   ]
 }
