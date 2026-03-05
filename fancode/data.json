@@ -1,8 +1,50 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:41 AM 06-03-2026",
+  "last update time": "05:29 AM 06-03-2026",
   "matches": [
+    {
+      "id": 134039,
+      "event_category": "Cricket",
+      "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png",
+      "team_1": "Victoria",
+      "team_2": "Tasmania",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Victoria vs Tasmania",
+      "startTime": "05:00:00 AM 05-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134039_english_hls_218ba2772e94080_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134039_english_hls_218ba2772e94080_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 134040,
+      "event_category": "Cricket",
+      "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
+      "team_1": "New South Wales",
+      "team_2": "South Australia",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "New South Wales vs South Australia",
+      "startTime": "05:30:00 AM 05-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134040_english_hls_2b4391587451222_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134040_english_hls_2b4391587451222_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 134038,
+      "event_category": "Cricket",
+      "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
+      "team_1": "Western Australia",
+      "team_2": "Queensland",
+      "status": "LIVE",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Western Australia vs Queensland",
+      "startTime": "05:30:00 AM 05-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3660662_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3660662_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 141009,
       "event_category": "Tennis",
@@ -102,20 +144,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141232_english_hls_ed95ca4ccc24821_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 139542,
-      "event_category": "Motorsports",
-      "title": "Practice Session vs Melbourne  (F2 AUSTRALIA 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-      "team_1": "Practice Session",
-      "team_2": "Melbourne ",
-      "status": "LIVE",
-      "event_name": "F2 AUSTRALIA 2026",
-      "match_name": "Practice Session",
-      "startTime": "04:30:00 AM 06-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139542_english_hls_a2dd1c27f720079_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139542_english_hls_a2dd1c27f720079_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 141255,
       "event_category": "Cricket",
       "title": "JP Sports vs Lightning Legends (Tillo Cup 2026)",
@@ -164,42 +192,6 @@
       "startTime": "07:30:00 PM 06-03-2026"
     },
     {
-      "id": 134039,
-      "event_category": "Cricket",
-      "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png",
-      "team_1": "Victoria",
-      "team_2": "Tasmania",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Victoria vs Tasmania",
-      "startTime": "05:00:00 AM 05-03-2026"
-    },
-    {
-      "id": 134040,
-      "event_category": "Cricket",
-      "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
-      "team_1": "New South Wales",
-      "team_2": "South Australia",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "New South Wales vs South Australia",
-      "startTime": "05:30:00 AM 05-03-2026"
-    },
-    {
-      "id": 134038,
-      "event_category": "Cricket",
-      "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
-      "team_1": "Western Australia",
-      "team_2": "Queensland",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Western Australia vs Queensland",
-      "startTime": "05:30:00 AM 05-03-2026"
-    },
-    {
       "id": 140802,
       "event_category": "Football",
       "title": "Bangladesh Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
@@ -210,6 +202,18 @@
       "event_name": "AFC Women's Asian Cup, 2026",
       "match_name": "Bangladesh Women vs DPR Korea Women",
       "startTime": "07:30:00 AM 06-03-2026"
+    },
+    {
+      "id": 140717,
+      "event_category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140717_5655_AAS_ITT_fc-web.jpg",
+      "team_1": "Al-Ahli Saudi FC",
+      "team_2": "Al-Ittihad",
+      "status": "UPCOMING",
+      "event_name": "Roshn Saudi League 2025-2026",
+      "match_name": "Al-Ahli Saudi FC vs Al-Ittihad",
+      "startTime": "12:30:00 AM 07-03-2026"
     },
     {
       "id": 140803,
@@ -234,18 +238,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Adelaide United vs Wellington Phoenix",
       "startTime": "02:05:00 PM 06-03-2026"
-    },
-    {
-      "id": 140717,
-      "event_category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140717_5655_AAS_ITT_fc-web.jpg",
-      "team_1": "Al-Ahli Saudi FC",
-      "team_2": "Al-Ittihad",
-      "status": "UPCOMING",
-      "event_name": "Roshn Saudi League 2025-2026",
-      "match_name": "Al-Ahli Saudi FC vs Al-Ittihad",
-      "startTime": "12:30:00 AM 07-03-2026"
     },
     {
       "id": 131095,
@@ -461,6 +453,18 @@
       "status": "UPCOMING",
       "event_name": "ATP Masters BNP Paribas Open 2026",
       "match_name": "F Court Feed",
+      "startTime": "11:30:00 PM 06-03-2026"
+    },
+    {
+      "id": 141236,
+      "event_category": "Tennis",
+      "title": "E Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+      "team_1": "E Court Feed",
+      "team_2": "Indian, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters BNP Paribas Open 2026",
+      "match_name": "E Court Feed",
       "startTime": "11:30:00 PM 06-03-2026"
     }
   ]
