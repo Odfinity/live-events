@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:18 AM 05-03-2026",
+  "last update time": "11:07 AM 05-03-2026",
   "matches": [
-    {
-      "id": 140596,
-      "event_category": "Cricket",
-      "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
-      "team_1": "New Zealand Women",
-      "team_2": "Zimbabwe Women",
-      "status": "LIVE",
-      "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-      "match_name": "New Zealand Women vs Zimbabwe Women",
-      "startTime": "03:30:00 AM 05-03-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21NZVSZM/master.m3u8?hdnea=exp=1772704631~acl=/*~id=71785011425195593525044196708121~hmac=6d0366235e8ad67ec91951da9fa25355bbb0ed74580b3ee750c425b6a11088d2"
-    },
     {
       "id": 140884,
       "event_category": "Cricket",
@@ -74,20 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3670906_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140800,
-      "event_category": "Football",
-      "title": "Philippines Women vs Korea Republic Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140800_5979_PHI-W_KOR-W_fc-Web_1772191702182.jpg",
-      "team_1": "Philippines Women",
-      "team_2": "Korea Republic Women",
-      "status": "LIVE",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Philippines Women vs Korea Republic Women",
-      "startTime": "08:30:00 AM 05-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140800_english_hls_5b02b4227249185_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140800_english_hls_5b02b4227249185_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 141005,
       "event_category": "Tennis",
       "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
@@ -114,20 +86,6 @@
       "startTime": "12:30:00 AM 05-03-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 141228,
-      "event_category": "Tennis",
-      "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "C Court Feed",
-      "team_2": "Indian, United States",
-      "status": "LIVE",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "C Court Feed",
-      "startTime": "12:30:00 AM 05-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140452,
@@ -334,18 +292,6 @@
       "startTime": "12:30:00 AM 06-03-2026"
     },
     {
-      "id": 139542,
-      "event_category": "Motorsports",
-      "title": "Practice Session vs Melbourne  (F2 AUSTRALIA 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-      "team_1": "Practice Session",
-      "team_2": "Melbourne ",
-      "status": "UPCOMING",
-      "event_name": "F2 AUSTRALIA 2026",
-      "match_name": "Practice Session",
-      "startTime": "04:30:00 AM 06-03-2026"
-    },
-    {
       "id": 141255,
       "event_category": "Cricket",
       "title": "JP Sports vs Lightning Legends (Tillo Cup 2026)",
@@ -356,6 +302,18 @@
       "event_name": "Tillo Cup 2026",
       "match_name": "JP Sports vs Lightning Legends",
       "startTime": "01:00:00 PM 06-03-2026"
+    },
+    {
+      "id": 139542,
+      "event_category": "Motorsports",
+      "title": "Practice Session vs Melbourne  (F2 AUSTRALIA 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
+      "team_1": "Practice Session",
+      "team_2": "Melbourne ",
+      "status": "UPCOMING",
+      "event_name": "F2 AUSTRALIA 2026",
+      "match_name": "Practice Session",
+      "startTime": "04:30:00 AM 06-03-2026"
     },
     {
       "id": 140803,
@@ -394,6 +352,30 @@
       "startTime": "02:05:00 PM 06-03-2026"
     },
     {
+      "id": 140454,
+      "event_category": "Football",
+      "title": "Mohun Bagan Super Giant vs Odisha FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web_1772450208561.jpg",
+      "team_1": "Mohun Bagan Super Giant",
+      "team_2": "Odisha FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26",
+      "match_name": "Mohun Bagan Super Giant vs Odisha FC",
+      "startTime": "05:00:00 PM 06-03-2026"
+    },
+    {
+      "id": 141169,
+      "event_category": "Football",
+      "title": "Mohun Bagan Super Giant vs Odisha FC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Mohun Bagan Super Giant",
+      "team_2": "Odisha FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "Mohun Bagan Super Giant vs Odisha FC",
+      "startTime": "05:00:00 PM 06-03-2026"
+    },
+    {
       "id": 139543,
       "event_category": "Motorsports",
       "title": "Qualifying Session vs Melbourne  (F2 AUSTRALIA 2026)",
@@ -406,28 +388,16 @@
       "startTime": "09:25:00 AM 06-03-2026"
     },
     {
-      "id": 140454,
-      "event_category": "Football",
-      "title": "Odisha FC vs Mohun Bagan Super Giant (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web_1772450208561.jpg",
-      "team_1": "Odisha FC",
-      "team_2": "Mohun Bagan Super Giant",
+      "id": 139362,
+      "event_category": "Formula 1",
+      "title": "Practice 2 vs Australia (F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
+      "team_1": "Practice 2",
+      "team_2": "Australia",
       "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "Odisha FC vs Mohun Bagan Super Giant",
-      "startTime": "05:00:00 PM 06-03-2026"
-    },
-    {
-      "id": 141169,
-      "event_category": "Football",
-      "title": "Odisha FC vs Mohun Bagan Super Giant (ISL 2025-26  - Regional)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Odisha FC",
-      "team_2": "Mohun Bagan Super Giant",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26  - Regional",
-      "match_name": "Odisha FC vs Mohun Bagan Super Giant",
-      "startTime": "05:00:00 PM 06-03-2026"
+      "event_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
+      "match_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
+      "startTime": "10:30:00 AM 06-03-2026"
     },
     {
       "id": 140666,
@@ -440,18 +410,6 @@
       "event_name": "England Lions and Pakistan Shaheens tour of UAE",
       "match_name": "England Lions vs Pakistan Shaheens",
       "startTime": "03:55:00 PM 03-03-2026"
-    },
-    {
-      "id": 139362,
-      "event_category": "Formula 1",
-      "title": "Practice 2 vs Australia (F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
-      "team_1": "Practice 2",
-      "team_2": "Australia",
-      "status": "UPCOMING",
-      "event_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
-      "match_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
-      "startTime": "10:30:00 AM 06-03-2026"
     },
     {
       "id": 140453,
@@ -476,6 +434,30 @@
       "event_name": "F3 AUSTRALIA 2026",
       "match_name": "Practice Session",
       "startTime": "03:20:00 AM 06-03-2026"
+    },
+    {
+      "id": 139705,
+      "event_category": "Motorsports",
+      "title": "Qualifying Session vs Melbourne (F3 AUSTRALIA 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+      "team_1": "Qualifying Session",
+      "team_2": "Melbourne",
+      "status": "UPCOMING",
+      "event_name": "F3 AUSTRALIA 2026",
+      "match_name": "Qualifying Session",
+      "startTime": "08:30:00 AM 06-03-2026"
+    },
+    {
+      "id": 140992,
+      "event_category": "Golf",
+      "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "team_1": "Main Feed Day 2",
+      "team_2": "Orlando, Florida",
+      "status": "UPCOMING",
+      "event_name": "Arnold Palmer Invitational 2026",
+      "match_name": "Main Feed Day 2",
+      "startTime": "06:00:00 PM 06-03-2026"
     }
   ]
 }
