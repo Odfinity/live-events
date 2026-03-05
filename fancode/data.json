@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:50 AM 06-03-2026",
+  "last update time": "03:27 AM 06-03-2026",
   "matches": [
     {
       "id": 140988,
@@ -158,6 +158,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141232_english_hls_ed95ca4ccc24821_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 139704,
+      "event_category": "Motorsports",
+      "title": "Practice Session vs Melbourne (F3 AUSTRALIA 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+      "team_1": "Practice Session",
+      "team_2": "Melbourne",
+      "status": "LIVE",
+      "event_name": "F3 AUSTRALIA 2026",
+      "match_name": "Practice Session",
+      "startTime": "03:20:00 AM 06-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139704_english_hls_bdd625e40164292_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139704_english_hls_bdd625e40164292_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 141255,
       "event_category": "Cricket",
       "title": "JP Sports vs Lightning Legends (Tillo Cup 2026)",
@@ -276,18 +290,6 @@
       "event_name": "A League 2025-26",
       "match_name": "Adelaide United vs Wellington Phoenix",
       "startTime": "02:05:00 PM 06-03-2026"
-    },
-    {
-      "id": 139704,
-      "event_category": "Motorsports",
-      "title": "Practice Session vs Melbourne (F3 AUSTRALIA 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
-      "team_1": "Practice Session",
-      "team_2": "Melbourne",
-      "status": "UPCOMING",
-      "event_name": "F3 AUSTRALIA 2026",
-      "match_name": "Practice Session",
-      "startTime": "03:20:00 AM 06-03-2026"
     },
     {
       "id": 140717,
@@ -410,18 +412,6 @@
       "startTime": "10:30:00 AM 06-03-2026"
     },
     {
-      "id": 140992,
-      "event_category": "Golf",
-      "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
-      "team_1": "Main Feed Day 2",
-      "team_2": "Orlando, Florida",
-      "status": "UPCOMING",
-      "event_name": "Arnold Palmer Invitational 2026",
-      "match_name": "Main Feed Day 2",
-      "startTime": "06:00:00 PM 06-03-2026"
-    },
-    {
       "id": 140885,
       "event_category": "Cricket",
       "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
@@ -432,6 +422,18 @@
       "event_name": "Men's One Day Series 2026",
       "match_name": "Hong Kong, China vs Kuwait",
       "startTime": "06:30:00 AM 07-03-2026"
+    },
+    {
+      "id": 140992,
+      "event_category": "Golf",
+      "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "team_1": "Main Feed Day 2",
+      "team_2": "Orlando, Florida",
+      "status": "UPCOMING",
+      "event_name": "Arnold Palmer Invitational 2026",
+      "match_name": "Main Feed Day 2",
+      "startTime": "06:00:00 PM 06-03-2026"
     },
     {
       "id": 140993,
