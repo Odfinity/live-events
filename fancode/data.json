@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:29 PM 06-03-2026",
+  "last update time": "05:08 PM 06-03-2026",
   "matches": [
     {
       "id": 141255,
@@ -18,44 +18,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141255_english_hls_197d05fbd248087_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140803,
-      "event_category": "Football",
-      "title": "Uzbekistan Women vs China PR Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140803_5979_UB-W_CHN-W_fc-Web_1772191702178.jpg",
-      "team_1": "Uzbekistan Women",
-      "team_2": "China PR Women",
-      "status": "LIVE",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Uzbekistan Women vs China PR Women",
-      "startTime": "01:30:00 PM 06-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140803_english_hls_74e606873292705_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140803_english_hls_74e606873292705_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140907,
-      "event_category": "Football",
-      "title": "Adelaide United vs Wellington Phoenix (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140907_5802_ADL_WEL_fc-web.jpg",
-      "team_1": "Adelaide United",
-      "team_2": "Wellington Phoenix",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Adelaide United vs Wellington Phoenix",
-      "startTime": "02:05:00 PM 06-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140907_english_hls_2b1430a58879684_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140907_english_hls_2b1430a58879684_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 140454,
       "event_category": "Football",
       "title": "Mohun Bagan Super Giant vs Odisha FC (ISL 2025-26)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
       "team_1": "Mohun Bagan Super Giant",
       "team_2": "Odisha FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ISL 2025-26",
       "match_name": "Mohun Bagan Super Giant vs Odisha FC",
-      "startTime": "05:00:00 PM 06-03-2026"
+      "startTime": "05:00:00 PM 06-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/index.m3u8"
     },
     {
       "id": 141169,
@@ -64,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(2).jpg",
       "team_1": "Mohun Bagan Super Giant",
       "team_2": "Odisha FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ISL 2025-26  - Regional",
       "match_name": "Mohun Bagan Super Giant vs Odisha FC",
-      "startTime": "05:00:00 PM 06-03-2026"
+      "startTime": "05:00:00 PM 06-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141169_english_hls_9ac8dee75c30085_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141169_english_hls_9ac8dee75c30085_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140453,
@@ -166,6 +142,18 @@
       "startTime": "05:30:00 AM 05-03-2026"
     },
     {
+      "id": 141299,
+      "event_category": "Cricket",
+      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Malaysia",
+      "team_2": "Bahrain",
+      "status": "UPCOMING",
+      "event_name": "Bahrain tour of Malaysia, 2026",
+      "match_name": "Malaysia vs Bahrain",
+      "startTime": "12:30:00 PM 07-03-2026"
+    },
+    {
       "id": 140825,
       "event_category": "Football",
       "title": "Cádiz vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
@@ -190,18 +178,6 @@
       "startTime": "01:15:00 AM 07-03-2026"
     },
     {
-      "id": 141299,
-      "event_category": "Cricket",
-      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Bahrain tour of Malaysia, 2026",
-      "match_name": "Malaysia vs Bahrain",
-      "startTime": "12:30:00 PM 07-03-2026"
-    },
-    {
       "id": 141256,
       "event_category": "Cricket",
       "title": "A&S Kolkata vs Nexage Hyderabad (Tillo Cup 2026)",
@@ -212,6 +188,18 @@
       "event_name": "Tillo Cup 2026",
       "match_name": "A&S Kolkata vs Nexage Hyderabad",
       "startTime": "01:00:00 PM 07-03-2026"
+    },
+    {
+      "id": 140992,
+      "event_category": "Golf",
+      "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "team_1": "Main Feed Day 2",
+      "team_2": "Orlando, Florida",
+      "status": "UPCOMING",
+      "event_name": "Arnold Palmer Invitational 2026",
+      "match_name": "Main Feed Day 2",
+      "startTime": "06:00:00 PM 06-03-2026"
     },
     {
       "id": 140804,
@@ -310,16 +298,40 @@
       "startTime": "04:30:00 PM 07-03-2026"
     },
     {
-      "id": 140992,
-      "event_category": "Golf",
-      "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
-      "team_1": "Main Feed Day 2",
-      "team_2": "Orlando, Florida",
+      "id": 140456,
+      "event_category": "Football",
+      "title": "Kerala Blasters FC vs Chennaiyin FC (ISL 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140456_5956_KBFC_CFC_FC-Web_1772450662491.jpg",
+      "team_1": "Kerala Blasters FC",
+      "team_2": "Chennaiyin FC",
       "status": "UPCOMING",
-      "event_name": "Arnold Palmer Invitational 2026",
-      "match_name": "Main Feed Day 2",
-      "startTime": "06:00:00 PM 06-03-2026"
+      "event_name": "ISL 2025-26",
+      "match_name": "Kerala Blasters FC vs Chennaiyin FC",
+      "startTime": "07:30:00 PM 07-03-2026"
+    },
+    {
+      "id": 141171,
+      "event_category": "Football",
+      "title": "Kerala Blasters FC vs Chennaiyin FC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Kerala Blasters FC",
+      "team_2": "Chennaiyin FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "Kerala Blasters FC vs Chennaiyin FC",
+      "startTime": "07:30:00 PM 07-03-2026"
+    },
+    {
+      "id": 141170,
+      "event_category": "Football",
+      "title": "Kerala Blasters FC vs Chennaiyin FC (ISL 2025-26  - Regional)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Kerala Blasters FC",
+      "team_2": "Chennaiyin FC",
+      "status": "UPCOMING",
+      "event_name": "ISL 2025-26  - Regional",
+      "match_name": "Kerala Blasters FC vs Chennaiyin FC",
+      "startTime": "07:30:00 PM 07-03-2026"
     },
     {
       "id": 140993,
@@ -452,18 +464,6 @@
       "event_name": "ATP Masters BNP Paribas Open 2026",
       "match_name": "D Court Feed",
       "startTime": "12:30:00 AM 07-03-2026"
-    },
-    {
-      "id": 140456,
-      "event_category": "Football",
-      "title": "Kerala Blasters FC vs Chennaiyin FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140456_5956_KBFC_CFC_FC-Web_1772450662491.jpg",
-      "team_1": "Kerala Blasters FC",
-      "team_2": "Chennaiyin FC",
-      "status": "UPCOMING",
-      "event_name": "ISL 2025-26",
-      "match_name": "Kerala Blasters FC vs Chennaiyin FC",
-      "startTime": "07:30:00 PM 07-03-2026"
     }
   ]
 }
