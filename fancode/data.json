@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "09:11 PM 06-03-2026",
+  "last update time": "09:51 PM 06-03-2026",
   "matches": [
-    {
-      "id": 140453,
-      "event_category": "Football",
-      "title": "Jamshedpur FC vs Inter Kashi FC (ISL 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140453_5956_JFC_KSHI_FC-Web_1772450359895.jpg",
-      "team_1": "Jamshedpur FC",
-      "team_2": "Inter Kashi FC",
-      "status": "LIVE",
-      "event_name": "ISL 2025-26",
-      "match_name": "Jamshedpur FC vs Inter Kashi FC",
-      "startTime": "07:30:00 PM 06-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140453_english_hls_140e0abd6d55690_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140453_english_hls_140e0abd6d55690_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140992,
       "event_category": "Golf",
@@ -228,18 +214,6 @@
       "startTime": "10:30:00 AM 07-03-2026"
     },
     {
-      "id": 140908,
-      "event_category": "Football",
-      "title": "Newcastle Jets vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140908_5802_NJ_SYW_fc-web.jpg",
-      "team_1": "Newcastle Jets",
-      "team_2": "Western Sydney Wanderers",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Newcastle Jets vs Western Sydney Wanderers",
-      "startTime": "11:30:00 AM 07-03-2026"
-    },
-    {
       "id": 140553,
       "event_category": "Football",
       "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
@@ -250,6 +224,18 @@
       "event_name": "EFL Championship 2025-26",
       "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
       "startTime": "06:00:00 PM 07-03-2026"
+    },
+    {
+      "id": 140908,
+      "event_category": "Football",
+      "title": "Newcastle Jets vs Western Sydney Wanderers (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140908_5802_NJ_SYW_fc-web.jpg",
+      "team_1": "Newcastle Jets",
+      "team_2": "Western Sydney Wanderers",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Newcastle Jets vs Western Sydney Wanderers",
+      "startTime": "11:30:00 AM 07-03-2026"
     },
     {
       "id": 131091,
@@ -466,6 +452,18 @@
       "event_name": "ATP Masters BNP Paribas Open 2026",
       "match_name": "D Court Feed",
       "startTime": "12:30:00 AM 07-03-2026"
+    },
+    {
+      "id": 140597,
+      "event_category": "Cricket",
+      "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
+      "team_1": "New Zealand Women",
+      "team_2": "Zimbabwe Women",
+      "status": "UPCOMING",
+      "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+      "match_name": "New Zealand Women vs Zimbabwe Women",
+      "startTime": "03:30:00 AM 08-03-2026"
     }
   ]
 }
