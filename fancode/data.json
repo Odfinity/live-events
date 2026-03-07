@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:28 PM 07-03-2026",
+  "last update time": "06:35 PM 07-03-2026",
   "matches": [
     {
       "id": 140455,
@@ -32,6 +32,34 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141172_bengali_hls_1bd40809b6892_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 140553,
+      "event_category": "Football",
+      "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140553_5489_BLK_PRM_fc-web.jpg",
+      "team_1": "Blackburn Rovers F.C.",
+      "team_2": "Portsmouth F.C.",
+      "status": "LIVE",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
+      "startTime": "06:00:00 PM 07-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140553_english_hls_d0284535f580000_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140553_english_hls_d0284535f580000_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 131091,
+      "event_category": "Football",
+      "title": "CA Osasuna vs RCD Mallorca (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131091_5427_OSN_MRC_FC-Web.png",
+      "team_1": "CA Osasuna",
+      "team_2": "RCD Mallorca",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "CA Osasuna vs RCD Mallorca",
+      "startTime": "06:30:00 PM 07-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131091_english_hls_d3768e72b175089_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131091_english_hls_d3768e72b175089_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140805,
       "event_category": "Football",
       "title": "India Women vs Japan Women (AFC Women's Asian Cup, 2026)",
@@ -56,30 +84,6 @@
       "event_name": "Zimbabwe Women tour of New Zealand, 2026",
       "match_name": "New Zealand Women vs Zimbabwe Women",
       "startTime": "03:30:00 AM 08-03-2026"
-    },
-    {
-      "id": 140553,
-      "event_category": "Football",
-      "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140553_5489_BLK_PRM_fc-web.jpg",
-      "team_1": "Blackburn Rovers F.C.",
-      "team_2": "Portsmouth F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
-      "startTime": "06:00:00 PM 07-03-2026"
-    },
-    {
-      "id": 131091,
-      "event_category": "Football",
-      "title": "CA Osasuna vs RCD Mallorca (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131091_5427_OSN_MRC_FC-Web.png",
-      "team_1": "CA Osasuna",
-      "team_2": "RCD Mallorca",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "CA Osasuna vs RCD Mallorca",
-      "startTime": "06:30:00 PM 07-03-2026"
     },
     {
       "id": 140456,
@@ -226,18 +230,6 @@
       "startTime": "09:30:00 AM 08-03-2026"
     },
     {
-      "id": 134038,
-      "event_category": "Cricket",
-      "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
-      "team_1": "Western Australia",
-      "team_2": "Queensland",
-      "status": "PAUSED",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Western Australia vs Queensland",
-      "startTime": "05:30:00 AM 05-03-2026"
-    },
-    {
       "id": 140619,
       "event_category": "Cricket",
       "title": "Hong Kong Cricket Club vs United Services Recreation Club (Premier League T20 2026)",
@@ -262,6 +254,18 @@
       "startTime": "11:00:00 AM 08-03-2026"
     },
     {
+      "id": 134038,
+      "event_category": "Cricket",
+      "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
+      "team_1": "Western Australia",
+      "team_2": "Queensland",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Western Australia vs Queensland",
+      "startTime": "05:30:00 AM 05-03-2026"
+    },
+    {
       "id": 141300,
       "event_category": "Cricket",
       "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
@@ -272,6 +276,18 @@
       "event_name": "Bahrain tour of Malaysia, 2026",
       "match_name": "Malaysia vs Bahrain",
       "startTime": "12:30:00 PM 08-03-2026"
+    },
+    {
+      "id": 141258,
+      "event_category": "Cricket",
+      "title": "JP Sports Noida vs A&S Kolkata (Tillo Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "team_1": "JP Sports Noida",
+      "team_2": "A&S Kolkata",
+      "status": "UPCOMING",
+      "event_name": "Tillo Cup 2026",
+      "match_name": "JP Sports Noida vs A&S Kolkata",
+      "startTime": "01:30:00 PM 08-03-2026"
     },
     {
       "id": 141043,
@@ -296,18 +312,6 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Málaga vs Real Valladolid",
       "startTime": "01:30:00 AM 08-03-2026"
-    },
-    {
-      "id": 141258,
-      "event_category": "Cricket",
-      "title": "JP Sports Noida vs A&S Kolkata (Tillo Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-      "team_1": "JP Sports Noida",
-      "team_2": "A&S Kolkata",
-      "status": "UPCOMING",
-      "event_name": "Tillo Cup 2026",
-      "match_name": "JP Sports Noida vs A&S Kolkata",
-      "startTime": "01:30:00 PM 08-03-2026"
     },
     {
       "id": 140910,
@@ -394,6 +398,30 @@
       "startTime": "05:30:00 PM 08-03-2026"
     },
     {
+      "id": 131098,
+      "event_category": "Football",
+      "title": "Getafe CF vs Real Betis (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131098_5427_GEF_RB_FC-Web.png",
+      "team_1": "Getafe CF",
+      "team_2": "Real Betis",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Getafe CF vs Real Betis",
+      "startTime": "08:45:00 PM 08-03-2026"
+    },
+    {
+      "id": 141045,
+      "event_category": "Football",
+      "title": "Rangers vs Celtic (Scottish Cup 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+      "team_1": "Rangers",
+      "team_2": "Celtic",
+      "status": "UPCOMING",
+      "event_name": "Scottish Cup 2025-26",
+      "match_name": "Rangers vs Celtic",
+      "startTime": "06:30:00 PM 08-03-2026"
+    },
+    {
       "id": 140996,
       "event_category": "Golf",
       "title": "Main Feed Day 3 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
@@ -440,30 +468,6 @@
       "event_name": "Arnold Palmer Invitational 2026",
       "match_name": "World Feed Day 3",
       "startTime": "11:00:00 PM 07-03-2026"
-    },
-    {
-      "id": 141015,
-      "event_category": "Tennis",
-      "title": "B Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "B Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "B Court Feed",
-      "startTime": "12:30:00 AM 08-03-2026"
-    },
-    {
-      "id": 141014,
-      "event_category": "Tennis",
-      "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "A Court Feed",
-      "team_2": "Indian, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "A Court Feed",
-      "startTime": "12:30:00 AM 08-03-2026"
     }
   ]
 }
