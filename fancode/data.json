@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:24 AM 07-03-2026",
+  "last update time": "12:19 PM 07-03-2026",
   "matches": [
-    {
-      "id": 139364,
-      "event_category": "Formula 1",
-      "title": "Qualifying vs Australia (F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
-      "team_1": "Qualifying",
-      "team_2": "Australia",
-      "status": "LIVE",
-      "event_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
-      "match_name": "Qualifying",
-      "startTime": "10:30:00 AM 07-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 140885,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "06:30:00 AM 07-03-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 141299,
+      "event_category": "Cricket",
+      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+      "team_1": "Malaysia",
+      "team_2": "Bahrain",
+      "status": "LIVE",
+      "event_name": "Bahrain tour of Malaysia, 2026",
+      "match_name": "Malaysia vs Bahrain",
+      "startTime": "12:30:00 PM 07-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141299_english_hls_53143f8da650924_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141299_english_hls_53143f8da650924_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140804,
@@ -88,48 +88,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3637801_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 141010,
-      "event_category": "Tennis",
-      "title": "World Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "World Feed",
-      "team_2": "Indian, United States",
-      "status": "LIVE",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "World Feed",
-      "startTime": "12:30:00 AM 07-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141010_english_hls_590a93f1f543161_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141010_english_hls_590a93f1f543161_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 141235,
-      "event_category": "Tennis",
-      "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-      "team_1": "D Court Feed",
-      "team_2": "Indian, United States",
-      "status": "LIVE",
-      "event_name": "ATP Masters BNP Paribas Open 2026",
-      "match_name": "D Court Feed",
-      "startTime": "12:30:00 AM 07-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141235_english_hls_e633f5b21413798_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141235_english_hls_e633f5b21413798_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140785,
-      "event_category": "Golf",
-      "title": "Day 1 vs Magenta Shares Golf & Country Club (Australian Women's Classic 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
-      "team_1": "Day 1",
-      "team_2": "Magenta Shares Golf & Country Club",
-      "status": "LIVE",
-      "event_name": "Australian Women's Classic 2026",
-      "match_name": "Day 1",
-      "startTime": "06:30:00 AM 07-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 140597,
       "event_category": "Cricket",
       "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
@@ -140,18 +98,6 @@
       "event_name": "Zimbabwe Women tour of New Zealand, 2026",
       "match_name": "New Zealand Women vs Zimbabwe Women",
       "startTime": "03:30:00 AM 08-03-2026"
-    },
-    {
-      "id": 141299,
-      "event_category": "Cricket",
-      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Bahrain",
-      "status": "UPCOMING",
-      "event_name": "Bahrain tour of Malaysia, 2026",
-      "match_name": "Malaysia vs Bahrain",
-      "startTime": "12:30:00 PM 07-03-2026"
     },
     {
       "id": 141256,
@@ -322,30 +268,6 @@
       "startTime": "01:30:00 AM 08-03-2026"
     },
     {
-      "id": 140909,
-      "event_category": "Football",
-      "title": "Sydney FC vs Melbourne Victory (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Melbourne Victory",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Melbourne Victory",
-      "startTime": "02:05:00 PM 07-03-2026"
-    },
-    {
-      "id": 140805,
-      "event_category": "Football",
-      "title": "India Women vs Japan Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140805_5979_INDW_JPN-W_fc-Web_1772191702174.jpg",
-      "team_1": "India Women",
-      "team_2": "Japan Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "India Women vs Japan Women",
-      "startTime": "04:30:00 PM 07-03-2026"
-    },
-    {
       "id": 140612,
       "event_category": "Cricket",
       "title": "Hong Kong Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
@@ -368,6 +290,30 @@
       "event_name": "Women's Premier League T20 2026",
       "match_name": "Craigengower Cricket Club Women vs Diasqua Little Sai Wan Cricket Club Women",
       "startTime": "07:00:00 AM 08-03-2026"
+    },
+    {
+      "id": 140909,
+      "event_category": "Football",
+      "title": "Sydney FC vs Melbourne Victory (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Melbourne Victory",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Melbourne Victory",
+      "startTime": "02:05:00 PM 07-03-2026"
+    },
+    {
+      "id": 140805,
+      "event_category": "Football",
+      "title": "India Women vs Japan Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140805_5979_INDW_JPN-W_fc-Web_1772191702174.jpg",
+      "team_1": "India Women",
+      "team_2": "Japan Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "India Women vs Japan Women",
+      "startTime": "04:30:00 PM 07-03-2026"
     },
     {
       "id": 141043,
@@ -476,6 +422,42 @@
       "event_name": "Arnold Palmer Invitational 2026",
       "match_name": "Main Feed Day 3",
       "startTime": "07:30:00 PM 07-03-2026"
+    },
+    {
+      "id": 140997,
+      "event_category": "Golf",
+      "title": "Featured Group Day 3 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "team_1": "Featured Group Day 3",
+      "team_2": "Orlando, Florida",
+      "status": "UPCOMING",
+      "event_name": "Arnold Palmer Invitational 2026",
+      "match_name": "Featured Group Day 3",
+      "startTime": "08:15:00 PM 07-03-2026"
+    },
+    {
+      "id": 140998,
+      "event_category": "Golf",
+      "title": "Marquee Feed Day 3 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "team_1": "Marquee Feed Day 3",
+      "team_2": "Orlando, Florida",
+      "status": "UPCOMING",
+      "event_name": "Arnold Palmer Invitational 2026",
+      "match_name": "Marquee Feed Day 3",
+      "startTime": "08:30:00 PM 07-03-2026"
+    },
+    {
+      "id": 140999,
+      "event_category": "Golf",
+      "title": "World Feed Day 3 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+      "team_1": "World Feed Day 3",
+      "team_2": "Orlando, Florida",
+      "status": "UPCOMING",
+      "event_name": "Arnold Palmer Invitational 2026",
+      "match_name": "World Feed Day 3",
+      "startTime": "11:00:00 PM 07-03-2026"
     }
   ]
 }
