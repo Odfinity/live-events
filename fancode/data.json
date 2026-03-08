@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "10:05 PM 08-03-2026",
+  "last update time": "10:27 PM 08-03-2026",
   "matches": [
     {
       "id": 140705,
@@ -44,20 +44,6 @@
       "startTime": "10:00:00 PM 08-03-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140555_english_hls_ef1e1826f194073_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140555_english_hls_ef1e1826f194073_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 141045,
-      "event_category": "Football",
-      "title": "Rangers vs Celtic (Scottish Cup 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
-      "team_1": "Rangers",
-      "team_2": "Celtic",
-      "status": "LIVE",
-      "event_name": "Scottish Cup 2025-26",
-      "match_name": "Rangers vs Celtic",
-      "startTime": "06:30:00 PM 08-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141045_english_hls_83d81a827644068_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141045_english_hls_83d81a827644068_1ta-di_h264/index.m3u8"
     },
     {
       "id": 141000,
@@ -116,6 +102,20 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141003_english_hls_547cc7be7a19936_1ta-di_h264/index.m3u8"
     },
     {
+      "id": 131092,
+      "event_category": "Football",
+      "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131092_5427_SEV_RVL_FC-Web.png",
+      "team_1": "Sevilla FC",
+      "team_2": "Rayo Vallecano",
+      "status": "LIVE",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Sevilla FC vs Rayo Vallecano",
+      "startTime": "11:00:00 PM 08-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131092_english_hls_08a7ca576019683_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131092_english_hls_08a7ca576019683_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": 140706,
       "event_category": "Cricket",
       "title": "Mexico vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
@@ -126,18 +126,6 @@
       "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
       "match_name": "Mexico vs Suriname",
       "startTime": "01:00:00 AM 09-03-2026"
-    },
-    {
-      "id": 131092,
-      "event_category": "Football",
-      "title": "Sevilla FC vs Rayo Vallecano (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131092_5427_SEV_RVL_FC-Web.png",
-      "team_1": "Sevilla FC",
-      "team_2": "Rayo Vallecano",
-      "status": "UPCOMING",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Sevilla FC vs Rayo Vallecano",
-      "startTime": "11:00:00 PM 08-03-2026"
     },
     {
       "id": 131097,
@@ -200,6 +188,18 @@
       "startTime": "07:30:00 PM 09-03-2026"
     },
     {
+      "id": 140707,
+      "event_category": "Cricket",
+      "title": "Argentina vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140707_5971_ARG_SRN_fc-Web.jpg",
+      "team_1": "Argentina",
+      "team_2": "Suriname",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+      "match_name": "Argentina vs Suriname",
+      "startTime": "08:00:00 PM 09-03-2026"
+    },
+    {
       "id": 140808,
       "event_category": "Football",
       "title": "DPR Korea Women vs China PR Women (AFC Women's Asian Cup, 2026)",
@@ -224,16 +224,16 @@
       "startTime": "02:30:00 PM 09-03-2026"
     },
     {
-      "id": 140707,
+      "id": 140708,
       "event_category": "Cricket",
-      "title": "Argentina vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140707_5971_ARG_SRN_fc-Web.jpg",
-      "team_1": "Argentina",
-      "team_2": "Suriname",
+      "title": "Cayman Islands vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140708_5971_CAY_MEX_fc-Web.jpg",
+      "team_1": "Cayman Islands",
+      "team_2": "Mexico",
       "status": "UPCOMING",
       "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Argentina vs Suriname",
-      "startTime": "08:00:00 PM 09-03-2026"
+      "match_name": "Cayman Islands vs Mexico",
+      "startTime": "01:00:00 AM 10-03-2026"
     },
     {
       "id": 141018,
@@ -318,18 +318,6 @@
       "event_name": "ATP Masters BNP Paribas Open 2026",
       "match_name": "D Court Feed",
       "startTime": "01:30:00 AM 09-03-2026"
-    },
-    {
-      "id": 140708,
-      "event_category": "Cricket",
-      "title": "Cayman Islands vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140708_5971_CAY_MEX_fc-Web.jpg",
-      "team_1": "Cayman Islands",
-      "team_2": "Mexico",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Cayman Islands vs Mexico",
-      "startTime": "01:00:00 AM 10-03-2026"
     },
     {
       "id": 131096,
@@ -462,6 +450,18 @@
       "event_name": "ICC CWC League 2, 2023-27",
       "match_name": "Nepal vs Oman",
       "startTime": "09:15:00 AM 10-03-2026"
+    },
+    {
+      "id": 141261,
+      "event_category": "Cricket",
+      "title": "VTCA Nagpur vs NCC Odisha (Tillo Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "team_1": "VTCA Nagpur",
+      "team_2": "NCC Odisha",
+      "status": "UPCOMING",
+      "event_name": "Tillo Cup 2026",
+      "match_name": "VTCA Nagpur vs NCC Odisha",
+      "startTime": "09:30:00 AM 10-03-2026"
     }
   ]
 }
