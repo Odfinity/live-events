@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:11 PM 08-03-2026",
+  "last update time": "02:44 PM 08-03-2026",
   "matches": [
     {
       "id": 141300,
@@ -38,10 +38,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140807_5979_IRNW_PHI-W_fc-Web_1772191702166.jpg",
       "team_1": "IR Iran Women",
       "team_2": "Philippines Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Women's Asian Cup, 2026",
       "match_name": "IR Iran Women vs Philippines Women",
-      "startTime": "02:30:00 PM 08-03-2026"
+      "startTime": "02:30:00 PM 08-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140807_english_hls_322aaea57e36990_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140807_english_hls_322aaea57e36990_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140806,
@@ -50,10 +52,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/140806_5979_AUS-W_KOR-W_fc-Web_1772191702169.jpg",
       "team_1": "Australia Women",
       "team_2": "Korea Republic Women",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "AFC Women's Asian Cup, 2026",
       "match_name": "Australia Women vs Korea Republic Women",
-      "startTime": "02:30:00 PM 08-03-2026"
+      "startTime": "02:30:00 PM 08-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140806_english_hls_2388de123442953_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140806_english_hls_2388de123442953_1ta-di_h264/index.m3u8"
     },
     {
       "id": 140705,
@@ -104,18 +108,6 @@
       "startTime": "08:45:00 PM 08-03-2026"
     },
     {
-      "id": 140555,
-      "event_category": "Football",
-      "title": "Queens Park Rangers F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140555_5489_QPR_MIDD_fc-web.jpg",
-      "team_1": "Queens Park Rangers F.C.",
-      "team_2": "Middlesbrough F.C.",
-      "status": "UPCOMING",
-      "event_name": "EFL Championship 2025-26",
-      "match_name": "Queens Park Rangers F.C. vs Middlesbrough F.C.",
-      "startTime": "10:00:00 PM 08-03-2026"
-    },
-    {
       "id": 140706,
       "event_category": "Cricket",
       "title": "Mexico vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
@@ -126,6 +118,18 @@
       "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
       "match_name": "Mexico vs Suriname",
       "startTime": "01:00:00 AM 09-03-2026"
+    },
+    {
+      "id": 140555,
+      "event_category": "Football",
+      "title": "Queens Park Rangers F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140555_5489_QPR_MIDD_fc-web.jpg",
+      "team_1": "Queens Park Rangers F.C.",
+      "team_2": "Middlesbrough F.C.",
+      "status": "UPCOMING",
+      "event_name": "EFL Championship 2025-26",
+      "match_name": "Queens Park Rangers F.C. vs Middlesbrough F.C.",
+      "startTime": "10:00:00 PM 08-03-2026"
     },
     {
       "id": 131092,
@@ -152,6 +156,18 @@
       "startTime": "01:30:00 AM 09-03-2026"
     },
     {
+      "id": 141259,
+      "event_category": "Cricket",
+      "title": "A&S Kolkata vs Lightning Legends (Tillo Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "team_1": "A&S Kolkata",
+      "team_2": "Lightning Legends",
+      "status": "UPCOMING",
+      "event_name": "Tillo Cup 2026",
+      "match_name": "A&S Kolkata vs Lightning Legends",
+      "startTime": "09:30:00 AM 09-03-2026"
+    },
+    {
       "id": 140558,
       "event_category": "Football",
       "title": "AFC Wimbledon vs Northampton Town FC (League One 2025-26)",
@@ -176,18 +192,6 @@
       "startTime": "06:30:00 PM 08-03-2026"
     },
     {
-      "id": 141259,
-      "event_category": "Cricket",
-      "title": "A&S Kolkata vs Lightning Legends (Tillo Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-      "team_1": "A&S Kolkata",
-      "team_2": "Lightning Legends",
-      "status": "UPCOMING",
-      "event_name": "Tillo Cup 2026",
-      "match_name": "A&S Kolkata vs Lightning Legends",
-      "startTime": "09:30:00 AM 09-03-2026"
-    },
-    {
       "id": 140827,
       "event_category": "Football",
       "title": "Deportivo La Coruna vs Granada (LALIGA Hypermotion 2025-26)",
@@ -210,6 +214,30 @@
       "event_name": "Tillo Cup 2026",
       "match_name": "Nexage Hyderabad vs JP Sports Noida",
       "startTime": "01:30:00 PM 09-03-2026"
+    },
+    {
+      "id": 140808,
+      "event_category": "Football",
+      "title": "DPR Korea Women vs China PR Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140808_5979_NK-W_CHN-W_fc-Web_1772191702175.jpg",
+      "team_1": "DPR Korea Women",
+      "team_2": "China PR Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "DPR Korea Women vs China PR Women",
+      "startTime": "02:30:00 PM 09-03-2026"
+    },
+    {
+      "id": 140809,
+      "event_category": "Football",
+      "title": "Bangladesh Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140809_5979_BDW_UB-W_fc-Web_1772191702984.jpg",
+      "team_1": "Bangladesh Women",
+      "team_2": "Uzbekistan Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Bangladesh Women vs Uzbekistan Women",
+      "startTime": "02:30:00 PM 09-03-2026"
     },
     {
       "id": 141000,
@@ -258,30 +286,6 @@
       "event_name": "Arnold Palmer Invitational 2026",
       "match_name": "World Feed Day 4",
       "startTime": "10:00:00 PM 08-03-2026"
-    },
-    {
-      "id": 140808,
-      "event_category": "Football",
-      "title": "DPR Korea Women vs China PR Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140808_5979_NK-W_CHN-W_fc-Web_1772191702175.jpg",
-      "team_1": "DPR Korea Women",
-      "team_2": "China PR Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "DPR Korea Women vs China PR Women",
-      "startTime": "02:30:00 PM 09-03-2026"
-    },
-    {
-      "id": 140809,
-      "event_category": "Football",
-      "title": "Bangladesh Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140809_5979_BDW_UB-W_fc-Web_1772191702984.jpg",
-      "team_1": "Bangladesh Women",
-      "team_2": "Uzbekistan Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Bangladesh Women vs Uzbekistan Women",
-      "startTime": "02:30:00 PM 09-03-2026"
     },
     {
       "id": 141018,
