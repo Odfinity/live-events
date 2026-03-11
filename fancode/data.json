@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "12:59 PM 11-03-2026",
+  "last update time": "01:33 PM 11-03-2026",
   "matches": [
+    {
+      "id": 141406,
+      "event_category": "Cricket",
+      "title": "Pakistan vs Bangladesh (Pakistan tour of Bangladesh, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
+      "team_1": "Pakistan",
+      "team_2": "Bangladesh",
+      "status": "LIVE",
+      "event_name": "Pakistan tour of Bangladesh, 2026",
+      "match_name": "Pakistan vs Bangladesh",
+      "startTime": "01:45:00 PM 11-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/index.m3u8"
+    },
     {
       "id": 133949,
       "event_category": "Cricket",
@@ -60,16 +74,18 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141188_english_hls_bda5fb236338500_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 141406,
+      "id": 141264,
       "event_category": "Cricket",
-      "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
-      "team_1": "Bangladesh",
-      "team_2": "Pakistan",
-      "status": "UPCOMING",
-      "event_name": "Pakistan tour of Bangladesh, 2026",
-      "match_name": "Bangladesh vs Pakistan",
-      "startTime": "01:45:00 PM 11-03-2026"
+      "title": "CAG Delhi vs NCC Odisha (Tillo Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+      "team_1": "CAG Delhi",
+      "team_2": "NCC Odisha",
+      "status": "LIVE",
+      "event_name": "Tillo Cup 2026",
+      "match_name": "CAG Delhi vs NCC Odisha",
+      "startTime": "01:30:00 PM 11-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141264_english_hls_c58cd066a148302_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141264_english_hls_c58cd066a148302_1ta-di_h264/index.m3u8"
     },
     {
       "id": 141305,
@@ -82,18 +98,6 @@
       "event_name": "Legends League Cricket, 2026",
       "match_name": "Mumbai Spartans vs India Captains",
       "startTime": "06:30:00 PM 11-03-2026"
-    },
-    {
-      "id": 141264,
-      "event_category": "Cricket",
-      "title": "CAG Delhi vs NCC Odisha (Tillo Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-      "team_1": "CAG Delhi",
-      "team_2": "NCC Odisha",
-      "status": "UPCOMING",
-      "event_name": "Tillo Cup 2026",
-      "match_name": "CAG Delhi vs NCC Odisha",
-      "startTime": "01:30:00 PM 11-03-2026"
     },
     {
       "id": 141189,
