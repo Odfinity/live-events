@@ -1,6 +1,39 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:20 PM 13-03-2026",
-  "matches": []
+  "last update time": "07:27 PM 13-03-2026",
+  "matches": [
+    {
+      "id": "sl1090506363",
+      "isLive": true,
+      "event": "Indian Football League 2026",
+      "match": "Aizawl FC vs Real Kashmir FC - 13 Mar 2026",
+      "Provider": "AA ADVISORY",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016149/1773401317072628_IFC_Aizawl_FC-vs-Real_Kashmir_FC_landscape_thumb.jpg",
+      "genre": "Football",
+      "language": "en",
+      "venue": "Rajiv Gandhi Stadium, Aizawl",
+      "TVchannel": "Sony Sports Ten 2",
+      "SeoTags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand,sports_adsupported,nopreroll_livectv,IFL_Live26,Aizawl FC vs Real Kashmir FC,IndianFootballLeague2026",
+      "Server1": "https://cricdynasty.vercel.app/sliv/s1/1090506363.m3u8",
+      "Server2": "https://cricdynasty.vercel.app/sliv/s2/1090506363.m3u8",
+      "Server3": "https://cricdynasty.vercel.app/sliv/s3/1090506363.m3u8",
+      "sus": "hdntl=exp=1773495723~acl=%2f*~id=26328159958890766051691691037900~data=hdntl,2105080,DAI24ME-V3,none~hmac=1b4d58a64b2fb5ac899b4305c0e51c8763ec78fab641934f02d90fb8cf27febd",
+      "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+      "id": "sl1090506243",
+      "isLive": false,
+      "event": "South Africa Tour of New Zealand 2026",
+      "match": "Upcoming: South Africa Tour of New Zealand 2026",
+      "Provider": "N/A",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016094/1773295097538631_NZvsWI25_1stT20i_DDT_landscape_thumb.jpg",
+      "genre": "Cricket",
+      "language": "ENG",
+      "venue": "N/A",
+      "TVchannel": "Sony Sports Ten 5",
+      "SeoTags": "South Africa tour of New Zealand 2026,NZ vs SA T20I series 2026,New Zealand vs South Africa 5 match T20I series,SA vs NZ cricket 2026,South Africa New Zealand T20 cricket schedule,NZ vs SA 2026 fixtures,Tom Latham,Mitchell Santner,Devon Conway,Lockie Ferguson,Kyle Jamieson,Cole McConchie,Jimmy Neesham,Ben Sears,Ish Sodhi,Katene Clarke,Nick Kelly,Jayden Lennox,Josh Clarkson,Zak Foulkes,Bevon Jacobs,Tim Robinson,Dane Cleaver,Keshav Maharaj,Ottneil Baartman,Eathan Bosch,Gerald Coetzee,Tony de Zorzi,Connor Esterhuizen,Dian Forrester,Jordan Hermann,Rubin Hermann,George Linde,Nqobani Mokoena,Andile Simelane,Lutho Sipamla,Prenelan Subrayen,Jason Smith",
+      "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/42c6cd7a025b4cb98509d8fef63f0baf/1773242461/baseline-std-v4/PROMO_MENS_NEW_ZEALAND_VS_SOUTH_AFRICA_eng_baseline-800300010.mpd"
+    }
+  ]
 }
