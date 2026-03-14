@@ -1,8 +1,20 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:24 AM 14-03-2026",
+  "last update time": "12:24 PM 14-03-2026",
   "matches": [
+    {
+      "id": 139378,
+      "event_category": "Formula 1",
+      "title": "Qualifying vs China (F1 HEINEKEN CHINESE GRAND PRIX 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "team_1": "Qualifying",
+      "team_2": "China",
+      "status": "UPCOMING",
+      "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_name": "Qualifying",
+      "startTime": "12:30:00 PM 14-03-2026"
+    },
     {
       "id": 141303,
       "event_category": "Cricket",
@@ -88,20 +100,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134041_english_hls_327851520335187_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140913,
-      "event_category": "Football",
-      "title": "Central Coast Mariners vs Adelaide United (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
-      "team_1": "Central Coast Mariners",
-      "team_2": "Adelaide United",
-      "status": "LIVE",
-      "event_name": "A League 2025-26",
-      "match_name": "Central Coast Mariners vs Adelaide United",
-      "startTime": "09:30:00 AM 14-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 140813,
       "event_category": "Football",
       "title": "China PR Women vs Chinese Taipei Women (AFC Women's Asian Cup, 2026)",
@@ -130,34 +128,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140914_english_hls_d9d852076e86869_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 140789,
-      "event_category": "Golf",
-      "title": "Day 3 vs Koonyonga Club (Women's Australian Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png",
-      "team_1": "Day 3",
-      "team_2": "Koonyonga Club",
-      "status": "LIVE",
-      "event_name": "Women's Australian Open 2026",
-      "match_name": "Day 3",
-      "startTime": "06:30:00 AM 14-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140789_english_hls_4514efdaa965392_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140789_english_hls_4514efdaa965392_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 139679,
-      "event_category": "Motorsports",
-      "title": "Race 1 vs China (F1 ACADEMY CHINA 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
-      "team_1": "Race 1",
-      "team_2": "China",
-      "status": "LIVE",
-      "event_name": "F1 ACADEMY CHINA 2026",
-      "match_name": "Race 1",
-      "startTime": "11:15:00 AM 14-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139679_english_hls_cd118a76e958579_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139679_english_hls_cd118a76e958579_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": 141308,
       "event_category": "Cricket",
       "title": "Mumbai Spartans vs India Tigers (Legends League Cricket, 2026)",
@@ -168,18 +138,6 @@
       "event_name": "Legends League Cricket, 2026",
       "match_name": "Mumbai Spartans vs India Tigers",
       "startTime": "07:30:00 PM 14-03-2026"
-    },
-    {
-      "id": 141066,
-      "event_category": "Cricket",
-      "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-      "team_1": "New Zealand Women",
-      "team_2": "South Africa Women",
-      "status": "UPCOMING",
-      "event_name": "South Africa Women's tour of New Zealand, 2026",
-      "match_name": "New Zealand Women vs South Africa Women",
-      "startTime": "07:15:00 AM 15-03-2026"
     },
     {
       "id": 141197,
@@ -204,6 +162,18 @@
       "event_name": "Tillo Cup 2026",
       "match_name": "A&S Kolkata vs CAG Delhi",
       "startTime": "01:00:00 PM 14-03-2026"
+    },
+    {
+      "id": 141066,
+      "event_category": "Cricket",
+      "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+      "team_1": "New Zealand Women",
+      "team_2": "South Africa Women",
+      "status": "UPCOMING",
+      "event_name": "South Africa Women's tour of New Zealand, 2026",
+      "match_name": "New Zealand Women vs South Africa Women",
+      "startTime": "07:15:00 AM 15-03-2026"
     },
     {
       "id": 141361,
@@ -422,18 +392,6 @@
       "startTime": "11:45:00 AM 15-03-2026"
     },
     {
-      "id": 140814,
-      "event_category": "Football",
-      "title": "Korea Republic Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
-      "team_1": "Korea Republic Women",
-      "team_2": "Uzbekistan Women",
-      "status": "UPCOMING",
-      "event_name": "AFC Women's Asian Cup, 2026",
-      "match_name": "Korea Republic Women vs Uzbekistan Women",
-      "startTime": "02:30:00 PM 14-03-2026"
-    },
-    {
       "id": 140613,
       "event_category": "Cricket",
       "title": "Hong Kong Cricket Club Women vs Craigengower Cricket Club Women (Women's Premier League T20 2026)",
@@ -444,6 +402,18 @@
       "event_name": "Women's Premier League T20 2026",
       "match_name": "Hong Kong Cricket Club Women vs Craigengower Cricket Club Women",
       "startTime": "07:00:00 AM 15-03-2026"
+    },
+    {
+      "id": 140814,
+      "event_category": "Football",
+      "title": "Korea Republic Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
+      "team_1": "Korea Republic Women",
+      "team_2": "Uzbekistan Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Korea Republic Women vs Uzbekistan Women",
+      "startTime": "02:30:00 PM 14-03-2026"
     },
     {
       "id": 141220,
@@ -468,6 +438,42 @@
       "event_name": "Ayodhya Premier League",
       "match_name": "Chambal Chargers vs Hindon Titans",
       "startTime": "09:00:00 AM 15-03-2026"
+    },
+    {
+      "id": 141408,
+      "event_category": "Cricket",
+      "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
+      "team_1": "Bangladesh",
+      "team_2": "Pakistan",
+      "status": "UPCOMING",
+      "event_name": "Pakistan tour of Bangladesh, 2026",
+      "match_name": "Bangladesh vs Pakistan",
+      "startTime": "01:45:00 PM 15-03-2026"
+    },
+    {
+      "id": 141199,
+      "event_category": "Cricket",
+      "title": "Gujarat Tigers vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Gujarat Tigers",
+      "team_2": "Tamil Nadu Titans",
+      "status": "UPCOMING",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Gujarat Tigers vs Tamil Nadu Titans",
+      "startTime": "10:10:00 AM 15-03-2026"
+    },
+    {
+      "id": 140620,
+      "event_category": "Cricket",
+      "title": "Hong Kong Cricket Club vs Pakistan Association Cricket Club (Premier League T20 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
+      "team_1": "Hong Kong Cricket Club",
+      "team_2": "Pakistan Association Cricket Club",
+      "status": "UPCOMING",
+      "event_name": "Premier League T20 2026",
+      "match_name": "Hong Kong Cricket Club vs Pakistan Association Cricket Club",
+      "startTime": "11:00:00 AM 15-03-2026"
     }
   ]
 }
