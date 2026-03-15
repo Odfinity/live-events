@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:02 PM 15-03-2026",
+  "last update time": "11:27 PM 15-03-2026",
   "matches": [
-    {
-      "id": 141309,
-      "event_category": "Cricket",
-      "title": "Royal Riders Punjab vs Konark Suryas Odisha (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg",
-      "team_1": "Royal Riders Punjab",
-      "team_2": "Konark Suryas Odisha",
-      "status": "LIVE",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Royal Riders Punjab vs Konark Suryas Odisha",
-      "startTime": "07:30:00 PM 15-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141309_english_hls_8213e64c3a5573_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141309_english_hls_8213e64c3a5573_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": 140715,
-      "event_category": "Cricket",
-      "title": "Mexico vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg",
-      "team_1": "Mexico",
-      "team_2": "Suriname",
-      "status": "LIVE",
-      "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-      "match_name": "Mexico vs Suriname",
-      "startTime": "08:00:00 PM 15-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140715_english_hls_0e3839b81c99066_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 131107,
       "event_category": "Football",
@@ -426,6 +398,30 @@
       "event_name": "A League 2025-26",
       "match_name": "Sydney FC vs Melbourne City",
       "startTime": "01:30:00 PM 17-03-2026"
+    },
+    {
+      "id": 141207,
+      "event_category": "Cricket",
+      "title": "Bengal Royals vs Chennai Warlords (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Bengal Royals",
+      "team_2": "Chennai Warlords",
+      "status": "UPCOMING",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Bengal Royals vs Chennai Warlords",
+      "startTime": "03:10:00 PM 17-03-2026"
+    },
+    {
+      "id": 140816,
+      "event_category": "Football",
+      "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
+      "team_1": "China PR Women",
+      "team_2": "Australia Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "China PR Women vs Australia Women",
+      "startTime": "03:00:00 PM 17-03-2026"
     }
   ]
 }
