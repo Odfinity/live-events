@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "02:10 PM 16-03-2026",
+  "last update time": "03:18 PM 16-03-2026",
   "matches": [
-    {
-      "id": 141304,
-      "event_category": "Cricket",
-      "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "team_1": "Malaysia",
-      "team_2": "Bahrain",
-      "status": "LIVE",
-      "event_name": "Bahrain tour of Malaysia, 2026",
-      "match_name": "Malaysia vs Bahrain",
-      "startTime": "07:00:00 AM 16-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141304_english_hls_5e1348cb9317549_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141304_english_hls_5e1348cb9317549_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 141365,
       "event_category": "Cricket",
@@ -30,6 +16,20 @@
       "startTime": "01:30:00 PM 16-03-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141365_english_hls_bd542257ce16067_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141365_english_hls_bd542257ce16067_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 141204,
+      "event_category": "Cricket",
+      "title": "Punjab Lions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Punjab Lions",
+      "team_2": "Tamil Nadu Titans",
+      "status": "LIVE",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Punjab Lions vs Tamil Nadu Titans",
+      "startTime": "03:10:00 PM 16-03-2026",
+      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141204_english_hls_23a7ff3fad10401_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141204_english_hls_23a7ff3fad10401_1ta-di_h264/index.m3u8"
     },
     {
       "id": 141310,
@@ -54,18 +54,6 @@
       "event_name": "South Africa Women's tour of New Zealand, 2026",
       "match_name": "New Zealand Women vs South Africa Women",
       "startTime": "07:15:00 AM 17-03-2026"
-    },
-    {
-      "id": 141204,
-      "event_category": "Cricket",
-      "title": "Punjab Lions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Punjab Lions",
-      "team_2": "Tamil Nadu Titans",
-      "status": "UPCOMING",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Punjab Lions vs Tamil Nadu Titans",
-      "startTime": "03:10:00 PM 16-03-2026"
     },
     {
       "id": 141062,
@@ -116,6 +104,18 @@
       "startTime": "01:30:00 AM 17-03-2026"
     },
     {
+      "id": 141312,
+      "event_category": "Cricket",
+      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
+      "team_1": "Mumbai Spartans",
+      "team_2": "Konark Suryas Odisha",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
+      "startTime": "02:30:00 PM 17-03-2026"
+    },
+    {
       "id": 134043,
       "event_category": "Cricket",
       "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -150,18 +150,6 @@
       "event_name": "Sheffield Shield, 2025-26",
       "match_name": "New South Wales vs Western Australia",
       "startTime": "05:00:00 AM 14-03-2026"
-    },
-    {
-      "id": 141312,
-      "event_category": "Cricket",
-      "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
-      "team_1": "Mumbai Spartans",
-      "team_2": "Konark Suryas Odisha",
-      "status": "UPCOMING",
-      "event_name": "Legends League Cricket, 2026",
-      "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
-      "startTime": "02:30:00 PM 17-03-2026"
     },
     {
       "id": 141366,
@@ -236,18 +224,6 @@
       "startTime": "03:10:00 PM 17-03-2026"
     },
     {
-      "id": 140916,
-      "event_category": "Football",
-      "title": "Sydney FC vs Melbourne City (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Melbourne City",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Melbourne City",
-      "startTime": "01:30:00 PM 17-03-2026"
-    },
-    {
       "id": 141311,
       "event_category": "Cricket",
       "title": "Royal Riders Punjab vs Southern Super Stars (Legends League Cricket, 2026)",
@@ -258,6 +234,18 @@
       "event_name": "Legends League Cricket, 2026",
       "match_name": "Royal Riders Punjab vs Southern Super Stars",
       "startTime": "07:30:00 PM 17-03-2026"
+    },
+    {
+      "id": 140916,
+      "event_category": "Football",
+      "title": "Sydney FC vs Melbourne City (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Melbourne City",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Melbourne City",
+      "startTime": "01:30:00 PM 17-03-2026"
     },
     {
       "id": 140816,
@@ -402,6 +390,30 @@
       "event_name": "AFC Women's Asian Cup, 2026",
       "match_name": "Korea Republic Women vs Japan Women",
       "startTime": "02:00:00 PM 18-03-2026"
+    },
+    {
+      "id": 141313,
+      "event_category": "Cricket",
+      "title": "India Captains vs India Tigers (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg",
+      "team_1": "India Captains",
+      "team_2": "India Tigers",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "India Captains vs India Tigers",
+      "startTime": "07:30:00 PM 18-03-2026"
+    },
+    {
+      "id": 141035,
+      "event_category": "Tennis",
+      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "ATP Miami Open 2026",
+      "team_2": "Miami, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "ATP Miami Open 2026",
+      "startTime": "05:30:00 PM 18-03-2026"
     }
   ]
 }
