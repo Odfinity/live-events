@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:01 PM 17-03-2026",
+  "last update time": "04:01 PM 17-03-2026",
   "matches": [
-    {
-      "id": 141062,
-      "event_category": "Cricket",
-      "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
-      "team_1": "New Zealand",
-      "team_2": "South Africa",
-      "status": "LIVE",
-      "event_name": "South Africa tour of New Zealand, 2026",
-      "match_name": "New Zealand vs South Africa",
-      "startTime": "11:45:00 AM 17-03-2026",
-      "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
-      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/master.m3u8?hdnea=exp=1773770946~acl=/*~id=74083786858051206737013589365506~hmac=e7a1e9d42370042c81ab9751c3b80af7ec9c734b04c68af9d3aa5d29acdba58c"
-    },
-    {
-      "id": 141206,
-      "event_category": "Cricket",
-      "title": "Bengal Royals vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Bengal Royals",
-      "team_2": "Tamil Nadu Titans",
-      "status": "LIVE",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Bengal Royals vs Tamil Nadu Titans",
-      "startTime": "12:45:00 PM 17-03-2026",
-      "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/index.m3u8",
-      "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/index.m3u8"
-    },
     {
       "id": 141367,
       "event_category": "Cricket",
@@ -44,6 +16,20 @@
       "startTime": "01:30:00 PM 17-03-2026",
       "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 141207,
+      "event_category": "Cricket",
+      "title": "Bengal Royals vs Chennai Warlords (Thunderbolt T10 League 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "team_1": "Bengal Royals",
+      "team_2": "Chennai Warlords",
+      "status": "LIVE",
+      "event_name": "Thunderbolt T10 League 2026",
+      "match_name": "Bengal Royals vs Chennai Warlords",
+      "startTime": "03:10:00 PM 17-03-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 140916,
@@ -86,18 +72,6 @@
       "startTime": "07:30:00 PM 17-03-2026"
     },
     {
-      "id": 141207,
-      "event_category": "Cricket",
-      "title": "Bengal Royals vs Chennai Warlords (Thunderbolt T10 League 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "team_1": "Bengal Royals",
-      "team_2": "Chennai Warlords",
-      "status": "UPCOMING",
-      "event_name": "Thunderbolt T10 League 2026",
-      "match_name": "Bengal Royals vs Chennai Warlords",
-      "startTime": "03:10:00 PM 17-03-2026"
-    },
-    {
       "id": 141368,
       "event_category": "Cricket",
       "title": "Saryu Smashers vs Chambal Chargers (Ayodhya Premier League)",
@@ -134,18 +108,6 @@
       "startTime": "01:30:00 AM 18-03-2026"
     },
     {
-      "id": 141101,
-      "event_category": "Football",
-      "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
-      "team_1": "Alajuelense",
-      "team_2": "Los Angeles Football Club",
-      "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Alajuelense vs Los Angeles Football Club",
-      "startTime": "06:30:00 AM 18-03-2026"
-    },
-    {
       "id": 141209,
       "event_category": "Cricket",
       "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
@@ -158,16 +120,16 @@
       "startTime": "12:45:00 PM 18-03-2026"
     },
     {
-      "id": 141102,
+      "id": 141101,
       "event_category": "Football",
-      "title": "Cruz Azul vs Monterrey (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
-      "team_1": "Cruz Azul",
-      "team_2": "Monterrey",
+      "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
+      "team_1": "Alajuelense",
+      "team_2": "Los Angeles Football Club",
       "status": "UPCOMING",
       "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Cruz Azul vs Monterrey",
-      "startTime": "08:30:00 AM 18-03-2026"
+      "match_name": "Alajuelense vs Los Angeles Football Club",
+      "startTime": "06:30:00 AM 18-03-2026"
     },
     {
       "id": 141369,
@@ -180,6 +142,18 @@
       "event_name": "Ayodhya Premier League",
       "match_name": "Manorama Marvels vs Gomti Thunder",
       "startTime": "01:30:00 PM 18-03-2026"
+    },
+    {
+      "id": 141102,
+      "event_category": "Football",
+      "title": "Cruz Azul vs Monterrey (CONCACAF Champions Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
+      "team_1": "Cruz Azul",
+      "team_2": "Monterrey",
+      "status": "UPCOMING",
+      "event_name": "CONCACAF Champions Cup 2026",
+      "match_name": "Cruz Azul vs Monterrey",
+      "startTime": "08:30:00 AM 18-03-2026"
     },
     {
       "id": 141210,
@@ -197,7 +171,7 @@
       "id": 141313,
       "event_category": "Cricket",
       "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
-      "src": "https://images.fancode.com/aig/match/v1773729395604/141313_CASACARDS_APP.png",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Konark-Suryas-Odisha-vs-India-Tigers_web.jpg",
       "team_1": "Konark Suryas Odisha",
       "team_2": "India Tigers",
       "status": "UPCOMING",
@@ -432,6 +406,18 @@
       "event_name": "Ayodhya Premier League",
       "match_name": "Ganga Warriors vs Yamuna Super Kings",
       "startTime": "09:00:00 AM 19-03-2026"
+    },
+    {
+      "id": 140818,
+      "event_category": "Football",
+      "title": "Uzbekistan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Uzbekistan Women",
+      "team_2": "Philippines Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Asian Cup, 2026",
+      "match_name": "Uzbekistan Women vs Philippines Women",
+      "startTime": "08:00:00 AM 19-03-2026"
     }
   ]
 }
