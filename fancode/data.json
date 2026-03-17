@@ -1,8 +1,22 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "06:24 AM 17-03-2026",
+  "last update time": "09:04 AM 17-03-2026",
   "matches": [
+    {
+      "id": 141067,
+      "event_category": "Cricket",
+      "title": "South Africa Women vs New Zealand Women (South Africa Women's tour of New Zealand, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+      "team_1": "South Africa Women",
+      "team_2": "New Zealand Women",
+      "status": "LIVE",
+      "event_name": "South Africa Women's tour of New Zealand, 2026",
+      "match_name": "South Africa Women vs New Zealand Women",
+      "startTime": "07:15:00 AM 17-03-2026",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/master.m3u8?hdnea=exp=1773754535~acl=/*~id=41476566364828194924572692160562~hmac=45f71a10c9f32a9d6b49ede6e7aafc6cfa92552ae4fc5af197ab93187f524601"
+    },
     {
       "id": 134043,
       "event_category": "Cricket",
@@ -46,18 +60,6 @@
       "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134041_english_hls_327851520331139_1ta-di_h264/index.m3u8"
     },
     {
-      "id": 141067,
-      "event_category": "Cricket",
-      "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-      "team_1": "New Zealand Women",
-      "team_2": "South Africa Women",
-      "status": "UPCOMING",
-      "event_name": "South Africa Women's tour of New Zealand, 2026",
-      "match_name": "New Zealand Women vs South Africa Women",
-      "startTime": "07:15:00 AM 17-03-2026"
-    },
-    {
       "id": 141062,
       "event_category": "Cricket",
       "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
@@ -82,18 +84,6 @@
       "startTime": "07:30:00 PM 17-03-2026"
     },
     {
-      "id": 141366,
-      "event_category": "Cricket",
-      "title": "Manorama Marvels vs Hindon Titans (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141366_6007_MM_HT_FC-Web.jpg",
-      "team_1": "Manorama Marvels",
-      "team_2": "Hindon Titans",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Manorama Marvels vs Hindon Titans",
-      "startTime": "09:00:00 AM 17-03-2026"
-    },
-    {
       "id": 141205,
       "event_category": "Cricket",
       "title": "Delhi Champions vs Chennai Warlords (Thunderbolt T10 League 2026)",
@@ -116,18 +106,6 @@
       "event_name": "Thunderbolt T10 League 2026",
       "match_name": "Bengal Royals vs Tamil Nadu Titans",
       "startTime": "12:45:00 PM 17-03-2026"
-    },
-    {
-      "id": 141367,
-      "event_category": "Cricket",
-      "title": "Betwa Blasters vs Yamuna Super Kings (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
-      "team_1": "Betwa Blasters",
-      "team_2": "Yamuna Super Kings",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Betwa Blasters vs Yamuna Super Kings",
-      "startTime": "01:30:00 PM 17-03-2026"
     },
     {
       "id": 141207,
@@ -190,18 +168,6 @@
       "startTime": "01:30:00 AM 18-03-2026"
     },
     {
-      "id": 141368,
-      "event_category": "Cricket",
-      "title": "Saryu Smashers vs Chambal Chargers (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg",
-      "team_1": "Saryu Smashers",
-      "team_2": "Chambal Chargers",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Saryu Smashers vs Chambal Chargers",
-      "startTime": "09:00:00 AM 18-03-2026"
-    },
-    {
       "id": 141101,
       "event_category": "Football",
       "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
@@ -238,18 +204,6 @@
       "startTime": "08:30:00 AM 18-03-2026"
     },
     {
-      "id": 139178,
-      "event_category": "Golf",
-      "title": "Atlanta vs Los Angeles vs Florida (TGL Season 2)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-      "team_1": "Atlanta vs Los Angeles",
-      "team_2": "Florida",
-      "status": "UPCOMING",
-      "event_name": "TGL Season 2",
-      "match_name": "Atlanta vs Los Angeles",
-      "startTime": "04:00:00 AM 18-03-2026"
-    },
-    {
       "id": 141209,
       "event_category": "Cricket",
       "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
@@ -262,6 +216,18 @@
       "startTime": "12:45:00 PM 18-03-2026"
     },
     {
+      "id": 139178,
+      "event_category": "Golf",
+      "title": "Atlanta vs Los Angeles vs Florida (TGL Season 2)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+      "team_1": "Atlanta vs Los Angeles",
+      "team_2": "Florida",
+      "status": "UPCOMING",
+      "event_name": "TGL Season 2",
+      "match_name": "Atlanta vs Los Angeles",
+      "startTime": "04:00:00 AM 18-03-2026"
+    },
+    {
       "id": 139179,
       "event_category": "Golf",
       "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
@@ -272,18 +238,6 @@
       "event_name": "TGL Season 2",
       "match_name": "Jupiter vs Boston",
       "startTime": "06:30:00 AM 18-03-2026"
-    },
-    {
-      "id": 141369,
-      "event_category": "Cricket",
-      "title": "Manorama Marvels vs Gomti Thunder (Ayodhya Premier League)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg",
-      "team_1": "Manorama Marvels",
-      "team_2": "Gomti Thunder",
-      "status": "UPCOMING",
-      "event_name": "Ayodhya Premier League",
-      "match_name": "Manorama Marvels vs Gomti Thunder",
-      "startTime": "01:30:00 PM 18-03-2026"
     },
     {
       "id": 141210,
@@ -322,30 +276,6 @@
       "startTime": "07:30:00 PM 18-03-2026"
     },
     {
-      "id": 141035,
-      "event_category": "Tennis",
-      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "team_1": "ATP Miami Open 2026",
-      "team_2": "Miami, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters Miami Open 2026",
-      "match_name": "ATP Miami Open 2026",
-      "startTime": "05:30:00 PM 18-03-2026"
-    },
-    {
-      "id": 141034,
-      "event_category": "Tennis",
-      "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "team_1": "ATP Miami Open 2026",
-      "team_2": "Miami, United States",
-      "status": "UPCOMING",
-      "event_name": "ATP Masters Miami Open 2026",
-      "match_name": "ATP Miami Open 2026",
-      "startTime": "05:30:00 PM 18-03-2026"
-    },
-    {
       "id": 140948,
       "event_category": "Football",
       "title": "Al-Kholood Club vs Al-Ittihad (Saudi Kings Cup 2025-2026)",
@@ -382,6 +312,30 @@
       "startTime": "12:30:00 AM 19-03-2026"
     },
     {
+      "id": 141035,
+      "event_category": "Tennis",
+      "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "A Court Feed",
+      "team_2": "Miami, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "A Court Feed",
+      "startTime": "08:30:00 PM 18-03-2026"
+    },
+    {
+      "id": 141034,
+      "event_category": "Tennis",
+      "title": "World Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "World Feed",
+      "team_2": "Miami, United States",
+      "status": "UPCOMING",
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "World Feed",
+      "startTime": "08:30:00 PM 18-03-2026"
+    },
+    {
       "id": 141442,
       "event_category": "Football",
       "title": "West Ham United Women vs Manchester United Women (Women's Super League 2025-26)",
@@ -406,28 +360,28 @@
       "startTime": "01:30:00 AM 19-03-2026"
     },
     {
-      "id": 141103,
-      "event_category": "Football",
-      "title": "Inter Miami CF vs Nashville SC (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
-      "team_1": "Inter Miami CF",
-      "team_2": "Nashville SC",
+      "id": 141455,
+      "event_category": "Tennis",
+      "title": "G Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "G Court Feed",
+      "team_2": "Miami, United States",
       "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Inter Miami CF vs Nashville SC",
-      "startTime": "04:30:00 AM 19-03-2026"
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "G Court Feed",
+      "startTime": "08:30:00 PM 18-03-2026"
     },
     {
-      "id": 141104,
-      "event_category": "Football",
-      "title": "Club América vs Philadelphia Union (CONCACAF Champions Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png",
-      "team_1": "Club América",
-      "team_2": "Philadelphia Union",
+      "id": 141454,
+      "event_category": "Tennis",
+      "title": "F Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "team_1": "F Court Feed",
+      "team_2": "Miami, United States",
       "status": "UPCOMING",
-      "event_name": "CONCACAF Champions Cup 2026",
-      "match_name": "Club América vs Philadelphia Union",
-      "startTime": "06:30:00 AM 19-03-2026"
+      "event_name": "ATP Masters Miami Open 2026",
+      "match_name": "F Court Feed",
+      "startTime": "08:30:00 PM 18-03-2026"
     }
   ]
 }
