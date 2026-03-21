@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "01:28 AM 22-03-2026",
+  "last update time": "02:07 AM 22-03-2026",
   "matches": [
     {
       "id": 131118,
@@ -14,20 +14,6 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Sevilla FC vs Valencia CF",
       "startTime": "01:30:00 AM 22-03-2026",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 141409,
-      "event_category": "Football",
-      "title": "Cádiz vs Málaga (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_APP.png",
-      "team_1": "Cádiz",
-      "team_2": "Málaga",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Cádiz vs Málaga",
-      "startTime": "11:00:00 PM 21-03-2026",
       "dai_url": null,
       "adfree_url": null
     },
@@ -210,20 +196,6 @@
       "event_name": "ATP Masters Miami Open 2026",
       "match_name": "C Court Feed",
       "startTime": "12:00:00 AM 22-03-2026",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 131117,
-      "event_category": "Football",
-      "title": "Levante vs Real Oviedo (LALIGA 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png",
-      "team_1": "Levante",
-      "team_2": "Real Oviedo",
-      "status": "LIVE",
-      "event_name": "LALIGA 2025-26",
-      "match_name": "Levante vs Real Oviedo",
-      "startTime": "11:00:00 PM 21-03-2026",
       "dai_url": null,
       "adfree_url": null
     },
@@ -420,18 +392,6 @@
       "startTime": "08:15:00 PM 22-03-2026"
     },
     {
-      "id": 140921,
-      "event_category": "Football",
-      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
-      "team_1": "Sydney FC",
-      "team_2": "Newcastle Jets",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Sydney FC vs Newcastle Jets",
-      "startTime": "09:30:00 AM 22-03-2026"
-    },
-    {
       "id": 131119,
       "event_category": "Football",
       "title": "RC Celta vs Deportivo Alaves (LALIGA 2025-26)",
@@ -442,6 +402,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "RC Celta vs Deportivo Alaves",
       "startTime": "08:45:00 PM 22-03-2026"
+    },
+    {
+      "id": 140921,
+      "event_category": "Football",
+      "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140921_5802_SYD_NJ_fc-web.jpg",
+      "team_1": "Sydney FC",
+      "team_2": "Newcastle Jets",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Sydney FC vs Newcastle Jets",
+      "startTime": "09:30:00 AM 22-03-2026"
     },
     {
       "id": 140922,
@@ -477,6 +449,30 @@
       "status": "UPCOMING",
       "event_name": "LALIGA 2025-26",
       "match_name": "Athletic Club vs Real Betis",
+      "startTime": "11:00:00 PM 22-03-2026"
+    },
+    {
+      "id": 131110,
+      "event_category": "Football",
+      "title": "Real Madrid vs Atletico de Madrid (LALIGA 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/131110_5427_RM_ATL_FC-Web.png",
+      "team_1": "Real Madrid",
+      "team_2": "Atletico de Madrid",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Real Madrid vs Atletico de Madrid",
+      "startTime": "01:30:00 AM 23-03-2026"
+    },
+    {
+      "id": 141411,
+      "event_category": "Football",
+      "title": "Las Palmas vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1773431102733/141411_CASACARDS_APP.png",
+      "team_1": "Las Palmas",
+      "team_2": "Sporting de Gijón",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Sporting de Gijón",
       "startTime": "11:00:00 PM 22-03-2026"
     }
   ]
