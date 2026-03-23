@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:19 AM 24-03-2026",
+  "last update time": "03:49 AM 24-03-2026",
   "matches": [
-    {
-      "id": 141412,
-      "event_category": "Football",
-      "title": "Castellón vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1773431102712/141412_CASACARDS_APP.png",
-      "team_1": "Castellón",
-      "team_2": "Cultural Leonesa",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Castellón vs Cultural Leonesa",
-      "startTime": "01:00:00 AM 24-03-2026",
-      "dai_url": null,
-      "adfree_url": null
-    },
     {
       "id": 141048,
       "event_category": "Tennis",
@@ -472,6 +458,18 @@
       "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
       "match_name": "Saint Helena vs Seychelles",
       "startTime": "03:00:00 PM 25-03-2026"
+    },
+    {
+      "id": 141312,
+      "event_category": "Cricket",
+      "title": "Mumbai Spartans vs Southern Super Stars (Legends League Cricket, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_SSS_FC-Web.jpg",
+      "team_1": "Mumbai Spartans",
+      "team_2": "Southern Super Stars",
+      "status": "UPCOMING",
+      "event_name": "Legends League Cricket, 2026",
+      "match_name": "Mumbai Spartans vs Southern Super Stars",
+      "startTime": "07:30:00 PM 25-03-2026"
     }
   ]
 }
