@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:18 AM 26-03-2026",
+  "last update time": "12:23 PM 26-03-2026",
   "matches": [
     {
       "id": 141349,
@@ -32,30 +32,30 @@
       "adfree_url": null
     },
     {
-      "id": 134044,
-      "event_category": "Cricket",
-      "title": "Victoria vs South Australia (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "team_1": "Victoria",
-      "team_2": "South Australia",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "Victoria vs South Australia",
-      "startTime": "05:00:00 AM 26-03-2026",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
       "id": 141350,
       "event_category": "Cricket",
       "title": "Ahmedabad Lions vs Jaipur Royals (Actors Cricket Bash 2026)",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/141348_6005_ALA_JR_fc-Web.jpg",
       "team_1": "Ahmedabad Lions",
       "team_2": "Jaipur Royals",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "Actors Cricket Bash 2026",
       "match_name": "Ahmedabad Lions vs Jaipur Royals",
-      "startTime": "11:45:00 AM 26-03-2026"
+      "startTime": "11:45:00 AM 26-03-2026",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 134044,
+      "event_category": "Cricket",
+      "title": "Victoria vs South Australia (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
+      "team_1": "Victoria",
+      "team_2": "South Australia",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "Victoria vs South Australia",
+      "startTime": "05:00:00 AM 26-03-2026"
     },
     {
       "id": 141384,
@@ -106,6 +106,42 @@
       "startTime": "12:00:00 PM 27-03-2026"
     },
     {
+      "id": 141352,
+      "event_category": "Cricket",
+      "title": "TBC vs TBC (Actors Cricket Bash 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
+      "team_1": "TBC",
+      "team_2": "TBC",
+      "status": "UPCOMING",
+      "event_name": "Actors Cricket Bash 2026",
+      "match_name": "TBC vs TBC",
+      "startTime": "02:15:00 PM 27-03-2026"
+    },
+    {
+      "id": 140980,
+      "event_category": "Cricket",
+      "title": "Malawi vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Malawi-vs-Eswatini_1774006033082.png",
+      "team_1": "Malawi",
+      "team_2": "Eswatini",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_name": "Malawi vs Eswatini",
+      "startTime": "03:00:00 PM 27-03-2026"
+    },
+    {
+      "id": 140979,
+      "event_category": "Cricket",
+      "title": "Ghana vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/08_Ghana-vs-Saint-Helena_1774006032283.png",
+      "team_1": "Ghana",
+      "team_2": "Saint Helena",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_name": "Ghana vs Saint Helena",
+      "startTime": "03:00:00 PM 27-03-2026"
+    },
+    {
       "id": 141587,
       "event_category": "Golf",
       "title": "Marquee Group - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
@@ -154,18 +190,6 @@
       "startTime": "07:00:00 PM 26-03-2026"
     },
     {
-      "id": 141352,
-      "event_category": "Cricket",
-      "title": "TBC vs TBC (Actors Cricket Bash 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
-      "team_1": "TBC",
-      "team_2": "TBC",
-      "status": "UPCOMING",
-      "event_name": "Actors Cricket Bash 2026",
-      "match_name": "TBC vs TBC",
-      "startTime": "02:15:00 PM 27-03-2026"
-    },
-    {
       "id": 141054,
       "event_category": "Tennis",
       "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
@@ -212,30 +236,6 @@
       "event_name": "Texas Children's Houston Open 2026",
       "match_name": "World Feed - Day 1",
       "startTime": "01:30:00 AM 27-03-2026"
-    },
-    {
-      "id": 140980,
-      "event_category": "Cricket",
-      "title": "Malawi vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Malawi-vs-Eswatini_1774006033082.png",
-      "team_1": "Malawi",
-      "team_2": "Eswatini",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-      "match_name": "Malawi vs Eswatini",
-      "startTime": "03:00:00 PM 27-03-2026"
-    },
-    {
-      "id": 140979,
-      "event_category": "Cricket",
-      "title": "Ghana vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/08_Ghana-vs-Saint-Helena_1774006032283.png",
-      "team_1": "Ghana",
-      "team_2": "Saint Helena",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-      "match_name": "Ghana vs Saint Helena",
-      "startTime": "03:00:00 PM 27-03-2026"
     },
     {
       "id": 139380,
@@ -349,7 +349,7 @@
       "id": 141605,
       "event_category": "Football",
       "title": "Algeria vs Guatemala (International Friendlies 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria_vs_Guatemala_FC-WEB.jpg",
       "team_1": "Algeria",
       "team_2": "Guatemala",
       "status": "UPCOMING",
