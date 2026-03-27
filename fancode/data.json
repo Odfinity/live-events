@@ -1,36 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "11:47 AM 27-03-2026",
+  "last update time": "01:07 PM 27-03-2026",
   "matches": [
-    {
-      "id": 134044,
-      "event_category": "Cricket",
-      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-      "team_1": "South Australia",
-      "team_2": "Victoria",
-      "status": "LIVE",
-      "event_name": "Sheffield Shield, 2025-26",
-      "match_name": "South Australia vs Victoria",
-      "startTime": "04:30:00 AM 26-03-2026",
-      "dai_url": null,
-      "adfree_url": null
-    },
-    {
-      "id": 139381,
-      "event_category": "Formula 1",
-      "title": "Practice 2 vs Japan (F1 ARAMCO JAPANESE GRAND PRIX 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Japanese-Grand-Prix_fc-web_1774421494775.jpg",
-      "team_1": "Practice 2",
-      "team_2": "Japan",
-      "status": "LIVE",
-      "event_name": "F1 ARAMCO JAPANESE GRAND PRIX 2026",
-      "match_name": "Practice 2",
-      "startTime": "11:30:00 AM 27-03-2026",
-      "dai_url": null,
-      "adfree_url": null
-    },
     {
       "id": 141331,
       "event_category": "Cricket",
@@ -116,6 +88,18 @@
       "startTime": "01:00:00 AM 28-03-2026"
     },
     {
+      "id": 134044,
+      "event_category": "Cricket",
+      "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
+      "team_1": "South Australia",
+      "team_2": "Victoria",
+      "status": "PAUSED",
+      "event_name": "Sheffield Shield, 2025-26",
+      "match_name": "South Australia vs Victoria",
+      "startTime": "04:30:00 AM 26-03-2026"
+    },
+    {
       "id": 141489,
       "event_category": "Football",
       "title": "Córdoba vs Mirandés (LALIGA Hypermotion 2025-26)",
@@ -138,6 +122,30 @@
       "event_name": "AFC Women's Champions League 2025-26",
       "match_name": "Tokyo Verdy Beleza vs Stallion Laguna",
       "startTime": "10:30:00 AM 28-03-2026"
+    },
+    {
+      "id": 140982,
+      "event_category": "Cricket",
+      "title": "Tanzania vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/10_Tanzania-vs-Saint-Helena_1774006032291.png",
+      "team_1": "Tanzania",
+      "team_2": "Saint Helena",
+      "status": "UPCOMING",
+      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+      "match_name": "Tanzania vs Saint Helena",
+      "startTime": "03:00:00 PM 28-03-2026"
+    },
+    {
+      "id": 141653,
+      "event_category": "Cricket",
+      "title": "Namibia A vs Scotland (Scotland tour of Namibia A, 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "team_1": "Namibia A",
+      "team_2": "Scotland",
+      "status": "UPCOMING",
+      "event_name": "Scotland tour of Namibia A, 2026",
+      "match_name": "Namibia A vs Scotland",
+      "startTime": "01:00:00 PM 28-03-2026"
     },
     {
       "id": 141592,
@@ -200,6 +208,18 @@
       "startTime": "07:30:00 PM 27-03-2026"
     },
     {
+      "id": 141216,
+      "event_category": "Football",
+      "title": "Naegohyang Women's FC vs Ho Chi Minh City Women (AFC Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "team_1": "Naegohyang Women's FC",
+      "team_2": "Ho Chi Minh City Women",
+      "status": "UPCOMING",
+      "event_name": "AFC Women's Champions League 2025-26",
+      "match_name": "Naegohyang Women's FC vs Ho Chi Minh City Women",
+      "startTime": "01:30:00 PM 28-03-2026"
+    },
+    {
       "id": 141056,
       "event_category": "Tennis",
       "title": "ATP Miami Open 2026 vs Miami, United States (ATP Masters Miami Open 2026)",
@@ -222,18 +242,6 @@
       "event_name": "ATP Masters Miami Open 2026",
       "match_name": "ATP Miami Open 2026",
       "startTime": "10:30:00 PM 27-03-2026"
-    },
-    {
-      "id": 140982,
-      "event_category": "Cricket",
-      "title": "Tanzania vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/10_Tanzania-vs-Saint-Helena_1774006032291.png",
-      "team_1": "Tanzania",
-      "team_2": "Saint Helena",
-      "status": "UPCOMING",
-      "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-      "match_name": "Tanzania vs Saint Helena",
-      "startTime": "03:00:00 PM 28-03-2026"
     },
     {
       "id": 141486,
@@ -272,16 +280,16 @@
       "startTime": "01:30:00 AM 28-03-2026"
     },
     {
-      "id": 141216,
+      "id": 141162,
       "event_category": "Football",
-      "title": "Naegohyang Women's FC vs Ho Chi Minh City Women (AFC Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "team_1": "Naegohyang Women's FC",
-      "team_2": "Ho Chi Minh City Women",
+      "title": "Everton Women vs Liverpool Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141162_5826_EVE-W_LIV-W_FC-Web.jpg",
+      "team_1": "Everton Women",
+      "team_2": "Liverpool Women",
       "status": "UPCOMING",
-      "event_name": "AFC Women's Champions League 2025-26",
-      "match_name": "Naegohyang Women's FC vs Ho Chi Minh City Women",
-      "startTime": "01:30:00 PM 28-03-2026"
+      "event_name": "Women's Super League 2025-26",
+      "match_name": "Everton Women vs Liverpool Women",
+      "startTime": "05:30:00 PM 28-03-2026"
     },
     {
       "id": 139382,
@@ -308,16 +316,16 @@
       "startTime": "08:45:00 AM 28-03-2026"
     },
     {
-      "id": 141162,
+      "id": 141163,
       "event_category": "Football",
-      "title": "Everton Women vs Liverpool Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141162_5826_EVE-W_LIV-W_FC-Web.jpg",
-      "team_1": "Everton Women",
-      "team_2": "Liverpool Women",
+      "title": "Manchester United Women vs Manchester City Women (Women's Super League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141163_5826_MUN-W_MCI-W_FC-Web.jpg",
+      "team_1": "Manchester United Women",
+      "team_2": "Manchester City Women",
       "status": "UPCOMING",
       "event_name": "Women's Super League 2025-26",
-      "match_name": "Everton Women vs Liverpool Women",
-      "startTime": "05:30:00 PM 28-03-2026"
+      "match_name": "Manchester United Women vs Manchester City Women",
+      "startTime": "07:00:00 PM 28-03-2026"
     },
     {
       "id": 139383,
@@ -330,18 +338,6 @@
       "event_name": "F1 ARAMCO JAPANESE GRAND PRIX 2026",
       "match_name": "Qualifying",
       "startTime": "11:30:00 AM 28-03-2026"
-    },
-    {
-      "id": 141163,
-      "event_category": "Football",
-      "title": "Manchester United Women vs Manchester City Women (Women's Super League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141163_5826_MUN-W_MCI-W_FC-Web.jpg",
-      "team_1": "Manchester United Women",
-      "team_2": "Manchester City Women",
-      "status": "UPCOMING",
-      "event_name": "Women's Super League 2025-26",
-      "match_name": "Manchester United Women vs Manchester City Women",
-      "startTime": "07:00:00 PM 28-03-2026"
     },
     {
       "id": 140984,
