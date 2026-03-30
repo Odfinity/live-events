@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:47 PM 30-03-2026",
+  "last update time": "05:37 PM 30-03-2026",
   "matches": [
     {
       "id": 141286,
@@ -24,10 +24,12 @@
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png",
       "team_1": "A Court Feed",
       "team_2": "Marrakech, Morocco",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "event_name": "ATP 250 - Grand Prix Hassan ll 2026",
       "match_name": "A Court Feed",
-      "startTime": "05:00:00 PM 30-03-2026"
+      "startTime": "05:00:00 PM 30-03-2026",
+      "dai_url": null,
+      "adfree_url": null
     },
     {
       "id": 141682,
@@ -448,6 +450,18 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Barcelona Women vs Real Madrid Women",
       "startTime": "10:15:00 PM 02-04-2026"
+    },
+    {
+      "id": 141495,
+      "event_category": "Football",
+      "title": "Las Palmas vs Granada (LALIGA Hypermotion 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1774680543069/141495_CASACARDS_APP.png",
+      "team_1": "Las Palmas",
+      "team_2": "Granada",
+      "status": "UPCOMING",
+      "event_name": "LALIGA Hypermotion 2025-26",
+      "match_name": "Las Palmas vs Granada",
+      "startTime": "10:30:00 PM 02-04-2026"
     }
   ]
 }
