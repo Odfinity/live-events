@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "04:46 AM 01-04-2026",
+  "last update time": "05:22 AM 01-04-2026",
   "matches": [
     {
       "id": 141072,
@@ -14,6 +14,20 @@
       "event_name": "South Africa Women's tour of New Zealand, 2026",
       "match_name": "South Africa Women vs New Zealand Women",
       "startTime": "03:30:00 AM 01-04-2026",
+      "dai_url": null,
+      "adfree_url": null
+    },
+    {
+      "id": 141608,
+      "event_category": "Football",
+      "title": "Brazil vs Croatia (International Friendlies 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_vs_Croatia_International_Friendlies_WEB.jpg",
+      "team_1": "Brazil",
+      "team_2": "Croatia",
+      "status": "LIVE",
+      "event_name": "International Friendlies 2026",
+      "match_name": "Brazil vs Croatia",
+      "startTime": "05:30:00 AM 01-04-2026",
       "dai_url": null,
       "adfree_url": null
     },
@@ -32,18 +46,6 @@
       "adfree_url": null
     },
     {
-      "id": 141608,
-      "event_category": "Football",
-      "title": "Brazil vs Croatia (International Friendlies 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_vs_Croatia_International_Friendlies_WEB.jpg",
-      "team_1": "Brazil",
-      "team_2": "Croatia",
-      "status": "UPCOMING",
-      "event_name": "International Friendlies 2026",
-      "match_name": "Brazil vs Croatia",
-      "startTime": "05:30:00 AM 01-04-2026"
-    },
-    {
       "id": 140963,
       "event_category": "Football",
       "title": "Bayern Munich Women vs Manchester United Women (UEFA Women's Champions League 2025-26)",
@@ -56,18 +58,6 @@
       "startTime": "10:15:00 PM 01-04-2026"
     },
     {
-      "id": 141611,
-      "event_category": "Football",
-      "title": "China PR U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141611_6021_CHN-U20_VIE-U20_FC-Web.png",
-      "team_1": "China PR U20",
-      "team_2": "Vietnam U20",
-      "status": "UPCOMING",
-      "event_name": "AFC U20 Women's Asian Cup 2026",
-      "match_name": "China PR U20 vs Vietnam U20",
-      "startTime": "02:30:00 PM 01-04-2026"
-    },
-    {
       "id": 140964,
       "event_category": "Football",
       "title": "Chelsea F.C. Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
@@ -78,6 +68,18 @@
       "event_name": "UEFA Women's Champions League 2025-26",
       "match_name": "Chelsea F.C. Women vs Arsenal Women",
       "startTime": "12:30:00 AM 02-04-2026"
+    },
+    {
+      "id": 141611,
+      "event_category": "Football",
+      "title": "China PR U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141611_6021_CHN-U20_VIE-U20_FC-Web.png",
+      "team_1": "China PR U20",
+      "team_2": "Vietnam U20",
+      "status": "UPCOMING",
+      "event_name": "AFC U20 Women's Asian Cup 2026",
+      "match_name": "China PR U20 vs Vietnam U20",
+      "startTime": "02:30:00 PM 01-04-2026"
     },
     {
       "id": 141612,
