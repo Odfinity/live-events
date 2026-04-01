@@ -1,22 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "03:23 AM 02-04-2026",
+  "last update time": "04:12 AM 02-04-2026",
   "matches": [
-    {
-      "id": 141494,
-      "event_category": "Football",
-      "title": "Racing Club vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-      "src": "https://images.fancode.com/aig/match/v1774680543050/141494_CASACARDS_APP.png",
-      "team_1": "Racing Club",
-      "team_2": "Sporting de Gijón",
-      "status": "LIVE",
-      "event_name": "LALIGA Hypermotion 2025-26",
-      "match_name": "Racing Club vs Sporting de Gijón",
-      "startTime": "01:00:00 AM 02-04-2026",
-      "dai_url": null,
-      "adfree_url": null
-    },
     {
       "id": 141079,
       "event_category": "Tennis",
@@ -128,6 +114,18 @@
       "startTime": "03:30:00 PM 02-04-2026"
     },
     {
+      "id": 140966,
+      "event_category": "Football",
+      "title": "Lyon Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140966_5720_OLY-W_WOL-W_fc-web.jpg",
+      "team_1": "Lyon Women",
+      "team_2": "VfL Wolfsburg Women",
+      "status": "UPCOMING",
+      "event_name": "UEFA Women's Champions League 2025-26",
+      "match_name": "Lyon Women vs VfL Wolfsburg Women",
+      "startTime": "12:30:00 AM 03-04-2026"
+    },
+    {
       "id": 141616,
       "event_category": "Football",
       "title": "Japan U20 vs India U20 (AFC U20 Women's Asian Cup 2026)",
@@ -150,18 +148,6 @@
       "event_name": "AFC U20 Women's Asian Cup 2026",
       "match_name": "DPR Korea U20 vs Jordan U20",
       "startTime": "06:30:00 PM 02-04-2026"
-    },
-    {
-      "id": 140966,
-      "event_category": "Football",
-      "title": "Lyon Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140966_5720_OLY-W_WOL-W_fc-web.jpg",
-      "team_1": "Lyon Women",
-      "team_2": "VfL Wolfsburg Women",
-      "status": "UPCOMING",
-      "event_name": "UEFA Women's Champions League 2025-26",
-      "match_name": "Lyon Women vs VfL Wolfsburg Women",
-      "startTime": "12:30:00 AM 03-04-2026"
     },
     {
       "id": 141495,
@@ -224,6 +210,18 @@
       "startTime": "02:30:00 PM 02-04-2026"
     },
     {
+      "id": 141772,
+      "event_category": "Cricket",
+      "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
+      "team_1": "Malaysia A",
+      "team_2": "Hong Kong, China-A",
+      "status": "UPCOMING",
+      "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
+      "match_name": "Malaysia A vs Hong Kong, China-A",
+      "startTime": "07:30:00 AM 03-04-2026"
+    },
+    {
       "id": 141777,
       "event_category": "Golf",
       "title": "Main Feed - Day 1 vs San Antonio, Texas (Valero Texas Open 2026)",
@@ -272,18 +270,6 @@
       "startTime": "06:45:00 PM 02-04-2026"
     },
     {
-      "id": 141772,
-      "event_category": "Cricket",
-      "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-      "team_1": "Malaysia A",
-      "team_2": "Hong Kong, China-A",
-      "status": "UPCOMING",
-      "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
-      "match_name": "Malaysia A vs Hong Kong, China-A",
-      "startTime": "07:30:00 AM 03-04-2026"
-    },
-    {
       "id": 141081,
       "event_category": "Tennis",
       "title": "Fayez Sarofim & Co. U.S. Men's Clay - Day 4 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
@@ -308,18 +294,6 @@
       "startTime": "01:30:00 AM 03-04-2026"
     },
     {
-      "id": 141636,
-      "event_category": "Golf",
-      "title": "Day 1 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-      "team_1": "Day 1",
-      "team_2": "Shadow Creek Golf Club",
-      "status": "UPCOMING",
-      "event_name": "Aramco Championship USA 2026",
-      "match_name": "Day 1",
-      "startTime": "03:30:00 AM 03-04-2026"
-    },
-    {
       "id": 140925,
       "event_category": "Football",
       "title": "Adelaide United vs Auckland (A League 2025-26)",
@@ -330,6 +304,18 @@
       "event_name": "A League 2025-26",
       "match_name": "Adelaide United vs Auckland",
       "startTime": "02:05:00 PM 03-04-2026"
+    },
+    {
+      "id": 141636,
+      "event_category": "Golf",
+      "title": "Day 1 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+      "team_1": "Day 1",
+      "team_2": "Shadow Creek Golf Club",
+      "status": "UPCOMING",
+      "event_name": "Aramco Championship USA 2026",
+      "match_name": "Day 1",
+      "startTime": "03:30:00 AM 03-04-2026"
     },
     {
       "id": 141428,
@@ -474,6 +460,18 @@
       "event_name": "Roshn Saudi League 2025-2026",
       "match_name": "Al-Nassr FC vs Al-Najmah SC",
       "startTime": "11:30:00 PM 03-04-2026"
+    },
+    {
+      "id": 131121,
+      "event_category": "Football",
+      "title": "Rayo Vallecano vs Elche CF (LALIGA 2025-26)",
+      "src": "https://images.fancode.com/aig/match/v1/131121_CASACARDS_APP.png",
+      "team_1": "Rayo Vallecano",
+      "team_2": "Elche CF",
+      "status": "UPCOMING",
+      "event_name": "LALIGA 2025-26",
+      "match_name": "Rayo Vallecano vs Elche CF",
+      "startTime": "12:30:00 AM 04-04-2026"
     }
   ]
 }
