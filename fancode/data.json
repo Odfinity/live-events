@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/CricDynasty",
-  "last update time": "05:20 PM 03-04-2026",
+  "last update time": "06:43 PM 03-04-2026",
   "matches": [
     {
       "id": 141428,
@@ -44,6 +44,62 @@
       "startTime": "03:30:00 PM 03-04-2026",
       "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141281_english_hls_120db2f0fd56654_1ta-di_h264/index.m3u8",
       "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141281_english_hls_120db2f0fd56654_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 141782,
+      "event_category": "Golf",
+      "title": "Main Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "Main Feed - Day 2",
+      "team_2": "San Antonio, Texas",
+      "status": "LIVE",
+      "event_name": "Valero Texas Open 2026",
+      "match_name": "Main Feed - Day 2",
+      "startTime": "06:00:00 PM 03-04-2026",
+      "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141782_english_hls_8c2308b36687728_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141782_english_hls_8c2308b36687728_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 141785,
+      "event_category": "Golf",
+      "title": "Marquee Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "Marquee Feed - Day 2",
+      "team_2": "San Antonio, Texas",
+      "status": "LIVE",
+      "event_name": "Valero Texas Open 2026",
+      "match_name": "Marquee Feed - Day 2",
+      "startTime": "06:30:00 PM 03-04-2026",
+      "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141785_english_hls_7b026b687d23060_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141785_english_hls_7b026b687d23060_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 141783,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "Featured Holes - Day 2",
+      "team_2": "San Antonio, Texas",
+      "status": "LIVE",
+      "event_name": "Valero Texas Open 2026",
+      "match_name": "Featured Holes - Day 2",
+      "startTime": "06:30:00 PM 03-04-2026",
+      "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141783_english_hls_d18c4cb3fe48446_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141783_english_hls_d18c4cb3fe48446_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": 141784,
+      "event_category": "Golf",
+      "title": "Featured Groups - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "Featured Groups - Day 2",
+      "team_2": "San Antonio, Texas",
+      "status": "LIVE",
+      "event_name": "Valero Texas Open 2026",
+      "match_name": "Featured Groups - Day 2",
+      "startTime": "06:45:00 PM 03-04-2026",
+      "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141784_english_hls_c7d627509145135_1ta-di_h264/index.m3u8",
+      "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141784_english_hls_c7d627509145135_1ta-di_h264/index.m3u8"
     },
     {
       "id": 141073,
@@ -154,18 +210,6 @@
       "startTime": "01:00:00 PM 04-04-2026"
     },
     {
-      "id": 141782,
-      "event_category": "Golf",
-      "title": "Main Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "Main Feed - Day 2",
-      "team_2": "San Antonio, Texas",
-      "status": "UPCOMING",
-      "event_name": "Valero Texas Open 2026",
-      "match_name": "Main Feed - Day 2",
-      "startTime": "06:00:00 PM 03-04-2026"
-    },
-    {
       "id": 140926,
       "event_category": "Football",
       "title": "Central Coast Mariners vs Perth Glory (A League 2025-26)",
@@ -202,18 +246,6 @@
       "startTime": "05:00:00 PM 04-04-2026"
     },
     {
-      "id": 140927,
-      "event_category": "Football",
-      "title": "Melbourne City vs Western Sydney Wanderers (A League 2025-26)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg",
-      "team_1": "Melbourne City",
-      "team_2": "Western Sydney Wanderers",
-      "status": "UPCOMING",
-      "event_name": "A League 2025-26",
-      "match_name": "Melbourne City vs Western Sydney Wanderers",
-      "startTime": "02:05:00 PM 04-04-2026"
-    },
-    {
       "id": 131122,
       "event_category": "Football",
       "title": "Real Sociedad vs Levante (LALIGA 2025-26)",
@@ -224,6 +256,18 @@
       "event_name": "LALIGA 2025-26",
       "match_name": "Real Sociedad vs Levante",
       "startTime": "05:30:00 PM 04-04-2026"
+    },
+    {
+      "id": 140927,
+      "event_category": "Football",
+      "title": "Melbourne City vs Western Sydney Wanderers (A League 2025-26)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg",
+      "team_1": "Melbourne City",
+      "team_2": "Western Sydney Wanderers",
+      "status": "UPCOMING",
+      "event_name": "A League 2025-26",
+      "match_name": "Melbourne City vs Western Sydney Wanderers",
+      "startTime": "02:05:00 PM 04-04-2026"
     },
     {
       "id": 141617,
@@ -262,40 +306,16 @@
       "startTime": "07:45:00 PM 04-04-2026"
     },
     {
-      "id": 141785,
-      "event_category": "Golf",
-      "title": "Marquee Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "Marquee Feed - Day 2",
-      "team_2": "San Antonio, Texas",
+      "id": 141618,
+      "event_category": "Football",
+      "title": "Vietnam U20 vs Thailand U20 (AFC U20 Women's Asian Cup 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png",
+      "team_1": "Vietnam U20",
+      "team_2": "Thailand U20",
       "status": "UPCOMING",
-      "event_name": "Valero Texas Open 2026",
-      "match_name": "Marquee Feed - Day 2",
-      "startTime": "06:30:00 PM 03-04-2026"
-    },
-    {
-      "id": 141783,
-      "event_category": "Golf",
-      "title": "Featured Holes - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "Featured Holes - Day 2",
-      "team_2": "San Antonio, Texas",
-      "status": "UPCOMING",
-      "event_name": "Valero Texas Open 2026",
-      "match_name": "Featured Holes - Day 2",
-      "startTime": "06:30:00 PM 03-04-2026"
-    },
-    {
-      "id": 141784,
-      "event_category": "Golf",
-      "title": "Featured Groups - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-      "team_1": "Featured Groups - Day 2",
-      "team_2": "San Antonio, Texas",
-      "status": "UPCOMING",
-      "event_name": "Valero Texas Open 2026",
-      "match_name": "Featured Groups - Day 2",
-      "startTime": "06:45:00 PM 03-04-2026"
+      "event_name": "AFC U20 Women's Asian Cup 2026",
+      "match_name": "Vietnam U20 vs Thailand U20",
+      "startTime": "06:30:00 PM 04-04-2026"
     },
     {
       "id": 141082,
@@ -332,18 +352,6 @@
       "event_name": "Aramco Championship USA 2026",
       "match_name": "Day 2",
       "startTime": "03:30:00 AM 04-04-2026"
-    },
-    {
-      "id": 141618,
-      "event_category": "Football",
-      "title": "Vietnam U20 vs Thailand U20 (AFC U20 Women's Asian Cup 2026)",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png",
-      "team_1": "Vietnam U20",
-      "team_2": "Thailand U20",
-      "status": "UPCOMING",
-      "event_name": "AFC U20 Women's Asian Cup 2026",
-      "match_name": "Vietnam U20 vs Thailand U20",
-      "startTime": "06:30:00 PM 04-04-2026"
     },
     {
       "id": 131125,
@@ -452,6 +460,18 @@
       "event_name": "LALIGA Hypermotion 2025-26",
       "match_name": "Deportivo La Coruna vs Málaga",
       "startTime": "10:00:00 PM 04-04-2026"
+    },
+    {
+      "id": 141790,
+      "event_category": "Golf",
+      "title": "Featured Holes - Day 3 vs San Antonio, Texas (Valero Texas Open 2026)",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
+      "team_1": "Featured Holes - Day 3",
+      "team_2": "San Antonio, Texas",
+      "status": "UPCOMING",
+      "event_name": "Valero Texas Open 2026",
+      "match_name": "Featured Holes - Day 3",
+      "startTime": "08:15:00 PM 04-04-2026"
     }
   ]
 }
